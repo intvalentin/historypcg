@@ -44,10 +44,19 @@
             </div>
         </div>
     </div>
-    
+    <div id="round-notification" class="round-hide round-only-phone">
+        <div class="round-theme round-theme-white round-row round-shadow-default" style="position: absolute; bottom: 50%; text-align: center; width: 95%; left: 2.5%;">
+            <div class="round-col-8">
+              Glisați de la stânga la dreapta pentru a deschide meniul.
+            </div>
+            <div class="round-col-12">
+                <button class="round-button-normal-medium" onclick="closeNotification()">Ok</button>
+            </div>
+        </div>
+    </div>
     <main class="round-hide" style="max-height: 100%">
         <div class="round-hide round-row" id="optionsChart" style="display: none;">
-            <div class="round-theme round-theme-white round-col-3 round-col-phone-6 round-only-pc">
+            <div class="round-theme-white round-theme  round-col-3 round-col-phone-6 round-only-pc">
                 <label for="cars">Tip:</label>
                 <select class="round-theme round-theme-white" name="cars" id="chartType" onchange="changeChartType()">
                   <option value="line" >Linie</option>
@@ -65,8 +74,7 @@
             <canvas class="round-hide" id="myChart"></canvas>
         </div>
         <div id="phone-Data-chart" class="round-only-phone round-theme-white round-theme round-col-12 " style="height: fit-content;">
-              
-                
+            
         </div>
     </div>
 

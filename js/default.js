@@ -13,7 +13,7 @@ function changeChartType(){
     destroyChart();
     renderChart(document.getElementById('year').value,document.getElementById('chartType').value);
 }
-function renderChart(year,chartType) {
+function renderChart(selectedYear,chartType) {
     var phoneDataChart = document.getElementById("phone-Data-chart");
     phoneDataChart.innerHTML = '';
     if (window.screen.availWidth > 600) {
@@ -25,33 +25,34 @@ function renderChart(year,chartType) {
         console.log('Item not found!');
     } else {
         document.getElementById('optionsChart').style.display = "flex";
-        var element = document.getElementById('round-menu-v1');
-        var txtC = getComputedStyle(element);
-        var data = [], currentDayMonth = '', currentDate = [],labels = [];
+        var menu = document.getElementById('round-menu-v1');
+        var txtC = getComputedStyle(menu);
+        var data = [], currentDate = undefined,labels = [];
+        
         Chart.defaults.global.defaultFontColor = '#ffffff';
         Chart.defaults.global.defaultColor = '#ffffff';
         Chart.defaults.global.defaultFontFamily = 'myFirstFont';
+        
         for(var i = 9; i< item.length; i++) {
-            let element = item[i].split(' ');
-            currentDate = element[0].split('/');
-            if (element == '') {
+            let year = getYearOfElement(item[i]);
+            let date = getDateOfElement(item[i]);
+           
+            if (!checkElementExists(item[i])) {
                 break;
             }
-
-            if (currentDayMonth == '') {
-                currentDayMonth = currentDate[1]+'/'+currentDate[0];
-                let label = currentDate[1]+'/'+currentDate[0]+' '+element[1]+' '+element[2];
-                labels.push(label);
-                data.push(parseInt(item[i].split(' ')[3].replace('.','')));
-            }else if (currentDayMonth == currentDate[1]+'/'+currentDate[0] || parseInt(currentDate[2]) < parseInt(year)) {
-                continue;
-            } else if(parseInt(currentDate[2]) > parseInt(year)){
+            if(parseInt(year) > parseInt(selectedYear)){
                 break;
-            } else if(currentDayMonth != currentDate[1]+'/'+currentDate[0]) {
-                let label = currentDate[1]+'/'+currentDate[0]+' '+element[1]+' '+element[2];
-                labels.push(label);
-                 data.push(parseInt(item[i].split(' ')[3]).replace('.',''));
-            } 
+            }
+            if (currentDate == date || parseInt(year) < parseInt(selectedYear)) {
+                continue;
+            }
+
+            let hour = getTimeOfElement(item[i]);
+            let price = getPriceOfElement(item[i]);
+            currentDate = date;
+            let label = date + ' ' + hour;
+            labels.push(label);
+            data.push(price);
         }
         
         var ctx = document.getElementById('myChart').getContext('2d');
@@ -60,7 +61,7 @@ function renderChart(year,chartType) {
             data: {
                 labels: labels,
                 datasets: [{
-                    label: year,
+                    label: selectedYear,
                     data: data,
                     borderColor: 'rgba(255,255,255,1)',
                     backgroundColor: 'rgba(0,0,0,0.4)'
@@ -88,9 +89,25 @@ function renderChart(year,chartType) {
     }
     } else {
         destroyChart();
-        for(var i = 9; i< item.length; i++) {
-            let element = item[i].split(' ');
-            phoneDataChart.insertAdjacentHTML('beforeend', '<div class="round-row round-shadow-default" style="margin-top: 5px;"><div class="round-col-12"><span>'+element[0]+' | '+element[1]+' '+element[2]+'</span></div><div class="round-col-12"><span>'+element[3]+' '+element[4]+'</span></div></div>');
+        currentDate = undefined;
+        for(var i = 9; i < item.length; i++) {
+            let year = getYearOfElement(item[i]);
+            let date = getDateOfElement(item[i]);
+           
+            if (!checkElementExists(item[i])) {
+                break;
+            }
+            if(parseInt(year) > parseInt(selectedYear)){
+                break;
+            }
+            if (currentDate == date || parseInt(year) < parseInt(selectedYear)) {
+                continue;
+            }
+            let fullDate = getFullDateOfElement(item[i]);
+            let hour = getTimeOfElement(item[i]);
+            let price = getPriceOfElement(item[i]);
+            currentDate = date;
+            phoneDataChart.insertAdjacentHTML('beforeend', '<div class="round-row round-shadow-default" style="margin-top: 5px;"><div class="round-col-12"><span>'+fullDate+' | '+hour+'</span></div><div class="round-col-12"><span>'+price+' RON</span></div></div>');
         }
     }
 }
@@ -99,4 +116,43 @@ function destroyChart(){
     if (chart != undefined) {
         chart.destroy();
     }
+}
+
+function checkElementExists(element) {
+    let x = element.split(' ');
+    if (x[0] != undefined && x[1] != undefined && x[2] != undefined) {
+        return true;
+    } else{
+        return false;
+    }
+}
+function getFullDateOfElement(element) {
+    let x = element.split(' ')[0].split('/');
+    x = x[1]+'/'+x[0]+'/'+x[2];
+    return x;
+}
+function getYearOfElement(element) {
+    let x = element.split(' ')[0].split('/')[2];
+    return x;
+}
+function getDateOfElement(element) {
+    let x = element.split(' ')[0].split('/');
+    x = x[1]+'/'+x[0];
+    return x;
+}
+
+function getTimeOfElement(element) {
+    let x = element.split(' ');
+    x = x[1]+' '+x[2];
+    return x;
+}
+
+function getPriceOfElement(element) {
+    let x = element.split(' ')[3].replace('.','');
+    return parseInt(x);
+}
+
+function closeNotification(){
+    var phoneDataChart = document.getElementById("round-notification");
+    phoneDataChart.innerHTML = '';
 }
