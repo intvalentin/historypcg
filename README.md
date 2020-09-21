@@ -1,2 +1,4 @@
 # pricepcg
- Istorie preturi
+ Istorie preturi pcg
+ 
+ https://intvalentin.github.io/pricepcg/
