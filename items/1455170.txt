@@ -1,0 +1,10 @@
+    Cod    
+1455170
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-1700x-34ghz-box/
+    Name    
+AMD Ryzen 7 1700X 3.4GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1416562/1455170/thumbnails/ryzen-7-1800x-4ghz-box-d60d762ea89677562ed1df9d968e15b0.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.647,34 RON

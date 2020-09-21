@@ -1,0 +1,10 @@
+    Cod    
+2039378
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-ssd-geforce-mx350-2gb-no-os-platinum-grey/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 5 14IIL05, FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 16GB DDR4, 1TB SSD, GeForce MX350 2GB, No OS, Platinum Grey
+    Img url    
+https://3.grgs.ro/images/products/1/2034042/2039378/thumbnails/14-ideapad-5-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-ssd-intel-iris-plus-no-os-platinum-grey-40262cf60dc22967c7aa511f152b6bfb.jpg
+    Pret    
+9/20/2020 10:57:01 PM 4.298,99 RON

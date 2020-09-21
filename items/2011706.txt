@@ -1,0 +1,10 @@
+    Cod    
+2011706
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/14-vostro-5490-seria-5000-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-urban-gray-3yr-bos/
+    Name    
+DELL 14&#039;&#039; Vostro 5490 (seria 5000), FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Linux, Urban Gray, 3Yr BOS
+    Img url    
+https://4.grgs.ro/images/products/1/8078/2011706/thumbnails/mwl_i5_10-3c538fe112286734e0cce66f5761670c.jpg
+    Pret    
+9/20/2020 10:58:35 PM 3.398,99 RON

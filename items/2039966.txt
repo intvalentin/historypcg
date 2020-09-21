@@ -1,0 +1,10 @@
+    Cod    
+2039966
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700-29ghz-box/
+    Name    
+Intel Comet Lake, Core i7 10700 2.9GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/2034042/2039966/thumbnails/comet-lake-core-i7-10700-29ghz-box-fd901b5ad8440970ab67e4aed2f21099.jpg
+    Pret    
+9/21/2020 7:34:38 AM 1.639,99 RON

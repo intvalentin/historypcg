@@ -1,0 +1,10 @@
+    Cod    
+1893882
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-3600-36ghz-box/
+    Name    
+AMD Ryzen 5 3600 3.6GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1275/1893882/thumbnails/ryzen-5-3600-36ghz-box-3fa94a0bfb78b4f59a44ad0dd02a2d21.jpg
+    Pret    
+9/21/2020 7:34:36 AM 961,70 RON

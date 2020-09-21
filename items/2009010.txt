@@ -1,0 +1,10 @@
+    Cod    
+2009010
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/thinksystem-sr530-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-1x-750w/
+    Name    
+Lenovo ThinkSystem SR530 Procesor Intel® Xeon® Silver 4210 2.2GHz Skylake, 16GB RAM DDR4 2Rx8 RDIMM, no HDD, 1x 750W
+    Img url    
+https://4.grgs.ro/images/products/1/2003606/2009010/thumbnails/thinksystem-sr530-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-1x-750w-756a2b85d58d8f412fa57a4877248cdd.jpg
+    Pret    
+9/21/2020 12:03:51 AM 7.949,23 RON

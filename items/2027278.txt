@@ -1,0 +1,10 @@
+    Cod    
+2027278
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-x509ja-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-grey/
+    Name    
+ASUS 15.6&#039;&#039; X509JA, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 8GB DDR4, 256GB SSD, GMA UHD, No OS, Grey
+    Img url    
+https://1.grgs.ro/images/products/1/6622/2027278/thumbnails/156-x509ja-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-grey-72f649d1faa4f9139c8d497129a4964e.jpg
+    Pret    
+9/20/2020 10:59:53 PM 2.199,00 RON

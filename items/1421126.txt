@@ -1,0 +1,10 @@
+    Cod    
+1421126
+    Product link    
+https://www.pcgarage.ro/hdd-notebook/seagate/barracuda-guardian-4tb-sata-iii-5400rpm-cache-128mb-15-mm/
+    Name    
+Seagate Barracuda Guardian, 4TB, SATA-III, 5400RPM, cache 128MB, 15 mm
+    Img url    
+https://2.grgs.ro/images/products/1/1175151/1421126/thumbnails/barracuda-guardian-500gb-sata-iii-5400rpm-cache-128mb-7-mm-8fff47e7c376422a293fe656e73e0a8e.jpg
+    Pret    
+9/20/2020 11:11:12 PM 865,98 RON

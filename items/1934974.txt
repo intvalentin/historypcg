@@ -1,0 +1,10 @@
+    Cod    
+1934974
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/apple/imac-215-inch-4k-procesor-intel-core-i5-30ghz-coffee-lake-8gb-1tb-hdd-radeon-pro-560x-4gb-macos/
+    Name    
+Apple iMac 21.5 inch 4K, Procesor Intel® Core™ i5 3.0GHz Coffee Lake, 8GB, 1TB HDD, Radeon Pro 560X 4GB, Camera Web, MacOS
+    Img url    
+https://1.grgs.ro/images/products/1/1774300/1934974/thumbnails/imac-215-inch-4k-procesor-intel-core-i5-34ghz-kaby-lake-8gb-1tb-fusion-driveradeon-pro-560-4gb-mac-os-x-el-capitan-ro-keyboard-0cb49b635966b7fc94f5495f355c14a0.png
+    Pret    
+9/21/2020 12:03:20 AM 8.399,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+829386
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/superserver-5018d-mf-rack-1u-socket-1150-4x-ddr3-dimm-2x-hdd-35-inch/
+    Name    
+Supermicro SuperServer 5018D-MF rack 1U, socket 1150, 4x DDR3 DIMM, 2x HDD 3.5 inch
+    Img url    
+https://3.grgs.ro/images/products/1/722028/829386/thumbnails/superserver-5018d-mf-rack-1u-socket-1150-4x-ddr3-dimm-2x-hdd-35-inch-5bb74dd633b62babad8b38ede5850215.jpg
+    Pret    
+9/21/2020 12:03:56 AM 2.621,16 RON

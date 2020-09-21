@@ -1,0 +1,10 @@
+    Cod    
+2040498
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-linux/
+    Name    
+DELL OptiPlex 3070 MT, Procesor Intel® Core™ i3-9100 3.6GHz Coffee Lake, 8GB RAM, 1TB HDD, UHD 630, Linux
+    Img url    
+https://2.grgs.ro/images/products/1/1261/2040498/thumbnails/optiplex-3070-tower-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro-c1422418d5c0cf6a511fd9872c48c67a.jpg
+    Pret    
+9/21/2020 12:02:03 AM 2.059,98 RON

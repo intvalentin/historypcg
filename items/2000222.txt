@@ -1,0 +1,11 @@
+    Cod    
+2000222
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-tuf-gaming-6gb-gddr6-192-bit/
+    Name    
+ASUS GeForce GTX 1660 SUPER TUF Gaming 6GB GDDR6 192-bit
+    Img url    
+https://4.grgs.ro/images/products/1/8977/2000222/thumbnails/geforce-gtx-1660-super-tuf-gaming-6gb-gddr6-192-bit-c2415fb7e39951d589801d0529a15bc6.jpg
+    Pret    
+9/21/2020 12:06:24 AM 1.220,62 RON
+9/21/2020 7:32:34 AM 1.220,62 RON

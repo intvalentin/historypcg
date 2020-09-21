@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html" ; charset="utf-8" />
+    <meta name="viewport" content="width=device-width" , initial-scale="1.0" />
+    <title>ovalentinionut</title>
+    <link rel="stylesheet" href="./css/default.css">
+    <link rel="stylesheet" href="./css/round.css">
+</head>
+<body class="background-white" id="body" style="height: 100%;">
+    <header>
+    </header>
+      <!--  Menu -->
+      <div id="round-menu-v1" class="round-theme round-theme-white round-menu-v1 round-shadow round-container ">
+        <div class="round-row round-fill">
+            <!-- 1 -->
+            <div class="round-col-12">
+                <div class="round-row">
+                    <div class="round-col-12">
+                        <input type="text" id="search" style="text-align: center;"> 
+                    </div>
+                    <div class="round-col-12">
+                        <button class="round-button-normal-medium" onclick="openItem()">Search</button>
+                    </div>
+                </div>
+            </div>
+            <div class="round-col-12">
+                <a href="#" id="round-theme-button" class="round-theme" style="background: none !important; border: none !important;">
+                    Dark mode
+                </a>
+            </div>
+        </div>
+        <div class="round-row round-fill">
+            <div class="round-col-phone-12 round-col-3 round-left">
+                <a href="https://www.chartjs.org/"  class="round-theme" style="background: none !important; border: none !important;">
+                    Chart.js
+                </a>
+            </div>
+            <div class="round-col-phone-12 round-col-3 round-right">
+                <a href="https://www.pcgarage.ro/" class="round-theme" style="background: none !important; border: none !important;">
+                    Pc Garage
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <main class="round-hide" style="max-height: 100%">
+        <div class="round-hide round-row" id="optionsChart" style="display: none;">
+            <div class="round-theme round-theme-white round-col-3 round-col-phone-6 round-only-pc">
+                <label for="cars">Tip:</label>
+                <select class="round-theme round-theme-white" name="cars" id="chartType" onchange="changeChartType()">
+                  <option value="line" >Linie</option>
+                  <option value="bar">Bare</option>
+                </select>
+            </div>
+            <div class="round-theme round-theme-white round-col-3 round-col-phone-6 ">
+                <label for="cars">An</label>
+                <select class="round-theme round-theme-white" name="cars" id="year">
+                  <option value="2020">2020</option>
+                </select>
+            </div>
+        </div>
+        <div  class="round-row round-right round-left round-only-pc" style="height: fit-content;">
+            <canvas class="round-hide" id="myChart"></canvas>
+        </div>
+        <div id="phone-Data-chart" class="round-only-phone round-theme-white round-theme round-col-12 " style="height: fit-content;">
+              
+                
+        </div>
+    </div>
+
+    </main>
+    <footer></footer>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="./js/default.js"></script>
+    <script src="./js/round.js"></script>
+</body>
+</html>

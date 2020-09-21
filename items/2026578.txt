@@ -1,0 +1,10 @@
+    Cod    
+2026578
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/133-thinkpad-x390-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
+    Name    
+Lenovo 13.3&#039;&#039; ThinkPad X390, FHD IPS, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GMA UHD 620, 4G LTE, Win 10 Pro, Black
+    Img url    
+https://5.grgs.ro/images/products/1/6997/2026578/thumbnails/mwl_i7_8-6aeba4711d02e1a581909fb4ead12688.jpg
+    Pret    
+9/20/2020 10:57:30 PM 8.617,69 RON

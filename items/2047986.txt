@@ -1,0 +1,10 @@
+    Cod    
+2047986
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/v530-procesor-intel-pentium-gold-g5420-38ghz-coffee-lake-4gb-ram-1tb-hdd-uhd-610-freedos/
+    Name    
+Lenovo V530, Procesor Intel® Pentium™ Gold G5420 3.8GHz Coffee Lake, 4GB RAM, 1TB HDD, UHD 610, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/5147/2047986/thumbnails/v530-procesor-intel-core-i5-8400-280ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro-90e8ac7801473d98b594357bbc5023ac.png
+    Pret    
+9/21/2020 12:02:03 AM 1.299,98 RON

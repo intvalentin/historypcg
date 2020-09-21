@@ -1,0 +1,10 @@
+    Cod    
+1861830
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t440-2x-procesor-intel-xeon-silver-4110-21ghz-skylake-2x-16gb-rdimm-120gb-ssd-plus-4x-600gb-sas-10k-lff-35-inch-perc-h330-3yr-nbd/
+    Name    
+DELL PowerEdge T440, 2x Procesor Intel® Xeon® Silver 4110 2.1GHz Skylake, 2x 16GB RDIMM, 120GB SSD + 4x 600GB SAS 10K, LFF 3.5 inch, PERC H330, 3Yr NBD
+    Img url    
+https://5.grgs.ro/images/products/1/1236/1861830/thumbnails/poweredge-t440-2x-procesor-intel-xeon-silver-4110-21ghz-skylake-2x-16gb-rdimm-120gb-ssd-plus-4x-600gb-sas-10k-lff-35-inch-perc-h330-3yr-nbd-f0a03693d97a55aafad991d00011efa7.jpg
+    Pret    
+9/21/2020 12:04:10 AM 20.462,27 RON

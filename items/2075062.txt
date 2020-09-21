@@ -1,0 +1,10 @@
+    Cod    
+2075062
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-ada-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-iron-grey/
+    Name    
+Lenovo 15.6&#039;&#039; V15 ADA, FHD, Procesor AMD Ryzen™ 5 3500U (4M Cache, up to 3.70 GHz), 8GB DDR4, 512GB SSD, Radeon Vega 8, No OS, Iron Grey
+    Img url    
+https://5.grgs.ro/images/products/1/6472/2075062/thumbnails/156-v15-iwl-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx110-2gb-no-os-iron-grey-0451a7b4dbdfae8f279505a9c697f4ec.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.499,00 RON

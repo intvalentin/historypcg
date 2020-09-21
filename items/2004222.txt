@@ -1,0 +1,10 @@
+    Cod    
+2004222
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/western-digital/red-pro-10tb-sata-iii-7200rpm-256mb-1/
+    Name    
+WD Red Pro 10TB SATA-III 7200RPM 256MB
+    Img url    
+https://2.grgs.ro/images/products/1/735074/2004222/thumbnails/red-pro-10tb-sata-iii-7200rpm-256mb-487da1fbb96a558dbb19942a0b72f84b.png
+    Pret    
+9/21/2020 7:45:10 AM 1.736,88 RON

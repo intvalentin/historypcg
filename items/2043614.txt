@@ -1,0 +1,10 @@
+    Cod    
+2043614
+    Product link    
+https://www.pcgarage.ro/ssd/seagate/firecuda-120-4tb-sata-iii-25-inch/
+    Name    
+Seagate FireCuda 120 4TB SATA-III 2.5 inch
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2043614/thumbnails/sg-ssd-500gb-sata-iii-firecuda-120-ec85b4bf098f93488a2753d966f45bb8.jpg
+    Pret    
+9/21/2020 7:44:55 AM 2.843,42 RON

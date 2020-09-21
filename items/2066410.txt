@@ -1,0 +1,10 @@
+    Cod    
+2066410
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t5-procesor-intel-core-i9-10900-28ghz-comet-lake-32gb-ram-512gb-ssd-plus-1tb-hdd-geforce-gtx-2070-super-8gb-freedos/
+    Name    
+Lenovo Gaming Legion T5, Procesor Intel® Core™ i9-10900 2.8GHz Comet Lake, 32GB RAM, 512GB SSD + 1TB HDD, GeForce GTX 2070 SUPER 8GB, FreeDos
+    Img url    
+https://1.grgs.ro/images/products/1/4917/2066410/thumbnails/pc-t5-28imb05-ci5-10400-16gb-512gb-90nc00edri-lenovo-0a2556a121095216a4632b396ca603e5.jpg
+    Pret    
+9/21/2020 12:02:42 AM 9.539,98 RON

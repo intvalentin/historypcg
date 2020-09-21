@@ -1,0 +1,10 @@
+    Cod    
+1711256
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl360-gen10-rack-1u-2x-procesor-intel-xeon-bronze-3104-17ghz-skylake-32gb-rdimm-ddr4-2-x-4tb-hdd-lff-35-inch-smart-array-e208i-a-sr-3yr-nbd/
+    Name    
+HP ProLiant DL360 Gen10 Rack 1U, 2x Procesor Intel® Xeon® Bronze 3104 1.7GHz Skylake, 32GB RDIMM DDR4, 2 x 4TB HDD , LFF 3.5 inch, Smart Array E208i-a SR, 3Yr NBD
+    Img url    
+https://5.grgs.ro/images/products/1/1000151/1711256/thumbnails/proliant-dl360-gen10-rack-1u-procesor-intel-xeon-bronze-17ghz-skylake-16gb-rdimm-ddr4-2-x-300gb-sff-25-inch-mart-array-e208i-a-sr-3yr-nbd-547750e20e37571e061b769071cabc19.jpg
+    Pret    
+9/21/2020 12:04:10 AM 17.305,79 RON

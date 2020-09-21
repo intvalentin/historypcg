@@ -1,0 +1,10 @@
+    Cod    
+1864770
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t330-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-32gb-udimm-ddr4-1tb-hdd-plus-4x-200gb-ssd-plus-2x-300gb-sas-15k-perc-h330-lff-35-inch/
+    Name    
+DELL PowerEdge T330, Procesor Intel® Xeon® E3-1220 v6 3.0GHz Kaby Lake, 32GB UDIMM DDR4, 1TB HDD + 4x 200GB SSD + 2x 300GB SAS 15K, PERC H330, LFF 3.5 inch
+    Img url    
+https://2.grgs.ro/images/products/1/7399/1864770/thumbnails/poweredge-t330-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-32gb-udimm-ddr4-1tb-hdd-plus-4x-200gb-ssd-plus-2x-300gb-sas-15k-perc-h330-lff-35-inch-08dc5ff3c579d7e716d4f4ce7caa18f6.jpg
+    Pret    
+9/21/2020 12:04:10 AM 15.001,53 RON

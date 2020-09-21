@@ -1,0 +1,10 @@
+    Cod    
+1859954
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-hd-procesor-intel-celeron-4205u-2m-cache-180-ghz-4gb-ddr4-1tb-gma-uhd-610-freedos-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, HD, Procesor Intel® Celeron® 4205U (2M Cache, 1.80 GHz), 4GB DDR4, 1TB, GMA UHD 610, FreeDos, Grey
+    Img url    
+https://1.grgs.ro/images/products/1/1236/1859954/thumbnails/mwl_celeron-83783534d16e5d6c49a73967a80898e2.jpg
+    Pret    
+9/20/2020 11:00:45 PM 1.222,47 RON

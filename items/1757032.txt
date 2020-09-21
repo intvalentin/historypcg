@@ -1,0 +1,10 @@
+    Cod    
+1757032
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i7dnh2e-core-i7-8650u-19ghz-2x-ddr4-32gb-max-m2-ssd-hdd-25-inch-hdmi-bulk/
+    Name    
+Intel (NUC) Next Unit of Computing NUC7i7DNH2E, Core i7-8650U 1.9GHz, 2x DDR4 32GB max, M.2 SSD, HDD 2.5 inch, HDMI, Bulk
+    Img url    
+https://1.grgs.ro/images/products/1/3442/1757032/thumbnails/intel-blknuc7i7dnh2e-i7-8650u-ddr4-2400-hdmi-box-593c39d01b90e593079f114a3b34020d.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.499,98 RON

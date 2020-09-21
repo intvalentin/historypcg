@@ -1,0 +1,10 @@
+    Cod    
+1469642
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-1400-32ghz-box/
+    Name    
+AMD Ryzen 5 1400 3.2GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1355434/1469642/thumbnails/ryzen-5-1600-34ghz-box-2ed4a869b99fabf3f82f1d132179438c.jpg
+    Pret    
+9/21/2020 7:35:03 AM 826,43 RON

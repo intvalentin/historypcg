@@ -1,0 +1,10 @@
+    Cod    
+1421338
+    Product link    
+https://www.pcgarage.ro/memorii-server/supermicro/ecc-rdimm-ddr3-16gb-1600mhz-cl11-135v-dual-rank-x4/
+    Name    
+Supermicro ECC RDIMM DDR3 16GB 1600MHz CL11 1.35V Dual Rank x4
+    Img url    
+https://5.grgs.ro/images/products/1/1408706/1421338/thumbnails/ecc-rdimm-ddr3-16gb-1600mhz-cl11-135v-dual-rank-x4-a2cff1f6eb255259c2f10161e9f632c6.jpg
+    Pret    
+9/21/2020 12:04:41 AM 993,37 RON

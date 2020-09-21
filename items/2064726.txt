@@ -1,0 +1,10 @@
+    Cod    
+2064726
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15are05-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-no-os-abyss-blue/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad 3 15ARE05, FHD, Procesor AMD Ryzen™ 5 4500U (8M Cache, up to 4.0 GHz), 8GB DDR4, 256GB SSD, Radeon, No OS, Abyss Blue
+    Img url    
+https://4.grgs.ro/images/products/1/7193/2064726/thumbnails/156-ideapad-3-15are05-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-8gb-ddr4-1tb-plus-128gb-ssd-radeon-no-os-abyss-blue-fd26a11c47a66e73db8502634a06674d.jpg
+    Pret    
+9/20/2020 10:59:58 PM 2.399,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+2066322
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510a-15arr-procesor-amd-ryzen-3-3200g-36ghz-8gb-ram-256gb-ssd-radeon-vega-8-freedos/
+    Name    
+Lenovo IdeaCentre 510A-15ARR, Procesor AMD Ryzen 3 3200G 3.6GHz, 8GB RAM, 256GB SSD, Radeon Vega 8, FreeDOS
+    Img url    
+https://2.grgs.ro/images/products/1/6835/2066322/thumbnails/ideacentre-510a-15icb-procesor-intel-core-i5-9400-29ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-freedos-ef6a3935cb56d5e539cde671784ebb46.jpg
+    Pret    
+9/21/2020 12:02:03 AM 1.689,98 RON

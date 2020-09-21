@@ -1,0 +1,10 @@
+    Cod    
+1446334
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/hp/elite-slice-g1-procesor-intel-core-i3-6100t-25ghz-skylake-4gb-500gb-hdd-gma-hd-530-wi-fi-win-10-pro/
+    Name    
+HP Elite Slice G1, Procesor Intel® Core™ i3-6100T 2.5GHz Skylake, 4GB, 500GB HDD, GMA HD 530, Wi-Fi, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/1192525/1446334/thumbnails/elite-slice-g1-procesor-intel-core-i5-6500t-25ghz-skylake-4gb-256gb-ssd-gma-hd-530-wi-fi-win-10-pro-0ece29c9a203bfe56391de1ba38612f8.jpg
+    Pret    
+9/21/2020 12:03:42 AM 3.859,98 RON

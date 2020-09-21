@@ -1,0 +1,10 @@
+    Cod    
+1146498
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/server-hdd-seagate-enterprise-capacity-35-8tb-sata3-7200rpm-256mb/
+    Name    
+Seagate Exos Capacity 8TB SATA-III 7200RPM 256MB
+    Img url    
+https://5.grgs.ro/images/products/1/798262/1146498/thumbnails/enterprise-capacity-8tb-sata-iii-7200rpm-256mb-05fb2bc96a9bd99bff8f447bd9ecf91a.jpg
+    Pret    
+9/21/2020 7:45:33 AM 1.323,94 RON

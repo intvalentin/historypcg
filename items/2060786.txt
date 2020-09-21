@@ -1,0 +1,10 @@
+    Cod    
+2060786
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/hdd-25-quot-1tb-72k-sata-6gb-hot-swap-512n/
+    Name    
+Lenovo ThinkSystem HDD 1TB 7200RPM SATA-III 2.5 inch 512n
+    Img url    
+https://5.grgs.ro/images/products/1/6954/2060786/thumbnails/thinksystem-hdd-1tb-7200rpm-sata-iii-25-inch-512n-a00049a52281e92a886f04ddb41e0d41.jpg
+    Pret    
+9/21/2020 12:04:55 AM 1.339,28 RON

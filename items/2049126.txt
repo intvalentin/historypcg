@@ -1,0 +1,10 @@
+    Cod    
+2049126
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/4023s-trt-2x-procesor-amd-epyc-7272-29ghz-64gb-ddr4-ecc-rdimm-2x-240gb-ssd-plus-2x-10tb-hdd-lff-35-inch/
+    Name    
+Supermicro 4023S-TRT, 2x Procesor AMD EPYC™ 7272 2.9GHz, 64GB DDR4 ECC RDIMM, 2x 240GB SSD + 2x 10TB HDD, LFF 3.5 inch
+    Img url    
+https://1.grgs.ro/images/products/1/2045418/2049126/thumbnails/4023s-trt-2x-procesor-amd-epyc-7272-29ghz-64gb-ddr4-ecc-rdimm-2x-240gb-ssd-plus-2x-10tb-hdd-lff-35-inch-b65b2cc62db220a081370151da8e4ce8.png
+    Pret    
+9/21/2020 12:04:10 AM 21.104,33 RON

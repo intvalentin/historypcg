@@ -1,0 +1,10 @@
+    Cod    
+1828612
+    Product link    
+https://www.pcgarage.ro/ultrabook/microsoft/123-surface-pro-6-2736-x-1824px-procesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-256gb-ssd-gma-uhd-620-win-10-home-platinum/
+    Name    
+Microsoft 12.3&#039;&#039; Surface Pro 6, 2736 x 1824px, Procesor Intel® Core™ i5-8250U (6M Cache, up to 3.40 GHz), 8GB, 256GB SSD, GMA UHD 620,  Win 10 Home, Platinum
+    Img url    
+https://2.grgs.ro/images/products/1/753/1828612/thumbnails/mwl_i5_8-cbf3962e234e480ad2b12ec72eefca22.jpg
+    Pret    
+9/20/2020 10:58:03 PM 6.863,07 RON

@@ -1,0 +1,10 @@
+    Cod    
+2069442
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a540-24-inch-fhd-ips-touchscreen-procesor-intel-core-i5-9400t-18ghz-coffee-lake-8gb-ram-256gb-ssd-plus-1tb-hdd-uhd-630-camera-web-freedos/
+    Name    
+Lenovo IdeaCentre A540, 24 inch FHD IPS Touchscreen, Procesor Intel® Core™ i5-9400T 1.8GHz Coffee Lake, 8GB RAM, 256GB SSD + 1TB HDD, UHD 630, Camera Web, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/7193/2069442/thumbnails/238-ideacentre-a540-fhd-touch-ips-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-512gb-ssd-plus-1tb-hdd-gma-uhd-630-freedos-black-6ae28c876be050325c1053e0cf7e6896.png
+    Pret    
+9/21/2020 12:02:56 AM 3.999,98 RON

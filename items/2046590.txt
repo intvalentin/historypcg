@@ -1,0 +1,10 @@
+    Cod    
+2046590
+    Product link    
+https://www.pcgarage.ro/servere/hpe/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-gold-5218-23ghz-skylake-32gb-rdimm-ddr4-smart-array-p408i-a-800w/
+    Name    
+HPE ProLiant DL380 Gen10 Rack 2U, Procesor Intel® Xeon® Gold 5218 2.3GHz Skylake, 32GB RDIMM DDR4, Smart Array P408i-a, 800W
+    Img url    
+https://4.grgs.ro/images/products/1/1802236/2046590/thumbnails/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-gold-5118-23ghz-skylake-64gb-rdimm-ddr4-300gb-sas-smart-array-p408i-a-2x-800w-3yr-nbd-ae95ca8289174155c114d1280588a8ef.jpg
+    Pret    
+9/21/2020 12:03:51 AM 16.048,75 RON

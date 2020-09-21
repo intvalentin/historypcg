@@ -1,0 +1,10 @@
+    Cod    
+2033146
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-y540-fhd-ips-procesor-intel-core-i7-9750hf-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-no-os-black/
+    Name    
+Lenovo Gaming 15.6&#039;&#039; Legion Y540, FHD IPS, Procesor Intel® Core™ i7-9750HF (12M Cache, up to 4.50 GHz), 8GB DDR4, 512GB SSD, GeForce GTX 1660 Ti 6GB, No OS, Black
+    Img url    
+https://4.grgs.ro/images/products/1/8629/2033146/thumbnails/mwl_i7_9-0e2f5da2ab6ac3efad141f8f6162368a.jpg
+    Pret    
+9/20/2020 11:00:21 PM 5.245,13 RON

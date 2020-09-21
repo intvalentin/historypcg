@@ -1,0 +1,10 @@
+    Cod    
+1678588
+    Product link    
+https://www.pcgarage.ro/ssd/intel/optane-ssd-900p-series-280gb-u2-pci-express-gen3-x4-25-inch-plus-m2-adapter/
+    Name    
+Intel Optane SSD 900P Series 280GB U.2 PCI Express Gen3 x4 2.5 inch + M.2 adapter
+    Img url    
+https://1.grgs.ro/images/products/1/1664836/1678588/thumbnails/ssdpe21d280gasm-663156a2ae0f11d51770d51ef563b1d0.jpg
+    Pret    
+9/21/2020 7:44:50 AM 1.957,11 RON

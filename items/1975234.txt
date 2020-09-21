@@ -1,0 +1,10 @@
+    Cod    
+1975234
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/cascade-lake-x-core-i9-10940x-33ghz-box/
+    Name    
+Intel Cascade Lake X, Core i9 10940X 3.3GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/6472/1975234/thumbnails/cascade-lake-x-core-i9-10900x-37ghz-box-057c60eb61adc1f1aa25f460a471d724.jpg
+    Pret    
+9/21/2020 7:34:48 AM 4.231,52 RON

@@ -1,0 +1,10 @@
+    Cod    
+1980482
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-intel-core-i5-9400f-29ghz-coffee-lake-16gb-ddr4-512gb-ssd-plus-1tb-hdd-radeon-rx-5700xt-8gb-freedos/
+    Name    
+Lenovo Gaming Legion T530 Tower, Procesor Intel® Core™ i5-9400F 2.9GHz Coffee Lake, 16GB DDR4, 512GB SSD + 1TB HDD, Radeon RX 5700XT 8GB, FreeDos
+    Img url    
+https://3.grgs.ro/images/products/1/1703884/1980482/thumbnails/legion-t530-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-1tb-hdd-geforce-gtx-1060-6gb-freedos-04bb11ae165780463ad339fe5736a249.png
+    Pret    
+9/21/2020 12:01:59 AM 6.869,98 RON

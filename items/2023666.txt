@@ -1,0 +1,10 @@
+    Cod    
+2023666
+    Product link    
+https://www.pcgarage.ro/smartphone/xiaomi/mi-10-octa-core-256gb-8gb-ram-single-sim-5g-5-camere-twilight-grey/
+    Name    
+Xiaomi Mi 10, 5G Edition, Octa Core, 256GB, 8GB RAM, Single SIM, 5-Camere, Twilight Grey
+    Img url    
+https://2.grgs.ro/images/products/1/9002/2023666/thumbnails/mi-10-5g-edition-octa-core-256gb-8gb-ram-single-sim-5-camere-twilight-grey-7594ecaa44ee445a00a6ab3f008c5b67.jpg
+    Pret    
+9/20/2020 11:40:08 PM 2.999,00 RON

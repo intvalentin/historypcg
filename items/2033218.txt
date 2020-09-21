@@ -1,0 +1,10 @@
+    Cod    
+2033218
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/intel/25-inch-d3-s4610-192-tb-sata-6gb-ssd/
+    Name    
+Intel 2.5 inch D3-S4610 1.92 TB Sata 6Gb SSD
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2033218/thumbnails/25-inch-d3-s4610-192-tb-sata-6gb-ssd-82094f14dee7040bc57e3f83d6ba97b0.jpg
+    Pret    
+9/21/2020 12:05:23 AM 2.685,69 RON

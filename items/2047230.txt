@@ -1,0 +1,10 @@
+    Cod    
+2047230
+    Product link    
+https://www.pcgarage.ro/memorii-server/supermicro/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4/
+    Name    
+Supermicro ECC RDIMM DDR4 32GB 2933MHz CL21 1.2v 2Rx4
+    Img url    
+https://5.grgs.ro/images/products/1/2045418/2047230/thumbnails/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4-708389241b6aecfce143a2650526bf64.jpg
+    Pret    
+9/21/2020 12:04:32 AM 829,79 RON

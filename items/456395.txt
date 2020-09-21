@@ -1,0 +1,11 @@
+    Cod    
+456395
+    Product link    
+https://www.pcgarage.ro/placi-video-profesionale/amd/firepro-w9000-6gb-ddr5-384-bit/
+    Name    
+AMD FirePro W9000 6GB GDDR5 384-bit
+    Img url    
+https://1.grgs.ro/images/products/1/5/456395/thumbnails/firepro-w9000-6gb-ddr3-384-bit-153fc5b5f8e8fc033488c6e133a6019e.jpg
+    Pret    
+9/21/2020 7:29:59 AM 21.447,58 RON
+9/21/2020 7:34:24 AM 21.447,58 RON

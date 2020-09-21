@@ -1,0 +1,10 @@
+    Cod    
+2074146
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/14-latitude-5410-seria-5000-fhd-procesor-intel-core-i7-10610u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-linux-grey-3yr-bos/
+    Name    
+DELL 14&#039;&#039; Latitude 5410 (seria 5000), FHD, Procesor Intel® Core™ i7-10610U (8M Cache, up to 4.90 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Linux, Grey, 3Yr BOS
+    Img url    
+https://5.grgs.ro/images/products/1/4525/2074146/thumbnails/14-latitude-5410-seria-5000-fhd-procesor-intel-core-i7-10610u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-linux-grey-3yr-bos-b1fc97fa34183dbffe3781530a98c2e8.jpg
+    Pret    
+9/20/2020 11:01:23 PM 6.498,03 RON

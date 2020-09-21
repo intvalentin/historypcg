@@ -1,0 +1,10 @@
+    Cod    
+1765240
+    Product link    
+https://www.pcgarage.ro/memorii/intel/memory-card-m2-32gb-optane-mempek1j032ga01-intel/
+    Name    
+Intel Optane Memory M10 Series 32GB PCI Express x2 M.2 2280
+    Img url    
+https://5.grgs.ro/images/products/1/3442/1765240/thumbnails/optane-memory-m10-series-32gb-pci-express-x2-m2-2280-1751c276309de114aa90ea23bfb89f48.jpg
+    Pret    
+9/21/2020 7:41:01 AM 415,04 RON

@@ -1,0 +1,10 @@
+    Cod    
+1600710
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-procesor-intel-core-i3-6006u-20ghz-skylake-4gb-1tb-gma-hd-520-freedos-black/
+    Name    
+Lenovo 21.5&#039;&#039; IdeaCentre 520, FHD, Procesor Intel® Core™ i3-6006U 2.0GHz Skylake, 4GB, 1TB, GMA HD 520, Camera Web, FreeDos, Black
+    Img url    
+https://3.grgs.ro/images/products/1/1508470/1600710/thumbnails/215-ideacentre-520-fhd-procesor-intel-core-i3-6006u-20ghz-skylake-4gb-1tb-gma-hd-520-freedos-black-99c45d45dc1e5e5ee9d7465b0fd7b0b6.jpg
+    Pret    
+9/21/2020 12:03:01 AM 2.179,98 RON

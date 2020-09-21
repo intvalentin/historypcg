@@ -1,0 +1,10 @@
+    Cod    
+1970654
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/173-thinkpad-p73-mobile-workstation-uhd-ips-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-1tb-ssd-quadro-rtx-4000-8gb-win-10-pro-black/
+    Name    
+Lenovo 17.3&#039;&#039; ThinkPad P73 Mobile Workstation, UHD IPS, Procesor Intel® Core™ i9-9880H (16M Cache, up to 4.80 GHz), 32GB DDR4, 1TB SSD,  Quadro RTX 4000 8GB, Win 10 Pro, Black
+    Img url    
+https://5.grgs.ro/images/products/1/8486/1970654/thumbnails/mwl_i9_9-0448a08b9ee875f0b142cc395461acd0.jpg
+    Pret    
+9/20/2020 11:01:48 PM 21.313,36 RON

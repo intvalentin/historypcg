@@ -1,0 +1,10 @@
+    Cod    
+2042234
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r440-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-1x-16gb-rdimm-ddr4-2400mhz-1x-600gb-10k-12g-sas-hdd-h330/
+    Name    
+DELL PowerEdge R440, Procesor Intel® Xeon® Silver 4208 2.1GHz Cascade Lake, 1x 16GB RDIMM DDR4 2400MHz, 1x 600GB 10K 12G SAS HDD, H330
+    Img url    
+https://1.grgs.ro/images/products/1/1666176/2042234/thumbnails/poweredge-r440-procesor-intel-xeon-silver-4108-18ghz-skylake-1x-16gb-rdimm-ddr4-2666mhz-1x-120gb-ssd-perc-h330-776828df2c2667f96e214a6c34f4eb8a.jpg
+    Pret    
+9/21/2020 12:03:56 AM 10.220,55 RON

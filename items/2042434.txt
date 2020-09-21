@@ -1,0 +1,10 @@
+    Cod    
+2042434
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-ten-core-silver-4114-22ghz/
+    Name    
+Intel Xeon Ten-Core Silver 4114 2.2GHz
+    Img url    
+https://3.grgs.ro/images/products/1/1034/2042434/thumbnails/xeon-ten-core-silver-4114-22ghz-17e45040a177e6e1740bf6c977f3fa2f.png
+    Pret    
+9/21/2020 12:04:17 AM 5.390,22 RON

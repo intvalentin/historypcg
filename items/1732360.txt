@@ -1,0 +1,10 @@
+    Cod    
+1732360
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i3bek2-core-i3-8109u-30ghz-2x-ddr4-32gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC8i3BEK2, Core i3-8109U 3.0GHz, 2x DDR4 32GB max, M.2 SSD, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://3.grgs.ro/images/products/1/1728700/1732360/thumbnails/nuc-next-unit-of-computing-nuc8i3beh2-core-i3-8109u-30ghz-2x-ddr4-32gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi-d2ab9f3df3f82e721d7ac759c52558f0.png
+    Pret    
+9/21/2020 12:03:28 AM 1.319,98 RON

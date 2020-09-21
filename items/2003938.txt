@@ -1,0 +1,11 @@
+    Cod    
+2003938
+    Product link    
+https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2070-super-phoenix-gs-8gb-gddr6-256-bit/
+    Name    
+Gainward GeForce RTX 2070 SUPER Phoenix GS 8GB GDDR6 256-bit
+    Img url    
+https://1.grgs.ro/images/products/1/1990682/2003938/thumbnails/geforce-rtx-2070-super-phoenix-8gb-gddr6-256-bit-87146524b2397b89ebe9b845d18a5265.jpg
+    Pret    
+9/21/2020 12:06:52 AM 2.875,76 RON
+9/21/2020 7:33:00 AM 2.875,76 RON

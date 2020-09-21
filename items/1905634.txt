@@ -1,0 +1,10 @@
+    Cod    
+1905634
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t490-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad T490, FHD IPS, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD 620, Win 10 Pro, Black
+    Img url    
+https://5.grgs.ro/images/products/1/1202/1905634/thumbnails/mwl_i7_8-6b0742690f9c75ab811cfb626625b63c.jpg
+    Pret    
+9/20/2020 11:01:23 PM 6.699,00 RON

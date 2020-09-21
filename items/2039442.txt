@@ -1,0 +1,10 @@
+    Cod    
+2039442
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i5-10400f-29ghz-box/
+    Name    
+Intel Comet Lake, Core i5 10400F 2.9GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/2034042/2039442/thumbnails/comet-lake-core-i5-10400f-29ghz-box-b133ae47022be03e62655cac2ea51059.jpg
+    Pret    
+9/21/2020 7:34:36 AM 793,92 RON

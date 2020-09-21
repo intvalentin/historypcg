@@ -1,0 +1,10 @@
+    Cod    
+2014002
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/156-elitebook-850-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-silver/
+    Name    
+HP 15.6&#039;&#039; EliteBook 850 G6, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GMA UHD 620, Win 10 Pro, Silver
+    Img url    
+https://5.grgs.ro/images/products/1/9943/2014002/thumbnails/mwl_i7_8-ee14dcc8b75d67188ce63f2cf9ce80cb.jpg
+    Pret    
+9/20/2020 10:58:03 PM 6.819,06 RON

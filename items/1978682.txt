@@ -1,0 +1,10 @@
+    Cod    
+1978682
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-5820-tower-procesor-intel-xeon-w-2125-40ghz-skylake-16gb-ddr4-512gb-ssd-quadro-p4000-8gb-linux/
+    Name    
+DELL Precision 5820 Tower, Procesor Intel® Xeon® W-2125 4.0GHz Skylake, 16GB DDR4, 512GB SSD, Quadro P4000 8GB, Linux
+    Img url    
+https://4.grgs.ro/images/products/1/6811/1978682/thumbnails/precision-5820-tower-procesor-intel-xeon-w-2102-29ghz-skylake-16gb-ddr4-512gb-ssd-quadro-p1000-2gb-linux-2b638b68855d701ea1f1301d7006a70a.png
+    Pret    
+9/21/2020 12:02:42 AM 11.819,98 RON

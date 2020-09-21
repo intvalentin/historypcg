@@ -1,0 +1,10 @@
+    Cod    
+1936306
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/156-thinkpad-x1-extreme-2nd-gen-uhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-win-10-pro-black-weave/
+    Name    
+Lenovo 15.6&#039;&#039; ThinkPad X1 Extreme (2nd Gen), UHD IPS, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 512GB SSD, GeForce GTX 1650 4GB, Win 10 Pro, Black Weave
+    Img url    
+https://3.grgs.ro/images/products/1/2554/1936306/thumbnails/mwl_i7_9-a344ad77dac0cf7ebc235280253bb2c0.jpg
+    Pret    
+9/20/2020 10:57:11 PM 14.739,00 RON

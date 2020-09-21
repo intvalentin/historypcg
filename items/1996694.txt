@@ -1,0 +1,10 @@
+    Cod    
+1996694
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e15-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-no-os-black/
+    Name    
+Lenovo 15.6&#039;&#039; ThinkPad E15, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 16GB DDR4, 512GB SSD, GMA UHD, No OS, Black
+    Img url    
+https://5.grgs.ro/images/products/1/1990366/1996694/thumbnails/mwl_i5_10-3bebc4a1ca4c4cff3b2066ae52ce2b8f.jpg
+    Pret    
+9/20/2020 10:58:14 PM 3.598,99 RON

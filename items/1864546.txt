@@ -1,0 +1,10 @@
+    Cod    
+1864546
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i9-9900-310ghz-box/
+    Name    
+Intel Coffee Lake, Core i9 9900 3.1GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/7399/1864546/thumbnails/coffee-lake-core-i9-9900-310ghz-box-3a06207307788824af4f4832dbe7e64c.jpg
+    Pret    
+9/21/2020 7:34:43 AM 1.939,57 RON

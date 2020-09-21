@@ -1,0 +1,10 @@
+    Cod    
+1626226
+    Product link    
+https://www.pcgarage.ro/ssd/intel/optane-ssd-900p-series-280gb-pci-express-gen3-x4-half-height/
+    Name    
+Intel Optane SSD 900P Series 280GB PCI Express Gen3 x4 Half-height
+    Img url    
+https://3.grgs.ro/images/products/1/5633/1626226/thumbnails/optane-ssd-900p-series-280gb-pci-express-gen3-x4-half-height-e29aabb98dd4f95d4a4c337af101b478.jpg
+    Pret    
+9/21/2020 7:44:50 AM 1.957,11 RON

@@ -1,0 +1,10 @@
+    Cod    
+1975794
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/173-thinkpad-p73-mobile-workstation-fhd-ips-procesor-intel-core-i7-9850h-12m-cache-up-to-460-ghz-32gb-ddr4-1tb-ssd-quadro-rtx-3000-6gb-win-10-pro-black/
+    Name    
+Lenovo 17.3&#039;&#039; ThinkPad P73 Mobile Workstation, FHD IPS, Procesor Intel® Core™ i7-9850H (12M Cache, up to 4.60 GHz), 32GB DDR4, 1TB SSD,  Quadro RTX 3000 6GB, Win 10 Pro, Black
+    Img url    
+https://1.grgs.ro/images/products/1/8486/1975794/thumbnails/mwl_i7_9-c0c4c7480df3381179bed9cdd82641fb.jpg
+    Pret    
+9/20/2020 10:59:49 PM 17.040,14 RON

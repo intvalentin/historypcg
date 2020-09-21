@@ -1,0 +1,10 @@
+    Cod    
+1942810
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-hd-procesor-intel-pentium-gold-5405u-2m-cache-230-ghz-4gb-ddr4-256gb-ssd-gma-uhd-610-freedos-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, HD, Procesor Intel® Pentium® Gold 5405U (2M Cache, 2.30 GHz), 4GB DDR4, 256GB SSD, GMA UHD 610, FreeDos, Grey
+    Img url    
+https://5.grgs.ro/images/products/1/1236/1942810/thumbnails/mwl_pentium-861db5997ae2b0095b510496652d299f.jpg
+    Pret    
+9/20/2020 11:00:45 PM 1.299,00 RON

@@ -1,0 +1,10 @@
+    Cod    
+2043442
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-pentium-gold-g6400-40ghz-box/
+    Name    
+Intel Comet Lake, Pentium Gold G6400 4.0GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2043442/thumbnails/comet-lake-pentium-gold-g6400-40ghz-box-0f604061c66c21209cb1b0ed68255218.jpg
+    Pret    
+9/21/2020 7:34:43 AM 283,33 RON

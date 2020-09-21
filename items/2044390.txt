@@ -1,0 +1,10 @@
+    Cod    
+2044390
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-dk0049nq-fhd-ips-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
+    Name    
+HP Gaming 15.6&#039;&#039; Pavilion 15-dk0049nq, FHD IPS, Procesor Intel® Core™ i5-9300H (8M Cache, up to 4.10 GHz), 8GB DDR4, 256GB SSD, GeForce GTX 1660 Ti 6GB, Free DOS, Shadow Black
+    Img url    
+https://4.grgs.ro/images/products/1/1261/2044390/thumbnails/mwl_i5_9-c963195eb1403c58bb62339b25adbe6f.jpg
+    Pret    
+9/20/2020 10:59:00 PM 4.799,00 RON

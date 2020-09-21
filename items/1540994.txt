@@ -1,0 +1,10 @@
+    Cod    
+1540994
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-8700k-370ghz-box/
+    Name    
+Intel Coffee Lake, Core i7 8700K 3.7GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/1469686/1540994/thumbnails/coffee-lake-core-i7-8700k-370ghz-box-e563eef8b5543416f9fae06805f89df8.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.970,92 RON

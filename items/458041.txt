@@ -1,0 +1,10 @@
+    Cod    
+458041
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/core-i3-3225-33ghz-box/
+    Name    
+Intel Ivy Bridge, Core i3 3225 3.3GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/5/458041/thumbnails/core-i3-3225-33ghz-box-bc5125f9468644c90cb5139865384470.jpg
+    Pret    
+9/21/2020 7:35:03 AM 818,16 RON

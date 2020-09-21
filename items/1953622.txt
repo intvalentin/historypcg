@@ -1,0 +1,10 @@
+    Cod    
+1953622
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/msi/156-p65-creator-9se-uhd-procesor-intel-core-i7-9750h-processor-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-freedos-silver/
+    Name    
+MSI 15.6&#039;&#039; P65 Creator 9SE, UHD, Procesor Intel® Core™ i7-9750H Processor (12M Cache, up to 4.50 GHz), 16GB DDR4, 512GB SSD, GeForce RTX 2060 6GB, FreeDos, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/6997/1953622/thumbnails/mwl_i7_9-2226f45e5f750ba5122c459c8b8ccfba.jpg
+    Pret    
+9/20/2020 11:00:30 PM 10.585,45 RON

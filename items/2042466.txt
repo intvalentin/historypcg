@@ -1,0 +1,10 @@
+    Cod    
+2042466
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9350k-40ghz-box/
+    Name    
+Intel Coffee Lake, Core i3 9350K 4.0GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1034/2042466/thumbnails/coffee-lake-core-i3-9350k-40ghz-box-acf53d13823c59a876c2dd9248ec3888.jpg
+    Pret    
+9/21/2020 7:35:03 AM 976,95 RON

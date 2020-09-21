@@ -1,0 +1,10 @@
+    Cod    
+2051002
+    Product link    
+https://www.pcgarage.ro/smartphone/realme/x3-super-zoom-octa-core-256gb-12gb-ram-dual-sim-4g-6-camere-glacier-blue/
+    Name    
+Realme X3 Super Zoom, Ecran 120 Hz, Octa Core, 256GB, 12GB RAM, Dual SIM, 4G, 6-Camere, Glacier Blue
+    Img url    
+https://2.grgs.ro/images/products/1/7960/2051002/thumbnails/x3-super-zoom-octa-core-256gb-12gb-ram-dual-sim-4g-6-camere-glacier-blue-d0761ef18cdd6fa03a9397909158bab7.jpg
+    Pret    
+9/20/2020 11:40:20 PM 2.199,00 RON

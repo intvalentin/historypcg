@@ -1,0 +1,10 @@
+    Cod    
+1979902
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-geforce-mx130-2gb-win-10-pro-silver/
+    Name    
+HP 14&#039;&#039; ProBook 440 G6, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GeForce MX130 2GB, Win 10 Pro, Silver
+    Img url    
+https://5.grgs.ro/images/products/1/5147/1979902/thumbnails/mwl_i7_8-1439f3ea794b0858dc84802e4eef3e6b.jpg
+    Pret    
+9/20/2020 11:01:08 PM 4.325,28 RON

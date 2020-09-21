@@ -1,0 +1,10 @@
+    Cod    
+2064858
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t140-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-ecc-udimm-ram-1x-1tb-sdd-plus-1x-1tb-72k-rpm-sata-hdd-perc-h330-idrac9-express/
+    Name    
+DELL PowerEdge T140, Procesor Intel® Xeon® E-2224 3.4GHz Coffee Lake, 16GB ECC UDIMM RAM, 1x 1TB SDD + 1x 1TB 7.2K RPM SATA HDD, PERC H330, iDrac9 Express
+    Img url    
+https://2.grgs.ro/images/products/1/1054/2064858/thumbnails/poweredge-t140-procesor-intel-xeon-e-2134-35ghz-coffee-lake-16gb-udimm-2x-4tb-nl-sas-72k-lff-35-inch-perc-h330-3yr-nbd-4fa4916d382c067e491163a114b7a978.jpg
+    Pret    
+9/21/2020 12:03:51 AM 5.938,91 RON

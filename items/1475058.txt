@@ -1,0 +1,10 @@
+    Cod    
+1475058
+    Product link    
+https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2016-standard-1-licenta-16-core-oem/
+    Name    
+Microsoft Server 2016 Standard, 1 Licenta, 16 Core, OEM
+    Img url    
+https://3.grgs.ro/images/products/1/1301183/1475058/thumbnails/server-2016-standard-1-licenta-16-core-oem-ca96774ff66bbc890977988aabe98e38.jpg
+    Pret    
+9/21/2020 1:15:07 PM 3.532,36 RON

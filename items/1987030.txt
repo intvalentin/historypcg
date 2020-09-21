@@ -1,0 +1,10 @@
+    Cod    
+1987030
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-platinum-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 8GB DDR4, 256GB SSD, GMA UHD, No OS, Platinum Grey
+    Img url    
+https://2.grgs.ro/images/products/1/1236/1987030/thumbnails/156-ideapad-s145-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-platinum-grey-1ad9df6bc43d20d9ef03bf9ef49a4a66.jpg
+    Pret    
+9/20/2020 11:00:21 PM 2.007,43 RON

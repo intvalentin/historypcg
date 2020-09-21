@@ -1,0 +1,10 @@
+    Cod    
+1986514
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-5590-seria-5000-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-grey-3yr-bos/
+    Name    
+DELL 15.6&#039;&#039; Vostro 5590 (seria 5000), FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Linux, Grey, 3Yr BOS
+    Img url    
+https://4.grgs.ro/images/products/1/6472/1986514/thumbnails/mwl_i5_10-e652793ae77c19e2e260cecd3815dd81.jpg
+    Pret    
+9/20/2020 11:01:03 PM 3.461,19 RON

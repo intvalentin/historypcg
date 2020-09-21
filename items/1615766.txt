@@ -1,0 +1,10 @@
+    Cod    
+1615766
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1270-v6-38ghz-box/
+    Name    
+Intel Xeon Quad-Core E3-1270 v6 3.8GHz, box
+    Img url    
+https://1.grgs.ro/images/products/1/472405/1615766/thumbnails/xeon-quad-core-e3-1270-v3-35ghz-box-ffcaf40d723d4c1b6c00441941e61de4.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.047,93 RON

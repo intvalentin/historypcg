@@ -1,0 +1,10 @@
+    Cod    
+2007702
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-ml110-gen10-tower-45u-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-16gb-rdimm-ddr4-no-hdd-dynamic-smart-array-s100i-4x-lff/
+    Name    
+HP ProLiant ML110 Gen10 Tower 4.5U, Procesor Intel® Xeon® Silver 4208 2.1GHz Cascade Lake, 16GB RDIMM DDR4, no HDD, Dynamic Smart Array S100i, 4x LFF
+    Img url    
+https://4.grgs.ro/images/products/1/1692296/2007702/thumbnails/proliant-ml110-gen10-tower-45u-procesor-intel-xeon-bronze-3106-17ghz-skylake-16gb-rdimm-ddr4-no-hdd-dynamic-smart-array-s100i-lff-35-inch-psu-550w-3yr-91db329aac575162017a08c5d115fb29.jpg
+    Pret    
+9/21/2020 12:03:51 AM 7.418,67 RON

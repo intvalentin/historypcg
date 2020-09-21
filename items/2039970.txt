@@ -1,0 +1,10 @@
+    Cod    
+2039970
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700f-29ghz-box/
+    Name    
+Intel Comet Lake, Core i7 10700F 2.9GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/2034042/2039970/thumbnails/comet-lake-core-i7-10700f-29ghz-box-8900fe46c924a9129b4ec8458d0d3818.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.626,95 RON

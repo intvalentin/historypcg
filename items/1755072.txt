@@ -1,0 +1,10 @@
+    Cod    
+1755072
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-2920x-35ghz-box/
+    Name    
+AMD Ryzen Threadripper 2920X 3.5GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1703884/1755072/thumbnails/ryzen-threadripper-2990wx-30ghz-box-01f34c8b28a365c1ffde5d941ad4885e.jpg
+    Pret    
+9/21/2020 7:35:10 AM 3.245,10 RON

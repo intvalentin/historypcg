@@ -1,0 +1,10 @@
+    Cod    
+1974006
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-s740-iil-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-ssd-geforce-mx250-2gb-win-10-home-iron-grey/
+    Name    
+Lenovo 14&#039;&#039; Yoga S740 IIL, FHD IPS, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 16GB DDR4, 1TB SSD, GeForce MX250 2GB, Win 10 Home, Iron Grey
+    Img url    
+https://2.grgs.ro/images/products/1/1261/1974006/thumbnails/mwl_i7_10-1f27831ef3a8b2f6ea747e586ab6611e.jpg
+    Pret    
+9/20/2020 10:57:59 PM 5.833,41 RON

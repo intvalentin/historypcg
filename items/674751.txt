@@ -1,0 +1,10 @@
+    Cod    
+674751
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/hp/1tb-6g-sas-7200-rpm-sff-sc-hpl/
+    Name    
+HP Hot-Plug SC Midline SATA-III 1TB 7200 RPM 2.5 inch
+    Img url    
+https://1.grgs.ro/images/products/1/634551/674751/thumbnails/hot-plug-sc-midline-sata-iii-1tb-7200-rpm-25-inch-7ee129ae7d6e39b67c1ce6f4f06ffc09.jpg
+    Pret    
+9/21/2020 12:05:18 AM 1.440,46 RON

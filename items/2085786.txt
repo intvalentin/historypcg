@@ -1,0 +1,10 @@
+    Cod    
+2085786
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-ada-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-350-ghz-8gb-ddr4-512gb-ssd-radeon-vega-no-os-iron-grey/
+    Name    
+Lenovo 15.6&#039;&#039; V15 ADA, FHD, Procesor AMD Ryzen™ 3 3250U (4M Cache, up to 3.50 GHz), 8GB DDR4, 512GB SSD, Radeon Vega, No OS, Iron Grey
+    Img url    
+https://2.grgs.ro/images/products/1/6472/2085786/thumbnails/156-v15-iwl-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx110-2gb-no-os-iron-grey-0451a7b4dbdfae8f279505a9c697f4ec.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.699,00 RON

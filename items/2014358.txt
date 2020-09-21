@@ -1,0 +1,10 @@
+    Cod    
+2014358
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-1tb-gma-uhd-free-dos-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G7, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 1TB, GMA UHD, Free DOS, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/9943/2014358/thumbnails/mwl_i5_10-f250e3ef8b3caeba043b4e1ca56aa1d7.jpg
+    Pret    
+9/20/2020 10:59:00 PM 2.999,00 RON

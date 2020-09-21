@@ -1,0 +1,10 @@
+    Cod    
+1986154
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-no-os-platinum-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 512GB SSD, Intel Iris Plus, No OS, Platinum Grey
+    Img url    
+https://2.grgs.ro/images/products/1/1236/1986154/thumbnails/mwl_i7_10-c46a45c2a861995eafa99e068a0d2e69.jpg
+    Pret    
+9/20/2020 11:00:21 PM 3.081,60 RON

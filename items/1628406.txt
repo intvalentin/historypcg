@@ -1,0 +1,10 @@
+    Cod    
+1628406
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/23-v510z-fhd-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-256gb-ssd-gma-hd-630-win-10-pro-1/
+    Name    
+Lenovo 23&#039;&#039; V510z, FHD, Procesor Intel® Core™ i5-7400T 2.4GHz Kaby Lake, 8GB, 256GB SSD, GMA HD 630, Camera Web, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/1301253/1628406/thumbnails/23-v510z-fhd-procesor-intel-core-i3-6100t-32ghz-skylake-4gb-128gb-ssd-gma-hd-530-freedos-2458423f0c1e323f19ecc400322d64df.png
+    Pret    
+9/21/2020 12:03:15 AM 4.739,98 RON

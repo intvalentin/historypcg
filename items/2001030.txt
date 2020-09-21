@@ -1,0 +1,10 @@
+    Cod    
+2001030
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/vostro-3671-mt-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ddr4-1tb-hdd-uhd-630-win-10-pro/
+    Name    
+DELL Vostro 3671 MT, Procesor Intel® Core™ i5-9400 2.9GHz Coffee Lake, 8GB DDR4, 1TB HDD, UHD 630, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/1703884/2001030/thumbnails/vostro-3670-mt-procesor-intel-core-i3-8100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-linux-e0aa4217a87fecca8dbd274d0aab2489.jpg
+    Pret    
+9/21/2020 12:01:59 AM 2.979,98 RON

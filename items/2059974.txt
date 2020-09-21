@@ -1,0 +1,10 @@
+    Cod    
+2059974
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-ada-fhd-procesor-amd-3020e-4m-cache-up-to-260-ghz-4gb-ddr4-1tb-radeon-no-os-iron-grey/
+    Name    
+Lenovo 15.6&#039;&#039; V15 ADA, FHD, Procesor AMD 3020e (4M Cache, up to 2.60 GHz), 4GB DDR4, 1TB,  Radeon, No OS, Iron Grey
+    Img url    
+https://3.grgs.ro/images/products/1/6472/2059974/thumbnails/156-v15-iwl-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx110-2gb-no-os-iron-grey-0451a7b4dbdfae8f279505a9c697f4ec.jpg
+    Pret    
+9/20/2020 11:00:21 PM 1.198,99 RON

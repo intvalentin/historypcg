@@ -1,0 +1,10 @@
+    Cod    
+2068778
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-hd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-geforce-mx130-2gb-win-10-pro-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G7, HD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 512GB SSD, GeForce MX130 2GB, Win 10 Pro, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/9943/2068778/thumbnails/mwl_i5_10-5f8c8d0efca83c43bd02c371a28a5738.jpg
+    Pret    
+9/20/2020 10:59:14 PM 4.155,54 RON

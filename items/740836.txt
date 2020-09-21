@@ -1,0 +1,10 @@
+    Cod    
+740836
+    Product link    
+https://www.pcgarage.ro/hdd-notebook/western-digital/1tb-sata-iii-intellipower-16mb-red/
+    Name    
+WD Red, 1TB, SATA-III, IntelliPower RPM, cache 16MB, 9.5 mm
+    Img url    
+https://5.grgs.ro/images/products/1/1/740836/thumbnails/red-1tb-sata-iii-intellipower-rpm-cache-16mb-95-mm-00ee50a4bbaa0c9b580cfd9c6d8347dd.jpg
+    Pret    
+9/20/2020 11:11:12 PM 385,98 RON

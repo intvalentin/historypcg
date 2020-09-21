@@ -1,0 +1,10 @@
+    Cod    
+1120648
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/superserver-5038d-i-twr-socket-lga1150-4x-ddr3-dimm-4x-hdd-35-inch/
+    Name    
+Supermicro SuperServer 5038D-I, TWR, socket LGA1150, 4x DDR3 DIMM, 4x HDD 3.5 inch
+    Img url    
+https://5.grgs.ro/images/products/1/862955/1120648/thumbnails/superserver-5038d-i-twr-socket-lga1150-4x-ddr3-dimm-4x-hdd-35-inch-e89a9525e53bbc14cd390e6b1d0d55a9.jpg
+    Pret    
+9/21/2020 12:03:56 AM 2.255,28 RON

@@ -1,0 +1,10 @@
+    Cod    
+2042750
+    Product link    
+https://www.pcgarage.ro/memorii-server/dell/udimm-ecc-ddr4-16gb-2666mhz-dual-rank-x8/
+    Name    
+DELL UDIMM ECC DDR4 16GB 2666MHz Dual Rank x8
+    Img url    
+https://5.grgs.ro/images/products/1/1034/2042750/thumbnails/udimm-ddr4-8gb-2666mhz-cl19-single-rank-x8-e64143752262eb2aab9f931d21e67c14.jpg
+    Pret    
+9/21/2020 12:04:27 AM 1.332,13 RON

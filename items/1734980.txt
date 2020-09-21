@@ -1,0 +1,10 @@
+    Cod    
+1734980
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-330s-ikb-fhd-ips-procesor-intel-core-i3-8130u-4m-cache-up-to-340-ghz-4gb-ddr4-1tb-gma-uhd-620-freedos-midnight-blue/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 330S IKB, FHD IPS, Procesor Intel® Core™ i3-8130U (4M Cache, up to 3.40 GHz), 4GB DDR4, 1TB, GMA UHD 620, FreeDos, Midnight Blue
+    Img url    
+https://2.grgs.ro/images/products/1/1723568/1734980/thumbnails/mwl_i3_8-3e3ab01b3d51a07de9d4a6027840cc6c.jpg
+    Pret    
+9/20/2020 10:57:46 PM 2.146,53 RON

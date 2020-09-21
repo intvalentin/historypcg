@@ -1,0 +1,10 @@
+    Cod    
+2066850
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-x543ma-hd-procesor-intel-celeron-n4000-4m-cache-up-to-260-ghz-4gb-ddr4-500gb-gma-uhd-600-endless-os-star-grey/
+    Name    
+ASUS 15.6&#039;&#039; VivoBook X543MA, HD, Procesor Intel® Celeron® N4000 (4M Cache, up to 2.60 GHz), 4GB DDR4, 500GB, GMA UHD 600, Endless OS, Star Grey
+    Img url    
+https://4.grgs.ro/images/products/1/1261/2066850/thumbnails/mwl_celeron-bf4980c5e0981d472938a42386278be1.jpg
+    Pret    
+9/20/2020 11:00:12 PM 1.299,00 RON

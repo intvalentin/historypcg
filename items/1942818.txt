@@ -1,0 +1,10 @@
+    Cod    
+1942818
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-api-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-vega-10-freedos-platinum-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad L340 API, FHD, Procesor AMD Ryzen™ 7 3700U (4M Cache, up to 4.0 GHz), 8GB DDR4, 256GB SSD, Radeon RX Vega 10, FreeDos, Platinum Grey
+    Img url    
+https://4.grgs.ro/images/products/1/5758/1942818/thumbnails/156-ideapad-l340-api-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-vega-10-freedos-platinum-grey-e32f3b7cd59968893c9367e9ed0593c9.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.299,00 RON

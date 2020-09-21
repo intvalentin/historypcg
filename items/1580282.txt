@@ -1,0 +1,10 @@
+    Cod    
+1580282
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-8700-320ghz-box/
+    Name    
+Intel Coffee Lake, Core i7 8700 3.2GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1469686/1580282/thumbnails/coffee-lake-core-i7-8700-320ghz-box-cb22207f780dfacae3d67d8a2e71f1a5.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.640,95 RON

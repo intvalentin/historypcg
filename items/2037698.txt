@@ -1,0 +1,10 @@
+    Cod    
+2037698
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-iil-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-iron-grey/
+    Name    
+Lenovo 15.6&#039;&#039; V15 IIL, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD, No OS, Iron Grey
+    Img url    
+https://1.grgs.ro/images/products/1/6472/2037698/thumbnails/156-v15-iil-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-iron-grey-a5b27f1288ca2ef55e309e4d6417d351.jpg
+    Pret    
+9/20/2020 10:58:14 PM 2.498,99 RON

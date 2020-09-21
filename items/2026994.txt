@@ -1,0 +1,10 @@
+    Cod    
+2026994
+    Product link    
+https://www.pcgarage.ro/ssd/hikvision/e2000-2tb-pci-express-30-x4-m2-2280/
+    Name    
+Hikvision E2000 2TB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://3.grgs.ro/images/products/1/9002/2026994/thumbnails/e2000-1tb-pci-express-30-x4-m2-2280-823553bd1db6f4efa00fe6224b829754.jpg
+    Pret    
+9/21/2020 7:44:45 AM 1.462,97 RON

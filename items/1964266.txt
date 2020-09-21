@@ -1,0 +1,10 @@
+    Cod    
+1964266
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-3593-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-geforce-mx-230-2gb-linux-black-2yr-cis/
+    Name    
+DELL 15.6&#039;&#039; Inspiron 3593 (seria 3000), FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 512GB SSD, GeForce MX 230 2GB, Linux, Black, 2Yr CIS
+    Img url    
+https://1.grgs.ro/images/products/1/1261/1964266/thumbnails/mwl_i5_10-ca4cb5051b8626620de3dbca8e946d98.jpg
+    Pret    
+9/20/2020 10:58:19 PM 2.998,99 RON

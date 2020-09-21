@@ -1,0 +1,10 @@
+    Cod    
+1864638
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-celeron-dual-core-g4930-32ghz-box/
+    Name    
+Intel Coffee Lake, Celeron Dual-Core G4930 3.2GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/7399/1864638/thumbnails/coffee-lake-celeron-dual-core-g4930-32ghz-box-c64db531e587df1eee5bbb59db3fb21c.jpg
+    Pret    
+9/21/2020 7:34:48 AM 167,82 RON

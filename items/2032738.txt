@@ -1,0 +1,10 @@
+    Cod    
+2032738
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-3-3100-36ghz-box/
+    Name    
+AMD Ryzen 3 3100 3.6GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/3041/2032738/thumbnails/ryzen-3-3100-36ghz-box-090574def0b69156806e76fe5e0e9b7e.jpg
+    Pret    
+9/21/2020 7:34:36 AM 505,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1736492
+    Product link    
+https://www.pcgarage.ro/procesoare-server/amd/epyc-thirty-two-core-7601-22ghz-box/
+    Name    
+AMD EPYC Thirty-two-Core 7601 2.2GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1427502/1736492/thumbnails/epyc-thirty-two-core-7601-22ghz-box-a4ecd45720a06e0929a800aeeca06ce0.jpg
+    Pret    
+9/21/2020 12:04:17 AM 23.949,45 RON

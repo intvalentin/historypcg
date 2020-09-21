@@ -1,0 +1,10 @@
+    Cod    
+741199
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/server-system-2u-8x-hot-swap-35-quot-sata-supports-2-x-intel-xeon-e5-2600-supports-up-to-512-gb-ddr3-ecc-hw-raid-lsi-2108-01510-sas-1gb-cache-1x-pcix16-plus6x-pci-e-30-x8-2x-rj45-gigabit-1x-rj45-dedicated-ipmi-2-x-740w-redundant-psu/
+    Name    
+Supermicro SuperServer 6027R-72RF, rack 2U, socket 2011, 16x DDR3 DIMM, 8x HDD 3.5 inch hot plug, LSI 2208
+    Img url    
+https://4.grgs.ro/images/products/1/843505/741199/thumbnails/superserver-6027r-72rf-rack-2u-socket-2011-16x-ddr3-dimm-8x-hdd-35-inch-hot-plug-lsi-2208-251573761196c3a133442bdf0d9bac0d.jpg
+    Pret    
+9/21/2020 12:04:05 AM 7.615,79 RON

@@ -1,0 +1,10 @@
+    Cod    
+1693624
+    Product link    
+https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr4-16gb-2666mhz-1rx4-12v/
+    Name    
+Samsung ECC RDIMM DDR4 16GB 2666MHz 1Rx4 1.2v
+    Img url    
+https://1.grgs.ro/images/products/1/843505/1693624/thumbnails/ecc-rdimm-ddr4-32gb-2666mhz-dual-rank-12v-29ffc2a5d8e2bf311ac31f5ce876e775.jpg
+    Pret    
+9/21/2020 12:04:41 AM 1.146,24 RON

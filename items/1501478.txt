@@ -1,0 +1,10 @@
+    Cod    
+1501478
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/apple/133-macbook-air-13-broadwell-i5-18ghz-8gb-128gb-ssd-gma-hd-6000-mac-os-sierra-int-keyboard/
+    Name    
+Apple 13.3&#039;&#039; MacBook Air 13, Broadwell i5 1.8GHz, 8GB, 128GB SSD, GMA HD 6000, Mac OS Sierra, INT keyboard
+    Img url    
+https://2.grgs.ro/images/products/1/798262/1501478/thumbnails/133-macbook-air-13-broadwell-i5-18ghz-8gb-256gb-ssd-gma-hd-6000-mac-os-sierra-int-keyboard-2573056cb284406479a2a9ea0df2f2e2.jpg
+    Pret    
+9/20/2020 11:01:18 PM 5.493,88 RON

@@ -1,0 +1,10 @@
+    Cod    
+1708592
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl360-gen10-rack-1u-procesor-intel-xeon-silver-4110-21ghz-skylake-16gb-rdimm-ddr4-2-x-300gb-sas-15k-sff-25-inch-smart-array-p408i-a-sr-3yr-nbd/
+    Name    
+HP ProLiant DL360 Gen10 Rack 1U, Procesor Intel® Xeon® Silver 4110 2.1GHz Skylake, 16GB RDIMM DDR4, 2 x 300GB SAS 15K , SFF 2.5 inch, Smart Array P408i-a SR, 3Yr NBD
+    Img url    
+https://3.grgs.ro/images/products/1/1000151/1708592/thumbnails/proliant-dl360-gen10-rack-1u-procesor-intel-xeon-bronze-17ghz-skylake-16gb-rdimm-ddr4-2-x-300gb-sff-25-inch-mart-array-e208i-a-sr-3yr-nbd-547750e20e37571e061b769071cabc19.jpg
+    Pret    
+9/21/2020 12:04:10 AM 17.869,87 RON

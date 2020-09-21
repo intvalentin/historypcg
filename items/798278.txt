@@ -1,0 +1,11 @@
+    Cod    
+798278
+    Product link    
+https://www.pcgarage.ro/placi-video-profesionale/nvidia/tesla-k40c-pci-e-board-12gb-active-cooling/
+    Name    
+nVidia Tesla K40C 12GB GDDR5 384-bit
+    Img url    
+https://2.grgs.ro/images/products/1/722028/798278/thumbnails/tesla-k40c-12gb-ddr5-384-bit-c017619440d7fa91e6b1d38b5b41584f.jpg
+    Pret    
+9/21/2020 7:29:59 AM 27.199,65 RON
+9/21/2020 7:34:24 AM 27.199,65 RON

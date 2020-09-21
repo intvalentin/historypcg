@@ -1,0 +1,10 @@
+    Cod    
+2069134
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3591-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-geforce-mx230-2gb-linux-3yr-bos-no-odd/
+    Name    
+DELL 15.6&#039;&#039; Vostro 3591 (seria 3000), FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 512GB SSD, GeForce MX230 2GB, Linux, 3Yr BOS, No ODD
+    Img url    
+https://3.grgs.ro/images/products/1/4917/2069134/thumbnails/156-vostro-3591-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-linux-3yr-bos-no-odd-98fd0b68ee19718a5dfec90a0098c3fc.jpg
+    Pret    
+9/20/2020 10:58:43 PM 3.398,99 RON

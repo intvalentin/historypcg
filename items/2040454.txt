@@ -1,0 +1,10 @@
+    Cod    
+2040454
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-mt-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-win-10-pro/
+    Name    
+DELL OptiPlex 7070 MT, Procesor Intel® Core™ i7-9700 3.0GHz Coffee Lake, 8GB RAM, 1TB HDD, UHD 630, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/8977/2040454/thumbnails/optiplex-7070-tower-procesor-intel-core-i9-9900-310ghz-coffee-lake-32gb-ddr4-512gb-ssd-gma-uhd-630-linux-43491b878a7acea9cd581ae7ba524565.jpg
+    Pret    
+9/21/2020 12:02:15 AM 5.099,98 RON

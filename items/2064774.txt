@@ -1,0 +1,10 @@
+    Cod    
+2064774
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-black-hydra-se/
+    Name    
+Gaming Black Hydra, AMD Ryzen 5 3600 3.6GHz, 16GB DDR4, 1TB SSD, RTX 2070 SUPER 8GB GDDR6, Iluminare RGB
+    Img url    
+https://3.grgs.ro/images/products/1/4917/2064774/thumbnails/gaming-black-hydra-amd-ryzen-5-3600-36ghz-16gb-ddr4-1tb-ssd-rtx-2070-super-8gb-gddr6-iluminare-rgb-f6c0d7872cf142d9fa8b17b384538d90.jpg
+    Pret    
+9/21/2020 12:01:52 AM 6.999,99 RON

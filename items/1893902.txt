@@ -1,0 +1,10 @@
+    Cod    
+1893902
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-3-3200g-36ghz-box/
+    Name    
+AMD Ryzen 3 3200G 3.6GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1275/1893902/thumbnails/ryzen-3-3200g-36ghz-box-c0261fadda251d55fc4d46d73351dc23.jpg
+    Pret    
+9/21/2020 7:34:43 AM 499,99 RON

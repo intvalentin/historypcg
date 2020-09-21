@@ -1,0 +1,10 @@
+    Cod    
+2061158
+    Product link    
+https://www.pcgarage.ro/placi-video/evga/rtx-2060-ko-ultra-gaming-6gb-gddr6/
+    Name    
+EVGA GeForce RTX 2060 KO Ultra Gaming 6GB GDDR6 192-bit
+    Img url    
+https://3.grgs.ro/images/products/1/6954/2061158/thumbnails/geforce-rtx-2060-ko-gaming-6gb-gddr6-192-bit-c98bebc91d190825512195619332ea78.png
+    Pret    
+9/21/2020 7:33:44 AM 1.736,94 RON

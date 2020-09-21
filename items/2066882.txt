@@ -1,0 +1,10 @@
+    Cod    
+2066882
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-pavilion-13-an1014nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-silver/
+    Name    
+HP 13.3&#039;&#039; Pavilion 13-an1014nq, FHD IPS, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 1TB SSD, Intel Iris Plus, Win 10 Home, Silver
+    Img url    
+https://2.grgs.ro/images/products/1/3049/2066882/thumbnails/mwl_i7_10-4070f88df0c12dcc3d6fb55cdfda1e4f.jpg
+    Pret    
+9/20/2020 10:57:18 PM 4.883,91 RON

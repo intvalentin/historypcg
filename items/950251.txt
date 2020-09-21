@@ -1,0 +1,10 @@
+    Cod    
+950251
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/fx-8320e-32ghz-box/
+    Name    
+AMD Vishera, FX-8320E 3.2GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/3/950251/thumbnails/fx-8320-35ghz-box-1501454b4b42fdff1ea156e3c5af3aec.jpg
+    Pret    
+9/21/2020 7:34:58 AM 610,82 RON

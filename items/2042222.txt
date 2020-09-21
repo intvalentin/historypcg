@@ -1,0 +1,10 @@
+    Cod    
+2042222
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r240-procesor-intel-xeon-e-2134-35ghz-coffee-lake-2x-16gb-ddr4-ecc-udimm-2x-12tb-hdd-sas-72k-12g-perc-h330/
+    Name    
+DELL PowerEdge R240, Procesor Intel® Xeon® E-2134 3.5GHz Coffee Lake, 2x 16GB DDR4 ECC UDIMM, 2x 1.2TB HDD SAS 7.2K 12G, PERC H330
+    Img url    
+https://2.grgs.ro/images/products/1/1990366/2042222/thumbnails/poweredge-r240-procesor-intel-xeon-e-2124-33ghz-coffee-lake-16gb-ddr4-ecc-udimm-2tb-hdd-sas-hot-plug-perc-h330-a667500a0fc081d2840541d776e95aab.jpg
+    Pret    
+9/21/2020 12:03:51 AM 8.343,45 RON

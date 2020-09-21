@@ -1,0 +1,10 @@
+    Cod    
+263839
+    Product link    
+https://www.pcgarage.ro/memorii-server/kingston/8gb-ddr2-667mhz-cl5-18v-registered-parity/
+    Name    
+Kingston ECC RDIMM DDR2 8GB 667MHz CL5 1.8v
+    Img url    
+https://2.grgs.ro/images/products/1/634551/263839/thumbnails/8gb-ddr2-667mhz-cl5-18v-registered-parity-56904f01889e039e66878a3272aaff0e.jpg
+    Pret    
+9/21/2020 12:04:44 AM 1.749,99 RON

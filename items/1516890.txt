@@ -1,0 +1,10 @@
+    Cod    
+1516890
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-5-a515-51g-fhd-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-4gb-ddr4-1tb-geforce-mx150-2gb-linux-steel-gray/
+    Name    
+Acer 15.6&#039;&#039; Aspire 5 A515-51G, FHD, Procesor Intel® Core™ i5-7200U (3M Cache, up to 3.10 GHz), 4GB DDR4, 1TB, GeForce MX150 2GB, Linux, Steel Gray
+    Img url    
+https://3.grgs.ro/images/products/1/1505170/1516890/thumbnails/mwl_i5_7-6ac44cd4d20386042b661b84818ad751.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.799,99 RON

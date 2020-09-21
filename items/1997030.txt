@@ -1,0 +1,10 @@
+    Cod    
+1997030
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e15-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
+    Name    
+Lenovo 15.6&#039;&#039; ThinkPad E15, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.10 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Win 10 Pro, Black
+    Img url    
+https://2.grgs.ro/images/products/1/1990366/1997030/thumbnails/156-thinkpad-e15-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black-5394438e596e6b12e1a9dfa9f834fa4f.jpg
+    Pret    
+9/20/2020 10:58:16 PM 4.298,99 RON

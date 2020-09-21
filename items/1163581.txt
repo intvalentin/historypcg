@@ -1,0 +1,10 @@
+    Cod    
+1163581
+    Product link    
+https://www.pcgarage.ro/memorii-server/crucial/ecc-udimm-ddr4-16gb-2400mhz-cl17-12v-dual-rank-x8/
+    Name    
+Crucial ECC UDIMM DDR4 16GB 2400MHz CL17 1.2v Dual Rank x8
+    Img url    
+https://3.grgs.ro/images/products/1/843505/1163581/thumbnails/ecc-udimm-ddr4-8gb-2400mhz-cl17-12v-single-rank-x8-4a5eeb0e55f2a0d10e44e41e9b39bc6e.jpg
+    Pret    
+9/21/2020 12:04:41 AM 1.047,80 RON

@@ -1,0 +1,10 @@
+    Cod    
+2025702
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i7fnk2-core-i7-10710u-11ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC10I7FNK2, Core i7-10710U 1.1GHz, 2x DDR4 64GB max, M.2 SSD, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://3.grgs.ro/images/products/1/9002/2025702/thumbnails/nuc-next-unit-of-computing-nuc10i3fnk2-core-i3-10110u-21ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi-a2ed3b59631a3e8d1ca086dc4f1adfa5.jpg
+    Pret    
+9/21/2020 12:03:28 AM 2.764,98 RON

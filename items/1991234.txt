@@ -1,0 +1,10 @@
+    Cod    
+1991234
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-dk0035nq-fhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-freedos-shadow-black/
+    Name    
+HP Gaming 15.6&#039;&#039; Pavilion 15-dk0035nq, FHD IPS, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 512GB SSD, GeForce GTX 1660 Ti 6GB, FreeDos, Shadow Black
+    Img url    
+https://4.grgs.ro/images/products/1/6835/1991234/thumbnails/mwl_i7_9-f9d096cf91b8984e5f82dff038ab6d57.jpg
+    Pret    
+9/20/2020 11:00:30 PM 6.799,00 RON

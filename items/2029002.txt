@@ -1,0 +1,10 @@
+    Cod    
+2029002
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-x509ja-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-grey/
+    Name    
+ASUS 15.6&#039;&#039; X509JA, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 4GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Grey
+    Img url    
+https://4.grgs.ro/images/products/1/6622/2029002/thumbnails/156-x509ja-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-grey-92f602def21bb67eaf215413f301091f.jpg
+    Pret    
+9/20/2020 11:00:26 PM 2.498,99 RON

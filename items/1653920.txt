@@ -1,0 +1,10 @@
+    Cod    
+1653920
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-silver-4112-26ghz-box/
+    Name    
+Intel Xeon Silver 4112 2.6GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/530/1653920/thumbnails/xeon-silver-4110-21ghz-box-76fa264e4cae0ded53595214018b3094.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.913,87 RON

@@ -1,0 +1,10 @@
+    Cod    
+2046610
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/workstation-pixel-paladin-ii/
+    Name    
+Workstation Pixel Paladin, AMD Ryzen 7 3700X 3.6GHz, 16GB DDR4, 2TB HDD + 480GB SSD, RX 570 8GB GDDR5
+    Img url    
+https://1.grgs.ro/images/products/1/2554/2046610/thumbnails/workstation-pixel-paladin-amd-ryzen-7-3700x-36ghz-16gb-ddr4-2tb-hdd-plus-480gb-ssd-rx-570-8gb-gddr5-db34e3dbc68eae6cf55534475a9614fd.jpg
+    Pret    
+9/21/2020 12:01:52 AM 4.639,99 RON

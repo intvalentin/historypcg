@@ -1,0 +1,10 @@
+    Cod    
+1670652
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7cjyh2-celeron-j4005-20ghz-2x-ddr4-8gb-max-hdd-25-inch-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC7CJYH2, Celeron J4005 2.0GHz, 2x DDR4 8GB max, HDD 2.5 inch, HDMI
+    Img url    
+https://1.grgs.ro/images/products/1/1663772/1670652/thumbnails/intel-boxnuc7cjyh2-j4005-ddr4-2400-hdmi-box-662783d2da89d300f5fb529969535048.jpg
+    Pret    
+9/21/2020 12:03:33 AM 594,98 RON

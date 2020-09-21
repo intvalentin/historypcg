@@ -1,0 +1,10 @@
+    Cod    
+2009018
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/thinksystem-sr590-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-3x-600gb-10k-sas-930-8i-2x-750w/
+    Name    
+Lenovo ThinkSystem SR590 Procesor Intel® Xeon® Silver 4210 2.2GHz Skylake, 16GB RAM DDR4 2Rx8 RDIMM, 3x 600GB 10k SAS, 930-8i, 2x 750W
+    Img url    
+https://3.grgs.ro/images/products/1/2003606/2009018/thumbnails/thinksystem-sr590-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-3x-600gb-10k-sas-930-8i-2x-750w-94de7c1121f129d0fff3ea9be780d558.jpg
+    Pret    
+9/21/2020 12:03:56 AM 14.149,63 RON

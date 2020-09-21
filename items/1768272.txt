@@ -1,0 +1,10 @@
+    Cod    
+1768272
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/asus/pn40-procesor-intel-celeron-n4000-110ghz-gemini-lake-4gb-ddr4-64gb-emmc-gma-uhd-620/
+    Name    
+ASUS PN40, Procesor Intel® Celeron® N4000 1.10GHz Gemini Lake, 4GB DDR4, 64GB eMMC, GMA UHD 620
+    Img url    
+https://5.grgs.ro/images/products/1/1765416/1768272/thumbnails/mini-pc-pn40-procesor-intel-celeron-n4000-110ghz-gemini-lake-4gb-ddr4-64gb-emmc-gma-uhd-620-c2d3ef3c749514819b207d690f3ba665.jpg
+    Pret    
+9/21/2020 12:03:37 AM 1.399,98 RON

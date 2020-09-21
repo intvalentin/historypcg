@@ -1,0 +1,10 @@
+    Cod    
+2046194
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-serpent-ii/
+    Name    
+Gaming Serpent, Intel i7-9700F 3.0GHz Coffee Lake, 16GB DDR4, 2TB HDD + 256GB SSD, RX 5700 8GB GDDR6, Iluminare RGB
+    Img url    
+https://3.grgs.ro/images/products/1/1034/2046194/thumbnails/gaming-serpent-intel-i7-9700f-30ghz-coffee-lake-16gb-ddr4-2tb-hdd-plus-256gb-ssd-rx-5700-8gb-gddr6-iluminare-rgb-843c4b52d1395793836a732ba54bc61d.png
+    Pret    
+9/21/2020 12:01:52 AM 6.499,99 RON

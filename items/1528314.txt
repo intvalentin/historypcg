@@ -1,0 +1,10 @@
+    Cod    
+1528314
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/a6-9500e-30ghz-box/
+    Name    
+AMD A6 9500E 3.0GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1408706/1528314/thumbnails/a6-9500e-30-ghz-ec41c17f3a9a391ba863d65ae1d5c2fc.jpg
+    Pret    
+9/21/2020 7:34:53 AM 192,83 RON

@@ -1,0 +1,10 @@
+    Cod    
+2042178
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r740-2u-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-1x-16gb-rdimm-ddr4-2400mhz-1x-600gb-10k-12g-sas-hdd-perc-h730p/
+    Name    
+DELL PowerEdge R740 2U, Procesor Intel® Xeon® Silver 4208 2.1GHz Cascade Lake, 1x 16GB RDIMM DDR4 2400MHz, 1x 600GB 10K 12G SAS HDD, PERC H730P
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2042178/thumbnails/poweredge-r740-2u-procesor-intel-xeon-silver-4110-21ghz-skylake-1x-16gb-rdimm-ddr4-2666mhz-1x-600gb-10k-12g-sas-hdd-perc-h730p-7ba9dd9ec34676bca21ae1f7776c6600.jpg
+    Pret    
+9/21/2020 12:03:56 AM 14.491,83 RON

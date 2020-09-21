@@ -1,0 +1,10 @@
+    Cod    
+1514902
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-1950x-34ghz-box/
+    Name    
+AMD Ryzen Threadripper 1950X 3.4GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1457254/1514902/thumbnails/ryzen-threadripper-1950x-34ghz-box-11767e6886bafb2466fabd95752dde7f.jpg
+    Pret    
+9/21/2020 7:35:10 AM 4.085,17 RON

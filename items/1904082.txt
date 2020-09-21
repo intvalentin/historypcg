@@ -1,0 +1,11 @@
+    Cod    
+1904082
+    Product link    
+https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2070-super-ventus-oc-8gb-gddr6-256-bit/
+    Name    
+MSI GeForce RTX 2070 SUPER VENTUS OC 8GB GDDR6 256-bit
+    Img url    
+https://4.grgs.ro/images/products/1/1899326/1904082/thumbnails/geforce-rtx-2070-super-ventus-oc-8gb-gddr6-256-bit-eda50efee8d8aa051c408edc97b91c3e.jpg
+    Pret    
+9/21/2020 12:06:52 AM 3.081,61 RON
+9/21/2020 7:33:00 AM 3.081,61 RON

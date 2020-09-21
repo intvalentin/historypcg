@@ -1,0 +1,10 @@
+    Cod    
+1863862
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9100f-360ghz-box/
+    Name    
+Intel Core™ i3-9100F 6M Cache, up to 4.20 GHz
+    Img url    
+https://2.grgs.ro/images/products/1/7399/1863862/thumbnails/coffee-lake-core-i3-9100f-360ghz-box-c56edf4592a0f00bc0dea9c9baa47c01.png
+    Pret    
+9/21/2020 7:34:36 AM 348,24 RON

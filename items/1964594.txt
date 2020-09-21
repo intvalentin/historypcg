@@ -1,0 +1,10 @@
+    Cod    
+1964594
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-pavilion-13-an1000nq-fhd-ips-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-freedos-silver/
+    Name    
+HP 13.3&#039;&#039; Pavilion 13-an1000nq, FHD IPS, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 512GB SSD, GMA UHD, FreeDos, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/3049/1964594/thumbnails/mwl_i5_10-587b4482729a788d29f870e1c0a93107.jpg
+    Pret    
+9/20/2020 10:57:51 PM 3.199,00 RON

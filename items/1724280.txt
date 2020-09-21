@@ -1,0 +1,10 @@
+    Cod    
+1724280
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/lenovo/thinkcentre-m910q-tiny-procesor-intel-core-i5-7500t-27ghz-kaby-lake-8gb-ddr4-256gb-ssd-gma-hd-630-win-10-pro/
+    Name    
+Lenovo ThinkCentre M910Q Tiny, Procesor Intel® Core™ i5-7500T 2.7GHz Kaby Lake, 8GB DDR4, 256GB SSD, GMA HD 630, Win 10 Pro
+    Img url    
+https://4.grgs.ro/images/products/1/5633/1724280/thumbnails/thinkcentre-m910q-tiny-procesor-intel-core-i7-7700t-29ghz-kaby-lake-8gb-ddr4-256gb-ssd-gma-hd-630-win-10-pro-f2a70731a7127899a73c143e5cffd1d6.jpg
+    Pret    
+9/21/2020 12:03:42 AM 4.584,98 RON

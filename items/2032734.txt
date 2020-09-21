@@ -1,0 +1,10 @@
+    Cod    
+2032734
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-3-3300x-38ghz-box/
+    Name    
+AMD Ryzen 3 3300X 3.8GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2032734/thumbnails/ryzen-3-3300x-38ghz-box-7ff62cef191527bd5826fa5ae9a39ce5.jpg
+    Pret    
+9/21/2020 7:34:43 AM 600,54 RON

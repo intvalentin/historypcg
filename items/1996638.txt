@@ -1,0 +1,10 @@
+    Cod    
+1996638
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g3-3590-fhd-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1050-3gb-linux-black-3yr-cis/
+    Name    
+DELL Gaming 15.6&#039;&#039; G3 3590, FHD, Procesor Intel® Core™ i5-9300H (8M Cache, up to 4.10 GHz), 8GB DDR4, 512GB SSD, GeForce GTX 1050 3GB, Linux, Black, 3Yr CIS
+    Img url    
+https://4.grgs.ro/images/products/1/8486/1996638/thumbnails/mwl_i5_9-4e9a64c0708d08a7eaedd1b320b54059.jpg
+    Pret    
+9/20/2020 10:59:00 PM 4.001,48 RON

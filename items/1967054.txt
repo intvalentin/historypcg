@@ -1,0 +1,10 @@
+    Cod    
+1967054
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-tower-procesor-intel-core-i9-9900-310ghz-coffee-lake-32gb-ddr4-512gb-ssd-gma-uhd-630-linux/
+    Name    
+DELL OptiPlex 7070 Tower, Procesor Intel® Core™ i9-9900 3.10GHz Coffee Lake, 32GB DDR4, 512GB SSD, GMA UHD 630, Linux
+    Img url    
+https://5.grgs.ro/images/products/1/8977/1967054/thumbnails/optiplex-7070-tower-procesor-intel-core-i9-9900-310ghz-coffee-lake-32gb-ddr4-512gb-ssd-gma-uhd-630-linux-ef3f0318ed143909a741814193cc9f04.jpg
+    Pret    
+9/21/2020 12:02:38 AM 8.049,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+1407654
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-pro-6tb-sata-iii-7200rpm-256mb/
+    Name    
+Seagate BarraCuda Pro 6TB SATA-III 7200RPM 256MB
+    Img url    
+https://3.grgs.ro/images/products/1/1000151/1407654/thumbnails/barracuda-pro-6tb-sata-iii-7200rpm-256mb-50084ba52855242c7ba2e4cd56a92729.jpg
+    Pret    
+9/21/2020 7:45:33 AM 1.124,01 RON

@@ -1,0 +1,10 @@
+    Cod    
+2042398
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/dell/optiplex-7070-uff-procesor-intel-core-i5-8365u-16ghz-whiskey-lake-16gb-ram-256gb-ssd-uhd-graphics-win-10-pro/
+    Name    
+DELL OptiPlex 7070 UFF, Procesor Intel® Core™ i5-8365U 1.6GHz Whiskey Lake, 16GB RAM, 256GB SSD, UHD Graphics, Win 10 Pro
+    Img url    
+https://4.grgs.ro/images/products/1/2034042/2042398/thumbnails/optiplex-7070-uff-procesor-intel-core-i5-8265u-16ghz-whiskey-lake-8gb-ram-256gb-ssd-uhd-graphics-win-10-pro-f6fa099d14a6935d39edf1b74916cb23.jpg
+    Pret    
+9/21/2020 12:03:46 AM 4.764,98 RON

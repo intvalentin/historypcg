@@ -1,0 +1,10 @@
+    Cod    
+2051050
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/133-probook-430-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver-1/
+    Name    
+HP 13.3&#039;&#039; ProBook 430 G7, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/9943/2051050/thumbnails/mwl_i5_10-112a53f643017133200972e8c31b1e14.jpg
+    Pret    
+9/20/2020 10:59:10 PM 3.736,82 RON

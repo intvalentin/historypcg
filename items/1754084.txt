@@ -1,0 +1,10 @@
+    Cod    
+1754084
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/legion-c530-cube-procesor-intel-core-i3-8100-36ghz-coffee-lake-8gb-ddr4-1tb-hdd-geforce-gtx-1050-2gb-freedos/
+    Name    
+Lenovo Gaming Legion C530 Cube, Procesor Intel® Core™ i3-8100 3.6GHz Coffee Lake, 8GB DDR4, 1TB HDD, GeForce GTX 1050 2GB, FreeDos
+    Img url    
+https://1.grgs.ro/images/products/1/1723568/1754084/thumbnails/legion-c530-cube-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-128gb-ssd-plus-1tb-hdd-geforce-gtx-1050-ti-4gb-freedos-7aa2ceac8b11f62f4af98e959e9e3cd8.png
+    Pret    
+9/21/2020 12:02:24 AM 2.559,98 RON

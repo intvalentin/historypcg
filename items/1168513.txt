@@ -1,0 +1,10 @@
+    Cod    
+1168513
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/compute-stick-stk2m3w64cc-core-m3-6y30-900mhz-4gb-64gb-emmc-hdmi-windows-10/
+    Name    
+Intel Compute Stick STK2M3W64CC, Core m3-6Y30 900MHz, 4GB, 64GB eMMC, HDMI, Windows 10
+    Img url    
+https://4.grgs.ro/images/products/1/960827/1168513/thumbnails/compute-stick-stk2mv64cc-core-m5-6y57-11ghz-4gb-62gb-emmc-hdmi-bulk-75e298f871e0e6bba187064d365c379d.jpg
+    Pret    
+9/21/2020 12:03:28 AM 1.824,98 RON

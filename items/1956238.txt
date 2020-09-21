@@ -1,0 +1,10 @@
+    Cod    
+1956238
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-s15-s531fa-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-freedos-gun-metal/
+    Name    
+ASUS 15.6&#039;&#039; VivoBook S15 S531FA, FHD, Procesor Intel® Core™ i5-8265U (6M Cache, up to 3.90 GHz), 8GB DDR4, 256GB SSD, GMA UHD 620, FreeDos, Gun Metal
+    Img url    
+https://2.grgs.ro/images/products/1/1953966/1956238/thumbnails/mwl_i5_8-83f02ff9a16e29a66f46fc769ea4362f.jpg
+    Pret    
+9/20/2020 10:58:26 PM 2.698,99 RON

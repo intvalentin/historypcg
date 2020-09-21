@@ -1,0 +1,10 @@
+    Cod    
+1749888
+    Product link    
+https://www.pcgarage.ro/ssd/intel/s4610-d3-series-960gb-sata-iii-25-inch/
+    Name    
+Intel S4610 D3 Series 960GB SATA-III 2.5 inch
+    Img url    
+https://4.grgs.ro/images/products/1/1736364/1749888/thumbnails/s4610-d3-series-480gb-sata-iii-25-inch-7c2c49fb1b201af5bfd7b082d93e605e.jpg
+    Pret    
+9/21/2020 7:44:45 AM 1.353,38 RON

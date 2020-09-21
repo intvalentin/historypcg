@@ -1,0 +1,10 @@
+    Cod    
+1730800
+    Product link    
+https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2080-blower-8gb-gddr6-256-bit-1/
+    Name    
+PNY GeForce RTX 2080 Blower 8GB GDDR6 256-bit
+    Img url    
+https://1.grgs.ro/images/products/1/8674/1730800/thumbnails/geforce-rtx-2080-blower-8gb-gddr6-256-bit-f787bd4da3eb8c8b5f3b66f75ca53d30.jpg
+    Pret    
+9/21/2020 7:34:10 AM 3.556,55 RON

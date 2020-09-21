@@ -1,0 +1,10 @@
+    Cod    
+2033554
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-15s-fq1023nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-free-dos-silver/
+    Name    
+HP 15.6&#039;&#039; 15s-fq1023nq, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 512GB SSD, GMA UHD, Free DOS, Silver
+    Img url    
+https://3.grgs.ro/images/products/1/1960570/2033554/thumbnails/mwl_i5_10-3c3b9af9883878cac6875400c26d84f6.jpg
+    Pret    
+9/20/2020 11:00:02 PM 2.999,00 RON

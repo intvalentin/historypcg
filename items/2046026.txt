@@ -1,0 +1,10 @@
+    Cod    
+2046026
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/firstgear/gaming-rift/
+    Name    
+FirstGear Gaming Rift, Intel i5-9400F 2.9GHz Coffee Lake, 8GB DDR4, 240GB SSD, RX 570 8GB GDDR5, Iluminare RGB
+    Img url    
+https://3.grgs.ro/images/products/1/1034/2046026/thumbnails/gaming-rift-intel-i5-9400f-29ghz-coffee-lake-8gb-ddr4-240gb-ssd-rx-570-8gb-gddr5-iluminare-rgb-bc3e2e023acce7f099de27c88bd61b9b.jpg
+    Pret    
+9/21/2020 12:01:50 AM 2.399,99 RON

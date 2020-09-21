@@ -1,0 +1,10 @@
+    Cod    
+1754468
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/superserver-5018r-m-rack-1u-procesor-intel-xeon-e5-2603-v4-17ghz-broadwell-8gb-rdimm-ddr4-2x-1tb-hdd-lff-35-inch/
+    Name    
+Supermicro SuperServer 5018R-M, Rack 1U, Procesor Intel® Xeon® E5-2603 v4 1.7GHz Broadwell, 8GB RDIMM DDR4, 2x 1TB HDD, LFF 3.5 inch
+    Img url    
+https://1.grgs.ro/images/products/1/1427586/1754468/thumbnails/superserver-5018r-mr-rack-1u-procesor-intel-xeone5-2620-v4-21ghz-broadwell-2x-16gb-rdimm-ddr4-2x-12tb-ssd-lff-35-inch-53127f7a3b5430720e53fd3960d952cc.jpg
+    Pret    
+9/21/2020 12:04:01 AM 6.098,00 RON

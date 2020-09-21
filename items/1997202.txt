@@ -1,0 +1,10 @@
+    Cod    
+1997202
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-microserver-gen10-procesor-amd-opteron-x3418-18-32-ghz-8gb-udimm-ddr4-4x-hdd-35-inch-1x-200w/
+    Name    
+HP ProLiant MicroServer Gen10, Procesor AMD Opteron™ X3418, 1.8-3.2 GHz, 8GB UDIMM DDR4, 4x HDD 3.5 inch, 1x 200W
+    Img url    
+https://5.grgs.ro/images/products/1/1990682/1997202/thumbnails/proliant-microserver-gen10-procesor-amd-opteron-x3418-18-32-ghz-8gb-udimm-ddr4-4x-hdd-35-inch-1x-200w-002242e610a39bfbd42352b7dcf6c360.jpg
+    Pret    
+9/21/2020 12:04:00 AM 3.373,02 RON

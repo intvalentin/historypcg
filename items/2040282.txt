@@ -1,0 +1,10 @@
+    Cod    
+2040282
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-celeron-g4930-320ghz-coffee-lake-4gb-ddr4-1tb-hdd-uhd-610-freedos/
+    Name    
+Lenovo V530s, Procesor Intel® Celeron™ G4930 3.20GHz Coffee Lake, 4GB DDR4, 1TB HDD, UHD 610, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/3442/2040282/thumbnails/v530s-procesor-intel-core-i7-8700-320ghz-coffee-lake-8gb-ddr4-1tb-hdd-gma-uhd-630-win-10-pro-4b97aad0b26c45c9a8a4b208db0ab49c.png
+    Pret    
+9/21/2020 12:02:03 AM 1.299,98 RON

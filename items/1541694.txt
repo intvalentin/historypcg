@@ -1,0 +1,10 @@
+    Cod    
+1541694
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/hp/z240-twr-procesor-intel-xeon-e3-1225-v5-33ghz-skylake-8gb-ddr4-512gb-ssd-quadro-k620-2gb-win-10-pro/
+    Name    
+HP Z240 TWR, Procesor Intel® Xeon® E3-1225 v5 3.3GHz Skylake, 8GB DDR4, 512GB SSD, Quadro K620 2GB, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/782584/1541694/thumbnails/z240-twr-procesor-intel-xeon-e3-1245-v5-34ghz-skylake-16gb-ddr4-2tb-hdd-plus-256gb-ssd-quadro-k620-2gb-win-7-pro-plus-win-10-pro-b657f2dba216440bac9f222484dce13a.jpg
+    Pret    
+9/21/2020 12:02:38 AM 8.279,98 RON

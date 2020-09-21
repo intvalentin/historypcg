@@ -1,0 +1,10 @@
+    Cod    
+2066370
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-3i-27-inch-fhd-procesor-intel-core-i5-10400t-20ghz-comet-lake-16gb-ram-256gb-ssd-plus-1tb-hdd-radeon-625-2gb-camera-web-freedos/
+    Name    
+Lenovo IdeaCentre 3i, 27 inch FHD, Procesor Intel® Core™ i5-10400T 2.0GHz Comet Lake, 16GB RAM, 256GB SSD + 1TB HDD, Radeon 625 2GB, Camera Web, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/6954/2066370/thumbnails/ideacentre-3-27-inch-fhd-procesor-intel-core-i5-10400t-20ghz-comet-lake-8gb-ram-512gb-ssd-uhd-630-camera-web-freedos-a8e3a9ec91fe24b74d182fc7e0a7f046.jpg
+    Pret    
+9/21/2020 12:02:48 AM 4.199,98 RON

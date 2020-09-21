@@ -1,0 +1,10 @@
+    Cod    
+1653924
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-silver-4108-18ghz-box/
+    Name    
+Intel Xeon Silver 4108 1.8GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/530/1653924/thumbnails/xeon-silver-4110-21ghz-box-76fa264e4cae0ded53595214018b3094.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.398,76 RON

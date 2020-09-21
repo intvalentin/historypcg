@@ -1,0 +1,10 @@
+    Cod    
+2065286
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/asus/v241ffk-238-inch-fhd-procesor-intel-core-i5-8265u-16ghz-whiskey-lake-8gb-ram-512gb-ssd-geforce-mx130-2gb-camera-web-endlessos/
+    Name    
+ASUS V241FFK, 23.8 inch FHD, Procesor Intel® Core™ i5-8265U 1.6GHz Whiskey Lake, 8GB RAM, 512GB SSD, GeForce MX130 2GB, Camera Web, EndlessOS
+    Img url    
+https://4.grgs.ro/images/products/1/1736364/2065286/thumbnails/215-quot-v222gak-fhd-procesor-intel-celeron-j4005-20ghz-gemini-lake-4gb-ddr4-500gb-hdd-gma-uhd-600-linux-b0d4a6b65ead8ef1417436e02b38bb9f.jpg
+    Pret    
+9/21/2020 12:02:48 AM 3.479,98 RON

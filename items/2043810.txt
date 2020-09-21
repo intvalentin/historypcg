@@ -1,0 +1,10 @@
+    Cod    
+2043810
+    Product link    
+https://www.pcgarage.ro/ultrabook/dell/156-xps-15-9500-uhd-plus-infinityedge-touch-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1650-ti-4gb-win-10-pro-platinum-silver-3yr-bos/
+    Name    
+DELL 15.6&#039;&#039; XPS 15 9500, UHD+ InfinityEdge Touch, Procesor Intel® Core™ i7-10750H (12M Cache, up to 5.00 GHz), 16GB DDR4, 1TB SSD, GeForce GTX 1650 Ti 4GB, Win 10 Pro, Platinum Silver, 3Yr BOS
+    Img url    
+https://2.grgs.ro/images/products/1/1034/2043810/thumbnails/156-xps-15-9500-fhd-plus-infinityedge-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-win-10-pro-plat-d0c6ff7d974c04b45ff718a010cf48b6.jpg
+    Pret    
+9/20/2020 10:57:34 PM 16.187,21 RON

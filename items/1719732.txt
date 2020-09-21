@@ -1,0 +1,10 @@
+    Cod    
+1719732
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510-15icb-procesor-intel-core-i5-8400-28ghz-coffee-lake-4gb-ddr4-1tb-hdd-geforce-gt-730-2gb-freedos/
+    Name    
+Lenovo IdeaCentre 510-15ICB, Procesor Intel® Core™ i5-8400 2.8GHz Coffee Lake, 4GB DDR4, 1TB HDD, GeForce GT 730 2GB, FreeDos
+    Img url    
+https://4.grgs.ro/images/products/1/1691852/1719732/thumbnails/ideacentre-510-15icb-procesor-intel-core-i3-8100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-freedos-0604abcefd2970ce22d17569adba0943.jpg
+    Pret    
+9/21/2020 12:02:24 AM 2.419,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2062622
+    Product link    
+https://www.pcgarage.ro/coolere/asus/rog-strix-lc-360-rgb/
+    Name    
+ASUS ROG STRIX LC 360 RGB
+    Img url    
+https://1.grgs.ro/images/products/1/6954/2062622/thumbnails/rog-strix-lc-360-rgb-e03d545469ab975d4deab0378d745b2b.jpg
+    Pret    
+9/21/2020 7:54:16 AM 1.142,88 RON

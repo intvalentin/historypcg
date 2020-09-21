@@ -1,0 +1,10 @@
+    Cod    
+2033698
+    Product link    
+https://www.pcgarage.ro/ultrabook/microsoft/123-surface-pro-7-pixelsense-touch-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-8gb-ddr4x-256gb-ssd-intel-iris-plus-win-10-home-black/
+    Name    
+Microsoft 12.3&#039;&#039; Surface Pro 7, PixelSense Touch, Procesor Intel® Core™ i5-1035G4 (6M Cache, up to 3.70 GHz), 8GB DDR4X, 256GB SSD, Intel Iris Plus, Win 10 Home, Black
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2033698/thumbnails/123-surface-pro-7-pixelsense-touch-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-8gb-ddr4x-256gb-ssd-intel-iris-plus-win-10-home-black-dd9df7ef4e76b75dce8ba8ccb05bd117.jpg
+    Pret    
+9/20/2020 10:57:22 PM 6.199,00 RON

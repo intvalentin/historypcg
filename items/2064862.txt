@@ -1,0 +1,10 @@
+    Cod    
+2064862
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-microserver-gen10-plus-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-udimm-ddr4-s100i-4x-lff/
+    Name    
+HP ProLiant MicroServer Gen10 Plus, Procesor Intel® Xeon® E-2224 3.4GHz Coffee Lake, 16GB UDIMM DDR4, S100i, 4x LFF
+    Img url    
+https://1.grgs.ro/images/products/1/8491/2064862/thumbnails/proliant-microserver-gen10-plus-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-udimm-ddr4-1tb-hdd-s100i-sw-raid-4x-lff-fcb3337c5bf15ef66bba9f52b27c124a.jpg
+    Pret    
+9/21/2020 12:03:56 AM 3.885,71 RON

@@ -1,0 +1,10 @@
+    Cod    
+1928730
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-hero-iii-g531gv-fhd-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-no-os-black/
+    Name    
+ASUS Gaming 15.6&#039;&#039; ROG Strix Hero III G531GV, FHD 144Hz, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 8GB DDR4, 512GB SSD, GeForce RTX 2060 6GB, No OS, Black
+    Img url    
+https://5.grgs.ro/images/products/1/6622/1928730/thumbnails/mwl_i7_9-9ee5b141052c6d7c684b58e16fe9e598.jpg
+    Pret    
+9/20/2020 11:00:40 PM 5.998,99 RON

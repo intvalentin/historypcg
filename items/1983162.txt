@@ -1,0 +1,10 @@
+    Cod    
+1983162
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e15-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
+    Name    
+Lenovo 15.6&#039;&#039; ThinkPad E15, FHD, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Win 10 Pro, Black
+    Img url    
+https://3.grgs.ro/images/products/1/1977958/1983162/thumbnails/mwl_i7_10-f07e0595facb3ed0cc67a956b01cbf2c.jpg
+    Pret    
+9/20/2020 11:00:30 PM 5.471,20 RON

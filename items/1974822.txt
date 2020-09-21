@@ -1,0 +1,10 @@
+    Cod    
+1974822
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-3960x-38ghz-box/
+    Name    
+AMD Ryzen Threadripper 3960X 3.8GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/6472/1974822/thumbnails/ryzen-threadripper-3970x-37ghz-box-8e33809cd0f18c02cc7796bca70bece8.jpg
+    Pret    
+9/21/2020 7:34:43 AM 7.304,50 RON

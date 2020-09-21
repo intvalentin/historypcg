@@ -1,0 +1,10 @@
+    Cod    
+1748196
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i9-9900k-360ghz-box/
+    Name    
+Intel Coffee Lake, Core i9 9900K 3.6GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1737700/1748196/thumbnails/coffee-lake-core-i9-9900k-360ghz-box-37741e468025941465b4b9a2136d793e.jpg
+    Pret    
+9/21/2020 7:34:36 AM 1.994,47 RON

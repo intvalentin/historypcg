@@ -1,0 +1,11 @@
+    Cod    
+2000006
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/radeon-rx-570-rog-strix-gaming-o8g-8gb-gddr5-256-bit/
+    Name    
+ASUS Radeon RX 570 ROG STRIX GAMING O8G 8GB GDDR5 256-bit
+    Img url    
+https://4.grgs.ro/images/products/1/1415042/2000006/thumbnails/radeon-rx-570-strix-gaming-o4g-4gb-ddr5-256-bit-c35bf9add97c3b8e0256a9df2a21e302.jpg
+    Pret    
+9/21/2020 12:06:29 AM 967,87 RON
+9/21/2020 7:32:38 AM 967,87 RON

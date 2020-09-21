@@ -1,0 +1,10 @@
+    Cod    
+868000
+    Product link    
+https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-8gb-ddr3-1333mhz-cl9/
+    Name    
+Corsair ValueSelect, 8GB, DDR3, 1333MHz, CL9, 1.35v
+    Img url    
+https://3.grgs.ro/images/products/1/5/868000/thumbnails/valueselect-8gb-ddr3-1333mhz-cl9-15v-f826f47d92de2026d54cd01e530d5ba3.jpg
+    Pret    
+9/20/2020 11:02:20 PM 203,98 RON

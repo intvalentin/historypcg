@@ -1,0 +1,10 @@
+    Cod    
+1844232
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-e490-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad E490, FHD, Procesor Intel® Core™ i5-8265U (6M Cache, up to 3.90 GHz), 8GB DDR4, 512GB SSD, GMA UHD 620, Win 10 Pro, Black
+    Img url    
+https://3.grgs.ro/images/products/1/4338/1844232/thumbnails/14-thinkpad-e490-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black-affd38878dd1169b6fa2e113ea0dde6d.jpg
+    Pret    
+9/20/2020 11:01:08 PM 4.401,23 RON

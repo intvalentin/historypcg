@@ -1,0 +1,10 @@
+    Cod    
+976467
+    Product link    
+https://www.pcgarage.ro/memorii-server/kingston/ecc-lrdimm-ddr3-32gb-1600mhz-cl11-135v-quad-rank-compatibil-hp-compaq/
+    Name    
+Kingston ECC LRDIMM DDR3 32GB 1600MHz CL11 1.35v Quad Rank - compatibil HP/Compaq
+    Img url    
+https://4.grgs.ro/images/products/1/498497/976467/thumbnails/ecc-lrdimm-ddr3-32gb-1600mhz-cl11-135v-quad-rank-compatibil-hp-compaq-6cfdb480f48bd8046c21995482bf23de.jpg
+    Pret    
+9/21/2020 12:04:44 AM 2.200,87 RON

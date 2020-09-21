@@ -1,0 +1,10 @@
+    Cod    
+1891794
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-quot-250-g7-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-home-silver/
+    Name    
+HP 15.6&quot; 250 G7, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD 620, Win 10 Home, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/1868718/1891794/thumbnails/mwl_i7_8-7e29d0b20914b70a890af22ba6845feb.jpg
+    Pret    
+9/20/2020 11:00:59 PM 3.283,21 RON

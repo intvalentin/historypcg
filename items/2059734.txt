@@ -1,0 +1,10 @@
+    Cod    
+2059734
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14s-gen-1-fhd-procesor-amd-ryzen-5-pro-4650u-8m-cache-up-to-40-ghz-16gb-ddr4-256gb-ssd-radeon-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad T14s Gen 1, FHD, Procesor AMD Ryzen™ 5 PRO 4650U (8M Cache, up to 4.0 GHz), 16GB DDR4, 256GB SSD, Radeon, Win 10 Pro, Black
+    Img url    
+https://2.grgs.ro/images/products/1/6954/2059734/thumbnails/14-thinkpad-t14s-gen-1-uhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-1tb-ssd-gma-uhd-4g-lte-win-10-pro-black-f695eac632cd37e89553124edf0b55c4.jpg
+    Pret    
+9/20/2020 10:59:29 PM 6.769,00 RON

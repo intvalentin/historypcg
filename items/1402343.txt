@@ -1,0 +1,10 @@
+    Cod    
+1402343
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-t7910-tower-2x-procesor-intel-xeon-e5-2630-v3-24ghz-haswell-8x-32gb-ddr4-1x-1tb-hdd-plus-1x-1tb-ssd-2x-amd-firepro-w8100-8gb-win-10-pro-3yr-nbd/
+    Name    
+DELL Precision T7910 Tower, 2x Procesor Intel® Xeon® E5-2650 v3 2.3GHz Haswell, 8x 32GB DDR4, 1x 1TB HDD + 1x 1TB SSD, 2x AMD FirePro W8100 8GB, Win 10 Pro, 3yr NBD
+    Img url    
+https://5.grgs.ro/images/products/1/815230/1402343/thumbnails/precision-t7910-tower-2x-procesor-intel-xeon-e5-2620-v3-24ghz-haswell-8x-16gb-rdimm-ddr4-5x-12tb-pcie-nvme-30-x4-5x-1tb-ssd-sata-sff-25-inch-megaraid--2c23600f793c8097850fc2726a604e08.jpg
+    Pret    
+9/21/2020 12:02:44 AM 50.139,98 RON

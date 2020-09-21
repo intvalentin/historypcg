@@ -1,0 +1,10 @@
+    Cod    
+2033598
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-3-14iil05-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-abyss-blue/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 3 14IIL05, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 512GB SSD, GMA UHD, No OS, Abyss Blue
+    Img url    
+https://5.grgs.ro/images/products/1/3041/2033598/thumbnails/14-ideapad-3-14iil05-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-abyss-blue-114bc65ade8ee393ef00f7b34f3d558a.jpg
+    Pret    
+9/20/2020 10:57:01 PM 2.598,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1991222
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-omen-17-cb0011nq-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-7200-rpm-plus-256gb-ssd-geforce-gtx-1660-ti-6gb-freedos-shadow-black/
+    Name    
+HP Gaming 17.3&#039;&#039; OMEN 17-cb0011nq, FHD IPS 144Hz, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 1TB 7200 RPM + 256GB SSD, GeForce GTX 1660 Ti 6GB, FreeDos, Shadow Black
+    Img url    
+https://4.grgs.ro/images/products/1/6472/1991222/thumbnails/mwl_i7_9-12e496d8afb5a97970a0f758cbc28a7d.jpg
+    Pret    
+9/20/2020 11:01:28 PM 7.499,00 RON

@@ -1,0 +1,10 @@
+    Cod    
+2027062
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-13-aw0004nq-fhd-ips-touch-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-natural-silver/
+    Name    
+HP 13.3&#039;&#039; Spectre x360 13-aw0004nq, FHD IPS Touch, Procesor Intel® Core™ i5-1035G4 (6M Cache, up to 3.70 GHz), 8GB DDR4, 512GB SSD, Intel Iris Plus, Win 10 Home, Natural Silver
+    Img url    
+https://3.grgs.ro/images/products/1/1990366/2027062/thumbnails/mwl_i5_10-22f01f6f8f19bbcf8e74f6f082462d01.jpg
+    Pret    
+9/20/2020 10:57:22 PM 6.080,05 RON

@@ -1,0 +1,10 @@
+    Cod    
+2027322
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/thinksystem-m2-128gb-sata-6gb-non-hot-swap-ssd/
+    Name    
+Lenovo ThinkSystem M.2 128GB SATA 6Gb Non-Hot-Swap SSD
+    Img url    
+https://5.grgs.ro/images/products/1/9002/2027322/thumbnails/thinksystem-m2-128gb-sata-6gb-non-hot-swap-ssd-2333536edb0519a00232821229f51527.jpg
+    Pret    
+9/21/2020 12:04:50 AM 593,48 RON

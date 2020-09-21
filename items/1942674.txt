@@ -1,0 +1,10 @@
+    Cod    
+1942674
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-arkay/
+    Name    
+Gaming Arkay, AMD Ryzen 5 3600 3.6GHz, 6 nuclee, 16GB DDR4, 1TB SSD, RTX 2060 6GB GDDR6, Iluminare RGB
+    Img url    
+https://5.grgs.ro/images/products/1/6166/1942674/thumbnails/gaming-arkay-amd-ryzen-5-3600-36ghz-6-nuclee-16gb-ddr4-1tb-ssd-rtx-2060-6gb-gddr6-iluminare-rgb-5648895633d0467016f63ae6d667c7e5.jpg
+    Pret    
+9/21/2020 12:01:50 AM 5.699,99 RON

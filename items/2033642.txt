@@ -1,0 +1,10 @@
+    Cod    
+2033642
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-platinum-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD, No OS, Platinum Grey
+    Img url    
+https://3.grgs.ro/images/products/1/1236/2033642/thumbnails/156-ideapad-s145-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-platinum-grey-653372b344e438d6ede2653de18d3066.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.499,00 RON

@@ -1,0 +1,10 @@
+    Cod    
+1962306
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-tower-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro/
+    Name    
+DELL OptiPlex 3070 Tower, Procesor Intel® Core™ i3-9100 3.6GHz Coffee Lake, 8GB DDR4, 256GB SSD, GMA UHD 630, Win 10 Pro
+    Img url    
+https://5.grgs.ro/images/products/1/1261/1962306/thumbnails/optiplex-3070-tower-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro-c1422418d5c0cf6a511fd9872c48c67a.jpg
+    Pret    
+9/21/2020 12:02:20 AM 3.229,98 RON

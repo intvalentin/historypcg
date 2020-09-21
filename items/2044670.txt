@@ -1,0 +1,10 @@
+    Cod    
+2044670
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-kit-boxnuc8i5behs-intel-core-i5-8260u-16ghz-fara-ram-uhd-620-wi-fi-bluetooth-hdmi/
+    Name    
+Intel NUC kit BOXNUC8I5BEHS, Intel Core i5-8260U 1.6GHz, fara RAM, UHD 620, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://1.grgs.ro/images/products/1/1034/2044670/thumbnails/nuc-kit-boxnuc8i5behs-intel-core-i5-8260u-16ghz-fara-ram-uhd-620-wi-fi-bluetooth-hdmi-85700ad70ceda67d7c018bce9ca9902d.jpg
+    Pret    
+9/21/2020 12:03:37 AM 1.884,98 RON

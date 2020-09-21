@@ -1,0 +1,10 @@
+    Cod    
+2056406
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-a540-fhd-touch-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-512gb-ssd-plus-1tb-hdd-gma-uhd-630-freedos-black/
+    Name    
+Lenovo 23.8&#039;&#039;  IdeaCentre A540, FHD Touch IPS, Procesor Intel® Core™ i7-9700T 2.0GHz Coffee Lake, 16GB, 512GB SSD + 1TB HDD, GMA UHD 630, FreeDos, Black
+    Img url    
+https://3.grgs.ro/images/products/1/7193/2056406/thumbnails/238-ideacentre-a540-fhd-touch-ips-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-512gb-ssd-plus-1tb-hdd-gma-uhd-630-freedos-black-6ae28c876be050325c1053e0cf7e6896.png
+    Pret    
+9/21/2020 12:03:01 AM 5.689,98 RON

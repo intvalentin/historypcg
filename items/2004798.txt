@@ -1,0 +1,10 @@
+    Cod    
+2004798
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t140-procesor-intel-xeon-e-2124-33ghz-coffee-lake-32gb-udimm-2x-1tb-sdd-plus-1x-1tb-hdd-lff-35-inch-perc-h330-windows-server-essential-2019-3yr-nbd/
+    Name    
+DELL PowerEdge T140, Procesor Intel® Xeon® E-2124 3.3GHz Coffee Lake, 32GB UDIMM , 2x 1TB SDD + 1x 1TB HDD, LFF 3.5 inch, PERC H330, Windows Server Essential 2019, 3Yr NBD
+    Img url    
+https://4.grgs.ro/images/products/1/1054/2004798/thumbnails/poweredge-t140-procesor-intel-xeon-e-2134-35ghz-coffee-lake-16gb-udimm-2x-4tb-nl-sas-72k-lff-35-inch-perc-h330-3yr-nbd-4fa4916d382c067e491163a114b7a978.jpg
+    Pret    
+9/21/2020 12:04:06 AM 9.504,29 RON

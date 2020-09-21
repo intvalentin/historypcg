@@ -1,0 +1,10 @@
+    Cod    
+2000522
+    Product link    
+https://www.pcgarage.ro/smartphone/one-plus/7t-octa-core-128gb-8gb-ram-dual-sim-4g-4-camera-glacier-blue-oxygen-os/
+    Name    
+OnePlus 7T, Ecran 90 Hz Fluid AMOLED, Snapdragon 855 Plus, 128GB, 8GB RAM, Dual SIM, 4G, 4-Camera, Glacier Blue, Oxygen OS
+    Img url    
+https://3.grgs.ro/images/products/1/6472/2000522/thumbnails/7t-octa-core-256gb-8gb-ram-dual-sim-4g-4-camera-glacier-blue-1b3a0e669eb61b43fa135542fec65b85.jpg
+    Pret    
+9/20/2020 11:39:54 PM 2.599,99 RON

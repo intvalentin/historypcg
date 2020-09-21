@@ -1,0 +1,10 @@
+    Cod    
+1966646
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-8-mainstream-g-nuc8i5inhja-core-i5-8265u-16ghz-8gb-lpddr3-16gb-intel-optane-plus-1tb-hdd-radeon-540x-2gb-wi-fi-bluetooth-hdmi-win-10-home/
+    Name    
+Intel NUC 8 Mainstream-G NUC8I5INHJA, Core i5-8265U 1.6GHz, 8GB LPDDR3, 16GB Intel Optane + 1TB HDD, Radeon 540X 2GB, Wi-Fi, Bluetooth, HDMI, Win 10 Home
+    Img url    
+https://2.grgs.ro/images/products/1/8977/1966646/thumbnails/nuc-8-mainstream-g-kit-bxnuc8i5inhx-core-i5-8265u-16ghz-8gb-lpddr3-radeon-540x-2gb-m2-ssd-wi-fi-bluetooth-hdmi-e8922834df027a6845bec6d33866d61f.jpg
+    Pret    
+9/21/2020 12:03:42 AM 3.474,98 RON

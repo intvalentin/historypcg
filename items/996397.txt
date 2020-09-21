@@ -1,0 +1,10 @@
+    Cod    
+996397
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-hexa-core-e5-2420-v2-22ghz-box/
+    Name    
+Intel Xeon Hexa-Core E5-2420 v2 2.2GHz, box
+    Img url    
+https://5.grgs.ro/images/products/1/800612/996397/thumbnails/xeon-hexa-core-e5-2420-v2-22ghz-box-6ff46d9454971786344d287bdf4b9779.jpg
+    Pret    
+9/21/2020 12:04:16 AM 2.644,56 RON

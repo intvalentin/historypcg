@@ -1,0 +1,10 @@
+    Cod    
+1884806
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-procesor-intel-core-i3-7020u-23ghz-kaby-lake-4gb-1tb-gma-hd-620-freedos-black/
+    Name    
+Lenovo 21.5&#039;&#039; IdeaCentre 520, FHD, Procesor Intel® Core™ i3-7020U 2.3GHz Kaby Lake, 4GB, 1TB, GMA HD 620, Camera Web, FreeDos, Black
+    Img url    
+https://5.grgs.ro/images/products/1/1664860/1884806/thumbnails/215-ideacentre-520-fhd-procesor-intel-core-i5-8250u-16ghz-kaby-lake-r-4gb-1tb-gma-uhd-620-freedos-black-1f8554ba23e9c46ed372628e5537854b.jpg
+    Pret    
+9/21/2020 12:03:05 AM 2.449,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2039770
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i3-10320-38ghz-box/
+    Name    
+Intel Comet Lake, Core i3 10320 3.8GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2039770/thumbnails/comet-lake-core-i3-10100-36ghz-box-9631d432b6d98f39ada9fa244e195133.jpg
+    Pret    
+9/21/2020 7:34:43 AM 858,59 RON

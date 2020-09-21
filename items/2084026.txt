@@ -1,0 +1,10 @@
+    Cod    
+2084026
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700k-avengers-edition-38ghz-box/
+    Name    
+Intel Comet Lake, Core i7 10700K Avengers Edition 3.8GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/3354/2084026/thumbnails/comet-lake-core-i7-10700k-avengers-edition-38ghz-box-64ed3a4aeb0b36d876c121f8a66f8062.jpg
+    Pret    
+9/21/2020 7:34:38 AM 1.919,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1679572
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/superserver-5039d-i-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-1x-8gb-udimm-ddr4-2x-1tb-hdd-lff-35-inch/
+    Name    
+Supermicro SuperServer 5039D-I, Procesor Intel® Xeon® E3-1220 v6 3.0GHz Kaby Lake, 1x 8GB UDIMM DDR4, 2x 1TB HDD, LFF 3.5 inch
+    Img url    
+https://2.grgs.ro/images/products/1/1113903/1679572/thumbnails/superserver-5039d-i-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-1x-8gb-udimm-ddr4-2x-1tb-hdd-lff-35-inch-beecd8ac1072d64506f0104bce9fc291.jpg
+    Pret    
+9/21/2020 12:04:01 AM 4.698,20 RON

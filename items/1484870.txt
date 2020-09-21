@@ -1,0 +1,10 @@
+    Cod    
+1484870
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/shuttle/xpc-slim-xh110v-procesor-intel-core-i5-6400-27ghz-skylake-16gb-ddr3-240gb-ssd-gma-hd-530-freedos/
+    Name    
+Shuttle XPC Slim XH110V, Procesor Intel® Core™ i5-6400 2.7GHz Skylake, 16GB DDR3, 240GB SSD, GMA HD 530, FreeDos
+    Img url    
+https://4.grgs.ro/images/products/1/1461878/1484870/thumbnails/xpc-slim-xh110v-procesor-intel-core-i5-6400-27ghz-16gb-ddr3-240gb-ssd-gma-hd-530-freedos-1780ded7da5ef3b5e32d87112f9ee112.jpg
+    Pret    
+9/21/2020 12:03:42 AM 3.874,98 RON

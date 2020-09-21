@@ -1,0 +1,11 @@
+    Cod    
+1900670
+    Product link    
+https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2060-super-phoenix-gs-8gb-gddr6-256-bit/
+    Name    
+Gainward GeForce RTX 2060 SUPER Phoenix GS 8GB GDDR6 256-bit
+    Img url    
+https://4.grgs.ro/images/products/1/1202/1900670/thumbnails/geforce-rtx-2060-super-phoenix-gs-8gb-gddr6-256-bit-c38b6cbf8530c66f555f040c72ad40e7.jpg
+    Pret    
+9/21/2020 12:06:02 AM 2.096,15 RON
+9/21/2020 7:32:07 AM 2.096,15 RON

@@ -1,0 +1,10 @@
+    Cod    
+2047878
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/asus/v241fak-238-inch-fhd-procesor-intel-core-i3-8145u-21ghz-whiskey-lake-8gb-ram-256gb-ssd-uhd-620-camera-web-win-10-pro/
+    Name    
+ASUS V241FAK, 23.8 inch FHD, Procesor Intel® Core™ i3-8145U 2.1GHz Whiskey Lake, 8GB RAM, 256GB SSD, UHD 620, Camera Web, Win 10 Pro
+    Img url    
+https://2.grgs.ro/images/products/1/1736364/2047878/thumbnails/215-quot-v222gak-fhd-procesor-intel-celeron-j4005-20ghz-gemini-lake-4gb-ddr4-500gb-hdd-gma-uhd-600-linux-b0d4a6b65ead8ef1417436e02b38bb9f.jpg
+    Pret    
+9/21/2020 12:02:48 AM 3.299,98 RON

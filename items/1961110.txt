@@ -1,0 +1,10 @@
+    Cod    
+1961110
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-iwl-fhd-procesor-intel-celeron-4205u-2m-cache-180-ghz-4gb-ddr4-256gb-ssd-gma-uhd-610-freedos-abyss-blue/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad L340 IWL, FHD, Procesor Intel® Celeron® 4205U (2M Cache, 1.80 GHz), 4GB DDR4, 256GB SSD, GMA UHD 610, FreeDos, Abyss Blue
+    Img url    
+https://5.grgs.ro/images/products/1/1953966/1961110/thumbnails/mwl_celeron-d5b17b54fbcec42d9de25e7772373ce8.jpg
+    Pret    
+9/20/2020 11:00:45 PM 1.249,00 RON

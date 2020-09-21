@@ -1,0 +1,10 @@
+    Cod    
+2007682
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t40-tower-procesor-intel-xeon-e-2224-34ghz-coffee-lake-8gb-ram-ddr4-udimm-1tb-hdd-72k-sata-35-inch/
+    Name    
+DELL PowerEdge T40 Tower, Procesor Intel® Xeon® E-2224 3.4GHz Coffee Lake, 8GB RAM DDR4 UDIMM, 1TB HDD 7.2K SATA 3.5 inch
+    Img url    
+https://2.grgs.ro/images/products/1/2003606/2007682/thumbnails/poweredge-t40-tower-procesor-intel-xeon-e-2224-34ghz-coffee-lake-8gb-ram-ddr4-udimm-1tb-hdd-72k-sata-35-inch-fc4e602abf0ceb7510f11bce6e0c2c84.jpg
+    Pret    
+9/21/2020 12:03:51 AM 2.464,81 RON

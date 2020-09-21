@@ -1,0 +1,10 @@
+    Cod    
+2028470
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver-1/
+    Name    
+HP 14&#039;&#039; ProBook 440 G7, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/2013982/2028470/thumbnails/mwl_i5_10-5a4550a14a8544feac1265af5292b179.jpg
+    Pret    
+9/20/2020 11:01:03 PM 3.767,57 RON

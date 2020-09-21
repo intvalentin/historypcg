@@ -1,0 +1,10 @@
+    Cod    
+526213
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/vision-a4-4000-32ghz-box/
+    Name    
+AMD Richland, Vision A4-4000 3.2GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1/526213/thumbnails/vision-a4-4000-32ghz-box-b39da51ba7ce15215f4c77ad724a6fd9.jpg
+    Pret    
+9/21/2020 7:34:48 AM 99,17 RON

@@ -1,0 +1,11 @@
+    Cod    
+1900662
+    Product link    
+https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2070-super-phantom-gs-8gb-gddr6-256-bit/
+    Name    
+Gainward GeForce RTX 2070 SUPER Phantom GS 8GB GDDR6 256-bit
+    Img url    
+https://2.grgs.ro/images/products/1/1202/1900662/thumbnails/geforce-rtx-2070-super-phantom-gs-8gb-gddr6-256-bit-f662c1ac79001670affb2e821d1a18dd.jpg
+    Pret    
+9/21/2020 12:06:47 AM 2.746,40 RON
+9/21/2020 7:32:56 AM 2.746,40 RON

@@ -1,0 +1,10 @@
+    Cod    
+1048642
+    Product link    
+https://www.pcgarage.ro/adaptoare/logilink/pci-2x-serial-port/
+    Name    
+Logilink 1x PCI Male - 2x Serial Male
+    Img url    
+https://5.grgs.ro/images/products/1/862955/1048642/thumbnails/pci-2x-serial-port-f95cec2b596f7de8f0bdfc64fb9eae08.jpg
+    Pret    
+9/21/2020 12:23:16 PM 77,98 RON

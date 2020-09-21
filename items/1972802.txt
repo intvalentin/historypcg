@@ -1,0 +1,10 @@
+    Cod    
+1972802
+    Product link    
+https://www.pcgarage.ro/servere/hp/hpe-dl380-gen10-4210-1p-32g-8sff-svr/
+    Name    
+HP ProLiant DL380 Gen10 Rack 2U, Procesor Intel® Xeon® Silver 4210 Cascade Lake, 32GB RDIMM DDR4, Smart Array S100i &amp; Smart Array P408i-a, 800W
+    Img url    
+https://3.grgs.ro/images/products/1/8977/1972802/thumbnails/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-silver-4210-22ghz-cascade-lake-32gb-rdimm-ddr4-smart-array-p408i-a-sr-2x-800w-windows-server-2019-ess-35006d2793d14dc754e70fe38ab15eac.jpg
+    Pret    
+9/21/2020 12:04:06 AM 11.726,13 RON

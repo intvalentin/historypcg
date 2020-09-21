@@ -1,0 +1,10 @@
+    Cod    
+2062034
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14are05-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-8gb-ddr4-256gb-ssd-radeon-no-os-graphite-grey/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 5 14ARE05, FHD, Procesor AMD Ryzen™ 7 4700U (8M Cache, up to 4.1 GHz), 8GB DDR4, 256GB SSD, Radeon, No OS, Graphite Grey
+    Img url    
+https://1.grgs.ro/images/products/1/7193/2062034/thumbnails/14-ideapad-5-14are05-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-16gb-ddr4-256gb-ssd-radeon-no-os-graphite-grey-0744c1fb74e07bd13e609817133bc528.jpg
+    Pret    
+9/20/2020 10:57:02 PM 2.798,99 RON

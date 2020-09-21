@@ -1,0 +1,10 @@
+    Cod    
+1755076
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-2970wx-30ghz-box/
+    Name    
+AMD Ryzen Threadripper 2970WX 3.0GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/1703884/1755076/thumbnails/ryzen-threadripper-2990wx-30ghz-box-01f34c8b28a365c1ffde5d941ad4885e.jpg
+    Pret    
+9/21/2020 7:34:43 AM 6.628,12 RON

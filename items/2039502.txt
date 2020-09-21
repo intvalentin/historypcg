@@ -1,0 +1,10 @@
+    Cod    
+2039502
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i5-10600k-41ghz-box/
+    Name    
+Intel Comet Lake, Core i5 10600K 4.1GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/2034042/2039502/thumbnails/comet-lake-core-i5-10600k-41ghz-box-acacc5955baf3a7460aeaa096e4f8948.jpg
+    Pret    
+9/21/2020 7:34:38 AM 1.289,99 RON

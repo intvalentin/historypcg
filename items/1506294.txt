@@ -1,0 +1,10 @@
+    Cod    
+1506294
+    Product link    
+https://www.pcgarage.ro/memorii/intel/optane-memory-32gb-pci-express-x2-m2-2280/
+    Name    
+Intel Optane Memory 32GB PCI Express x2 M.2 2280
+    Img url    
+https://2.grgs.ro/images/products/1/1355434/1506294/thumbnails/optane-memory-16gb-pci-express-x2-m2-2280-68dc0ea11a8c22f11fb0ef48db091d8c.jpg
+    Pret    
+9/21/2020 7:40:46 AM 254,93 RON

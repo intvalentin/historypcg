@@ -1,0 +1,10 @@
+    Cod    
+1983118
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/hp/290-g3-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-4gb-ddr4-1tb-hdd-uhd-630-freedos/
+    Name    
+HP 290 G3 MT, Procesor Intel® Core™ i5-9500 3.0GHz Coffee Lake, 4GB DDR4, 1TB HDD, UHD 630, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/1979534/1983118/thumbnails/290-g3-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-uhd-630-freedos-064300f25be7a884c0cb92aff73fb926.png
+    Pret    
+9/21/2020 12:02:20 AM 2.199,98 RON

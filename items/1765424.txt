@@ -1,0 +1,10 @@
+    Cod    
+1765424
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i5dnhe-core-i5-7300u-26ghz-32gb-max-ddr4-hdd-25-inch-m2-ssd-bulk/
+    Name    
+Intel (NUC) Next Unit of Computing NUC7I5DNHE, Core i5-7300U 2.6GHz, 32GB max DDR4, HDD 2.5 inch, M.2 SSD, Bulk
+    Img url    
+https://3.grgs.ro/images/products/1/3442/1765424/thumbnails/nuc-next-unit-of-computing-nuc7i5dnhe-core-i5-7300u-26ghz-32gb-mx-ddr4-hdd-25-inch-m2-ssd-00da3438262f004d37c7e7fefbb36106.jpg
+    Pret    
+9/21/2020 12:03:37 AM 1.769,98 RON

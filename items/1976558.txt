@@ -1,0 +1,10 @@
+    Cod    
+1976558
+    Product link    
+https://www.pcgarage.ro/ssd/seagate/firecuda-520-1tb-pci-express-40-x4-m2-2280/
+    Name    
+Seagate FireCuda 520 1TB PCI Express 4.0 x4 M.2 2280
+    Img url    
+https://3.grgs.ro/images/products/1/6472/1976558/thumbnails/seagate-firecuda-520-ssd-500gb-m2-nvme-r-w5000-2500-mb-s-3d-nand-ea7e00d8f6c11c8f9462c19aea7e42a7.jpg
+    Pret    
+9/21/2020 7:42:33 AM 1.442,83 RON

@@ -1,0 +1,10 @@
+    Cod    
+1701200
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/western-digital/red-pro-8tb-sata-iii-7200rpm-256mb/
+    Name    
+WD Red Pro 8TB SATA-III 7200RPM 256MB
+    Img url    
+https://3.grgs.ro/images/products/1/735074/1701200/thumbnails/red-pro-4tb-sata-iii-intellipower-64mb-932fc3155c49de3b6547e3d4f86d69fe.jpg
+    Pret    
+9/21/2020 7:45:10 AM 1.475,83 RON

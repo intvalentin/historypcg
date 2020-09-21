@@ -1,0 +1,10 @@
+    Cod    
+1950142
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/22-quot-f0eb006xri-fhd-procesor-intel-core-i3-8145u-21ghz-whiskey-lake-4gb-ddr4-1tb-hdd-plus-128gb-ssd-gma-uhd-620-freedos/
+    Name    
+Lenovo 22&quot; IdeaCentre A340-22IWL, FHD, Procesor Intel® Core™ i3-8145U 2.1GHz Whiskey Lake, 4GB DDR4, 1TB HDD + 128GB SSD, GMA UHD 620, Camera Web, FreeDos
+    Img url    
+https://3.grgs.ro/images/products/1/6166/1950142/thumbnails/22-quot-f0eb006xri-fhd-procesor-intel-core-i3-8145u-21ghz-whiskey-lake-4gb-ddr4-1tb-hdd-plus-128gb-ssd-gma-uhd-620-freedos-669082905faca7bb3e5e123c1d8898d3.jpg
+    Pret    
+9/21/2020 12:03:05 AM 2.639,98 RON

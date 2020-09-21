@@ -1,0 +1,10 @@
+    Cod    
+2036910
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-3-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-no-os-abyss-blue/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 3 14IIL05, FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 1TB SSD, Intel Iris Plus, No OS, Abyss Blue
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2036910/thumbnails/14-ideapad-3-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-no-os-abyss-blue-451c17912380f3af00b0e6435491f342.jpg
+    Pret    
+9/20/2020 10:57:02 PM 3.298,99 RON

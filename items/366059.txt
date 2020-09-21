@@ -1,0 +1,10 @@
+    Cod    
+366059
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r720-d-per72-059641-131-intel-xeon-e5-2620-2ghz-8gb-2x-300gb/
+    Name    
+DELL PowerEdge R720xd, Procesor Intel® Xeon® E5-2620 2.0GHz Sandy Bridge-EP, 2x 4GB RDIMM DDR3 1333MHz, 2x 300GB SAS, SFF 2.5 inch, PERC H700
+    Img url    
+https://2.grgs.ro/images/products/1/472405/366059/thumbnails/poweredge-r720xd-procesor-intel-xeon-e5-2620-20ghz-sandy-bridge-ep-2x-4gb-rdimm-ddr3-1333mhz-2x-300gb-sas-lff-35-inch-perc-h700-59f20a329fba63f1d689e54ca836c0fe.jpg
+    Pret    
+9/21/2020 12:04:10 AM 18.955,33 RON

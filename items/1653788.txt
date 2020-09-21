@@ -1,0 +1,10 @@
+    Cod    
+1653788
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-silver-4110-21ghz-box/
+    Name    
+Intel Xeon Silver 4110 2.1GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/530/1653788/thumbnails/xeon-silver-4110-21ghz-box-76fa264e4cae0ded53595214018b3094.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.893,34 RON

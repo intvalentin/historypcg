@@ -1,0 +1,10 @@
+    Cod    
+1801396
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/athlon-240ge-35ghz-box/
+    Name    
+AMD Athlon 240GE 3.5GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/4338/1801396/thumbnails/athlon-240ge-35ghz-box-e93eba94f1e6720b177755332648b6ab.jpg
+    Pret    
+9/21/2020 7:34:53 AM 346,99 RON

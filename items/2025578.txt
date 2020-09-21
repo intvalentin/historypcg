@@ -1,0 +1,10 @@
+    Cod    
+2025578
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-hd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-2gb-free-dos-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G7, HD, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 8GB DDR4, 512GB SSD, GeForce MX250 2GB, Free DOS, Silver
+    Img url    
+https://3.grgs.ro/images/products/1/9943/2025578/thumbnails/mwl_i7_10-f4c2529f6b9fe16bd7da61d6634bdf29.jpg
+    Pret    
+9/20/2020 10:59:10 PM 3.931,17 RON

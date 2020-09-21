@@ -1,0 +1,10 @@
+    Cod    
+1748188
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-9700k-360ghz-box/
+    Name    
+Intel Core™ i7-9700K 12M Cache, up to 4.90 GHz
+    Img url    
+https://3.grgs.ro/images/products/1/1737700/1748188/thumbnails/coffee-lake-core-i7-9700k-360ghz-box-ea821ca2dc19eaa085523051b4d851ba.jpg
+    Pret    
+9/21/2020 7:34:36 AM 1.603,63 RON

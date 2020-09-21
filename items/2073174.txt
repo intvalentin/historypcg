@@ -1,0 +1,10 @@
+    Cod    
+2073174
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/111-chromebook-c223na-hd-procesor-intel-celeron-n3350-2m-cache-up-to-24-ghz-4gb-ddr4-32gb-emmc-gma-hd-500-chrome-os-gray/
+    Name    
+ASUS 11.1&#039;&#039; ChromeBook C223NA, HD, Procesor Intel® Celeron® N3350 (2M Cache, up to 2.4 GHz), 4GB DDR4, 32GB eMMC, GMA HD 500, Chrome OS, Gray
+    Img url    
+https://1.grgs.ro/images/products/1/4273/2073174/thumbnails/111-chromebook-c223na-hd-procesor-intel-celeron-n3350-2m-cache-up-to-24-ghz-4gb-ddr4-32gb-emmc-gma-hd-500-chrome-os-gray-b6603b8bdf63dd49562bad3a4c2fb8cc.jpg
+    Pret    
+9/20/2020 11:00:26 PM 1.298,99 RON

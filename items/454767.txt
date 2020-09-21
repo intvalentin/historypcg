@@ -1,0 +1,10 @@
+    Cod    
+454767
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/quad-core-xeon-e3-1290-36ghz/
+    Name    
+Intel Xeon Quad-Core E3-1290 3.6GHz, tray
+    Img url    
+https://5.grgs.ro/images/products/1/714621/454767/thumbnails/xeon-quad-core-e3-1290-36ghz-box-4e2aea98d9de7550afe098219ee8226e.jpg
+    Pret    
+9/21/2020 12:04:17 AM 4.954,39 RON

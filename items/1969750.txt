@@ -1,0 +1,10 @@
+    Cod    
+1969750
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-mff-procesor-intel-core-i5-9500t-22ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro/
+    Name    
+DELL OptiPlex 7070 MFF, Procesor Intel® Core™ i5-9500T 2.2GHz Coffee Lake, 8GB DDR4, 256GB SSD, GMA UHD 630, Win 10 Pro
+    Img url    
+https://3.grgs.ro/images/products/1/8977/1969750/thumbnails/optiplex-7070-mff-procesor-intel-core-i5-9500t-22ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro-3349cd1d90f8a19e59d76e9a245e1cab.jpg
+    Pret    
+9/21/2020 12:02:29 AM 3.479,98 RON

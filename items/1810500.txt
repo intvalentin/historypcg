@@ -1,0 +1,10 @@
+    Cod    
+1810500
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-ti-dual-o6g-6gb-gddr6-192-bit/
+    Name    
+ASUS GeForce GTX 1660 Ti DUAL O6G 6GB GDDR6 192-bit
+    Img url    
+https://2.grgs.ro/images/products/1/3645/1810500/thumbnails/geforce-gtx-1660-ti-dual-o6g-6gb-gddr6-192-bit-ea14b5fdf14579d07e64eca773841a88.png
+    Pret    
+9/21/2020 7:33:39 AM 1.562,16 RON

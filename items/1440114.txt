@@ -1,0 +1,10 @@
+    Cod    
+1440114
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/kaby-lake-core-i3-7100-39ghz-box/
+    Name    
+Intel Kaby Lake, Core i3 7100 3.9GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1109408/1440114/thumbnails/intel-kaby-lake-core-i3-7100-39-ghz-box-21bf9b82937b94d75b8f20872eb5453f.jpg
+    Pret    
+9/21/2020 7:34:39 AM 605,34 RON

@@ -1,0 +1,10 @@
+    Cod    
+1985410
+    Product link    
+https://www.pcgarage.ro/cal-client-access-server/microsoft/sql-server-2019-sngl-olp-nl-device-cal/
+    Name    
+Microsoft SQL Server 2019, SNGL OLP NL, Device CAL
+    Img url    
+https://2.grgs.ro/images/products/1/370411/1985410/thumbnails/sql-server-2019-sngl-olp-nl-user-cal-dfcc5e9a1b3affd050747d21009c9fe6.jpg
+    Pret    
+9/21/2020 1:19:14 PM 1.279,29 RON

@@ -1,0 +1,10 @@
+    Cod    
+1597810
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-quot15-bs007nq-fhd-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-4gb-ddr4-256gb-ssd-gma-hd-620-freedos/
+    Name    
+HP 15.6&quot; 15-bs007nq, FHD, Procesor Intel® Core™ i5-7200U (3M Cache, up to 3.10 GHz), 4GB DDR4, 256GB SSD, GMA HD 620, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/1088099/1597810/thumbnails/mwl_i5_7-7cef0d37c8e3c8fbe6f20cb00b0c23e6.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.798,88 RON

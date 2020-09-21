@@ -1,0 +1,10 @@
+    Cod    
+1615774
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1275-v6-380ghz-box/
+    Name    
+Intel Xeon Quad-Core E3-1275 v6 3.80GHz, box
+    Img url    
+https://5.grgs.ro/images/products/1/1094679/1615774/thumbnails/xeon-quad-core-e3-1275-v5-360ghz-box-ea25e806a1946c615fdb15ed0bc4c833.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.116,38 RON

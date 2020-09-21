@@ -1,0 +1,10 @@
+    Cod    
+2019470
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/156-elitebook-850-g6-uhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-ssd-radeon-rx-550-2gb-win-10-pro-silver/
+    Name    
+HP 15.6&#039;&#039; EliteBook 850 G6, UHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 1TB SSD, Radeon RX 550 2GB, Win 10 Pro, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/9943/2019470/thumbnails/mwl_i7_8-3f21380ff0bab42a3f6fb6c09c2557bc.jpg
+    Pret    
+9/20/2020 10:58:03 PM 6.993,70 RON

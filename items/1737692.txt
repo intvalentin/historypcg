@@ -1,0 +1,10 @@
+    Cod    
+1737692
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-2400g-36ghz-mpk/
+    Name    
+AMD Ryzen 5 2400G 3.6GHz MPK
+    Img url    
+https://3.grgs.ro/images/products/1/6748/1737692/thumbnails/ryzen-5-2400g-36ghz-mpk-6abd2176d905b15eec41c4bd66671b69.jpg
+    Pret    
+9/21/2020 7:34:48 AM 1.156,47 RON

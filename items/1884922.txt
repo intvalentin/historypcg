@@ -1,0 +1,10 @@
+    Cod    
+1884922
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/bx806954210srfbl/
+    Name    
+Intel Xeon Silver 4210 2.2GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/530/1884922/thumbnails/xeon-silver-4110-21ghz-box-76fa264e4cae0ded53595214018b3094.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.866,53 RON

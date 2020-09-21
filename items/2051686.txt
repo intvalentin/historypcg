@@ -1,0 +1,10 @@
+    Cod    
+2051686
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a540-238-inch-fhd-procesor-intel-core-i5-9400t-18ghz-coffee-lake-16gb-ram-512gb-ssd-plus-1tb-hdd-radeon-rx-540x-2gb-camera-web-freedos/
+    Name    
+Lenovo IdeaCentre A540 23.8 inch FHD, Procesor Intel® Core™ i5-9400T 1.8GHz Coffee Lake, 16GB RAM, 512GB SSD + 1TB HDD, Radeon RX 540X 2GB, Camera Web, FreeDOS
+    Img url    
+https://5.grgs.ro/images/products/1/1979534/2051686/thumbnails/ideacentre-a540-27-inch-2k-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-ddr4-512gb-ssd-plus-1tb-hdd-uhd-630-freedos-89c76880176fc98c3fff6a2445eb62eb.jpg
+    Pret    
+9/21/2020 12:02:48 AM 4.019,98 RON

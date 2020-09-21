@@ -1,0 +1,10 @@
+    Cod    
+1535359
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/enterprise-capacity-6tb-sata-iii-7200rpm-256mb/
+    Name    
+Seagate Exos Capacity 6TB SATA-III 7200RPM 256MB
+    Img url    
+https://1.grgs.ro/images/products/1/1457334/1535359/thumbnails/exos-capacity-6tb-sata-iii-7200rpm-256mb-80b2fe1c3573cee46e400c768cea6f74.png
+    Pret    
+9/21/2020 7:45:29 AM 1.116,67 RON

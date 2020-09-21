@@ -1,0 +1,10 @@
+    Cod    
+1978758
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/acer/vz4660g-215-inch-fhd-procesor-intel-core-i5-9400-29ghz-coffee-lake-4gb-1tb-hdd-uhd-630-freedos/
+    Name    
+Acer VZ4660G, 21.5 inch FHD, Procesor Intel® Core™ i5 9400 2.9GHz Coffee Lake, 4GB, 1TB HDD, UHD 630, Camera Web, FreeDos
+    Img url    
+https://3.grgs.ro/images/products/1/1977958/1978758/thumbnails/vz4660g-215-inch-fhd-procesor-intel-pentium-g5420-38ghz-coffee-lake-8gb-256gb-ssd-gma-uhd-610-win-10-pro-e19ace87d63ad0eafe00798482333030.png
+    Pret    
+9/21/2020 12:02:56 AM 3.459,98 RON

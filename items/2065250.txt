@@ -1,0 +1,10 @@
+    Cod    
+2065250
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/hp/260-g3-procesor-intel-core-i3-7130u-27ghz-kaby-lake-8gb-ram-1tb-hdd-uhd-620-win-10-pro/
+    Name    
+HP 260 G3, Procesor Intel® Core™ i3-7130U 2.7GHz Kaby Lake, 8GB RAM, 1TB HDD, UHD 620, Win 10 Pro
+    Img url    
+https://5.grgs.ro/images/products/1/4917/2065250/thumbnails/260-g3-procesor-intel-core-i3-7130u-27ghz-kaby-lake-8gb-ram-1tb-hdd-uhd-620-win-10-pro-08a8ed8d824d40f9c9b48524765036f7.jpg
+    Pret    
+9/21/2020 12:02:07 AM 2.439,98 RON

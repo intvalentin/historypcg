@@ -1,0 +1,10 @@
+    Cod    
+634169
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/fujitsu/1tb-sas-6g-7200rpm-25inch-hot-plug/
+    Name    
+Fujitsu Hot-Plug NL-SAS 1TB 7200 RPM 2.5 inch
+    Img url    
+https://3.grgs.ro/images/products/1/2/634169/thumbnails/hot-plug-nl-sas-1tb-7200-rpm-25-inch-60e32491f3a8b7e7e3b323043f597c7f.jpg
+    Pret    
+9/21/2020 12:05:18 AM 1.352,43 RON

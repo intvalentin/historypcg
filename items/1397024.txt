@@ -1,0 +1,10 @@
+    Cod    
+1397024
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-pro-10tb-sata-iii-7200rpm-256mb/
+    Name    
+Seagate BarraCuda Pro 10TB SATA-III 7200RPM 256MB
+    Img url    
+https://2.grgs.ro/images/products/1/1190677/1397024/thumbnails/barracuda-pro-10tb-sata-iii-7200rpm-256mb-e10ed29feadcde21765f507ed06fc7f9.jpg
+    Pret    
+9/21/2020 7:45:38 AM 1.785,67 RON

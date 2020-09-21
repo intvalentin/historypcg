@@ -1,0 +1,10 @@
+    Cod    
+1939074
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i3-8145u-4m-cache-up-to-390-ghz-4gb-ddr4-128gb-ssd-gma-uhd-620-freedos-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, FHD, Procesor Intel® Core™ i3-8145U (4M Cache, up to 3.90 GHz), 4GB DDR4, 128GB SSD, GMA UHD 620, FreeDos, Grey
+    Img url    
+https://2.grgs.ro/images/products/1/1236/1939074/thumbnails/mwl_i3_8-fbed520f71d4632b5a2a87e53adbef16.jpg
+    Pret    
+9/20/2020 11:00:49 PM 1.772,42 RON

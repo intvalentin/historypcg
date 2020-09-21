@@ -1,0 +1,10 @@
+    Cod    
+1517234
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/195-v310z-hd-plus-procesor-intel-core-i5-7400-30ghz-kaby-lake-4gb-1tb-hdd-gma-hd-630-win-10-pro/
+    Name    
+Lenovo 19.5&#039;&#039; V310z, HD+, Procesor Intel® Core™ i5-7400 3.0GHz Kaby Lake, 4GB, 1TB HDD, GMA HD 630, Camera Web, Win 10 Pro
+    Img url    
+https://4.grgs.ro/images/products/1/1508470/1517234/thumbnails/195-v310z-hd-plus-procesor-intel-core-i5-7400-30ghz-kaby-lake-4gb-1tb-hdd-gma-hd-630-win-10-pro-3c3095f061e48602532f76798a829edf.jpg
+    Pret    
+9/21/2020 12:03:10 AM 4.049,98 RON

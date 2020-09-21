@@ -1,0 +1,10 @@
+    Cod    
+1109453
+    Product link    
+https://www.pcgarage.ro/memorii-server/crucial/ecc-rdimm-ddr4-32gb-2400mhz-cl17-dual-rank-x4/
+    Name    
+Crucial ECC RDIMM DDR4 32GB 2400Mhz CL17 Dual Rank x4
+    Img url    
+https://2.grgs.ro/images/products/1/1088099/1109453/thumbnails/ecc-rdimm-ddr4-32gb-2400mhz-cl17-dual-rank-x4-77c1893092f331cdc481734559d6565f.jpg
+    Pret    
+9/21/2020 12:04:44 AM 1.897,52 RON

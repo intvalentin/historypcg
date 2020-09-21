@@ -1,0 +1,10 @@
+    Cod    
+2009210
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-14s-dq1005nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-home-silver/
+    Name    
+HP 14&#039;&#039; 14s-dq1005nq, FHD IPS, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 256GB SSD, Intel Iris Plus, Win 10 Home, Silver
+    Img url    
+https://2.grgs.ro/images/products/1/2003606/2009210/thumbnails/mwl_i7_10-46ff935fe8ed254db6ae3f915e2da4d8.jpg
+    Pret    
+9/20/2020 11:00:26 PM 3.957,92 RON

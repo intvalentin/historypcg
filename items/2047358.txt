@@ -1,0 +1,10 @@
+    Cod    
+2047358
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-9-3900xt-38ghz-box/
+    Name    
+AMD Ryzen 9 3900XT 3.8GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/2045418/2047358/thumbnails/ryzen-9-3900xt-38ghz-box-87b7888c3426cd15328d76d0bdf5ff72.png
+    Pret    
+9/21/2020 7:34:38 AM 2.434,87 RON

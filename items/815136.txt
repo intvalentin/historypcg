@@ -1,0 +1,10 @@
+    Cod    
+815136
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/vision-a4-4020-32ghz-box/
+    Name    
+AMD Richland, Vision A4-4020 3.2GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/480523/815136/thumbnails/vision-a4-4020-32ghz-box-5469da25bd0906ecc96194003dc092a5.jpg
+    Pret    
+9/21/2020 7:34:48 AM 154,04 RON

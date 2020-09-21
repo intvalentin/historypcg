@@ -1,0 +1,10 @@
+    Cod    
+821900
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/sempron-3850-13ghz-box/
+    Name    
+AMD Kabini, Sempron 3850 1.3GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/714621/821900/thumbnails/sempron-3850-13ghz-box-9c7aa968187f86673102113cd0e6208c.jpg
+    Pret    
+9/21/2020 7:34:48 AM 159,78 RON

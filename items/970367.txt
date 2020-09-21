@@ -1,0 +1,10 @@
+    Cod    
+970367
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-procesor-intel-core-i5-14ghz-haswell-4gb-ddr3-500gb-hdd-gma-hd-5000-os-x-yosemite/
+    Name    
+Apple Mac mini, Procesor Intel® Core™ i5 1.4GHz Haswell, 4GB DDR3, 500GB HDD, GMA HD 5000, OS X Yosemite
+    Img url    
+https://2.grgs.ro/images/products/1/812812/970367/thumbnails/mac-mini-procesor-intel-core-i5-14ghz-haswell-4gb-ddr3-500gb-hdd-gma-hd-5000-os-x-yosemite-984b29353a8674aa7de0f823d994a197.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.919,98 RON

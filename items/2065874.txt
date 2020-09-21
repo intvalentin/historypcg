@@ -1,0 +1,10 @@
+    Cod    
+2065874
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-15-dw2001nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-geforce-mx130-2gb-free-dos-black/
+    Name    
+HP 15.6&#039;&#039; 15-dw2001nq, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 256GB SSD, GeForce MX130 2GB, Free DOS, Black
+    Img url    
+https://5.grgs.ro/images/products/1/1034/2065874/thumbnails/156-15-dw2001nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-geforce-mx130-2gb-free-dos-black-926efc3f27e8eb839d7192e7eaecc6b0.jpg
+    Pret    
+9/20/2020 11:00:58 PM 2.982,33 RON

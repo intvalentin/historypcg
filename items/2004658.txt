@@ -1,0 +1,10 @@
+    Cod    
+2004658
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-core-i5-9400-290ghz-coffee-lake-8gb-ddr4-512gb-ssd-uhd-630-win-10-pro/
+    Name    
+Lenovo V530s, Procesor Intel® Core™ i5-9400 2.90GHz Coffee Lake, 8GB DDR4, 512GB SSD, UHD 630, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/3442/2004658/thumbnails/v530s-procesor-intel-core-i5-8400-280ghz-coffee-lake-8gb-ddr4-1tb-hdd-gma-uhd-630-freedos-7688f0394b199b9d329e67dfe902101e.jpg
+    Pret    
+9/21/2020 12:02:07 AM 3.199,98 RON

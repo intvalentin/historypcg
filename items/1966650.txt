@@ -1,0 +1,10 @@
+    Cod    
+1966650
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-8-mainstream-g-kit-nuc8i7inhx-core-i7-8565u-18ghz-8gb-lpddr3-radeon-540x-2gb-m2-ssd-wi-fi-bluetooth-hdmi/
+    Name    
+Intel NUC 8 Mainstream-G kit NUC8I7INHX, Core i7-8565U 1.8GHz, 8GB LPDDR3, Radeon 540X 2GB, M.2 SSD, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://1.grgs.ro/images/products/1/8977/1966650/thumbnails/nuc-8-mainstream-g-kit-bxnuc8i5inhx-core-i5-8265u-16ghz-8gb-lpddr3-radeon-540x-2gb-m2-ssd-wi-fi-bluetooth-hdmi-e8922834df027a6845bec6d33866d61f.jpg
+    Pret    
+9/21/2020 12:03:42 AM 3.129,98 RON

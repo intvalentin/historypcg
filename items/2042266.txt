@@ -1,0 +1,10 @@
+    Cod    
+2042266
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r340-1u-procesor-intel-xeon-e-2134-35ghz-coffee-lake-1x-16gb-udimm-ddr4-2666mhz-1x-600gb-10k-12g-sas-hdd-perc-h330/
+    Name    
+DELL PowerEdge R340 1U, Procesor Intel® Xeon® E-2134 3.5GHz Coffee Lake, 1x 16GB UDIMM DDR4 2666MHz, 1x 600GB 10K 12G SAS HDD, PERC H330
+    Img url    
+https://1.grgs.ro/images/products/1/1034/2042266/thumbnails/poweredge-r340-1u-procesor-intel-xeon-e-2124-33ghz-coffee-lake-1x-8gb-udimm-ddr4-2666mhz-1x-1tb-72k-sata-hdd-h330-68f59081ebd1b12b7612119378ca642a.jpg
+    Pret    
+9/21/2020 12:03:51 AM 7.855,30 RON

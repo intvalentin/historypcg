@@ -1,0 +1,10 @@
+    Cod    
+1819540
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-10e2400-10k-sas-18tb-10000rpm-256mb-512e/
+    Name    
+Seagate Exos 10E2400 HDD 10K SAS 1.8TB 10000RPM 256MB 512e
+    Img url    
+https://5.grgs.ro/images/products/1/5147/1819540/thumbnails/exos-10e2400-10k-sas-18tb-10000rpm-256mb-512e-a35e336a40983e1ca99e25e689ee10d8.jpg
+    Pret    
+9/21/2020 12:05:18 AM 1.768,93 RON

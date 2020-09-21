@@ -1,0 +1,10 @@
+    Cod    
+1975230
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/cascade-lake-x-core-i9-10920x-35ghz-box/
+    Name    
+Intel Cascade Lake X, Core i9 10920X 3.5GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/6472/1975230/thumbnails/cascade-lake-x-core-i9-10900x-37ghz-box-057c60eb61adc1f1aa25f460a471d724.jpg
+    Pret    
+9/21/2020 7:34:43 AM 3.714,67 RON

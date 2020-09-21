@@ -1,0 +1,10 @@
+    Cod    
+1620906
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-520-fhd-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-1tb-hdd-gma-hd-630-freedos/
+    Name    
+Lenovo 23.8&#039;&#039; IdeaCentre 520, FHD, Procesor Intel® Core™ i5-7400T 2.4GHz Kaby Lake, 8GB, 1TB HDD, GMA HD 630, Camera Web, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/1594546/1620906/thumbnails/238-ideacentre-520-fhd-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-1tb-hdd-gma-hd-630-freedos-2f46459c0ccd53905a50e46db9fedf0e.jpg
+    Pret    
+9/21/2020 12:03:10 AM 3.369,98 RON

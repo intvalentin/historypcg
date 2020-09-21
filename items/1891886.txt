@@ -1,0 +1,10 @@
+    Cod    
+1891886
+    Product link    
+https://www.pcgarage.ro/ssd/intel/dc-p4610-32tb-u2-pci-express-30-x4-25-inch/
+    Name    
+Intel DC P4610 3.2TB U.2 PCI Express 3.0 x4 2.5 inch
+    Img url    
+https://1.grgs.ro/images/products/1/1275/1891886/thumbnails/dc-p4610-32tb-u2-pci-express-30-x4-25-inch-636faa9a017c50d1c984a2d067833a8d.jpg
+    Pret    
+9/21/2020 7:44:58 AM 5.795,75 RON

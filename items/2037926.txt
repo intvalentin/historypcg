@@ -1,0 +1,11 @@
+    Cod    
+2037926
+    Product link    
+https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2070-super-phoenix-v1-8gb-gddr6-256-bit/
+    Name    
+Gainward GeForce RTX 2070 SUPER Phoenix V1 8GB GDDR6 256-bit
+    Img url    
+https://4.grgs.ro/images/products/1/2034042/2037926/thumbnails/geforce-rtx-2070-super-phoenix-v1-8gb-gddr6-256-bit-177c8187dffa12acee0e62bfe07a15ce.png
+    Pret    
+9/21/2020 12:05:51 AM 2.621,23 RON
+9/21/2020 7:31:56 AM 2.621,23 RON

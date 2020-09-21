@@ -1,0 +1,10 @@
+    Cod    
+2054874
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-t15-gen-1-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
+    Name    
+Lenovo 15.6&#039;&#039; ThinkPad T15 Gen 1, FHD IPS, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 512GB SSD, GMA UHD, Win 10 Pro, Black
+    Img url    
+https://1.grgs.ro/images/products/1/7960/2054874/thumbnails/156-thinkpad-t15-gen-1-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black-3fd3a04ac0bcf6d3ff1ddba20ab42a92.jpg
+    Pret    
+9/20/2020 10:59:34 PM 7.499,00 RON

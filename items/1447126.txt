@@ -1,0 +1,10 @@
+    Cod    
+1447126
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/hp/z440-twr-procesor-intel-xeon-e5-1603-v4-28ghz-broadwell-8gb-ddr4-1tb-hdd-no-graphics-win-10-pro/
+    Name    
+HP Z440 TWR, Procesor Intel® Xeon® E5-1603 v4 2.8GHz Broadwell, 8GB DDR4, 1TB HDD, no Graphics, Win 10 Pro
+    Img url    
+https://2.grgs.ro/images/products/1/735074/1447126/thumbnails/z440-twr-procesor-intel-xeon-e5-1620-v3-35ghz-haswell-8gb-ddr4-2tb-hdd-plus-256gb-ssd-quadro-k2200-4gb-win-7-pro-plus-win-81-pro-plus-monitor-led-ips--0bd2bf51928f786f9d3efe46b1f8b7ab.jpg
+    Pret    
+9/21/2020 12:02:38 AM 7.309,98 RON

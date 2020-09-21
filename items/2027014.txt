@@ -1,0 +1,10 @@
+    Cod    
+2027014
+    Product link    
+https://www.pcgarage.ro/ssd/hikvision/d200-960gb-sata-iii-25-in/
+    Name    
+Hikvision D200 960GB SATA-III 2.5 in
+    Img url    
+https://3.grgs.ro/images/products/1/9002/2027014/thumbnails/ssd-d100standard-480gb-6110f7db4feef9824e2fdc85377cb03b.jpg
+    Pret    
+9/21/2020 7:43:28 AM 1.605,71 RON

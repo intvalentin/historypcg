@@ -1,0 +1,10 @@
+    Cod    
+1980242
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/thinkcentre-m720-tower-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ddr4-1tb-hdd-uhd-630-win-10-pro/
+    Name    
+Lenovo ThinkCentre M720 Tower, Procesor Intel® Core™ i5-9400 2.9GHz Coffee Lake, 8GB DDR4, 1TB HDD, UHD 630, Win 10 Pro
+    Img url    
+https://3.grgs.ro/images/products/1/1054/1980242/thumbnails/thinkcentre-m720-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-1tb-hdd-gma-uhd-630-freedos-61dafcc772c4c33c0ca096f360b0f820.jpg
+    Pret    
+9/21/2020 12:02:07 AM 3.089,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2026490
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-red-hunter-se/
+    Name    
+Gaming Red Hunter, Intel i5-9400F 2.9GHz Coffee Lake, 8GB DDR4, 1TB HDD + 120GB SSD, RX 570 8GB GDDR5, Iluminare RGB
+    Img url    
+https://2.grgs.ro/images/products/1/9002/2026490/thumbnails/gaming-red-hunter-intel-i5-9400f-29ghz-coffee-lake-8gb-ddr4-1tb-hdd-plus-120gb-ssd-rx-570-8gb-gddr5-iluminare-rgb-28df4fb4103f9d12e2795f5ec5c2dfba.jpg
+    Pret    
+9/21/2020 12:01:50 AM 3.099,99 RON

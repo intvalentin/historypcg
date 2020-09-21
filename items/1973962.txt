@@ -1,0 +1,10 @@
+    Cod    
+1973962
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/workstation-odin/
+    Name    
+Workstation Odin, AMD Ryzen 9 3950X 3.5 GHz, 16 nuclee, 32GB DDR4, 2TB HDD + 1TB PCIE 3.0 x4 SSD, Quadro RTX 4000 8GB GDDR6
+    Img url    
+https://4.grgs.ro/images/products/1/8486/1973962/thumbnails/workstation-odin-amd-ryzen-9-3950x-35-ghz-16-nuclee-32gb-ddr4-2tb-hdd-plus-1tb-pcie-40-x4-ssd-quadro-rtx-4000-8gb-gddr6-6fcbdd5d0d12568f123e40a7226abe75.jpg
+    Pret    
+9/21/2020 12:01:52 AM 15.489,99 RON

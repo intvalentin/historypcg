@@ -1,0 +1,10 @@
+    Cod    
+2020146
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-256gb-ssd-gma-uhd-free-dos-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G7, FHD, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Free DOS, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/9943/2020146/thumbnails/mwl_i7_10-e9b7375ced22cfe7c12017f1dac4f3f1.jpg
+    Pret    
+9/20/2020 11:00:30 PM 3.552,61 RON

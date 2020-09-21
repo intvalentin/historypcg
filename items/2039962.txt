@@ -1,0 +1,10 @@
+    Cod    
+2039962
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700kf-38ghz-box/
+    Name    
+Intel Comet Lake, Core i7 10700KF 3.8GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/2034042/2039962/thumbnails/comet-lake-core-i7-10700kf-38ghz-box-12a13bc575da736fa99b720bc0302084.jpg
+    Pret    
+9/21/2020 7:34:48 AM 1.893,84 RON

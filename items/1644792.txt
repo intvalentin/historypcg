@@ -1,0 +1,10 @@
+    Cod    
+1644792
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/lenovo/10mr0054ri/
+    Name    
+Lenovo ThinkCentre M710 Tiny, Procesor Intel® Core™ i3-7100T 3.4GHz Kaby Lake, 8GB DDR4, 256GB SSD, GMA HD 630
+    Img url    
+https://5.grgs.ro/images/products/1/1500686/1644792/thumbnails/thinkcentre-m710-tiny-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-ddr4-256gb-ssd-gma-hd-630-freedos-fc5480520a66475441d6fba3114d2346.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.959,98 RON

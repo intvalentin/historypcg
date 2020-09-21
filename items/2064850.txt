@@ -1,0 +1,10 @@
+    Cod    
+2064850
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t340-tower-procesor-intel-xeon-e-2224-34ghz-coffee-lake-1x-16gb-ddr4-ecc-udimm-1x-1tb-72k-sata-hdd-perc-h330/
+    Name    
+DELL PowerEdge T340 Tower, Procesor Intel® Xeon® E-2224 3.4GHz Coffee Lake, 1x 16GB DDR4 ECC UDIMM, 1x 1TB 7.2K SATA HDD, PERC H330
+    Img url    
+https://3.grgs.ro/images/products/1/1979534/2064850/thumbnails/poweredge-t330-procesor-intel-xeon-e-2124-33-ghz-coffee-lake-16gb-ddr4-udimm-ecc-2tb-hdd-nlsas-perc-h730p-1f777a436b6c943d8ec5c3935fe83d8e.jpg
+    Pret    
+9/21/2020 12:03:51 AM 6.256,95 RON

@@ -1,0 +1,10 @@
+    Cod    
+2021062
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-7920-tower-procesor-intel-xeon-silver-4114-22ghz-skylake-32gb-ddr4-rdimm-ecc-1tb-ssd-quadro-p2200-5gb-linux/
+    Name    
+DELL Precision 7920 Tower, Procesor Intel® Xeon® Silver 4114 2.2GHz Skylake, 32GB DDR4 RDIMM ECC, 1TB SSD, Quadro P2200 5GB, Linux
+    Img url    
+https://1.grgs.ro/images/products/1/370411/2021062/thumbnails/precision-7920-tower-procesor-intel-xeon-silver-4114-22ghz-skylake-32gb-ddr4-1tb-ssd-quadro-p4000-8gb-linux-89f05eefca4997905e58eb1f659ed7d8.jpg
+    Pret    
+9/21/2020 12:02:15 AM 23.639,98 RON

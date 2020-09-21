@@ -1,0 +1,10 @@
+    Cod    
+1888638
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/apple/133-the-new-macbook-pro-13-retina-with-touch-bar-coffee-lake-i5-24ghz-16gb-256gb-ssd-iris-plus-655-mac-os-mojave-space-grey-int-keyboard/
+    Name    
+Apple 13.3&#039;&#039; The New MacBook Pro 13 Retina with Touch Bar, Coffee Lake i5 2.4GHz, 16GB, 256GB SSD, Iris Plus 655, Mac OS Mojave, Space Grey, INT keyboard
+    Img url    
+https://2.grgs.ro/images/products/1/1703884/1888638/thumbnails/mwl_i5_8-656deec4f11b490cec31e4763ea6a7ce.jpg
+    Pret    
+9/20/2020 11:01:43 PM 11.255,88 RON

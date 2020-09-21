@@ -1,0 +1,10 @@
+    Cod    
+1865074
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/intel-core-i9-9900-octo-core-310ghz-16mb-lga1151-14nm-tray/
+    Name    
+Intel Coffee Lake, Core i9 9900 3.1GHz tray
+    Img url    
+https://2.grgs.ro/images/products/1/7399/1865074/thumbnails/coffee-lake-core-i9-9900-31ghz-tray-2bfba66d5fdf580b0986b9f25226b9eb.jpg
+    Pret    
+9/21/2020 7:34:43 AM 1.910,86 RON

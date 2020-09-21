@@ -1,0 +1,10 @@
+    Cod    
+1972322
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-5593-seria-5000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-intel-iris-plus-linux-platinum-silver-3yr-cis/
+    Name    
+DELL 15.6&#039;&#039; Inspiron 5593 (seria 5000), FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 16GB DDR4, 512GB SSD, Intel Iris Plus, Linux, Platinum Silver, 3Yr CIS
+    Img url    
+https://5.grgs.ro/images/products/1/8486/1972322/thumbnails/mwl_i7_10-bcf7b355457baa40a1a88afb5429f550.jpg
+    Pret    
+9/20/2020 10:58:56 PM 3.798,99 RON

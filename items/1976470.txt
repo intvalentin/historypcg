@@ -1,0 +1,10 @@
+    Cod    
+1976470
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce2010nq-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-freedos-silver/
+    Name    
+HP 14&#039;&#039; Pavilion 14-ce2010nq, FHD, Procesor Intel® Core™ i5-8265U (6M Cache, up to 3.90 GHz), 8GB DDR4, 512GB SSD, GMA UHD 620, FreeDos, Silver
+    Img url    
+https://2.grgs.ro/images/products/1/3645/1976470/thumbnails/mwl_i5_8-0651c2b57ac88991cd26669db0d9a0fa.jpg
+    Pret    
+9/20/2020 11:00:58 PM 2.953,30 RON

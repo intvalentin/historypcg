@@ -1,0 +1,10 @@
+    Cod    
+2037030
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-15s-eq0019nq-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-vega-10-win-10-home-s-gray/
+    Name    
+HP 15.6&#039;&#039; 15s-eq0019nq, FHD, Procesor AMD Ryzen™ 7 3700U (4M Cache, up to 4.0 GHz), 8GB DDR4, 256GB SSD, Radeon RX Vega 10, Win 10 Home S, Gray
+    Img url    
+https://4.grgs.ro/images/products/1/9002/2037030/thumbnails/156-15s-eq0002nq-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-350-ghz-4gb-ddr4-256gb-ssd-radeon-vega-3-win-10-home-s-gray-eba32c4c22362902b39a9164800dde5e.jpg
+    Pret    
+9/20/2020 10:58:46 PM 2.798,99 RON

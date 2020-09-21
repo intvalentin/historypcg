@@ -1,0 +1,10 @@
+    Cod    
+2047342
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-3600xt-38ghz-box/
+    Name    
+AMD Ryzen 5 3600XT 3.8GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/2045418/2047342/thumbnails/ryzen-5-3600xt-38ghz-box-9ed8ff52581971e8bca30ca478645b6e.png
+    Pret    
+9/21/2020 7:34:38 AM 1.196,64 RON

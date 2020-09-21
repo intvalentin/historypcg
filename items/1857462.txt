@@ -1,0 +1,10 @@
+    Cod    
+1857462
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/legion-c530-cube-procesor-intel-core-i5-8400-28ghz-coffee-lake-16gb-ddr4-512gb-ssd-geforce-gtx-1060-6gb-freedos/
+    Name    
+Lenovo Legion C530 Cube, Procesor Intel® Core™ i5-8400 2.8GHz Coffee Lake, 16GB DDR4, 512GB SSD, GeForce GTX 1060 6GB, FreeDos
+    Img url    
+https://4.grgs.ro/images/products/1/1723568/1857462/thumbnails/legion-c530-cube-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-128gb-ssd-plus-1tb-hdd-geforce-gtx-1050-ti-4gb-freedos-7aa2ceac8b11f62f4af98e959e9e3cd8.png
+    Pret    
+9/21/2020 12:02:20 AM 4.949,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2043034
+    Product link    
+https://www.pcgarage.ro/servere/fujitsu/primergy-rx2530-m5-1u-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-1x-16gb-rdimm-ecc-ddr4-2933mhz-no-hdd/
+    Name    
+Fujitsu Primergy RX2530 M5 1U, Procesor Intel® Xeon® Silver 4208 2.1GHz Cascade Lake, 1x 16GB RDIMM ECC DDR4 2933MHz, no HDD
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2043034/thumbnails/ser-fts-py-rx2530-m5-8x-25-s4210-16gb-b9a78d0b922727a9ff5b130b9d26a5ff.jpg
+    Pret    
+9/21/2020 12:03:56 AM 10.708,69 RON

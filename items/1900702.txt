@@ -1,0 +1,10 @@
+    Cod    
+1900702
+    Product link    
+https://www.pcgarage.ro/sisteme-de-operare-server/fujitsu/server-2019-essentials-1-2-cpu-rok-oem-1/
+    Name    
+Fujitsu Server 2019 Essentials, 1-2 CPU, ROK OEM
+    Img url    
+https://1.grgs.ro/images/products/1/5631/1900702/thumbnails/server-2019-essentials-1-2-cpu-rok-oem-cad92ef96e962d99c1839fb7cecf88eb.jpg
+    Pret    
+9/21/2020 1:15:07 PM 2.231,48 RON

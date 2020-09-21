@@ -1,0 +1,10 @@
+    Cod    
+1628362
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc6caysaj-celeron-j3455-15ghz-2gb-ddr3-32gb-emmc-hdd-25-inch-wi-fi-bluetooth-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC6CAYSAJ, Celeron J3455 1.5GHz, 2GB DDR3, 32GB eMMC, HDD 2.5 inch, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://4.grgs.ro/images/products/1/1496454/1628362/thumbnails/nuc-next-unit-of-computing-nuc6cayh-celeron-j3455-15ghz-2x-ddr3-8gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi-0ee75009d96beb2b9aaa5743cc93da56.jpg
+    Pret    
+9/21/2020 12:03:37 AM 1.079,98 RON

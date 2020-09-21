@@ -1,0 +1,10 @@
+    Cod    
+1814728
+    Product link    
+https://www.pcgarage.ro/tablete/lenovo/tab-p10-tb-x705f-10-inch-ips-multi-touch-cortex-a53-18ghz-octa-core-4gb-ram-64gb-flash-wi-fi-bluetooth-gps-android-81-aurora-black/
+    Name    
+Lenovo Tab P10 TB-X705F, 10 inch IPS Multi-Touch, Cortex-A53 1.8GHz Octa Core, 4GB RAM, 64GB flash, Wi-Fi, Bluetooth, GPS, Android 8.1, Aurora Black
+    Img url    
+https://2.grgs.ro/images/products/1/3645/1814728/thumbnails/tab-p10-tb-x705l-10-inch-ips-multi-touch-cortex-a53-18ghz-octa-core-4gb-ram-64gb-flash-wi-fi-bluetooth-gps-android-81-black-fde4f4e4fd172c534a9b8c4db95a2ff2.jpg
+    Pret    
+9/21/2020 12:00:22 AM 1.408,67 RON

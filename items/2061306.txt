@@ -1,0 +1,10 @@
+    Cod    
+2061306
+    Product link    
+https://www.pcgarage.ro/smartphone/google/pixel-3-xl-octa-core-128gb-4gb-ram-single-sim-4g-3-camere-black/
+    Name    
+Google Pixel 3 XL, Octa Core, 128GB, 4GB RAM, Single SIM, 4G, 3-Camere, Black
+    Img url    
+https://1.grgs.ro/images/products/1/3442/2061306/thumbnails/pixel-3-xl-octa-core-64gb-4gb-ram-single-sim-4g-tri-camera-black-2042941e58885388ba267036d09efdf7.jpg
+    Pret    
+9/20/2020 11:40:12 PM 2.599,00 RON

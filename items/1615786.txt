@@ -1,0 +1,10 @@
+    Cod    
+1615786
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1220-v6-3ghz-box/
+    Name    
+Intel Xeon Quad-Core E3-1220 v6 3GHz, box
+    Img url    
+https://5.grgs.ro/images/products/1/3/1615786/thumbnails/xeon-quad-core-e3-1241-v3-35ghz-box-58aec20bf57eff9d205ab13f48a27200.jpg
+    Pret    
+9/21/2020 12:04:17 AM 1.140,91 RON

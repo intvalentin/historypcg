@@ -1,0 +1,10 @@
+    Cod    
+1479950
+    Product link    
+https://www.pcgarage.ro/ssd/a-data/sx7000-256gb-pci-express-30-x4-m2-2280/
+    Name    
+ADATA SX7000 256GB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://3.grgs.ro/images/products/1/1427582/1479950/thumbnails/sx7000-128gb-nvm-express-m2-2280-e75d461c5004dd4c5e129cf6519f2d78.jpg
+    Pret    
+9/21/2020 7:43:10 AM 312,94 RON

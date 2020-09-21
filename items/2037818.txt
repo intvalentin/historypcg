@@ -1,0 +1,10 @@
+    Cod    
+2037818
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-callisto-ii/
+    Name    
+Gaming Callisto, Intel i7-9700F 3.0GHz Coffee Lake, 16GB DDR4, 512GB SSD, GTX 1660 SUPER 6GB GDDR6, Iluminare RGB
+    Img url    
+https://4.grgs.ro/images/products/1/2045418/2037818/thumbnails/gaming-callisto-intel-i7-9700-30ghz-coffee-lake-16gb-ddr4-512gb-ssd-gtx-1660-super-6gb-gddr6-iluminare-rgb-cb2f70f4271629eb208af14013074119.jpg
+    Pret    
+9/21/2020 12:01:52 AM 4.999,99 RON

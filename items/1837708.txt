@@ -1,0 +1,10 @@
+    Cod    
+1837708
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/173-inspiron-5770-seria-5000-fhd-procesor-intel-core-i7-8550u-processor-8m-cache-up-to-400-ghz-8gb-ddr4-1tb-plus-128gb-ssd-radeon-530-4gb-fingerprint-reader-linux-silver-3yr-cis-backlit/
+    Name    
+DELL 17.3&#039;&#039; Inspiron 5770 (seria 5000), FHD, Procesor Intel® Core™ i7-8550U Processor (8M Cache, up to 4.00 GHz), 8GB DDR4, 1TB + 128GB SSD, Radeon 530 4GB, FingerPrint Reader, Linux, Silver, 3Yr CIS, Backlit
+    Img url    
+https://3.grgs.ro/images/products/1/2863/1837708/thumbnails/mwl_i7_8-85ec13c3362bb4bb649d072256170a48.jpg
+    Pret    
+9/20/2020 11:01:08 PM 4.072,51 RON

@@ -1,0 +1,10 @@
+    Cod    
+1455150
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-1800x-36ghz-box/
+    Name    
+AMD Ryzen 7 1800X 3.6GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1416562/1455150/thumbnails/ryzen-7-1800x-4ghz-box-d60d762ea89677562ed1df9d968e15b0.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.812,63 RON

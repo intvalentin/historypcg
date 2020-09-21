@@ -1,0 +1,10 @@
+    Cod    
+2039426
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i9-10900kf-37ghz-box/
+    Name    
+Intel Comet Lake, Core i9 10900KF 3.7GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/3041/2039426/thumbnails/comet-lake-core-i9-10900kf-37ghz-box-1be00617ad444562028b0292fbd37b51.jpg
+    Pret    
+9/21/2020 7:35:07 AM 2.478,29 RON

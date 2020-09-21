@@ -1,0 +1,10 @@
+    Cod    
+2009014
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/thinksystem-sr550-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-1x-750w/
+    Name    
+Lenovo ThinkSystem SR550 Procesor Intel® Xeon® Silver 4210 2.2GHz Skylake, 16GB RAM DDR4 2Rx8 RDIMM, no HDD, 1x 750W
+    Img url    
+https://1.grgs.ro/images/products/1/2003606/2009014/thumbnails/thinksystem-sr550-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-1x-750w-1950a5e9dca828febb71ed961ac2da27.jpg
+    Pret    
+9/21/2020 12:03:51 AM 7.771,17 RON

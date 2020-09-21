@@ -1,0 +1,10 @@
+    Cod    
+2025678
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i7bek2-core-i7-8559u-27ghz-2x-ddr4-32gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC8I7BEK2, Core i7-8559U 2.7GHz, 2x DDR4 32GB max, M.2 SSD, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://4.grgs.ro/images/products/1/9002/2025678/thumbnails/intel-nuc-bareboen-boxnuc8i7bek2-core-i7-8559u-2x-ddr4-so-dimm-max-32gb-1x-m2-pcie-eu-cord-6aaca86aa8a672740157880c41597416.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.529,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+1740528
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r230-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-16gb-udimm-ddr4-2400mhz-1tb-hdd-plus-2x-200gb-ssd-lff-35-inch-3yr-nbd-windows-server-2016-standard/
+    Name    
+DELL PowerEdge R230, Procesor Intel® Xeon® E3-1220 v6 3.0GHz Kaby Lake, 16GB UDIMM DDR4 2400MHz, 1TB HDD + 2x 200GB SSD, LFF 3.5 inch, 3Yr NBD, Windows Server 2016 Standard
+    Img url    
+https://5.grgs.ro/images/products/1/1094679/1740528/thumbnails/poweredge-r230-procesor-intel-xeon-e3-1230-v5-34ghz-skylake-8gb-udimm-ddr4-2133mhz-1tb-nl-sas-lff-35-inch-perc-h330-10436d8a5c8dff0b033701de5a673bb6.jpg
+    Pret    
+9/21/2020 12:04:06 AM 11.853,89 RON

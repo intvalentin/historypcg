@@ -1,0 +1,10 @@
+    Cod    
+2072710
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-9-pro-nuc9v7qnx-core-i7-9850h-26ghz-coffee-lake-no-ram-no-storage-uhd-630-wi-fi-bluetooth-hdmi-no-os/
+    Name    
+Intel (NUC) Next Unit of Computing 9 Pro NUC9V7QNX, Core i7-9850H 2.6GHz Coffee Lake, no RAM, no storage, UHD 630, Wi-Fi, Bluetooth, HDMI, no OS
+    Img url    
+https://1.grgs.ro/images/products/1/4273/2072710/thumbnails/nuc-next-unit-of-computing-9-pro-nuc9v7qnx-core-i7-9850h-26ghz-coffee-lake-no-ram-no-storage-uhd-630-wi-fi-bluetooth-hdmi-no-os-63f0b7c0a1e8e5a872bdf853c999b6c7.jpg
+    Pret    
+9/21/2020 12:03:46 AM 5.824,98 RON

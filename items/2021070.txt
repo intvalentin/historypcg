@@ -1,0 +1,10 @@
+    Cod    
+2021070
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-ml30-gen10-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-udimm-ddr4-no-hdd-smart-array-s100i-4x-lff/
+    Name    
+HP ProLiant ML30 Gen10, Procesor Intel® Xeon® E-2224 3.4GHz Coffee Lake, 16GB UDIMM DDR4, no HDD, Smart Array S100i, 4x LFF
+    Img url    
+https://2.grgs.ro/images/products/1/8491/2021070/thumbnails/proliant-ml30-gen10-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-udimm-ddr4-no-hdd-smart-array-s100i-4x-lff-f44e3cdaa9b2c75aa124a3ffb6cfb883.jpg
+    Pret    
+9/21/2020 12:04:01 AM 4.675,76 RON

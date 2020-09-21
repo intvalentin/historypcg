@@ -1,0 +1,10 @@
+    Cod    
+1979514
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3590-seria-3000-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-256gb-ssd-radeon-610-2gb-linux-black-3yr/
+    Name    
+DELL 15.6&#039;&#039; Vostro 3590 (seria 3000), FHD, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 8GB DDR4, 256GB SSD, Radeon 610 2GB, Linux, Black, 3Yr, No ODD
+    Img url    
+https://1.grgs.ro/images/products/1/6472/1979514/thumbnails/mwl_i7_10-750dba557d2aa99382a9637217c2cffc.jpg
+    Pret    
+9/20/2020 10:58:16 PM 3.198,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1972710
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/14-latitude-5401-seria-5000-fhd-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-630-linux-black-3yr-on-site/
+    Name    
+DELL 14&#039;&#039; Latitude 5401 (seria 5000), FHD, Procesor Intel® Core™ i5-9300H (8M Cache, up to 4.10 GHz), 8GB DDR4, 256GB SSD, GMA UHD 630, Linux, Black, 3Yr On-site
+    Img url    
+https://1.grgs.ro/images/products/1/8486/1972710/thumbnails/mwl_i5_9-eddd670da0f360e7ab7cfcaf72cab891.jpg
+    Pret    
+9/20/2020 11:01:13 PM 4.570,75 RON

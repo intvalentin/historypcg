@@ -1,0 +1,10 @@
+    Cod    
+2039434
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i9-10900-28ghz-box/
+    Name    
+Intel Comet Lake, Core i9 10900 2.8GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/2034042/2039434/thumbnails/comet-lake-core-i9-10900-28ghz-box-7991aa2fe45b86806d0bb599d0e668ec.jpg
+    Pret    
+9/21/2020 7:35:07 AM 2.370,57 RON

@@ -1,0 +1,10 @@
+    Cod    
+2027002
+    Product link    
+https://www.pcgarage.ro/ssd/hikvision/e2000-512gb-pci-express-30-x4-m2-2280/
+    Name    
+Hikvision E2000 512GB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://4.grgs.ro/images/products/1/9002/2027002/thumbnails/e2000-256gb-pci-express-30-x4-m2-2280-9912f81307451bf337a035f13a3c9845.jpg
+    Pret    
+9/21/2020 7:42:17 AM 398,22 RON

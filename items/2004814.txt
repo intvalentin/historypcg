@@ -1,0 +1,10 @@
+    Cod    
+2004814
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-envy-13-aq1010nq-fhd-ips-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-home-silver/
+    Name    
+HP 13.3&#039;&#039; ENVY 13-aq1010nq, FHD IPS, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Home, Silver
+    Img url    
+https://5.grgs.ro/images/products/1/8977/2004814/thumbnails/mwl_i5_10-997dd9640f6e36f27e0f750c373fd28b.jpg
+    Pret    
+9/20/2020 10:57:03 PM 3.498,99 RON

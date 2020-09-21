@@ -1,0 +1,10 @@
+    Cod    
+1157758
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/x3500-m5-procesor-intel-xeon-e5-2620-v3-24ghz-haswell-1x-8gb-rdimm-ddr4-2133mhz-3x-300gb-sas-10k-sff-25-inch-m5210-1gb/
+    Name    
+Lenovo x3500 M5, Procesor Intel® Xeon® E5-2620 v3 2.4GHz Haswell, 1x 8GB RDIMM DDR4 2133MHz, 3x 300GB SAS 10k, SFF 2.5 inch, M5210 1GB
+    Img url    
+https://2.grgs.ro/images/products/1/782584/1157758/thumbnails/x3500-m5-procesor-intel-xeon-e5-2620-v3-24ghz-haswell-1x-8gb-rdimm-ddr4-2133mhz-3x-300gb-sas-10k-sff-25-inch-m5210-1gb-df85e227b32b4bc1ba7b6541251141f0.jpg
+    Pret    
+9/21/2020 12:04:10 AM 14.134,05 RON

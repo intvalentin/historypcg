@@ -1,0 +1,11 @@
+    Cod    
+1990402
+    Product link    
+https://www.pcgarage.ro/placi-video/msi/radeon-rx-5500-xt-mech-oc-8gb-gddr6-128-bit/
+    Name    
+MSI Radeon RX 5500 XT MECH OC 8GB GDDR6 128-bit
+    Img url    
+https://2.grgs.ro/images/products/1/1979534/1990402/thumbnails/radeon-rx-5500-xt-mech-oc-8gb-gddr6-128-bit-b35ee3673ab2c51a0f33ca5fd6fda4f6.jpg
+    Pret    
+9/21/2020 12:06:10 AM 1.106,25 RON
+9/21/2020 7:32:16 AM 1.106,25 RON

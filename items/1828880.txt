@@ -1,0 +1,10 @@
+    Cod    
+1828880
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/asus/238-quot-v241fak-fhd-procesor-intel-core-i5-8265u-16ghz-whiskey-lake-8gb-ddr4-256gb-ssd-gma-uhd-620-freedos/
+    Name    
+ASUS 23.8&quot; V241FAK, FHD, Procesor Intel® Core™ i5-8265U 1.6GHz Whiskey Lake, 8GB DDR4, 256GB SSD, GMA UHD 620, Camera Web, FreeDos
+    Img url    
+https://1.grgs.ro/images/products/1/1736364/1828880/thumbnails/215-quot-v222gak-fhd-procesor-intel-celeron-j4005-20ghz-gemini-lake-4gb-ddr4-500gb-hdd-gma-uhd-600-linux-b0d4a6b65ead8ef1417436e02b38bb9f.jpg
+    Pret    
+9/21/2020 12:03:01 AM 3.409,99 RON

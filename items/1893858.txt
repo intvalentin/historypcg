@@ -1,0 +1,10 @@
+    Cod    
+1893858
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-3700x-36ghz-box/
+    Name    
+AMD Ryzen 7 3700X 3.6GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/1275/1893858/thumbnails/ryzen-7-3700x-36ghz-box-e553130cbd746b18df07649c5f0c3a7d.png
+    Pret    
+9/21/2020 7:34:36 AM 1.529,99 RON

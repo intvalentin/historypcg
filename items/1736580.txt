@@ -1,0 +1,10 @@
+    Cod    
+1736580
+    Product link    
+https://www.pcgarage.ro/procesoare-server/amd/epyc-twenty-four-core-7451-23ghz-box/
+    Name    
+AMD EPYC Twenty-four Core 7451 2.3GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1736364/1736580/thumbnails/epyc-twenty-four-core-7451-23ghz-box-3618159972e5dc4d617d0420e1295bba.jpg
+    Pret    
+9/21/2020 12:04:17 AM 13.685,40 RON

@@ -1,0 +1,10 @@
+    Cod    
+1776360
+    Product link    
+https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2019-standard-1-licenta-16-core-olp-nl-software-assurance/
+    Name    
+Microsoft Server 2019 Standard, 1 Licenta, 16 Core, OLP NL, Software Assurance
+    Img url    
+https://2.grgs.ro/images/products/1/1153/1776360/thumbnails/server-2019-standard-1-licenta-2-core-olp-nl-b488d0e62dee6e5bba4849478e27b562.jpg
+    Pret    
+9/21/2020 1:15:07 PM 8.771,23 RON

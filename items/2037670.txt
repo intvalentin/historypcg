@@ -1,0 +1,10 @@
+    Cod    
+2037670
+    Product link    
+https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9-pro-octa-core-128gb-6gb-ram-dual-sim-4g-5-camere-tropical-green/
+    Name    
+Xiaomi Redmi Note 9 Pro (2020), Octa Core, 128GB, 6GB RAM, Dual SIM, 4G, 5-Camere, Fast Charge 30W, Baterie 5020 mAh, Tropical Green
+    Img url    
+https://3.grgs.ro/images/products/1/3041/2037670/thumbnails/redmi-note-9-pro-octa-core-64gb-6gb-ram-dual-sim-4g-5-camere-tropical-green-11773a6f890e4f0c57a9f56ec9c9941a.jpg
+    Pret    
+9/20/2020 11:39:57 PM 1.249,00 RON

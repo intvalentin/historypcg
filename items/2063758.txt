@@ -1,0 +1,10 @@
+    Cod    
+2063758
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a340-22ick-215-inch-fhd-procesor-intel-core-i3-9100t-31ghz-coffee-lake-4gb-ram-128gb-ssd-plus-1tb-hdd-uhd-630-camera-web-freedos/
+    Name    
+Lenovo IdeaCentre A340-22ICK, 21.5 inch FHD, Procesor Intel® Core™ i3-9100T 3.1GHz Coffee Lake, 4GB RAM, 128GB SSD + 1TB HDD, UHD 630, Camera Web, FreeDos
+    Img url    
+https://3.grgs.ro/images/products/1/6166/2063758/thumbnails/24-quot-f0e80081ri-fhd-procesor-intel-core-i5-8265u-22ghz-whiskey-lake-4gb-ddr4-1tb-hdd-gma-uhd-620-freedos-2147f9319ab19f5fcf908dcdf4ebc084.png
+    Pret    
+9/21/2020 12:02:51 AM 2.499,98 RON

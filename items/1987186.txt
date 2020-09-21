@@ -1,0 +1,10 @@
+    Cod    
+1987186
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-bxnuc10i7fnkpa2-core-i7-10710u-11ghz-8gb-ddr4-256gb-ssd-uhd-graphics-wi-fi-bluetooth-hdmi-win-10/
+    Name    
+Intel (NUC) Next Unit of Computing BXNUC10I7FNKPA2, Core i7-10710U 1.1GHz, 8GB DDR4, 256GB SSD, UHD Graphics, Wi-Fi, Bluetooth, HDMI, Win 10
+    Img url    
+https://5.grgs.ro/images/products/1/1977958/1987186/thumbnails/nuc-next-unit-of-computing-bxnuc10i5fnkpa2-core-i5-10210u-16ghz-8gb-ddr4-256gb-ssd-uhd-graphics-wi-fi-bluetooth-hdmi-win-10-018f3417ab02292a669df47759b71027.png
+    Pret    
+9/21/2020 12:03:42 AM 4.204,98 RON

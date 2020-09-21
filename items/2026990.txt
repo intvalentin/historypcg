@@ -1,0 +1,10 @@
+    Cod    
+2026990
+    Product link    
+https://www.pcgarage.ro/ssd/hikvision/ssd-e2000-1024gb-nvme-m2-2280/
+    Name    
+Hikvision E2000 1TB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://2.grgs.ro/images/products/1/9002/2026990/thumbnails/e2000-1tb-pci-express-30-x4-m2-2280-823553bd1db6f4efa00fe6224b829754.jpg
+    Pret    
+9/21/2020 7:42:25 AM 699,21 RON

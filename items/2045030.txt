@@ -1,0 +1,10 @@
+    Cod    
+2045030
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-cerberus-cl/
+    Name    
+Gaming Cerberus, Intel i7 10700K 3.8GHz Comet Lake, 16GB DDR4, 2TB HDD + 512GB SSD, RTX 2080 SUPER 8GB GDDR6, Iluminare RGB, Windows 10 Home preinstalat (Game Ready)
+    Img url    
+https://4.grgs.ro/images/products/1/1153/2045030/thumbnails/gaming-cerberus-intel-i7-10700k-38ghz-comet-lake-16gb-ddr4-2tb-hdd-plus-512gb-ssd-rtx-2080-super-8gb-gddr6-iluminare-rgb-windows-10-home-preinstalat-g-8f4a2c81358ada74a14554ec4dc09a86.jpg
+    Pret    
+9/21/2020 12:01:52 AM 11.299,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1706172
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-procesor-intel-core-i3-7020u-20ghz-kaby-lake-8gb-1tb-radeon-530-2gb-freedos/
+    Name    
+Lenovo 21.5&#039;&#039; IdeaCentre 520, FHD, Procesor Intel® Core™ i3-7020U 2.0GHz Kaby Lake, 8GB, 1TB, Radeon 530 2GB, Camera Web, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/1508470/1706172/thumbnails/215-ideacentre-520-fhd-procesor-intel-core-i3-7020u-20ghz-kaby-lake-8gb-1tb-gma-hd-620-freedos-a057968c0a57d9715cb4bb753e7cb7df.png
+    Pret    
+9/21/2020 12:03:05 AM 2.839,98 RON

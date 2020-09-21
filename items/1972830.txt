@@ -1,0 +1,10 @@
+    Cod    
+1972830
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-latitude-5501-seria-5000-fhd-procesor-intel-core-i7-9850h-12m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-geforce-mx150-2gb-linux-aluminum-3yr-on-site/
+    Name    
+DELL 15.6&#039;&#039; Latitude 5501 (seria 5000), FHD, Procesor Intel® Core™ i7-9850H (12M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GeForce MX150 2GB, Linux, Aluminum, 3Yr On-site
+    Img url    
+https://1.grgs.ro/images/products/1/8486/1972830/thumbnails/mwl_i7_9-5cda59e7357140935de8dee5e91cc65e.jpg
+    Pret    
+9/20/2020 11:01:28 PM 7.182,80 RON

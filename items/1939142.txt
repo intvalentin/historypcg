@@ -1,0 +1,10 @@
+    Cod    
+1939142
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/asus/chromebox-3-procesor-intel-core-i3-7100u-24ghz-kaby-lake-4gb-ddr4-64gb-ssd-gma-hd-620-chrome-os/
+    Name    
+ASUS Chromebox 3,  Procesor Intel® Core™ i3-7100U 2.4GHz Kaby Lake, 4GB DDR4, 64GB SSD, GMA HD 620, Chrome OS
+    Img url    
+https://3.grgs.ro/images/products/1/6835/1939142/thumbnails/chromebox-3-procesor-intel-core-i3-7100u-24ghz-kaby-lake-4gb-ddr4-64gb-ssd-gma-hd-620-chrome-os-11a1f6af3d7155962b2b54240d396d8e.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.429,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+1670808
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-8600-31ghz-box/
+    Name    
+Intel Coffee Lake, Core i5 8600 3.1GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1666176/1670808/thumbnails/coffee-lake-core-i5-8600-31ghz-box-1c3f8c5a35754d9688815b00f0607dd5.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.399,99 RON

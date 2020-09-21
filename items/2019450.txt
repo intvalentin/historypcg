@@ -1,0 +1,10 @@
+    Cod    
+2019450
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g7-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver/
+    Name    
+HP 14&#039;&#039; ProBook 440 G7, FHD, Procesor Intel® Core™ i3-10110U (4M Cache, up to 4.10 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/2013982/2019450/thumbnails/mwl_i3_10-93442d8a127189e07a8467e45894000e.jpg
+    Pret    
+9/20/2020 10:59:10 PM 3.442,46 RON

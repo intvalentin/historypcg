@@ -1,0 +1,10 @@
+    Cod    
+2005546
+    Product link    
+https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-evoke-8gb-gddr6-256-bit/
+    Name    
+MSI Radeon RX 5700 Evoke 8GB GDDR6 256-bit
+    Img url    
+https://5.grgs.ro/images/products/1/6472/2005546/thumbnails/radeon-rx-5700-evoke-gp-oc-8gb-gddr6-256-bit-235ac3c46eba773ecafd1cc56a2e1154.jpg
+    Pret    
+9/21/2020 7:33:49 AM 2.118,43 RON

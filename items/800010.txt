@@ -1,0 +1,10 @@
+    Cod    
+800010
+    Product link    
+https://www.pcgarage.ro/ventilatoare-radiatoare/zalman/zm-f3-ledsf/
+    Name    
+Zalman ZM-F3 LED(SF)
+    Img url    
+https://5.grgs.ro/images/products/1/1152773/800010/thumbnails/zm-f3-ledsf-ddb97d70b6853b2ad19f4ebe98f8c140.jpg
+    Pret    
+9/21/2020 7:56:45 AM 47,60 RON

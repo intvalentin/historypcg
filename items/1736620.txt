@@ -1,0 +1,10 @@
+    Cod    
+1736620
+    Product link    
+https://www.pcgarage.ro/procesoare-server/amd/epyc-eight-core-7251-21ghz-box/
+    Name    
+AMD EPYC Eight-Core 7251 2.1GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/1427502/1736620/thumbnails/epyc-eight-core-7251-21ghz-box-0b5ef666b5844dd7489706e4032ce665.jpg
+    Pret    
+9/21/2020 12:04:16 AM 2.711,48 RON

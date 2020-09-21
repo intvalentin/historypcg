@@ -1,0 +1,10 @@
+    Cod    
+1819552
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-10e2400-hdd-12tb-7200rpm-sas-128mb-25-inch-sed-512n/
+    Name    
+Seagate Exos 10E2400 HDD 1.2TB 7200RPM SAS 128MB 2.5 inch ​SED 512n
+    Img url    
+https://2.grgs.ro/images/products/1/5147/1819552/thumbnails/exos-10e2400-hdd-12tb-7200rpm-sas-128mb-25-inch-sed-512n-a734d27ebbf603df015807e4e5b6a169.jpg
+    Pret    
+9/21/2020 12:05:14 AM 1.313,64 RON

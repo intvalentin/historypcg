@@ -1,0 +1,10 @@
+    Cod    
+1738632
+    Product link    
+https://www.pcgarage.ro/memorii-server/dell/ecc-rdimm-ddr4-16gb-2666mhz-cl19-12v-2rx8/
+    Name    
+DELL ECC RDIMM DDR4 16GB 2666MHz CL19 1.2v 2Rx8
+    Img url    
+https://2.grgs.ro/images/products/1/1634078/1738632/thumbnails/ecc-rdimm-ddr4-16gb-2400mhz-cl17-12v-dual-rank-x8-ad283571ea6b0e92c66e36226490b8a3.jpg
+    Pret    
+9/21/2020 12:04:44 AM 1.784,92 RON

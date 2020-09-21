@@ -1,0 +1,10 @@
+    Cod    
+2058274
+    Product link    
+https://www.pcgarage.ro/ultrabook/dell/134-xps-13-9300-uhd-plus-touch-infinityedge-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-32gb-ddr4x-2tb-ssd-intel-iris-plus-win-10-pro-silver-3yr-bos/
+    Name    
+DELL 13.4&#039;&#039; XPS 13 9300, UHD+ Touch InfinityEdge, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 32GB DDR4X, 2TB SSD, Intel Iris Plus, Win 10 Pro, Silver, 3Yr BOS
+    Img url    
+https://2.grgs.ro/images/products/1/2013982/2058274/thumbnails/mwl_i7_10-602e0e5eeb55192b6939d02757c039f9.jpg
+    Pret    
+9/20/2020 10:57:30 PM 14.066,55 RON

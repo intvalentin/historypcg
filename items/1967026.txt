@@ -1,0 +1,10 @@
+    Cod    
+1967026
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-sff-procesor-intel-core-i9-9900-310ghz-coffee-lake-32gb-ddr4-512gb-ssd-gma-uhd-630-linux/
+    Name    
+DELL OptiPlex 7070 SFF, Procesor Intel® Core™ i9-9900 3.10GHz Coffee Lake, 32GB DDR4, 512GB SSD, GMA UHD 630, Linux
+    Img url    
+https://4.grgs.ro/images/products/1/8977/1967026/thumbnails/optiplex-7070-sff-procesor-intel-core-i9-9900-310ghz-coffee-lake-32gb-ddr4-512gb-ssd-gma-uhd-630-linux-3e6f17aa7c5fda2db2366b3e0b825892.jpg
+    Pret    
+9/21/2020 12:02:38 AM 8.049,98 RON

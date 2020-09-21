@@ -1,0 +1,10 @@
+    Cod    
+2008742
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/thinksystem-st50-processor-intel-xeon-e-2144g-36ghz-coffee-lake-8gb-ddr4-udimm-2x-1tb-hdd-250w/
+    Name    
+Lenovo ThinkSystem ST50, Processor Intel® Xeon® E-2144G 3.6GHz Coffee Lake, 8GB DDR4 UDIMM, 2x 1TB HDD, 250W
+    Img url    
+https://4.grgs.ro/images/products/1/2003606/2008742/thumbnails/thinksystem-st50-processor-intel-xeon-e-2144g-36ghz-coffee-lake-8gb-ddr4-udimm-2x-1tb-hdd-250w-dcecc61a7c43f008bba56e5558515493.jpg
+    Pret    
+9/21/2020 12:03:51 AM 4.127,24 RON

@@ -1,0 +1,10 @@
+    Cod    
+1972230
+    Product link    
+https://www.pcgarage.ro/ultrabook/asus/14-zenbook-ux433fac-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-8gb-512gb-ssd-gma-uhd-win-10-pro-royal-blue/
+    Name    
+ASUS 14&#039;&#039; ZenBook UX433FAC, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB, 512GB SSD, GMA UHD, Win 10 Pro, Royal Blue
+    Img url    
+https://1.grgs.ro/images/products/1/3442/1972230/thumbnails/mwl_i5_10-de75b75303dc7909487f8ad8a8eb5aab.jpg
+    Pret    
+9/20/2020 10:57:11 PM 4.699,00 RON

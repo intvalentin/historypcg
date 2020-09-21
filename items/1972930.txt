@@ -1,0 +1,10 @@
+    Cod    
+1972930
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-api-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-35-ghz-4gb-ddr4-256gb-ssd-radeon-vega-3-no-os-blizzard-white/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad L340 API, FHD, Procesor AMD Ryzen™ 3 3200U (4M Cache, up to 3.5 GHz), 4GB DDR4, 256GB SSD, Radeon Vega 3, No OS, Blizzard White
+    Img url    
+https://1.grgs.ro/images/products/1/6835/1972930/thumbnails/156-ideapad-l340-api-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-37-ghz-8gb-ddr4-256gb-ssd-radeon-vega-8-freedos-blizzard-white-529d7d884987f76db57819911c5b2172.jpg
+    Pret    
+9/20/2020 11:00:07 PM 1.665,03 RON

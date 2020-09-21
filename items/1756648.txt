@@ -1,0 +1,10 @@
+    Cod    
+1756648
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/athlon-200ge-32ghz-mpk/
+    Name    
+AMD Athlon 200GE 3.2GHz MPK
+    Img url    
+https://4.grgs.ro/images/products/1/6748/1756648/thumbnails/athlon-200ge-32ghz-box-f37692d33b8f5a9d4f2bfe0c0e034922.jpg
+    Pret    
+9/21/2020 7:34:58 AM 397,65 RON

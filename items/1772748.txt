@@ -1,0 +1,10 @@
+    Cod    
+1772748
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t480s-fhd-ips-procesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad T480s, FHD IPS, Procesor Intel® Core™ i5-8250U (6M Cache, up to 3.40 GHz), 8GB DDR4, 256GB SSD, GMA UHD 620, Win 10 Pro, Black
+    Img url    
+https://4.grgs.ro/images/products/1/5015/1772748/thumbnails/14-thinkpad-t480s-wqhd-ips-proccesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black-c6805c3857c81596ed128e26593d2267.jpg
+    Pret    
+9/20/2020 11:01:18 PM 5.393,99 RON

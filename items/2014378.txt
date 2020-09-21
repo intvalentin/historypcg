@@ -1,0 +1,10 @@
+    Cod    
+2014378
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/133-probook-430-g7-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver/
+    Name    
+HP 13.3&#039;&#039; ProBook 430 G7, FHD, Procesor Intel® Core™ i3-10110U (4M Cache, up to 4.10 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Silver
+    Img url    
+https://5.grgs.ro/images/products/1/9943/2014378/thumbnails/mwl_i3_10-a8adbbc7a3f289a8a59a7443531df603.jpg
+    Pret    
+9/20/2020 10:59:10 PM 3.578,19 RON

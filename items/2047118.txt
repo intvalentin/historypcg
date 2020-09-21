@@ -1,0 +1,10 @@
+    Cod    
+2047118
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-15-x512da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-350-ghz-8gb-ddr4-256gb-ssd-radeon-vega-no-os-transparent-silver/
+    Name    
+ASUS 15.6&#039;&#039; VivoBook 15 X512DA, FHD, Procesor AMD Ryzen™ 3 3250U (4M Cache, up to 3.50 GHz), 8GB DDR4, 256GB SSD, Radeon Vega, No OS, Transparent Silver
+    Img url    
+https://4.grgs.ro/images/products/1/1953966/2047118/thumbnails/156-vivobook-15-x512da-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-transparent-silver-cff3e83615ef0a8efe34c28fbd285945.jpg
+    Pret    
+9/20/2020 10:59:58 PM 1.798,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1711684
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl380-gen9-rack-2u-1x-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-32gb-rdimm-ddr4-8x-300gb-sas-sff-25-inch-p440ar-2gb-windows-server-2016-standard/
+    Name    
+HP ProLiant DL380 Gen9 Rack 2U, 1x Procesor Intel® Xeon® E5-2620 v4 2.1GHz Broadwell, 32GB RDIMM DDR4, 8x 300GB SAS, SFF 2.5 inch, P440ar 2GB, Windows Server 2016 Standard
+    Img url    
+https://3.grgs.ro/images/products/1/1000151/1711684/thumbnails/proliant-dl380-gen9-rack-2u-2x-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-32gb-rdimm-ddr4-8x-300gb-sas-sff-25-inch-p440ar-2gb-windows-server-2016--f33cab6e006586658b591a897778851e.jpg
+    Pret    
+9/21/2020 12:04:10 AM 21.278,50 RON

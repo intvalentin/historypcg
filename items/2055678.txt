@@ -1,0 +1,10 @@
+    Cod    
+2055678
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-ikb-fhd-procesor-intel-core-i3-8130u-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-gma-uhd-620-no-os-platinum-grey/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145 IKB, FHD, Procesor Intel® Core™ i3-8130U (4M Cache, up to 3.40 GHz), 4GB DDR4, 256GB SSD, GMA UHD 620, No OS, Platinum Grey
+    Img url    
+https://1.grgs.ro/images/products/1/1236/2055678/thumbnails/156-ideapad-s145-ikb-fhd-procesor-intel-core-i3-8130u-4m-cache-up-to-340-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-no-os-platinum-grey-42e4a978d01131212042d762108e7149.jpg
+    Pret    
+9/20/2020 11:00:02 PM 1.999,00 RON

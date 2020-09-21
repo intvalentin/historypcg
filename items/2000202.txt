@@ -1,0 +1,11 @@
+    Cod    
+2000202
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-super-tuf-gaming-4gb-gddr6-128-bit/
+    Name    
+ASUS GeForce GTX 1650 SUPER TUF Gaming 4GB GDDR6 128-bit
+    Img url    
+https://1.grgs.ro/images/products/1/1990682/2000202/thumbnails/geforce-gtx-1650-super-tuf-gaming-4gb-gddr6-128-bit-8619e533dd4872af1e928e99fe9d1ce5.jpg
+    Pret    
+9/21/2020 12:06:10 AM 945,58 RON
+9/21/2020 7:32:16 AM 945,58 RON

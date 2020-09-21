@@ -1,0 +1,10 @@
+    Cod    
+2020162
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g7-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-1tb-plus-256gb-ssd-gma-uhd-win-10-pro-silver/
+    Name    
+HP 14&#039;&#039; ProBook 440 G7, FHD, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 8GB DDR4, 1TB + 256GB SSD, GMA UHD, Win 10 Pro, Silver
+    Img url    
+https://3.grgs.ro/images/products/1/2013982/2020162/thumbnails/mwl_i7_10-415a68d7208209b061c6708ad87e77c0.jpg
+    Pret    
+9/20/2020 10:59:14 PM 4.435,61 RON

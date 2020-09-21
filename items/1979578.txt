@@ -1,0 +1,10 @@
+    Cod    
+1979578
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-plus-512gb-ssd-geforce-mx-130-2gb-win-10-pro-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G6, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 1TB + 512GB SSD, GeForce MX 130 2GB, Win 10 Pro, Silver
+    Img url    
+https://4.grgs.ro/images/products/1/753/1979578/thumbnails/mwl_i7_8-a82cb3c317dc9346e38acd061be6a888.jpg
+    Pret    
+9/20/2020 11:00:30 PM 4.598,99 RON

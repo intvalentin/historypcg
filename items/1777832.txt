@@ -1,0 +1,10 @@
+    Cod    
+1777832
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-2700x-37ghz-mpk/
+    Name    
+AMD Ryzen 7 2700X 3.7GHz MPK
+    Img url    
+https://2.grgs.ro/images/products/1/761/1777832/thumbnails/ryzen-7-2700x-37ghz-mpk-408a8bb6f5bc8c3d6eca5e7697c89d36.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.978,67 RON

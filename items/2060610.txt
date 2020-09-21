@@ -1,0 +1,10 @@
+    Cod    
+2060610
+    Product link    
+https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um425ia-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-8gb-ddr4-512gb-ssd-radeon-win-10-home-pine-grey-1/
+    Name    
+ASUS 14&#039;&#039; ZenBook 14 UM425IA, FHD, Procesor AMD Ryzen™ 7 4700U (8M Cache, up to 4.1 GHz), 8GB DDR4, 512GB SSD, Radeon, Win 10 Home, Pine Grey
+    Img url    
+https://1.grgs.ro/images/products/1/6954/2060610/thumbnails/14-zenbook-14-um425ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-win-10-home-pine-grey-ce94e637d270f8c41e5c09d5403696c7.jpg
+    Pret    
+9/20/2020 10:57:08 PM 4.698,99 RON

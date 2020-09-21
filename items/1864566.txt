@@ -1,0 +1,10 @@
+    Cod    
+1864566
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-9600-31ghz-box/
+    Name    
+Intel Coffee Lake, Core i5 9600 3.1GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/7399/1864566/thumbnails/coffee-lake-core-i5-9600-310ghz-box-9225c2a80518f9031c34f6c9a750151d.jpg
+    Pret    
+9/21/2020 7:34:43 AM 1.140,08 RON

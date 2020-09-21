@@ -1,0 +1,10 @@
+    Cod    
+2056462
+    Product link    
+https://www.pcgarage.ro/ultrabook/asus/14-zenbook-duo-ux481fl-fhd-touch-procesor-intel-core-i7-10510u-8m-cache-up-to-480-ghz-16gb-512gb-ssd-geforce-mx250-2gb-win-10-pro-celestial-blue/
+    Name    
+ASUS 14&#039;&#039; ZenBook Duo UX481FL, FHD Touch, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.80 GHz), 16GB, 512GB SSD, GeForce MX250 2GB, Win 10 Pro, Celestial Blue
+    Img url    
+https://3.grgs.ro/images/products/1/1953966/2056462/thumbnails/mwl_i7_10-2626a3ff862cc1ebdc4d9cd19857da48.jpg
+    Pret    
+9/20/2020 10:57:42 PM 7.298,99 RON

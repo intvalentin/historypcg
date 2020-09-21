@@ -1,0 +1,10 @@
+    Cod    
+2051714
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a340-24ick-24-inch-fhd-procesor-intel-core-i5-9400t-18ghz-coffee-lake-8gb-ram-128gb-ssd-plus-1tb-hdd-uhd-630-camera-web-freedos/
+    Name    
+Lenovo IdeaCentre A340-24ICK, 24 inch FHD, Procesor Intel® Core™ i5-9400T 1.8GHz Coffee Lake, 8GB RAM, 128GB SSD + 1TB HDD, UHD 630, Camera Web, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/6166/2051714/thumbnails/24-quot-f0e80081ri-fhd-procesor-intel-core-i5-8265u-22ghz-whiskey-lake-4gb-ddr4-1tb-hdd-gma-uhd-620-freedos-2147f9319ab19f5fcf908dcdf4ebc084.png
+    Pret    
+9/21/2020 12:02:51 AM 3.179,98 RON

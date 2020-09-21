@@ -1,0 +1,10 @@
+    Cod    
+2062550
+    Product link    
+https://www.pcgarage.ro/memorii-notebook/crucial/8gb-ddr4-3200mhz-cl22-12v-1/
+    Name    
+Crucial 8GB, DDR4, 3200MHz, CL22, 1.2v
+    Img url    
+https://2.grgs.ro/images/products/1/6954/2062550/thumbnails/nb-memory-8gb-pc25600-ddr4-so-ct8g4sfra32a-crucial-4e82e687dd37795badf200426ff84f90.jpg
+    Pret    
+9/20/2020 11:02:33 PM 199,98 RON

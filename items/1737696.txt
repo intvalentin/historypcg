@@ -1,0 +1,10 @@
+    Cod    
+1737696
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-2600-34ghz-mpk/
+    Name    
+AMD Ryzen 5 2600 3.4GHz MPK
+    Img url    
+https://3.grgs.ro/images/products/1/1736364/1737696/thumbnails/ryzen-5-2600-34ghz-mpk-b854808f61faaa3b7775acf8674a1be5.jpg
+    Pret    
+9/21/2020 7:35:03 AM 1.357,58 RON

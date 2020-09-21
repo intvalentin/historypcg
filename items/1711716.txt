@@ -1,0 +1,10 @@
+    Cod    
+1711716
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl360-gen9-rack-1u-2x-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-32gb-rdimm-ddr4-8x-300gb-sas-sff-25-inch-smart-array-p440ar-2g-windows-server-2016-5x-microsoft-cal-1x-microsoft-sql-server-2017/
+    Name    
+HP ProLiant DL360 Gen9 Rack 1U, 2x Procesor Intel® Xeon® E5-2620 v4 2.1GHz Broadwell, 32GB RDIMM DDR4, 8x 300GB SAS, SFF 2.5 inch, Smart Array P440ar/2G, Windows Server 2016, 5x Microsoft CAL, 1x Microsoft SQL Server 2017
+    Img url    
+https://3.grgs.ro/images/products/1/1000151/1711716/thumbnails/proliant-dl360-gen9-rack-1u-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-16gb-rdimm-ddr4-2x-300gb-sas-sff-25-inch-p440ar-2g-1x-500w-671dd87492587c3f18d1146199e9ec41.jpg
+    Pret    
+9/21/2020 12:04:14 AM 35.714,30 RON

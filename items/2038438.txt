@@ -1,0 +1,10 @@
+    Cod    
+2038438
+    Product link    
+https://www.pcgarage.ro/smartphone/xiaomi/poco-f2-pro-octa-core-256gb-8gb-ram-dual-sim-5g-5-camere-cyber-gray/
+    Name    
+Xiaomi Poco F2 Pro, 5G Edition, Snapdragon 865, 256GB, 8GB RAM, Dual SIM, 5G, 5-Camere, Cyber Gray
+    Img url    
+https://4.grgs.ro/images/products/1/3041/2038438/thumbnails/poco-f2-pro-octa-core-256gb-8gb-ram-dual-sim-5g-5-camere-cyber-gray-ecfb9813dfb32553307a4e7e7e7d5e0d.jpg
+    Pret    
+9/20/2020 11:40:33 PM 2.499,00 RON

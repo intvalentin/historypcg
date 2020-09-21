@@ -1,0 +1,10 @@
+    Cod    
+1120123
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-25-hdd-1tb-7200-rpm-128mb-sata-6gb-s-5xx-emulation-standard-model/
+    Name    
+Seagate Exos Capacity 2.5 HDD, 1TB, 7200 RPM, 128MB, SATA 6GB/s, 5xx Emulation, Standard Model
+    Img url    
+https://3.grgs.ro/images/products/1/4/1120123/thumbnails/exos-capacity-25-hdd-1tb-7200-rpm-128mb-sata-6gb-s-5xx-emulation-standard-model-13ef56938956c88b5a4b38f602267087.png
+    Pret    
+9/21/2020 12:04:55 AM 918,03 RON

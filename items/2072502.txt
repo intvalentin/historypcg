@@ -1,0 +1,10 @@
+    Cod    
+2072502
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-l490-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad L490, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 512GB SSD, GMA UHD 620, 4G LTE, Win 10 Pro, Black
+    Img url    
+https://3.grgs.ro/images/products/1/6835/2072502/thumbnails/mwl_i7_8-f8fc0e463f620d41e3021282f32b9c57.jpg
+    Pret    
+9/20/2020 11:01:23 PM 6.399,00 RON

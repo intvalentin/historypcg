@@ -1,0 +1,10 @@
+    Cod    
+2060238
+    Product link    
+https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4-1/
+    Name    
+Kingston ECC RDIMM DDR4 32GB 2933MHz CL21 1.2v 2Rx4
+    Img url    
+https://2.grgs.ro/images/products/1/1977958/2060238/thumbnails/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4-bd68866651c976879bee35d689528555.jpg
+    Pret    
+9/21/2020 12:04:41 AM 1.011,35 RON

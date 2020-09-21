@@ -1,0 +1,10 @@
+    Cod    
+2064846
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-t440-tower-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-1x-16gb-ddr4-rdimm-ram-1x-480gb-ssd-sata-perc-h330-2x-495w-psu/
+    Name    
+DELL PowerEdge T440 Tower, Procesor Intel® Xeon® Silver 4208 2.1GHz Cascade Lake, 1x 16GB DDR4 RDIMM RAM, 1x 480GB SSD SATA, PERC H330, 2x 495W PSU
+    Img url    
+https://3.grgs.ro/images/products/1/1236/2064846/thumbnails/poweredge-t440-2x-procesor-intel-xeon-silver-4110-21ghz-skylake-2x-16gb-rdimm-120gb-ssd-plus-4x-600gb-sas-10k-lff-35-inch-perc-h330-3yr-nbd-f0a03693d97a55aafad991d00011efa7.jpg
+    Pret    
+9/21/2020 12:03:56 AM 10.010,00 RON

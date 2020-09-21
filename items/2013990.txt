@@ -1,0 +1,10 @@
+    Cod    
+2013990
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-elitebook-830-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-32gb-ddr4-1tb-ssd-gma-uhd-620-4g-lte-win-10-pro-silver/
+    Name    
+HP 13.3&#039;&#039; EliteBook 830 G6, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 32GB DDR4, 1TB SSD, GMA UHD 620, 4G LTE, Win 10 Pro, Silver
+    Img url    
+https://3.grgs.ro/images/products/1/2013982/2013990/thumbnails/mwl_i7_8-8e52e2498e3562e1759b76273c6a4e33.jpg
+    Pret    
+9/20/2020 10:58:06 PM 7.336,13 RON

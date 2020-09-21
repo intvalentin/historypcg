@@ -1,0 +1,10 @@
+    Cod    
+1122463
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/skylake-pentium-dual-core-g4500-350ghz-box/
+    Name    
+Intel Skylake, Pentium Dual-Core G4500 3.50GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/2/1122463/thumbnails/skylake-pentium-dual-core-g4500-350ghz-box-773d36f39261d01537198156c66160ec.jpg
+    Pret    
+9/21/2020 7:34:48 AM 391,17 RON

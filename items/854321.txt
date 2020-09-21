@@ -1,0 +1,10 @@
+    Cod    
+854321
+    Product link    
+https://www.pcgarage.ro/memorii-notebook/crucial/4gb-ddr3-1600mhz-cl11-dual-channel-kit/
+    Name    
+Crucial 4GB, DDR3, 1600MHz, CL11, 1.35v, Dual Channel Kit
+    Img url    
+https://4.grgs.ro/images/products/1/815230/854321/thumbnails/4gb-ddr3-1600mhz-cl11-135v-dual-channel-kit-f159854a08b476c3aef708efcaadb1ad.jpg
+    Pret    
+9/20/2020 11:02:42 PM 161,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2055130
+    Product link    
+https://www.pcgarage.ro/smartphone/xiaomi/mi-10-lite-5g-edition-octa-core-64gb-6gb-ram-dual-sim-5g-5-camere-aurora-blue/
+    Name    
+Xiaomi Mi 10 Lite, 5G Edition, Octa Core, 64GB, 6GB RAM, Dual SIM, 5G, 5-Camere, Aurora Blue
+    Img url    
+https://5.grgs.ro/images/products/1/7960/2055130/thumbnails/mi-10-lite-5g-edition-octa-core-128gb-6gb-ram-dual-sim-5g-5-camere-aurora-blue-4c5b94cad29eba731fac29d48b0ec25f.jpg
+    Pret    
+9/20/2020 11:40:04 PM 1.549,90 RON

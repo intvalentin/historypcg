@@ -1,0 +1,10 @@
+    Cod    
+2042186
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r730-2u-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-1x-16gb-rdimm-ddr4-2133mhz-1x-600gb-10k-sas-hdd-perc-h730/
+    Name    
+DELL PowerEdge R730 2U, Procesor Intel® Xeon® E5-2620 v4 2.1GHz Broadwell, 1x 16GB RDIMM DDR4 2133MHz, 1x 600GB 10K SAS HDD, PERC H730
+    Img url    
+https://2.grgs.ro/images/products/1/1034/2042186/thumbnails/poweredge-r730-2u-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-1x-16gb-rdimm-ddr4-2133mhz-1x-600gb-10k-sas-hdd-perc-h730-a4a84fbf3a7012c8345607102875a8c8.jpg
+    Pret    
+9/21/2020 12:03:56 AM 11.355,82 RON

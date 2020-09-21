@@ -1,0 +1,10 @@
+    Cod    
+1541494
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/dell/optiplex-3050-micro-procesor-intel-core-i3-7100t-34ghz-kaby-lake-4gb-ddr4-500gb-hdd-gma-hd-630-win-10-pro-3yr-nbd/
+    Name    
+DELL OptiPlex 3050 Micro, Procesor Intel® Core™ i3-7100T 3.4GHz Kaby Lake, 4GB DDR4, 500GB HDD, GMA HD 630, Win 10 Pro, 3Yr NBD
+    Img url    
+https://1.grgs.ro/images/products/1/1408706/1541494/thumbnails/optiplex-3050-micro-procesor-intel-core-i5-7500t-27ghz-kaby-lake-8gb-ddr4-256gb-ssd-gma-hd-630-win-10-pro-1083c513417d5a4005204c36cd8300ba.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.724,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+2030614
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-x509jb-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-geforce-mx110-2gb-no-os-grey/
+    Name    
+ASUS 15.6&#039;&#039; X509JB, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 8GB DDR4, 256GB SSD, GeForce MX110 2GB, No OS, Grey
+    Img url    
+https://1.grgs.ro/images/products/1/6622/2030614/thumbnails/156-x509jb-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-geforce-mx110-2gb-no-os-grey-f02307a639c40d194bfb3d58da867abe.jpg
+    Pret    
+9/20/2020 10:59:53 PM 2.104,14 RON

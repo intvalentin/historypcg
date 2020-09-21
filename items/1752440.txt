@@ -1,0 +1,10 @@
+    Cod    
+1752440
+    Product link    
+https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2070-windforce-8gb-gddr6-256-bit/
+    Name    
+GIGABYTE GeForce RTX 2070 WINDFORCE 8GB GDDR6 256-bit
+    Img url    
+https://2.grgs.ro/images/products/1/6763/1752440/thumbnails/geforce-rtx-2070-windforce-gddr6-256-bit-d1b84d04c07e9fef475ca8638a17a009.jpg
+    Pret    
+9/21/2020 7:34:05 AM 2.708,18 RON

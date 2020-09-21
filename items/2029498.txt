@@ -1,0 +1,10 @@
+    Cod    
+2029498
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-15s-fq1011nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-512gb-ssd-gma-uhd-free-dos-black/
+    Name    
+HP 15.6&#039;&#039; 15s-fq1011nq, FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Free DOS, Black
+    Img url    
+https://1.grgs.ro/images/products/1/1960570/2029498/thumbnails/156-15s-fq1011nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-512gb-ssd-gma-uhd-free-dos-black-db83c9856235c0b408baa6f9af24c04c.jpg
+    Pret    
+9/20/2020 11:00:12 PM 3.299,00 RON

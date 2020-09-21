@@ -1,0 +1,11 @@
+    Cod    
+1884858
+    Product link    
+https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2070-windforce-2x-8gb-gddr6-256-bit/
+    Name    
+GIGABYTE GeForce RTX 2070 WINDFORCE 2X 8GB GDDR6 256-bit
+    Img url    
+https://1.grgs.ro/images/products/1/1798/1884858/thumbnails/geforce-rtx-2070-windforce-2x-8gb-gddr6-256-bit-188f0778dcfd49013ca3779dc3d16a00.png
+    Pret    
+9/21/2020 12:06:21 AM 2.121,58 RON
+9/21/2020 7:32:30 AM 2.121,58 RON

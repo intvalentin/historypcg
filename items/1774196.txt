@@ -1,0 +1,10 @@
+    Cod    
+1774196
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-530s-ikb-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-512gb-ssd-geforce-mx150-2gb-fingerprint-reader-freedos-liquid-blue-1/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 530S IKB, FHD IPS, Procesor Intel® Core™ i7-8550U (8M Cache, up to 4.00 GHz), 8GB DDR4, 512GB SSD, GeForce MX150 2GB, FingerPrint Reader, FreeDos, Liquid Blue
+    Img url    
+https://3.grgs.ro/images/products/1/1703884/1774196/thumbnails/mwl_i7_8-705980a6cabf0217c7567fa816e967b2.jpg
+    Pret    
+9/20/2020 10:57:42 PM 4.099,00 RON

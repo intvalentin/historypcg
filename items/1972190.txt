@@ -1,0 +1,10 @@
+    Cod    
+1972190
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-latitude-5500-seria-5000-fhd-procesor-intel-core-i5-8365u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-linux-black-3yr-on-site/
+    Name    
+DELL 15.6&#039;&#039; Latitude 5500 (seria 5000), FHD, Procesor Intel® Core™ i5-8365U (6M Cache, up to 4.10 GHz), 16GB DDR4, 512GB SSD, GMA UHD 620, Linux, Black, 3Yr On-site
+    Img url    
+https://5.grgs.ro/images/products/1/8486/1972190/thumbnails/mwl_i5_8-3b60f7398b43c7bd53985c7f0a03d44f.jpg
+    Pret    
+9/20/2020 11:01:18 PM 5.691,78 RON

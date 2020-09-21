@@ -1,0 +1,10 @@
+    Cod    
+2004730
+    Product link    
+https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-13-aw0002nq-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-home-natural-silver/
+    Name    
+HP 13.3&#039;&#039; Spectre x360 13-aw0002nq, FHD IPS Touch, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 256GB SSD, Intel Iris Plus, Win 10 Home, Natural Silver
+    Img url    
+https://2.grgs.ro/images/products/1/1990366/2004730/thumbnails/mwl_i7_10-0cf5a643e2c7768dc98828e2738e28e2.jpg
+    Pret    
+9/20/2020 10:57:22 PM 6.199,00 RON

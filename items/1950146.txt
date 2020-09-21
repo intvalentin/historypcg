@@ -1,0 +1,10 @@
+    Cod    
+1950146
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/lenovo/22-quot-f0eb006rri-fhd-procesor-intel-celeron-4205u-18ghz-whiskey-lake-4gb-ddr4-1tb-hdd-gma-uhd-610-freedos/
+    Name    
+Lenovo 22&quot; IdeaCentre A340-22IWL, FHD, Procesor Intel® Celeron® 4205U 1.8GHz Whiskey Lake, 4GB DDR4, 1TB HDD, GMA UHD 610, Camera Web, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/6166/1950146/thumbnails/24-quot-f0e80081ri-fhd-procesor-intel-core-i5-8265u-22ghz-whiskey-lake-4gb-ddr4-1tb-hdd-gma-uhd-620-freedos-2147f9319ab19f5fcf908dcdf4ebc084.png
+    Pret    
+9/21/2020 12:03:01 AM 1.849,98 RON

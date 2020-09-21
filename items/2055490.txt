@@ -1,0 +1,10 @@
+    Cod    
+2055490
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-12gb-ddr4-512gb-ssd-intel-iris-plus-no-os-platinum-grey-1/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad S145, FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 12GB DDR4, 512GB SSD, Intel Iris Plus, No OS, Platinum Grey
+    Img url    
+https://2.grgs.ro/images/products/1/1236/2055490/thumbnails/mwl_i7_10-d48682265e56af1bb6426b13dadb505a.jpg
+    Pret    
+9/20/2020 11:00:02 PM 3.198,99 RON

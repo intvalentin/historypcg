@@ -1,0 +1,10 @@
+    Cod    
+1675616
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-2700-32ghz-box/
+    Name    
+AMD Ryzen 7 2700 3.2GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1192525/1675616/thumbnails/ryzen-7-2700-32ghz-box-1f9239c7d89b2e213600d21ad314ca43.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.619,49 RON

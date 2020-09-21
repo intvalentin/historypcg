@@ -1,0 +1,10 @@
+    Cod    
+801099
+    Product link    
+https://www.pcgarage.ro/imprimante/hp/hp-color-laserjet-m855x-plus-printer-a3-46-ppm-retea-amp-usb-20-duplex-max-1200x1200-dpi-800mhz-procesor-hp-pcl-5c-hp-pcl-6-hp-post-script-3-emulation/
+    Name    
+HP LaserJet Enterprise M855x+, laser color, format A3, retea, duplex
+    Img url    
+https://2.grgs.ro/images/products/1/782584/801099/thumbnails/laserjet-enterprise-m855x-plus-laser-color-format-a3-retea-duplex-693d3148fe86f2fea0182c75ba66d7bb.png
+    Pret    
+9/21/2020 3:23:03 PM 28.441,98 RON

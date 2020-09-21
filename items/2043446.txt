@@ -1,0 +1,10 @@
+    Cod    
+2043446
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-celeron-g5920-35ghz-box/
+    Name    
+Intel Comet Lake, Celeron G5920 3.5GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1034/2043446/thumbnails/comet-lake-celeron-g5920-35ghz-box-618e03f18d8bd2ab3d029797e84280b3.png
+    Pret    
+9/21/2020 7:34:43 AM 277,68 RON

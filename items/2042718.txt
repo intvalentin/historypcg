@@ -1,0 +1,10 @@
+    Cod    
+2042718
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-nl-sas-4tb-72k-12g-hdd-35-inch/
+    Name    
+DELL Hot-Plug NL-SAS 4TB 7.2K 12G HDD 3.5 inch
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2042718/thumbnails/hot-plug-sata-iii-4tb-hdd-35-inch-82b3a4c5cb4cb8eb5319666304a1076d.jpg
+    Pret    
+9/21/2020 12:04:59 AM 1.556,28 RON

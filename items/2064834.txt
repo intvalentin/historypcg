@@ -1,0 +1,10 @@
+    Cod    
+2064834
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-3630-tower-procesor-intel-core-i7-9700k-36ghz-coffee-lake-32gb-ram-512gb-ssd-plus-1-tb-hdd-radeon-pro-wx-3100-4gb-win-10-pro/
+    Name    
+DELL Precision 3630 Tower, Procesor Intel® Core™ i7-9700K 3.6GHz Coffee Lake, 32GB RAM, 512GB SSD + 1 TB HDD, Radeon Pro WX 3100 4GB, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/1469770/2064834/thumbnails/precision-3630-tower-procesor-intel-xeon-e-2146g-35ghz-coffee-lake-16gb-ddr4-1tb-plus-256gb-ssd-quadro-p2000-5gb-linux-753b9adeda9056f4b4e4ecaaf1a3e4d2.jpg
+    Pret    
+9/21/2020 12:02:15 AM 8.829,98 RON

@@ -1,0 +1,10 @@
+    Cod    
+1500750
+    Product link    
+https://www.pcgarage.ro/carcase/cougar/panzer/
+    Name    
+Cougar Panzer
+    Img url    
+https://4.grgs.ro/images/products/1/1301253/1500750/thumbnails/panzer-3742219aa66767259033bfc6d7f45f79.jpg
+    Pret    
+9/21/2020 7:52:10 AM 395,40 RON

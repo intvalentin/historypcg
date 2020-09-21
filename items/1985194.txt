@@ -1,0 +1,10 @@
+    Cod    
+1985194
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/173-inspiron-3793-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-1tb-plus-128gb-ssd-geforce-mx230-2gb-win-10-home-black-2yr-cis/
+    Name    
+DELL 17.3&#039;&#039; Inspiron 3793 (seria 3000), FHD, Procesor Intel® Core™ i5-1035G1 (6M Cache, up to 3.60 GHz), 8GB DDR4, 1TB + 128GB SSD, GeForce MX230 2GB, Win 10 Home, Black, 2Yr CIS
+    Img url    
+https://1.grgs.ro/images/products/1/1960570/1985194/thumbnails/mwl_i5_10-227ab0b95b33edd2195c0d5dda4ff211.jpg
+    Pret    
+9/20/2020 10:58:23 PM 3.798,99 RON

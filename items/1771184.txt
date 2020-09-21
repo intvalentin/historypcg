@@ -1,0 +1,10 @@
+    Cod    
+1771184
+    Product link    
+https://www.pcgarage.ro/servere/asus/rs100-e9-pi2-rack-1u-socket-lga-1151-4x-ddr4-2x-hdd-35-inch-2x-m2-1x-250w/
+    Name    
+ASUS RS100-E9-PI2, rack 1U, Socket LGA 1151, 4x DDR4, 2x HDD 3.5 inch, 2x m.2, 1x 250W
+    Img url    
+https://1.grgs.ro/images/products/1/5015/1771184/thumbnails/rs100-e9-pi2-rack-1u-socket-lga-1151-4x-ddr4-2x-hdd-35-inch-2x-m2-1x-250w-7ab06a9eedfb2be5fafe7e7d44047293.png
+    Pret    
+9/21/2020 12:03:56 AM 2.320,82 RON

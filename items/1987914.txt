@@ -1,0 +1,10 @@
+    Cod    
+1987914
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/133-thinkbook-13s-iml-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-mineral-grey/
+    Name    
+Lenovo 13.3&#039;&#039; ThinkBook 13s IML, FHD IPS, Procesor Intel® Core™ i7-10510U (8M Cache, up to 4.90 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Win 10 Pro, Mineral Grey
+    Img url    
+https://4.grgs.ro/images/products/1/3944/1987914/thumbnails/mwl_i7_10-c42139fc3319b20b652493b1a3c4f2e6.jpg
+    Pret    
+9/20/2020 10:58:26 PM 4.298,99 RON

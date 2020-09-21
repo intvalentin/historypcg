@@ -1,0 +1,10 @@
+    Cod    
+1923150
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-16tb-sata-iii-7200rpm-256mb/
+    Name    
+Seagate IronWolf 16TB SATA-III 7200RPM 256MB
+    Img url    
+https://5.grgs.ro/images/products/1/8629/1923150/thumbnails/ironwolf-16tb-sata-iii-7200rpm-256mb-f1d9256bc23a285bcb140aa3e49d1c7a.jpg
+    Pret    
+9/21/2020 7:45:15 AM 2.678,50 RON

@@ -1,0 +1,10 @@
+    Cod    
+1973998
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/156-ideapad-c340-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-platinum/
+    Name    
+Lenovo 15.6&#039;&#039; IdeaPad C340, FHD IPS Touch, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 1TB SSD, Intel Iris Plus, Win 10 Home, Platinum
+    Img url    
+https://3.grgs.ro/images/products/1/8486/1973998/thumbnails/mwl_i7_10-1590c238fcc154aa553d1d4c7d0ed9f0.jpg
+    Pret    
+9/20/2020 10:57:55 PM 4.862,27 RON

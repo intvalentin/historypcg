@@ -1,0 +1,10 @@
+    Cod    
+1817424
+    Product link    
+https://www.pcgarage.ro/ssd/seagate/barracuda-2tb-sata-iii-25-inch/
+    Name    
+Seagate BarraCuda 2TB SATA-III 2.5 inch
+    Img url    
+https://5.grgs.ro/images/products/1/1737700/1817424/thumbnails/barracuda-250gb-sata-iii-25-inch-b0f2a5dd38e1cc1a70a2b9547f295db4.jpg
+    Pret    
+9/21/2020 7:44:45 AM 1.187,52 RON

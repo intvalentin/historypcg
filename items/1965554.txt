@@ -1,0 +1,10 @@
+    Cod    
+1965554
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5590-fhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-plus-256gb-ssd-geforce-gtx-1660-ti-6gb-linux-black-3yr-cis/
+    Name    
+DELL Gaming 15.6&#039;&#039; G5 5590, FHD, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 1TB + 256GB SSD, GeForce GTX 1660 Ti 6GB, Linux, Black, 3Yr CIS
+    Img url    
+https://3.grgs.ro/images/products/1/1236/1965554/thumbnails/mwl_i7_9-74ffb8f791a9a96a027d2a5cac927fce.jpg
+    Pret    
+9/20/2020 11:01:23 PM 6.499,00 RON

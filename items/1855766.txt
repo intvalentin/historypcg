@@ -1,0 +1,10 @@
+    Cod    
+1855766
+    Product link    
+https://www.pcgarage.ro/ultrabook/asus/156-zenbook-15-ux533fd-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1050-2gb-enless-os-icicle-silver/
+    Name    
+ASUS 15.6&#039;&#039; ZenBook 15 UX533FD, FHD, Procesor Intel® Core™ i7-8565U (8M Cache, up to 4.60 GHz), 16GB DDR4, 1TB SSD, GeForce GTX 1050 2GB, Enless OS, Icicle Silver
+    Img url    
+https://3.grgs.ro/images/products/1/5015/1855766/thumbnails/mwl_i7_8-88c1e3e32fa973034f2dcf8b55a84a51.jpg
+    Pret    
+9/20/2020 10:58:03 PM 6.595,69 RON

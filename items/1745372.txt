@@ -1,0 +1,10 @@
+    Cod    
+1745372
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl380-gen10-rack-2u-2x-procesor-intel-xeon-silver-4114-22ghz-skylake-4x-32gb-rdimm-ddr4-16x-300gb-sas-sff-25-inch-smart-array-p408i-a/
+    Name    
+HP ProLiant DL380 Gen10 Rack 2U, 2x Procesor Intel® Xeon® Silver 4114 2.2GHz Skylake, 4x 32GB RDIMM DDR4, 16x 300GB SAS, SFF 2.5 inch, Smart Array P408i-a
+    Img url    
+https://4.grgs.ro/images/products/1/1691840/1745372/thumbnails/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-silver-4110-21ghz-skylake-16gb-rdimm-ddr4-fara-hdd-sff-25-inch-smart-array-p408i-a-3yr-nbd-667a99ad82096cf59ae099d4312ef564.png
+    Pret    
+9/21/2020 12:04:14 AM 52.578,18 RON

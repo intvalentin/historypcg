@@ -1,0 +1,10 @@
+    Cod    
+89379
+    Product link    
+https://www.pcgarage.ro/prize-si-prelungitoare/apc/basic-rack-pdu-1u-ap9565/
+    Name    
+APC Basic Rack PDU, 12x IEC 320 C13, 1x C20
+    Img url    
+https://5.grgs.ro/images/products/1/4/89379/thumbnails/basic-rack-pdu-1u-ap9565-38d9d304e16e0d0ea6e3d287dbcfca98.jpg
+    Pret    
+9/21/2020 12:52:12 PM 1.213,98 RON

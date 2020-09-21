@@ -1,0 +1,10 @@
+    Cod    
+1864554
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9320-370ghz-box/
+    Name    
+Intel Coffee Lake, Core i3 9320 3.7GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/7399/1864554/thumbnails/coffee-lake-core-i3-9100-360ghz-box-caa923f580dd53706569c135971ca96f.jpg
+    Pret    
+9/21/2020 7:35:03 AM 863,34 RON

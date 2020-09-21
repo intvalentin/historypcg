@@ -1,0 +1,10 @@
+    Cod    
+2033202
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/v530-procesor-intel-core-i5-9400-290ghz-coffee-lake-8gb-ddr4-1tb-hdd-uhd-630-freedos/
+    Name    
+Lenovo V530, Procesor Intel® Core™ i5-9400 2.90GHz Coffee Lake, 8GB DDR4, 1TB HDD, UHD 630, FreeDos
+    Img url    
+https://3.grgs.ro/images/products/1/5147/2033202/thumbnails/v530-procesor-intel-core-i5-8400-280ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro-90e8ac7801473d98b594357bbc5023ac.png
+    Pret    
+9/21/2020 12:02:03 AM 2.099,98 RON

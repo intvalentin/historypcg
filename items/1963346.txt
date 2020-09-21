@@ -1,0 +1,10 @@
+    Cod    
+1963346
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dc1040nq-fhd-ips-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-freedos-shadow-black/
+    Name    
+HP Gaming 15.6&#039;&#039; OMEN 15-dc1040nq, FHD IPS, Procesor Intel® Core™ i5-9300H (8M Cache, up to 4.10 GHz), 8GB DDR4, 512GB SSD, GeForce GTX 1650 4GB, FreeDos, Shadow Black
+    Img url    
+https://4.grgs.ro/images/products/1/1844684/1963346/thumbnails/mwl_i5_9-efae288d3180e7dbed0aaef483c85215.jpg
+    Pret    
+9/20/2020 11:01:13 PM 4.632,13 RON

@@ -1,0 +1,10 @@
+    Cod    
+2000962
+    Product link    
+https://www.pcgarage.ro/memorii-server/dell/rdimm-ddr4-16gb-2933-mhz-dual-rank-x8/
+    Name    
+DELL RDIMM DDR4 16GB 2933 MHz 2RX8
+    Img url    
+https://2.grgs.ro/images/products/1/1990682/2000962/thumbnails/rdimm-ddr4-16gb-2933-mhz-dual-rank-x8-12v-28baef65f5cffc89e65c1febf573f6fe.jpg
+    Pret    
+9/21/2020 12:04:32 AM 1.733,84 RON

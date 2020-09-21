@@ -1,0 +1,10 @@
+    Cod    
+1962286
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-5820-tower-procesor-intel-core-i7-9800x-380ghz-skylake-16gb-ddr4-512gb-ssd-quadro-p4000-8gb-linux-1/
+    Name    
+DELL Precision 5820 Tower, Procesor Intel® Core™ i7-9800X 3.80GHz Skylake, 16GB DDR4, 512GB SSD, Quadro P4000 8GB, Linux
+    Img url    
+https://5.grgs.ro/images/products/1/6811/1962286/thumbnails/precision-5820-tower-procesor-intel-xeon-w-2102-29ghz-skylake-16gb-ddr4-512gb-ssd-quadro-p1000-2gb-linux-2b638b68855d701ea1f1301d7006a70a.png
+    Pret    
+9/21/2020 12:02:42 AM 13.009,98 RON

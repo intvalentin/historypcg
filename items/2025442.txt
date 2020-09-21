@@ -1,0 +1,10 @@
+    Cod    
+2025442
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510-procesor-intel-core-i3-9100-36ghz-coffee-lake-4gb-ddr4-512gb-ssd-uhd-630-freedos/
+    Name    
+Lenovo IdeaCentre 510, Procesor Intel® Core™ i3-9100 3.6GHz Coffee Lake, 4GB DDR4, 512GB SSD, UHD 630, FreeDos
+    Img url    
+https://4.grgs.ro/images/products/1/9002/2025442/thumbnails/ideacentre-510-procesor-intel-core-i3-9100-36ghz-coffee-lake-4gb-ddr4-512gb-ssd-uhd-630-freedos-53547bd09bbffcb46ba319df16da01d6.jpg
+    Pret    
+9/21/2020 12:02:24 AM 2.049,98 RON

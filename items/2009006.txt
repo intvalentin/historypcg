@@ -1,0 +1,10 @@
+    Cod    
+2009006
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/sr650-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-rdimm-ddr4-no-hdd-1x-750w/
+    Name    
+Lenovo SR650 Procesor Intel® Xeon® Silver 4210 2.2GHz Skylake, 16GB RDIMM DDR4, no HDD, 1x 750W
+    Img url    
+https://3.grgs.ro/images/products/1/1990682/2009006/thumbnails/sr650-procesor-intel-xeon-silver-4214-22ghz-skylake-32gb-rdimm-ddr4-no-hdd-8x-25-inch-2x-750w-3-ani-garantie-b245137319ea536c1d73a8e7cbbf294e.jpg
+    Pret    
+9/21/2020 12:03:56 AM 10.575,66 RON

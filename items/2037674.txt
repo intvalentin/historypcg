@@ -1,0 +1,10 @@
+    Cod    
+2037674
+    Product link    
+https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9-pro-octa-core-128gb-6gb-ram-dual-sim-4g-5-camere-glacier-white/
+    Name    
+Xiaomi Redmi Note 9 Pro (2020), Octa Core, 128GB, 6GB RAM, Dual SIM, 4G, 5-Camere, Fast Charge 30W, Baterie 5020 mAh, Glacier White
+    Img url    
+https://2.grgs.ro/images/products/1/2034042/2037674/thumbnails/redmi-note-9-pro-octa-core-64gb-6gb-ram-dual-sim-4g-5-camere-glacier-white-2771fa963f59a6e31e33d91aa368b6a2.jpg
+    Pret    
+9/20/2020 11:40:00 PM 1.249,00 RON

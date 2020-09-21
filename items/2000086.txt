@@ -1,0 +1,10 @@
+    Cod    
+2000086
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-super-phoenix-4gb-gddr6-128-bit/
+    Name    
+ASUS GeForce GTX 1650 SUPER Phoenix 4GB GDDR6 128-bit
+    Img url    
+https://4.grgs.ro/images/products/1/6472/2000086/thumbnails/geforce-gtx-1650-super-phoenix-o4g-4gb-gddr6-128-bit-8fbd37f5664b4739073bf7bff5cff02a.jpg
+    Pret    
+9/21/2020 7:33:30 AM 1.026,39 RON

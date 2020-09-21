@@ -1,0 +1,10 @@
+    Cod    
+1528350
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/a6-9500-35-ghz-box/
+    Name    
+AMD A6 9500 3.5 GHz box
+    Img url    
+https://1.grgs.ro/images/products/1/1408706/1528350/thumbnails/a6-9500e-30-ghz-ec41c17f3a9a391ba863d65ae1d5c2fc.jpg
+    Pret    
+9/21/2020 7:34:48 AM 192,83 RON

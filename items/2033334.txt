@@ -1,0 +1,10 @@
+    Cod    
+2033334
+    Product link    
+https://www.pcgarage.ro/smartphone/motorola/one-hyper-octa-core-128gb-4gb-ram-dual-sim-4g-3-camere-deepsea-blue/
+    Name    
+Motorola One Hyper, Octa Core, 128GB, 4GB RAM, Dual SIM, 4G, 3-Camere, Deepsea Blue
+    Img url    
+https://1.grgs.ro/images/products/1/3041/2033334/thumbnails/one-hyper-octa-core-128gb-4gb-ram-dual-sim-4g-3-canere-deepsea-blue-d5bac6c6c98ee42b523c9e3995a5c7b7.jpg
+    Pret    
+9/20/2020 11:40:16 PM 1.439,99 RON

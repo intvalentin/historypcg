@@ -1,0 +1,10 @@
+    Cod    
+1960218
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-intel-core-i5-9400f-29ghz-coffee-lake-16gb-ddr4-512gb-ssd-plus-1tb-hdd-geforce-gtx-1660-ti-6gb-freedos/
+    Name    
+Lenovo Gaming Legion T530 Tower, Procesor Intel® Core™ i5-9400F 2.9GHz Coffee Lake, 16GB DDR4, 512GB SSD + 1TB HDD, GeForce GTX 1660 Ti 6GB, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/1703884/1960218/thumbnails/legion-t530-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-1tb-hdd-geforce-gtx-1060-6gb-freedos-04bb11ae165780463ad339fe5736a249.png
+    Pret    
+9/21/2020 12:02:33 AM 5.179,98 RON

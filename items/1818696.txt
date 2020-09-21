@@ -1,0 +1,10 @@
+    Cod    
+1818696
+    Product link    
+https://www.pcgarage.ro/servere/lenovo/thinksystem-st250-processor-intel-xeon-e-2124g-33ghz-coffee-lake-16gb-udimm-ddr4-no-hdd-25-inch-550w/
+    Name    
+Lenovo ThinkSystem ST250, Processor Intel® Xeon® E-2124G 3.3GHz Coffee Lake, 16GB UDIMM DDR4, no HDD, 2.5 inch, 550W
+    Img url    
+https://5.grgs.ro/images/products/1/753/1818696/thumbnails/thinksystem-st250-processor-intel-xeon-e-2124g-34ghz-coffee-lake-16gb-udimm-ddr4-no-hdd-25-inch-550w-c199726e69a9e4cea9feeb60ff1d064a.png
+    Pret    
+9/21/2020 12:04:01 AM 6.832,20 RON

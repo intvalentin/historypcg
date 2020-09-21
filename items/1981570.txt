@@ -1,0 +1,10 @@
+    Cod    
+1981570
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-s340-iil-fhd-ips-procesor-intel-core-i5-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-gma-uhd-no-os-abyss-blue/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad S340 IIL, FHD IPS, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 8GB DDR4, 1TB SSD, Intel Iris Plus, No OS, Abyss Blue
+    Img url    
+https://3.grgs.ro/images/products/1/1979534/1981570/thumbnails/mwl_i7_10-ef7776262570399f3f29a6a3f5ebd207.jpg
+    Pret    
+9/20/2020 10:57:38 PM 3.999,00 RON

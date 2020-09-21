@@ -1,0 +1,10 @@
+    Cod    
+1508706
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/precision-t7910-tower-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-4x-4gb-rdimm-ddr4-1tb-hdd-sata-quadro-m2000-4gb-win-10-pro/
+    Name    
+DELL Precision T7910 Tower, Procesor Intel® Xeon® E5-2620 v4 2.1GHz Broadwell, 4x 4GB RDIMM DDR4, 1TB HDD SATA, Quadro M2000 4GB, WIn 10 Pro
+    Img url    
+https://4.grgs.ro/images/products/1/1475558/1508706/thumbnails/precision-t7910-tower-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-4x-4gb-rdimm-ddr4-1tb-hdd-sata-quadro-m2000-4gb-win-10-pro-3de05f90a05a83feea6e73fca14e8338.jpg
+    Pret    
+9/21/2020 12:02:42 AM 13.349,98 RON

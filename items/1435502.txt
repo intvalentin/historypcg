@@ -1,0 +1,10 @@
+    Cod    
+1435502
+    Product link    
+https://www.pcgarage.ro/ssd/corsair/mp500-480gb-pci-express-30-x4-m2-2280/
+    Name    
+Corsair MP500 480GB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://3.grgs.ro/images/products/1/1173769/1435502/thumbnails/mp500-120gb-pci-express-30-x4-m2-2280-79a9537630875ef6a74b81eff2797a6b.jpg
+    Pret    
+9/21/2020 7:44:41 AM 1.045,59 RON

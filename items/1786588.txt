@@ -1,0 +1,10 @@
+    Cod    
+1786588
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-9400-290ghz-box/
+    Name    
+Intel Coffee Lake, Core i5 9400 2.9GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/1779504/1786588/thumbnails/coffee-lake-core-i5-9400-290ghz-box-cbf3e6b79f06bdb2aeeb1d9a2e10f0f0.png
+    Pret    
+9/21/2020 7:34:36 AM 820,38 RON

@@ -1,0 +1,10 @@
+    Cod    
+2037702
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-iil-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-gma-uhd-no-os-iron-grey/
+    Name    
+Lenovo 15.6&#039;&#039; V15 IIL, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 4GB DDR4, 256GB SSD, GMA UHD, No OS, Iron Grey
+    Img url    
+https://3.grgs.ro/images/products/1/6472/2037702/thumbnails/156-v15-iil-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-gma-uhd-no-os-iron-grey-f375b246eaef691cc9237bb28bae59d0.jpg
+    Pret    
+9/20/2020 11:00:12 PM 1.798,99 RON

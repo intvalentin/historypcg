@@ -1,0 +1,10 @@
+    Cod    
+2085938
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-5593-seria-5000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-mx230-4gb-linux-platinum-silver-3yr-cis/
+    Name    
+DELL 15.6&#039;&#039; Inspiron 5593 (seria 5000), FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3.90 GHz), 16GB DDR4, 1TB 7200 RPM + 512GB SSD, GeForce MX230 4GB, Linux, Platinum Silver, 3Yr CIS
+    Img url    
+https://4.grgs.ro/images/products/1/8486/2085938/thumbnails/mwl_i7_10-24545499ad6b334bf52d6f2bb63f13e3.jpg
+    Pret    
+9/20/2020 11:01:13 PM 4.601,12 RON

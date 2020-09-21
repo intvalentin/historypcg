@@ -1,0 +1,10 @@
+    Cod    
+2073334
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-drifter-z/
+    Name    
+Gaming Drifter, Intel i3-9100F 3.6GHz Coffee Lake, 8GB DDR4, 1TB HDD + 120GB SSD, GTX 1650 SUPER 4GB GDDR6, Iluminare RGB
+    Img url    
+https://3.grgs.ro/images/products/1/4273/2073334/thumbnails/gaming-drifter-intel-i3-9100f-36ghz-coffee-lake-8gb-ddr4-1tb-hdd-plus-120gb-ssd-gtx-1650-super-4gb-gddr6-iluminare-rgb-d053dbc2001cd5096fcb402dec88f566.png
+    Pret    
+9/21/2020 12:01:52 AM 2.299,99 RON

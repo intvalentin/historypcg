@@ -1,0 +1,10 @@
+    Cod    
+1996682
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-e14-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad E14, FHD IPS, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 16GB DDR4, 512GB SSD, GMA UHD, Win 10 Pro, Black
+    Img url    
+https://2.grgs.ro/images/products/1/1990366/1996682/thumbnails/mwl_i5_10-ba27c98e2484d51f0f6229ce06c8c32c.jpg
+    Pret    
+9/20/2020 10:58:29 PM 4.298,99 RON

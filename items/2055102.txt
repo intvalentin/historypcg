@@ -1,0 +1,10 @@
+    Cod    
+2055102
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-2600-34ghz-tray/
+    Name    
+AMD Ryzen 5 2600 3.4GHz Tray
+    Img url    
+https://3.grgs.ro/images/products/1/7193/2055102/thumbnails/ryzen-5-2600-34ghz-tray-3e4b9ea7a8c9f22fbcd978f9ba01aa43.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.493,96 RON

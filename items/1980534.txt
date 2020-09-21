@@ -1,0 +1,10 @@
+    Cod    
+1980534
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3590-seria-3000-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-black-3yr-cis/
+    Name    
+DELL 15.6&#039;&#039; Vostro 3590 (seria 3000), FHD, Procesor Intel® Core™ i3-10110U (4M Cache, up to 4.10 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Linux, Black, 3Yr CIS
+    Img url    
+https://3.grgs.ro/images/products/1/6472/1980534/thumbnails/mwl_i3_10-4feea52587a030c838677b8b0e0d125e.jpg
+    Pret    
+9/20/2020 11:00:16 PM 2.398,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1893874
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-3600x-38ghz-box/
+    Name    
+AMD Ryzen 5 3600X 3.8GHz box
+    Img url    
+https://4.grgs.ro/images/products/1/1275/1893874/thumbnails/ryzen-5-3600x-38ghz-box-5ad7c8789ba84306fa9295e6765cbcf3.png
+    Pret    
+9/21/2020 7:34:36 AM 1.058,40 RON

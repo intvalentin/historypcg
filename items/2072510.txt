@@ -1,0 +1,10 @@
+    Cod    
+2072510
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14s-gen-1-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-black/
+    Name    
+Lenovo 14&#039;&#039; ThinkPad T14s Gen 1, FHD, Procesor Intel® Core™ i5-10210U (6M Cache, up to 4.20 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Win 10 Pro, Black
+    Img url    
+https://2.grgs.ro/images/products/1/6954/2072510/thumbnails/14-thinkpad-t14s-gen-1-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black-a66499c21c421c9b2f9eb4852ce71786.jpg
+    Pret    
+9/20/2020 10:59:29 PM 7.369,00 RON

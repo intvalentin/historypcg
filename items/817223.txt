@@ -1,0 +1,10 @@
+    Cod    
+817223
+    Product link    
+https://www.pcgarage.ro/tablete/lenovo/thinkpad-8-83-inch-ips-multitouch-atom-z3770-239ghz-quad-core-2gb-ram-128gb-flash-wi-fi-bluetooth-win-81-plus-office-home-student/
+    Name    
+Lenovo ThinkPad 8, 8.3 inch IPS MultiTouch, Atom Z3770 2.39GHz Quad Core, 2GB RAM, 128GB flash, Wi-Fi, Bluetooth, Win 8.1 + Office Home Student
+    Img url    
+https://5.grgs.ro/images/products/1/714621/817223/thumbnails/thinkpad-8-83-inch-full-hd-multitouch-atom-z3770-239ghz-quad-core-2gb-ram-128gb-flash-wi-fi-bluetooth-win-81-pro-plus-office-home-student-24b7f1c6822a75bc3c66cd04af7f2468.jpg
+    Pret    
+9/21/2020 12:00:25 AM 2.697,65 RON

@@ -1,0 +1,10 @@
+    Cod    
+1837136
+    Product link    
+https://www.pcgarage.ro/controllere/fujitsu/d2755-sfp-plus-dual-port-10-gbit-pcie-x8/
+    Name    
+Fujitsu D2755 SFP+ dual port 10 Gbit PCIe x8
+    Img url    
+https://2.grgs.ro/images/products/1/3582/1837136/thumbnails/d2755-sfp-plus-dual-port-10-gbit-pcie-x8-03661fa1493bcce0dedf21b577013dca.png
+    Pret    
+9/21/2020 12:05:26 AM 2.161,90 RON

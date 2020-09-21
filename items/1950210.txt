@@ -1,0 +1,10 @@
+    Cod    
+1950210
+    Product link    
+https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-gaming-x-8gb-gddr6-256-bit/
+    Name    
+MSI Radeon RX 5700 GAMING X 8GB GDDR6 256-bit
+    Img url    
+https://5.grgs.ro/images/products/1/6166/1950210/thumbnails/radeon-rx-5700-gaming-x-8gb-gddr6-256-bit-adeb3ff97ef23c0939ee4f61730d8a66.jpg
+    Pret    
+9/21/2020 7:33:59 AM 2.356,15 RON

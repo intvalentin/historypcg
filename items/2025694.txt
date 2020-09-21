@@ -1,0 +1,10 @@
+    Cod    
+2025694
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i5fnk2-core-i5-10210u-16ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
+    Name    
+Intel (NUC) Next Unit of Computing NUC10I5FNK2, Core i5-10210U 1.6GHz, 2x DDR4 64GB max, M.2 SSD, Wi-Fi, Bluetooth, HDMI
+    Img url    
+https://1.grgs.ro/images/products/1/9002/2025694/thumbnails/nuc-next-unit-of-computing-nuc10i3fnk2-core-i3-10110u-21ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi-a2ed3b59631a3e8d1ca086dc4f1adfa5.jpg
+    Pret    
+9/21/2020 12:03:28 AM 1.954,98 RON

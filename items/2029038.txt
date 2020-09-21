@@ -1,0 +1,10 @@
+    Cod    
+2029038
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-3-a315-56-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-blue/
+    Name    
+Acer 15.6&#039;&#039; Aspire 3 A315-56, FHD, Procesor Intel® Core™ i3-1005G1 (4M Cache, up to 3.40 GHz), 8GB DDR4, 256GB SSD, GMA UHD, Linux, Blue
+    Img url    
+https://4.grgs.ro/images/products/1/8840/2029038/thumbnails/156-aspire-3-a315-56-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-512gb-ssd-gma-uhd-linux-blue-e5f034eae96e1762832b50c387c72261.jpg
+    Pret    
+9/20/2020 10:59:58 PM 2.108,51 RON

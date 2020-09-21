@@ -1,0 +1,10 @@
+    Cod    
+978022
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-procesor-intel-core-i5-26ghz-haswell-8gb-ddr3-1tb-hdd-intel-iris-os-x-yosemite/
+    Name    
+Apple Mac mini, Procesor Intel® Core™ i5 2.6GHz Haswell, 8GB DDR3, 1TB HDD, Intel Iris, OS X Yosemite
+    Img url    
+https://2.grgs.ro/images/products/1/812812/978022/thumbnails/mac-mini-procesor-intel-core-i5-14ghz-haswell-4gb-ddr3-500gb-hdd-gma-hd-5000-os-x-yosemite-984b29353a8674aa7de0f823d994a197.jpg
+    Pret    
+9/21/2020 12:03:42 AM 3.854,98 RON

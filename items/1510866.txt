@@ -1,0 +1,10 @@
+    Cod    
+1510866
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/133-thinkpad-13-2nd-gen-fhd-ips-procesor-intel-core-i7-7500u-4m-cache-up-to-350-ghz-8gb-ddr4-512gb-ssd-gma-hd-620-fingerprint-reader-win-10-pro-black/
+    Name    
+Lenovo 13.3&#039;&#039; ThinkPad 13 (2nd Gen), FHD IPS, Procesor Intel® Core™ i7-7500U (4M Cache, up to 3.50 GHz), 8GB DDR4, 512GB SSD, GMA HD 620, FingerPrint Reader, Win 10 Pro, Black
+    Img url    
+https://3.grgs.ro/images/products/1/1461878/1510866/thumbnails/mwl_i7_7-c98977116b92bf5b810db15c53d1d65e.jpg
+    Pret    
+9/20/2020 10:58:03 PM 6.352,66 RON

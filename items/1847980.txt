@@ -1,0 +1,10 @@
+    Cod    
+1847980
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g6-hd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-1tb-geforce-mx130-2gb-win-10-home-silver/
+    Name    
+HP 15.6&#039;&#039; ProBook 450 G6, HD, Procesor Intel® Core™ i5-8265U (6M Cache, up to 3.90 GHz), 8GB DDR4, 1TB, GeForce MX130 2GB, Win 10 Home, Silver
+    Img url    
+https://1.grgs.ro/images/products/1/753/1847980/thumbnails/mwl_i5_8-fb5d2ad66501b27fb3652c8c603a91a4.jpg
+    Pret    
+9/20/2020 11:00:40 PM 3.157,80 RON

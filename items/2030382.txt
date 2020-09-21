@@ -1,0 +1,10 @@
+    Cod    
+2030382
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-athlon-gold-3150u-4m-cache-up-to-330-ghz-4gb-256gb-ssd-radeon-no-os-grey/
+    Name    
+ASUS 15.6&#039;&#039; M509DA, FHD, Procesor AMD Athlon™ Gold 3150U (4M Cache, up to 3.30 GHz), 4GB, 256GB SSD, Radeon, No OS, Grey
+    Img url    
+https://5.grgs.ro/images/products/1/8840/2030382/thumbnails/156-m509da-fhd-procesor-amd-athlon-gold-3150u-4m-cache-up-to-330-ghz-4gb-256gb-ssd-radeon-no-os-grey-e08c75716f185042d5c845712f5ba53e.jpg
+    Pret    
+9/20/2020 11:00:12 PM 1.499,00 RON

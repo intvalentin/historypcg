@@ -1,0 +1,10 @@
+    Cod    
+1928642
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5590-fhd-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-win-10-home-black-3yr-cis/
+    Name    
+DELL Gaming 15.6&#039;&#039; G5 5590, FHD 144Hz, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 512GB SSD, GeForce RTX 2070 8GB, Win 10 Home, Black, 3Yr CIS
+    Img url    
+https://2.grgs.ro/images/products/1/1236/1928642/thumbnails/mwl_i7_9-dc1c228b14f690fbadc16aef17ba24f7.jpg
+    Pret    
+9/20/2020 11:01:33 PM 8.722,44 RON

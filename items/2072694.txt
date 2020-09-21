@@ -1,0 +1,10 @@
+    Cod    
+2072694
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-10-performance-bxnuc10i5fnhja2-core-i5-10210u-16ghz-comet-lake-8gb-ram-1tb-hdd-plus-16gb-optane-uhd-graphics-wi-fi-bluetooth-hdmi-win-10/
+    Name    
+Intel (NUC) Next Unit of Computing 10 Performance NUC10I5FNHJA2, Core i5-10210U 1.6GHz Comet Lake, 8GB RAM, 1TB HDD + 16GB Optane, UHD Graphics, Wi-Fi, Bluetooth, HDMI, Win 10
+    Img url    
+https://5.grgs.ro/images/products/1/1977958/2072694/thumbnails/nuc-next-unit-of-computing-bxnuc10i5fnkpa2-core-i5-10210u-16ghz-8gb-ddr4-256gb-ssd-uhd-graphics-wi-fi-bluetooth-hdmi-win-10-018f3417ab02292a669df47759b71027.png
+    Pret    
+9/21/2020 12:03:42 AM 3.139,98 RON

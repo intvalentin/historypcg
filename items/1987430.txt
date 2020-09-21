@@ -1,0 +1,10 @@
+    Cod    
+1987430
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-15-db1039nq-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-16gb-ddr4-1tb-plus-256gb-ssd-radeon-rx-vega-10-freedos-black/
+    Name    
+HP 15.6&#039;&#039; 15-db1039nq, FHD, Procesor AMD Ryzen™ 7 3700U (4M Cache, up to 4.0 GHz), 16GB DDR4, 1TB + 256GB SSD, Radeon RX Vega 10, FreeDos, Black
+    Img url    
+https://3.grgs.ro/images/products/1/5758/1987430/thumbnails/156-15-db1012nq-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-256gb-ssd-radeon-vega-8-freedos-black-eb59d2ec4a0213b133434782f3867845.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.799,00 RON

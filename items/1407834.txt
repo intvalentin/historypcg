@@ -1,0 +1,10 @@
+    Cod    
+1407834
+    Product link    
+https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/azure-active-directory/
+    Name    
+Microsoft Azure Active Directory
+    Img url    
+https://1.grgs.ro/images/products/1/1146523/1407834/thumbnails/azure-active-directory-e2e85eca218e028fdba7db6453a9032e.jpg
+    Pret    
+9/21/2020 1:15:07 PM 4,25 RON

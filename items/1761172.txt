@@ -1,0 +1,10 @@
+    Cod    
+1761172
+    Product link    
+https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2019-standard-1-licenta-16-core-nl/
+    Name    
+Microsoft Server 2019 Standard, 1 Licenta, 16 Core, OLP NL
+    Img url    
+https://1.grgs.ro/images/products/1/1153/1761172/thumbnails/server-2019-standard-1-licenta-16-core-olp-nl-e14408ac58224ccf02a50dc75f8fa417.jpg
+    Pret    
+9/21/2020 1:15:07 PM 5.847,79 RON

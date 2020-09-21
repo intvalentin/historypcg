@@ -1,0 +1,10 @@
+    Cod    
+1786572
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9350kf-400ghz-box/
+    Name    
+Intel Coffee Lake, Core i3 9350KF 4.0GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/1779504/1786572/thumbnails/coffee-lake-core-i3-9350kf-400ghz-box-c3c537f4cd3f5fa12ade78c7538a8118.png
+    Pret    
+9/21/2020 7:35:03 AM 834,97 RON

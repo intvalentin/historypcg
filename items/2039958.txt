@@ -1,0 +1,10 @@
+    Cod    
+2039958
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700k-38ghz-box/
+    Name    
+Intel Comet Lake, Core i7 10700K 3.8GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/2034042/2039958/thumbnails/comet-lake-core-i7-10700k-38ghz-box-66de8a8bda84b8d9f0b45225e85689b9.jpg
+    Pret    
+9/21/2020 7:34:36 AM 1.869,99 RON

@@ -1,0 +1,10 @@
+    Cod    
+1844044
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/asus/pb60-b3117zd-procesor-intel-core-i3-8100t-310ghz-coffee-lake-4gb-ddr4-128gb-ssd-gma-hd-630-windows-10-pro/
+    Name    
+ASUS PB60-B3117ZD, Procesor Intel® Core™ i3-8100T 3.10GHz Coffee Lake, 4GB DDR4, 128GB SSD, GMA HD 630, Windows 10 Pro
+    Img url    
+https://5.grgs.ro/images/products/1/3442/1844044/thumbnails/pb60-b3070mc-procesor-intel-core-i3-8100t-310ghz-coffee-lake-4gb-ddr4-128-ssd-gma-hd-620-free-dos-fb220ab50e0569a27e74fb5d102945d8.png
+    Pret    
+9/21/2020 12:03:42 AM 3.314,98 RON

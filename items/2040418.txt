@@ -1,0 +1,10 @@
+    Cod    
+2040418
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mff-procesor-intel-core-i5-9500t-22ghz-coffee-lake-8gb-ram-256gb-ssd-uhd-630-win-10-pro/
+    Name    
+DELL OptiPlex 3070 MFF, Procesor Intel® Core™ i5-9500T 2.2GHz Coffee Lake, 8GB RAM, 256GB SSD, UHD 630, Win 10 Pro
+    Img url    
+https://5.grgs.ro/images/products/1/8977/2040418/thumbnails/optiplex-5070-mff-procesor-intel-core-i3-9100t-31ghz-coffee-lake-4gb-ddr4-128gb-ssd-gma-uhd-630-linux-3cf6bbbf75f1275c706cf6528e7a8346.jpg
+    Pret    
+9/21/2020 12:01:59 AM 3.079,98 RON

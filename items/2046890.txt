@@ -1,0 +1,10 @@
+    Cod    
+2046890
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-350-ghz-8gb-256gb-ssd-radeon-no-os-transparent-silver/
+    Name    
+ASUS 15.6&#039;&#039; M509DA, FHD, Procesor AMD Ryzen™ 3 3250U (4M Cache, up to 3.50 GHz), 8GB, 256GB SSD, Radeon, No OS, Transparent Silver
+    Img url    
+https://5.grgs.ro/images/products/1/1990682/2046890/thumbnails/156-m509da-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-350-ghz-8gb-256gb-ssd-radeon-vega-3-no-os-transparent-silver-5b2d326a2b00ca699d943186a3d4f851.jpg
+    Pret    
+9/20/2020 10:58:56 PM 1.898,99 RON

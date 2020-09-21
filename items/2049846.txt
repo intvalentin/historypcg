@@ -1,0 +1,10 @@
+    Cod    
+2049846
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/hp/prodesk-600-g5-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-8gb-ram-256-gb-ssd-uhd-630-win-10-pro/
+    Name    
+HP ProDesk 600 G5 MT, Procesor Intel® Core™ i5-9500 3.0GHz Coffee Lake, 8GB RAM, 256GB SSD, UHD 630, Win 10 Pro
+    Img url    
+https://3.grgs.ro/images/products/1/2045418/2049846/thumbnails/prodesk-600-g5-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-8gb-ram-256gb-ssd-uhd-630-win-10-pro-b21946ed482a1d6dd679804710cde835.jpg
+    Pret    
+9/21/2020 12:02:11 AM 3.739,98 RON

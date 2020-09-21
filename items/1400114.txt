@@ -1,0 +1,10 @@
+    Cod    
+1400114
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-10tb-7200rpm-256mb-12gb-s-sas/
+    Name    
+Seagate Exos Capacity HDD 10TB 7200RPM 256MB 12Gb/s SAS
+    Img url    
+https://2.grgs.ro/images/products/1/1301253/1400114/thumbnails/exos-capacity-10tb-7200rpm-256mb-12gb-s-sas-58c38a83f58ee6ba39de1acbc9935385.png
+    Pret    
+9/21/2020 12:05:23 AM 1.925,23 RON

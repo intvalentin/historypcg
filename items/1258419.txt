@@ -1,0 +1,10 @@
+    Cod    
+1258419
+    Product link    
+https://www.pcgarage.ro/memorii-server/supermicro/ecc-rdimm-ddr4-8gb-2133mhz-single-rank-x4/
+    Name    
+Supermicro ECC RDIMM DDR4 8GB 2133MHz Single Rank x4
+    Img url    
+https://4.grgs.ro/images/products/1/929094/1258419/thumbnails/ecc-rdimm-ddr4-16gb-2133mhz-single-rank-x4-ea9a6a372c0c7c6d6799a919cf5c0ce0.jpg
+    Pret    
+9/21/2020 12:04:36 AM 386,64 RON

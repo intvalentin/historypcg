@@ -1,0 +1,10 @@
+    Cod    
+1963322
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dc1047nq-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-freedos-shadow-black/
+    Name    
+HP Gaming 15.6&#039;&#039; OMEN 15-dc1047nq, FHD IPS 144Hz, Procesor Intel® Core™ i7-9750H (12M Cache, up to 4.50 GHz), 16GB DDR4, 512GB SSD, GeForce GTX 1650 4GB, FreeDos, Shadow Black
+    Img url    
+https://4.grgs.ro/images/products/1/1844684/1963322/thumbnails/mwl_i7_9-933fbbae5b64a1641a6cc0de46ee2f72.jpg
+    Pret    
+9/20/2020 11:01:23 PM 6.391,15 RON

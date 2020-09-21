@@ -1,0 +1,10 @@
+    Cod    
+2030514
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-350-ghz-4gb-256gb-ssd-radeon-no-os-grey/
+    Name    
+ASUS 15.6&#039;&#039; M509DA, FHD, Procesor AMD Ryzen™ 3 3250U (4M Cache, up to 3.50 GHz), 4GB, 256GB SSD, Radeon, No OS, Grey
+    Img url    
+https://2.grgs.ro/images/products/1/6472/2030514/thumbnails/156-m509da-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-512gb-ssd-radeon-vega-8-no-os-grey-0d6193a3942442ff2ae7befe9aea23d1.jpg
+    Pret    
+9/20/2020 10:59:58 PM 1.498,99 RON

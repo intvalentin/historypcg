@@ -1,0 +1,10 @@
+    Cod    
+2043434
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-pentium-gold-g6600-42ghz-box/
+    Name    
+Intel Comet Lake, Pentium Gold G6600 4.2GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/1664860/2043434/thumbnails/comet-lake-pentium-gold-g6600-42ghz-box-343b65d6b4cde5f065071000f5ccc9e6.jpg
+    Pret    
+9/21/2020 7:34:58 AM 492,03 RON

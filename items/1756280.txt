@@ -1,0 +1,10 @@
+    Cod    
+1756280
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i3cysm2-core-i3-8121u-22ghz-8gb-ddr4-1tb-hdd-radeon-540-2gb-wi-fi-bluetooth-hdmi-win-10-home/
+    Name    
+Intel (NUC) Next Unit of Computing NUC8i3CYSM2, Core i3-8121U 2.2GHz, 8GB DDR4, 1TB HDD, Radeon 540 2GB, Wi-Fi, Bluetooth, HDMI, Win 10 Home
+    Img url    
+https://1.grgs.ro/images/products/1/6763/1756280/thumbnails/nuc-next-unit-of-computing-nuc8i3cysm2-core-i3-8121u-22ghz-8gb-ddr4-1tb-hdd-radeon-540-2gb-wi-fi-bluetooth-hdmi-win-10-home-9dab8c8905686cae530032cb24155447.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.294,98 RON

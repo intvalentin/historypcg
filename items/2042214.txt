@@ -1,0 +1,10 @@
+    Cod    
+2042214
+    Product link    
+https://www.pcgarage.ro/servere/dell/poweredge-r540-2u-procesor-intel-xeon-gold-6230-21ghz-cascade-lake-1x-16gb-rdimm-ddr4-2933mhz-1x-600gb-10k-12g-sas-hdd-perc-h730p/
+    Name    
+DELL PowerEdge R540 2U, Procesor Intel® Xeon® Gold 6230 2.1GHz Cascade Lake, 1x 16GB RDIMM DDR4 2933MHz, 1x 600GB 10K 12G SAS HDD, PERC H730P
+    Img url    
+https://1.grgs.ro/images/products/1/1034/2042214/thumbnails/poweredge-r540-2u-procesor-intel-xeon-silver-4210-21ghz-cascade-lake-1x-16gb-rdimm-ddr4-2400mhz-1x-600gb-10k-12g-sas-hdd-perc-h730p-97f70f3787ac8d4c1658bd41a0bf11fc.jpg
+    Pret    
+9/21/2020 12:04:14 AM 23.845,97 RON

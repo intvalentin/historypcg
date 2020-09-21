@@ -1,0 +1,10 @@
+    Cod    
+1792944
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-2500x-36ghz-mpk/
+    Name    
+AMD Ryzen 5 2500X 3.6GHz MPK
+    Img url    
+https://3.grgs.ro/images/products/1/3049/1792944/thumbnails/ryzen-5-2500x-36ghz-mpk-17062a31dcd676bf8670634cf1059d95.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.368,98 RON

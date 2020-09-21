@@ -1,0 +1,10 @@
+    Cod    
+1949726
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-2700-32ghz-tray-multipack/
+    Name    
+AMD Ryzen 7 2700 3.2GHz MPK
+    Img url    
+https://5.grgs.ro/images/products/1/6166/1949726/thumbnails/ryzen-7-2700-32ghz-tray-79de640f86b3ae25994a67bd0987fcb8.jpg
+    Pret    
+9/21/2020 7:35:07 AM 1.619,49 RON

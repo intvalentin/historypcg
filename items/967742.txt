@@ -1,0 +1,10 @@
+    Cod    
+967742
+    Product link    
+https://www.pcgarage.ro/servere/supermicro/superserver-6028r-tr-rack-2u-socket-2011-3-16x-ddr4-dimm-8x-hdd-35-inch-hot-plug/
+    Name    
+Supermicro SuperServer 6028R-TR, rack 2U, socket 2011-3, 16x DDR4 DIMM, 8x HDD 3.5 inch hot plug
+    Img url    
+https://3.grgs.ro/images/products/1/853128/967742/thumbnails/superserver-6028r-tr-rack-2u-socket-2011-3-16x-ddr4-dimm-8x-hdd-35-inch-hot-plug-199a161a13605aeaa35af5b49d5033e0.jpg
+    Pret    
+9/21/2020 12:04:01 AM 6.001,46 RON

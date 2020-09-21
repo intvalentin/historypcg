@@ -1,0 +1,10 @@
+    Cod    
+2005010
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-x-2s-15-dg0006nq-fhd-ips-240hz-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-2x-1tb-ssd-geforce-rtx-2080-8gb-win-10-home-black/
+    Name    
+HP Gaming 15.6&#039;&#039; OMEN X 2S 15-dg0006nq, FHD IPS 240Hz, Procesor Intel® Core™ i9-9880H (16M Cache, up to 4.80 GHz), 32GB DDR4, 2x 1TB SSD, GeForce RTX 2080 8GB, Win 10 Home, Black
+    Img url    
+https://4.grgs.ro/images/products/1/6835/2005010/thumbnails/mwl_i9_9-73842b553885a34a6981dc9979c583c2.jpg
+    Pret    
+9/20/2020 11:01:48 PM 17.291,47 RON

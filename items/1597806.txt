@@ -1,0 +1,10 @@
+    Cod    
+1597806
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-quot-15-bs019nq-hd-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-4gb-ddr4-1tb-hdd-radeon-520-2gb-freedos/
+    Name    
+HP 15.6&quot; 15-bs019nq, HD, Procesor Intel® Core™ i5-7200U (3M Cache, up to 3.10 GHz), 4GB DDR4, 1TB HDD, Radeon 520 2GB, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/1605610/1597806/thumbnails/mwl_i5_7-3ee3b1986fc76d3433005535276c111b.jpg
+    Pret    
+9/20/2020 11:00:53 PM 2.698,92 RON

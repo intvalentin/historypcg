@@ -1,0 +1,10 @@
+    Cod    
+2026002
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-procesor-intel-core-i3-8100b-36ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-macos-catalina/
+    Name    
+Apple Mac mini, Procesor Intel® Core™ i3-8100B 3.6GHz Coffee Lake, 8GB DDR4, 256GB SSD, GMA UHD 630, macOS Catalina
+    Img url    
+https://1.grgs.ro/images/products/1/9002/2026002/thumbnails/mac-mini-procesor-intel-core-i5-8500b-30ghz-coffee-lake-8gb-ddr4-512gb-ssd-gma-uhd-630-macos-catalina-3164cf9704e1ea591a64373e6381fcf1.jpg
+    Pret    
+9/21/2020 12:03:46 AM 4.929,98 RON

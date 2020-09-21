@@ -1,0 +1,10 @@
+    Cod    
+2063782
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/asus/v222fak-215-inch-fhd-procesor-intel-i3-10110u-21ghz-comet-lake-8gb-ram-256gb-ssd-uhd-graphics-camera-web-endlessos/
+    Name    
+ASUS V222FAK, 21.5 inch FHD, Procesor Intel® i3-10110U 2.1GHz Comet Lake, 8GB RAM, 256GB SSD, UHD Graphics, Camera Web, EndlessOS
+    Img url    
+https://4.grgs.ro/images/products/1/5664/2063782/thumbnails/215-quot-v222uak-fhd-procesor-intel-i5-8250u-16ghz-kaby-lake-r-4gb-ddr4-1tb-hdd-gma-uhd-620-freedos-700c0cbb41d8391c2ebcbefea0fb1dbc.jpg
+    Pret    
+9/21/2020 12:02:48 AM 2.439,98 RON

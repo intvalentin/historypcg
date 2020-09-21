@@ -1,0 +1,10 @@
+    Cod    
+1754956
+    Product link    
+https://www.pcgarage.ro/placi-video-profesionale/pny/pny-nvidia-quadro-rtx-6000-24gb-gddr6-384-bit-4xdp-virtuallink/
+    Name    
+PNY NVIDIA Quadro RTX 6000 24GB GDDR6 384-Bit
+    Img url    
+https://3.grgs.ro/images/products/1/6763/1754956/thumbnails/nvidia-quadro-rtx-6000-24gb-gddr6-384-bit-dd6010418ffc56e0a3a9c14cda18803e.png
+    Pret    
+9/21/2020 7:34:25 AM 22.489,93 RON

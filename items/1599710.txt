@@ -1,0 +1,10 @@
+    Cod    
+1599710
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/hp/156-pavilion-15-ck000nq-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-256gb-ssd-geforce-940mx-2gb-freedos-silver/
+    Name    
+HP 15.6&#039;&#039; Pavilion - 15-ck000nq, FHD IPS, Procesor Intel® Core™ i7-8550U (8M Cache, up to 4.00 GHz), 8GB DDR4, 256GB SSD, GeForce 940MX 2GB, FreeDos, Silver
+    Img url    
+https://5.grgs.ro/images/products/1/1508470/1599710/thumbnails/mwl_i7_8-1604b80b6ca28d2b7a39d98126685214.jpg
+    Pret    
+9/20/2020 11:01:03 PM 3.774,11 RON

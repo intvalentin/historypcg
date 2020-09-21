@@ -1,0 +1,10 @@
+    Cod    
+1983186
+    Product link    
+https://www.pcgarage.ro/servere/hp/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-gold-5118-23ghz-skylake-64gb-rdimm-ddr4-smart-array-p408i-a-2x-800w/
+    Name    
+HP ProLiant DL380 Gen10 Rack 2U, Procesor Intel® Xeon® Gold 5118 2.3GHz Skylake, 64GB RDIMM DDR4, Smart Array P408i-a, 2x 800W
+    Img url    
+https://1.grgs.ro/images/products/1/1802236/1983186/thumbnails/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-gold-5118-23ghz-skylake-64gb-rdimm-ddr4-300gb-sas-smart-array-p408i-a-2x-800w-3yr-nbd-ae95ca8289174155c114d1280588a8ef.jpg
+    Pret    
+9/21/2020 12:04:10 AM 16.966,84 RON

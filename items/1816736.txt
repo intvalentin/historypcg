@@ -1,0 +1,10 @@
+    Cod    
+1816736
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/asus/ultraslim-pb40-procesor-intel-celeron-n4000-110ghz-gemini-lake-4gb-ddr4-64gb-emmc-gma-uhd-600-freedos/
+    Name    
+ASUS UltraSlim PB40, Procesor Intel® Celeron® N4000 1.10GHz Gemini Lake, 4GB DDR4,  64GB eMMC, GMA UHD 600, FreeDos
+    Img url    
+https://5.grgs.ro/images/products/1/753/1816736/thumbnails/ultraslim-pb40-procesor-intel-celeron-n4000-110ghz-gemini-lake-4gb-ddr4-64gb-emmc-gma-uhd-600-freedos-9aa117d6a5d3caf9e9bb4c54bfb0d0e4.png
+    Pret    
+9/21/2020 12:03:37 AM 1.114,98 RON

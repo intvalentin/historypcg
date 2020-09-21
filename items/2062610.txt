@@ -1,0 +1,10 @@
+    Cod    
+2062610
+    Product link    
+https://www.pcgarage.ro/memorii-server/supermicro/mem-dr432l-sl01-er29/
+    Name    
+Supermicro ECC RDIMM DDR4 32GB 2933MHz CL21 1.2v 2Rx4
+    Img url    
+https://1.grgs.ro/images/products/1/6954/2062610/thumbnails/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4-05a1452ffa76d295bc4512cbb4465407.png
+    Pret    
+9/21/2020 12:04:27 AM 895,22 RON

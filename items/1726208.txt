@@ -1,0 +1,10 @@
+    Cod    
+1726208
+    Product link    
+https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-e-10k-sas-12tb-10000rpm-128mb-512n/
+    Name    
+Seagate Exos E HDD 10K SAS 1.2TB 10000RPM 128MB 512n
+    Img url    
+https://2.grgs.ro/images/products/1/1723568/1726208/thumbnails/exos-e-10k-sas-12tb-10000rpm-128mb-512n-9d287ebfeb803931b4538b87bee783e5.jpg
+    Pret    
+9/21/2020 12:05:14 AM 1.307,37 RON

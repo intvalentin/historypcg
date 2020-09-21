@@ -1,0 +1,10 @@
+    Cod    
+1893866
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-7-3800x-39ghz-box/
+    Name    
+AMD Ryzen 7 3800X 3.9GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1275/1893866/thumbnails/ryzen-7-3800x-39ghz-box-7ecb4b74246bfd8b3bc658cc463f1d52.png
+    Pret    
+9/21/2020 7:34:36 AM 1.762,99 RON

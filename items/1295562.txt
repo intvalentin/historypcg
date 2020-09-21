@@ -1,0 +1,10 @@
+    Cod    
+1295562
+    Product link    
+https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr3-8gb-1600mhz-cl11-15v-dual-ranked-x8/
+    Name    
+Kingston ECC RDIMM DDR3 8GB 1600MHz CL11 1.5v Dual Ranked x8
+    Img url    
+https://1.grgs.ro/images/products/1/1094679/1295562/thumbnails/ecc-rdimm-ddr3-8gb-1600mhz-cl11-15v-single-rank-x4-compatibil-ibm-cd7540dabd26c8c4fd848ae5598f7c66.jpg
+    Pret    
+9/21/2020 12:04:36 AM 303,37 RON

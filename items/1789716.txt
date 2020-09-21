@@ -1,0 +1,10 @@
+    Cod    
+1789716
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-9700kf-360ghz-box/
+    Name    
+Intel Coffee Lake, Core i7 9700KF 3.6GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/6440/1789716/thumbnails/coffee-lake-core-i7-9700kf-360ghz-box-ad98d2cab267ff04bc81cc8e2039b8e0.png
+    Pret    
+9/21/2020 7:34:38 AM 1.548,30 RON

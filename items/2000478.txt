@@ -1,0 +1,10 @@
+    Cod    
+2000478
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2070-dual-mini-o8g-8gb-gddr6-256-bit/
+    Name    
+ASUS GeForce RTX 2070 DUAL MINI O8G 8GB GDDR6 256-bit
+    Img url    
+https://4.grgs.ro/images/products/1/1990682/2000478/thumbnails/geforce-rtx-2070-dual-mini-o8g-8gb-gddr6-256-bit-507c243d988dcb2be9158b075965d682.jpg
+    Pret    
+9/21/2020 7:33:54 AM 2.255,08 RON

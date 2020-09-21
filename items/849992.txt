@@ -1,0 +1,10 @@
+    Cod    
+849992
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-dual-core-e3-1220l-v2-23ghz-box/
+    Name    
+Intel Xeon Dual-Core E3-1220L v2 2.3GHz, box
+    Img url    
+https://5.grgs.ro/images/products/1/480523/849992/thumbnails/inbx80637e31220lv2-5c017d875336e9baf9ac0d1d4540d8d2.jpg
+    Pret    
+9/21/2020 12:04:17 AM 1.123,51 RON

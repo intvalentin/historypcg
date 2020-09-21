@@ -1,0 +1,10 @@
+    Cod    
+1986906
+    Product link    
+https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/gaming-golem-se/
+    Name    
+Gaming Golem, AMD Ryzen 7 3700X 3.6GHz, 8 nuclee, 16GB DDR4, 1TB SSD, RX 5600 XT 6GB GDDR6, Iluminare RGB
+    Img url    
+https://5.grgs.ro/images/products/1/3442/1986906/thumbnails/gaming-golem-amd-ryzen-7-3700x-36ghz-8-nuclee-16gb-ddr4-1tb-ssd-rx-5600-xt-6gb-gddr6-iluminare-rgb-da0c5964ebbf00afa048ec7a4bb3b832.jpg
+    Pret    
+9/21/2020 12:01:52 AM 6.149,99 RON

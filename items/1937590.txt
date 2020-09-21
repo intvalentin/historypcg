@@ -1,0 +1,10 @@
+    Cod    
+1937590
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510a-15icb-procesor-intel-core-i3-9100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-freedos/
+    Name    
+Lenovo IdeaCentre 510A-15ICB, Procesor Intel® Core™ i3-9100 3.6GHz Coffee Lake, 4GB DDR4, 1TB HDD, GMA UHD 630, FreeDos
+    Img url    
+https://1.grgs.ro/images/products/1/6835/1937590/thumbnails/ideacentre-510a-15icb-procesor-intel-core-i5-9400-29ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-freedos-ef6a3935cb56d5e539cde671784ebb46.jpg
+    Pret    
+9/21/2020 12:02:24 AM 1.999,98 RON

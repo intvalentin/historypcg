@@ -1,0 +1,10 @@
+    Cod    
+1848658
+    Product link    
+https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-530s-ikb-wqhd-ips-glass-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-512gb-ssd-geforce-mx150-2gb-fingerprint-reader-win-10-home-liquid-blue/
+    Name    
+Lenovo 14&#039;&#039; IdeaPad 530S IKB, WQHD IPS Glass, Procesor Intel® Core™ i7-8550U (8M Cache, up to 4.00 GHz), 16GB DDR4, 512GB SSD, GeForce MX150 2GB, FingerPrint Reader, Win 10 Home, Liquid Blue
+    Img url    
+https://1.grgs.ro/images/products/1/1703884/1848658/thumbnails/mwl_i7_8-3651c4f28dfd9a7cee9a48790449eaa7.jpg
+    Pret    
+9/20/2020 10:57:59 PM 5.499,00 RON

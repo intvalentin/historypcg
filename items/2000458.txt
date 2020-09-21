@@ -1,0 +1,11 @@
+    Cod    
+2000458
+    Product link    
+https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-super-evo-v2-8gb-gddr6-256-bit/
+    Name    
+ASUS GeForce RTX 2060 SUPER EVO V2 8GB GDDR6 256-bit
+    Img url    
+https://1.grgs.ro/images/products/1/1990682/2000458/thumbnails/geforce-rtx-2060-super-evo-v2-8gb-gddr6-256-bit-d1339d0835dddaf065f88d7987f5af12.jpg
+    Pret    
+9/21/2020 12:06:52 AM 2.322,93 RON
+9/21/2020 7:33:00 AM 2.322,93 RON

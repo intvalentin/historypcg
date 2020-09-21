@@ -1,0 +1,10 @@
+    Cod    
+1701568
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-8086k-40ghz-box/
+    Name    
+Intel Coffee Lake, Core i7 8086K 4.0GHz box
+    Img url    
+https://5.grgs.ro/images/products/1/1692296/1701568/thumbnails/coffee-lake-core-i7-8086k-40ghz-box-fc6e6b7ca96eae17cff42af7603de7c2.jpg
+    Pret    
+9/21/2020 7:35:07 AM 2.499,99 RON

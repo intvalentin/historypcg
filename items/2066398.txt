@@ -1,0 +1,10 @@
+    Cod    
+2066398
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t5-procesor-intel-core-i7-10700-29ghz-comet-lake-16gb-ram-512gb-ssd-geforce-gtx-2060-6gb-freedos/
+    Name    
+Lenovo Gaming Legion T5, Procesor Intel® Core™ i7-10700 2.9GHz Comet Lake, 16GB RAM, 512GB SSD, GeForce GTX 2060 6GB, FreeDos
+    Img url    
+https://4.grgs.ro/images/products/1/4917/2066398/thumbnails/pc-t5-28imb05-ci5-10400-16gb-512gb-90nc00edri-lenovo-0a2556a121095216a4632b396ca603e5.jpg
+    Pret    
+9/21/2020 12:02:03 AM 6.779,98 RON

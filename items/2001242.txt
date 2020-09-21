@@ -1,0 +1,10 @@
+    Cod    
+2001242
+    Product link    
+https://www.pcgarage.ro/mouse-pad/asus/rog-strix-slice/
+    Name    
+ASUS ROG Strix Slice
+    Img url    
+https://4.grgs.ro/images/products/1/1990682/2001242/thumbnails/rog-strix-slice-c7589d6b4f7a39b815daa914477c525b.jpg
+    Pret    
+9/21/2020 8:00:24 AM 69,99 RON

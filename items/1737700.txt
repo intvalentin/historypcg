@@ -1,0 +1,10 @@
+    Cod    
+1737700
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-3-2200g-35ghz-mpk/
+    Name    
+AMD Ryzen 3 2200G 3.5GHz MPK
+    Img url    
+https://3.grgs.ro/images/products/1/1736364/1737700/thumbnails/ryzen-3-2200g-35ghz-mpk-ae0f7493b952e39ea4997e5022e3d77e.jpg
+    Pret    
+9/21/2020 7:34:58 AM 468,31 RON

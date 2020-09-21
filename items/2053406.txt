@@ -1,0 +1,10 @@
+    Cod    
+2053406
+    Product link    
+https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-6tb-sata-iii-5400rpm-256mb-1/
+    Name    
+Seagate IronWolf 6TB SATA-III 5400RPM 256MB
+    Img url    
+https://4.grgs.ro/images/products/1/1496454/2053406/thumbnails/ironwolf-6tb-sata-iii-7200rpm-256mb-9d3bd233ce983e0ae1f1b89d9fddbbdc.jpg
+    Pret    
+9/21/2020 7:45:29 AM 1.101,89 RON

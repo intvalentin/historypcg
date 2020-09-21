@@ -1,0 +1,10 @@
+    Cod    
+1157853
+    Product link    
+https://www.pcgarage.ro/sisteme-nettop/intel/compute-stick-stk2mv64cc-core-m5-6y57-vpro-11ghz-4gb-62gb-emmc-hdmi-bulk/
+    Name    
+Intel Compute Stick STK2MV64CC, Core m5-6Y57 vPro 1.1GHz, 4GB, 64GB eMMC, HDMI, Bulk
+    Img url    
+https://5.grgs.ro/images/products/1/960827/1157853/thumbnails/compute-stick-stk2mv64cc-core-m5-6y57-11ghz-4gb-62gb-emmc-hdmi-bulk-75e298f871e0e6bba187064d365c379d.jpg
+    Pret    
+9/21/2020 12:03:37 AM 2.589,98 RON

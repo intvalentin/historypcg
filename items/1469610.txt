@@ -1,0 +1,10 @@
+    Cod    
+1469610
+    Product link    
+https://www.pcgarage.ro/procesoare/amd/ryzen-5-1600x-36ghz-box/
+    Name    
+AMD Ryzen 5 1600X 3.6GHz box
+    Img url    
+https://3.grgs.ro/images/products/1/1416562/1469610/thumbnails/ryzen-5-1600x-36ghz-box-c58e8f2d15a2cdc4ad4258fc0a701f3f.jpg
+    Pret    
+9/21/2020 7:35:03 AM 1.099,99 RON

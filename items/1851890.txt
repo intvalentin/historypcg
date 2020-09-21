@@ -1,0 +1,11 @@
+    Cod    
+1851890
+    Product link    
+https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-gaming-6gb-gddr5-192-bit/
+    Name    
+GIGABYTE GeForce GTX 1660 GAMING 6GB GDDR5 192-bit
+    Img url    
+https://3.grgs.ro/images/products/1/5664/1851890/thumbnails/geforce-gtx-1660-gaming-oc-6gb-gddr5-192-bit-695a0c6d82e410630db570f4c3cec3d6.png
+    Pret    
+9/21/2020 12:05:51 AM 1.182,36 RON
+9/21/2020 7:31:55 AM 1.182,36 RON

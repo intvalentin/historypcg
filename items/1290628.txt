@@ -1,0 +1,10 @@
+    Cod    
+1290628
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-octa-core-e5-2620-v4-210ghz-box/
+    Name    
+Intel Xeon Octa-Core E5-2620 v4 2.10GHz, box
+    Img url    
+https://5.grgs.ro/images/products/1/480523/1290628/thumbnails/xeon-hexa-core-e5-2609-v3-19ghz-box-b7012ed03958228d533c1d7a2332221d.jpg
+    Pret    
+9/21/2020 12:04:22 AM 2.361,39 RON

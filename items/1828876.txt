@@ -1,0 +1,10 @@
+    Cod    
+1828876
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/asus/215-quot-v222uak-fhd-procesor-intel-core-i3-8130u-22ghz-kabylake-8gb-ddr4-256gb-ssd-gma-uhd-620-freedos/
+    Name    
+ASUS 21.5&quot; V222UAK, FHD, Procesor Intel® Core™ i3-8130U 2.2GHz Kaby Lake, 8GB DDR4, 256GB SSD, GMA UHD 620, Camera Web, FreeDos
+    Img url    
+https://2.grgs.ro/images/products/1/1736364/1828876/thumbnails/215-quot-v222gak-fhd-procesor-intel-celeron-j4005-20ghz-gemini-lake-4gb-ddr4-500gb-hdd-gma-uhd-600-linux-b0d4a6b65ead8ef1417436e02b38bb9f.jpg
+    Pret    
+9/21/2020 12:03:01 AM 2.559,99 RON
