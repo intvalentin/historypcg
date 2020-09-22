@@ -1,0 +1,10 @@
+    Cod    
+1770540
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-xgs3700-48/
+    Name    
+ZyXEL Gigabit XGS3700-48
+    Img url    
+https://3.grgs.ro/images/products/1/1765416/1770540/thumbnails/gigabit-xgs3700-48-bc8990d552f61c2d1ca7d3342b59aa8a.jpg
+    Pret    
+9/22/2020 12:04:30 PM 12.661,03 RON

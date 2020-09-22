@@ -1,0 +1,10 @@
+    Cod    
+1770544
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-xgs3700-24hp/
+    Name    
+ZyXEL Gigabit XGS3700-24HP
+    Img url    
+https://2.grgs.ro/images/products/1/1765416/1770544/thumbnails/gigabit-xgs3700-24hp-14b2419ae44f2b74c93f63e7fbfa3d22.jpg
+    Pret    
+9/22/2020 12:04:30 PM 13.084,81 RON

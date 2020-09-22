@@ -1,0 +1,10 @@
+    Cod    
+2075126
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1900-24ep/
+    Name    
+ZyXEL Gigabit GS1900-24EP
+    Img url    
+https://1.grgs.ro/images/products/1/4525/2075126/thumbnails/gigabit-gs1900-24ep-5215e7c05de9c4bf56467039ba50535c.jpg
+    Pret    
+9/22/2020 11:43:31 AM 1.164,57 RON

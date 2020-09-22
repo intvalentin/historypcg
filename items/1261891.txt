@@ -1,0 +1,10 @@
+    Cod    
+1261891
+    Product link    
+https://www.pcgarage.ro/switch-uri/lsi/sas6160-16-port-sas/
+    Name    
+LSI SAS6160 16 Port SAS
+    Img url    
+https://1.grgs.ro/images/products/1/991247/1261891/thumbnails/sas6160-16-port-sas-c5e8b4933755141e806f5acf2edc0aca.jpg
+    Pret    
+9/22/2020 12:04:30 PM 11.574,60 RON

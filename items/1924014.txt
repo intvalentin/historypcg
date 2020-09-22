@@ -1,0 +1,10 @@
+    Cod    
+1924014
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1300-26hp/
+    Name    
+ZyXEL Gigabit GS1300-26HP
+    Img url    
+https://2.grgs.ro/images/products/1/8629/1924014/thumbnails/gigabit-gs1300-26hp-a19dab8fb183ba09c5f64f5889ab995c.jpg
+    Pret    
+9/22/2020 11:44:35 AM 2.016,56 RON

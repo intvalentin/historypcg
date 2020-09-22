@@ -1,0 +1,10 @@
+    Cod    
+1101213
+    Product link    
+https://www.pcgarage.ro/routere-wireless/zyxel/nbg6515/
+    Name    
+ZyXEL Gigabit NBG6515 Dual-Band
+    Img url    
+https://5.grgs.ro/images/products/1/3/1101213/thumbnails/gigabit-nbg6515-dual-band-726c9f3c6c6a7f1d521b439229831ba8.jpg
+    Pret    
+9/22/2020 11:15:37 AM 244,85 RON

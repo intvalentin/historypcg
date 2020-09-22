@@ -1,0 +1,10 @@
+    Cod    
+1255577
+    Product link    
+https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-unifi-ap-lr-dual-band-5-buc/
+    Name    
+Ubiquiti Gigabit UniFi AP LR Dual-Band 5 Buc.
+    Img url    
+https://5.grgs.ro/images/products/1/367655/1255577/thumbnails/gigabit-unifi-ap-lr-dual-band-91cf9194f38090c7c1152db6f88c0a57.jpg
+    Pret    
+9/22/2020 12:26:31 PM 2.390,11 RON

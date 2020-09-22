@@ -1,0 +1,10 @@
+    Cod    
+1770000
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1200-8hpv2/
+    Name    
+ZyXEL Gigabit GS1200-8HPv2
+    Img url    
+https://4.grgs.ro/images/products/1/1765416/1770000/thumbnails/gigabit-gs1200-8hpv2-a63943332d32c255fdaf3411a0417434.jpg
+    Pret    
+9/22/2020 11:41:21 AM 560,25 RON

@@ -1,0 +1,10 @@
+    Cod    
+1083399
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs2210-8/
+    Name    
+ZyXEL Gigabit GS2210-8
+    Img url    
+https://4.grgs.ro/images/products/1/367655/1083399/thumbnails/gigabit-gs2210-8-d684422bec279180bdc06c2260c599b6.jpg
+    Pret    
+9/22/2020 11:42:26 AM 1.037,77 RON

@@ -1,0 +1,10 @@
+    Cod    
+1770532
+    Product link    
+https://www.pcgarage.ro/firewall/zyxel/gigabit-zywall-usg60-utm/
+    Name    
+ZyXEL Gigabit ZyWALL USG60 UTM
+    Img url    
+https://2.grgs.ro/images/products/1/960827/1770532/thumbnails/zywall-usg-60-557dfe3b835f3baadcac9fb3e74610e0.jpg
+    Pret    
+9/22/2020 12:30:40 PM 3.668,12 RON

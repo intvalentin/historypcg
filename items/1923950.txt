@@ -1,0 +1,10 @@
+    Cod    
+1923950
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1350-12hp/
+    Name    
+ZyXEL Gigabit GS1350-12HP
+    Img url    
+https://1.grgs.ro/images/products/1/8629/1923950/thumbnails/gigabit-gs1350-12hp-1ac4eb125dd9812ba25bf02096122a70.jpg
+    Pret    
+9/22/2020 11:43:31 AM 1.232,28 RON

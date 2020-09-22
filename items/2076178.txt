@@ -1,0 +1,10 @@
+    Cod    
+2076178
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-rgs100-5p/
+    Name    
+ZyXEL Gigabit RGS100-5P
+    Img url    
+https://5.grgs.ro/images/products/1/4525/2076178/thumbnails/gigabit-rgs100-5p-2916d40b631673f7dfae8ee646b32064.jpg
+    Pret    
+9/22/2020 11:44:35 AM 2.348,10 RON

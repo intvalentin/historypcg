@@ -1,0 +1,10 @@
+    Cod    
+1008196
+    Product link    
+https://www.pcgarage.ro/switch-uri/ubiquiti-networks/us-24-250w/
+    Name    
+Ubiquiti Gigabit UniFiSwitch 24-port 250W
+    Img url    
+https://5.grgs.ro/images/products/1/1025741/1008196/thumbnails/gigabit-unifiswitch-24-port-250w-5285014fe1f3e9a278ba2d2ae115af66.jpg
+    Pret    
+9/22/2020 11:44:35 AM 1.966,09 RON

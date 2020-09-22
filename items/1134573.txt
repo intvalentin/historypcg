@@ -1,0 +1,10 @@
+    Cod    
+1134573
+    Product link    
+https://www.pcgarage.ro/firewall/zyxel/gigabit-zywall-usg60/
+    Name    
+ZyXEL Gigabit ZyWALL USG60
+    Img url    
+https://2.grgs.ro/images/products/1/960827/1134573/thumbnails/zywall-usg-60-557dfe3b835f3baadcac9fb3e74610e0.jpg
+    Pret    
+9/22/2020 12:30:40 PM 2.787,15 RON

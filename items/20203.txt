@@ -1,0 +1,10 @@
+    Cod    
+20203
+    Product link    
+https://www.pcgarage.ro/casti/philips/shp2500/
+    Name    
+Philips SHP2500
+    Img url    
+https://1.grgs.ro/images/products/1/4/20203/thumbnails/shp2500-fa5830bcefdda618d934c8775112c6b9.jpg
+    Pret    
+9/22/2020 4:03:37 PM 129,98 RON

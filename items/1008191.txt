@@ -1,0 +1,10 @@
+    Cod    
+1008191
+    Product link    
+https://www.pcgarage.ro/switch-uri/ubiquiti-networks/us-48-500w/
+    Name    
+Ubiquiti Gigabit UniFiSwitch 48-port 500W
+    Img url    
+https://5.grgs.ro/images/products/1/782584/1008191/thumbnails/gigabit-unifiswitch-48-port-500w-386a8eeaddf3ab25366d721704808459.jpg
+    Pret    
+9/22/2020 11:45:40 AM 3.902,02 RON

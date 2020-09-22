@@ -1,0 +1,10 @@
+    Cod    
+1765600
+    Product link    
+https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-edgeswitch-es-16-xg/
+    Name    
+Ubiquiti Gigabit EdgeSwitch ES-16-XG
+    Img url    
+https://5.grgs.ro/images/products/1/1765416/1765600/thumbnails/gigabit-es-16-xg-ff0bc5c77ac50389b3ae62934c054a16.jpg
+    Pret    
+9/22/2020 11:45:40 AM 2.774,87 RON

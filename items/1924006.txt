@@ -1,0 +1,10 @@
+    Cod    
+1924006
+    Product link    
+https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1300-10hp/
+    Name    
+ZyXEL Gigabit GS1300-10HP
+    Img url    
+https://3.grgs.ro/images/products/1/8629/1924006/thumbnails/gigabit-gs1300-10hp-d4aaad2fb12a92348b1403ffc463ea44.jpg
+    Pret    
+9/22/2020 11:42:26 AM 984,64 RON

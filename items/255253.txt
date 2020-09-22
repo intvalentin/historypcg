@@ -1,0 +1,10 @@
+    Cod    
+255253
+    Product link    
+https://www.pcgarage.ro/camere-supraveghere/axis/p5534-ptz-dome-network-camera/
+    Name    
+Axis P5534 PTZ
+    Img url    
+https://1.grgs.ro/images/products/1/4/255253/thumbnails/p5534-cb264c4118796cd7d7c8dbef466d5e73.jpg
+    Pret    
+9/22/2020 3:42:31 PM 11.162,98 RON
