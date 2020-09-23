@@ -1,0 +1,10 @@
+    Cod    
+2089498
+    Product link    
+https://www.pcgarage.ro/notebook-laptop/asus/156-expertbook-p1510cda-hd-procesor-amd-athlon-silver-3050u-4m-cache-un-to-32-ghz-4gb-ddr4-256gb-ssd-radeon-no-os-star-black/
+    Name    
+ASUS 15.6&#039;&#039; ExpertBook P1510CDA, HD, Procesor AMD Athlon™ Silver 3050U (4M Cache, un to 3.2 GHz), 4GB DDR4, 256GB SSD, Radeon, No OS, Star Black
+    Img url    
+https://5.grgs.ro/images/products/1/7960/2089498/thumbnails/156-expertbook-p1510cda-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-star-black-edb65e22af0f52c6a725e007510b26d4.jpg
+    Pret    
+9/23/2020 1:39:36 PM 1.498,99 RON
