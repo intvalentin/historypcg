@@ -8,3 +8,5 @@ Supermicro SuperServer 6027R-TRF, rack 2U, socket 2011, 16x DDR3 DIMM, 8x HDD 3.
 https://5.grgs.ro/images/products/1/750014/810648/thumbnails/superserver-6027r-trf-rack-2u-socket-1150-16x-ddr3-dimm-8x-hdd-35-inch-hot-plug-98c87b4f322a3031e8b5de4587b9340a.jpg
     Pret    
 9/21/2020 12:04:01 AM 6.339,34 RON
+9/25/2020 2:24:07 PM 6.425,53 RON
+9/26/2020 4:45:04 PM 6.480,30 RON

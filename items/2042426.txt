@@ -1,0 +1,11 @@
+    Cod    
+2042426
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-eight-core-e5-2620-v4-21ghz/
+    Name    
+Intel Xeon Eight-Core E5-2620 v4 2.1GHz
+    Img url    
+https://2.grgs.ro/images/products/1/1034/2042426/thumbnails/xeon-eight-core-e5-2620-v4-21ghz-fade3567b841048cc6445f395355916c.png
+    Pret    
+9/25/2020 2:24:50 PM 3.781,97 RON
+9/26/2020 4:45:50 PM 3.784,15 RON

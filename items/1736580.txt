@@ -8,3 +8,5 @@ AMD EPYC Twenty-four Core 7451 2.3GHz box
 https://1.grgs.ro/images/products/1/1736364/1736580/thumbnails/epyc-twenty-four-core-7451-23ghz-box-3618159972e5dc4d617d0420e1295bba.jpg
     Pret    
 9/21/2020 12:04:17 AM 13.685,40 RON
+9/25/2020 2:24:50 PM 13.989,69 RON
+9/26/2020 4:45:50 PM 13.986,68 RON

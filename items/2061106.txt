@@ -1,0 +1,10 @@
+    Cod    
+2061106
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/intel-core-i7-10700kf-38ghz-lga1200-16m-cache-tray-cpu/
+    Name    
+Intel Comet Lake, Core i7 10700KF 3.8GHz tray
+    Img url    
+https://2.grgs.ro/images/products/1/6954/2061106/thumbnails/intel-core-i7-10700kf-38ghz-lga1200-16m-cache-tray-cpu-3ad82bce13e2aef3cc5c1a921e8bf288.jpg
+    Pret    
+9/25/2020 7:46:35 PM 1.884,06 RON

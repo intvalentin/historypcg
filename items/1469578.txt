@@ -1,0 +1,11 @@
+    Cod    
+1469578
+    Product link    
+https://www.pcgarage.ro/memorii-server/lenovo/ecc-rdimm-ddr4-8gb-2133mhz-cl15-12v-single-rank-x4-2/
+    Name    
+Lenovo ECC RDIMM DDR4 8GB 2133MHz CL15 1.2v Single Rank x4
+    Img url    
+https://4.grgs.ro/images/products/1/978807/1469578/thumbnails/ecc-rdimm-ddr4-8gb-2133mhz-cl15-12v-single-rank-x4-56324f489c80336e7fd6eb8bbcdda86e.jpg
+    Pret    
+9/25/2020 2:27:48 PM 459,02 RON
+9/26/2020 4:48:49 PM 459,77 RON

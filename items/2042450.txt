@@ -1,0 +1,11 @@
+    Cod    
+2042450
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-sixteen-core-silver-4216-21ghz/
+    Name    
+Intel Xeon Sixteen-Core Silver 4216 2.1GHz
+    Img url    
+https://4.grgs.ro/images/products/1/1034/2042450/thumbnails/xeon-twelve-core-silver-4214-22ghz-6c4f0b86abcecc36ed518927f64846c5.png
+    Pret    
+9/25/2020 2:24:50 PM 9.653,62 RON
+9/26/2020 4:45:50 PM 9.659,17 RON

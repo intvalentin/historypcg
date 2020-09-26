@@ -1,0 +1,10 @@
+    Cod    
+2000518
+    Product link    
+https://www.pcgarage.ro/smartphone/one-plus/7-snapdragon-855-octa-core-256gb-8gb-ram-dual-sim-4g-3-camere-fast-battery-charging-mirror-gray-oxygen-os-1/
+    Name    
+OnePlus 7, Snapdragon 855, Octa Core, 256GB, 8GB RAM, Dual SIM, 4G, 3-Camere, Fast battery charging, Mirror Gray, Oxygen OS
+    Img url    
+https://5.grgs.ro/images/products/1/7399/2000518/thumbnails/7-octa-core-256gb-8gb-ram-dual-sim-4g-3-camere-mirror-gray-a416d36beeb4c7ffa6e121180f755d44.jpg
+    Pret    
+9/25/2020 8:54:53 PM 2.698,98 RON

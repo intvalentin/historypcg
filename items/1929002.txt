@@ -1,0 +1,10 @@
+    Cod    
+1929002
+    Product link    
+https://www.pcgarage.ro/smartphone/samsung/galaxy-note-10-octa-core-256gb-8gb-ram-dual-sim-4g-4-camere-aura-black/
+    Name    
+Samsung Galaxy Note 10, Octa Core, 256GB, 8GB RAM, Dual SIM, 4G, 4-Camere, Aura Black
+    Img url    
+https://4.grgs.ro/images/products/1/8629/1929002/thumbnails/galaxy-note-10-octa-core-256gb-8gb-ram-dual-sim-4g-4-camere-aura-black-dd9475db87e7c7ce72e7263bcded1d72.jpg
+    Pret    
+9/25/2020 8:55:37 PM 4.498,98 RON

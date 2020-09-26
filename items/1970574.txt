@@ -1,0 +1,10 @@
+    Cod    
+1970574
+    Product link    
+https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2060-twin-x2-oc-rgb-6gb-gddr6-192-bit/
+    Name    
+Inno3D GeForce RTX 2060 TWIN X2 OC RGB 6GB GDDR6 192-bit
+    Img url    
+https://3.grgs.ro/images/products/1/8486/1970574/thumbnails/geforce-rtx-2060-twin-x2-oc-rgb-6gb-gddr6-192-bit-62d9f37c226245c5dab5e83e9318e011.png
+    Pret    
+9/25/2020 7:56:22 PM 1.643,32 RON

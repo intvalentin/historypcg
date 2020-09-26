@@ -8,3 +8,5 @@ HP ProLiant DL385 Gen 10, Rack 2U, AMD Epyc 7301 2.2GHz, 32GB DDR4 RDIMM, 7x 2TB
 https://4.grgs.ro/images/products/1/2863/1839648/thumbnails/proliant-dl385-gen-10-rack-2u-amd-epyc-7301-22ghz-32gb-ddr4-rdimm-7x-2tb-sas-72k-smart-array-p408i-a-500-w-windows-server-2016-921976994de920a40d11586f6f32f86e.png
     Pret    
 9/21/2020 12:04:14 AM 41.602,96 RON
+9/25/2020 2:22:38 PM 41.722,85 RON
+9/26/2020 4:43:35 PM 41.746,83 RON

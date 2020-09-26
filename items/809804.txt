@@ -8,3 +8,5 @@ Supermicro SuperServer 5018D-MTF, rack 1U, socket 1150, 4x DDR3 DIMM, 4x HDD 3.5
 https://4.grgs.ro/images/products/1/800612/809804/thumbnails/superserver-5018d-mtf-0511b1f4c1a8cf9d1273fd11d4454010.jpg
     Pret    
 9/21/2020 12:04:00 AM 3.221,84 RON
+9/25/2020 2:24:07 PM 3.265,64 RON
+9/26/2020 4:45:04 PM 3.293,48 RON

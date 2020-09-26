@@ -1,0 +1,11 @@
+    Cod    
+1653944
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-18-core-e5-2695-v4-21ghz-box/
+    Name    
+Intel Xeon 18-Core E5-2695 v4 2.1GHz, box
+    Img url    
+https://2.grgs.ro/images/products/1/1649828/1653944/thumbnails/xeon-18-core-e5-2695-v4-21ghz-box-cefca8b88b3b1959acb38f2535ef2f35.jpg
+    Pret    
+9/25/2020 2:25:33 PM 14.951,63 RON
+9/26/2020 4:46:34 PM 14.948,42 RON

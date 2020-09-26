@@ -8,3 +8,5 @@ AMD EPYC Eight-Core 7261 2.5GHz box
 https://4.grgs.ro/images/products/1/1427502/1736616/thumbnails/epyc-eight-core-7261-25ghz-box-17b2e99fdba9ef906987e28e107820fd.jpg
     Pret    
 9/21/2020 12:04:17 AM 3.648,28 RON
+9/25/2020 2:24:50 PM 3.729,39 RON
+9/26/2020 4:45:50 PM 3.728,59 RON

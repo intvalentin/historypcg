@@ -1,0 +1,10 @@
+    Cod    
+2089898
+    Product link    
+https://www.pcgarage.ro/ssd/corsair/mp400-1tb-pci-express-30-x4-m2-2280/
+    Name    
+Corsair MP400 1TB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://3.grgs.ro/images/products/1/7008/2089898/thumbnails/corsair-mp400-1tb-nvme-pcie-m2-ssd-387302c0ea0a5ba5e8a1781c74f343cb.jpg
+    Pret    
+9/25/2020 9:54:26 PM 681,86 RON

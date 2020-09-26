@@ -8,3 +8,5 @@ Lenovo ThinkSystem SR635, Rack 1U, AMD Epyc 7232P 3.1GHz, 32GB DDR4 2Rx4, no HDD
 https://3.grgs.ro/images/products/1/9002/2027334/thumbnails/thinksystem-sr635-rack-1u-amd-epyc-7232p-31ghz-32gb-ddr4-2rx4-no-hdd-raid-930-8i-2gb-flash-pcie-12gb-44530c94e32f3efd48566f5ed591a7e6.jpg
     Pret    
 9/21/2020 12:03:56 AM 13.141,54 RON
+9/25/2020 2:21:09 PM 13.179,41 RON
+9/26/2020 4:42:05 PM 13.186,98 RON

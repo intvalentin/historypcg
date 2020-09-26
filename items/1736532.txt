@@ -8,3 +8,5 @@ AMD EPYC Thirty-two-Core 7551 2GHz box
 https://3.grgs.ro/images/products/1/1427502/1736532/thumbnails/epyc-thirty-two-core-7551-2ghz-box-991a680e39e6a2e3100527c0beb8139e.jpg
     Pret    
 9/21/2020 12:04:17 AM 19.387,65 RON
+9/25/2020 2:24:50 PM 19.818,73 RON
+9/26/2020 4:45:50 PM 19.814,47 RON

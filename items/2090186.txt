@@ -1,0 +1,10 @@
+    Cod    
+2090186
+    Product link    
+https://www.pcgarage.ro/routere/zyxel/gigabit-atp100/
+    Name    
+ZyXEL Gigabit ATP100
+    Img url    
+https://5.grgs.ro/images/products/1/8441/2090186/thumbnails/gigabit-atp100-578b758ea428901bd337f0851ba19ad6.jpg
+    Pret    
+9/26/2020 2:56:09 PM 3.273,01 RON

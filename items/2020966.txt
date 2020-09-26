@@ -8,3 +8,4 @@ Bachmann PDU 802.7501 16x C13 + 4x C19 + 2x LS
 https://3.grgs.ro/images/products/1/8491/2020966/thumbnails/pdu-8027501-16x-c13-plus-4x-c19-plus-2x-ls-5227e55261037524eeb546c2ce9ecbf1.jpg
     Pret    
 9/21/2020 1:00:24 PM 8.393,98 RON
+9/26/2020 9:42:02 AM 8.393,98 RON

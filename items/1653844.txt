@@ -1,0 +1,11 @@
+    Cod    
+1653844
+    Product link    
+https://www.pcgarage.ro/procesoare-server/intel/xeon-gold-5122-36ghz-box/
+    Name    
+Intel Xeon Gold 5122 3.6GHz box
+    Img url    
+https://2.grgs.ro/images/products/1/1649828/1653844/thumbnails/xeon-gold-6128-34ghz-box-51096b3af6053dd0a0a6049107fa977a.jpg
+    Pret    
+9/25/2020 2:25:33 PM 7.558,04 RON
+9/26/2020 4:46:35 PM 7.556,41 RON

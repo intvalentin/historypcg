@@ -8,3 +8,5 @@ Supermicro SuperServer 6017R-TDAF, rack 1U, socket 2011, 8x DDR3 DIMM, 4x HDD 3.
 https://5.grgs.ro/images/products/1/959008/1082679/thumbnails/superserver-6017r-tdaf-rack-1u-socket-2011-8x-ddr3-dimm-4x-hdd-35-inch-hot-plug-e80540ca7ffe3f9712b9e892a9cf21ee.jpg
     Pret    
 9/21/2020 12:04:01 AM 4.928,82 RON
+9/25/2020 2:23:23 PM 4.995,82 RON
+9/26/2020 4:44:20 PM 5.038,41 RON

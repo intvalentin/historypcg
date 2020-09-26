@@ -8,3 +8,5 @@ Supermicro SuperServer 6028R-TR, rack 2U, socket 2011-3, 16x DDR4 DIMM, 8x HDD 3
 https://3.grgs.ro/images/products/1/853128/967742/thumbnails/superserver-6028r-tr-rack-2u-socket-2011-3-16x-ddr4-dimm-8x-hdd-35-inch-hot-plug-199a161a13605aeaa35af5b49d5033e0.jpg
     Pret    
 9/21/2020 12:04:01 AM 6.001,46 RON
+9/25/2020 2:24:07 PM 6.083,05 RON
+9/26/2020 4:45:04 PM 6.134,90 RON

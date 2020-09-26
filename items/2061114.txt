@@ -1,0 +1,10 @@
+    Cod    
+2061114
+    Product link    
+https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i5-10600kf-41ghz-tray/
+    Name    
+Intel Comet Lake, Core i5 10600KF 4.1GHz tray
+    Img url    
+https://3.grgs.ro/images/products/1/6954/2061114/thumbnails/comet-lake-core-i5-10600kf-41ghz-tray-2571828cbe2a518db11a88658de8220a.jpg
+    Pret    
+9/25/2020 7:47:20 PM 1.220,99 RON
