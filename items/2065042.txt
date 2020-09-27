@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53011AHM
 2065042
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/14-matebook-d-14-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-256gb-ssd-radeon-vega-8-win-10-home-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8491/2065042/thumbnails/14-matebook-d-14-fhd
 9/20/2020 10:57:05 PM 2.998,99 RON
 9/23/2020 12:56:24 PM 2.998,99 RON
 9/25/2020 6:39:48 PM 2.998,99 RON
+9/27/2020 9:18:53 AM 2.998,99 RON

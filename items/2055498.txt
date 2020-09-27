@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YQ004VRM
 2055498
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-ideapad-5-15are05-fhd-procesor-amd-ryzen-3-4300u-4m-cache-up-to-37-ghz-8gb-ddr4-256gb-ssd-radeon-no-os-platinum-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2055498/thumbnails/156-ideapad-5-15are0
 9/20/2020 10:57:01 PM 2.399,00 RON
 9/23/2020 12:58:27 PM 2.399,00 RON
 9/25/2020 6:46:17 PM 2.399,00 RON
+9/27/2020 11:06:16 AM 2.399,00 RON

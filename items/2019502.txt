@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6XD74EA
 2019502
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elitebook-830-g6-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2019502/thumbnails/mwl_i5_8-860facac
 9/20/2020 10:57:55 PM 5.265,35 RON
 9/23/2020 1:25:06 PM 5.265,46 RON
 9/25/2020 6:47:47 PM 5.280,53 RON
+9/27/2020 12:19:02 PM 5.283,56 RON

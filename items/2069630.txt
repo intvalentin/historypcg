@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20SL00JURM
 2069630
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkbook-14-iil-fhd-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-16gb-ddr4-512gb-ssd-intel-iris-plus-no-os-mineral-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/2069630/thumbnails/14-thinkbook-14-i
 9/20/2020 10:58:46 PM 3.398,99 RON
 9/23/2020 1:41:39 PM 3.398,99 RON
 9/25/2020 6:54:26 PM 3.398,99 RON
+9/27/2020 1:23:47 PM 3.398,99 RON

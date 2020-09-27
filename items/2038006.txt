@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20SM0041RM
 2038006
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkbook-15-iil-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-no-os-mineral-gray/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/2038006/thumbnails/156-thinkbook-15-
 9/20/2020 10:58:35 PM 3.598,00 RON
 9/23/2020 1:53:56 PM 3.598,00 RON
 9/25/2020 6:58:57 PM 3.598,00 RON
+9/27/2020 4:07:08 PM 3.598,00 RON

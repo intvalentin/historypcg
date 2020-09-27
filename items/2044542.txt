@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DXPS7590FI79750H16GB1TB4GW3Y-05, DXPS7590I7161NWP, XPS7590I71611650WP
 2044542
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/156-xps-15-7590-fhd-ips-infinityedge-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1650-4gb-fingerprint-reader-win-10-pro-silver-3yr-on-site/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/2044542/thumbnails/mwl_i7_9-87c4ca7c564
 9/20/2020 10:57:30 PM 10.330,52 RON
 9/23/2020 1:10:43 PM 10.330,74 RON
 9/25/2020 6:43:22 PM 11.406,97 RON
+9/27/2020 10:33:15 AM 11.413,53 RON

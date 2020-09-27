@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS9300TI7161WPRO
 2014962
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/134-xps-13-9300-fhd-plus-touch-infinityedge-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4x-1tb-ssd-intel-iris-plus-win-10-pro-silver-3yr-bos/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2014962/thumbnails/mwl_i7_10-325024d
 9/20/2020 10:58:10 PM 12.035,89 RON
 9/23/2020 1:27:11 PM 12.032,91 RON
 9/25/2020 6:48:31 PM 12.067,34 RON
+9/27/2020 12:21:56 PM 12.074,27 RON

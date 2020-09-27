@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81EU00HERM
 1774196
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-530s-ikb-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-512gb-ssd-geforce-mx150-2gb-fingerprint-reader-freedos-liquid-blue-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1703884/1774196/thumbnails/mwl_i7_8-705980a6
 9/20/2020 10:57:42 PM 4.099,00 RON
 9/23/2020 1:35:28 PM 4.099,00 RON
 9/25/2020 6:52:14 PM 4.099,00 RON
+9/27/2020 12:52:51 PM 4.099,00 RON

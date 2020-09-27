@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81NF001JRM
 1973218
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-s540-iml-fhd-ips-procesor-intel-core-i5-10210u-processor-6m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-abyss-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1973218/thumbnails/mwl_i5_10-d242a04b70
 9/20/2020 10:57:46 PM 3.192,75 RON
 9/23/2020 1:29:15 PM 3.192,81 RON
 9/25/2020 6:50:00 PM 3.201,95 RON
+9/27/2020 12:36:04 PM 3.203,79 RON

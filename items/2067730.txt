@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YM005ARM
 2067730
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14are05-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-16gb-ddr4-256gb-ssd-radeon-no-os-graphite-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2067730/thumbnails/14-ideapad-5-14are05
 9/20/2020 10:57:34 PM 3.098,99 RON
 9/23/2020 1:18:55 PM 3.098,99 RON
 9/25/2020 6:42:39 PM 3.098,99 RON
+9/27/2020 10:23:53 AM 3.098,99 RON

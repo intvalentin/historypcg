@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NH.Q59EX.04R
 2069106
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/gaming-156-nitro-5-an515-54-fhd-ips-120hz-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1650-4gb-linux-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1960570/2069106/thumbnails/mwl_i5_9-6b5dab57
 9/20/2020 10:58:19 PM 3.298,99 RON
 9/23/2020 1:41:39 PM 3.298,99 RON
 9/25/2020 6:54:26 PM 3.298,99 RON
+9/27/2020 1:25:37 PM 3.298,99 RON

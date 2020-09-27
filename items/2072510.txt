@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20T00044RI
 2072510
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14s-gen-1-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2072510/thumbnails/14-thinkpad-t14s-gen
 9/20/2020 10:59:29 PM 7.369,00 RON
 9/23/2020 2:10:18 PM 7.369,00 RON
 9/25/2020 7:03:27 PM 7.369,00 RON
+9/27/2020 5:13:46 PM 7.369,00 RON

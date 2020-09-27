@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8RR48EA
 2001190
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-13-aw0001nq-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-natural-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/2001190/thumbnails/mwl_i7_10-67c7ab5
 9/20/2020 10:57:26 PM 6.962,44 RON
 9/23/2020 1:16:52 PM 6.962,44 RON
 9/25/2020 6:44:49 PM 6.962,44 RON
+9/27/2020 10:45:34 AM 6.962,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T333EA
 2050690
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-13-aw0032nn-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-home-poseidon-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2050690/thumbnails/133-spectre-x360-13-
 9/20/2020 10:57:22 PM 6.568,87 RON
 9/23/2020 1:10:43 PM 6.567,25 RON
 9/25/2020 6:43:22 PM 6.586,02 RON
+9/27/2020 10:31:22 AM 6.589,81 RON

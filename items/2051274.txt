@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |14B84EA
 2051274
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dc1064nq-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2070-8gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1953966/2051274/thumbnails/mwl_i7_9-5c83f9b7
 9/20/2020 10:58:46 PM 7.998,99 RON
 9/23/2020 1:51:53 PM 7.998,99 RON
 9/25/2020 6:58:11 PM 7.998,99 RON
+9/27/2020 3:56:45 PM 7.998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G512LU-AL001
 2065450
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-g15-g512lu-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-no-os-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2065450/thumbnails/gaming-156-rog-st
 9/20/2020 10:58:53 PM 5.798,99 RON
 9/23/2020 1:43:42 PM 5.798,99 RON
 9/25/2020 6:55:12 PM 5.798,99 RON
+9/27/2020 1:57:32 PM 5.798,99 RON

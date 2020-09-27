@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Y4006JRM
 2057106
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-ideapad-3-15imh05-fhd-ips-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-chameleon-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057106/thumbnails/gaming-156-ideapad-3
 9/20/2020 10:58:35 PM 4.298,99 RON
 9/23/2020 1:47:47 PM 4.298,99 RON
 9/25/2020 6:56:42 PM 4.298,99 RON
+9/27/2020 3:49:14 PM 4.298,99 RON

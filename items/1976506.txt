@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3590I5825611650U, DIG33590I582561N4U, DG33590FI59300H8GB256GB1T4GU3Y-05
 1976506
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g3-3590-fhd-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-1tb-plus-256gb-ssd-geforce-gtx-1650-4gb-linux-black-3yr-cis/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1976506/thumbnails/mwl_i5_9-9d8ba892c6a
 9/20/2020 10:58:29 PM 3.998,99 RON
 9/23/2020 2:00:08 PM 3.998,99 RON
 9/25/2020 7:01:13 PM 3.998,99 RON
+9/27/2020 4:25:12 PM 3.998,99 RON

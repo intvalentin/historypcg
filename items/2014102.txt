@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6XD57EA
 2014102
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/156-elitebook-850-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-silver-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9943/2014102/thumbnails/mwl_i7_8-cf4aa7a28f9
 9/20/2020 10:57:22 PM 6.797,12 RON
 9/23/2020 1:14:48 PM 5.889,14 RON
 9/25/2020 6:48:31 PM 5.905,99 RON
+9/27/2020 12:23:00 PM 5.909,39 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MJ48EA
 2020842
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elitebook-735-g6-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-16gb-ddr4-512gb-ssd-radeon-vega-8-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8491/2020842/thumbnails/133-elitebook-735-g6
 9/20/2020 10:57:59 PM 5.580,10 RON
 9/23/2020 1:25:06 PM 5.580,21 RON
 9/25/2020 6:47:46 PM 5.596,18 RON
+9/27/2020 12:18:14 PM 5.599,39 RON

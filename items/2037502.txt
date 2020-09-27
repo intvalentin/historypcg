@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YH001GRM
 2037502
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14iil05-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-1tb-ssd-geforce-mx350-2gb-no-os-platinum-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2037502/thumbnails/14-ideapad-5-14ii
 9/20/2020 10:57:01 PM 3.698,99 RON
 9/23/2020 1:00:29 PM 3.698,99 RON
 9/25/2020 6:40:30 PM 3.698,99 RON
+9/27/2020 9:44:42 AM 3.698,99 RON

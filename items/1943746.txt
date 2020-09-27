@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX581GV-H2001R
 1943746
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/156-zenbook-pro-duo-ux581gv-uhd-touch-procesor-intel-core-i9-9980hk-16m-cache-up-to-500-ghz-32gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-win-10-pro-celestial-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1943746/thumbnails/mwl_i9_9-75a3a8cd300
 9/20/2020 10:58:10 PM 16.281,41 RON
 9/23/2020 1:31:21 PM 16.281,75 RON
 9/25/2020 6:50:45 PM 16.328,33 RON
+9/27/2020 12:41:35 PM 16.337,71 RON

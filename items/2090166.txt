@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |C436FA-E10275
 2090166
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-chromebook-flip-c436fa-fhd-touch-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-128gb-ssd-gma-uhd-chrome-os-aerogel-white/
@@ -8,3 +8,4 @@ ASUS 14&#039;&#039; Chromebook Flip C436FA, FHD Touch, Procesor Intel® Core™ 
 https://2.grgs.ro/images/products/1/8441/2090166/thumbnails/14-chromebook-flip-c436fa-fhd-touch-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-128gb-ssd-gma-uhd-chrome-os-aerogel-white-ab0508c301882b5ab1d4c51504f4a4c8.jpg
     Pret    
 9/25/2020 6:41:12 PM 5.599,62 RON
+9/27/2020 10:15:17 AM 5.602,84 RON

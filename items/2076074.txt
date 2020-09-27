@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PLR31E-0N100FG6
 2076074
     Product link    
 https://www.pcgarage.ro/ultrabook/toshiba/dynabook-156-tecra-x50-f-150-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-4g-lte-win-10-pro-onyx-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2076074/thumbnails/dynabook-156-tecra-x
 9/20/2020 10:57:30 PM 8.759,01 RON
 9/23/2020 1:06:35 PM 8.759,18 RON
 9/25/2020 6:45:33 PM 8.784,24 RON
+9/27/2020 10:19:20 AM 8.789,30 RON

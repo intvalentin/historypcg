@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K5R7EA
 2066882
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-pavilion-13-an1014nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3049/2066882/thumbnails/mwl_i7_10-4070f88df0
 9/20/2020 10:57:18 PM 4.883,91 RON
 9/23/2020 1:08:40 PM 4.883,88 RON
 9/25/2020 6:42:39 PM 4.883,86 RON
+9/27/2020 10:24:57 AM 4.883,86 RON

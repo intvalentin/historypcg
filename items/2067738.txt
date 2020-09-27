@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YQ004YRM
 2067738
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-ideapad-5-15are05-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-16gb-ddr4-512gb-ssd-radeon-no-os-light-teal/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2067738/thumbnails/156-ideapad-5-15are0
 9/20/2020 10:57:34 PM 3.398,99 RON
 9/23/2020 1:18:55 PM 3.398,99 RON
 9/25/2020 6:45:33 PM 3.398,99 RON
+9/27/2020 10:52:02 AM 3.398,99 RON

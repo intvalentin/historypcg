@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX433FN-A5070
 1855754
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-ux433fn-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-512gb-ssd-geforce-mx150-2gb-endless-os-icicle-silver-metal/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4338/1855754/thumbnails/mwl_i7_8-83565ffdfd7
 9/20/2020 10:57:55 PM 5.001,52 RON
 9/23/2020 1:33:24 PM 5.001,52 RON
 9/25/2020 6:50:45 PM 5.001,52 RON
+9/27/2020 12:44:46 PM 5.001,52 RON

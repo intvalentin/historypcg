@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1WR91EA
 1604958
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-envy-13-ad004nn-fhd-ips-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-8gb-256gb-ssd-gma-hd-620-win-10-home-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1541210/1604958/thumbnails/mwl_i5_7-2ab8d76a
 9/20/2020 10:57:55 PM 5.258,05 RON
 9/23/2020 1:37:32 PM 5.258,92 RON
 9/25/2020 6:52:58 PM 5.276,24 RON
+9/27/2020 1:01:07 PM 5.276,24 RON

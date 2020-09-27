@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6XE86EA
 2025542
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/14-elitebook-745-g6-fhd-touch-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-16gb-ddr4-512gb-ssd-radeon-vega-8-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2025542/thumbnails/14-elitebook-745-g6-
 9/20/2020 10:57:22 PM 5.999,00 RON
 9/23/2020 1:12:46 PM 5.999,00 RON
 9/25/2020 6:44:04 PM 5.999,00 RON
+9/27/2020 10:37:47 AM 5.999,00 RON

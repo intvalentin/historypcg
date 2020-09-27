@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX530UQ-FY031R
 1496026
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/156-zenbook-ux530uq-fhd-procesor-intel-core-i7-7500u-4m-cache-up-to-350-ghz-8gb-ddr4-512gb-ssd-geforce-940mx-2gb-win-10-pro-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1363661/1496026/thumbnails/mwl_i7_7-52dc4a09
 9/20/2020 10:57:59 PM 5.599,00 RON
 9/23/2020 1:37:32 PM 5.599,00 RON
 9/25/2020 6:52:58 PM 5.599,00 RON
+9/27/2020 1:01:56 PM 5.599,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T295EA
 2066990
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-envy-x360-13-ay0007nn-fhd-ips-touch-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-8gb-ddr4-512gb-ssd-radeon-win-10-home-nightfall-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2066990/thumbnails/133-envy-x360-13-ay0
 9/20/2020 10:57:22 PM 5.699,99 RON
 9/23/2020 1:08:40 PM 5.699,99 RON
 9/25/2020 6:42:39 PM 5.699,99 RON
+9/27/2020 10:24:09 AM 5.699,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1L0D9EA
 2085646
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-pavilion-17-cd1003nq-fhd-ips-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2085646/thumbnails/gaming-173-pavili
 9/20/2020 10:59:24 PM 5.399,99 RON
 9/23/2020 2:04:14 PM 5.399,99 RON
 9/25/2020 7:02:43 PM 5.399,99 RON
+9/27/2020 5:08:09 PM 5.399,99 RON

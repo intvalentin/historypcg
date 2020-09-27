@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82A1009QRM
 2069938
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-slim-7-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4x-512gb-ssd-intel-iris-plus-win-10-home-slate-grey-aluminium/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2069938/thumbnails/14-yoga-slim-7-14iil
 9/20/2020 10:57:08 PM 5.098,99 RON
 9/23/2020 12:56:24 PM 5.098,99 RON
 9/25/2020 6:39:06 PM 5.098,99 RON
+9/27/2020 9:15:28 AM 5.098,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K9L7EA
 2062402
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-ec1030nq-fhd-procesor-amd-ryzen-7-4800h-8m-cache-up-to-420-ghz-16gb-ddr4-256gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2062402/thumbnails/gaming-156-pavilion-
 9/20/2020 10:58:29 PM 4.798,99 RON
 9/23/2020 1:45:45 PM 4.798,99 RON
 9/25/2020 6:55:58 PM 4.798,99 RON
+9/27/2020 3:33:12 PM 4.798,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8VU59EA
 2028554
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-1tb-plus-256gb-ssd-gma-uhd-win-10-pro-silver-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2028554/thumbnails/mwl_i5_10-687a9d765b
 9/20/2020 10:58:50 PM 3.998,99 RON
 9/23/2020 1:56:00 PM 3.998,99 RON
 9/25/2020 6:59:41 PM 3.998,99 RON
+9/27/2020 4:11:05 PM 3.998,99 RON

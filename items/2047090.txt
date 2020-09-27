@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX534FTC-AA340T
 2047090
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/156-zenbook-15-ux534ftc-uhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-1tb-ssd-geforce-gtx-1650-4gb-win-10-home-royal-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/2047090/thumbnails/mwl_i7_10-f20ad36952
 9/20/2020 10:57:42 PM 7.499,00 RON
 9/23/2020 1:20:59 PM 7.499,00 RON
 9/25/2020 6:47:02 PM 7.499,00 RON
+9/27/2020 11:08:50 AM 7.499,00 RON

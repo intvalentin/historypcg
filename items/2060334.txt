@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T312EA
 2060334
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-envy-13-ba0005nq-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2060334/thumbnails/133-envy-13-ba0005nq
 9/20/2020 10:57:18 PM 5.247,28 RON
 9/23/2020 1:08:40 PM 5.247,28 RON
 9/25/2020 6:42:39 PM 5.246,96 RON
+9/27/2020 10:27:22 AM 5.246,96 RON

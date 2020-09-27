@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81WD0016RM
 2057554
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-3-14iil05-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-1tb-ssd-gma-uhd-no-os-cherry-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2057554/thumbnails/14-ideapad-3-14ii
 9/20/2020 10:57:08 PM 2.998,99 RON
 9/23/2020 12:58:27 PM 2.998,99 RON
 9/25/2020 6:39:48 PM 2.998,99 RON
+9/27/2020 9:39:17 AM 2.998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G532LV-AZ042
 2048262
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-scar-15-g532lv-fhd-240hz-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-free-dos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2048262/thumbnails/gaming-156-rog-st
 9/20/2020 10:58:53 PM 7.498,99 RON
 9/23/2020 1:51:53 PM 7.498,99 RON
 9/25/2020 6:58:11 PM 7.498,99 RON
+9/27/2020 4:01:13 PM 7.498,99 RON

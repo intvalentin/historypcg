@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8VU44EA
 2039898
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-geforce-mx130-2gb-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2013982/2039898/thumbnails/mwl_i5_10-5a4550a
 9/20/2020 10:58:50 PM 4.377,92 RON
 9/23/2020 1:53:56 PM 4.198,99 RON
 9/25/2020 6:58:57 PM 4.198,99 RON
+9/27/2020 4:05:04 PM 4.198,99 RON

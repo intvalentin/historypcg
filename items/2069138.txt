@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N5021PVN3591EMEA03_2101_UBU-05
 2069138
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3591-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-linux-3yr-bos-no-odd-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2069138/thumbnails/156-vostro-3591-seri
 9/20/2020 10:58:35 PM 3.198,99 RON
 9/23/2020 1:41:39 PM 3.198,99 RON
 9/25/2020 6:54:26 PM 3.198,99 RON
+9/27/2020 1:24:28 PM 3.198,99 RON

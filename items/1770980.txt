@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81EK009URM
 1770980
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-530-ikb-fhd-ips-touch-procesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-home-liquid-blue-active-pen/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5015/1770980/thumbnails/mwl_i5_8-9cbef174a4a
 9/20/2020 10:57:55 PM 4.620,91 RON
 9/23/2020 1:35:28 PM 4.621,66 RON
 9/25/2020 6:52:14 PM 4.634,21 RON
+9/27/2020 12:54:09 PM 4.636,87 RON

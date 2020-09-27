@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UM433DA-A5002T
 1977990
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um433da-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-win-10-home-icicle-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1977990/thumbnails/14-zenbook-14-um433d
 9/20/2020 10:57:01 PM 3.598,99 RON
 9/23/2020 1:02:31 PM 3.598,99 RON
 9/25/2020 6:41:12 PM 3.598,99 RON
+9/27/2020 10:46:56 AM 3.598,99 RON

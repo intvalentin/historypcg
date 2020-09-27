@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RA0012RI
 2085150
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-e14-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-1tb-plus-256gb-ssd-radeon-rx-640-2gb-win-10-pro-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/2085150/thumbnails/mwl_i5_10-edfe5e2
 9/20/2020 10:59:24 PM 5.699,99 RON
 9/23/2020 2:04:14 PM 5.699,99 RON
 9/25/2020 7:02:43 PM 5.699,99 RON
+9/27/2020 5:09:29 PM 5.699,99 RON

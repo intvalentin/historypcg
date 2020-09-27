@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-14DK11-051
 2061262
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/14-modern-14-b4mw-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-16gb-ddr4-512gb-ssd-radeon-free-dos-onyx-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2061262/thumbnails/14-modern-14-b4mw-fh
 9/20/2020 10:58:19 PM 3.598,99 RON
 9/23/2020 1:45:45 PM 3.598,99 RON
 9/25/2020 6:55:58 PM 3.598,99 RON
+9/27/2020 3:34:52 PM 3.598,99 RON

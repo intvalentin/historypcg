@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N4106VN5490EMEA01_2005_UBU-05, N4106VN5490EMEA_U
 2011706
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-vostro-5490-seria-5000-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-urban-gray-3yr-bos/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8078/2011706/thumbnails/mwl_i5_10-3c538fe112
 9/20/2020 10:58:35 PM 3.398,99 RON
 9/23/2020 1:58:03 PM 3.398,99 RON
 9/25/2020 7:00:26 PM 3.398,99 RON
+9/27/2020 4:16:29 PM 3.398,99 RON

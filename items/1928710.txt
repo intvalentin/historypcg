@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G731GT-AU004
 1928710
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-g731gt-fhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1928710/thumbnails/mwl_i7_9-cd38de26d4f
 9/20/2020 10:58:13 PM 4.098,99 RON
 9/23/2020 2:02:10 PM 4.098,99 RON
 9/25/2020 7:01:57 PM 4.098,99 RON
+9/27/2020 4:29:05 PM 4.098,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Q90040RM
 1973926
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-c940-fhd-ips-touch-procesor-intel-core-i7-1065g7-processor-8m-cache-up-to-390-ghz-12gb-ddr4-512gb-ssd-plus-32gb-optane-intel-iris-plus-win-10-home-mica/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1973926/thumbnails/mwl_i7_10-ffe24f60f2
 9/20/2020 10:58:06 PM 7.489,64 RON
 9/23/2020 1:29:15 PM 7.489,79 RON
 9/25/2020 6:50:00 PM 7.511,22 RON
+9/27/2020 12:35:28 PM 7.515,54 RON

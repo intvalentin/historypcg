@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20QD0039RI
 2004714
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-thinkpad-x1-carbon-7th-gen-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-512gb-ssd-gma-uhd-620-4g-lte-fingerprint-reader-win-10-pro-black-paint-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/2004714/thumbnails/14-thinkpad-x1-carbo
 9/20/2020 10:57:11 PM 7.998,99 RON
 9/23/2020 1:02:31 PM 7.998,99 RON
 9/25/2020 6:44:49 PM 7.998,99 RON
+9/27/2020 10:45:18 AM 7.998,99 RON

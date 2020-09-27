@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9QX80EA
 1987374
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-db1038nq-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-rx-vega-10-freedos-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1987374/thumbnails/156-15-db1012nq-fhd-
 9/20/2020 10:58:26 PM 2.598,99 RON
 9/23/2020 2:00:08 PM 2.598,99 RON
 9/25/2020 7:01:13 PM 2.698,99 RON
+9/27/2020 4:24:20 PM 2.698,99 RON

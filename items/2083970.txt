@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UM425IA-AM042R
 2083970
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um425ia-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-16gb-ddr4-1tb-ssd-radeon-win-10-pro-pine-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2083970/thumbnails/14-zenbook-14-um425i
 9/20/2020 10:57:22 PM 6.099,99 RON
 9/23/2020 1:06:35 PM 6.099,99 RON
 9/25/2020 6:41:56 PM 6.099,99 RON
+9/27/2020 10:18:32 AM 6.099,99 RON

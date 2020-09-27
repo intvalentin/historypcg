@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81J0004PRM
 1767384
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-yoga-s730-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-512gb-ssd-gma-uhd-620-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1767384/thumbnails/mwl_i7_8-6348b501
 9/20/2020 10:57:59 PM 5.957,07 RON
 9/23/2020 1:35:28 PM 5.958,05 RON
 9/25/2020 6:52:14 PM 5.974,23 RON
+9/27/2020 12:55:46 PM 5.977,66 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81C4006GRM
 1803552
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/139-quot-yoga-c930-uhd-ips-touch-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-2tb-ssd-gma-uhd-620-win-10-home-mica/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1803552/thumbnails/mwl_i7_8-8d2dd735
 9/20/2020 10:58:10 PM 12.305,39 RON
 9/23/2020 1:33:24 PM 12.305,64 RON
 9/25/2020 6:51:29 PM 12.340,85 RON
+9/27/2020 12:49:18 PM 12.347,94 RON

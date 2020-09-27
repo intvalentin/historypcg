@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T341EA
 2030422
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-poseidon-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2030422/thumbnails/133-spectre-x360-fhd
 9/20/2020 10:58:06 PM 8.199,00 RON
 9/23/2020 1:25:06 PM 8.199,00 RON
 9/25/2020 6:47:46 PM 8.199,00 RON
+9/27/2020 12:16:53 PM 8.199,00 RON

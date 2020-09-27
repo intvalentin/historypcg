@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UM431DA-AM029T
 2014714
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um431da-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-16gb-ddr4-512gb-ssd-radeon-rx-vega-10-win-10-home-utopia-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/2014714/thumbnails/14-zenbook-14-um431d
 9/20/2020 10:57:01 PM 3.998,99 RON
 9/23/2020 1:02:31 PM 3.998,99 RON
 9/25/2020 6:41:12 PM 3.998,99 RON
+9/27/2020 10:11:49 AM 3.998,99 RON

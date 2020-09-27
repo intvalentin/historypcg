@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DXPS7590I58256NWP
 2044554
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/156-xps-15-7590-fhd-ips-infinityedge-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1650-4gb-fingerprint-reader-win-10-pro-silver-3yr-on-site/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/2044554/thumbnails/156-xps-15-7590-fhd-
 9/20/2020 10:57:26 PM 7.515,92 RON
 9/23/2020 1:10:43 PM 7.516,07 RON
 9/25/2020 6:43:22 PM 7.537,58 RON
+9/27/2020 10:32:59 AM 7.541,92 RON

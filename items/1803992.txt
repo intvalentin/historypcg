@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81J7004BRM
 1803992
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-ideapad-s530-fhd-ips-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-512gb-ssd-gma-uhd-620-freedos-liquid-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1803992/thumbnails/mwl_i5_8-aee73bd1573
 9/20/2020 10:57:46 PM 3.099,00 RON
 9/23/2020 1:33:24 PM 3.099,00 RON
 9/25/2020 6:51:29 PM 3.099,00 RON
+9/27/2020 12:48:46 PM 3.099,00 RON

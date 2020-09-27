@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8PU54EA
 1970514
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-ec0004nq-fhd-procesor-amd-ryzen-5-3550h-4m-cache-up-to-370-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-freedos-shadow-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1970514/thumbnails/gaming-156-pavili
 9/20/2020 10:58:26 PM 3.798,99 RON
 9/23/2020 2:02:10 PM 3.798,99 RON
 9/25/2020 7:01:13 PM 3.798,99 RON
+9/27/2020 4:26:40 PM 3.798,99 RON

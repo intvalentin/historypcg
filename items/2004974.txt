@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8ML20EA
 2004974
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elite-dragonfly-fhd-ips-touch-procesor-intel-core-i5-8365u-6m-cache-up-to-410-ghz-8gb-512gb-ssd-gma-uhd-620-win-10-pro-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1979534/2004974/thumbnails/mwl_i5_8-e832bb65
 9/20/2020 10:57:26 PM 7.555,83 RON
 9/23/2020 1:14:49 PM 7.850,12 RON
 9/25/2020 6:44:49 PM 7.872,58 RON
+9/27/2020 12:25:58 PM 7.877,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NH.Q50EX.01E
 1976574
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/gaming-156-predator-triton-500-pt515-51-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-win-10-home-abyssal-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1976574/thumbnails/mwl_i7_9-7aa070aa554
 9/20/2020 10:58:29 PM 7.398,99 RON
 9/23/2020 2:00:08 PM 7.398,99 RON
 9/25/2020 7:01:13 PM 7.398,99 RON
+9/27/2020 4:24:53 PM 7.398,99 RON

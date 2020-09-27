@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20U70006RI
 2058302
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-l15-gen-1-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-16gb-ddr4-512gb-ssd-radeon-win-10-pro-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058302/thumbnails/156-thinkpad-l15-gen
 9/20/2020 11:01:13 PM 4.799,00 RON
 9/23/2020 1:47:47 PM 4.799,00 RON
 9/25/2020 6:56:42 PM 4.799,00 RON
+9/27/2020 3:47:57 PM 4.799,00 RON

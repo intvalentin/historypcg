@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82A2001TRM
 2066318
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-slim-7-14are05-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-16gb-ddr4x-512gb-ssd-radeon-win-10-home-orchid/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2066318/thumbnails/14-yoga-slim-7-14are
 9/20/2020 10:57:05 PM 4.298,99 RON
 9/23/2020 12:56:24 PM 4.298,99 RON
 9/25/2020 6:39:06 PM 4.298,99 RON
+9/27/2020 9:16:50 AM 4.298,99 RON

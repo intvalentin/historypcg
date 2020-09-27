@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VDH-00003
 2033702
     Product link    
 https://www.pcgarage.ro/ultrabook/microsoft/123-surface-pro-7-pixelsense-touch-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-4gb-ddr4x-128gb-ssd-gma-uhd-win-10-home-platinum/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033702/thumbnails/123-surface-pro-7-pi
 9/20/2020 10:57:51 PM 4.399,00 RON
 9/23/2020 1:23:03 PM 4.399,00 RON
 9/25/2020 6:47:46 PM 4.399,00 RON
+9/27/2020 12:14:44 PM 4.399,00 RON

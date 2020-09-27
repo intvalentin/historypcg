@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MH21EA
 2014690
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2013982/2014690/thumbnails/mwl_i5_10-af139da
 9/20/2020 10:58:29 PM 3.398,99 RON
 9/23/2020 1:58:03 PM 3.398,99 RON
 9/25/2020 7:00:26 PM 3.398,99 RON
+9/27/2020 4:14:42 PM 3.398,99 RON

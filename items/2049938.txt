@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82AW003TRM
 2049938
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-5p-15imh05h-fhd-ips-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1660-ti-6gb-no-os-iron-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2049938/thumbnails/gaming-156-legion
 9/20/2020 10:58:35 PM 6.198,99 RON
 9/23/2020 1:51:53 PM 6.198,99 RON
 9/25/2020 6:58:11 PM 6.198,99 RON
+9/27/2020 3:58:57 PM 6.198,99 RON

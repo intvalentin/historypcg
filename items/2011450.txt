@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6UK15EA
 2011450
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5147/2011450/thumbnails/mwl_i7_8-b85798d3d2d
 9/20/2020 10:58:39 PM 3.798,99 RON
 9/23/2020 1:58:03 PM 3.798,99 RON
 9/25/2020 7:00:26 PM 3.798,99 RON
+9/27/2020 4:17:46 PM 3.798,99 RON

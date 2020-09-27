@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53011ALN
 2040666
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/13-matebook-13-2k-ips-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-512gb-ssd-radeon-vega-8-win-10-home-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2040666/thumbnails/13-matebook-13-2k
 9/20/2020 10:57:01 PM 3.498,99 RON
 9/23/2020 1:00:29 PM 3.498,99 RON
 9/25/2020 6:40:30 PM 3.498,99 RON
+9/27/2020 9:42:48 AM 3.498,99 RON

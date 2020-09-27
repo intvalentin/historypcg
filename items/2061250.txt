@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-17FK12-057
 2061250
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-173-bravo-17-a4ddr-fhd-144hz-procesor-amd-ryzen-7-4800h-8m-cache-up-to-42-ghz-8gb-ddr4-512gb-ssd-radeon-rx-5500m-4gb-free-dos-dark-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2061250/thumbnails/gaming-173-bravo-17-
 9/20/2020 10:58:29 PM 4.498,99 RON
 9/23/2020 1:45:45 PM 4.498,99 RON
 9/25/2020 6:55:58 PM 4.498,99 RON
+9/27/2020 3:35:09 PM 4.498,99 RON

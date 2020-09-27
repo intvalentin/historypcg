@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.HHUEX.009
 2023746
     Product link    
 https://www.pcgarage.ro/ultrabook/acer/14-swift-5-sf514-54t-fhd-ips-touch-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-home-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1261/2023746/thumbnails/mwl_i5_10-a203c695a7
 9/20/2020 10:57:18 PM 4.788,80 RON
 9/23/2020 1:25:06 PM 4.788,80 RON
 9/25/2020 6:44:04 PM 4.885,05 RON
+9/27/2020 10:38:03 AM 4.885,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81J0004KRM
 1767344
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-yoga-s730-fhd-ips-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-512gb-ssd-gma-uhd-620-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1767344/thumbnails/mwl_i5_8-08bf6a6d
 9/20/2020 10:57:51 PM 4.399,00 RON
 9/23/2020 1:37:32 PM 4.399,00 RON
 9/25/2020 6:52:14 PM 4.399,00 RON
+9/27/2020 12:57:02 PM 4.399,00 RON

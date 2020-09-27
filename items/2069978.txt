@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YM005MRM
 2069978
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14are05-fhd-procesor-amd-ryzen-7-4800u-8m-cache-up-to-42-ghz-16gb-ddr4-512gb-ssd-radeon-no-os-light-teal/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2069978/thumbnails/14-ideapad-5-14ar
 9/20/2020 10:57:02 PM 3.698,99 RON
 9/23/2020 12:56:24 PM 3.698,99 RON
 9/25/2020 6:39:06 PM 3.698,99 RON
+9/27/2020 9:13:51 AM 3.698,99 RON

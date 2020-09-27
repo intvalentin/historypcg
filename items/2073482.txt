@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-17F312-294
 2073482
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-173-gf75-thin-10sdr-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-dark-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/2073482/thumbnails/gaming-173-gf75-thin
 9/20/2020 10:58:32 PM 5.698,99 RON
 9/23/2020 1:39:36 PM 5.698,99 RON
 9/25/2020 6:53:43 PM 5.698,99 RON
+9/27/2020 1:09:31 PM 5.698,99 RON

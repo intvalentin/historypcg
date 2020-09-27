@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8PM80EA
 2001202
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-pavilion-15-cs3004nq-fhd-ips-procesor-intel-core-i7-1065g7-processor-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-4gb-free-dos-mineral-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/2001202/thumbnails/mwl_i7_10-56ccbd9843
 9/20/2020 10:58:32 PM 3.998,99 RON
 9/23/2020 1:58:03 PM 3.998,99 RON
 9/25/2020 7:00:26 PM 3.998,99 RON
+9/27/2020 4:19:14 PM 3.998,99 RON

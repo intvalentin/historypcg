@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6XD76EA
 2005170
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/14-elitebook-840-g6-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1261/2005170/thumbnails/mwl_i5_8-1e101a7367e
 9/20/2020 10:57:18 PM 5.420,02 RON
 9/23/2020 1:27:11 PM 5.239,23 RON
 9/25/2020 6:49:15 PM 5.254,22 RON
+9/27/2020 12:25:42 PM 5.257,24 RON

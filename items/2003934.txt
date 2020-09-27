@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010TLN
 2003934
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/139-matebook-x-pro-3k-ltps-touch-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-512gb-ssd-geforce-mx250-2gb-win-10-home-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8078/2003934/thumbnails/mwl_i5_8-2b630621b8c
 9/20/2020 10:57:05 PM 6.498,99 RON
 9/23/2020 1:02:31 PM 6.498,99 RON
 9/25/2020 6:41:12 PM 6.498,99 RON
+9/27/2020 10:12:37 AM 6.498,99 RON

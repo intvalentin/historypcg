@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VDX-00003
 2033694
     Product link    
 https://www.pcgarage.ro/ultrabook/microsoft/123-surface-pro-7-pixelsense-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4x-1tb-ssd-intel-iris-plus-win-10-home-platinum/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033694/thumbnails/123-surface-pro-7-pi
 9/20/2020 10:57:15 PM 13.340,35 RON
 9/23/2020 1:12:46 PM 13.340,35 RON
 9/25/2020 6:44:04 PM 13.392,77 RON
+9/27/2020 10:36:09 AM 13.392,77 RON

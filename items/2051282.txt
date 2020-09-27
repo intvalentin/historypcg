@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T366EA
 2051282
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-ec0049nq-fhd-procesor-amd-ryzen-7-3750h-4m-cache-up-to-40-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1979534/2051282/thumbnails/gaming-156-pavili
 9/20/2020 10:58:35 PM 5.098,99 RON
 9/23/2020 1:49:51 PM 5.098,99 RON
 9/25/2020 6:58:11 PM 5.098,99 RON
+9/27/2020 3:56:23 PM 5.098,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82A1001WRM
 2069966
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-slim-7-14iil05-fhd-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-16gb-ddr4x-1tb-ssd-intel-iris-plus-win-10-home-orchid-aluminium/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2069966/thumbnails/14-yoga-slim-7-14iil
 9/20/2020 10:57:05 PM 4.598,99 RON
 9/23/2020 12:56:24 PM 4.598,99 RON
 9/25/2020 6:39:06 PM 4.598,99 RON
+9/27/2020 9:14:23 AM 4.598,99 RON

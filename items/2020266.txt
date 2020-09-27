@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX433FAC-AI390T
 2020266
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-ux433fac-fhd-touch-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-1tb-ssd-gma-uhd-win-10-home-royal-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3442/2020266/thumbnails/mwl_i7_10-4d1172bc38
 9/20/2020 10:57:59 PM 5.699,00 RON
 9/23/2020 1:25:06 PM 5.699,00 RON
 9/25/2020 6:47:47 PM 5.699,00 RON
+9/27/2020 12:18:46 PM 5.699,00 RON

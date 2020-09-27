@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T439EA
 2040062
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-pavilion-17-cd0018nq-fhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/2040062/thumbnails/gaming-173-pavili
 9/20/2020 10:58:26 PM 4.998,99 RON
 9/23/2020 1:53:56 PM 4.998,99 RON
 9/25/2020 6:58:57 PM 4.998,99 RON
+9/27/2020 4:04:29 PM 4.998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS7390I716512WPRO, DXPS7390FI710710U16GB512GBW3Y-05
 2016578
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/133-new-xps-13-7390-fhd-infinityedge-procesor-intel-core-i7-10710u-12m-cache-up-to-470-ghz-16gb-512gb-ssd-gma-uhd-win-10-pro-silver-3yr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/2016578/thumbnails/mwl_i7_10-68f42f9978
 9/20/2020 10:57:11 PM 9.798,99 RON
 9/23/2020 1:25:06 PM 9.798,99 RON
 9/25/2020 6:48:31 PM 9.798,99 RON
+9/27/2020 12:20:22 PM 9.798,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS9300TI7322WP
 2058274
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/134-xps-13-9300-uhd-plus-touch-infinityedge-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-32gb-ddr4x-2tb-ssd-intel-iris-plus-win-10-pro-silver-3yr-bos/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2013982/2058274/thumbnails/mwl_i7_10-602e0e5
 9/20/2020 10:57:30 PM 14.066,55 RON
 9/23/2020 1:10:43 PM 14.063,08 RON
 9/25/2020 6:43:22 PM 14.103,30 RON
+9/27/2020 10:29:30 AM 14.111,41 RON

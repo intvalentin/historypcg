@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81X100A3RM
 2066250
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-flex-5-14iil05-fhd-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-graphite-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2066250/thumbnails/14-ideapad-flex-5
 9/20/2020 10:57:08 PM 4.698,99 RON
 9/23/2020 12:56:24 PM 4.698,99 RON
 9/25/2020 6:39:06 PM 4.698,99 RON
+9/27/2020 9:17:06 AM 4.698,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010UHU
 2040658
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/13-matebook-13-2k-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-512gb-ssd-gma-uhd-win-10-home-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1821372/2040658/thumbnails/13-matebook-13-2k
 9/20/2020 10:57:11 PM 3.798,99 RON
 9/23/2020 1:23:03 PM 3.798,99 RON
 9/25/2020 6:40:30 PM 3.798,99 RON
+9/27/2020 9:43:05 AM 3.798,99 RON

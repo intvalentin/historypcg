@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |S431FA-EB233
 2049634
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-vivobook-s14-s431fa-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-512gb-ssd-gma-uhd-free-dos-cobalt-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/2049634/thumbnails/14-vivobook-s14-s431
 9/20/2020 10:57:42 PM 3.754,94 RON
 9/23/2020 1:20:59 PM 3.754,94 RON
 9/25/2020 6:47:02 PM 3.754,94 RON
+9/27/2020 11:07:15 AM 3.754,94 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81NH0046RM
 1939362
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-s540-fhd-ips-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-rx-vega-10-win-10-home-copper/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/1939362/thumbnails/14-ideapad-s540-fhd-
 9/20/2020 10:57:42 PM 3.599,99 RON
 9/23/2020 1:31:21 PM 3.599,99 RON
 9/25/2020 6:50:45 PM 3.599,99 RON
+9/27/2020 12:42:08 PM 3.599,99 RON

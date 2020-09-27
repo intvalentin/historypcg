@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20U9003BRI
 2058194
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-thinkpad-x1-carbon-gen-8-uhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-512gb-ssd-gma-uhd-4g-lte-win-10-pro-black-weave/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058194/thumbnails/14-thinkpad-x1-carbo
 9/20/2020 10:58:10 PM 13.999,00 RON
 9/23/2020 1:20:59 PM 13.999,00 RON
 9/25/2020 6:43:22 PM 13.999,00 RON
+9/27/2020 10:29:47 AM 13.999,00 RON

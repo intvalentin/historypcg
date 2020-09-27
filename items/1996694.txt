@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RD003JRI
 1996694
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e15-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-no-os-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/1996694/thumbnails/mwl_i5_10-3bebc4a
 9/20/2020 10:58:14 PM 3.598,99 RON
 9/23/2020 2:00:08 PM 3.598,99 RON
 9/25/2020 7:00:26 PM 3.598,99 RON
+9/27/2020 4:20:44 PM 3.598,99 RON

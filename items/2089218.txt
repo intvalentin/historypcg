@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |204G9EA
 2089218
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/156-elitebook-855-g7-fhd-procesor-amd-ryzen-7-4700u-8m-cache-up-to-41-ghz-8gb-ddr4-256gb-ssd-radeon-win-10-pro-silver/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7008/2089218/thumbnails/156-elitebook-855-g7
     Pret    
 9/23/2020 1:02:31 PM 5.977,35 RON
 9/25/2020 6:45:33 PM 5.997,03 RON
+9/27/2020 10:15:33 AM 5.997,03 RON

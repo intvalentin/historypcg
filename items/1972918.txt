@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81J700CXRM
 1972918
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-ideapad-s530-fhd-ips-procesor-intel-core-i3-8145u-4m-cache-up-to-390-ghz-8gb-512gb-ssd-gma-uhd-620-no-os-onyx-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1972918/thumbnails/mwl_i3_8-6d9f3bdacfa9
 9/20/2020 10:57:46 PM 3.079,67 RON
 9/23/2020 1:31:21 PM 3.079,73 RON
 9/25/2020 6:50:00 PM 3.088,54 RON
+9/27/2020 12:37:36 PM 3.090,32 RON

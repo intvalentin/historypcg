@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS9300I78512WPRO, DXPS9300I78512WP
 2014954
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/134-xps-13-9300-fhd-plus-infinityedge-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4x-512gb-ssd-intel-iris-plus-win-10-pro-silver-3yr-bos/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2013982/2014954/thumbnails/mwl_i7_10-8565d2a
 9/20/2020 10:57:30 PM 9.711,93 RON
 9/23/2020 1:12:46 PM 9.809,92 RON
 9/25/2020 6:44:04 PM 9.739,92 RON
+9/27/2020 10:39:39 AM 9.745,52 RON

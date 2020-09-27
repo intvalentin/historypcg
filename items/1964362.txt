@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3793I78512MXUBU
 1964362
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/173-inspiron-3793-seria-3000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx230-2gb-linux-black-2yr-cis/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1960570/1964362/thumbnails/mwl_i7_10-5ae652b
 9/20/2020 10:58:23 PM 3.998,99 RON
 9/23/2020 2:02:10 PM 3.998,99 RON
 9/25/2020 7:01:13 PM 3.998,99 RON
+9/27/2020 4:27:03 PM 3.998,99 RON

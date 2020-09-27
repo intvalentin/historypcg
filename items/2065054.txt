@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YH00DARM
 2065054
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-intel-iris-plus-no-os-graphite-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2065054/thumbnails/14-ideapad-5-14iil05
 9/20/2020 10:57:05 PM 3.798,99 RON
 9/23/2020 12:56:24 PM 3.798,99 RON
 9/25/2020 6:39:06 PM 3.798,99 RON
+9/27/2020 9:17:38 AM 3.798,99 RON

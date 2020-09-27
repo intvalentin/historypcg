@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N5011VN3591EMEA, N5011VN3591EMEA01_2101_WIN10P-05
 2069118
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3591-seria-3000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx230-2gb-win-10-pro-3yr-bos-no-odd/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2069118/thumbnails/156-vostro-3591-seri
 9/20/2020 10:58:43 PM 4.398,99 RON
 9/23/2020 1:41:39 PM 4.398,99 RON
 9/25/2020 6:54:26 PM 4.398,99 RON
+9/27/2020 1:25:01 PM 4.398,99 RON

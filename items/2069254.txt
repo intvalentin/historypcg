@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX425JA-BM066T
 2069254
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-ux425ja-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-home-lilac-mist/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2069254/thumbnails/14-zenbook-14-ux425j
 9/20/2020 10:57:18 PM 5.299,99 RON
 9/23/2020 1:08:40 PM 5.299,99 RON
 9/25/2020 6:42:39 PM 5.299,99 RON
+9/27/2020 10:23:37 AM 5.299,99 RON

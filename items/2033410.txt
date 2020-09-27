@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |13G71EA
 2033410
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-spectre-x360-13-aw0030nq-fhd-ips-touch-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-intel-iris-plus-win-10-home-poseidon-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033410/thumbnails/133-spectre-x360-13-
 9/20/2020 10:57:11 PM 6.499,00 RON
 9/23/2020 1:12:46 PM 6.499,00 RON
 9/25/2020 6:44:04 PM 6.499,00 RON
+9/27/2020 10:36:58 AM 6.499,00 RON

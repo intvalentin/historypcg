@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7KN21EA
 2023790
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/14-elitebook-x360-1040-g6-fhd-ips-touch-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/2023790/thumbnails/mwl_i5_8-924911144a1
 9/20/2020 10:58:03 PM 6.230,79 RON
 9/23/2020 1:25:06 PM 6.575,79 RON
 9/25/2020 6:47:46 PM 6.594,61 RON
+9/27/2020 12:17:42 PM 6.598,41 RON

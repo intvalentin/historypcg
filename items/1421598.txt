@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX306UAB-FB083T
 1421598
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/133-zenbook-ux306ua-qhd-plus-ips-procesor-intel-core-i7-6500u-4m-cache-up-to-310-ghz-16gb-512gb-ssd-gma-hd-520-win-10-home/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1141198/1421598/thumbnails/133-zenbook-ux306
 9/20/2020 10:58:03 PM 6.444,84 RON
 9/23/2020 1:37:32 PM 6.444,84 RON
 9/25/2020 6:52:58 PM 6.444,84 RON
+9/27/2020 1:02:13 PM 6.444,84 RON

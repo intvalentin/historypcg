@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82AA002FRM
 2069746
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-yoga-slim-7-15iil05-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-512gb-ssd-geforce-mx350-2gb-win-10-home-slate-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2069746/thumbnails/156-yoga-slim-7-15ii
 9/20/2020 10:57:05 PM 4.798,99 RON
 9/23/2020 12:56:24 PM 4.798,99 RON
 9/25/2020 6:39:06 PM 4.798,99 RON
+9/27/2020 9:16:34 AM 4.798,99 RON

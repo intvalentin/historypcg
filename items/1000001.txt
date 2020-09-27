@@ -1,0 +1,10 @@
+    Cod    
+1000001
+    Product link    
+https://www.pcgarage.ro/ingrijire-tesaturi/toyota/oekaki-50g/
+    Name    
+Toyota Masina de cusut OEKAKI 50G
+    Img url    
+https://4.grgs.ro/images/products/1/1152773/1000001/thumbnails/1oekaki-50g-3238533f784a535dc36251d196828ceb.jpg
+    Pret    
+9/27/2020 4:54:50 PM 2.719,98 RON

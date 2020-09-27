@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Y60098RM
 2067742
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-5-15imh05h-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-no-os-phantom-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2067742/thumbnails/gaming-156-legion-5-
 9/20/2020 10:58:29 PM 6.098,99 RON
 9/23/2020 1:41:39 PM 6.098,99 RON
 9/25/2020 6:54:26 PM 6.098,99 RON
+9/27/2020 1:52:34 PM 6.098,99 RON

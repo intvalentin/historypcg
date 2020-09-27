@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81UE006GRM
 2069974
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-yoga-c640-fhd-touch-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/2069974/thumbnails/133-yoga-c640-fhd-ip
 9/20/2020 10:57:08 PM 5.168,99 RON
 9/23/2020 12:56:24 PM 5.168,99 RON
 9/25/2020 6:39:06 PM 5.168,99 RON
+9/27/2020 9:14:07 AM 5.168,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |13G78EA
 2034778
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce3048nq-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-geforce-mx250-4gb-free-dos-mineral-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990366/2034778/thumbnails/14-pavilion-14-ce
 9/20/2020 10:58:39 PM 3.998,99 RON
 9/23/2020 1:56:00 PM 3.998,99 RON
 9/25/2020 6:59:41 PM 3.998,99 RON
+9/27/2020 4:08:35 PM 3.998,99 RON

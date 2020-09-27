@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81C40068RM
 1770592
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/139-quot-yoga-c930-fhd-ips-touch-procesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1770592/thumbnails/mwl_i5_8-f5a07f25
 9/20/2020 10:58:03 PM 7.120,03 RON
 9/23/2020 1:35:28 PM 7.121,20 RON
 9/25/2020 6:52:14 PM 7.140,54 RON
+9/27/2020 12:54:25 PM 7.144,64 RON

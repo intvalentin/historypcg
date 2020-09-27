@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82B3002URM
 2062014
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-173-legion-5-17imh05-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-phantom-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2062014/thumbnails/gaming-173-legion
 9/20/2020 10:58:35 PM 5.498,99 RON
 9/23/2020 1:45:45 PM 5.498,99 RON
 9/25/2020 6:55:58 PM 5.498,99 RON
+9/27/2020 3:33:46 PM 5.498,99 RON

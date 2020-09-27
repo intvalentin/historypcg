@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G512LWS-AZ003T
 2050330
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-g15-g512lws-fhd-240hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2070-super-8gb-win-10-home-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2050330/thumbnails/gaming-156-rog-st
 9/20/2020 10:58:56 PM 8.998,99 RON
 9/23/2020 1:51:53 PM 8.998,99 RON
 9/25/2020 6:58:11 PM 8.998,99 RON
+9/27/2020 3:58:21 PM 8.998,99 RON

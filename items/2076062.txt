@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PT482E-0HC00GG6
 2076062
     Product link    
 https://www.pcgarage.ro/ultrabook/toshiba/14-tecra-x40-e-1f4-fhd-touch-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-onyx-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/2076062/thumbnails/14-tecra-x40-e-17
 9/20/2020 10:57:26 PM 7.404,58 RON
 9/23/2020 1:06:35 PM 7.404,72 RON
 9/25/2020 6:45:33 PM 7.425,91 RON
+9/27/2020 10:20:09 AM 7.430,19 RON

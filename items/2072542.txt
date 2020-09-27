@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20S6003PRI
 2072542
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-t15-gen-1-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-1tb-ssd-geforce-mx330-2gb-4g-lte-win-10-pro-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2072542/thumbnails/156-thinkpad-t15-gen
 9/20/2020 10:59:39 PM 9.909,00 RON
 9/23/2020 2:10:18 PM 9.909,00 RON
 9/25/2020 7:03:27 PM 9.909,00 RON
+9/27/2020 5:13:28 PM 9.909,00 RON

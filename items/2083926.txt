@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G712LU-EV008
 2083926
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-g17-g712lu-fhd-44hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-2x-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2083926/thumbnails/gaming-173-rog-st
 9/20/2020 10:59:34 PM 8.099,99 RON
 9/23/2020 2:04:14 PM 8.099,99 RON
 9/25/2020 7:02:43 PM 8.099,99 RON
+9/27/2020 5:10:36 PM 8.099,99 RON

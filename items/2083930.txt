@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G731GT-AU222
 2083930
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-g-g731gt-fhd-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1650-4gb-free-dos-glacier-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2083930/thumbnails/gaming-173-rog-strix
 9/20/2020 10:59:18 PM 4.599,99 RON
 9/23/2020 2:04:14 PM 4.599,99 RON
 9/25/2020 7:02:43 PM 4.599,99 RON
+9/27/2020 5:10:19 PM 4.599,99 RON

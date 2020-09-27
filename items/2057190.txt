@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DXPS7590UOI79750H32GB1TB4GW3Y-05
 2057190
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/156-xps-15-7590-uhd-oled-infinityedge-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-32gb-ddr4-1tb-ssd-geforce-gtx-1650-4gb-fingerprint-reader-win-10-pro-silver-3yr-bos/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/2057190/thumbnails/156-xps-15-7590-uhd-
 9/20/2020 10:58:10 PM 13.155,99 RON
 9/23/2020 1:20:59 PM 13.283,42 RON
 9/25/2020 6:46:17 PM 13.260,97 RON
+9/27/2020 10:30:03 AM 13.260,97 RON

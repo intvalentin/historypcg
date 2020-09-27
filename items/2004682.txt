@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS7390I7321UMAWP
 2004682
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/134-xps-13-7390-uhd-plus-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-32gb-ddr4-1tb-ssd-intel-iris-plus-win-10-pro-silver-3yr-on-site/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/2004682/thumbnails/mwl_i7_10-41ae3e1445
 9/20/2020 10:57:05 PM 12.998,99 RON
 9/23/2020 1:02:31 PM 12.998,99 RON
 9/25/2020 6:41:12 PM 12.998,99 RON
+9/27/2020 10:12:21 AM 12.998,99 RON

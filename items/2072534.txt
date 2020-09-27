@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20UF000RRI
 2072534
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-thinkpad-x13-gen-1-fhd-procesor-amd-ryzen-7-pro-4750u-8m-cache-up-to-41-ghz-16gb-ddr4-512gb-ssd-radeon-win-10-pro-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2072534/thumbnails/133-thinkpad-x13-gen
 9/20/2020 10:57:26 PM 7.599,00 RON
 9/23/2020 1:06:35 PM 7.599,00 RON
 9/25/2020 6:41:56 PM 7.599,00 RON
+9/27/2020 10:21:45 AM 7.599,00 RON

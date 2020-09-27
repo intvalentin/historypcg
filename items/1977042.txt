@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X403FA-EB364
 1977042
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-vivobook-14-x403fa-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-1tb-ssd-gma-uhd-620-endless-os-silver-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6811/1977042/thumbnails/mwl_i7_8-0ed046d8005
 9/20/2020 10:57:01 PM 3.898,99 RON
 9/23/2020 1:02:31 PM 3.898,99 RON
 9/25/2020 6:41:12 PM 3.898,99 RON
+9/27/2020 10:13:52 AM 3.898,99 RON

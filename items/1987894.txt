@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20R900C3RM
 1987894
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/133-thinkbook-13s-iwl-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-mineral-grey-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3944/1987894/thumbnails/mwl_i7_8-a3fbc19e8e0
 9/20/2020 10:58:50 PM 4.098,99 RON
 9/23/2020 2:00:08 PM 4.098,99 RON
 9/25/2020 7:01:13 PM 4.098,99 RON
+9/27/2020 4:22:43 PM 4.098,99 RON

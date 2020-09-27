@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DXPS9575FI78705G16GB512GB4GW3Y-05
 1804004
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/156-xps-15-9575-fhd-ips-touch-infinityedge-procesor-intel-core-i7-8705g-8m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-radeon-rx-vega-m-gl-4gb-hmb2-win-10-pro-silver-3yr-on-site/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1684696/1804004/thumbnails/156-xps-15-9575-f
 9/20/2020 10:57:11 PM 9.498,99 RON
 9/23/2020 1:02:31 PM 9.498,99 RON
 9/25/2020 6:41:12 PM 9.498,99 RON
+9/27/2020 10:14:45 AM 9.498,99 RON

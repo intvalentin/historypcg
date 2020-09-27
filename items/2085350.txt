@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.HUSEX.004
 2085350
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/14-aspire-5-a514-53-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-pure-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2085350/thumbnails/14-aspire-5-a514-53-
 9/20/2020 10:58:46 PM 2.798,99 RON
 9/23/2020 1:39:36 PM 2.798,99 RON
 9/25/2020 6:53:43 PM 2.798,99 RON
+9/27/2020 1:07:14 PM 2.798,99 RON

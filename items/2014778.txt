@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5491I716512NWP
 2014778
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/14-inspiron-5491-seria-5000-fhd-ips-touch-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-geforce-mx230-2gb-win-10-pro-platinum-silver-3yr-cis/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/9943/2014778/thumbnails/14-inspiron-5491-ser
     Pret    
 9/23/2020 1:12:46 PM 5.814,91 RON
 9/25/2020 6:44:04 PM 5.831,55 RON
+9/27/2020 10:40:11 AM 5.834,90 RON

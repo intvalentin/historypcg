@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |XPS9500I7321GTXWP
 2043798
     Product link    
 https://www.pcgarage.ro/ultrabook/dell/156-xps-15-9500-uhd-plus-infinityedge-touch-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-32gb-ddr4-1tb-ssd-geforce-gtx-1650-ti-4gb-win-10-pro-platinum-silver-3yr-bos/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2043798/thumbnails/156-xps-15-9500-fhd-
 9/20/2020 10:57:34 PM 18.257,25 RON
 9/23/2020 1:10:43 PM 18.252,73 RON
 9/25/2020 6:43:22 PM 18.304,95 RON
+9/27/2020 10:34:03 AM 18.315,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX425JA-BM112R
 2060566
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-ux425ja-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-intel-iris-plus-win-10-pro-lilac-mist/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2060566/thumbnails/14-zenbook-14-ux425j
 9/20/2020 10:57:22 PM 5.922,64 RON
 9/23/2020 1:08:40 PM 5.921,18 RON
 9/25/2020 6:42:39 PM 5.938,11 RON
+9/27/2020 10:26:34 AM 5.941,52 RON

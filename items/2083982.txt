@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X712FB-AU527
 2083982
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/173-vivobook-17-x712fb-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-1tb-plus-256gb-ssd-geforce-mx110-2gb-no-os-transparent-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/2083982/thumbnails/173-vivobook-17-x
 9/20/2020 10:59:14 PM 4.499,99 RON
 9/23/2020 2:04:14 PM 4.499,99 RON
 9/25/2020 7:02:43 PM 4.499,99 RON
+9/27/2020 5:09:46 PM 4.499,99 RON

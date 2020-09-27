@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20UH001ARI
 2059766
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14s-gen-1-fhd-procesor-amd-ryzen-7-pro-4750u-8m-cache-up-to-41-ghz-16gb-ddr4-512gb-ssd-radeon-win-10-pro-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2059766/thumbnails/14-thinkpad-t14s-gen
 9/20/2020 10:58:32 PM 8.198,99 RON
 9/23/2020 1:47:47 PM 8.198,99 RON
 9/25/2020 6:56:42 PM 8.198,99 RON
+9/27/2020 3:38:24 PM 8.198,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81RS002URM
 1975326
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-s740-iil-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-mica/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1975326/thumbnails/mwl_i7_10-1bc80d5372
 9/20/2020 10:57:55 PM 5.188,21 RON
 9/23/2020 1:29:15 PM 5.188,32 RON
 9/25/2020 6:50:00 PM 5.203,16 RON
+9/27/2020 12:32:52 PM 5.206,15 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2S922EA
 2044822
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15s-fq1030nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-free-dos-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1960570/2044822/thumbnails/156-15s-fq1030nq-
 9/20/2020 10:58:43 PM 2.998,99 RON
 9/23/2020 1:53:56 PM 2.998,99 RON
 9/25/2020 6:58:57 PM 2.998,99 RON
+9/27/2020 4:03:12 PM 2.998,99 RON

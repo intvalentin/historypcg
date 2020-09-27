@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |S533JQ-BQ017R
 2068126
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/156-vivobook-s15-s533jq-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-geforce-mx350-2gb-win-10-pro-indie-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068126/thumbnails/156-vivobook-s15-s53
 9/20/2020 10:57:42 PM 4.998,99 RON
 9/23/2020 1:18:55 PM 4.998,99 RON
 9/25/2020 6:45:33 PM 4.998,99 RON
+9/27/2020 10:51:46 AM 4.998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G531GT-BQ089
 2085522
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-g-g531gt-fhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/2085522/thumbnails/mwl_i7_9-23cda896
 9/20/2020 10:58:50 PM 4.298,99 RON
 9/23/2020 1:39:36 PM 4.298,99 RON
 9/25/2020 6:53:43 PM 4.298,99 RON
+9/27/2020 1:05:57 PM 4.298,99 RON

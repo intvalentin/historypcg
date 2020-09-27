@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.H98EX.00B
 2007546
     Product link    
 https://www.pcgarage.ro/ultrabook/acer/14-swift-7-sf714-52t-fhd-ips-touch-procesor-intel-core-i7-8500y-4m-cache-up-to-420-ghz-16gb-512gb-ssd-gma-uhd-615-win-10-pro-starfield-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2003606/2007546/thumbnails/mwl_i7_8-0e3cb54a
 9/20/2020 10:57:30 PM 8.956,10 RON
 9/23/2020 1:14:49 PM 8.956,10 RON
 9/25/2020 6:44:49 PM 8.956,10 RON
+9/27/2020 10:42:30 AM 8.956,10 RON

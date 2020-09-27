@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MJ79EA
 2014114
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elitebook-830-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-silver-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2013982/2014114/thumbnails/mwl_i7_8-2f1ab14d
 9/20/2020 10:57:22 PM 5.999,61 RON
 9/23/2020 1:27:11 PM 5.998,12 RON
 9/25/2020 6:48:31 PM 6.015,27 RON
+9/27/2020 12:22:28 PM 6.018,74 RON

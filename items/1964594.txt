@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8PQ73EA
 1964594
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-pavilion-13-an1000nq-fhd-ips-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-freedos-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3049/1964594/thumbnails/mwl_i5_10-587b448272
 9/20/2020 10:57:51 PM 3.199,00 RON
 9/23/2020 1:31:21 PM 3.199,00 RON
 9/25/2020 6:50:00 PM 3.199,00 RON
+9/27/2020 12:39:07 PM 3.199,00 RON

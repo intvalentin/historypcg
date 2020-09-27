@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20QF0022RI
 1935010
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-quot-thinkpad-x1-yoga-4nd-gen-uhd-ips-touch-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-512gb-ssd-gma-uhd-620-4g-lte-fingerprint-reader-win-10-pro-iron-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/1935010/thumbnails/14-quot-thinkpad-x1-
 9/20/2020 10:58:10 PM 13.299,00 RON
 9/23/2020 1:31:21 PM 13.299,00 RON
 9/25/2020 6:50:45 PM 13.299,00 RON
+9/27/2020 12:42:41 PM 13.299,00 RON

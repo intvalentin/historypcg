@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8VU28EA
 1986502
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/173-probook-470-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-radeon-530-2gb-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1986502/thumbnails/mwl_i5_10-feaa4b2
 9/20/2020 10:58:23 PM 3.898,99 RON
 9/23/2020 2:00:08 PM 3.898,99 RON
 9/25/2020 7:01:13 PM 3.898,99 RON
+9/27/2020 4:24:37 PM 3.898,99 RON

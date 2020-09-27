@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81TC0041RM
 1973150
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-c740-fhd-ips-touch-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-16gb-ddr4-1tb-ssd-gma-uhd-win-10-home-mica/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/1973150/thumbnails/mwl_i5_10-c3594f1b2e
 9/20/2020 10:57:55 PM 5.061,84 RON
 9/23/2020 1:31:21 PM 5.061,94 RON
 9/25/2020 6:50:00 PM 5.076,42 RON
+9/27/2020 12:37:17 PM 5.079,35 RON

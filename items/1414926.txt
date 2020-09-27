@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |V1C41EA
 1414926
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/125-quot-elitebook-folio-g1-fhd-procesor-intel-core-m7-6y75-4m-cache-up-to-310-ghz-8gb-256gb-ssd-gma-hd-515-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1053670/1414926/thumbnails/125-quot-eliteboo
 9/20/2020 10:58:07 PM 9.321,35 RON
 9/23/2020 1:37:33 PM 9.322,89 RON
 9/25/2020 6:52:58 PM 9.353,59 RON
+9/27/2020 1:02:29 PM 9.353,59 RON

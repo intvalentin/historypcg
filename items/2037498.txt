@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T418EA
 2037498
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dc1057nq-fhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-rtx-2060-6gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1844684/2037498/thumbnails/mwl_i7_9-69fa9465
 9/20/2020 10:58:29 PM 5.998,99 RON
 9/23/2020 1:56:00 PM 5.998,99 RON
 9/25/2020 6:59:41 PM 5.998,99 RON
+9/27/2020 4:08:02 PM 5.998,99 RON

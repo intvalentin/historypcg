@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PT591E-0W100CG6
 2076066
     Product link    
 https://www.pcgarage.ro/ultrabook/toshiba/dynabook-156-tecra-z50-e-17h-fhd-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-32gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-steel-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4525/2076066/thumbnails/dynabook-156-tecra-z
 9/20/2020 10:57:26 PM 7.667,62 RON
 9/23/2020 1:06:35 PM 7.667,79 RON
 9/25/2020 6:41:56 PM 7.689,71 RON
+9/27/2020 10:19:53 AM 7.694,14 RON

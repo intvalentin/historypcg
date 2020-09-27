@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81X1009QRM
 2062218
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-flex-5-14iil05-fhd-touch-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-home-light-teal/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2062218/thumbnails/14-ideapad-flex-5-14
 9/20/2020 10:57:05 PM 3.798,99 RON
 9/23/2020 12:58:27 PM 3.798,99 RON
 9/25/2020 6:39:48 PM 3.798,99 RON
+9/27/2020 9:19:26 AM 3.798,99 RON

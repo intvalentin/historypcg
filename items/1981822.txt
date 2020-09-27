@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MK77EA
 1981822
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elite-dragonfly-fhd-ips-touch-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-512gb-ssd-gma-uhd-620-win-10-pro-galaxy-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1979534/1981822/thumbnails/mwl_i7_8-a0e33ba6
 9/20/2020 10:57:30 PM 9.526,54 RON
 9/23/2020 1:16:52 PM 9.524,18 RON
 9/25/2020 6:44:49 PM 9.551,43 RON
+9/27/2020 10:46:07 AM 9.556,92 RON

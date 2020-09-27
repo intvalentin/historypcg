@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KM1086LTE
 1798316
     Product link    
 https://www.pcgarage.ro/ultrabook/kruger-matz/101-edge-1086lte-fhd-touch-procesor-intel-atom-x5-z8350-2m-cache-up-to-192-ghz-2gb-32gb-gma-hd-4g-lte-win-10-home-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6361/1798316/thumbnails/101-edge-1086lte-fhd
 9/20/2020 10:57:46 PM 1.414,64 RON
 9/23/2020 1:33:24 PM 1.414,64 RON
 9/25/2020 6:51:29 PM 1.414,64 RON
+9/27/2020 12:50:23 PM 1.414,64 RON

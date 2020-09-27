@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3593I78512MXUBU, DI3593I78512NU, DI3593FI71065G78GB512GB2GU2Y-05
 2014334
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-3593-seria-3000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx-230-2gb-linux-black-2yr-cis/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1261/2014334/thumbnails/mwl_i7_10-19f6fe8a21
 9/20/2020 10:58:43 PM 3.498,99 RON
 9/23/2020 1:58:03 PM 3.498,99 RON
 9/25/2020 7:00:26 PM 3.498,99 RON
+9/27/2020 4:15:33 PM 3.498,99 RON

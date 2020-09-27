@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX392FA-AB007R
 2021010
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/139-zenbook-s13-ux392fa-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-1tb-ssd-gma-uhd-620-win-10-pro-utopia-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/2021010/thumbnails/mwl_i7_8-78e1c08c1dd
 9/20/2020 10:57:08 PM 6.898,99 RON
 9/23/2020 1:00:29 PM 6.898,99 RON
 9/25/2020 6:41:12 PM 6.898,99 RON
+9/27/2020 10:11:00 AM 6.898,99 RON

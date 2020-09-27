@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81EU00RLRM
 1848658
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-530s-ikb-wqhd-ips-glass-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-512gb-ssd-geforce-mx150-2gb-fingerprint-reader-win-10-home-liquid-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1703884/1848658/thumbnails/mwl_i7_8-3651c4f2
 9/20/2020 10:57:59 PM 5.499,00 RON
 9/23/2020 1:33:24 PM 5.499,00 RON
 9/25/2020 6:50:45 PM 5.499,00 RON
+9/27/2020 12:45:02 PM 5.499,00 RON

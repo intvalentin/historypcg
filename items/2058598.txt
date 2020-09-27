@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20U9004RRI
 2058598
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-thinkpad-x1-carbon-gen-8-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-16gb-512gb-ssd-gma-uhd-win-10-pro-black-paint/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2058598/thumbnails/14-thinkpad-x1-carbo
 9/20/2020 10:57:11 PM 9.899,00 RON
 9/23/2020 1:10:43 PM 9.899,00 RON
 9/25/2020 6:42:39 PM 9.899,00 RON
+9/27/2020 10:29:14 AM 9.899,00 RON

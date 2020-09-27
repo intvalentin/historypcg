@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |P1510CDA-BR613
 2089498
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-expertbook-p1510cda-hd-procesor-amd-athlon-silver-3050u-4m-cache-un-to-32-ghz-4gb-ddr4-256gb-ssd-radeon-no-os-star-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7960/2089498/thumbnails/156-expertbook-p1510
     Pret    
 9/23/2020 1:39:36 PM 1.498,99 RON
 9/25/2020 6:53:43 PM 1.498,99 RON
+9/27/2020 1:05:07 PM 1.548,99 RON

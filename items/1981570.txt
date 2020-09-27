@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81VV00AHRM
 1981570
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-s340-iil-fhd-ips-procesor-intel-core-i5-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-gma-uhd-no-os-abyss-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1979534/1981570/thumbnails/mwl_i7_10-ef77762
 9/20/2020 10:57:38 PM 3.999,00 RON
 9/23/2020 1:27:11 PM 3.999,00 RON
 9/25/2020 6:49:15 PM 3.999,00 RON
+9/27/2020 12:30:12 PM 3.999,00 RON

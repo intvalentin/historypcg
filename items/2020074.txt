@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010UAJ
 2020074
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/156-matebook-d-15-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-256gb-ssd-radeon-vega-8-win-10-home-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8491/2020074/thumbnails/156-matebook-d-15-fh
 9/20/2020 10:57:01 PM 2.898,99 RON
 9/23/2020 1:02:31 PM 2.898,99 RON
 9/25/2020 6:41:12 PM 2.898,99 RON
+9/27/2020 10:11:16 AM 2.898,99 RON

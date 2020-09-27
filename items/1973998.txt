@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81XJ000QRM
 1973998
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-ideapad-c340-fhd-ips-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-platinum/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1973998/thumbnails/mwl_i7_10-1590c238fc
 9/20/2020 10:57:55 PM 4.862,27 RON
 9/23/2020 1:29:15 PM 4.862,38 RON
 9/25/2020 6:50:00 PM 4.876,29 RON
+9/27/2020 12:34:46 PM 4.879,09 RON

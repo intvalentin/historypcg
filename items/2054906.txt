@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82AU00A7RM
 2054906
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-5-15imh05-fhd-ips-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-phantom-black-4-zone-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2054906/thumbnails/gaming-156-legion-5-
 9/20/2020 10:58:50 PM 4.598,99 RON
 9/23/2020 1:49:51 PM 4.598,99 RON
 9/25/2020 6:57:28 PM 4.598,99 RON
+9/27/2020 3:54:02 PM 4.598,99 RON

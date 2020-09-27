@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20QT003QRI
 2085898
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-quot-thinkpad-p1-2nd-gen-uhd-ips-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-1tb-ssd-quadro-t2000-4gb-win-10-pro-black-weave/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/2085898/thumbnails/156-quot-thinkpad-p1
 9/20/2020 10:57:34 PM 18.650,24 RON
 9/23/2020 1:02:31 PM 18.645,63 RON
 9/25/2020 6:41:56 PM 18.698,97 RON
+9/27/2020 10:15:49 AM 18.709,72 RON

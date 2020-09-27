@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81X2006ERM
 2059982
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-flex-5-14are05-fhd-touch-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-16gb-ddr4-512gb-ssd-radeon-win-10-home-light-teal/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2059982/thumbnails/14-ideapad-flex-5-14
 9/20/2020 10:57:01 PM 3.698,99 RON
 9/23/2020 1:20:59 PM 4.299,00 RON
 9/25/2020 6:46:17 PM 4.299,00 RON
+9/27/2020 11:03:34 AM 4.299,00 RON

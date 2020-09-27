@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UM425IA-AM003T
 2060598
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um425ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-win-10-home-lilac-mist/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2060598/thumbnails/14-zenbook-14-um425i
 9/20/2020 10:57:15 PM 4.082,49 RON
 9/23/2020 1:08:40 PM 4.082,49 RON
 9/25/2020 6:39:48 PM 3.998,99 RON
+9/27/2020 9:21:56 AM 3.998,99 RON

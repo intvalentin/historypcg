@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20SM0042RM
 2037838
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkbook-15-iil-fhd-ips-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-mineral-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1977958/2037838/thumbnails/156-thinkbook-15-
 9/20/2020 10:58:14 PM 3.098,99 RON
 9/23/2020 1:53:56 PM 3.098,99 RON
 9/25/2020 6:58:57 PM 3.098,99 RON
+9/27/2020 4:07:42 PM 3.098,99 RON

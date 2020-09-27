@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010UHS
 2054794
     Product link    
 https://www.pcgarage.ro/ultrabook/huawei/13-matebook-13-2k-ips-touch-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-512gb-ssd-geforce-mx250-2gb-win-10-home-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1821372/2054794/thumbnails/13-matebook-13-2k
 9/20/2020 10:57:08 PM 5.798,99 RON
 9/23/2020 1:00:28 PM 5.798,99 RON
 9/25/2020 6:40:30 PM 5.798,99 RON
+9/27/2020 9:41:11 AM 5.798,99 RON

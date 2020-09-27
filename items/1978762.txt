@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Q8001PRM
 1978762
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-s940-iil-uhd-ips-hdr-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-ssd-intel-iris-plus-win-10-home-mica/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1978762/thumbnails/14-yoga-s940-iil-u
 9/20/2020 10:57:11 PM 10.499,00 RON
 9/23/2020 1:16:52 PM 10.499,00 RON
 9/25/2020 6:44:49 PM 10.499,00 RON
+9/27/2020 10:46:40 AM 10.499,00 RON

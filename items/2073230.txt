@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FA506IU-BQ078
 2073230
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-asus-tuf-a15-fa506iu-fhd-procesor-amd-ryzen-7-4800h-8m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-no-os-bonfire-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2013982/2073230/thumbnails/gaming-156-asus-t
 9/20/2020 10:58:26 PM 4.498,99 RON
 9/23/2020 1:39:36 PM 4.498,99 RON
 9/25/2020 6:53:43 PM 4.498,99 RON
+9/27/2020 1:10:04 PM 4.498,99 RON

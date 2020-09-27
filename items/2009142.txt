@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N092L740014EMEA
 2009142
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-latitude-7400-seria-7000-fhd-procesor-intel-core-i7-8665u-8m-cache-up-to-480-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-carbon-fiber-3yr-on-site/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/2009142/thumbnails/mwl_i7_8-c3315b271e2
 9/20/2020 10:58:32 PM 6.998,99 RON
 9/23/2020 1:58:03 PM 6.998,99 RON
 9/25/2020 7:00:26 PM 6.998,99 RON
+9/27/2020 4:18:41 PM 6.998,99 RON

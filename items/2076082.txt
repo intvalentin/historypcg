@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PT282E-0TN00MG6
 2076082
     Product link    
 https://www.pcgarage.ro/ultrabook/toshiba/dynabook-133-portege-x30-e-1g5-fhd-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-onyx-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5631/2076082/thumbnails/dynabook-133-portege
 9/20/2020 10:57:26 PM 6.850,49 RON
 9/23/2020 1:06:35 PM 6.850,63 RON
 9/25/2020 6:41:56 PM 6.870,23 RON
+9/27/2020 10:18:48 AM 6.874,18 RON

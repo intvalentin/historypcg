@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20J1000MRI
 1510866
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-thinkpad-13-2nd-gen-fhd-ips-procesor-intel-core-i7-7500u-4m-cache-up-to-350-ghz-8gb-ddr4-512gb-ssd-gma-hd-620-fingerprint-reader-win-10-pro-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1510866/thumbnails/mwl_i7_7-c9897711
 9/20/2020 10:58:03 PM 6.352,66 RON
 9/23/2020 1:37:32 PM 6.353,70 RON
 9/25/2020 6:52:58 PM 6.374,63 RON
+9/27/2020 1:01:40 PM 6.374,63 RON

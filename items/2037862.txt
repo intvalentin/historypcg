@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82C500JWRM
 2037862
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-iil-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-iron-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/2037862/thumbnails/156-v15-iil-fhd-proc
 9/20/2020 10:58:16 PM 2.698,99 RON
 9/23/2020 1:53:56 PM 2.798,99 RON
 9/25/2020 6:58:57 PM 2.798,99 RON
+9/27/2020 4:07:25 PM 2.798,99 RON

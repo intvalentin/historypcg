@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6XD66EA
 2019470
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/156-elitebook-850-g6-uhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-ssd-radeon-rx-550-2gb-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2019470/thumbnails/mwl_i7_8-3f21380ff0b
 9/20/2020 10:58:03 PM 6.993,70 RON
 9/23/2020 1:25:06 PM 6.990,26 RON
 9/25/2020 6:48:31 PM 7.010,27 RON
+9/27/2020 12:19:18 PM 7.014,29 RON

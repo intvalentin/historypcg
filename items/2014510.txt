@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8VT46EA
 2014510
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/133-probook-430-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9943/2014510/thumbnails/mwl_i5_10-112a53f643
 9/20/2020 10:58:26 PM 3.998,99 RON
 9/23/2020 1:58:03 PM 3.998,99 RON
 9/25/2020 7:00:26 PM 3.998,99 RON
+9/27/2020 4:15:00 PM 3.998,99 RON

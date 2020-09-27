@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YH001HRM
 2045746
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-ideapad-5-14iil05-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx350-2gb-no-os-light-teal/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2045746/thumbnails/14-ideapad-5-14ii
 9/20/2020 10:57:15 PM 3.999,00 RON
 9/23/2020 1:10:43 PM 3.999,00 RON
 9/25/2020 6:43:22 PM 3.999,00 RON
+9/27/2020 10:32:11 AM 3.999,00 RON

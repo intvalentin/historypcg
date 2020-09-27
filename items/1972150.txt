@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UX434FAC-A5155T
 1972150
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-ux434fac-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-480-ghz-16gb-512gb-ssd-gma-uhd-win-10-home-icicle-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1972150/thumbnails/mwl_i7_10-a355ff17f6
 9/20/2020 10:57:38 PM 5.499,00 RON
 9/23/2020 1:31:21 PM 5.499,00 RON
 9/25/2020 6:50:00 PM 5.499,00 RON
+9/27/2020 12:38:43 PM 5.499,00 RON

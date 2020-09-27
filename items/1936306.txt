@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20QV000WRI
 1936306
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-thinkpad-x1-extreme-2nd-gen-uhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-win-10-pro-black-weave/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2554/1936306/thumbnails/mwl_i7_9-a344ad77dac
 9/20/2020 10:57:11 PM 14.739,00 RON
 9/23/2020 1:16:52 PM 14.739,00 RON
 9/25/2020 6:45:33 PM 14.739,00 RON
+9/27/2020 10:49:36 AM 14.739,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VDV-00003
 2033654
     Product link    
 https://www.pcgarage.ro/ultrabook/microsoft/123-surface-pro-7-pixelsense-touch-procesor-intel-core-i5-1035g4-6m-cache-up-to-370-ghz-8gb-ddr4x-128gb-ssd-intel-iris-plus-win-10-home-platinum/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033654/thumbnails/123-surface-pro-7-pi
 9/20/2020 10:57:18 PM 5.614,54 RON
 9/23/2020 1:12:46 PM 5.614,54 RON
 9/25/2020 6:47:46 PM 5.637,46 RON
+9/27/2020 12:15:00 PM 5.637,46 RON

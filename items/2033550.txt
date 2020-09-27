@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UM433DA-A5018T
 2033550
     Product link    
 https://www.pcgarage.ro/ultrabook/asus/14-zenbook-14-um433da-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-16gb-ddr4-1tb-ssd-radeon-rx-vega-10-win-10-home-icicle-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/2033550/thumbnails/14-zenbook-14-um433d
 9/20/2020 10:57:03 PM 4.598,99 RON
 9/23/2020 1:00:29 PM 4.598,99 RON
 9/25/2020 6:40:30 PM 4.598,99 RON
+9/27/2020 10:09:30 AM 4.598,99 RON

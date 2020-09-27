@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81J7004GRM
 1789420
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-ideapad-s530-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-512gb-ssd-geforce-mx150-2gb-freedos-liquid-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1789420/thumbnails/mwl_i7_8-9254ecd34ec
 9/20/2020 10:57:51 PM 4.499,00 RON
 9/23/2020 1:35:28 PM 4.499,00 RON
 9/25/2020 6:51:30 PM 4.499,00 RON
+9/27/2020 12:50:56 PM 4.499,00 RON

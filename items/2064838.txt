@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K5T7EA
 2064838
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-envy-13-ba0029nn-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-geforce-mx350-2gb-win-10-home-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2064838/thumbnails/133-envy-13-ba0005nq
 9/20/2020 10:58:03 PM 6.199,00 RON
 9/23/2020 1:08:40 PM 6.199,00 RON
 9/25/2020 6:42:39 PM 6.199,00 RON
+9/27/2020 10:25:45 AM 6.199,00 RON

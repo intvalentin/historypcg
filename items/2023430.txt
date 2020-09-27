@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MK78EA
 2023430
     Product link    
 https://www.pcgarage.ro/ultrabook/hp/133-elite-dragonfly-fhd-ips-touch-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-256gb-ssd-gma-uhd-620-win-10-pro-blue-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1979534/2023430/thumbnails/mwl_i5_8-06c006fa
 9/20/2020 10:58:07 PM 8.994,55 RON
 9/23/2020 1:12:46 PM 8.996,03 RON
 9/25/2020 6:44:04 PM 9.025,65 RON
+9/27/2020 10:38:19 AM 9.025,65 RON

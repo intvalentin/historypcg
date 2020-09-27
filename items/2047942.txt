@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Q900AFRM
 2047942
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/14-yoga-c940-uhd-ips-touch-hdr-procesor-intel-core-i7-1065g7-processor-8m-cache-up-to-390-ghz-16gb-ddr4x-1tb-ssd-intel-iris-plus-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/2047942/thumbnails/mwl_i7_10-cba1b3a200
 9/20/2020 10:57:42 PM 9.499,00 RON
 9/23/2020 1:20:59 PM 9.499,00 RON
 9/25/2020 6:47:02 PM 9.499,00 RON
+9/27/2020 11:07:34 AM 9.499,00 RON

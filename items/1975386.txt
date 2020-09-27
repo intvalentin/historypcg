@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81NX001DRM
 1975386
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/156-yoga-s740-fhd-ips-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-16gb-ddr4-1tb-ssd-geforce-gtx-1650-4gb-win-10-home-iron-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1975386/thumbnails/mwl_i9_9-5b86274eab5
 9/20/2020 10:58:07 PM 9.884,21 RON
 9/23/2020 1:29:15 PM 9.884,41 RON
 9/25/2020 6:49:15 PM 9.912,69 RON
+9/27/2020 12:32:19 PM 9.918,40 RON

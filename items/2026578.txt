@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20Q0003VRI
 2026578
     Product link    
 https://www.pcgarage.ro/ultrabook/lenovo/133-thinkpad-x390-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6997/2026578/thumbnails/mwl_i7_8-6aeba4711d0
 9/20/2020 10:57:30 PM 8.617,69 RON
 9/23/2020 1:12:46 PM 8.617,69 RON
 9/25/2020 6:44:04 PM 8.617,69 RON
+9/27/2020 10:37:30 AM 8.617,69 RON

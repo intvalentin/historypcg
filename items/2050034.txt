@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82B3002VRM
 2050034
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-173-legion-5-17imh05-fhd-ips-144hz-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-phantom-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2050034/thumbnails/gaming-173-legion
 9/20/2020 10:58:32 PM 4.798,99 RON
 9/23/2020 1:51:53 PM 4.798,99 RON
 9/25/2020 6:58:11 PM 4.798,99 RON
+9/27/2020 3:58:38 PM 4.798,99 RON
