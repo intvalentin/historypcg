@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5505R5468512RXW
 2075014
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5505-fhd-120hz-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-rx-5600m-6gb-win-10-home-supernova-silver-3yr-cis/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4525/2075014/thumbnails/gaming-156-g5-5505-f
     Pret    
 9/20/2020 11:01:18 PM 5.754,62 RON
 9/25/2020 7:10:17 PM 5.769,66 RON
+9/27/2020 7:29:36 PM 5.772,97 RON

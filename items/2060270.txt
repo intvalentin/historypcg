@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DA15R3I732G4TNWP
 2060270
     Product link    
 https://www.pcgarage.ro/notebook-laptop/alienware/gaming-156-m15-r3-uhd-oled-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-32gb-ddr4-2x-2tb-ssd-geforce-rtx-2080-super-8gb-win-10-pro-lunar-light-3yr-bos/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2060270/thumbnails/gaming-156-m15-r3-uh
 9/20/2020 10:59:49 PM 23.746,52 RON
 9/23/2020 2:16:28 PM 23.747,00 RON
 9/25/2020 7:14:02 PM 23.814,95 RON
+9/27/2020 6:27:20 PM 23.828,64 RON

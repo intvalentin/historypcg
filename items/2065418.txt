@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1L6X0EA
 2065418
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-omen-17-cb1033nq-fhd-ips-300hz-procesor-intel-core-i9-10885h-16m-cache-up-to-530-ghz-32gb-ddr4-512gb-ssd-plus-1tb-ssd-geforce-rtx-2080-super-8gb-free-dos-shadow-black-4-zone-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2065418/thumbnails/gaming-173-omen-17-c
 9/20/2020 10:59:49 PM 16.599,99 RON
 9/23/2020 2:14:24 PM 16.599,99 RON
 9/25/2020 7:04:57 PM 16.599,99 RON
+9/27/2020 6:21:25 PM 16.599,99 RON

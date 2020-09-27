@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20U3000SRI
 2056470
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-l15-gen-1-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7193/2056470/thumbnails/156-thinkpad-l15-gen
     Pret    
 9/20/2020 10:59:18 PM 4.999,00 RON
 9/25/2020 7:14:47 PM 4.999,00 RON
+9/27/2020 6:30:58 PM 4.999,00 RON

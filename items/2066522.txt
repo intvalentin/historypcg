@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X543MA-GQ506
 2066522
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-x543ma-hd-procesor-intel-celeron-n4000-4m-cache-up-to-260-ghz-4gb-ddr4-256gb-ssd-gma-uhd-600-endless-os-star-grey-no-odd/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1261/2066522/thumbnails/mwl_celeron-bf4980c5
     Pret    
 9/20/2020 10:59:53 PM 1.299,00 RON
 9/25/2020 7:12:31 PM 1.299,00 RON
+9/27/2020 7:48:25 PM 1.299,00 RON

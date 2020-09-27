@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9QF13EA
 2009210
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-14s-dq1005nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-home-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2003606/2009210/thumbnails/mwl_i7_10-46ff935
     Pret    
 9/20/2020 11:00:26 PM 3.957,92 RON
 9/25/2020 7:22:17 PM 3.969,32 RON
+9/27/2020 9:19:28 PM 3.971,61 RON

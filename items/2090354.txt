@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X712FA-AU1037
 2090354
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/173-vivobook-17-x712fa-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-transparent-silver/
@@ -8,3 +8,4 @@ ASUS 17.3&#039;&#039; VivoBook 17 X712FA, FHD, Procesor Intel® Core™ i7-10510
 https://1.grgs.ro/images/products/1/1899326/2090354/thumbnails/173-vivobook-17-x712fa-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-transparent-silver-ee9e562f167de2bfa0f36b15ebacfb9a.jpg
     Pret    
 9/25/2020 7:09:31 PM 4.099,00 RON
+9/27/2020 7:05:16 PM 4.099,00 RON

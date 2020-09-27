@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GX701GXR-HG165T
 2046898
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-zephyrus-s-gx701gxr-fhd-300hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2080-8gb-win-10-home-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5147/2046898/thumbnails/mwl_i7_9-b2f778fb3e4
     Pret    
 9/20/2020 11:01:43 PM 14.532,87 RON
 9/25/2020 7:17:02 PM 14.532,87 RON
+9/27/2020 8:33:21 PM 14.532,87 RON

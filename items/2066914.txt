@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GX701LV-HG022
 2066914
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-zephyrus-s17-gx701lv-fhd-300hz-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-free-dos-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2066914/thumbnails/gaming-173-rog-ze
 9/20/2020 10:59:44 PM 12.099,99 RON
 9/23/2020 2:12:21 PM 12.099,99 RON
 9/25/2020 7:04:12 PM 12.099,99 RON
+9/27/2020 6:17:05 PM 12.099,99 RON

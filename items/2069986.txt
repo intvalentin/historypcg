@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20UD000XRI
 2069986
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14-gen-1-fhd-procesor-amd-ryzen-5-pro-4650u-8m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-win-10-pro-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2069986/thumbnails/14-thinkpad-t14-gen-
 9/20/2020 10:59:05 PM 6.199,00 RON
 9/23/2020 2:10:18 PM 6.199,00 RON
 9/25/2020 7:03:27 PM 6.199,00 RON
+9/27/2020 6:10:47 PM 6.199,00 RON

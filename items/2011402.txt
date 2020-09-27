@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MH03EA
 2011402
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-2gb-win-10-pro-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/9943/2011402/thumbnails/mwl_i7_10-f7a8858739
     Pret    
 9/20/2020 10:58:26 PM 4.298,99 RON
 9/25/2020 7:22:17 PM 4.298,99 RON
+9/27/2020 9:18:02 PM 4.298,99 RON

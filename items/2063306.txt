@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3P350EA
 2063306
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-hd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-geforce-mx130-2gb-free-dos-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2063306/thumbnails/mwl_i5_10-9831c3a3b6
 9/20/2020 10:59:10 PM 3.527,32 RON
 9/23/2020 2:14:24 PM 3.527,32 RON
 9/25/2020 7:04:57 PM 3.476,97 RON
+9/27/2020 6:24:13 PM 3.476,47 RON

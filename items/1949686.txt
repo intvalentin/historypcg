@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20N20048RI
 1949686
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t490-wqhd-ips-hdr-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-geforce-mx250-2gb-4g-lte-win-10-pro-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1202/1949686/thumbnails/14-thinkpad-t490-wqh
     Pret    
 9/20/2020 10:59:05 PM 9.799,00 RON
 9/25/2020 7:08:43 PM 9.799,00 RON
+9/27/2020 7:00:09 PM 9.799,00 RON

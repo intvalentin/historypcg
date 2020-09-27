@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PSB141C03BGH_MG
 2026450
     Product link    
 https://www.pcgarage.ro/notebook-laptop/prestigio/141-smartbook-141-c3-hd-procesor-intel-atom-x5-z8350-2m-cache-up-to-192-ghz-2gb-64gb-emmc-gma-hd-400-win-10-home-metal-gray/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/9002/2026450/thumbnails/141-smartbook-141-c3
     Pret    
 9/20/2020 11:00:45 PM 759,84 RON
 9/25/2020 7:20:47 PM 776,57 RON
+9/27/2020 9:06:01 PM 776,57 RON

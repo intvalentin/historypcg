@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G532LWS-AZ089T
 2061246
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-scar-15-g532lws-fhd-240hz-procesor-intel-core-i9-10980hk-16m-cache-up-to-530-ghz-16gb-ddr4-2x-512gb-ssd-geforce-rtx-2070-super-8gb-win-10-home-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2061246/thumbnails/gaming-156-rog-st
 9/20/2020 10:59:44 PM 13.999,99 RON
 9/23/2020 2:14:24 PM 13.999,99 RON
 9/25/2020 7:04:57 PM 13.999,99 RON
+9/27/2020 6:25:21 PM 13.999,99 RON

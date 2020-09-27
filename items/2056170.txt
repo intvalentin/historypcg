@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NH.Q8LEX.00B
 2056170
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/gaming-156-aspire-7-a715-41g-fhd-ips-procesor-amd-ryzen-5-3550h-4m-cache-up-to-37-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1650-4gb-win-10-home-charcoal-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2056170/thumbnails/gaming-156-aspire-7-
 9/20/2020 10:59:18 PM 4.599,99 RON
 9/23/2020 2:18:32 PM 4.599,99 RON
 9/25/2020 7:05:41 PM 4.599,99 RON
+9/27/2020 6:32:25 PM 4.599,99 RON

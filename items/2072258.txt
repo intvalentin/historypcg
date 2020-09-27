@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MXK32ZE+-+A+-+R1
 2072258
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-macbook-pro-13-retina-with-touch-bar-coffee-lake-i5-14ghz-16gb-256gb-ssd-intel-iris-plus-645-mac-os-catalina-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3041/2072258/thumbnails/133-macbook-pro-13-r
     Pret    
 9/20/2020 11:00:35 PM 8.498,99 RON
 9/25/2020 7:11:46 PM 8.498,99 RON
+9/27/2020 7:38:59 PM 8.498,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MVVK2ZE+-+A-CTOV4
 2063658
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/16-macbook-pro-16-retina-with-touch-bar-coffee-lake-8-core-i9-23ghz-32gb-ddr4-1tb-ssd-radeon-pro-5500m-4gb-mac-os-catalina-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/8486/2063658/thumbnails/16-macbook-pro-16-re
     Pret    
 9/20/2020 11:00:45 PM 17.520,92 RON
 9/25/2020 7:13:16 PM 17.590,32 RON
+9/27/2020 7:52:48 PM 17.590,32 RON

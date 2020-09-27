@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W1008NRM
 2054746
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15ada05-hd-procesor-amd-athlon-silver-3050u-4m-cache-up-to-32-ghz-4gb-ddr4-128gb-ssd-radeon-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7960/2054746/thumbnails/156-ideapad-3-15ada0
     Pret    
 9/20/2020 11:00:21 PM 1.399,00 RON
 9/25/2020 7:15:31 PM 1.399,00 RON
+9/27/2020 8:11:29 PM 1.399,00 RON

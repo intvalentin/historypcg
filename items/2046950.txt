@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |14B86EA
 2046950
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-dk0064nq-fhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6835/2046950/thumbnails/mwl_i7_8-d548af98c6f
     Pret    
 9/20/2020 11:00:26 PM 4.498,99 RON
 9/25/2020 7:17:02 PM 4.498,99 RON
+9/27/2020 8:33:04 PM 4.498,99 RON

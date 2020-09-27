@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82B50098RM
 2049834
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-5-15arh05-fhd-ips-120hz-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-phantom-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2049834/thumbnails/gaming-156-legion
 9/20/2020 10:58:19 PM 3.798,99 RON
 9/23/2020 1:51:53 PM 3.798,99 RON
 9/25/2020 7:16:18 PM 3.798,99 RON
+9/27/2020 8:17:31 PM 3.798,99 RON

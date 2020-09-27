@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |W500G5T-HC004R
 2007574
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-proart-studiobook-pro-w500g5t-uhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-32gb-ddr4-1tb-ssd-quadro-rtx-5000-16gb-win-10-pro-star-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8078/2007574/thumbnails/mwl_i7_9-3511a48703a
     Pret    
 9/20/2020 11:01:48 PM 21.999,00 RON
 9/25/2020 7:22:17 PM 21.999,00 RON
+9/27/2020 9:19:50 PM 21.999,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PT5A1E-027022G6
 2069594
     Product link    
 https://www.pcgarage.ro/notebook-laptop/toshiba/dynabook-156-satellite-pro-a50-ec-13d-fhd-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4273/2069594/thumbnails/dynabook-156-satelli
     Pret    
 9/20/2020 11:01:13 PM 4.579,76 RON
 9/25/2020 7:11:46 PM 4.592,96 RON
+9/27/2020 7:42:15 PM 4.595,60 RON

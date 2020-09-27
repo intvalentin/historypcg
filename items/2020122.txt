@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9HR10EA
 2020122
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-256gb-ssd-gma-uhd-free-dos-silver/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/9943/2020122/thumbnails/mwl_i7_10-3e79ad7e08
     Pret    
 9/20/2020 11:00:21 PM 3.699,26 RON
 9/25/2020 7:21:32 PM 3.738,31 RON
+9/27/2020 9:11:32 PM 3.740,47 RON

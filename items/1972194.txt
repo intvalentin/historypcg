@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N023L550015EMEA
 1972194
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-latitude-5500-seria-5000-fhd-procesor-intel-core-i5-8365u-6m-cache-up-to-410-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black-3yr-on-site/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/8486/1972194/thumbnails/mwl_i5_8-e1912639e86
     Pret    
 9/20/2020 10:59:05 PM 5.883,01 RON
 9/25/2020 7:08:43 PM 5.899,96 RON
+9/27/2020 6:59:36 PM 5.903,35 RON

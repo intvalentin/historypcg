@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FA506IV-AL064
 2033198
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-asus-tuf-a15-fa506iv-fhd-144hz-procesor-amd-ryzen-7-4800h-8m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-no-os-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033198/thumbnails/gaming-156-asus-tuf-
 9/20/2020 11:00:21 PM 5.199,00 RON
 9/23/2020 2:22:39 PM 5.199,00 RON
 9/25/2020 7:07:12 PM 5.199,00 RON
+9/27/2020 6:46:20 PM 5.199,00 RON

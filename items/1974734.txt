@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI7590I785121650W
 1974734
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-7590-seria-7000-fhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-win-10-home-black-3yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6472/1974734/thumbnails/mwl_i7_9-68e34be73ea
     Pret    
 9/20/2020 10:59:29 PM 6.944,81 RON
 9/25/2020 7:08:43 PM 6.944,81 RON
+9/27/2020 6:58:09 PM 6.944,81 RON

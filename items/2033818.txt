@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PLZ-00008
 2033818
     Product link    
 https://www.pcgarage.ro/notebook-laptop/microsoft/15-surface-laptop-3-for-business-pixelsense-touch-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-256gb-ssd-intel-iris-plus-win-10-pro-platinum/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033818/thumbnails/15-surface-laptop-3-
 9/20/2020 10:59:05 PM 9.630,79 RON
 9/23/2020 2:22:39 PM 9.638,36 RON
 9/25/2020 7:07:12 PM 9.669,91 RON
+9/27/2020 6:45:08 PM 9.669,91 RON

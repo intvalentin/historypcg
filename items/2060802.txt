@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M533IA-BQ031
 2060802
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-s15-m533ia-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-no-os-dreamy-white/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6954/2060802/thumbnails/156-vivobook-s15-m53
     Pret    
 9/20/2020 11:00:07 PM 2.784,72 RON
 9/25/2020 7:14:02 PM 2.792,74 RON
+9/27/2020 7:58:03 PM 2.794,35 RON

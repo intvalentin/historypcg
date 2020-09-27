@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MV912ZE+-+A+-+R1+-+G2
 1888010
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/154-the-new-macbook-pro-15-retina-with-touch-bar-coffee-lake-8-core-i9-23ghz-32gb-ddr4-512gb-ssd-radeon-pro-vega-20-4gb-mac-os-mojave-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1703884/1888010/thumbnails/mwl_i9_9-c83c8564
     Pret    
 9/20/2020 10:59:49 PM 19.329,67 RON
 9/25/2020 7:09:31 PM 19.000,30 RON
+9/27/2020 7:03:36 PM 19.000,30 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GU502LV-AZ033T
 2075022
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-zephyrus-m15-gu502lv-fhd-240hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-win-10-home-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7193/2075022/thumbnails/gaming-156-rog-zephy
     Pret    
 9/20/2020 11:01:38 PM 9.899,99 RON
 9/25/2020 7:10:17 PM 9.899,99 RON
+9/27/2020 7:28:58 PM 9.899,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81WB00MBRM
 2064742
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15iml05-fhd-procesor-intel-celeron-5205u-2m-cache-190-ghz-4gb-ddr4-256gb-ssd-gma-uhd-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/7960/2064742/thumbnails/156-ideapad-3-15iml0
     Pret    
 9/20/2020 11:00:49 PM 1.549,99 RON
 9/25/2020 7:13:16 PM 1.549,99 RON
+9/27/2020 7:51:53 PM 1.549,99 RON

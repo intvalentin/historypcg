@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X509JA-EJ030R
 1990882
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-x509ja-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6622/1990882/thumbnails/mwl_i5_10-9973607f79
     Pret    
 9/20/2020 10:58:56 PM 3.198,99 RON
 9/25/2020 7:23:47 PM 3.198,99 RON
+9/27/2020 6:54:34 PM 3.198,99 RON

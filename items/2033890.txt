@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mwp42ze+-+a
 2033890
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-macbook-pro-13-retina-with-touch-bar-ice-lake-i5-20ghz-16gb-ddr4x-512gb-ssd-intel-iris-plus-mac-os-catalina-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3041/2033890/thumbnails/133-macbook-pro-13-r
     Pret    
 9/20/2020 11:00:35 PM 10.298,99 RON
 9/25/2020 7:19:17 PM 10.298,99 RON
+9/27/2020 8:52:57 PM 10.298,99 RON

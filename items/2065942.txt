@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1L0A1EA
 2065942
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/173-17-by3017nq-fhd-ips-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-1tb-plus-512gb-ssd-gma-uhd-free-dos-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2065942/thumbnails/173-17-by3017nq-fhd-
 9/20/2020 10:59:14 PM 4.199,99 RON
 9/23/2020 2:14:24 PM 4.199,99 RON
 9/25/2020 7:04:57 PM 4.199,99 RON
+9/27/2020 6:19:56 PM 4.199,99 RON

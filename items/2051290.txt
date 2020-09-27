@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X509MA-BR302
 2051290
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-x509ma-hd-procesor-intel-celeron-n4020-4m-cache-up-to-280-ghz-4gb-ddr4-256gb-ssd-gma-uhd-600-no-os-slate-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8840/2051290/thumbnails/156-x509ma-hd-proces
     Pret    
 9/20/2020 10:59:53 PM 1.199,00 RON
 9/25/2020 7:16:18 PM 1.199,00 RON
+9/27/2020 8:14:52 PM 1.199,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3500I71612060WH, DG3FI710750H16GB1TB6GW3Y-05
 2046298
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g3-3500-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-win-10-home-eclipse-black-3yr-cis/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2046298/thumbnails/gaming-156-g3-350
 9/20/2020 11:00:35 PM 8.747,08 RON
 9/23/2020 2:20:36 PM 8.746,17 RON
 9/25/2020 7:06:26 PM 8.769,92 RON
+9/27/2020 6:38:36 PM 8.774,97 RON

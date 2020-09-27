@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20SL0032RM
 2070002
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkbook-14-iil-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-mineral-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1979534/2070002/thumbnails/14-thinkbook-14-i
     Pret    
 9/20/2020 10:59:10 PM 3.499,00 RON
 9/25/2020 7:11:46 PM 3.499,00 RON
+9/27/2020 7:40:07 PM 3.499,00 RON

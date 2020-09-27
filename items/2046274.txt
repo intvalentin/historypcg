@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3500I785121650U
 2046274
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g3-3500-fhd-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-linux-eclipse-black-3yr-cis/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2045418/2046274/thumbnails/gaming-156-g3-350
     Pret    
 9/20/2020 11:01:18 PM 5.319,48 RON
 9/25/2020 7:17:02 PM 5.319,48 RON
+9/27/2020 8:34:28 PM 5.319,48 RON

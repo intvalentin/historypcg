@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |14C12EA
 2040074
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-pavilion-17-cd0020nq-fhd-ips-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1979534/2040074/thumbnails/gaming-173-pavili
     Pret    
 9/20/2020 11:00:12 PM 5.998,99 RON
 9/25/2020 7:17:48 PM 6.899,00 RON
+9/27/2020 8:40:20 PM 6.899,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20NX000ERI
 1945502
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t490s-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1202/1945502/thumbnails/mwl_i7_8-309ef102f43
     Pret    
 9/20/2020 10:58:56 PM 9.699,00 RON
 9/25/2020 7:08:43 PM 9.699,00 RON
+9/27/2020 7:02:22 PM 9.699,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X509JA-EJ031
 2027226
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-x509ja-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6622/2027226/thumbnails/156-x509ja-fhd-proce
     Pret    
 9/20/2020 10:58:56 PM 2.998,99 RON
 9/25/2020 7:20:02 PM 2.998,99 RON
+9/27/2020 6:47:32 PM 2.998,99 RON

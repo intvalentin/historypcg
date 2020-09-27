@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T456EA
 2085650
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-omen-17-cb0029nq-fhd-ips-240hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-32gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-rtx-2080-8gb-free-dos-shadow-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1977958/2085650/thumbnails/gaming-173-omen-1
     Pret    
 9/20/2020 11:01:43 PM 13.199,99 RON
 9/25/2020 7:10:17 PM 13.199,99 RON
+9/27/2020 7:26:44 PM 13.199,99 RON

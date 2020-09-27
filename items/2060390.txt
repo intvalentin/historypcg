@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82AW003PRM
 2060390
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-5p-15imh05h-fhd-144hz-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-no-os-iron-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2060390/thumbnails/gaming-156-legion
 9/20/2020 10:58:26 PM 5.698,99 RON
 9/23/2020 1:47:47 PM 5.698,99 RON
 9/25/2020 7:04:57 PM 5.698,99 RON
+9/27/2020 6:25:38 PM 5.698,99 RON

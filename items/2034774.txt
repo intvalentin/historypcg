@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |13G77EA
 2034774
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce3046nq-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-4gb-free-dos-ceramic-white/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3041/2034774/thumbnails/14-pavilion-14-ce304
     Pret    
 9/20/2020 11:00:35 PM 4.499,00 RON
 9/25/2020 7:18:32 PM 4.499,00 RON
+9/27/2020 8:47:13 PM 4.499,00 RON

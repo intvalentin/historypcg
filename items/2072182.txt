@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |P1510CJA-EJ772
 2072182
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-expertbook-p1-p1510cja-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-no-os-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/4273/2072182/thumbnails/156-expertbook-p1-p1
     Pret    
 9/20/2020 11:00:30 PM 2.898,99 RON
 9/25/2020 7:11:46 PM 2.898,99 RON
+9/27/2020 7:39:16 PM 2.898,99 RON

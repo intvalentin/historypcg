@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20Q5002VRI
 2004694
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-l490-fhd-ips-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black-1/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6835/2004694/thumbnails/mwl_i5_8-f9f41853e5e
     Pret    
 9/20/2020 10:59:24 PM 5.199,00 RON
 9/25/2020 7:07:56 PM 5.199,00 RON
+9/27/2020 6:51:08 PM 5.199,00 RON

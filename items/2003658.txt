@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N4108VN5490EMEA01_2005_UBU_RAIL-05, N4108VN5490EMEA_U, N4108VN5490EMEA01_2005_UBU-05
 2003658
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-vostro-5490-seria-5000-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-geforce-mx250-2gb-linux-urban-gray-3yr-bos/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8078/2003658/thumbnails/14-vostro-5490-seria
     Pret    
 9/20/2020 10:59:05 PM 4.669,45 RON
 9/25/2020 7:07:56 PM 4.669,45 RON
+9/27/2020 6:51:25 PM 4.669,45 RON

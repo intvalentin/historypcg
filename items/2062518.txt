@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FA706II-H7066
 2062518
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-tuf-a17-fa706ii-fhd-120hz-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-bonfire-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7960/2062518/thumbnails/gaming-173-tuf-a17-f
     Pret    
 9/20/2020 11:00:12 PM 3.898,99 RON
 9/25/2020 7:13:16 PM 3.898,99 RON
+9/27/2020 7:54:40 PM 3.898,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9TV50EA
 2014366
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-2gb-free-dos-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/9943/2014366/thumbnails/mwl_i5_10-e72d52782c
     Pret    
 9/20/2020 11:00:59 PM 3.283,21 RON
 9/25/2020 7:22:17 PM 3.291,79 RON
+9/27/2020 9:15:35 PM 3.293,68 RON

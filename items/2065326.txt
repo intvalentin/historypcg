@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PSB141C04CGP_DG_CZ
 2065326
     Product link    
 https://www.pcgarage.ro/notebook-laptop/prestigio/141-smartbook-141-c4-fhd-ips-procesor-amd-a4-9120e-1m-cache-up-to-220-ghz-4gb-64gb-emmc-radeon-r3-win-10-pro-dark-gray-1/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/9002/2065326/thumbnails/141-smartbook-141-c4
     Pret    
 9/20/2020 11:00:07 PM 998,99 RON
 9/25/2020 7:13:16 PM 998,99 RON
+9/27/2020 7:50:41 PM 998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5590I716512GTX7U
 2023726
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5590-fhd-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-linux-black-3yr-cis/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1236/2023726/thumbnails/mwl_i7_9-1805e3f5f95
     Pret    
 9/20/2020 11:00:40 PM 8.074,01 RON
 9/25/2020 7:20:47 PM 8.074,01 RON
+9/27/2020 9:07:59 PM 8.074,01 RON

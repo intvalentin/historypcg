@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6HL55EA
 1979910
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-probook-440-g6-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-8gb-ddr4-1tb-plus-256gb-ssd-geforce-mx130-2gb-win-10-pro-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5147/1979910/thumbnails/14-probook-440-g6-fh
     Pret    
 9/20/2020 10:59:14 PM 4.202,68 RON
 9/25/2020 7:08:43 PM 4.213,66 RON
+9/27/2020 6:57:02 PM 4.216,08 RON

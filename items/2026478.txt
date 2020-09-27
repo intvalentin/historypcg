@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PSB141C02CFP_BK
 2026478
     Product link    
 https://www.pcgarage.ro/notebook-laptop/prestigio/141-smartbook-141-c2-fhd-ips-procesor-intel-celeron-n3350-2m-cache-up-to-24-ghz-4gb-32gb-emmc-gma-hd-500-win-10-pro-slate-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/9002/2026478/thumbnails/mwl_celeron-a4c18949
     Pret    
 9/20/2020 11:00:45 PM 1.069,10 RON
 9/25/2020 7:20:47 PM 1.092,64 RON
+9/27/2020 9:03:49 PM 1.092,64 RON

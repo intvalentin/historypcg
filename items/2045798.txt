@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |V4C-00029
 2045798
     Product link    
 https://www.pcgarage.ro/notebook-laptop/microsoft/135-surface-laptop-3-pixelsense-touch-procesor-intel-core-i5-1035g7-6m-cache-up-to-370-ghz-8gb-ddr4x-256gb-ssd-intel-iris-plus-win-10-home-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3041/2045798/thumbnails/135-surface-laptop-3
     Pret    
 9/20/2020 11:01:29 PM 7.748,77 RON
 9/25/2020 7:17:03 PM 7.779,05 RON
+9/27/2020 8:35:35 PM 7.779,05 RON

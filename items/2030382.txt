@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DA-EJ513
 2030382
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-athlon-gold-3150u-4m-cache-up-to-330-ghz-4gb-256gb-ssd-radeon-no-os-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/8840/2030382/thumbnails/156-m509da-fhd-proce
     Pret    
 9/20/2020 11:00:12 PM 1.499,00 RON
 9/25/2020 7:20:02 PM 1.499,00 RON
+9/27/2020 8:57:23 PM 1.499,00 RON

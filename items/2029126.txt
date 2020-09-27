@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LW00HKRM
 2029126
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-api-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/5758/2029126/thumbnails/156-ideapad-l340-api
     Pret    
 9/20/2020 11:00:30 PM 2.299,00 RON
 9/25/2020 7:20:02 PM 2.299,00 RON
+9/27/2020 8:58:58 PM 2.299,00 RON

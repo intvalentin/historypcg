@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W8006PRM
 2055686
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-platinum-grey-1/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1236/2055686/thumbnails/156-ideapad-s145-fhd
     Pret    
 9/20/2020 11:00:07 PM 2.699,00 RON
 9/25/2020 7:14:47 PM 2.699,00 RON
+9/27/2020 8:06:39 PM 2.699,00 RON

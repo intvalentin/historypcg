@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI7790I5851260TIW, DIG77790I58512NWH
 1996650
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-173-g7-7790-fhd-ips-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-win-10-home-abyss-grey-3yr-cis/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1848774/1996650/thumbnails/mwl_i5_9-635d6cfe
     Pret    
 9/20/2020 10:59:05 PM 6.228,31 RON
 9/25/2020 7:07:56 PM 6.228,30 RON
+9/27/2020 6:53:26 PM 6.228,30 RON

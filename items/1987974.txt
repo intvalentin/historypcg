@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N009L550115EMEA
 1987974
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-latitude-5501-seria-5000-fhd-procesor-intel-core-i7-9850h-12m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-geforce-mx150-2gb-win-10-pro-aluminum-3yr-bos/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/8486/1987974/thumbnails/mwl_i7_9-4c884935e04
     Pret    
 9/20/2020 11:00:30 PM 7.016,71 RON
 9/25/2020 7:23:47 PM 7.600,21 RON
+9/27/2020 6:55:52 PM 7.604,58 RON

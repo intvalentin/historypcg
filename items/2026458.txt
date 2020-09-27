@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PSB141S01ZFH_BB
 2026458
     Product link    
 https://www.pcgarage.ro/notebook-laptop/prestigio/141-smartbook-141s-fhd-ips-procesor-intel-celeron-n3350-2m-cache-up-to-24-ghz-3gb-32gb-emmc-gma-hd-500-win-10-home-blue/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/9002/2026458/thumbnails/mwl_celeron-e8280b5e
     Pret    
 9/20/2020 11:00:45 PM 953,62 RON
 9/25/2020 7:20:47 PM 974,62 RON
+9/27/2020 9:05:28 PM 974,62 RON

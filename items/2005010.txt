@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7QA63EA
 2005010
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-x-2s-15-dg0006nq-fhd-ips-240hz-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-2x-1tb-ssd-geforce-rtx-2080-8gb-win-10-home-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6835/2005010/thumbnails/mwl_i9_9-73842b55388
     Pret    
 9/20/2020 11:01:48 PM 17.291,47 RON
 9/25/2020 7:22:17 PM 17.291,47 RON
+9/27/2020 9:20:23 PM 17.291,47 RON

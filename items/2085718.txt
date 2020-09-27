@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-17E912-415
 2085718
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-173-ge75-raider-10sgs-fhd-240hz-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2080-super-8gb-free-dos-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2045418/2085718/thumbnails/gaming-173-ge75-r
     Pret    
 9/20/2020 11:01:43 PM 14.354,64 RON
 9/25/2020 7:10:16 PM 14.392,15 RON
+9/27/2020 7:25:33 PM 14.400,42 RON

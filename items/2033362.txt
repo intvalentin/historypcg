@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2T261EA
 2033362
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-pavilion-15-cs3031nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-geforce-mx250-2gb-free-dos-mineral-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/8674/2033362/thumbnails/156-pavilion-15-cs30
     Pret    
 9/20/2020 11:00:16 PM 4.299,00 RON
 9/25/2020 7:19:17 PM 4.299,00 RON
+9/27/2020 8:55:37 PM 4.299,00 RON

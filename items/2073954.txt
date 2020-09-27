@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5500I7165121650W
 2073954
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5500-fhd-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-win-10-home-interstellar-dark-3yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4917/2073954/thumbnails/gaming-156-g5-5500-f
     Pret    
 9/20/2020 11:01:23 PM 6.830,13 RON
 9/25/2020 7:11:01 PM 6.847,96 RON
+9/27/2020 7:33:33 PM 6.851,90 RON

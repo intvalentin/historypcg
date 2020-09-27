@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GX701LWS-EV029
 2064754
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-zephyrus-s17-gx701lws-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2070-super-8gb-free-dos-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2064754/thumbnails/gaming-173-rog-ze
 9/20/2020 10:59:44 PM 11.998,99 RON
 9/23/2020 2:14:24 PM 11.998,99 RON
 9/25/2020 7:04:57 PM 11.998,99 RON
+9/27/2020 6:23:56 PM 11.998,99 RON

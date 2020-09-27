@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FX506II-BQ060
 2014306
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-asus-tuf-a15-fx506ii-fhd-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-geforce-1650-ti-4gb-no-os-bonfire-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2013982/2014306/thumbnails/gaming-156-asus-t
     Pret    
 9/20/2020 11:01:08 PM 3.999,99 RON
 9/25/2020 7:22:17 PM 3.999,99 RON
+9/27/2020 9:16:27 PM 3.999,99 RON

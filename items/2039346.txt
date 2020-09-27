@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PBS12E-045024G6
 2039346
     Product link    
 https://www.pcgarage.ro/notebook-laptop/toshiba/dynabook-156-satellite-pro-l50-g-15t-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2034042/2039346/thumbnails/dynabook-156-sate
     Pret    
 9/20/2020 10:59:00 PM 3.637,20 RON
 9/25/2020 7:17:48 PM 3.647,67 RON
+9/27/2020 8:43:17 PM 3.649,77 RON

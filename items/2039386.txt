@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81SX00Y4RM
 2039386
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-y540-fhd-ips-procesor-intel-core-i7-9750hf-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-no-os-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8629/2039386/thumbnails/mwl_i7_9-d688be0a3c7
     Pret    
 9/20/2020 11:00:26 PM 5.785,51 RON
 9/25/2020 7:17:48 PM 5.802,19 RON
+9/27/2020 8:42:44 PM 5.805,52 RON

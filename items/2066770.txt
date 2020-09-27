@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G732LXS-HG048
 2066770
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-scar-17-g732lxs-fhd-300hz-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-16gb-ddr4-2x-512gb-ssd-geforce-rtx-2080-super-8gb-no-os-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2066770/thumbnails/gaming-173-rog-st
 9/20/2020 10:59:44 PM 14.499,99 RON
 9/23/2020 2:12:21 PM 14.499,99 RON
 9/25/2020 7:04:12 PM 14.499,99 RON
+9/27/2020 6:18:44 PM 14.499,99 RON

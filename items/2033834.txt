@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PKU-00008
 2033834
     Product link    
 https://www.pcgarage.ro/notebook-laptop/microsoft/135-surface-laptop-3-for-business-pixelsense-touch-procesor-intel-core-i5-1035g7-6m-cache-up-to-370-ghz-8gb-ddr4x-256gb-ssd-intel-iris-plus-win-10-pro-platinum/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033834/thumbnails/135-surface-laptop-3
 9/20/2020 10:59:34 PM 7.784,52 RON
 9/23/2020 2:22:39 PM 7.790,82 RON
 9/25/2020 7:07:12 PM 7.816,06 RON
+9/27/2020 6:44:35 PM 7.816,06 RON

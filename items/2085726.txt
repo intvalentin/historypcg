@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16W112-807
 2085726
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-156-gf65-thin-10sdr-fhd-144hz-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-dark-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2085726/thumbnails/gaming-156-gf65-t
 9/20/2020 11:01:13 PM 4.999,38 RON
 9/23/2020 2:04:14 PM 4.998,15 RON
 9/25/2020 7:10:16 PM 5.012,44 RON
+9/27/2020 7:25:16 PM 5.015,31 RON

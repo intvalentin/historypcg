@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2R125EA
 2044478
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dh0024nq-fhd-ips-144hz-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-rtx-2080-8gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2044478/thumbnails/gaming-156-omen-1
 9/20/2020 10:59:44 PM 12.541,26 RON
 9/23/2020 2:20:36 PM 12.541,26 RON
 9/25/2020 7:06:26 PM 12.541,26 RON
+9/27/2020 6:39:10 PM 12.541,26 RON

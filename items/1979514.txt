@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N2068BVN3590EMEA_U
 1979514
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3590-seria-3000-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-256gb-ssd-radeon-610-2gb-linux-black-3yr/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1979514/thumbnails/mwl_i7_10-750dba557d
 9/20/2020 10:58:16 PM 3.198,99 RON
 9/23/2020 2:00:08 PM 3.198,99 RON
 9/25/2020 7:08:43 PM 3.354,76 RON
+9/27/2020 6:57:19 PM 3.354,76 RON

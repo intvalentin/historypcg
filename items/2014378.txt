@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8VT66EA
 2014378
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/133-probook-430-g7-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/9943/2014378/thumbnails/mwl_i3_10-a8adbbc7a3
     Pret    
 9/20/2020 10:59:10 PM 3.578,19 RON
 9/25/2020 7:07:56 PM 3.578,19 RON
+9/27/2020 6:50:35 PM 3.578,19 RON

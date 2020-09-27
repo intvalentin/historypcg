@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W1002SRM
 2043106
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15ada05-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-512gb-ssd-radeon-rx-vega-10-no-os-abyss-blue/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3041/2043106/thumbnails/156-ideapad-3-15ada0
     Pret    
 9/20/2020 10:59:58 PM 2.498,99 RON
 9/25/2020 7:17:03 PM 2.498,99 RON
+9/27/2020 8:37:33 PM 2.498,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.HS5EX.003
 2011718
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-3-a315-56-fhd-procesor-intel-core-i3-1005g1-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/9943/2011718/thumbnails/156-aspire-3-a315-56
     Pret    
 9/20/2020 10:59:58 PM 2.108,51 RON
 9/25/2020 7:22:17 PM 2.098,99 RON
+9/27/2020 9:17:45 PM 2.098,99 RON

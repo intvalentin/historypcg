@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |P5440FA-BM0882R
 2044398
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/14-p5440fa-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-grey-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/2044398/thumbnails/14-p5440fa-fhd-proce
 9/20/2020 10:59:14 PM 4.466,26 RON
 9/23/2020 2:20:36 PM 4.465,80 RON
 9/25/2020 7:17:03 PM 4.477,92 RON
+9/27/2020 6:39:27 PM 4.480,49 RON

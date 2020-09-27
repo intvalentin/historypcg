@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Y4006ERM
 2057102
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-ideapad-3-15imh05-fhd-ips-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-chameleon-blue/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7193/2057102/thumbnails/gaming-156-ideapad-g
     Pret    
 9/20/2020 10:59:58 PM 3.398,99 RON
 9/25/2020 7:14:47 PM 3.398,99 RON
+9/27/2020 8:02:52 PM 3.398,99 RON

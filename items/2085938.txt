@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5593I7165121MXUB
 2085938
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-5593-seria-5000-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-1tb-7200-rpm-plus-512gb-ssd-geforce-mx230-4gb-linux-platinum-silver-3yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8486/2085938/thumbnails/mwl_i7_10-24545499ad
     Pret    
 9/20/2020 11:01:13 PM 4.601,12 RON
 9/25/2020 7:10:16 PM 4.613,13 RON
+9/27/2020 7:24:43 PM 4.615,78 RON

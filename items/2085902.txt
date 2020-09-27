@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16V112-472
 2085902
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-156-gs66-stealth-10sd-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2085902/thumbnails/gaming-156-gs66-s
 9/20/2020 10:59:34 PM 7.897,10 RON
 9/23/2020 2:04:14 PM 7.895,15 RON
 9/25/2020 7:10:16 PM 7.917,73 RON
+9/27/2020 7:25:00 PM 7.922,27 RON

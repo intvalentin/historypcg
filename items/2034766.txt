@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |13G76EA
 2034766
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce3041nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-16gb-ddr4-1tb-plus-256gb-ssd-gma-uhd-free-dos-mineral-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1990366/2034766/thumbnails/14-pavilion-14-ce
     Pret    
 9/20/2020 11:00:21 PM 3.599,00 RON
 9/25/2020 7:18:32 PM 3.599,00 RON
+9/27/2020 8:47:30 PM 3.599,00 RON

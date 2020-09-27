@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.HNSEX.01D
 2056154
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-3-a315-55g-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-geforce-mx230-2gb-linux-black-1/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1953966/2056154/thumbnails/mwl_i5_10-937432b
     Pret    
 9/20/2020 11:00:26 PM 2.872,13 RON
 9/25/2020 7:14:47 PM 2.880,40 RON
+9/27/2020 8:06:05 PM 2.882,06 RON

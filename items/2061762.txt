@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2S977EA
 2061762
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15s-eq0047nq-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-vega-10-free-dos-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2034042/2061762/thumbnails/156-15s-eq0054nq-
     Pret    
 9/20/2020 10:59:58 PM 2.599,00 RON
 9/25/2020 7:13:16 PM 2.599,00 RON
+9/27/2020 7:55:14 PM 2.599,00 RON

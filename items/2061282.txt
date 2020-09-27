@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-17H312-052
 2061282
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-173-gt76-titan-dt-10sgs-fhd-300hz-procesor-intel-core-i9-10900k-20m-cache-up-to-530-ghz-32gb-ddr4-2x-1tb-ssd-geforce-rtx-2080-super-8gb-win-10-pro-dark-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2061282/thumbnails/gaming-173-gt76-tita
     Pret    
 9/20/2020 11:00:45 PM 20.999,00 RON
 9/25/2020 7:13:16 PM 20.999,00 RON
+9/27/2020 7:55:31 PM 20.999,00 RON

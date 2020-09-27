@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.HSGEX.001
 2023582
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-a515-55-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-gma-uhd-linux-black-1/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1979534/2023582/thumbnails/mwl_i5_10-770c4b4
     Pret    
 9/20/2020 11:00:53 PM 2.845,52 RON
 9/25/2020 7:20:47 PM 2.852,95 RON
+9/27/2020 9:08:16 PM 2.854,58 RON

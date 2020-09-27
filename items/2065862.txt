@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1L6W9EA
 2065862
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-omen-17-cb1031nq-fhd-ips-144hz-procesor-intel-core-i9-10885h-16m-cache-up-to-530-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2080-super-8gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2065862/thumbnails/gaming-173-omen-17-c
 9/20/2020 10:59:44 PM 14.899,99 RON
 9/23/2020 2:14:24 PM 14.899,99 RON
 9/25/2020 7:04:57 PM 14.899,99 RON
+9/27/2020 6:20:52 PM 14.899,99 RON

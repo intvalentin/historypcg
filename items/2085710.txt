@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16WK12-246
 2085710
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-156-bravo-15-a4ddr-fhd-144hz-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-5500m-4gb-free-dos-dark-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3354/2085710/thumbnails/gaming-156-bravo-15-
     Pret    
 9/20/2020 11:01:08 PM 4.238,90 RON
 9/25/2020 7:10:16 PM 4.249,97 RON
+9/27/2020 7:25:53 PM 4.252,41 RON

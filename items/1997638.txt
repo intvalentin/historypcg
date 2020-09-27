@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20NY001QRI
 1997638
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t490s-wqhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1202/1997638/thumbnails/mwl_i7_8-e976bd1ab7b
     Pret    
 9/20/2020 10:59:39 PM 9.941,19 RON
 9/25/2020 7:07:56 PM 9.941,19 RON
+9/27/2020 6:52:17 PM 9.941,19 RON

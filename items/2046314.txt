@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3500I5811650TIU, DG3FI510300H8GB1TB4GU3Y-05
 2046314
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g3-3500-fhd-144hz-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-8gb-ddr4-1tb-ssd-geforce-gtx-1650-ti-4gb-linux-eclipse-black-3yr-cis/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046314/thumbnails/gaming-156-g3-350
 9/20/2020 10:59:24 PM 5.599,00 RON
 9/23/2020 2:18:32 PM 5.599,00 RON
 9/25/2020 7:06:26 PM 5.599,00 RON
+9/27/2020 6:38:17 PM 5.599,00 RON

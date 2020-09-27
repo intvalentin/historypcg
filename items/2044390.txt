@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |152M4EA
 2044390
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-dk0049nq-fhd-ips-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/2044390/thumbnails/mwl_i5_9-c963195eb14
 9/20/2020 10:59:00 PM 4.799,00 RON
 9/23/2020 2:20:36 PM 4.799,00 RON
 9/25/2020 7:07:12 PM 4.799,00 RON
+9/27/2020 6:39:43 PM 4.799,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA401II-HE046
 2029114
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-14-rog-zephyrus-g14-ga401ii-fhd-120hz-procesor-amd-ryzen-7-4800hs-8m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-no-os-white/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8491/2029114/thumbnails/gaming-14-rog-zephyr
     Pret    
 9/20/2020 11:00:30 PM 5.998,99 RON
 9/25/2020 7:20:02 PM 5.998,99 RON
+9/27/2020 8:59:14 PM 5.998,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DA15R3I732G512NWP
 2060290
     Product link    
 https://www.pcgarage.ro/notebook-laptop/alienware/gaming-156-m15-r3-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-32gb-ddr4-2x-256gb-ssd-geforce-rtx-2070-super-8gb-win-10-pro-dark-side-of-the-moon-3yr-bos/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6954/2060290/thumbnails/gaming-156-m15-r3-fh
     Pret    
 9/20/2020 11:01:48 PM 15.259,05 RON
 9/25/2020 7:14:02 PM 15.303,03 RON
+9/27/2020 7:58:53 PM 15.311,82 RON

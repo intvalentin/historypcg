@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA502IV-HN021T
 2069322
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-zephyrus-g15-ga502iv-fhd-144hz-procesor-amd-ryzen-7-4800hs-8m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-win-10-home-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/9002/2069322/thumbnails/gaming-156-rog-zephy
     Pret    
 9/20/2020 10:58:46 PM 6.498,99 RON
 9/25/2020 7:12:31 PM 6.498,99 RON
+9/27/2020 7:42:31 PM 6.498,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9QF43EA
 2065870
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-dw1005nq-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-geforce-mx250-4gb-free-dos-chalkboard-gray/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6954/2065870/thumbnails/156-15-dw1005nq-fhd-
     Pret    
 9/20/2020 11:01:03 PM 3.648,08 RON
 9/25/2020 7:04:57 PM 3.564,80 RON
+9/27/2020 6:20:30 PM 3.564,80 RON

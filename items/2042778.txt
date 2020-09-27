@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8MH08EA
 2042778
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-1tb-gma-uhd-free-dos-silver/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/9943/2042778/thumbnails/mwl_i7_10-3e79ad7e08
     Pret    
 9/20/2020 11:00:58 PM 3.065,56 RON
 9/25/2020 7:17:48 PM 3.074,39 RON
+9/27/2020 8:39:10 PM 3.076,16 RON

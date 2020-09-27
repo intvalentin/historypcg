@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |175T3EA
 2089242
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-quot-250-g7-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-free-dos-silver/
@@ -8,3 +8,5 @@ HP 15.6&quot; 250 G7, FHD, Procesor Intel® Core™ i7-1065G7 (8M Cache, up to 3
 https://4.grgs.ro/images/products/1/1868718/2089242/thumbnails/156-quot-250-g7-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-free-dos-silver-72b8067ca0cf97069acddcb8d6ef204b.jpg
     Pret    
 9/25/2020 7:09:31 PM 3.185,62 RON
+9/27/2020 7:20:37 PM 3.187,44 RON
+9/27/2020 7:23:20 PM 3.187,44 RON

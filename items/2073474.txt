@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-17E711-293
 2073474
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-173-gp75-leopard-10sfk-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-free-dos-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2073474/thumbnails/gaming-173-gp75-leop
 9/20/2020 10:58:43 PM 7.498,99 RON
 9/23/2020 1:39:36 PM 7.498,99 RON
 9/25/2020 7:11:01 PM 7.498,99 RON
+9/27/2020 7:35:47 PM 7.498,99 RON

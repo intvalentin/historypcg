@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16R412-665
 2061218
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/gaming-156-gf63-thin-10scxr-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-free-dos-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3041/2061218/thumbnails/gaming-156-gf63-thin
     Pret    
 9/20/2020 10:58:32 PM 4.398,99 RON
 9/25/2020 7:14:02 PM 4.398,99 RON
+9/27/2020 7:56:04 PM 4.398,99 RON

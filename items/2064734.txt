@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W4004KRM
 2064734
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15are05-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-8gb-ddr4-1tb-plus-128gb-ssd-radeon-no-os-abyss-blue/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7193/2064734/thumbnails/156-ideapad-3-15are0
     Pret    
 9/20/2020 10:59:53 PM 2.649,99 RON
 9/25/2020 7:13:16 PM 2.649,99 RON
+9/27/2020 7:52:14 PM 2.649,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RA001BRI
 1996662
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-e14-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1990366/1996662/thumbnails/mwl_i7_10-6e4a862
     Pret    
 9/20/2020 11:00:26 PM 5.199,00 RON
 9/25/2020 7:23:02 PM 5.199,00 RON
+9/27/2020 6:53:08 PM 5.199,00 RON

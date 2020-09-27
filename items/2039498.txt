@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DJ-EJ006
 2039498
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509dj-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-geforce-mx230-2gb-no-os-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6472/2039498/thumbnails/156-m509da-fhd-proce
     Pret    
 9/20/2020 10:59:53 PM 2.598,99 RON
 9/25/2020 7:17:48 PM 2.598,99 RON
+9/27/2020 8:42:22 PM 2.598,99 RON

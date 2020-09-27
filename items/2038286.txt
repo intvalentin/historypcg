@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2S946EA
 2038286
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-dw2004nq-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-512gb-ssd-geforce-mx330-2gb-free-dos-silver/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2034042/2038286/thumbnails/156-15-dw2004nq-f
     Pret    
 9/20/2020 11:00:26 PM 3.399,00 RON
 9/25/2020 7:18:32 PM 3.399,00 RON
+9/27/2020 8:45:08 PM 3.399,00 RON

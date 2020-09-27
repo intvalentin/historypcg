@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PBS12E-08F024G6
 2039354
     Product link    
 https://www.pcgarage.ro/notebook-laptop/toshiba/dynabook-156-satellite-pro-l50-g-1cd-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2034042/2039354/thumbnails/dynabook-156-sate
     Pret    
 9/20/2020 11:01:08 PM 4.027,84 RON
 9/25/2020 7:17:48 PM 4.041,77 RON
+9/27/2020 8:43:00 PM 4.041,77 RON

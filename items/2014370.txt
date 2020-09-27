@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9HR55EA
 2014370
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-probook-450-g7-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-win-10-pro-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/9943/2014370/thumbnails/mwl_i3_10-7db97a1ecf
     Pret    
 9/20/2020 11:00:40 PM 2.970,43 RON
 9/25/2020 7:22:17 PM 2.978,19 RON
+9/27/2020 9:15:19 PM 2.979,90 RON

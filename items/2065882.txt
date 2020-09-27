@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2S960EA
 2065882
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-dw2018nq-fhd-ips-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-geforce-mx330-2gb-free-dos-silver/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2034042/2065882/thumbnails/156-15-dw2016nq-f
     Pret    
 9/20/2020 11:01:08 PM 3.999,00 RON
 9/25/2020 7:13:16 PM 3.999,00 RON
+9/27/2020 7:49:16 PM 3.999,00 RON

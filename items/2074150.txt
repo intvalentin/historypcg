@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N025L541014EMEA
 2074150
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-latitude-5410-seria-5000-fhd-procesor-intel-core-i7-10610u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-grey-3yr-bos/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4525/2074150/thumbnails/14-latitude-5410-ser
     Pret    
 9/20/2020 11:01:28 PM 7.160,70 RON
 9/25/2020 7:11:01 PM 7.179,41 RON
+9/27/2020 7:31:16 PM 7.183,53 RON

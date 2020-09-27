@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20N4002XRI
 1948178
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-t590-fhd-ips-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-1tb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5634/1948178/thumbnails/mwl_i7_8-cea53403fd0
     Pret    
 9/20/2020 10:59:05 PM 9.199,00 RON
 9/25/2020 7:08:43 PM 9.199,00 RON
+9/27/2020 7:00:47 PM 9.199,00 RON

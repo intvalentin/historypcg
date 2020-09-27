@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K6A4EA
 2060150
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-dk1005nq-fhd-ips-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-free-dos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6835/2060150/thumbnails/gaming-156-pavilion-
 9/20/2020 10:59:24 PM 5.099,99 RON
 9/23/2020 2:16:28 PM 5.099,99 RON
 9/25/2020 7:05:41 PM 5.099,99 RON
+9/27/2020 6:28:14 PM 5.099,99 RON

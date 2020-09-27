@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81Y8003HRM
 2062618
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-173-legion-5-17imh05h-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-plus-512gb-ssd-geforce-rtx-2060-6gb-no-os-phantom-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2045418/2062618/thumbnails/gaming-173-legion
     Pret    
 9/20/2020 11:00:16 PM 6.498,99 RON
 9/25/2020 7:13:16 PM 6.498,99 RON
+9/27/2020 7:53:39 PM 6.498,99 RON

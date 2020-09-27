@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16V211-094
 2045806
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/156-creator-15-a10set-fhd-touch-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-free-dos-carbon-grey/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2045418/2045806/thumbnails/156-creator-15-a1
     Pret    
 9/20/2020 11:00:40 PM 9.081,89 RON
 9/25/2020 7:17:02 PM 9.108,06 RON
+9/27/2020 8:35:18 PM 9.113,30 RON

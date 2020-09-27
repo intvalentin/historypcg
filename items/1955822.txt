@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G531GW-AZ288
 1955822
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-hero-iii-g531gw-fhd-240hz-3ms-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-no-os-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1899326/1955822/thumbnails/mwl_i7_9-bef05b43
     Pret    
 9/20/2020 10:59:39 PM 8.918,07 RON
 9/25/2020 7:08:43 PM 8.953,40 RON
+9/27/2020 6:59:52 PM 8.953,40 RON

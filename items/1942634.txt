@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7NA67EA
 1942634
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-x-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-2x-256gb-ssd-geforce-rtx-2070-8gb-win-10-home-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6835/1942634/thumbnails/mwl_i7_9-1837e6952ec
     Pret    
 9/20/2020 10:59:44 PM 12.308,46 RON
 9/25/2020 7:09:31 PM 12.308,46 RON
+9/27/2020 7:02:39 PM 12.308,46 RON

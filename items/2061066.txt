@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA401IV-HE135T
 2061066
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-14-rog-zephyrus-g14-ga401iv-fhd-120hz-procesor-amd-ryzen-9-4900hs-8m-cache-up-to-440-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-win-10-home-moonlight-white-anime-matrix/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/8491/2061066/thumbnails/gaming-14-rog-zephyr
     Pret    
 9/20/2020 11:01:33 PM 8.263,08 RON
 9/25/2020 7:14:02 PM 8.295,89 RON
+9/27/2020 7:56:54 PM 8.295,89 RON

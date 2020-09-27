@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DA-EJ231
 2040758
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-16gb-ddr4-512gb-ssd-radeon-rx-vega-10-no-os-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6472/2040758/thumbnails/156-m509da-fhd-proce
     Pret    
 9/20/2020 10:59:53 PM 2.598,99 RON
 9/25/2020 7:17:48 PM 2.598,99 RON
+9/27/2020 8:40:04 PM 2.598,99 RON

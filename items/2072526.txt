@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20U50008RI
 2072526
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-l14-gen-1-fhd-procesor-amd-ryzen-5-4500u-8m-cache-up-to-40-ghz-16gb-ddr4-512gb-ssd-radeon-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7193/2072526/thumbnails/14-thinkpad-l14-gen-
     Pret    
 9/20/2020 11:01:13 PM 4.799,00 RON
 9/25/2020 7:11:46 PM 4.799,00 RON
+9/27/2020 7:37:53 PM 4.799,00 RON

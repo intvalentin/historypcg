@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X512JP-EJ176
 2043486
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-15-x512jp-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx330-2gb-no-os-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6166/2043486/thumbnails/156-vivobook-15-x512
     Pret    
 9/20/2020 11:00:16 PM 3.598,99 RON
 9/25/2020 7:17:03 PM 3.598,99 RON
+9/27/2020 8:37:15 PM 3.598,99 RON

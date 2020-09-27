@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RDZ-00008
 2033810
     Product link    
 https://www.pcgarage.ro/notebook-laptop/microsoft/15-surface-laptop-3-for-business-pixelsense-touch-procesor-intel-core-i5-1035g7-6m-cache-up-to-370-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-win-10-pro-platinum/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2033810/thumbnails/15-surface-laptop-3-
 9/20/2020 10:59:34 PM 8.785,26 RON
 9/23/2020 2:22:39 PM 8.791,58 RON
 9/25/2020 7:07:12 PM 8.820,60 RON
+9/27/2020 6:45:41 PM 8.820,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RR001LRM
 1996514
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/133-thinkbook-13s-iml-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-no-os-mineral-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3944/1996514/thumbnails/mwl_i7_10-675ddeafd7
     Pret    
 9/20/2020 11:01:13 PM 4.731,65 RON
 9/25/2020 7:07:56 PM 4.748,02 RON
+9/27/2020 6:54:00 PM 4.748,02 RON

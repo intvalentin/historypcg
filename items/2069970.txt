@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W4004BRM
 2069970
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-3-15are05-fhd-procesor-amd-ryzen-3-4300u-4m-cache-up-to-370-ghz-4gb-ddr4-256gb-ssd-radeon-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7960/2069970/thumbnails/156-ideapad-3-15are0
     Pret    
 9/20/2020 11:00:49 PM 1.910,23 RON
 9/25/2020 7:11:46 PM 1.915,22 RON
+9/27/2020 7:40:40 PM 1.916,31 RON

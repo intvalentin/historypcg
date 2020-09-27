@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RD0011RI
 1997026
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e15-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-radeon-rx-640-2gb-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1977958/1997026/thumbnails/mwl_i7_10-8029e1c
     Pret    
 9/20/2020 11:00:07 PM 5.198,99 RON
 9/25/2020 7:23:02 PM 5.198,99 RON
+9/27/2020 6:52:51 PM 5.198,99 RON

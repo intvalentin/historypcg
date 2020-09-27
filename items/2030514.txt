@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DA-EJ345
 2030514
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-3-3250u-4m-cache-up-to-350-ghz-4gb-256gb-ssd-radeon-no-os-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6472/2030514/thumbnails/156-m509da-fhd-proce
     Pret    
 9/20/2020 10:59:58 PM 1.498,99 RON
 9/25/2020 7:20:02 PM 1.498,99 RON
+9/27/2020 8:57:06 PM 1.498,99 RON

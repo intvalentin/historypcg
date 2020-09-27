@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20RR001JRM
 2045970
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/133-thinkbook-13s-iml-fhd-ips-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-gma-uhd-no-os-mineral-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3944/2045970/thumbnails/mwl_i5_10-d96096cf88
 9/20/2020 10:59:10 PM 3.999,00 RON
 9/23/2020 2:20:36 PM 3.999,00 RON
 9/25/2020 7:06:26 PM 3.999,00 RON
+9/27/2020 6:38:53 PM 3.999,00 RON

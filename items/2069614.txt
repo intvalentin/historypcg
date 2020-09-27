@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GX502LXS-HF027
 2069614
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-zephyrus-s15-gx502lxs-fhd-300hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-32gb-ddr4-1tb-ssd-geforce-rtx-2080-super-8gb-no-os-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7193/2069614/thumbnails/gaming-156-rog-zephy
     Pret    
 9/20/2020 11:01:43 PM 13.726,40 RON
 9/25/2020 7:11:46 PM 13.762,28 RON
+9/27/2020 7:41:58 PM 13.770,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K9P0EA
 2069634
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-ek0000nq-fhd-ips-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2069634/thumbnails/gaming-156-omen-15-e
     Pret    
 9/20/2020 10:59:29 PM 6.869,13 RON
 9/25/2020 7:03:27 PM 6.887,07 RON
+9/27/2020 6:12:00 PM 6.891,03 RON

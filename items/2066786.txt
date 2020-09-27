@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K5U0EA
 2066786
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce3014nq-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-geforce-mx250-4gb-free-dos-mineral-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990366/2066786/thumbnails/14-pavilion-14-ce
 9/20/2020 10:59:10 PM 3.891,34 RON
 9/23/2020 2:12:21 PM 3.891,34 RON
 9/25/2020 7:04:12 PM 3.891,34 RON
+9/27/2020 6:17:55 PM 3.891,75 RON

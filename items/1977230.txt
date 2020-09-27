@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8PS94EA
 1977230
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dh0012nq-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-7200-rpm-plus-256gb-ssd-geforce-rtx-2080-8gb-freedos-shadow-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1261/1977230/thumbnails/mwl_i7_9-68656b99bfa
     Pret    
 9/20/2020 10:59:05 PM 9.970,46 RON
 9/25/2020 7:08:43 PM 9.970,46 RON
+9/27/2020 6:57:35 PM 9.970,46 RON

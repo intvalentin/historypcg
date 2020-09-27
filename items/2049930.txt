@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GX550LWS-HC065T
 2049930
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-zephyrus-duo-15-gx550lws-uhd-procesor-intel-core-i7-10875h-16m-cache-up-to-510-ghz-32gb-ddr4-1tb-ssd-geforce-rtx-2070-super-8gb-win-10-home-gunmetal-gray/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2045418/2049930/thumbnails/gaming-156-rog-ze
     Pret    
 9/20/2020 11:01:48 PM 15.999,00 RON
 9/25/2020 7:16:18 PM 15.999,00 RON
+9/27/2020 8:16:21 PM 15.999,00 RON

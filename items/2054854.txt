@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20S0000NRI
 2054854
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14-gen-1-fhd-ips-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2054854/thumbnails/14-thinkpad-t14-gen-
 9/20/2020 10:59:00 PM 8.999,00 RON
 9/23/2020 2:18:32 PM 8.999,00 RON
 9/25/2020 7:06:26 PM 8.999,00 RON
+9/27/2020 6:34:42 PM 8.999,00 RON

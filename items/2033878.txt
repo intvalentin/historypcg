@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |V4G-00008
 2033878
     Product link    
 https://www.pcgarage.ro/notebook-laptop/microsoft/15-surface-laptop-3-pixelsense-touch-procesor-amd-ryzen-5-3580u-4m-cache-up-to-370-ghz-8gb-ddr4-128gb-ssd-radeon-vega-9-win-10-home-platinum/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033878/thumbnails/15-surface-laptop-3-
 9/20/2020 10:59:29 PM 7.206,14 RON
 9/23/2020 2:22:39 PM 7.211,18 RON
 9/25/2020 7:07:12 PM 7.235,16 RON
+9/27/2020 6:44:15 PM 7.235,16 RON

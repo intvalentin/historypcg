@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20Q500E2RI
 2072502
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-l490-fhd-procesor-intel-core-i7-8565u-8m-cache-up-to-460-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-4g-lte-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6835/2072502/thumbnails/mwl_i7_8-f8fc0e463f6
     Pret    
 9/20/2020 11:01:23 PM 6.399,00 RON
 9/25/2020 7:11:46 PM 6.399,00 RON
+9/27/2020 7:38:43 PM 6.399,00 RON

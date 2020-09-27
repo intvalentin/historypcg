@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DA17R3I716G15TNWP
 2060298
     Product link    
 https://www.pcgarage.ro/notebook-laptop/alienware/gaming-173-m17-r3-fhd-300hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-2x-512gb-raid-plus-512gb-ssd-geforce-rtx-2070-8gb-win-10-pro-lunar-light-3yr-bos/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2060298/thumbnails/gaming-173-m17-r3-fh
 9/20/2020 10:59:49 PM 15.841,23 RON
 9/23/2020 2:16:28 PM 15.841,56 RON
 9/25/2020 7:05:41 PM 15.886,88 RON
+9/27/2020 6:26:45 PM 15.896,01 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X512JA-EJ368
 2074010
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-15-x512ja-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-intel-iris-plus-no-os-grey/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6835/2074010/thumbnails/156-vivobook-15-x512
     Pret    
 9/20/2020 11:00:59 PM 3.180,51 RON
 9/25/2020 7:11:01 PM 3.189,66 RON
+9/27/2020 7:32:59 PM 3.191,49 RON

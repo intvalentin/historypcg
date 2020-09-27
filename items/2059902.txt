@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20T0001ERI
 2059902
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t14s-gen-1-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-16gb-ddr4-512gb-ssd-gma-uhd-win-10-pro-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2059902/thumbnails/14-thinkpad-t14s-gen
 9/20/2020 10:59:39 PM 9.299,00 RON
 9/23/2020 2:16:28 PM 9.299,00 RON
 9/25/2020 7:05:41 PM 9.299,00 RON
+9/27/2020 6:28:30 PM 9.299,00 RON

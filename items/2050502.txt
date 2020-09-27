@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G512LI-AL013
 2050502
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-g15-g512li-fhd-144hz-procesor-intel-core-i5-10300h-8m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-ti-4gb-free-dos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2050502/thumbnails/gaming-156-rog-strix
 9/20/2020 10:59:14 PM 4.399,99 RON
 9/23/2020 2:18:32 PM 3.999,00 RON
 9/25/2020 7:06:26 PM 3.999,00 RON
+9/27/2020 6:37:10 PM 3.999,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA502IU-AL014
 2083938
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-zephyrus-g15-ga502iu-fhd-144hz-procesor-amd-ryzen-7-4800hs-8m-cache-up-to-420-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2083938/thumbnails/gaming-156-rog-zephy
 9/20/2020 10:59:29 PM 6.299,99 RON
 9/23/2020 2:04:14 PM 6.299,99 RON
 9/25/2020 7:02:43 PM 6.299,99 RON
+9/27/2020 7:28:41 PM 6.299,99 RON

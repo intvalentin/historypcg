@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81VD00C7RM
 2057086
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-ikb-fhd-procesor-intel-core-i3-8130u-4m-cache-up-to-340-ghz-8gb-ddr4-1tb-plus-256gb-ssd-gma-uhd-620-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1236/2057086/thumbnails/156-ideapad-s145-ikb
     Pret    
 9/20/2020 10:58:16 PM 2.398,99 RON
 9/25/2020 7:14:47 PM 2.398,99 RON
+9/27/2020 8:03:25 PM 2.499,99 RON

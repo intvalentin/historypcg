@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K9L1EA
 2054942
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-ec1023nq-fhd-procesor-amd-ryzen-5-4600h-8m-cache-up-to-40-ghz-16gb-ddr4-1tb-7200-rpm-plus-256gb-ssd-geforce-gtx-1650-ti-4gb-free-dos-shadow-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7960/2054942/thumbnails/gaming-156-pavilion-
     Pret    
 9/20/2020 11:00:16 PM 4.198,99 RON
 9/25/2020 7:15:31 PM 4.198,99 RON
+9/27/2020 8:09:14 PM 4.198,99 RON

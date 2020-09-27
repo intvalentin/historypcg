@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G712LV-EV004
 2056174
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-g17-g712lv-fhd-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-no-os-black-1/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2045418/2056174/thumbnails/gaming-173-rog-st
     Pret    
 9/20/2020 11:01:28 PM 7.199,99 RON
 9/25/2020 7:14:47 PM 7.199,99 RON
+9/27/2020 8:05:49 PM 7.199,99 RON

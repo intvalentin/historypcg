@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1K5U9EA
 2066790
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/14-pavilion-14-ce3049nq-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-geforce-mx250-4gb-win-10-home-ceramic-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2066790/thumbnails/14-pavilion-14-ce304
 9/20/2020 10:59:14 PM 4.412,44 RON
 9/23/2020 2:12:21 PM 4.412,44 RON
 9/25/2020 7:04:12 PM 4.412,44 RON
+9/27/2020 6:17:38 PM 4.412,44 RON
