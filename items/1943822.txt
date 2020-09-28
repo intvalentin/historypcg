@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20Q7001ARI
 1943822
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-l590-fhd-ips-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5758/1943822/thumbnails/mwl_i5_8-a0cb0e79eb8
     Pret    
 9/20/2020 11:01:13 PM 4.999,00 RON
 9/25/2020 7:30:57 PM 4.999,00 RON
+9/28/2020 8:19:49 AM 4.999,00 RON

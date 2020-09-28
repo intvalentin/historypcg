@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N013L540014EMEA, 210-ARXJ
 1972186
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-latitude-5400-seria-5000-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black-3yr-on-site/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1202/1972186/thumbnails/14-latitude-5400-ser
     Pret    
 9/20/2020 10:59:24 PM 5.007,24 RON
 9/25/2020 7:30:13 PM 5.024,55 RON
+9/28/2020 8:07:46 AM 5.024,55 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20QR0030RI
 1970654
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/173-thinkpad-p73-mobile-workstation-uhd-ips-procesor-intel-core-i9-9880h-16m-cache-up-to-480-ghz-32gb-ddr4-1tb-ssd-quadro-rtx-4000-8gb-win-10-pro-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/8486/1970654/thumbnails/mwl_i9_9-0448a08b9ee
     Pret    
 9/20/2020 11:01:48 PM 21.313,36 RON
 9/25/2020 7:30:13 PM 24.503,91 RON
+9/28/2020 8:08:02 AM 24.518,00 RON

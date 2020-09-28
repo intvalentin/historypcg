@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81SX00T0RM
 1988598
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-y540-fhd-ips-144hz-procesor-intel-core-i5-9300hf-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-no-os-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/8629/1988598/thumbnails/mwl_i5_9-bc91b88d832
     Pret    
 9/20/2020 11:00:12 PM 5.245,13 RON
 9/25/2020 7:23:47 PM 5.260,24 RON
+9/28/2020 7:49:35 AM 5.263,27 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20L7001JRI
 1772736
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t480s-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-1tb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5015/1772736/thumbnails/14-thinkpad-t480s-wq
     Pret    
 9/20/2020 11:01:38 PM 10.346,73 RON
 9/25/2020 7:33:11 PM 10.376,57 RON
+9/28/2020 8:37:28 AM 10.382,52 RON

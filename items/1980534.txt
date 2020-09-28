@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N2102VN3590EMEA01_2005_UBU-05, N2102VN3590EMEA_U
 1980534
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3590-seria-3000-fhd-procesor-intel-core-i3-10110u-4m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-gma-uhd-linux-black-3yr-cis/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6472/1980534/thumbnails/mwl_i3_10-4feea52587
     Pret    
 9/20/2020 11:00:16 PM 2.398,99 RON
 9/25/2020 7:24:32 PM 2.398,99 RON
+9/28/2020 8:00:14 AM 2.398,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4MR61EA
 1760552
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-pavilion-15-bc408nq-fhd-procesor-intel-core-i7-8750h-processor-9m-cache-up-to-410-ghz-8gb-ddr4-1tb-geforce-gtx-1050-4gb-freedos-shadow-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1749840/1760552/thumbnails/mwl_i7_8-af5e4c29
     Pret    
 9/20/2020 11:01:03 PM 3.910,34 RON
 9/25/2020 7:33:11 PM 3.910,34 RON
+9/28/2020 8:38:02 AM 3.910,34 RON

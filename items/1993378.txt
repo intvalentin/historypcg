@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DA-EJ025
 1993378
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-transparent-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1979534/1993378/thumbnails/156-m509da-fhd-pr
     Pret    
 9/20/2020 10:59:58 PM 1.998,99 RON
 9/25/2020 7:23:02 PM 1.998,99 RON
+9/28/2020 7:46:53 AM 1.998,99 RON

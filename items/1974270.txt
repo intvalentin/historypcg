@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI3593FI51035G18GB256GB2GW10H2Y-05, DI3593I58256MXWH, DI3593I58256NWH
 1974270
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-3593-seria-3000-fhd-procesor-intel-core-i5-1035g1-6m-cache-up-to-360-ghz-8gb-ddr4-256gb-ssd-geforce-mx-230-2gb-win-10-home-black-2yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1261/1974270/thumbnails/mwl_i5_10-b267f85c3f
     Pret    
 9/20/2020 10:58:19 PM 3.198,99 RON
 9/25/2020 7:29:21 PM 3.198,99 RON
+9/28/2020 8:03:28 AM 3.198,99 RON

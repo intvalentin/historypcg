@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81MV00SBRM
 1965346
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-pentium-gold-5405u-2m-cache-230-ghz-4gb-ddr4-256gb-ssd-gma-uhd-610-no-os-granite-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1960570/1965346/thumbnails/mwl_pentium-996a6
     Pret    
 9/20/2020 11:00:49 PM 1.299,00 RON
 9/25/2020 7:30:13 PM 1.299,00 RON
+9/28/2020 8:08:57 AM 1.299,00 RON

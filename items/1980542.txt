@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N2068VN3490EMEA01_2005_UBU-05, N2068VN3490EMEA_U, N2068VN3490EMEA01_2005_UBU_RAIL-05
 1980542
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/14-vostro-3490-seria-3000-fhd-procesor-intel-core-i7-10510u-8m-cache-up-to-490-ghz-8gb-ddr4-256gb-ssd-radeon-610-2gb-linux-black-3yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/370411/1980542/thumbnails/mwl_i7_10-51513d43
     Pret    
 9/20/2020 11:00:16 PM 3.449,71 RON
 9/25/2020 7:24:32 PM 3.458,71 RON
+9/28/2020 7:59:35 AM 3.460,70 RON

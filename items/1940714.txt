@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LK00CNRM
 1940714
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-ideapad-l340-fhd-procesor-intel-core-i5-9300h-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-gtx-1050-3gb-freedos-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6622/1940714/thumbnails/mwl_i5_9-01629b146ea
 9/20/2020 10:58:14 PM 2.898,99 RON
 9/23/2020 2:02:10 PM 2.898,99 RON
 9/25/2020 7:31:42 PM 3.299,00 RON
+9/28/2020 8:21:00 AM 3.299,00 RON

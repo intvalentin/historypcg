@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mvvl2ro+-+a
 1972878
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/16-macbook-pro-16-retina-with-touch-bar-coffee-lake-6-core-i7-26ghz-16gb-ddr4-512gb-ssd-radeon-pro-5300m-4gb-mac-os-catalina-silver-ro-keyboard/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8486/1972878/thumbnails/mwl_i7_9-2ec83a512d8
     Pret    
 9/20/2020 11:01:43 PM 12.797,29 RON
 9/25/2020 7:29:21 PM 12.799,43 RON
+9/28/2020 8:05:26 AM 12.799,43 RON

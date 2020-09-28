@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M509DA-EJ160
 1985686
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-m509da-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-350-ghz-8gb-256gb-ssd-radeon-vega-3-no-os-grey/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6472/1985686/thumbnails/156-m509da-fhd-proce
     Pret    
 9/20/2020 11:00:49 PM 1.698,99 RON
 9/25/2020 7:24:31 PM 1.698,99 RON
+9/28/2020 7:56:30 AM 1.698,99 RON

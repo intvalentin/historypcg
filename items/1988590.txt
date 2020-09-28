@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81T3006TRM
 1988590
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-173-legion-y540-fhd-ips-procesor-intel-core-i7-9750hf-12m-cache-up-to-450-ghz-8gb-ddr4-1tb-plus-128gb-ssd-geforce-gtx-1650-4gb-freedos-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6622/1988590/thumbnails/mwl_i7_9-3422fbaf207
     Pret    
 9/20/2020 11:00:26 PM 4.909,13 RON
 9/25/2020 7:23:47 PM 4.923,27 RON
+9/28/2020 7:49:52 AM 4.926,11 RON

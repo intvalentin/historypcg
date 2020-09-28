@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |muhn2ze+-+a
 1922902
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-macbook-pro-13-retina-with-touch-bar-coffee-lake-i5-14ghz-8gb-128gb-ssd-iris-plus-645-mac-os-mojave-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/736/1922902/thumbnails/mwl_i5_8-981228e49c75
     Pret    
 9/20/2020 11:01:28 PM 7.229,41 RON
 9/25/2020 7:31:42 PM 7.220,23 RON
+9/28/2020 8:26:04 AM 7.220,23 RON

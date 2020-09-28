@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X512DA-EJ171
 1954746
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/156-vivobook-15-x512da-fhd-procesor-amd-ryzen-5-3500u-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-radeon-vega-8-no-os-transparent-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1953966/1954746/thumbnails/156-vivobook-15-x
     Pret    
 9/20/2020 10:59:49 PM 2.398,99 RON
 9/25/2020 7:30:57 PM 2.398,99 RON
+9/28/2020 8:17:47 AM 2.398,99 RON

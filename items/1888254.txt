@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MV902ZE+-+A+-+R1+-+D1+-+G1
 1888254
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/154-the-new-macbook-pro-15-retina-with-touch-bar-coffee-lake-6-core-i7-26ghz-32gb-ddr4-512gb-ssd-radeon-pro-550x-4gb-mac-os-mojave-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1703884/1888254/thumbnails/mwl_i7_9-0accec6f
     Pret    
 9/20/2020 11:01:48 PM 16.996,37 RON
 9/25/2020 7:32:27 PM 16.706,12 RON
+9/28/2020 8:30:46 AM 16.706,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mvvm2ro+-+a
 1972886
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/16-macbook-pro-16-retina-with-touch-bar-coffee-lake-8-core-i9-23ghz-16gb-ddr4-1tb-ssd-radeon-pro-5500m-4gb-mac-os-catalina-silver-ro-keyboard/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8486/1972886/thumbnails/mwl_i9_9-91651dc5b40
     Pret    
 9/20/2020 11:01:43 PM 15.075,66 RON
 9/25/2020 7:29:21 PM 15.080,04 RON
+9/28/2020 8:05:04 AM 15.080,04 RON

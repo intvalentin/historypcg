@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8RV24EA
 1991222
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-173-omen-17-cb0011nq-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-7200-rpm-plus-256gb-ssd-geforce-gtx-1660-ti-6gb-freedos-shadow-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6472/1991222/thumbnails/mwl_i7_9-12e496d8afb
     Pret    
 9/20/2020 11:01:28 PM 7.499,00 RON
 9/25/2020 7:23:47 PM 7.499,00 RON
+9/28/2020 7:49:01 AM 7.499,00 RON

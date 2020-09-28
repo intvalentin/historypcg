@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LG00J1RM
 1961138
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-iwl-fhd-procesor-intel-celeron-4205u-2m-cache-180-ghz-4gb-ddr4-128gb-ssd-gma-uhd-610-freedos-blizzard-white/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1953966/1961138/thumbnails/mwl_celeron-8f40f
     Pret    
 9/20/2020 11:00:45 PM 1.275,60 RON
 9/25/2020 7:30:57 PM 1.279,28 RON
+9/28/2020 8:14:27 AM 1.280,01 RON

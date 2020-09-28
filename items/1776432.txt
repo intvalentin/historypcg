@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20KS001QRI
 1776432
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-e580-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1642372/1776432/thumbnails/mwl_i7_8-9ccef719
     Pret    
 9/20/2020 11:01:18 PM 5.567,41 RON
 9/25/2020 7:33:11 PM 5.586,66 RON
+9/28/2020 8:36:10 AM 5.586,66 RON

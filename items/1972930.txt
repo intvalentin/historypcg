@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LW006NRM
 1972930
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-api-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-35-ghz-4gb-ddr4-256gb-ssd-radeon-vega-3-no-os-blizzard-white/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6835/1972930/thumbnails/156-ideapad-l340-api
     Pret    
 9/20/2020 11:00:07 PM 1.665,03 RON
 9/25/2020 7:29:21 PM 1.669,82 RON
+9/28/2020 8:04:30 AM 1.670,79 RON

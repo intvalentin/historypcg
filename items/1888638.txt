@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MV962ZE+-+A+-+R1
 1888638
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-the-new-macbook-pro-13-retina-with-touch-bar-coffee-lake-i5-24ghz-16gb-256gb-ssd-iris-plus-655-mac-os-mojave-space-grey-int-keyboard/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1703884/1888638/thumbnails/mwl_i5_8-656deec4
     Pret    
 9/20/2020 11:01:43 PM 11.255,88 RON
 9/25/2020 7:32:27 PM 11.062,79 RON
+9/28/2020 8:29:11 AM 11.062,79 RON

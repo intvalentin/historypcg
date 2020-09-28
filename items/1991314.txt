@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M712DK-AU035
 1991314
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/173-vivobook-17-m712dk-fhd-procesor-amd-ryzen-3-3200u-4m-cache-up-to-350-ghz-8gb-ddr4-256gb-ssd-radeon-r540x-2gb-freedos-transparent-silver/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1990682/1991314/thumbnails/173-vivobook-17-m
     Pret    
 9/20/2020 11:00:12 PM 2.503,75 RON
 9/25/2020 7:23:02 PM 2.510,96 RON
+9/28/2020 7:48:24 AM 2.512,41 RON

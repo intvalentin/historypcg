@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81MX0037RM
 1996122
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-igm-hd-procesor-intel-celeron-n4000-4m-cache-up-to-260-ghz-4gb-ddr4-256gb-ssd-gma-uhd-600-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1977958/1996122/thumbnails/mwl_celeron-92e3e
     Pret    
 9/20/2020 11:00:45 PM 1.199,00 RON
 9/25/2020 7:23:02 PM 1.199,00 RON
+9/28/2020 7:46:19 AM 1.199,00 RON

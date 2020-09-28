@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81UF000JRM
 1929078
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/gaming-156-legion-y740-fhd-ips-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-freedos-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3049/1929078/thumbnails/mwl_i7_9-3e1e6749764
     Pret    
 9/20/2020 11:00:30 PM 6.999,00 RON
 9/25/2020 7:31:42 PM 6.999,00 RON
+9/28/2020 8:23:01 AM 6.999,00 RON

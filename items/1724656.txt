@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20LW0010RI
 1724656
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-thinkpad-l580-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-16gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black-wwan/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1690716/1724656/thumbnails/156-thinkpad-l580
     Pret    
 9/20/2020 11:01:23 PM 6.783,85 RON
 9/25/2020 7:33:11 PM 6.803,40 RON
+9/28/2020 8:38:22 AM 6.807,31 RON

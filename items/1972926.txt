@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LG00JURM
 1972926
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-iwl-fhd-procesor-intel-core-i3-8145u-4m-cache-up-to-390-ghz-4gb-ddr4-512gb-ssd-gma-uhd-620-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1953966/1972926/thumbnails/mwl_i3_8-c7d84584
     Pret    
 9/20/2020 11:00:53 PM 2.222,21 RON
 9/25/2020 7:29:21 PM 2.228,61 RON
+9/28/2020 8:04:47 AM 2.229,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20L50000RI
 1722696
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-t480-fhd-ips-proccesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1689668/1722696/thumbnails/14-thinkpad-t480-
     Pret    
 9/20/2020 11:01:23 PM 6.563,23 RON
 9/25/2020 7:33:11 PM 6.582,15 RON
+9/28/2020 8:38:55 AM 6.585,93 RON

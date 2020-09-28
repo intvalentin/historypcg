@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81W8003MRM
 1986162
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-s145-fhd-procesor-intel-core-i7-1065g7-8m-cache-up-to-390-ghz-12gb-ddr4-512gb-ssd-intel-iris-plus-no-os-platinum-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1236/1986162/thumbnails/mwl_i7_10-d48682265e
     Pret    
 9/20/2020 11:00:59 PM 3.189,26 RON
 9/25/2020 7:24:31 PM 3.198,46 RON
+9/28/2020 7:55:53 AM 3.200,30 RON

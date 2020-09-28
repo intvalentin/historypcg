@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4DF59EA
 1808660
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-db0011nq-fhd-procesor-amd-ryzen-5-2500u-4m-cache-up-to-360-ghz-8gb-ddr4-1tb-plus-128gb-ssd-radeon-vega-8-freedos-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1703884/1808660/thumbnails/156-15-db0040nq-f
     Pret    
 9/20/2020 11:00:53 PM 2.595,53 RON
 9/25/2020 7:33:11 PM 2.604,51 RON
+9/28/2020 8:35:02 AM 2.604,51 RON

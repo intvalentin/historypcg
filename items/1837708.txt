@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5770I781281TR4GU
 1837708
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/173-inspiron-5770-seria-5000-fhd-procesor-intel-core-i7-8550u-processor-8m-cache-up-to-400-ghz-8gb-ddr4-1tb-plus-128gb-ssd-radeon-530-4gb-fingerprint-reader-linux-silver-3yr-cis-backlit/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2863/1837708/thumbnails/mwl_i7_8-85ec13c3362
     Pret    
 9/20/2020 11:01:08 PM 4.072,51 RON
 9/25/2020 7:33:11 PM 4.086,60 RON
+9/28/2020 8:33:55 AM 4.086,60 RON

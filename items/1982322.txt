@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N2072BVN3590EMEA_U, N2072BVN3590EMEA01_UBU
 1982322
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-3590-seria-3000-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-410-ghz-8gb-ddr4-256gb-ssd-radeon-610-2gb-linux-black-3yr-cis-no-odd/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6472/1982322/thumbnails/mwl_i5_10-ea1a2438ca
     Pret    
 9/20/2020 11:00:02 PM 3.053,43 RON
 9/25/2020 7:24:32 PM 3.061,40 RON
+9/28/2020 7:59:01 AM 3.063,16 RON

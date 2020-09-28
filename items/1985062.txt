@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N004VN7590EMEA, N004VN7590EMEA01_2001_WIN10P-05, N004VN7590EMEA01
 1985062
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-vostro-7590-seria-7000-fhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-win-10-pro-grey-3yr-bos/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1979534/1985062/thumbnails/mwl_i7_9-ae26d4f3
     Pret    
 9/20/2020 10:59:34 PM 7.596,97 RON
 9/25/2020 7:24:31 PM 7.616,83 RON
+9/28/2020 7:58:06 AM 7.621,20 RON

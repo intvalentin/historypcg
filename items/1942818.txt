@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LW007PRM
 1942818
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-api-fhd-procesor-amd-ryzen-7-3700u-4m-cache-up-to-40-ghz-8gb-ddr4-256gb-ssd-radeon-rx-vega-10-freedos-platinum-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/5758/1942818/thumbnails/156-ideapad-l340-api
     Pret    
 9/20/2020 11:00:53 PM 2.299,00 RON
 9/25/2020 7:30:57 PM 2.299,00 RON
+9/28/2020 8:20:06 AM 2.299,00 RON

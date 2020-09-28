@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FX505DT-BQ051
 1959694
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-tuf-fx505dt-fhd-procesor-amd-ryzen-5-3550h-4m-cache-up-to-370-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1650-4gb-no-os-stealth-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1202/1959694/thumbnails/gaming-156-tuf-fx505
 9/20/2020 10:58:13 PM 3.098,99 RON
 9/23/2020 2:02:10 PM 3.098,99 RON
 9/25/2020 7:30:57 PM 3.098,99 RON
+9/28/2020 8:15:55 AM 3.098,99 RON

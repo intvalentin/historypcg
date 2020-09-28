@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5590I7162561RTUB, DIG55590I7162561TNU, DG55590FI79750H16GB256GB1TR6GU3Y-05, DI5590I7162561144U
 1974686
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/gaming-156-g5-5590-fhd-144hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-plus-256gb-ssd-geforce-rtx-2060-6gb-linux-black-3yr-cis/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1236/1974686/thumbnails/mwl_i7_9-cae08e00cdc
     Pret    
 9/20/2020 10:58:56 PM 8.000,35 RON
 9/25/2020 7:29:21 PM 8.021,26 RON
+9/28/2020 8:03:11 AM 8.025,86 RON

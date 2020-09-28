@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MVFL2ZE+-+A+-+R1+-+D1
 1958458
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-new-macbook-air-13-with-retina-true-tone-intel-i5-16ghz-16gb-512gb-ssd-gma-uhd-617-macos-mojave-silver-int-keyboard/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/736/1958458/thumbnails/mwl_i5_8-b6d0acc50d0f
 9/20/2020 11:00:35 PM 9.398,99 RON
 9/23/2020 2:02:10 PM 9.398,99 RON
 9/25/2020 7:01:57 PM 9.398,99 RON
+9/28/2020 8:16:12 AM 9.398,99 RON

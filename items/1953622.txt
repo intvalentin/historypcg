@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9S7-16Q412-1288
 1953622
     Product link    
 https://www.pcgarage.ro/notebook-laptop/msi/156-p65-creator-9se-uhd-procesor-intel-core-i7-9750h-processor-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2060-6gb-freedos-silver/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6997/1953622/thumbnails/mwl_i7_9-2226f45e5f7
     Pret    
 9/20/2020 11:00:30 PM 10.585,45 RON
 9/25/2020 7:30:57 PM 10.585,45 RON
+9/28/2020 8:18:25 AM 10.585,45 RON

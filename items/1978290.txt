@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G531GW-AZ167
 1978290
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-156-rog-strix-scar-iii-g531gw-fhd-240hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-no-os-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8629/1978290/thumbnails/mwl_i7_9-1bb14b82f31
     Pret    
 9/20/2020 11:00:40 PM 9.227,44 RON
 9/25/2020 7:29:21 PM 9.227,44 RON
+9/28/2020 8:01:43 AM 9.227,44 RON

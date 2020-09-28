@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81CN0004RI
 1786492
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/173-v320-ikb-fhd-ips-procesor-intel-core-i5-8250u-6m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-win-10-pro-iron-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1779504/1786492/thumbnails/173-v320-ikb-fhd-
     Pret    
 9/20/2020 11:01:08 PM 4.018,09 RON
 9/25/2020 7:33:11 PM 4.029,67 RON
+9/28/2020 8:35:53 AM 4.031,99 RON

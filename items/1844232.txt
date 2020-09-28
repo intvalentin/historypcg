@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20N8002ARI
 1844232
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/14-thinkpad-e490-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4338/1844232/thumbnails/14-thinkpad-e490-fhd
     Pret    
 9/20/2020 11:01:08 PM 4.401,23 RON
 9/25/2020 7:33:11 PM 4.413,92 RON
+9/28/2020 8:33:18 AM 4.416,44 RON

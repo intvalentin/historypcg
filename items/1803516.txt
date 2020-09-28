@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20M50011RI
 1803516
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/133-thinkpad-l380-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-512gb-ssd-gma-uhd-620-win-10-pro-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1723568/1803516/thumbnails/133-thinkpad-l380
     Pret    
 9/20/2020 11:01:23 PM 5.923,46 RON
 9/25/2020 7:33:11 PM 5.940,53 RON
+9/28/2020 8:35:19 AM 5.943,94 RON

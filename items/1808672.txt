@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4JW98EA
 1808672
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-15-db0049nq-fhd-procesor-amd-ryzen-3-2200u-4m-cache-up-to-340-ghz-4gb-ddr4-256gb-ssd-radeon-vega-3-freedos-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1703884/1808672/thumbnails/156-15-db0040nq-f
     Pret    
 9/20/2020 11:00:49 PM 2.003,62 RON
 9/25/2020 7:33:11 PM 2.010,55 RON
+9/28/2020 8:34:29 AM 2.010,55 RON

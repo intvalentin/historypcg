@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |G731GU-H7158
 1982586
     Product link    
 https://www.pcgarage.ro/notebook-laptop/asus/gaming-173-rog-strix-g-g731gu-fhd-120hz-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-8gb-ddr4-512gb-ssd-geforce-gtx-1660-ti-6gb-no-os-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1202/1982586/thumbnails/mwl_i7_9-e5694b7a320
     Pret    
 9/20/2020 11:00:21 PM 5.498,99 RON
 9/25/2020 7:24:31 PM 5.498,99 RON
+9/28/2020 7:58:44 AM 5.498,99 RON

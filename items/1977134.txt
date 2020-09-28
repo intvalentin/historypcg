@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81YE0094RM
 1977134
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-v15-iwl-fhd-procesor-intel-core-i5-8265u-6m-cache-up-to-390-ghz-8gb-ddr4-512gb-ssd-geforce-mx110-2gb-no-os-iron-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6472/1977134/thumbnails/mwl_i5_8-18db27a6e9d
     Pret    
 9/20/2020 10:59:58 PM 2.865,13 RON
 9/25/2020 7:29:21 PM 2.873,39 RON
+9/28/2020 8:02:34 AM 2.875,04 RON

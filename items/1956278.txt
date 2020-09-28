@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81LG00J6RM
 1956278
     Product link    
 https://www.pcgarage.ro/notebook-laptop/lenovo/156-ideapad-l340-iwl-fhd-procesor-intel-pentium-gold-5405u-2m-cache-230-ghz-4gb-ddr4-256gb-ssd-gma-uhd-610-freedos-abyss-blue/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1953966/1956278/thumbnails/mwl_pentium-5c7ed
     Pret    
 9/20/2020 11:00:49 PM 1.564,31 RON
 9/25/2020 7:30:57 PM 1.568,82 RON
+9/28/2020 8:16:29 AM 1.569,72 RON

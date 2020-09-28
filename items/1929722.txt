@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.C4HEX.004
 1929722
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-conceptd-7-cn715-71-uhd-procesor-intel-core-i7-9750h-12m-cache-up-to-450-ghz-16gb-ddr4-1tb-ssd-geforce-rtx-2060-6gb-win-10-pro-white/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6622/1929722/thumbnails/mwl_i7_9-5fcb2238a14
     Pret    
 9/20/2020 11:01:38 PM 10.160,35 RON
 9/25/2020 7:31:42 PM 10.160,35 RON
+9/28/2020 8:22:27 AM 10.160,35 RON

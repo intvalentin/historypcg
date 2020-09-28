@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4DJ01EA
 1722192
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-pavilion-15-cw0007nq-fhd-procesor-amd-ryzen-5-2500u-4m-cache-up-to-360-ghz-8gb-ddr4-1tb-radeon-vega-8-freedos-silver/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1703884/1722192/thumbnails/156-pavilion-15-c
     Pret    
 9/20/2020 11:00:53 PM 2.641,11 RON
 9/25/2020 7:33:11 PM 2.650,24 RON
+9/28/2020 8:39:12 AM 2.650,24 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8AC84EA
 1981886
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-quot-250-g7-fhd-procesor-intel-core-i3-8130u-4m-cache-up-to-340-ghz-8gb-ddr4-256gb-ssd-gma-uhd-620-freedos-dark-ash-silver/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1868718/1981886/thumbnails/mwl_i3_8-c5b7c15b
     Pret    
 9/20/2020 10:59:53 PM 1.898,99 RON
 9/25/2020 7:24:32 PM 1.898,99 RON
+9/28/2020 7:59:18 AM 1.898,99 RON
