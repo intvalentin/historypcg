@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCQP2000-PB
 1584602
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-p2000-5gb-ddr5-160-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475490/1584602/thumbnails/nvidia-quadro-p20
 9/21/2020 7:34:25 AM 3.030,51 RON
 9/23/2020 6:55:51 PM 3.045,66 RON
 9/25/2020 8:21:12 PM 3.080,90 RON
+9/28/2020 8:08:20 PM 3.080,23 RON

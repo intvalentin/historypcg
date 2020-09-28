@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT16G4SFD824A
 1164469
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/16gb-ddr4-2400mhz-cl17-12v-dual-rank-x8/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1141198/1164469/thumbnails/16gb-ddr4-2400mhz
 9/20/2020 11:02:16 PM 316,18 RON
 9/23/2020 2:48:55 PM 316,18 RON
 9/25/2020 7:39:06 PM 316,18 RON
+09/28/2020 10:32:00 316,18 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GTX 1650 VENTUS XS 4G OCV1
 2061082
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1650-ventus-xs-ocv1-4gb-gddr5-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/6954/2061082/thumbnails/geforce-gtx-1650-ven
 9/23/2020 3:36:38 PM 802,48 RON
 9/23/2020 5:20:47 PM 802,48 RON
 9/25/2020 7:54:07 PM 809,14 RON
+09/28/2020 12:39:10 809,14 RON
+09/28/2020 15:15:32 812,21 RON

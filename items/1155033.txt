@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO16GX4M1A2133C15
 1155033
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-16gb-ddr4-2133mhz-cl15-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/1155033/thumbnails/valueselect-8gb-dd
 9/20/2020 11:02:16 PM 299,99 RON
 9/23/2020 2:48:55 PM 299,99 RON
 9/25/2020 7:39:06 PM 299,99 RON
+09/28/2020 10:32:16 299,99 RON

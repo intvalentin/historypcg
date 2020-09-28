@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000031BOX
 1893882
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-5-3600-36ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1893882/thumbnails/ryzen-5-3600-36ghz-b
 9/21/2020 7:34:36 AM 961,70 RON
 9/23/2020 3:14:11 PM 961,70 RON
 9/25/2020 7:45:52 PM 961,70 RON
+09/28/2020 11:29:37 961,70 RON

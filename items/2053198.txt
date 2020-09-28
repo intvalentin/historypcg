@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ES.04G2R.LDH
 2053198
     Product link    
 https://www.pcgarage.ro/memorii-notebook/apacer/4gb-ddr4-2133mhz-cl15-12v-8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053198/thumbnails/4gb-ddr4-2666mhz-cl1
 9/20/2020 11:02:42 PM 125,98 RON
 9/23/2020 2:59:51 PM 127,98 RON
 9/25/2020 7:42:08 PM 129,98 RON
+09/28/2020 10:58:05 129,98 RON

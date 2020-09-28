@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-P10300A-10L
 1492190
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gt-1030-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/472773/1492190/thumbnails/geforce-gt-1030-2g
 9/23/2020 4:33:30 PM 376,83 RON
 9/23/2020 5:58:05 PM 376,83 RON
 9/25/2020 7:59:26 PM 380,05 RON
+09/28/2020 13:25:40 381,40 RON
+09/28/2020 16:04:16 381,40 RON

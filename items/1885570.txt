@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRD-63828-038
 1885570
     Product link    
 https://www.pcgarage.ro/smartphone/blackberry/key-2-octa-core-128gb-6gb-ram-dual-sim-4g-tri-camera-red-limited-edition/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1885090/1885570/thumbnails/key-2-octa-core-1
     Pret    
 9/25/2020 8:56:21 PM 3.499,99 RON
 9/27/2020 8:52:38 AM 3.499,99 RON
+09/28/2020 11:41:09 3.499,99 RON

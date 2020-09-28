@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-505956
 1806864
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/amd/radeon-pro-wx-8200-8gb-hbm2-2048-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1804216/1806864/thumbnails/radeon-pro-wx-820
 9/21/2020 7:34:25 AM 5.357,87 RON
 9/23/2020 6:53:47 PM 5.430,71 RON
 9/25/2020 8:20:27 PM 5.475,83 RON
+9/28/2020 8:03:30 PM 5.469,81 RON

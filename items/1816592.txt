@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4368
 1816592
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1660-ti-pegasus-oc-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3645/1816592/thumbnails/geforce-gtx-1660-ti-
 9/21/2020 7:33:39 AM 1.410,84 RON
 9/23/2020 6:33:07 PM 1.426,69 RON
 9/25/2020 8:12:55 PM 1.438,58 RON
+09/28/2020 18:56:09 1.443,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I59600K
 1748184
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-9600k-370ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1748184/thumbnails/coffee-lake-core-
 9/21/2020 7:34:36 AM 1.050,17 RON
 9/23/2020 3:16:13 PM 1.050,17 RON
 9/25/2020 7:46:35 PM 1.050,17 RON
+09/28/2020 11:34:25 1.050,17 RON

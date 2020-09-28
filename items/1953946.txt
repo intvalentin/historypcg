@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N208SAORUS W-8GC
 1953946
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/aorus-geforce-rtx-2080-super-waterforce-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6997/1953946/thumbnails/aorus-geforce-rtx-20
 9/21/2020 7:32:51 AM 4.546,29 RON
 9/23/2020 6:18:42 PM 4.569,03 RON
 9/25/2020 8:07:40 PM 4.621,88 RON
+09/28/2020 18:09:53 4.620,89 RON

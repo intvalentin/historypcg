@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UE50TU8512
 2053370
     Product link    
 https://www.pcgarage.ro/televizoare-led/samsung/smart-tv-ue50tu8512u-seria-tu8512-127cm-alb-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2053370/thumbnails/smart-tv-ue43tu8512u
 9/21/2020 8:12:58 AM 3.242,98 RON
 9/25/2020 9:09:34 PM 3.242,98 RON
 9/27/2020 9:07:06 AM 3.242,98 RON
+09/28/2020 13:48:04 3.242,98 RON

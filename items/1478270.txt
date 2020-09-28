@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AB350M PRO4
 1478270
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/ab350m-pro4/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1109408/1478270/thumbnails/ab350m-pro4-b6be1
     Pret    
 9/23/2020 10:52:23 PM 346,15 RON
 9/25/2020 8:45:40 PM 350,15 RON
+9/28/2020 8:29:31 PM 350,07 RON

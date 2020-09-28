@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GTX 1650 SUPER GAMING X
 1978270
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1650-super-gaming-x-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/6472/1978270/thumbnails/geforce-gtx-1650-sup
 9/23/2020 3:40:43 PM 1.005,16 RON
 9/23/2020 5:24:52 PM 1.005,16 RON
 9/25/2020 7:55:36 PM 1.016,90 RON
+09/28/2020 12:52:56 1.016,69 RON
+09/28/2020 15:27:16 1.016,69 RON

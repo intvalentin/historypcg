@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |QE49LS01TAUXXH
 2062762
     Product link    
 https://www.pcgarage.ro/televizoare-led/samsung/the-serif-smart-tv-qled-49ls01t-seria-ls01t-123cm-alb-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2062762/thumbnails/the-serif-smart-tv-q
 9/21/2020 8:13:07 AM 5.599,99 RON
 9/25/2020 9:09:34 PM 5.599,99 RON
 9/27/2020 9:06:19 AM 5.599,99 RON
+09/28/2020 13:43:47 5.599,99 RON

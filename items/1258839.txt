@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FD8350FRHKHBX
 1258839
     Product link    
 https://www.pcgarage.ro/procesoare/amd/vishera-fx-8350-40ghz-wraith-cooler-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/843505/1258839/thumbnails/vishera-fx-8350-40
 9/21/2020 7:34:53 AM 303,02 RON
 9/23/2020 3:26:25 PM 306,22 RON
 9/25/2020 7:51:07 PM 309,69 RON
+09/28/2020 12:10:16 309,69 RON

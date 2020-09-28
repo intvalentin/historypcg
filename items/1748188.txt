@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I79700K
 1748188
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-9700k-360ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1748188/thumbnails/coffee-lake-core-
 9/21/2020 7:34:36 AM 1.603,63 RON
 9/23/2020 3:16:13 PM 1.603,63 RON
 9/25/2020 7:46:35 PM 1.603,63 RON
+09/28/2020 11:42:19 1.603,63 RON

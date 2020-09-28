@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-RX550-4G-EVO
 2055930
     Product link    
 https://www.pcgarage.ro/placi-video/asus/vga-as-phoenix-radeon-rx-550-4gb-gddr5/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/2045418/2055930/thumbnails/vga-pcie16-rx-550
 9/23/2020 3:32:32 PM 377,34 RON
 9/23/2020 5:15:56 PM 377,34 RON
 9/25/2020 7:52:37 PM 377,34 RON
+09/28/2020 12:20:47 377,34 RON
+09/28/2020 14:59:29 377,34 RON

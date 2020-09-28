@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11265-01-20G
 1480550
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-580-nitro-plus-8gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1480550/thumbnails/radeon-rx-580-nit
 9/21/2020 7:33:30 AM 1.015,15 RON
 9/23/2020 6:47:30 PM 1.028,95 RON
 9/25/2020 8:18:09 PM 1.037,50 RON
+9/28/2020 7:48:10 PM 1.036,36 RON

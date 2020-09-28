@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX X570-F GAMING
 1897466
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-x570-f-gaming/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3944/1897466/thumbnails/rog-strix-x570-f-gam
 9/21/2020 7:35:29 AM 1.501,17 RON
 9/23/2020 7:20:29 PM 1.515,97 RON
 9/25/2020 8:32:18 PM 1.534,55 RON
+9/28/2020 10:05:03 PM 1.534,21 RON

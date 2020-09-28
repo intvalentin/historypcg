@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1660GAMING-6GD
 1851890
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-gaming-6gb-gddr5-192-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/5664/1851890/thumbnails/geforce-gtx-1660-gam
 9/23/2020 3:34:35 PM 1.182,36 RON
 9/23/2020 5:17:58 PM 1.182,36 RON
 9/25/2020 8:12:10 PM 1.244,51 RON
+09/28/2020 18:47:53 1.243,14 RON

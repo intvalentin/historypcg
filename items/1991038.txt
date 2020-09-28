@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX5600XT PGD2 6GO
 1991038
     Product link    
 https://www.pcgarage.ro/placi-video/asrock/radeon-rx-5600-xt-phantom-gaming-d2-oc-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/1991038/thumbnails/radeon-rx-5600-xt
 9/21/2020 7:33:39 AM 1.444,32 RON
 9/23/2020 6:12:31 PM 1.460,81 RON
 9/25/2020 8:05:25 PM 1.473,11 RON
+09/28/2020 17:48:14 1.478,72 RON

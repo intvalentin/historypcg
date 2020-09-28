@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80677I37100
 1440114
     Product link    
 https://www.pcgarage.ro/procesoare/intel/kaby-lake-core-i3-7100-39ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1109408/1440114/thumbnails/intel-kaby-lake-c
 9/21/2020 7:34:39 AM 605,34 RON
 9/23/2020 3:18:15 PM 612,20 RON
 9/25/2020 7:47:20 PM 617,98 RON
+09/28/2020 11:42:35 617,98 RON

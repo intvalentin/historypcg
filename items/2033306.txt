@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RMINOTE9S464DSWH
 2033306
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9s-octa-core-64gb-4gb-ram-dual-sim-4g-5-camere-glacier-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2033306/thumbnails/redmi-note-9s-octa-c
 9/20/2020 11:40:08 PM 999,00 RON
 9/25/2020 8:51:19 PM 999,00 RON
 9/26/2020 10:51:11 PM 999,00 RON
+09/28/2020 10:54:22 999,00 RON

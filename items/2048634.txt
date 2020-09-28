@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GT710-4H-SL-2GD5
 2048634
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gt-710-4h-2gb-gddr5-64-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/2045418/2048634/thumbnails/vga-asus-geforce-
 9/23/2020 4:39:41 PM 363,74 RON
 9/23/2020 6:04:15 PM 363,74 RON
 9/25/2020 7:54:52 PM 333,86 RON
+09/28/2020 12:39:43 333,79 RON
+09/28/2020 15:16:05 333,79 RON

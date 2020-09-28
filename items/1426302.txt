@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |STRIX-GTX1050TI-O4G-GAMING
 1426302
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1050-ti-strix-gaming-o4g-4gb-ddr5-128-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1146523/1426302/thumbnails/geforce-gtx-1050-
 9/21/2020 7:33:20 AM 759,15 RON
 9/23/2020 6:49:34 PM 762,95 RON
 9/25/2020 8:18:09 PM 771,77 RON
+9/28/2020 7:51:47 PM 771,61 RON

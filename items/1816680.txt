@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N166TIXOC-6GD
 1816680
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-ti-mini-itx-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,4 @@ https://2.grgs.ro/images/products/1/753/1816680/thumbnails/geforce-gtx-1660-ti-m
 9/23/2020 4:31:25 PM 1.435,13 RON
 9/23/2020 5:43:13 PM 1.435,13 RON
 9/25/2020 8:12:55 PM 1.451,74 RON
+09/28/2020 18:55:35 1.451,42 RON

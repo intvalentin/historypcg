@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310M S2V 2.0
 1789032
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/gigabyte-h310m-s2v-20-ddr4-2666mhz-pci-e-30-x16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6440/1789032/thumbnails/h310m-s2v-20-d71749f
 9/21/2020 7:36:18 AM 271,56 RON
 9/23/2020 10:18:03 PM 274,43 RON
 9/25/2020 8:40:26 PM 277,60 RON
+9/28/2020 10:22:48 PM 277,55 RON

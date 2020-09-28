@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310N 2.0
 1975286
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/h310n-20/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1975286/thumbnails/h310n-20-83f87e29167
 9/21/2020 7:35:52 AM 386,11 RON
 9/23/2020 7:16:18 PM 390,64 RON
 9/25/2020 8:28:43 PM 393,84 RON
+9/28/2020 8:57:58 PM 395,31 RON

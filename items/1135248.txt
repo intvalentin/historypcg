@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R7320ZKAROM
 1135248
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/gear-s2-classic-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/1135248/thumbnails/gear-s2-classic-bl
 9/20/2020 11:45:51 PM 1.195,98 RON
 9/25/2020 9:01:31 PM 1.199,98 RON
 9/27/2020 8:58:13 AM 1.199,98 RON
+09/28/2020 12:26:56 1.199,98 RON

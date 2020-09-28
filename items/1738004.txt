@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B450 AORUS ELITE
 1738004
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-b450-elite/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1736364/1738004/thumbnails/aorus-b450-elite-
 9/21/2020 7:35:13 AM 489,55 RON
 9/23/2020 7:06:03 PM 489,55 RON
 9/25/2020 8:24:56 PM 509,99 RON
+9/28/2020 8:35:10 PM 489,55 RON

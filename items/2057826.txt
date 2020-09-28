@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-590P8DLD6
 2057826
     Product link    
 https://www.pcgarage.ro/placi-video/xfx/radeon-rx-590-fatboy-edition-8gb-gddr5-256-bit/
@@ -12,3 +12,4 @@ https://1.grgs.ro/images/products/1/3442/2057826/thumbnails/radeon-rx-590-fatboy
 9/23/2020 3:32:32 PM 938,19 RON
 9/23/2020 5:15:56 PM 938,19 RON
 9/25/2020 8:02:25 PM 1.202,81 RON
+09/28/2020 17:23:41 1.202,81 RON

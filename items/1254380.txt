@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1254380
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gt-710-1gb-ddr3-64-bit/
@@ -12,3 +12,6 @@ https://5.grgs.ro/images/products/1/959008/1254380/thumbnails/geforce-gt-710-1gb
 9/23/2020 4:33:30 PM 261,93 RON
 9/23/2020 5:58:05 PM 261,93 RON
 9/25/2020 8:00:10 PM 264,09 RON
+09/28/2020 13:30:25 265,16 RON
+09/28/2020 16:08:32 265,16 RON
+09/28/2020 17:03:46 265,16 RON

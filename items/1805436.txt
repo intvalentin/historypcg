@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-RTX2060-6G
 1805436
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-phoenix-6gb-gddr6-192-bit-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1802236/1805436/thumbnails/geforce-rtx-2060-
 9/21/2020 7:33:44 AM 1.915,31 RON
 9/23/2020 6:33:07 PM 1.935,50 RON
 9/25/2020 8:12:55 PM 1.957,89 RON
+09/28/2020 18:58:19 1.957,47 RON

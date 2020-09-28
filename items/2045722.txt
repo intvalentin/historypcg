@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |55HL7530U+-+B
 2045722
     Product link    
 https://www.pcgarage.ro/televizoare-led/horizon/smart-tv-55hl7530u-b-seria-hl7530u-b-139cm-negru-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2045722/thumbnails/smart-tv-55hl7530u-b
 9/21/2020 8:12:27 AM 1.498,99 RON
 9/25/2020 9:10:18 PM 1.498,99 RON
 9/27/2020 9:07:55 AM 1.498,99 RON
+09/28/2020 13:54:23 1.498,99 RON

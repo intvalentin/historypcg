@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1967150
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1660-super-ventus-xs-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,6 @@ https://1.grgs.ro/images/products/1/8977/1967150/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:34:35 PM 1.206,28 RON
 9/23/2020 5:17:58 PM 1.206,28 RON
 9/25/2020 7:56:22 PM 1.206,28 RON
+09/28/2020 12:59:16 1.308,58 RON
+09/28/2020 15:33:22 1.313,60 RON
+09/28/2020 18:03:17 1.313,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N166T2-06D6-1710VA15
 1816520
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1660-ti-twin-x2-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/753/1816520/thumbnails/geforce-gtx-1660-ti-t
 9/23/2020 4:31:25 PM 1.650,90 RON
 9/23/2020 5:43:13 PM 1.650,90 RON
 9/25/2020 7:58:40 PM 1.650,90 RON
+09/28/2020 13:18:14 1.650,90 RON
+09/28/2020 15:52:31 1.650,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MA-AP01-BLED
 1429658
     Product link    
 https://www.pcgarage.ro/coolere-placi-video/xfx/hard-swap-fan-blue-led/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/367655/1429658/thumbnails/hard-swap-fan-blue
 9/21/2020 7:34:31 AM 97,51 RON
 9/23/2020 6:57:54 PM 98,84 RON
 9/25/2020 8:21:58 PM 99,66 RON
+9/28/2020 8:19:01 PM 99,55 RON

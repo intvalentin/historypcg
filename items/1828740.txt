@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Amazfit Verge Blue
 1828740
     Product link    
 https://www.pcgarage.ro/smartwatch/xiaomi/amazfit-verge-albastru-inchis-curea-silicon-albastru-inchis-bluetooth-gps-si-senzor-hr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1828740/thumbnails/amazfit-verge-albast
 9/20/2020 11:45:47 PM 683,98 RON
 9/25/2020 9:00:47 PM 683,98 RON
 9/27/2020 8:57:25 AM 683,98 RON
+09/28/2020 12:19:06 683,98 RON

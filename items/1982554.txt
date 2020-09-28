@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSX64GX4M2A2666C18
 1982554
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/vengeance-64gb-ddr4-2666mhz-cl18-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1152773/1982554/thumbnails/vengeance-16gb-dd
 9/20/2020 11:02:29 PM 1.229,98 RON
 9/23/2020 2:55:42 PM 1.241,98 RON
 9/25/2020 7:39:51 PM 1.287,98 RON
+09/28/2020 10:39:28 1.287,98 RON

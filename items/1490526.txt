@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1030D5-2GL
 1490526
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-1030-low-profile-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/1427586/1490526/thumbnails/geforce-gt-1030-l
 9/23/2020 4:33:30 PM 377,09 RON
 9/23/2020 5:58:05 PM 377,09 RON
 9/25/2020 7:59:26 PM 386,75 RON
+09/28/2020 13:26:31 386,67 RON
+09/28/2020 16:05:06 386,67 RON

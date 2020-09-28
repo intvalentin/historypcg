@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MZB9466EU
 2037638
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9-octa-core-128gb-4gb-ram-dual-sim-4g-5-camere-midnight-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2037638/thumbnails/redmi-note-9-octa
 9/20/2020 11:39:57 PM 899,90 RON
 9/25/2020 8:50:37 PM 899,90 RON
 9/26/2020 10:50:26 PM 899,90 RON
+09/28/2020 10:50:19 899,90 RON

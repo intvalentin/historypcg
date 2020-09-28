@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N208TAORUS T-11GC
 1795092
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/aorus-geforce-rtx-2080-ti-turbo-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3049/1795092/thumbnails/aorus-geforce-rtx-20
 9/21/2020 7:34:19 AM 6.241,68 RON
 9/23/2020 6:33:07 PM 6.326,53 RON
 9/25/2020 8:12:55 PM 6.379,09 RON
+09/28/2020 18:58:53 6.372,08 RON

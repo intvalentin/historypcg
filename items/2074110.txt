@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N3090EAGLE OC-24GD
 2074110
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-3090-eagle-oc-24gb-gddr6x-384-bit/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4525/2074110/thumbnails/geforce-rtx-3090-eag
     Pret    
 9/23/2020 6:00:08 PM 0
 9/25/2020 8:00:54 PM 0
+09/28/2020 17:10:58 0

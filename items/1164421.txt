@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT4G4SFS8213
 1164421
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/4gb-ddr4-2133mhz-cl15-12v-single-rank-x8/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/1164421/thumbnails/4gb-ddr4-2133mhz-c
 9/20/2020 11:02:46 PM 233,98 RON
 9/23/2020 3:04:00 PM 235,98 RON
 9/25/2020 7:43:38 PM 239,98 RON
+09/28/2020 11:09:50 239,98 RON

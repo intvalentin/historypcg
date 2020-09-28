@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO8GX3M2C1600C11
 729845
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-8gb-ddr3-1600mhz-cl11-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/729845/thumbnails/valueselect-8gb-ddr
 9/20/2020 11:02:20 PM 249,98 RON
 9/23/2020 2:57:46 PM 251,98 RON
 9/25/2020 7:41:23 PM 253,98 RON
+09/28/2020 10:50:00 253,98 RON

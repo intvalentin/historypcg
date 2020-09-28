@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A2215, Apple iPhone 11 Pro 256GB Space Grey, MWC72
 1946442
     Product link    
 https://www.pcgarage.ro/smartphone/apple/iphone-11-pro-256gb-space-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1946442/thumbnails/iphone-11-pro-64gb-s
 9/20/2020 11:40:33 PM 6.682,98 RON
 9/25/2020 8:52:44 PM 6.682,98 RON
 9/26/2020 10:52:44 PM 5.299,99 RON
+09/28/2020 11:09:45 5.299,99 RON

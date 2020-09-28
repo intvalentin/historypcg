@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX5600XT-O6G-GAMING
 1990434
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5600-xt-rog-strix-gaming-o6g-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/370411/1990434/thumbnails/radeon-rx-5600-xt-
 9/23/2020 3:32:32 PM 1.648,79 RON
 9/23/2020 5:15:56 PM 1.648,79 RON
 9/25/2020 7:52:37 PM 1.648,79 RON
+09/28/2020 12:21:52 1.648,79 RON
+09/28/2020 15:00:35 1.648,79 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PHANTOM GXR RX570 4G OC
 1707780
     Product link    
 https://www.pcgarage.ro/placi-video/asrock/radeon-rx-570-phantom-gaming-x-oc-4gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692296/1707780/thumbnails/radeon-rx-570-pha
 9/21/2020 7:33:15 AM 639,46 RON
 9/23/2020 6:43:20 PM 646,79 RON
 9/25/2020 8:15:55 PM 652,13 RON
+9/28/2020 4:34:16 PM 771,94 RON

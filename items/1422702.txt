@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1050D5-2GD
 1422702
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1050-d5-2gb-ddr5-128-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1416562/1422702/thumbnails/geforce-gtx-1050-
 9/21/2020 7:33:15 AM 624,11 RON
 9/23/2020 6:49:34 PM 632,09 RON
 9/25/2020 8:18:57 PM 637,85 RON
+9/28/2020 7:53:19 PM 637,15 RON

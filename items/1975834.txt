@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2070 SUPER GAMING
 1975834
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2070-super-gaming-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/8977/1975834/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:32:56 AM 2.924,40 RON
 9/23/2020 6:14:34 PM 2.958,43 RON
 9/25/2020 8:06:13 PM 2.983,30 RON
+09/28/2020 17:57:55 2.993,77 RON

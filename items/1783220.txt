@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4320
 1783220
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2060-phoenix-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1783220/thumbnails/geforce-rtx-2060-pho
 9/21/2020 7:33:44 AM 1.674,99 RON
 9/23/2020 6:33:07 PM 1.693,49 RON
 9/25/2020 8:13:40 PM 1.709,34 RON
+09/28/2020 19:00:43 1.715,94 RON

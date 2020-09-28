@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1660OC-6GD
 1828756
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-oc-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/5664/1828756/thumbnails/geforce-gtx-1660-oc-
 9/23/2020 4:23:22 PM 1.076,57 RON
 9/23/2020 5:41:10 PM 1.076,57 RON
 9/25/2020 7:58:40 PM 1.076,57 RON
+09/28/2020 12:32:35 1.076,57 RON
+09/28/2020 15:09:04 1.076,57 RON

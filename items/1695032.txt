@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DP7720I732256P400W CTO
 1695032
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/173-precision-7720-seria-7000-fhd-procesor-intel-core-i7-7920hq-8m-cache-up-to-410-ghz-32gb-ddr4-2666mhz-1tb-7200-rpm-plus-256gb-ssd-quadro-p4000-8gb-win-10-pro-3yr-nbd/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1496454/1695032/thumbnails/mwl_i7_7-224b88bd
     Pret    
 9/20/2020 11:01:48 PM 17.659,60 RON
 9/25/2020 7:33:55 PM 17.659,60 RON
+9/28/2020 9:31:19 AM 17.659,60 RON

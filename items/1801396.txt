@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD240GC6FBBOX
 1801396
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-240ge-35ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1801396/thumbnails/athlon-240ge-35ghz-b
 9/21/2020 7:34:53 AM 346,99 RON
 9/23/2020 3:22:20 PM 350,95 RON
 9/25/2020 7:48:53 PM 353,90 RON
+09/28/2020 11:52:56 353,90 RON

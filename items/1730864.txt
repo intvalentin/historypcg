@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20808TFPPB-O
 1730864
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2080-xlr8-oc-triple-fan-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1728700/1730864/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:10 AM 3.896,98 RON
 9/23/2020 6:39:15 PM 3.941,49 RON
 9/25/2020 8:15:11 PM 3.975,52 RON
+9/28/2020 4:26:12 PM 3.989,92 RON

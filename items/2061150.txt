@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |04G-P4-1457-KR
 2061150
     Product link    
 https://www.pcgarage.ro/placi-video/evga/gtx-1650-ko-ultra-gaming-4gb-gddr6/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/6954/2061150/thumbnails/geforce-gtx-1650-ko-
 9/23/2020 4:39:41 PM 985,35 RON
 9/23/2020 6:04:15 PM 985,35 RON
 9/25/2020 8:01:41 PM 996,75 RON
+09/28/2020 17:22:03 996,53 RON

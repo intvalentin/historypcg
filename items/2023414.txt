@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320M PRO4-F
 2023414
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/a320m-pro4-f/
@@ -8,3 +8,4 @@ ASRock A320M PRO4-F
 https://5.grgs.ro/images/products/1/9002/2023414/thumbnails/a320m-pro4-f-2a03e92fa3f6b37f49864708c2dfaa16.jpg
     Pret    
 9/25/2020 8:28:43 PM 317,59 RON
+9/28/2020 8:50:53 PM 317,52 RON

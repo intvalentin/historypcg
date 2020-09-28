@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90XB05X0-BBP010
 2028570
     Product link    
 https://www.pcgarage.ro/genti-notebook/asus/rucsac-notebook-173-inch-modular-rog-bp3703-iluminare-rgb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2028570/thumbnails/rucsac-notebook-173-
 9/20/2020 11:02:12 PM 1.537,98 RON
 9/23/2020 2:32:59 PM 1.537,98 RON
 9/25/2020 7:37:37 PM 1.537,98 RON
+09/28/2020 10:11:31 1.537,98 RON

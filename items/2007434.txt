@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2070 SUPER ARMOR
 2007434
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2070-super-armor-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2003606/2007434/thumbnails/geforce-rtx-2070-
 9/21/2020 7:34:05 AM 3.177,91 RON
 9/23/2020 6:08:23 PM 3.193,80 RON
 9/25/2020 8:03:11 PM 3.230,74 RON
+09/28/2020 17:34:28 3.230,05 RON

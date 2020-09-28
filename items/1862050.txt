@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B365M-A
 1862050
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b365m-a/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1862050/thumbnails/prime-b365m-a-086583
 9/21/2020 7:35:34 AM 440,33 RON
 9/23/2020 7:20:29 PM 445,40 RON
 9/25/2020 8:32:18 PM 449,13 RON
+9/28/2020 9:02:10 PM 450,86 RON

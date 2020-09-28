@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4122
 1729028
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2080-ti-phoenix-gs-11gb-gddr6-352-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/8674/1729028/thumbnails/geforce-rtx-2080-ti-
 9/21/2020 7:32:56 AM 5.808,12 RON
 9/23/2020 6:39:15 PM 5.874,88 RON
 9/25/2020 8:15:55 PM 5.924,63 RON
+9/28/2020 4:28:50 PM 5.946,88 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X2F07EA
 1458926
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/133-elitebook-1030-g1-qhd-plus-procesor-intel-core-m5-6y54-4m-cache-up-to-270-ghz-8gb-256gb-ssd-gma-hd-515-win-10-pro/
@@ -9,3 +9,6 @@ https://2.grgs.ro/images/products/1/802687/1458926/thumbnails/133-elitebook-1030
     Pret    
 9/20/2020 11:01:33 PM 8.685,22 RON
 9/25/2020 7:33:55 PM 8.715,25 RON
+9/28/2020 9:38:19 AM 8.715,25 RON
+9/28/2020 9:39:16 AM 8.715,25 RON
+09/28/2020 09:42:29 8.715,25 RON

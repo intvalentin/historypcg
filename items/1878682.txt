@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AB350M PRO4 R2.0
 1878682
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/ab350m-pro4-r20/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1868718/1878682/thumbnails/asrock-ab350m-pro
 9/21/2020 7:36:32 AM 340,89 RON
 9/23/2020 7:41:29 PM 344,76 RON
 9/25/2020 8:39:41 PM 347,69 RON
+9/28/2020 10:35:57 PM 349,02 RON

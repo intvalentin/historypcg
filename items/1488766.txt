@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N710D5-2GL
 1488766
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-710-2gb-ddr5-64-bit-low-profile/
@@ -11,3 +11,5 @@ https://5.grgs.ro/images/products/1/1178653/1488766/thumbnails/geforce-gt-710-2g
 9/21/2020 7:32:47 AM 217,81 RON
 9/23/2020 6:47:30 PM 220,11 RON
 9/25/2020 8:00:10 PM 243,19 RON
+09/28/2020 13:26:47 243,15 RON
+09/28/2020 16:05:22 243,15 RON

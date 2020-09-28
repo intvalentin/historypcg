@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1976086
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1660-super-twin-x2-oc-rgb-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/6472/1976086/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:40:43 PM 1.151,52 RON
 9/23/2020 5:24:52 PM 1.151,52 RON
 9/25/2020 7:55:36 PM 1.161,30 RON
+09/28/2020 12:53:29 1.138,97 RON
+09/28/2020 17:55:33 1.143,33 RON

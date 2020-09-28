@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCQP4000-PB
 1584610
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-p4000-8gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1500686/1584610/thumbnails/nvidia-quadro-p40
 9/21/2020 7:34:25 AM 4.219,16 RON
 9/23/2020 6:55:51 PM 4.267,59 RON
 9/25/2020 8:21:12 PM 4.304,24 RON
+9/28/2020 8:08:03 PM 4.319,95 RON

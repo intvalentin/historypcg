@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |HONOR20P8256DSBL
 1940270
     Product link    
 https://www.pcgarage.ro/smartphone/huawei/honor-20-pro-octa-core-256gb-8gb-ram-dual-sim-4g-5-camere-phantom-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1940270/thumbnails/honor-20-pro-octa-co
 9/20/2020 11:40:29 PM 2.497,98 RON
 9/25/2020 8:55:37 PM 2.505,98 RON
 9/27/2020 8:51:51 AM 2.505,98 RON
+09/28/2020 11:38:27 2.505,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSA16GX3M2A1600C11
 515717
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/16gb-ddr3-1600mhz-dual-channel-kit-compatibil-apple-macbook/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/515717/thumbnails/mac-memory-16gb-ddr
 9/20/2020 11:02:33 PM 337,98 RON
 9/23/2020 3:08:07 PM 339,98 RON
 9/25/2020 7:45:06 PM 355,98 RON
+09/28/2020 11:19:51 355,98 RON

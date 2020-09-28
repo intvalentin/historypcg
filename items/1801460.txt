@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N2060GAMINGOC-PRO-6GD
 1801460
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2060-gaming-oc-pro-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/761/1801460/thumbnails/geforce-rtx-2060-gami
 9/23/2020 4:31:25 PM 1.791,83 RON
 9/23/2020 5:43:13 PM 1.791,83 RON
 9/25/2020 7:58:40 PM 1.766,36 RON
+09/28/2020 13:19:55 1.765,98 RON
+09/28/2020 15:54:07 1.765,98 RON

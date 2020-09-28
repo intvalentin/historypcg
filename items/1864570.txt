@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I79700
 1864570
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-9700-30ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1864570/thumbnails/coffee-lake-core-i7-
 9/21/2020 7:34:36 AM 1.413,86 RON
 9/23/2020 3:14:11 PM 1.359,48 RON
 9/25/2020 7:45:52 PM 1.359,48 RON
+09/28/2020 11:31:16 1.359,48 RON

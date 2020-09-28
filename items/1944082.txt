@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-3-RX5700XT-O8G-GAMING
 1944082
     Product link    
 https://www.pcgarage.ro/placi-video/asus/tuf-gaming-x3-radeon-rx-5700-xt-oc-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5758/1944082/thumbnails/radeon-rx-5700-xt-tu
 9/21/2020 7:32:42 AM 2.288,97 RON
 9/23/2020 6:20:45 PM 2.313,11 RON
 9/25/2020 8:08:26 PM 2.339,86 RON
+09/28/2020 18:16:22 2.339,37 RON

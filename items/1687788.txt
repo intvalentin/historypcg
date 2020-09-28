@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GT1030-2G-BRK
 1687788
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gt-1030-brk-2gb-gddr5-64-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/1684696/1687788/thumbnails/geforce-gt-1030-b
 9/23/2020 4:31:25 PM 394,74 RON
 9/23/2020 5:43:13 PM 394,74 RON
 9/25/2020 7:59:26 PM 400,32 RON
+09/28/2020 13:22:35 400,24 RON
+09/28/2020 15:56:43 400,24 RON

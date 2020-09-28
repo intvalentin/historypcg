@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X299X DESIGNARE 10G
 1957846
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/x299x-designare-10g/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1953966/1957846/thumbnails/x299x-designare-1
 9/21/2020 7:36:23 AM 3.385,77 RON
 9/23/2020 7:39:26 PM 3.421,48 RON
 9/25/2020 8:29:31 PM 3.098,40 RON
+9/28/2020 10:11:35 PM 3.110,18 RON

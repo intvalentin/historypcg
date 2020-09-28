@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-GTX1660S-O6G-EVO
 1965258
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-evo-o6g-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/8977/1965258/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:42:46 PM 1.257,72 RON
 9/23/2020 5:27:02 PM 1.257,72 RON
 9/25/2020 7:57:07 PM 1.268,29 RON
+09/28/2020 13:00:36 1.268,29 RON
+09/28/2020 15:05:38 1.273,18 RON

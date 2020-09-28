@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DI5567FI57200U8G2T4GU-05 Grey
 1623974
     Product link    
 https://www.pcgarage.ro/notebook-laptop/dell/156-inspiron-5567-seria-5000-fhd-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-8gb-ddr4-2tb-radeon-r7-m445-4gb-linux-grey-3yr-cis/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1173769/1623974/thumbnails/mwl_i5_7-53f91928
     Pret    
 9/20/2020 11:00:59 PM 3.084,48 RON
 9/25/2020 7:33:55 PM 3.084,48 RON
+9/28/2020 9:32:45 AM 3.084,48 RON

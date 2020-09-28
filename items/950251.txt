@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FD832EWMHKBOX
 950251
     Product link    
 https://www.pcgarage.ro/procesoare/amd/fx-8320e-32ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/950251/thumbnails/fx-8320-35ghz-box-150145
 9/21/2020 7:34:58 AM 610,82 RON
 9/23/2020 3:28:27 PM 610,92 RON
 9/25/2020 7:51:07 PM 612,93 RON
+09/28/2020 12:13:35 612,93 RON

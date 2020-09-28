@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD1700BBAEBOX
 1455174
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-7-1700-3ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1192525/1455174/thumbnails/ryzen-7-1700-3ghz
 9/21/2020 7:35:07 AM 1.592,25 RON
 9/23/2020 3:26:25 PM 1.609,04 RON
 9/25/2020 7:50:22 PM 1.625,09 RON
+09/28/2020 12:08:58 1.625,09 RON

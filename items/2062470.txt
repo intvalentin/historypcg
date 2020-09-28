@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-N986BZKGEUE
 2062470
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-note-20-ultra-5g-edition-octa-core-256gb-12gb-ram-dual-sim-5g-4-camere-mystic-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2062470/thumbnails/galaxy-note-20-ultra
 9/20/2020 11:40:16 PM 6.009,00 RON
 9/25/2020 8:49:13 PM 6.009,00 RON
 9/26/2020 10:48:08 PM 6.009,00 RON
+09/28/2020 10:33:26 6.009,00 RON

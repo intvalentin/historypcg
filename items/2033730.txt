@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490 AORUS MASTER
 2033730
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z490-aorus-master/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033730/thumbnails/z490-aorus-master-71
 9/21/2020 7:35:39 AM 1.930,13 RON
 9/23/2020 7:16:18 PM 1.959,85 RON
 9/25/2020 8:28:43 PM 1.984,27 RON
+9/28/2020 10:07:58 PM 1.998,86 RON

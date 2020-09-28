@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-RX550-2G-EVO
 2048126
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-550-phoenix-evo-2gb-gddr5-128-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/2045418/2048126/thumbnails/vga-pcie16-rx-550
 9/23/2020 4:39:41 PM 403,65 RON
 9/23/2020 6:04:15 PM 403,65 RON
 9/25/2020 8:02:25 PM 408,32 RON
+09/28/2020 17:27:08 408,24 RON

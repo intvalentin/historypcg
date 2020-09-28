@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110700K
 2039958
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700k-38ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039958/thumbnails/comet-lake-core-i
 9/21/2020 7:34:36 AM 1.869,99 RON
 9/23/2020 3:14:11 PM 1.869,99 RON
 9/25/2020 7:45:51 PM 1.869,99 RON
+09/28/2020 11:25:11 1.869,99 RON

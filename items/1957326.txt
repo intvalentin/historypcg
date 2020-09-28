@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6206S019P2-1061J
 1957326
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-super-jetstream-le-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/1953966/1957326/thumbnails/geforce-rtx-2060-
 9/23/2020 3:34:35 PM 1.941,38 RON
 9/23/2020 5:17:58 PM 1.941,38 RON
 9/25/2020 8:06:57 PM 2.167,69 RON
+09/28/2020 18:08:31 2.175,61 RON

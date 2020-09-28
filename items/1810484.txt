@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N166TWF2OC-6GD
 1810484
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-ti-windforce-oc-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3645/1810484/thumbnails/geforce-gtx-1660-ti-
 9/21/2020 7:33:39 AM 1.456,64 RON
 9/23/2020 6:33:07 PM 1.476,44 RON
 9/25/2020 8:12:55 PM 1.488,71 RON
+09/28/2020 18:57:48 1.487,07 RON

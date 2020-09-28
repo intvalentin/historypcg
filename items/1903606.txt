@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N206S1-08D6-1710VA20
 1903606
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2060-super-super-compact-x1-8gb-gddr6-256-bit/
@@ -8,3 +8,5 @@ Inno3D GeForce RTX 2060 SUPER Compact X1 8GB GDDR6 256-bit
 https://3.grgs.ro/images/products/1/1899326/1903606/thumbnails/geforce-rtx-2060-super-super-compact-x1-8gb-gddr6-256-bit-b7b965049c33cb7d95518bb8a84faead.jpg
     Pret    
 9/25/2020 7:57:54 PM 1.981,44 RON
+09/28/2020 13:08:47 1.939,17 RON
+09/28/2020 15:44:29 1.939,17 RON

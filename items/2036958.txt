@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MZB9204EU
 2036958
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/mi-note-10-lite-octa-core-64gb-6gb-ram-dual-sim-4g-5-camere-glacier-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2036958/thumbnails/mi-note-10-lite-a
 9/20/2020 11:40:16 PM 1.449,00 RON
 9/25/2020 8:51:19 PM 1.449,00 RON
 9/26/2020 10:51:11 PM 1.449,00 RON
+09/28/2020 10:53:33 1.449,00 RON

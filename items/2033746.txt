@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490 AORUS XTREME WF
 2033746
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z490-aorus-xtreme-waterforce/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033746/thumbnails/z490-aorus-xtreme-wa
 9/21/2020 7:36:09 AM 6.326,41 RON
 9/23/2020 7:14:15 PM 6.398,41 RON
 9/25/2020 8:28:00 PM 6.452,07 RON
+9/28/2020 10:13:58 PM 6.476,95 RON

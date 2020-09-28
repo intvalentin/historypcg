@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |010-01909-11
 1748000
     Product link    
 https://www.pcgarage.ro/bratari-fitness/garmin/vivofit-jr-2-reglabila-resistence/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1748000/thumbnails/vivofit-jr-2-regl
 9/20/2020 11:46:04 PM 457,98 RON
 9/25/2020 9:03:43 PM 459,98 RON
 9/27/2020 9:00:38 AM 459,98 RON
+09/28/2020 12:42:39 365,98 RON

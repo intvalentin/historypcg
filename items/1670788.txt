@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310M PRO-VDH
 1670788
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/h310m-pro-vdh/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1663772/1670788/thumbnails/h310m-pro-vdh-571
 9/21/2020 7:36:27 AM 288,08 RON
 9/23/2020 10:28:24 PM 289,51 RON
 9/25/2020 8:44:11 PM 292,86 RON
+9/28/2020 10:27:09 PM 292,79 RON

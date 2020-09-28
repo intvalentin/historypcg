@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX580-O8G-GAMING
 1480746
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-580-strix-gaming-o8g-8gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1457254/1480746/thumbnails/radeon-rx-580-str
 9/21/2020 7:33:35 AM 1.210,68 RON
 9/23/2020 6:47:30 PM 1.216,75 RON
 9/25/2020 8:17:25 PM 1.230,81 RON
+9/28/2020 7:46:30 PM 1.230,55 RON

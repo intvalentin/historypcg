@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-5600-XT-MECH-OC
 1994762
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5600-xt-mech-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/1990366/1994762/thumbnails/radeon-rx-5600-xt
 9/23/2020 3:38:41 PM 1.627,81 RON
 9/23/2020 5:22:49 PM 1.627,81 RON
 9/25/2020 7:55:36 PM 1.641,52 RON
+09/28/2020 12:46:59 1.641,52 RON

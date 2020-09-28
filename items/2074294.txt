@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |29798
 2074294
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-9c-ecran-ips-octa-core-23ghz-64gb-3gb-ram-dual-sim-4g-nfc-4-camere-baterie-5000-mah-android-10-twilight-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2074294/thumbnails/redmi-9c-ecran-ips-o
 9/20/2020 11:40:07 PM 549,90 RON
 9/25/2020 8:48:31 PM 549,90 RON
 9/26/2020 10:48:08 PM 549,90 RON
+09/28/2020 10:30:13 499,99 RON

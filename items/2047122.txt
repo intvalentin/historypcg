@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080 Ti GAMING Z TRIO
 2047122
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2080-ti-gaming-z-trio-11gb-gddr6-352-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/2045418/2047122/thumbnails/geforce-rtx-2080-
 9/23/2020 4:39:41 PM 6.790,99 RON
 9/23/2020 6:04:15 PM 6.811,49 RON
 9/25/2020 8:02:25 PM 6.850,00 RON
+09/28/2020 17:27:24 6.868,08 RON

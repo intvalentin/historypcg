@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MAG B460 TOMAHAWK
 2055018
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/msi-mag-b460-tomahawk-lga-1200-ddr4-6xsata-2xm2-6xusb-32-atx-mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2055018/thumbnails/mag-b460-tomahawk
 9/21/2020 7:35:17 AM 634,97 RON
 9/23/2020 7:01:59 PM 634,97 RON
 9/25/2020 8:23:26 PM 634,97 RON
+9/28/2020 8:25:55 PM 634,97 RON

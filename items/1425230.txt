@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |EM143845
 1425230
     Product link    
 https://www.pcgarage.ro/smartwatch/asus/wi501q-zenwatch-2-argintiu-curea-piele-crem/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/931142/1425230/thumbnails/wi501q-zenwatch-2-
 9/20/2020 11:45:47 PM 699,99 RON
 9/25/2020 9:01:31 PM 699,99 RON
 9/27/2020 8:58:13 AM 699,99 RON
+09/28/2020 12:25:34 699,99 RON

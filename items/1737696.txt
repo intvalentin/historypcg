@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AWYD2600BBM6IAF
 1737696
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-5-2600-34ghz-mpk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1737696/thumbnails/ryzen-5-2600-34gh
 9/21/2020 7:35:03 AM 1.357,58 RON
 9/23/2020 3:22:20 PM 1.357,58 RON
 9/25/2020 7:48:53 PM 1.357,58 RON
+09/28/2020 11:56:11 1.357,58 RON

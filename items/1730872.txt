@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG2080T11TFMPB-O
 1730872
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2080-ti-xlr8-overclocked-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1723568/1730872/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:19 AM 5.788,40 RON
 9/23/2020 6:39:15 PM 5.855,16 RON
 9/25/2020 8:15:11 PM 5.903,59 RON
+9/28/2020 4:25:55 PM 5.927,15 RON

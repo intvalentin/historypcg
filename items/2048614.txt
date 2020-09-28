@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2060-O6G-MINI
 2048614
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-dual-mini-o6g-6gb-gddr6-192-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/2045418/2048614/thumbnails/geforce-rtx-2060-
 9/23/2020 4:39:41 PM 1.825,42 RON
 9/23/2020 6:04:15 PM 1.825,42 RON
 9/25/2020 8:02:25 PM 1.846,54 RON
+09/28/2020 17:26:50 1.846,13 RON

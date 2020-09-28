@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N166S2-06D6-1712VA15L
 1968854
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1660-super-twin-x2-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/8977/1968854/thumbnails/geforce-gtx-1660-sup
 9/21/2020 7:33:00 AM 1.120,22 RON
 9/23/2020 6:16:38 PM 1.133,03 RON
 9/25/2020 8:06:57 PM 1.142,54 RON
+09/28/2020 18:02:45 1.146,90 RON

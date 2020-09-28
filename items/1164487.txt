@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT2K16G4SFD824A
 1164487
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/32gb-ddr4-2400mhz-cl17-12v-dual-rank-x8-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/1164487/thumbnails/8gb-ddr4-2133mhz-cl15-1
 9/20/2020 11:02:33 PM 649,98 RON
 9/23/2020 3:04:00 PM 655,98 RON
 9/25/2020 7:43:38 PM 663,98 RON
+09/28/2020 11:09:16 663,98 RON

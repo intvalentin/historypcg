@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-GTX1650S-4G-GAMING
 2000202
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-super-tuf-gaming-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1990682/2000202/thumbnails/geforce-gtx-1650-
 9/23/2020 3:38:41 PM 955,27 RON
 9/23/2020 5:22:49 PM 955,27 RON
 9/25/2020 7:54:53 PM 965,77 RON
+09/28/2020 12:45:20 965,56 RON
+09/28/2020 15:21:40 965,56 RON

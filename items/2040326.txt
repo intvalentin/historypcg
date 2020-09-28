@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Pro B460M-C+-+CSM
 2040326
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/pro-b460m-c-csm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2040326/thumbnails/pro-b460m-c-csm-2
 9/21/2020 7:35:47 AM 569,93 RON
 9/23/2020 7:12:11 PM 575,94 RON
 9/25/2020 8:28:00 PM 582,61 RON
+9/28/2020 9:13:20 PM 582,49 RON

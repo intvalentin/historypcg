@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZS661KS-6A020EU
 2072294
     Product link    
 https://www.pcgarage.ro/smartphone/asus/rog-phone-3-octa-core-512gb-12gb-ram-dual-sim-5g-edition-4-camere-black-glare/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2072294/thumbnails/rog-phone-3-strix-ed
 9/20/2020 11:40:12 PM 4.899,00 RON
 9/25/2020 8:48:31 PM 4.899,00 RON
 9/27/2020 8:50:21 AM 4.899,00 RON
+09/28/2020 11:24:53 4.899,00 RON

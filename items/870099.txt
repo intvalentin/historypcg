@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N730D5-2GI
 870099
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-730-2gb-ddr5-64-bit/
@@ -8,3 +8,4 @@ GIGABYTE GeForce GT 730 2GB GDDR5 64-bit
 https://4.grgs.ro/images/products/1/800612/870099/thumbnails/geforce-gt-730-2gb-ddr5-64-bit-e0479eb6b6f6abb22b9175c12e2fbe51.jpg
     Pret    
 9/25/2020 8:18:57 PM 332,22 RON
+9/28/2020 7:57:29 PM 331,85 RON

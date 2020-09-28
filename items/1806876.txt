@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-506001
 1806876
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/amd/radeon-pro-wx-2100-2gb-gddr5-64-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1802236/1806876/thumbnails/radeon-pro-wx-210
 9/21/2020 7:34:24 AM 820,92 RON
 9/23/2020 6:53:47 PM 832,08 RON
 9/25/2020 8:20:27 PM 838,99 RON
+9/28/2020 8:02:58 PM 838,07 RON

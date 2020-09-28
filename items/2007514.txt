@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080 SUPER VENTUS XS
 2007514
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2080-super-ventus-xs-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6835/2007514/thumbnails/geforce-rtx-2080-sup
 9/21/2020 7:32:47 AM 4.404,13 RON
 9/23/2020 6:08:23 PM 4.426,15 RON
 9/25/2020 8:03:11 PM 4.477,37 RON
+09/28/2020 17:33:56 4.476,40 RON

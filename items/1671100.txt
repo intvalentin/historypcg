@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B360M-A
 1671100
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b360m-a/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1671100/thumbnails/prime-b360m-a-bfe226
 9/21/2020 7:35:25 AM 420,22 RON
 9/23/2020 7:29:06 PM 422,31 RON
 9/25/2020 8:34:28 PM 431,79 RON
+9/28/2020 9:00:30 PM 431,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MZB9203EU
 2036962
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/mi-note-10-lite-octa-core-64gb-6gb-ram-dual-sim-4g-5-camere-midnight-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2036962/thumbnails/mi-note-10-lite-amol
 9/20/2020 11:40:08 PM 1.449,00 RON
 9/25/2020 8:51:19 PM 1.449,00 RON
 9/26/2020 10:51:11 PM 1.449,00 RON
+09/28/2020 10:53:14 1.449,00 RON

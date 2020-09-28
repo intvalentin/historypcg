@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11266-15-20G
 1501946
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-570-nitro-plus-4gb-ddr5-256-bit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1355324/1501946/thumbnails/radeon-rx-570-nit
 9/21/2020 7:33:35 AM 1.193,34 RON
 9/23/2020 6:45:25 PM 1.209,57 RON
 9/25/2020 8:17:25 PM 1.219,62 RON
+9/28/2020 7:42:45 PM 1.218,28 RON

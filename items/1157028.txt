@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H110M-D
 1157028
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/h110m-d/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1052635/1157028/thumbnails/h110m-d-39c43806c
 9/21/2020 7:36:32 AM 337,48 RON
 9/23/2020 10:54:28 PM 341,04 RON
 9/25/2020 8:46:25 PM 344,98 RON
+9/28/2020 10:35:24 PM 344,90 RON

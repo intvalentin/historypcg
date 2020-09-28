@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-A202FZWDROM
 1861914
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-a20e-octa-core-32gb-3gb-ram-dual-sim-4g-3-camere-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1861914/thumbnails/galaxy-a20e-octa-cor
 9/20/2020 11:39:57 PM 639,00 RON
 9/25/2020 8:53:26 PM 599,00 RON
 9/26/2020 10:53:30 PM 599,00 RON
+09/28/2020 11:15:08 599,00 RON

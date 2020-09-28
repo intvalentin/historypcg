@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD787KXDJCSBX
 1180135
     Product link    
 https://www.pcgarage.ro/procesoare/amd/kaveri-refresh-a10-7870k-black-edition-39ghz-quiet-cooler-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/1180135/thumbnails/kaveri-refresh-a10-7870
 9/21/2020 7:34:58 AM 526,74 RON
 9/23/2020 3:28:27 PM 526,83 RON
 9/25/2020 7:51:07 PM 528,56 RON
+09/28/2020 12:11:55 528,56 RON

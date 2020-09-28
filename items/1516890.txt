@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NX.GPEEX.014
 1516890
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-aspire-5-a515-51g-fhd-procesor-intel-core-i5-7200u-3m-cache-up-to-310-ghz-4gb-ddr4-1tb-geforce-mx150-2gb-linux-steel-gray/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1505170/1516890/thumbnails/mwl_i5_7-6ac44cd4
     Pret    
 9/20/2020 11:00:53 PM 2.799,99 RON
 9/25/2020 7:33:55 PM 2.799,99 RON
+9/28/2020 9:37:45 AM 2.799,99 RON

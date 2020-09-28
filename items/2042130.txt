@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-R57XTGAMING-8GD
 2042130
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/radeon-rx-5700-xt-gaming-8gb-gddr6-256-bit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5758/2042130/thumbnails/radeon-rx-5700-xt-ga
 9/21/2020 7:33:54 AM 2.209,55 RON
 9/23/2020 6:06:19 PM 2.212,73 RON
 9/25/2020 8:02:25 PM 2.238,34 RON
+09/28/2020 17:28:52 2.237,85 RON

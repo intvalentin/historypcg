@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N206SGAMING OC-8GD
 1953730
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2060-super-gaming-oc-3x-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/6997/1953730/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:31:50 AM 2.069,99 RON
 9/23/2020 6:18:42 PM 2.163,89 RON
 9/25/2020 8:07:40 PM 2.188,92 RON
+09/28/2020 18:10:53 2.188,44 RON

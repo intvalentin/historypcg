@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-505826
 1779280
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/amd/radeon-pro-wx-7100-8gb-gddr5-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1779280/thumbnails/radeon-pro-wx-7100-8g
 9/21/2020 7:34:25 AM 4.285,22 RON
 9/23/2020 6:53:47 PM 4.343,48 RON
 9/25/2020 8:20:27 PM 4.379,56 RON
+9/28/2020 8:04:51 PM 4.374,75 RON

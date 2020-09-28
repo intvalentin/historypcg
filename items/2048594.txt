@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE61650S1BG1-1175A
 2048594
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gtx-1650-gp-cc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/2045418/2048594/thumbnails/geforce-gtx-1650-
 9/23/2020 3:36:38 PM 762,29 RON
 9/23/2020 5:20:47 PM 762,29 RON
 9/25/2020 7:54:52 PM 766,71 RON
+09/28/2020 12:40:00 766,55 RON
+09/28/2020 15:16:21 766,55 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N20602-06D6-1710VA23
 1779184
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2060-twin-x2-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1779184/thumbnails/geforce-rtx-2060-twin
 9/21/2020 7:33:44 AM 1.877,96 RON
 9/23/2020 6:35:10 PM 1.903,49 RON
 9/25/2020 8:13:40 PM 1.919,30 RON
+09/28/2020 19:03:46 1.917,20 RON

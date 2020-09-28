@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310M PRO-M2
 1670772
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/h310m-pro-m2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1666176/1670772/thumbnails/h310m-pro-m2-fbd9
 9/21/2020 7:36:14 AM 347,75 RON
 9/23/2020 10:28:24 PM 349,50 RON
 9/25/2020 8:44:11 PM 353,54 RON
+9/28/2020 10:37:04 PM 353,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N20702-08D6X-2511683
 1750000
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2070-x2-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1750000/thumbnails/geforce-rtx-2070-
 9/21/2020 7:34:05 AM 2.896,15 RON
 9/23/2020 6:37:12 PM 2.935,52 RON
 9/25/2020 8:15:11 PM 2.959,91 RON
+09/28/2020 19:17:54 2.956,65 RON

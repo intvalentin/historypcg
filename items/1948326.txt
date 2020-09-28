@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R830NZKAROM
 1948326
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-active-2-2019-40-mm-aluminiu-negru-curea-silicon-negru-wi-fi-bluetooth-gps-nfc-rezistent-la-apa/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1948326/thumbnails/galaxy-watch-active-
 9/20/2020 11:45:42 PM 1.099,98 RON
 9/25/2020 9:00:47 PM 1.099,98 RON
 9/27/2020 8:57:25 AM 1.099,98 RON
+09/28/2020 12:16:53 1.099,98 RON

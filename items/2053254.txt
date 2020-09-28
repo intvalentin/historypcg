@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-A516BZIDEUE
 2053254
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-a51-2020-octa-core-128gb-6gb-ram-dual-sim-5g-5-camere-prism-crush-pink/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2053254/thumbnails/galaxy-a51-2020-octa
 9/20/2020 11:40:12 PM 1.899,00 RON
 9/25/2020 8:49:55 PM 1.899,00 RON
 9/26/2020 10:49:41 PM 1.899,00 RON
+09/28/2020 10:43:12 1.899,00 RON

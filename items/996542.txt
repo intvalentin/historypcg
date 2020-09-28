@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RL-KRG10-W1
 996542
     Product link    
 https://www.pcgarage.ro/coolere-placi-video/nzxt/kraken-g10-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/815230/996542/thumbnails/kraken-g10-white-4d
 9/21/2020 7:34:31 AM 161,93 RON
 9/23/2020 6:57:54 PM 164,13 RON
 9/25/2020 8:21:58 PM 165,50 RON
+9/28/2020 8:19:51 PM 165,32 RON

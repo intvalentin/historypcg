@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N166SGAMING-6GD
 2026542
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-super-gaming-6gb-gddr6-192-bit/
@@ -11,3 +11,5 @@ https://4.grgs.ro/images/products/1/1960570/2026542/thumbnails/geforce-gtx-1660-
 9/21/2020 7:31:55 AM 1.185,73 RON
 9/23/2020 6:06:19 PM 1.251,30 RON
 9/25/2020 7:54:53 PM 1.260,28 RON
+09/28/2020 12:43:59 1.260,28 RON
+09/28/2020 15:20:18 1.265,04 RON

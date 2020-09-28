@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT2KIT51264BF160B
 806780
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/8gb-ddr3-1600mhz-cl11-dual-channel-kit-135v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/806780/thumbnails/8gb-ddr3-1600mhz-cl11-v1
 9/20/2020 11:02:46 PM 283,98 RON
 9/23/2020 3:06:05 PM 287,98 RON
 9/25/2020 7:44:23 PM 289,98 RON
+09/28/2020 11:17:28 289,98 RON

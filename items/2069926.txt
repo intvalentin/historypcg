@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T16520H-10L
 2069926
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gtx-1650-low-profile-4gb-gddr6-128-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4273/2069926/thumbnails/geforce-gtx-1650-low
 9/23/2020 4:37:37 PM 811,54 RON
 9/23/2020 6:02:11 PM 811,54 RON
 9/25/2020 8:01:40 PM 806,08 RON
+09/28/2020 17:18:04 803,28 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80662G3900
 1160981
     Product link    
 https://www.pcgarage.ro/procesoare/intel/skylake-celeron-dual-core-g3900-280ghz-box/
@@ -8,3 +8,4 @@ Intel Skylake, Celeron Dual-Core G3900 2.8GHz box
 https://3.grgs.ro/images/products/1/2/1160981/thumbnails/skylake-pentium-dual-core-g4520-360ghz-box-da07bd495b0a03af42299e6827aff805.jpg
     Pret    
 9/25/2020 7:51:07 PM 189,59 RON
+09/28/2020 12:12:46 189,59 RON

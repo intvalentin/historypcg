@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX5500XT CLD 8GO
 1979174
     Product link    
 https://www.pcgarage.ro/placi-video/asrock/radeon-rx-5500-xt-challenger-d-oc-8gb-gddr6-128-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1979174/thumbnails/radeon-rx-5500-xt-ch
 9/21/2020 7:33:30 AM 1.060,50 RON
 9/23/2020 6:14:34 PM 1.072,62 RON
 9/25/2020 8:05:25 PM 1.081,69 RON
+09/28/2020 17:53:23 1.085,82 RON

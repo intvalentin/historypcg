@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11289-06-20G
 1891758
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-590-pulse-8gb-gddr5-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1275/1891758/thumbnails/radeon-rx-590-pulse-
 9/21/2020 7:33:30 AM 1.010,18 RON
 9/23/2020 6:26:55 PM 1.023,92 RON
 9/25/2020 8:10:41 PM 1.032,42 RON
+09/28/2020 18:38:24 1.031,29 RON

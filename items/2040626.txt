@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX H470-I GAMING
 2040626
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-h470-i-gaming/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2040626/thumbnails/rog-strix-h470-i-gam
 9/21/2020 7:35:21 AM 857,21 RON
 9/23/2020 7:01:59 PM 857,21 RON
 9/25/2020 8:23:26 PM 857,21 RON
+9/28/2020 8:42:28 PM 857,21 RON

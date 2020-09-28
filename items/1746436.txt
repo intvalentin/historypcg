@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |J4005M
 1746436
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/j4005m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1746436/thumbnails/asrock-j4005m-ddr
 9/21/2020 7:35:52 AM 348,77 RON
 9/23/2020 7:27:03 PM 352,77 RON
 9/25/2020 8:33:44 PM 355,70 RON
+9/28/2020 8:54:13 PM 352,37 RON

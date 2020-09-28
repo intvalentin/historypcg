@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R810NZKAROM
 1748088
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-42-mm-corp-negru-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1748088/thumbnails/galaxy-watch-42-m
 9/20/2020 11:45:38 PM 1.205,98 RON
 9/25/2020 8:59:17 PM 1.205,98 RON
 9/27/2020 8:55:49 AM 1.205,98 RON
+09/28/2020 12:06:26 1.205,98 RON

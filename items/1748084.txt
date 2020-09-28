@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R810NZDAROM
 1748084
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-42-mm-corp-auriu-curea-silicon-roz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1748084/thumbnails/galaxy-watch-42-m
 9/20/2020 11:45:38 PM 1.435,98 RON
 9/25/2020 9:00:47 PM 1.073,98 RON
 9/27/2020 8:57:25 AM 1.073,98 RON
+09/28/2020 12:21:15 1.073,98 RON

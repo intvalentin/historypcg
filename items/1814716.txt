@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4344
 1814716
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2060-pegasus-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/3645/1814716/thumbnails/geforce-rtx-2060-peg
 9/23/2020 4:31:25 PM 1.618,19 RON
 9/23/2020 5:43:13 PM 1.618,19 RON
 9/25/2020 7:58:40 PM 1.631,40 RON
+09/28/2020 13:19:22 1.638,01 RON
+09/28/2020 15:53:35 1.638,01 RON

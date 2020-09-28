@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20708DFPPB-O
 1779288
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2070-xlr8-oc-gaming-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1779288/thumbnails/geforce-rtx-2070-xlr8
 9/21/2020 7:34:05 AM 2.789,57 RON
 9/23/2020 6:35:10 PM 2.820,99 RON
 9/25/2020 8:13:40 PM 2.844,55 RON
+09/28/2020 19:03:29 2.856,33 RON

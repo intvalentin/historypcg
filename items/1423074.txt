@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |010-01605-06
 1423074
     Product link    
 https://www.pcgarage.ro/bratari-fitness/garmin/vivoactive-hr-elevate-black-regular/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1423074/thumbnails/vivoactive-hr-elev
 9/20/2020 11:46:09 PM 1.199,98 RON
 9/25/2020 9:04:28 PM 1.199,98 RON
 9/27/2020 9:01:27 AM 1.199,98 RON
+09/28/2020 12:59:47 1.199,98 RON

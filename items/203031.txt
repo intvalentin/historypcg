@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZE-SD3-2G1600
 203031
     Product link    
 https://www.pcgarage.ro/memorii-notebook/zeppelin/2gb-ddr3-1600mhz-3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/203031/thumbnails/2gb-ddr3-1600mhz-8d533d4
 9/20/2020 11:02:24 PM 57,98 RON
 9/23/2020 2:57:46 PM 57,98 RON
 9/25/2020 7:41:23 PM 59,98 RON
+09/28/2020 10:52:46 59,98 RON

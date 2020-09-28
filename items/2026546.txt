@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1660D5-6GD
 2026546
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-d5-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/9002/2026546/thumbnails/geforce-gtx-1660-d5-
 9/23/2020 3:32:32 PM 1.046,51 RON
 9/23/2020 5:22:49 PM 1.046,51 RON
 9/25/2020 7:54:53 PM 1.125,02 RON
+09/28/2020 12:43:42 1.125,02 RON
+09/28/2020 15:20:02 1.129,25 RON

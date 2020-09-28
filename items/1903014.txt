@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20708STFMPB-O
 1903014
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2070-super-xlr8-gaming-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1903014/thumbnails/geforce-rtx-2070-
 9/21/2020 7:34:05 AM 2.752,92 RON
 9/23/2020 6:24:51 PM 2.784,33 RON
 9/25/2020 8:09:57 PM 2.807,90 RON
+09/28/2020 18:29:57 2.818,37 RON

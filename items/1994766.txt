@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-5600-XT-GAMING-X
 1994766
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5600-xt-gaming-x-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1990682/1994766/thumbnails/rx_5600_xt_gaming
 9/21/2020 7:32:38 AM 1.899,61 RON
 9/23/2020 6:10:27 PM 1.925,43 RON
 9/25/2020 8:04:42 PM 1.941,43 RON
+09/28/2020 17:46:38 1.939,30 RON

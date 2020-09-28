@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD880KXBJCSBX
 1180411
     Product link    
 https://www.pcgarage.ro/procesoare/amd/kaveri-athlon-x4-880k-black-edition-4ghz-quiet-cooler-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/1180411/thumbnails/vision-a6-7400k-bl
 9/21/2020 7:34:53 AM 159,78 RON
 9/23/2020 3:26:25 PM 161,46 RON
 9/25/2020 7:51:07 PM 163,29 RON
+09/28/2020 12:10:49 163,29 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R835FSDAROM
 1960018
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-active-2-2019-40-mm-otel-auriu-curea-piele-maro-lte-wi-fi-bluetooth-gps-nfc-rezistent-la-apa/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1960018/thumbnails/galaxy-watch-active-
 9/20/2020 11:45:51 PM 1.677,98 RON
 9/25/2020 9:00:02 PM 1.681,98 RON
 9/27/2020 8:56:38 AM 1.681,98 RON
+09/28/2020 12:13:10 1.681,98 RON

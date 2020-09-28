@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE62060018J9-1062A
 1783224
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-gamingpro-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1779504/1783224/thumbnails/geforce-rtx-2060-
 9/21/2020 7:33:49 AM 1.953,53 RON
 9/23/2020 6:33:07 PM 1.963,28 RON
 9/25/2020 8:13:40 PM 1.986,00 RON
+09/28/2020 19:00:26 1.985,56 RON

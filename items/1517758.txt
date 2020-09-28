@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X399 TAICHI
 1517758
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/x399-taichi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1517758/thumbnails/x399-taichi-fb084
 9/21/2020 7:36:05 AM 1.633,87 RON
 9/23/2020 7:29:06 PM 1.652,19 RON
 9/25/2020 8:34:28 PM 1.665,28 RON
+9/28/2020 10:05:19 PM 1.671,83 RON

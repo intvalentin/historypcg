@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-GTX1650-4G-GAMING
 1996674
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-tuf-gaming-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1996674/thumbnails/vga-as-tuf-gaming
 9/21/2020 7:33:25 AM 799,89 RON
 9/23/2020 6:10:27 PM 808,33 RON
 9/25/2020 8:04:42 PM 817,67 RON
+09/28/2020 17:44:59 817,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AOC-GPU-NVK40C
 798278
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/nvidia/tesla-k40c-pci-e-board-12gb-active-cooling/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/722028/798278/thumbnails/tesla-k40c-12gb-ddr
 9/21/2020 7:34:24 AM 27.199,65 RON
 9/23/2020 6:53:47 PM 27.569,41 RON
 9/25/2020 8:20:27 PM 27.798,45 RON
+9/28/2020 8:01:55 PM 27.767,91 RON

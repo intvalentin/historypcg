@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2060 SUPER VENTUS OC
 1929670
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2060-super-ventus-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6622/1929670/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:33:59 AM 2.304,11 RON
 9/23/2020 6:22:49 PM 2.315,65 RON
 9/25/2020 8:09:10 PM 2.342,44 RON
+09/28/2020 18:22:40 2.341,93 RON

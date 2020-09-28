@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N207SGAMING OC WHITE-8GD
 1950358
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2070-super-gaming-oc-white-3x-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1202/1950358/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:32:34 AM 2.736,77 RON
 9/23/2020 6:18:42 PM 2.765,62 RON
 9/25/2020 8:07:40 PM 2.797,61 RON
+09/28/2020 18:11:58 2.797,01 RON

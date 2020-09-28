@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A2215, Apple iPhone 11 Pro 64GB Midnight Green, MWC62
 1946422
     Product link    
 https://www.pcgarage.ro/smartphone/apple/iphone-11-pro-64gb-midnight-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1946422/thumbnails/iphone-11-pro-64gb-m
 9/20/2020 11:40:08 PM 4.699,00 RON
 9/25/2020 8:52:44 PM 4.699,00 RON
 9/26/2020 10:52:44 PM 4.699,00 RON
+09/28/2020 11:10:35 4.699,00 RON

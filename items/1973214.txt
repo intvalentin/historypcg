@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD3000C6FHBOX
 1973214
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-3000g-35ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1973214/thumbnails/athlon-3000g-35ghz-b
 9/21/2020 7:34:43 AM 247,93 RON
 9/23/2020 3:20:18 PM 250,54 RON
 9/25/2020 7:48:06 PM 253,39 RON
+09/28/2020 11:48:25 253,39 RON

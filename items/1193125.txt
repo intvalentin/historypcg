@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H110M-S2PV
 1193125
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h110m-s2pv/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1190677/1193125/thumbnails/h110m-s2pv-ef0b65
 9/21/2020 7:36:18 AM 292,00 RON
 9/23/2020 10:54:28 PM 295,97 RON
 9/25/2020 8:35:12 PM 300,80 RON
+9/28/2020 8:49:02 PM 300,74 RON

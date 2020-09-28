@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1030SL-2GL
 1491226
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-1030-silent-low-profile-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/1475558/1491226/thumbnails/geforce-gt-1030-s
 9/23/2020 4:33:30 PM 400,41 RON
 9/23/2020 5:58:05 PM 400,41 RON
 9/25/2020 7:59:26 PM 403,77 RON
+09/28/2020 13:26:14 405,25 RON
+09/28/2020 16:04:50 405,25 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N105T-3DDV-M5CM
 2062798
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1050-ti-twin-x2-4gb-gddr5-128-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6954/2062798/thumbnails/geforce-gtx-1050-ti-
 9/23/2020 4:39:41 PM 671,42 RON
 9/23/2020 6:04:15 PM 671,42 RON
 9/25/2020 8:01:41 PM 677,02 RON
+09/28/2020 17:20:59 679,69 RON

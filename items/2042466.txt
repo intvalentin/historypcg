@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I39350K
 2042466
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9350k-40ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1034/2042466/thumbnails/coffee-lake-core-i3-
 9/21/2020 7:35:03 AM 976,95 RON
 9/23/2020 3:20:18 PM 987,25 RON
 9/25/2020 7:48:06 PM 998,45 RON
+09/28/2020 11:45:43 998,45 RON

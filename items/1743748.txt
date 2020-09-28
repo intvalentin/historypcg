@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE62080U20P2-1040J
 1743748
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2080-super-jetstream-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6748/1743748/thumbnails/palit-geforce-rtx-20
 9/21/2020 7:34:14 AM 4.373,67 RON
 9/23/2020 6:39:15 PM 4.395,54 RON
 9/25/2020 8:15:11 PM 4.446,40 RON
+09/28/2020 19:20:24 4.445,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X570 GAMING EDGE WIFI
 1924026
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/mpg-x570-gaming-edge-wifi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8629/1924026/thumbnails/mpg-x570-gaming-edge
 9/21/2020 7:35:21 AM 930,01 RON
 9/23/2020 7:18:26 PM 934,66 RON
 9/25/2020 8:29:31 PM 939,83 RON
+9/28/2020 9:56:00 PM 939,64 RON

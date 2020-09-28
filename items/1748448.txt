@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080TI VENTUS 11G OC
 1748448
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2080-ti-ventus-oc-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1748448/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:19 AM 6.003,07 RON
 9/23/2020 6:39:15 PM 6.072,45 RON
 9/25/2020 8:15:11 PM 6.123,50 RON
+09/28/2020 19:20:08 6.145,76 RON

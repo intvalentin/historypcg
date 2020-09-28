@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKP122
 1113358
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/rucsac-notebook-cu-troller-173-inch-atlas-wheeled-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/1113358/thumbnails/rucsac-notebook-cu
 9/20/2020 11:02:12 PM 1.055,98 RON
 9/23/2020 2:32:59 PM 1.055,98 RON
 9/25/2020 7:37:37 PM 1.055,98 RON
+09/28/2020 10:13:08 1.055,98 RON

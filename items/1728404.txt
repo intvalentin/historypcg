@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2080TI-O11G
 1728404
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-ti-dual-o11g-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8674/1728404/thumbnails/geforce-rtx-2080-ti-
 9/21/2020 7:34:19 AM 6.532,42 RON
 9/23/2020 6:39:15 PM 6.601,30 RON
 9/25/2020 8:15:55 PM 6.677,67 RON
+9/28/2020 4:30:29 PM 6.676,23 RON

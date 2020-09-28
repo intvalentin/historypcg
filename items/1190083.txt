@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N710SL-1GL
 1190083
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-710-silent-1gb-ddr3-64-bit-low-profile-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/1190083/thumbnails/geforce-gt-710-sil
 9/21/2020 7:33:05 AM 204,90 RON
 9/23/2020 6:49:34 PM 207,68 RON
 9/25/2020 8:18:57 PM 209,41 RON
+9/28/2020 7:54:42 PM 209,18 RON

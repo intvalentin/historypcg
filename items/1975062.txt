@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX5700 CLD 8GO
 1975062
     Product link    
 https://www.pcgarage.ro/placi-video/asrock/radeon-rx-5700-challenger-d-oc-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/6472/1975062/thumbnails/radeon-rx-5700-chall
 9/21/2020 7:32:47 AM 2.161,88 RON
 9/23/2020 6:16:38 PM 2.172,70 RON
 9/25/2020 8:06:13 PM 2.197,83 RON
+09/28/2020 17:59:00 2.197,36 RON

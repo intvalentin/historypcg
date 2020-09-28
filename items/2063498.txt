@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |26ISL6HP76GK
 2063498
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/geforce-rtx-2060-super-gamer-1-click-oc-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/6954/2063498/thumbnails/geforce-rtx-2060-sup
 9/23/2020 3:36:38 PM 2.036,83 RON
 9/23/2020 5:20:47 PM 2.036,83 RON
 9/25/2020 7:54:07 PM 2.054,00 RON
+09/28/2020 12:38:23 2.054,00 RON
+09/28/2020 15:15:00 2.061,92 RON

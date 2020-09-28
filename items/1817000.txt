@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-GTX1660TI-O6G-GAMING
 1817000
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-ti-strix-gaming-o6g-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1817000/thumbnails/geforce-gtx-1660-ti-s
 9/21/2020 7:33:44 AM 1.807,60 RON
 9/23/2020 6:31:04 PM 1.826,66 RON
 9/25/2020 8:12:55 PM 1.847,79 RON
+09/28/2020 18:55:02 1.847,40 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2vz80ea
 1599710
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/156-pavilion-15-ck000nq-fhd-ips-procesor-intel-core-i7-8550u-8m-cache-up-to-400-ghz-8gb-ddr4-256gb-ssd-geforce-940mx-2gb-freedos-silver/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1508470/1599710/thumbnails/mwl_i7_8-1604b80b
     Pret    
 9/20/2020 11:01:03 PM 3.774,11 RON
 9/25/2020 7:33:55 PM 3.774,11 RON
+9/28/2020 9:33:01 AM 3.774,11 RON

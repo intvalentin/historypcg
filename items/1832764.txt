@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2060 GAMING Z 6G
 1832764
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2060-gaming-z-6gb-gddr6-192-bit/
@@ -12,3 +12,6 @@ https://1.grgs.ro/images/products/1/5631/1832764/thumbnails/geforce-rtx-2060-gam
 9/23/2020 4:23:22 PM 1.962,95 RON
 9/23/2020 5:41:10 PM 1.962,95 RON
 9/25/2020 7:58:40 PM 1.986,33 RON
+09/28/2020 13:14:26 1.985,89 RON
+09/28/2020 13:15:26 1.985,89 RON
+09/28/2020 15:49:05 1.985,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310M S2P
 1674528
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/h310m-s2p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664836/1674528/thumbnails/h310m-s2p-7ed2753
 9/21/2020 7:36:32 AM 340,44 RON
 9/23/2020 10:26:21 PM 342,14 RON
 9/25/2020 8:43:26 PM 346,09 RON
+9/28/2020 10:35:41 PM 346,02 RON

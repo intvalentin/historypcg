@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4412
 1826192
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2060-ghost-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/1821372/1826192/thumbnails/geforce-rtx-2060-
 9/23/2020 4:23:22 PM 1.661,88 RON
 9/23/2020 5:41:10 PM 1.661,88 RON
 9/25/2020 7:58:40 PM 1.675,87 RON
+09/28/2020 13:16:34 1.682,27 RON
+09/28/2020 15:50:53 1.682,27 RON

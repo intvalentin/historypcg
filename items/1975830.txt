@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GeForce RTX 2060 SUPER ARMOR
 1975830
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2060-super-armor-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/1975830/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:33:54 AM 2.199,39 RON
 9/23/2020 6:14:34 PM 2.204,45 RON
 9/25/2020 8:06:13 PM 2.222,77 RON
+09/28/2020 17:58:11 2.230,63 RON

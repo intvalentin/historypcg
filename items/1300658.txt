@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H110M-S2
 1300658
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h110m-s2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1126098/1300658/thumbnails/ga-h110m-s2-08f3c
 9/21/2020 7:36:23 AM 226,06 RON
 9/23/2020 10:54:28 PM 228,45 RON
 9/25/2020 8:46:25 PM 231,09 RON
+9/28/2020 10:15:22 PM 231,05 RON

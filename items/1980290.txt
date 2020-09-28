@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G770FZKDROM
 1980290
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s10-lite-octa-core-128gb-8gb-ram-dual-sim-4g-4-camere-prism-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1980290/thumbnails/galaxy-s10-lite-oc
 9/20/2020 11:39:57 PM 2.299,00 RON
 9/25/2020 8:52:02 PM 2.199,00 RON
 9/26/2020 10:51:59 PM 2.199,00 RON
+09/28/2020 11:02:01 2.199,00 RON

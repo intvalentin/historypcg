@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-GTX1650S-O4G-GAMING
 1975342
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-super-rog-strix-gaming-o4g-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/6472/1975342/thumbnails/geforce-gtx-1650-sup
 9/23/2020 3:40:43 PM 1.093,12 RON
 9/23/2020 5:24:52 PM 1.093,12 RON
 9/25/2020 7:56:22 PM 1.074,46 RON
+09/28/2020 12:54:18 1.074,46 RON
+09/28/2020 15:28:06 1.078,60 RON

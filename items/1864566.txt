@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I59600
 1864566
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-9600-31ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1864566/thumbnails/coffee-lake-core-i5-
 9/21/2020 7:34:43 AM 1.140,08 RON
 9/23/2020 3:18:15 PM 1.152,10 RON
 9/25/2020 7:47:20 PM 1.165,42 RON
+09/28/2020 11:40:54 1.215,97 RON

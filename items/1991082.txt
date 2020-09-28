@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1650OC-4GL
 1991082
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1650-low-profile-oc-4gb-gddr5-128-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1979534/1991082/thumbnails/geforce-gtx-1650-
 9/23/2020 3:38:41 PM 746,55 RON
 9/23/2020 5:24:52 PM 746,55 RON
 9/25/2020 7:55:36 PM 763,92 RON
+09/28/2020 12:48:18 763,75 RON
+09/28/2020 15:24:17 763,75 RON

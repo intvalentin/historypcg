@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MPG Z490 GAMING PLUS
 2083998
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/msi-z490-gaming-plus-lga1200-atx/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3354/2083998/thumbnails/mpg-z490-gaming-plus
 9/21/2020 7:36:55 AM 822,14 RON
 9/23/2020 7:08:06 PM 830,60 RON
 9/25/2020 8:23:26 PM 812,41 RON
+9/28/2020 8:41:06 PM 812,41 RON

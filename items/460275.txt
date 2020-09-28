@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKP127
 460275
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/versa-premium-bag-briefcase-141-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/460275/thumbnails/versa-premium-bag-briefc
 9/20/2020 11:02:12 PM 843,98 RON
 9/23/2020 2:35:03 PM 843,98 RON
 9/25/2020 7:38:21 PM 843,98 RON
+09/28/2020 10:16:03 843,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX Z390-E GAMING
 1750188
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-z390-e-gaming/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6763/1750188/thumbnails/rog-strix-z390-e-gam
 9/21/2020 7:35:29 AM 1.182,49 RON
 9/23/2020 7:22:32 PM 1.194,96 RON
 9/25/2020 8:33:01 PM 1.208,78 RON
+9/28/2020 10:00:19 PM 1.208,52 RON

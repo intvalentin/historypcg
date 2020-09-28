@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-GTX1660TI-A6G-EVO
 1951502
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-ti-dual-evo-a6g-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1951502/thumbnails/geforce-gtx-1660-ti-
 9/21/2020 7:33:44 AM 1.757,87 RON
 9/23/2020 6:18:42 PM 1.766,65 RON
 9/25/2020 8:07:40 PM 1.787,10 RON
+09/28/2020 18:11:25 1.786,70 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320M-DVS R4.0
 1806684
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/a320m-dvs-r40/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1802236/1806684/thumbnails/a320m-dvs-r40-992
 9/21/2020 7:35:29 AM 225,88 RON
 9/23/2020 7:20:29 PM 228,44 RON
 9/25/2020 8:32:18 PM 230,32 RON
+9/28/2020 8:46:15 PM 231,26 RON

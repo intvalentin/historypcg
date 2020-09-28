@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-GTX1660S-A6G-GAMING
 2000018
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-rog-strix-gaming-a6g-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/6472/2000018/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:38:41 PM 1.427,26 RON
 9/23/2020 5:22:49 PM 1.427,26 RON
 9/25/2020 7:55:36 PM 1.443,77 RON
+09/28/2020 12:46:10 1.443,47 RON
+09/28/2020 15:22:29 1.443,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T16510F-10L
 1974738
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gtx-1650-super-twin-fan-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/6472/1974738/thumbnails/geforce-gtx-1650-sup
 9/23/2020 3:32:32 PM 814,19 RON
 9/23/2020 5:15:56 PM 814,19 RON
 9/25/2020 7:53:20 PM 814,19 RON
+09/28/2020 12:24:50 814,19 RON
+09/28/2020 15:03:50 814,19 RON

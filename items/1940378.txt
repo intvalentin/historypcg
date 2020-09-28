@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX5700-O8G-GAMING
 1940378
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5700-strix-gaming-o8g-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/6835/1940378/thumbnails/rog-strix-radeon-rx-
 9/23/2020 3:44:48 PM 2.365,38 RON
 9/23/2020 5:29:05 PM 2.365,38 RON
 9/25/2020 8:08:26 PM 2.365,38 RON
+09/28/2020 18:17:54 2.365,38 RON

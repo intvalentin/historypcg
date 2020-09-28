@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KRO0015
 1960966
     Product link    
 https://www.pcgarage.ro/smartwatch/mykronoz/zesport-2-negru-galben-curea-silicon-negru-galben/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/1960966/thumbnails/zesport-2-negru-galb
 9/20/2020 11:45:47 PM 737,98 RON
 9/25/2020 9:00:02 PM 739,98 RON
 9/27/2020 8:56:38 AM 739,98 RON
+09/28/2020 12:12:38 739,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684G5400
 1670836
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-pentium-gold-g5400-37ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/1670836/thumbnails/coffee-lake-penti
 9/21/2020 7:34:53 AM 285,22 RON
 9/23/2020 3:24:24 PM 288,24 RON
 9/25/2020 7:49:37 PM 291,57 RON
+09/28/2020 11:59:08 291,50 RON

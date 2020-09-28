@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1030OC-2GI
 1499278
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-1030-oc-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1175151/1499278/thumbnails/geforce-gt-1030-o
 9/23/2020 4:31:25 PM 430,26 RON
 9/23/2020 5:43:13 PM 430,26 RON
 9/25/2020 7:59:26 PM 433,89 RON
+09/28/2020 13:24:15 435,51 RON
+09/28/2020 16:02:55 435,51 RON

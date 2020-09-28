@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FD8320FRHKBOX
 468877
     Product link    
 https://www.pcgarage.ro/procesoare/amd/fx-8320-35ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/468877/thumbnails/fx-8320-35ghz-box-150145
 9/21/2020 7:34:53 AM 303,02 RON
 9/23/2020 3:30:29 PM 306,22 RON
 9/25/2020 7:51:51 PM 309,69 RON
+09/28/2020 12:17:54 309,69 RON

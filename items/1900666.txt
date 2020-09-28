@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-1068
 1900666
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-2060-super-phantom-gs-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1900666/thumbnails/geforce-rtx-2060-
 9/21/2020 7:33:54 AM 2.238,48 RON
 9/23/2020 6:24:51 PM 2.264,66 RON
 9/25/2020 8:09:57 PM 2.282,99 RON
+09/28/2020 18:31:51 2.292,15 RON

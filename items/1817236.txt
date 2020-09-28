@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-RVEGA20-16GD-B
 1817236
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/radeon-vii-16g-hbm2-4096-bit-2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1817236/thumbnails/radeon-vii-16g-hbm2-4
 9/21/2020 7:34:10 AM 3.762,26 RON
 9/23/2020 6:31:04 PM 3.813,40 RON
 9/25/2020 8:12:55 PM 3.845,08 RON
+09/28/2020 18:54:12 3.840,86 RON

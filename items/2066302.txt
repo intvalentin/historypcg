@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B550M PRO-VDH WIFI
 2066302
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/b550m-pro-vdh-wifi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2066302/thumbnails/b550m-pro-vdh-wifi-1
 9/21/2020 7:36:00 AM 647,62 RON
 9/23/2020 7:08:06 PM 655,08 RON
 9/25/2020 8:25:41 PM 660,55 RON
+9/28/2020 9:44:31 PM 662,95 RON

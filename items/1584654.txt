@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCQP5000-PB
 1584654
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-p5000-16gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1516422/1584654/thumbnails/nvidia-quadro-p50
 9/21/2020 7:34:25 AM 9.676,38 RON
 9/23/2020 6:55:51 PM 9.786,33 RON
 9/25/2020 8:21:12 PM 9.868,80 RON
+9/28/2020 8:07:47 PM 9.906,76 RON

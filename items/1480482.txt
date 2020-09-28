@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCNVS310DP-1GB-PB
 1480482
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-nvs-310-dp-1gb-ddr3-64-bit-low-profile/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/842306/1480482/thumbnails/nvidia-nvs-310-dp-
 9/21/2020 7:34:24 AM 490,32 RON
 9/23/2020 6:55:51 PM 492,77 RON
 9/25/2020 8:21:12 PM 498,45 RON
+9/28/2020 8:09:43 PM 498,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CNS-SW73BB
 2001894
     Product link    
 https://www.pcgarage.ro/smartwatch/canyon/sanchal-negru-curea-metal-silicon-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2001894/thumbnails/sanchal-negru-curea-
 9/20/2020 11:45:34 PM 201,98 RON
 9/25/2020 8:59:17 PM 205,98 RON
 9/27/2020 8:55:49 AM 205,98 RON
+09/28/2020 12:08:21 205,98 RON

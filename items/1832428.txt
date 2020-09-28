@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1660-O6G
 1832428
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-phoenix-o6g-6gb-gddr5-192-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5664/1832428/thumbnails/geforce-gtx-1660-pho
 9/21/2020 7:33:35 AM 1.177,75 RON
 9/23/2020 6:31:04 PM 1.190,17 RON
 9/25/2020 8:12:10 PM 1.203,95 RON
+09/28/2020 18:49:31 1.203,68 RON

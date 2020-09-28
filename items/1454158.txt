@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1050OC-2GL
 1454158
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1050-oc-low-profile-2gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1454158/thumbnails/geforce-gtx-1050-o
 9/21/2020 7:33:15 AM 660,90 RON
 9/23/2020 6:47:30 PM 664,20 RON
 9/25/2020 8:18:09 PM 671,89 RON
+9/28/2020 7:49:01 PM 671,74 RON

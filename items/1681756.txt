@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |EM193356
 1681756
     Product link    
 https://www.pcgarage.ro/smartwatch/xiaomi/amazfit-stratos-negru-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1681756/thumbnails/amazfit-stratos-n
 9/20/2020 11:45:38 PM 889,98 RON
 9/25/2020 9:00:47 PM 909,98 RON
 9/27/2020 8:57:25 AM 909,98 RON
+09/28/2020 12:21:32 909,98 RON

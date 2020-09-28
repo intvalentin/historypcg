@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |OLED65GX3LA
 2063402
     Product link    
 https://www.pcgarage.ro/televizoare-led/lg/smart-tv-oled65gx3la-seria-gx3la-164cm-negru-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2063402/thumbnails/smart-tv-oled65gx3la
 9/21/2020 8:12:44 AM 13.244,98 RON
 9/25/2020 9:08:50 PM 13.244,98 RON
 9/27/2020 9:06:19 AM 13.244,98 RON
+09/28/2020 13:42:57 13.244,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-56XT6TF48
 2057830
     Product link    
 https://www.pcgarage.ro/placi-video/xfx/radeon-rx-5600-xt-thicc-iii-pro-14gbps-6gb-gddr6-192-bit/
@@ -12,3 +12,4 @@ https://5.grgs.ro/images/products/1/7193/2057830/thumbnails/radeon-rx-5600-xt-th
 9/23/2020 4:39:41 PM 1.558,68 RON
 9/23/2020 6:04:15 PM 1.563,39 RON
 9/25/2020 8:02:25 PM 1.576,37 RON
+09/28/2020 17:23:25 1.576,37 RON

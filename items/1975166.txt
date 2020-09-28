@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4710562240-1488
 1975166
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1650-super-pegasus-oc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/6472/1975166/thumbnails/geforce-gtx-1650-sup
 9/23/2020 3:40:43 PM 847,91 RON
 9/23/2020 5:24:52 PM 847,91 RON
 9/25/2020 7:56:22 PM 855,11 RON
+09/28/2020 12:54:50 855,11 RON
+09/28/2020 15:28:50 858,31 RON

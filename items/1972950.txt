@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T16600K-10M
 1972950
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/zotac-geforce-gtx-1660-dual-fansink-6gb-gddr5-3xdp-hdmi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/1972950/thumbnails/zotac-geforce-gtx-16
 9/21/2020 7:33:30 AM 1.027,64 RON
 9/23/2020 6:16:38 PM 1.039,37 RON
 9/25/2020 8:06:13 PM 1.048,11 RON
+09/28/2020 17:59:49 1.052,13 RON

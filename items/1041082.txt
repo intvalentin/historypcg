@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD840XYBJABOX
 1041082
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-x4-840-310ghz-skt-fm2-plus-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/1041082/thumbnails/kaveri-athlon-x4-840-31
 9/21/2020 7:34:48 AM 126,72 RON
 9/23/2020 3:28:27 PM 128,05 RON
 9/25/2020 7:51:07 PM 129,51 RON
+09/28/2020 12:13:02 129,51 RON

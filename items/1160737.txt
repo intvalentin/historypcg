@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-71302-20L
 1160737
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gt-710-2gb-ddr3-64-bit-low-profile-hdmi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1053670/1160737/thumbnails/geforce-gt-710-1g
 9/21/2020 7:33:05 AM 198,71 RON
 9/23/2020 6:49:34 PM 200,99 RON
 9/25/2020 8:18:57 PM 202,61 RON
+9/28/2020 7:55:15 PM 203,41 RON

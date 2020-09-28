@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AB350M-HDV R4.0
 1893254
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/ab350m-hdv-r40/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1275/1893254/thumbnails/ab350m-hdv-r40-f184d
 9/21/2020 7:36:14 AM 263,14 RON
 9/23/2020 7:41:29 PM 264,46 RON
 9/25/2020 8:38:56 PM 267,53 RON
+9/28/2020 10:19:27 PM 267,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6208TT20LC-150A
 1729048
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2080-ti-gamingpro-11gb-gddr6-352-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1728700/1729048/thumbnails/geforce-rtx-2080-
 9/21/2020 7:32:47 AM 5.868,34 RON
 9/23/2020 6:39:15 PM 5.934,67 RON
 9/25/2020 8:15:11 PM 5.986,15 RON
+9/28/2020 4:28:00 PM 6.002,03 RON

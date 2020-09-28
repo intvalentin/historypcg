@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |471056224-1808
 2039414
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1650-d6-ghost-4gb-gddr6-128-bit/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/2034042/2039414/thumbnails/geforce-gtx-1650-
 9/23/2020 3:38:41 PM 716,51 RON
 9/23/2020 5:22:49 PM 716,51 RON
 9/25/2020 8:03:11 PM 722,51 RON
+09/28/2020 17:29:41 725,18 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6166SS18J9-1160A
 1968270
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gtx-1660-super-gamingpro-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/8977/1968270/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:34:35 PM 1.078,94 RON
 9/23/2020 5:17:57 PM 1.078,94 RON
 9/25/2020 7:53:20 PM 1.078,94 RON
+09/28/2020 12:26:04 1.078,94 RON
+09/28/2020 15:05:21 1.078,94 RON

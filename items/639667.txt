@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FD9590FHHKWOF
 639667
     Product link    
 https://www.pcgarage.ro/procesoare/amd/fx-9590-47ghz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/639667/thumbnails/fx-9590-47ghz-box-7d8587
 9/21/2020 7:34:58 AM 606,05 RON
 9/23/2020 3:28:27 PM 612,44 RON
 9/25/2020 7:51:51 PM 619,39 RON
+09/28/2020 12:16:48 619,39 RON

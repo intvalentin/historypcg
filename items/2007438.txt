@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080 SUPER AERO
 2007438
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2080-super-aero-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2003606/2007438/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:14 AM 4.391,30 RON
 9/23/2020 6:08:23 PM 4.413,25 RON
 9/25/2020 8:03:11 PM 4.464,32 RON
+09/28/2020 17:34:12 4.463,35 RON

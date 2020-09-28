@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PVS416G300C8S
 2089266
     Product link    
 https://www.pcgarage.ro/memorii-notebook/patriot/steel-16gb-ddr4-3000mhz-cl18-125v/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7008/2089266/thumbnails/patriot-viper-steel-
     Pret    
 9/23/2020 2:53:37 PM 315,98 RON
 9/25/2020 7:39:51 PM 319,98 RON
+09/28/2020 10:35:41 319,98 RON

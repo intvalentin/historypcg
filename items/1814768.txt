@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GTX 1660 Ti VENTUS XS 6G OC
 1814768
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1660-ti-ventus-xs-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/3645/1814768/thumbnails/geforce-gtx-1660-ti-
 9/23/2020 4:31:25 PM 1.575,20 RON
 9/23/2020 5:43:13 PM 1.575,20 RON
 9/25/2020 7:58:40 PM 1.579,70 RON
+09/28/2020 13:19:05 1.579,36 RON
+09/28/2020 15:53:19 1.579,36 RON

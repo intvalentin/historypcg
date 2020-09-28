@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KVR21S15D8+-+16
 1171615
     Product link    
 https://www.pcgarage.ro/memorii-notebook/kingston/valueram-16gb-ddr4-2133mhz-cl15-12v-dual-ranked-x8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862955/1171615/thumbnails/16gb-ddr4-2133mhz-
 9/20/2020 11:02:48 PM 839,98 RON
 9/23/2020 3:04:00 PM 847,98 RON
 9/25/2020 7:43:38 PM 857,98 RON
+09/28/2020 11:08:25 857,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N730D5-2GL
 1693540
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-730-2gb-ddr5-64-bit-4/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1690716/1693540/thumbnails/geforce-gt-730-2g
 9/23/2020 4:31:25 PM 321,64 RON
 9/23/2020 5:43:13 PM 321,64 RON
 9/25/2020 7:59:26 PM 325,32 RON
+09/28/2020 13:22:19 324,27 RON
+09/28/2020 15:56:27 324,27 RON

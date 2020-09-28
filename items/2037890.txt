@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B460M-A
 2037890
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b460m-a/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2037890/thumbnails/prime-b460m-a-c24
 9/21/2020 7:35:43 AM 484,62 RON
 9/23/2020 7:14:15 PM 487,05 RON
 9/25/2020 8:28:00 PM 496,36 RON
+9/28/2020 9:06:30 PM 507,41 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSA64GX4M4A2666C18
 2053666
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/mac-64gb-ddr4-2666mhz-cl18-12v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053666/thumbnails/mac-memory-32gb-4-x-
 9/20/2020 11:02:48 PM 1.235,98 RON
 9/23/2020 2:59:51 PM 1.249,98 RON
 9/25/2020 7:42:08 PM 1.263,98 RON
+09/28/2020 10:56:29 1.263,98 RON

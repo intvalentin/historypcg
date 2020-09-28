@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20606DFPPB-O
 1781812
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2060-xlr8-oc-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1781812/thumbnails/geforce-rtx-2060-xlr
 9/21/2020 7:33:44 AM 1.906,15 RON
 9/23/2020 6:33:07 PM 1.928,61 RON
 9/25/2020 8:13:40 PM 1.944,46 RON
+09/28/2020 19:01:16 1.951,06 RON

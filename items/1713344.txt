@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320MH
 1713344
     Product link    
 https://www.pcgarage.ro/placi-de-baza/biostar/a320mh/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692296/1713344/thumbnails/a320mh-9099ca96bf
 9/21/2020 7:36:23 AM 236,77 RON
 9/23/2020 10:22:12 PM 239,46 RON
 9/25/2020 8:41:56 PM 241,48 RON
+9/28/2020 10:16:29 PM 242,42 RON

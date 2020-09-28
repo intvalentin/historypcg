@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSX32GX4M2A3000C16
 1490894
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/vengeance-32gb-ddr4-3000mhz-cl16-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1178653/1490894/thumbnails/vengeance-16gb-dd
 9/20/2020 11:02:20 PM 809,98 RON
 9/23/2020 2:55:42 PM 819,98 RON
 9/25/2020 7:40:36 PM 825,98 RON
+09/28/2020 10:44:51 825,98 RON

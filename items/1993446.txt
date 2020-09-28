@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G985FZADEUE
 1993446
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s20-plus-4g-edition-octa-core-128gb-8gb-ram-dual-sim-5-camere-cosmic-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1993446/thumbnails/galaxy-s20-plus-oc
 9/20/2020 11:40:04 PM 3.799,00 RON
 9/25/2020 8:51:19 PM 3.799,00 RON
 9/26/2020 10:51:11 PM 3.599,00 RON
+09/28/2020 10:57:23 3.599,00 RON

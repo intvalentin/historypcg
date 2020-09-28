@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE62060S18J9-1160A
 1826032
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-dual-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/5147/1826032/thumbnails/geforce-rtx-2060-dua
 9/23/2020 3:34:35 PM 1.548,99 RON
 9/23/2020 5:17:58 PM 1.548,99 RON
 9/25/2020 7:54:07 PM 1.548,99 RON
+09/28/2020 12:33:07 1.548,99 RON
+09/28/2020 15:09:36 1.548,99 RON

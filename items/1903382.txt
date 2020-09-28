@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG CROSSHAIR VIII HERO
 1903382
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/x570-rog-crosshair-viii-hero/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1202/1903382/thumbnails/x590-rog-crosshair-v
 9/21/2020 7:35:43 AM 2.218,82 RON
 9/23/2020 7:18:26 PM 2.242,21 RON
 9/25/2020 8:29:31 PM 2.268,16 RON
+9/28/2020 10:09:21 PM 2.267,67 RON

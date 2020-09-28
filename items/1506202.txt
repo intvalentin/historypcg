@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320M
 1506202
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/a320m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301183/1506202/thumbnails/a320m-dc7f4cec20b
 9/21/2020 7:36:14 AM 278,00 RON
 9/23/2020 10:52:23 PM 279,39 RON
 9/25/2020 8:45:40 PM 282,62 RON
+9/28/2020 10:23:56 PM 282,56 RON

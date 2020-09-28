@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R820NSDAROM
 1948234
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-active-2-2019-44-mm-otel-auriu-curea-piele-maro-wi-fi-bluetooth-gps-nfc-rezistent-la-apa/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1948234/thumbnails/sm-r820nsdarom-a928c
 9/20/2020 11:45:34 PM 1.455,98 RON
 9/25/2020 8:59:17 PM 1.461,98 RON
 9/27/2020 8:55:49 AM 1.461,98 RON
+09/28/2020 12:05:54 1.461,98 RON

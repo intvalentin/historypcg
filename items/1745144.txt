@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX Z390-F GAMING
 1745144
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-z390-f-gaming/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1745144/thumbnails/rog-strix-z390-f-
 9/21/2020 7:35:25 AM 1.060,32 RON
 9/23/2020 7:27:03 PM 1.071,50 RON
 9/25/2020 8:33:44 PM 1.286,46 RON
+9/28/2020 10:01:59 PM 1.291,43 RON

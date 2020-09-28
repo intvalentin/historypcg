@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KRO0016
 1960970
     Product link    
 https://www.pcgarage.ro/smartwatch/mykronoz/zesport-2-alb-negru-curea-silicon-alb-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1960970/thumbnails/zesport-2-alb-neg
 9/20/2020 11:45:38 PM 737,98 RON
 9/25/2020 8:58:33 PM 739,98 RON
 9/27/2020 8:55:02 AM 739,98 RON
+09/28/2020 12:03:14 739,98 RON

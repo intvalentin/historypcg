@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320M-A PRO MAX
 1970694
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/a320m-a-pro-max/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1970694/thumbnails/a320m-a-pro-max-f9e7
 9/21/2020 7:35:13 AM 236,91 RON
 9/23/2020 7:39:26 PM 240,13 RON
 9/25/2020 8:38:11 PM 242,12 RON
+9/28/2020 10:16:12 PM 241,86 RON

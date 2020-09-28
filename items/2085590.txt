@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX2060S-O8G-EVO-V2-GAMING
 2085590
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-super-rog-strix-evo-gaming-v2-o8g-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1979534/2085590/thumbnails/geforce-rtx-2060-
 9/23/2020 3:36:38 PM 2.553,81 RON
 9/23/2020 5:20:47 PM 2.553,81 RON
 9/25/2020 7:54:07 PM 2.583,35 RON
+09/28/2020 12:36:45 2.582,79 RON
+09/28/2020 15:13:07 2.582,79 RON

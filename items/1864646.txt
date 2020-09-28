@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684G5420
 1864646
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-pentium-gold-g5420-38ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/1864646/thumbnails/coffee-lake-penti
 9/21/2020 7:34:48 AM 285,22 RON
 9/23/2020 3:20:18 PM 288,24 RON
 9/25/2020 7:48:06 PM 291,57 RON
+09/28/2020 11:49:46 291,50 RON

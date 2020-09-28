@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I99900
 1864546
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i9-9900-310ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1864546/thumbnails/coffee-lake-core-i9-
 9/21/2020 7:34:43 AM 1.939,57 RON
 9/23/2020 3:22:20 PM 1.960,02 RON
 9/25/2020 7:48:53 PM 1.982,27 RON
+09/28/2020 11:51:34 1.982,27 RON

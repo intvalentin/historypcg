@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I39320
 1864554
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9320-370ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1864554/thumbnails/coffee-lake-core-i3-
 9/21/2020 7:35:03 AM 863,34 RON
 9/23/2020 3:22:20 PM 872,44 RON
 9/25/2020 7:48:53 PM 882,35 RON
+09/28/2020 11:51:02 882,35 RON

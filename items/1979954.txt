@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TRX40 PRO WIFI
 1979954
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/trx40-pro-wifi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1977958/1979954/thumbnails/trx40-pro-wifi-14
 9/21/2020 7:35:52 AM 2.196,75 RON
 9/23/2020 7:16:18 PM 2.212,96 RON
 9/25/2020 8:28:43 PM 2.242,57 RON
+9/28/2020 10:09:05 PM 2.239,61 RON

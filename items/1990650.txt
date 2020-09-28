@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AXRX 5600XT 6GBD6-3DHE+-+OC
 1990650
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-5600-xt-red-devil-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/370411/1990650/thumbnails/radeon-rx-5600-xt-
 9/21/2020 7:32:51 AM 1.632,88 RON
 9/23/2020 6:12:31 PM 1.651,38 RON
 9/25/2020 8:05:25 PM 1.664,58 RON
+09/28/2020 17:49:38 1.671,19 RON

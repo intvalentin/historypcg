@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX3080-O10G-GAMING
 2089322
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-3080-rog-strix-o10g-10gb-gddr6x-320-bit/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4273/2089322/thumbnails/geforce-rtx-3080-rog
     Pret    
 9/23/2020 6:00:07 PM 0
 9/25/2020 8:00:11 PM 0
+09/28/2020 17:04:32 0

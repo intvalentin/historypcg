@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65SQL8DS93EK
 2063502
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/geforce-gtx-1650-ex-plus-1-click-oc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/6954/2063502/thumbnails/geforce-gtx-1650-ex-
 9/23/2020 3:36:38 PM 756,66 RON
 9/23/2020 5:20:47 PM 756,66 RON
 9/25/2020 7:54:07 PM 763,03 RON
+09/28/2020 12:38:06 763,03 RON
+09/28/2020 15:14:45 765,95 RON

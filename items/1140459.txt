@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO8GX4M2A2133C15
 1140459
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-8gb-ddr4-2133mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1000151/1140459/thumbnails/valueselect-16gb-
 9/20/2020 11:02:29 PM 247,98 RON
 9/23/2020 2:57:46 PM 249,98 RON
 9/25/2020 7:40:36 PM 251,98 RON
+09/28/2020 10:47:31 251,98 RON

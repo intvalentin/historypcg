@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |26ISL6HP39SK
 1900682
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/geforce-rtx-2060-super-1-click-oc-8gb-gddr6-256-bit/
@@ -8,3 +8,4 @@ KFA2 GeForce RTX 2060 SUPER 1-Click OC 8GB GDDR6 256-bit
 https://2.grgs.ro/images/products/1/1202/1900682/thumbnails/geforce-rtx-2060-super-1-click-oc-8gb-gddr6-256-bit-a6d93b8035c415a2b13243b404c252b8.jpg
     Pret    
 9/25/2020 8:09:57 PM 2.026,35 RON
+09/28/2020 18:31:02 2.018,43 RON

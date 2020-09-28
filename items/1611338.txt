@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AXRX 580 8GBD5-3DHDV2+-+OC
 1611338
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-580-red-dragon-8gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1520902/1611338/thumbnails/radeon-rx-580-red
 9/21/2020 7:33:30 AM 983,19 RON
 9/23/2020 6:45:25 PM 994,39 RON
 9/25/2020 8:16:42 PM 1.002,79 RON
+9/28/2020 7:40:33 PM 1.006,65 RON

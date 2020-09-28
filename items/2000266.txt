@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-3-GTX1660S-A6G-GAMING
 2000266
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-tuf3-gaming-a6g-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/8977/2000266/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:38:41 PM 1.370,43 RON
 9/23/2020 5:22:49 PM 1.370,43 RON
 9/25/2020 7:54:53 PM 1.301,90 RON
+09/28/2020 12:45:04 1.301,90 RON
+09/28/2020 15:21:24 1.301,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX 5700 XT GAMING X
 1976606
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-xt-gaming-x-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1976606/thumbnails/radeon-rx-5700-xt-ga
 9/21/2020 7:33:59 AM 2.290,10 RON
 9/23/2020 6:14:34 PM 2.321,23 RON
 9/25/2020 8:06:12 PM 2.340,52 RON
+09/28/2020 17:55:17 2.337,95 RON

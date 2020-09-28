@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MAG B550M MORTAR
 2061074
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/mag-b550m-mortar/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2061074/thumbnails/mag-b550m-mortar-368
 9/21/2020 7:36:04 AM 783,68 RON
 9/23/2020 7:08:06 PM 787,60 RON
 9/25/2020 8:26:27 PM 789,18 RON
+9/28/2020 9:49:25 PM 789,01 RON

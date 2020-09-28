@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000071BOX
 1893858
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-7-3700x-36ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1275/1893858/thumbnails/ryzen-7-3700x-36ghz-
 9/21/2020 7:34:36 AM 1.529,99 RON
 9/23/2020 3:14:11 PM 1.529,99 RON
 9/25/2020 7:45:52 PM 1.529,99 RON
+09/28/2020 11:30:44 1.529,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |UB400
 2000834
     Product link    
 https://www.pcgarage.ro/adaptoare-bluetooth/tp-link/ub400-usb-20/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2000834/thumbnails/ub400-usb-20-d3e8
 9/20/2020 11:39:51 PM 59,98 RON
 9/25/2020 8:47:47 PM 59,98 RON
 9/26/2020 10:47:21 PM 59,98 RON
+09/28/2020 10:25:00 59,98 RON

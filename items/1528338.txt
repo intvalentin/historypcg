@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD9800AUABBOX
 1528338
     Product link    
 https://www.pcgarage.ro/procesoare/amd/a12-9800-38-ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1408706/1528338/thumbnails/a6-9500e-30-ghz-e
 9/21/2020 7:34:58 AM 517,89 RON
 9/23/2020 3:26:25 PM 523,35 RON
 9/25/2020 7:50:22 PM 529,29 RON
+09/28/2020 12:04:34 529,29 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20808SBLMPB
 1903018
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2080-super-blower-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1903018/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:10 AM 3.781,70 RON
 9/23/2020 6:24:51 PM 3.824,90 RON
 9/25/2020 8:09:57 PM 3.857,62 RON
+09/28/2020 18:28:40 3.872,02 RON

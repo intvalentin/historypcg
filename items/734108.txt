@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD370KOKHLBOX
 734108
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-x2-370-40ghz-skt-fm2-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/734108/thumbnails/athlon-x2-370-40ghz
 9/21/2020 7:34:53 AM 274,57 RON
 9/23/2020 3:28:27 PM 274,62 RON
 9/25/2020 7:51:51 PM 275,52 RON
+09/28/2020 12:16:32 275,52 RON

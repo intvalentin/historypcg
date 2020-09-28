@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110600KF
 2039506
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i5-10600kf-41ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2039506/thumbnails/comet-lake-core-i
 9/21/2020 7:35:03 AM 1.247,57 RON
 9/23/2020 3:20:18 PM 1.260,73 RON
 9/25/2020 7:48:06 PM 1.275,04 RON
+09/28/2020 11:45:59 1.275,04 RON

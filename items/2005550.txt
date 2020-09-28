@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX 5700 EVOKE OC
 2005550
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-evoke-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/2005550/thumbnails/radeon-rx-5700-evoke
 9/21/2020 7:33:49 AM 2.137,88 RON
 9/23/2020 6:08:23 PM 2.148,56 RON
 9/25/2020 8:03:55 PM 2.173,41 RON
+09/28/2020 17:36:06 2.172,95 RON

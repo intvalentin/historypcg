@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2070 SUPER VENTUS GP OC
 2048846
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2070-super-ventus-gp-oc-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/2045418/2048846/thumbnails/geforce-rtx-2070-
 9/23/2020 4:39:41 PM 2.626,89 RON
 9/23/2020 6:04:15 PM 2.626,89 RON
 9/25/2020 7:52:37 PM 2.589,99 RON
+09/28/2020 17:26:17 2.659,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-580P8DFD6
 1483731
     Product link    
 https://www.pcgarage.ro/placi-video/xfx/radeon-rx-580-gts-xxx-edition-8gb-ddr5-256-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1358815/1483731/thumbnails/radeon-rx-580-gts
 9/23/2020 3:36:38 PM 881,38 RON
 9/23/2020 5:20:47 PM 881,38 RON
 9/25/2020 7:54:07 PM 984,20 RON
+09/28/2020 12:35:25 984,20 RON
+09/28/2020 15:10:56 984,20 RON

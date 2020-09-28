@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |28IULBMDT22K
 2049902
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/kfa2-rtx-2080-ti-ex-1-click-oc-11gb-gddr6-3x-dp-hdmi/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2045418/2049902/thumbnails/geforce-rtx-2080-
 9/23/2020 4:39:41 PM 5.503,04 RON
 9/23/2020 6:04:15 PM 5.503,04 RON
 9/25/2020 8:02:25 PM 5.466,38 RON
+09/28/2020 17:26:01 5.448,06 RON

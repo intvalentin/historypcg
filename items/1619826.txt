@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KVR24S17S6+-+4
 1619826
     Product link    
 https://www.pcgarage.ro/memorii-notebook/kingston/4gb-ddr4-2400mhz-cl17-12v-1rx16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986422/1619826/thumbnails/4gb-ddr4-2400mhz-c
 9/20/2020 11:02:16 PM 96,88 RON
 9/23/2020 2:48:55 PM 96,88 RON
 9/25/2020 7:40:36 PM 96,88 RON
+09/28/2020 10:43:11 96,88 RON

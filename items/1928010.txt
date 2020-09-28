@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A320M PRO4 R2.0
 1928010
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/a320m-pro4-r20/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1928010/thumbnails/a320m-pro4-r20-1a5a9
 9/21/2020 7:36:32 AM 325,79 RON
 9/23/2020 7:41:29 PM 329,42 RON
 9/25/2020 8:38:56 PM 332,25 RON
+9/28/2020 10:33:44 PM 333,46 RON

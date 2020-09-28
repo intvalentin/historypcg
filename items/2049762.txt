@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B550M-K
 2049762
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b550m-k/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2049762/thumbnails/prime-b550m-k-b15
 9/21/2020 7:35:47 AM 589,34 RON
 9/23/2020 7:10:08 PM 592,28 RON
 9/25/2020 8:26:27 PM 594,56 RON
+9/28/2020 9:39:51 PM 594,43 RON

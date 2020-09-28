@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2070 SUPER GAMING X TRIO
 1937862
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2070-super-gaming-x-trio-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2554/1937862/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:32:47 AM 3.035,59 RON
 9/23/2020 6:20:45 PM 3.076,86 RON
 9/25/2020 8:08:26 PM 3.102,42 RON
+09/28/2020 18:18:44 3.099,01 RON

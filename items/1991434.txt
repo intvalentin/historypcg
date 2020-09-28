@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000163WOF
 1991434
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-3990x-29ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1991434/thumbnails/ryzen-threadripper-3
 9/21/2020 7:35:10 AM 19.999,99 RON
 9/23/2020 3:20:18 PM 19.999,99 RON
 9/25/2020 7:48:06 PM 19.999,99 RON
+09/28/2020 11:47:52 19.999,99 RON

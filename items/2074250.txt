@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT16G4SFRA32A
 2074250
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/16gb-ddr4-3200mhz-cl22-12v-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4525/2074250/thumbnails/nb-memory-16gb-pc256
 9/20/2020 11:02:33 PM 343,98 RON
 9/23/2020 2:53:37 PM 347,98 RON
 9/25/2020 7:39:51 PM 351,98 RON
+09/28/2020 10:37:02 351,98 RON

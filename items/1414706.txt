@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MQ152 Apple
 1414706
     Product link    
 https://www.pcgarage.ro/smartwatch/apple/watch-2-aluminium-42mm-rose-gold-strap-midnight-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301253/1414706/thumbnails/watch-2-aluminium
 9/20/2020 11:45:51 PM 2.099,99 RON
 9/25/2020 9:01:31 PM 2.099,99 RON
 9/27/2020 8:58:13 AM 2.099,99 RON
+09/28/2020 12:25:50 2.099,99 RON

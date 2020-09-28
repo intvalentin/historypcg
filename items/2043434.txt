@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80701G6600
 2043434
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-pentium-gold-g6600-42ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/2043434/thumbnails/comet-lake-pentiu
 9/21/2020 7:34:58 AM 492,03 RON
 9/23/2020 3:20:18 PM 497,54 RON
 9/25/2020 7:48:06 PM 502,25 RON
+09/28/2020 11:45:27 502,25 RON

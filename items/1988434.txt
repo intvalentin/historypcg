@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1660S-6G
 1988434
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-phoenix-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/8977/1988434/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:40:43 PM 1.247,60 RON
 9/23/2020 5:24:52 PM 1.247,60 RON
 9/25/2020 7:55:36 PM 1.254,46 RON
+09/28/2020 12:49:08 1.254,18 RON
+09/28/2020 15:25:06 1.254,18 RON

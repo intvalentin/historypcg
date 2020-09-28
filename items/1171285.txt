@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M9120-E512LAU1F
 1171285
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9120-plus-512mb-ddr2-pcie-x1-low-profile/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/815230/1171285/thumbnails/m9120-plus-512mb-d
 9/21/2020 7:34:24 AM 1.508,22 RON
 9/23/2020 6:55:51 PM 1.525,23 RON
 9/25/2020 8:21:12 PM 1.538,32 RON
+9/28/2020 8:10:30 PM 1.543,56 RON

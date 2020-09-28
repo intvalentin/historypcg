@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20710D-10P
 1903614
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2070-super-amp-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/1899326/1903614/thumbnails/geforce-rtx-2070-
 9/23/2020 3:44:48 PM 2.805,21 RON
 9/23/2020 5:29:05 PM 2.805,21 RON
 9/25/2020 7:57:54 PM 2.737,15 RON
+09/28/2020 13:07:17 2.747,62 RON
+09/28/2020 15:42:59 2.747,62 RON

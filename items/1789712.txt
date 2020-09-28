@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I99900KF
 1789712
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i9-9900kf-360ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6440/1789712/thumbnails/coffee-lake-core-i9-
 9/21/2020 7:34:39 AM 1.902,40 RON
 9/23/2020 3:18:15 PM 1.902,40 RON
 9/25/2020 7:46:35 PM 1.902,40 RON
+09/28/2020 11:33:36 1.902,40 RON

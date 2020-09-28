@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MZB9444EU
 2037670
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9-pro-octa-core-128gb-6gb-ram-dual-sim-4g-5-camere-tropical-green/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2037670/thumbnails/redmi-note-9-pro-oct
 9/20/2020 11:39:57 PM 1.249,00 RON
 9/25/2020 8:50:37 PM 1.299,90 RON
 9/26/2020 10:50:26 PM 1.299,90 RON
+09/28/2020 10:49:46 1.299,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I78700K
 1540994
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i7-8700k-370ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469686/1540994/thumbnails/coffee-lake-core-
 9/21/2020 7:35:07 AM 1.970,92 RON
 9/23/2020 3:24:24 PM 1.991,70 RON
 9/25/2020 7:49:37 PM 2.014,30 RON
+09/28/2020 12:02:40 2.014,30 RON

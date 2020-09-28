@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A520M DS3H
 2068962
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/a520m-ds3h/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2068962/thumbnails/a520m-ds3h-f200577da
 9/21/2020 7:36:00 AM 367,60 RON
 9/23/2020 7:08:06 PM 371,05 RON
 9/25/2020 8:25:41 PM 368,96 RON
+9/28/2020 8:55:36 PM 368,88 RON

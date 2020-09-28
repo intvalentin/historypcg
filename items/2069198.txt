@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1650D5-4GL
 2069198
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1650-d5-low-profile-4gb-gddr5-128-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/4273/2069198/thumbnails/geforce-gtx-1650-d5-
 9/23/2020 3:36:38 PM 778,78 RON
 9/23/2020 5:20:47 PM 778,78 RON
 9/25/2020 7:54:07 PM 787,79 RON
+09/28/2020 12:37:50 787,63 RON
+09/28/2020 15:14:28 787,63 RON

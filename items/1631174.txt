@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSX32GX4M4X3800C18
 1631174
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/vengeance-32gb-ddr4-3800mhz-cl18-135v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475490/1631174/thumbnails/vengeance-64gb-dd
 9/20/2020 11:02:48 PM 1.779,98 RON
 9/23/2020 3:01:56 PM 1.799,98 RON
 9/25/2020 7:42:52 PM 1.821,98 RON
+09/28/2020 11:03:53 1.821,98 RON

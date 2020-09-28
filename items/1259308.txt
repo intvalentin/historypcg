@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ADDS1600W8G11-B
 1259308
     Product link    
 https://www.pcgarage.ro/memorii-notebook/a-data/premier-8gb-ddr3-1600mhz-cl11-135v-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1259308/thumbnails/premier-8gb-ddr3-1
 9/20/2020 11:02:42 PM 215,98 RON
 9/23/2020 3:04:00 PM 217,98 RON
 9/25/2020 7:43:38 PM 219,98 RON
+09/28/2020 11:07:35 219,98 RON

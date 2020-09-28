@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1650-4G
 1996666
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-phoenix-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848722/1996666/thumbnails/geforce-gtx-1650-
 9/21/2020 7:33:25 AM 812,30 RON
 9/23/2020 6:10:27 PM 816,35 RON
 9/25/2020 8:04:42 PM 825,80 RON
+09/28/2020 17:45:16 825,63 RON

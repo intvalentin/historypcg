@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RX5500XT-O8G-EVO
 1980278
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5500-xt-dual-evo-o8g-8gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1977958/1980278/thumbnails/radeon-rx-5500-xt
 9/23/2020 3:40:43 PM 1.261,58 RON
 9/23/2020 5:24:52 PM 1.261,58 RON
 9/25/2020 7:55:36 PM 1.272,15 RON
+09/28/2020 12:52:08 1.272,15 RON
+09/28/2020 15:26:27 1.277,03 RON

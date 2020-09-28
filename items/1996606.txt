@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX5500XT-O8G-GAMING
 1996606
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5500-xt-rog-strix-gaming-o8g-8gb-gddr6-128-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/1996606/thumbnails/radeon-rx-5500-xt
 9/21/2020 7:33:39 AM 1.466,56 RON
 9/23/2020 6:10:27 PM 1.473,89 RON
 9/25/2020 8:04:42 PM 1.490,93 RON
+09/28/2020 17:45:48 1.490,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZE-SD3-8G1333
 474707
     Product link    
 https://www.pcgarage.ro/memorii-notebook/zeppelin/8gb-ddr3-1333mhz-1/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1/474707/thumbnails/8gb-ddr3-1333mhz-563850b
 9/20/2020 11:02:20 PM 142,18 RON
 9/23/2020 2:53:37 PM 142,18 RON
 9/25/2020 7:39:51 PM 142,18 RON
+09/28/2020 10:34:12 142,18 RON
+09/28/2020 10:50:50 142,18 RON

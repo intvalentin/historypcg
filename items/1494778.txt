@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |460-BCBT
 1494778
     Product link    
 https://www.pcgarage.ro/genti-notebook/alienware/rucsac-notebook-17-inch-vindicator-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469770/1494778/thumbnails/rucsac-notebook-1
 9/20/2020 11:02:08 PM 579,98 RON
 9/23/2020 2:30:54 PM 579,98 RON
 9/25/2020 7:36:52 PM 581,98 RON
+09/28/2020 10:06:17 581,98 RON

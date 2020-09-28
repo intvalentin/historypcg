@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PG D RADEON RX570 8G OC
 1770620
     Product link    
 https://www.pcgarage.ro/placi-video/asrock/radeon-rx-570-phantom-gaming-d-oc-8gb-gddr5-256-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/6763/1770620/thumbnails/radeon-rx-570-phanto
 9/21/2020 7:33:00 AM 928,56 RON
 9/23/2020 6:35:10 PM 933,20 RON
 9/25/2020 8:14:25 PM 944,00 RON
+09/28/2020 19:11:24 943,80 RON

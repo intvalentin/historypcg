@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SD3850JAHMBOX
 821900
     Product link    
 https://www.pcgarage.ro/procesoare/amd/sempron-3850-13ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/821900/thumbnails/sempron-3850-13ghz-
 9/21/2020 7:34:48 AM 159,78 RON
 9/23/2020 3:28:27 PM 161,46 RON
 9/25/2020 7:51:07 PM 163,03 RON
+09/28/2020 12:14:42 163,03 RON

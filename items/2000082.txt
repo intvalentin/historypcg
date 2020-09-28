@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-GTX1650-4G-GAMING
 2000082
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-rog-strix-gaming-4gb-gddr5-128-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/7399/2000082/thumbnails/geforce-gtx-1650-str
 9/23/2020 3:38:41 PM 862,89 RON
 9/23/2020 5:22:49 PM 862,89 RON
 9/25/2020 7:55:36 PM 872,88 RON
+09/28/2020 12:45:37 872,69 RON
+09/28/2020 15:21:56 872,69 RON

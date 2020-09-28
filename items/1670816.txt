@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684G5600
 1670816
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-pentium-gold-g5600-39ghz-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/1670816/thumbnails/coffee-lake-penti
 9/21/2020 7:34:58 AM 519,99 RON
 9/23/2020 3:24:24 PM 519,99 RON
 9/25/2020 7:49:37 PM 519,99 RON
+09/28/2020 11:59:41 519,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6165SS18G1-166F
 1975202
     Product link    
 https://www.pcgarage.ro/placi-video/palit/palit-geforce-gtx-1650-super-stormx-oc-4gb-gddr5-dp-dvi-hdmi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1975202/thumbnails/geforce-gtx-1650-sup
 9/21/2020 7:33:25 AM 931,01 RON
 9/23/2020 6:14:34 PM 935,67 RON
 9/25/2020 8:06:13 PM 946,49 RON
+09/28/2020 17:58:27 946,29 RON

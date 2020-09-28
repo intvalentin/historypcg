@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD9500AGABBOX
 1528350
     Product link    
 https://www.pcgarage.ro/procesoare/amd/a6-9500-35-ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1408706/1528350/thumbnails/a6-9500e-30-ghz-e
 9/21/2020 7:34:48 AM 192,83 RON
 9/23/2020 3:24:24 PM 194,87 RON
 9/25/2020 7:50:22 PM 197,08 RON
+09/28/2020 12:03:41 197,08 RON

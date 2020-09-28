@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N166SAORUS-6GD
 2069154
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/aorus-geforce-gtx-1660-super-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4917/2069154/thumbnails/aorus-geforce-gtx-16
 9/23/2020 4:37:37 PM 1.388,28 RON
 9/23/2020 6:02:11 PM 1.388,28 RON
 9/25/2020 8:01:41 PM 1.404,34 RON
+09/28/2020 17:20:27 1.404,04 RON

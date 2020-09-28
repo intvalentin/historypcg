@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD200GC6FBBOX
 1738588
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-200ge-32ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1738588/thumbnails/athlon-200ge-32ghz-b
 9/21/2020 7:34:43 AM 209,19 RON
 9/23/2020 3:22:20 PM 211,48 RON
 9/25/2020 7:48:53 PM 213,50 RON
+09/28/2020 11:55:39 213,50 RON

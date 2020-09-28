@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX5700-8G
 1898602
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5700-8gb-gddr6-256-bit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3944/1898602/thumbnails/radeon-rx-5700-8gb-g
 9/21/2020 7:33:49 AM 2.019,99 RON
 9/23/2020 6:26:55 PM 2.019,99 RON
 9/25/2020 8:10:41 PM 2.019,99 RON
+09/28/2020 18:36:44 2.019,99 RON

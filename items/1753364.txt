@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2080-A8G
 1753364
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-dual-a8g-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1723568/1753364/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:14 AM 4.373,13 RON
 9/23/2020 6:37:12 PM 4.394,99 RON
 9/25/2020 8:14:25 PM 4.445,85 RON
+09/28/2020 19:14:41 4.444,88 RON

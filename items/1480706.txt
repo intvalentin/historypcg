@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX 570 ARMOR 4G OC
 1480706
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-570-armor-oc-4gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1480706/thumbnails/radeon-rx-570-arm
 9/21/2020 7:33:25 AM 846,42 RON
 9/23/2020 6:47:30 PM 857,92 RON
 9/25/2020 8:17:25 PM 865,05 RON
+9/28/2020 7:46:47 PM 864,10 RON

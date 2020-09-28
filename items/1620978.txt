@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RX580-8G
 1620978
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-580-dual-8gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1420862/1620978/thumbnails/radeon-rx-580-dua
 9/21/2020 7:33:30 AM 1.114,55 RON
 9/23/2020 6:45:25 PM 1.110,11 RON
 9/25/2020 8:16:42 PM 1.122,96 RON
+9/28/2020 7:39:16 PM 1.122,71 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T16620F-10L
 1969082
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gtx-1660-super-twin-fan-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/8977/1969082/thumbnails/zotac-geforce-gtx-16
 9/23/2020 3:42:45 PM 1.205,19 RON
 9/23/2020 5:27:02 PM 1.205,19 RON
 9/25/2020 7:56:22 PM 1.215,36 RON
+09/28/2020 12:57:24 1.215,36 RON
+09/28/2020 15:31:43 1.219,98 RON

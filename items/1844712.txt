@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4481
 1844712
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1660-ghost-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1054/1844712/thumbnails/geforce-gtx-1660-gho
 9/23/2020 4:23:22 PM 1.107,69 RON
 9/23/2020 5:41:10 PM 1.107,69 RON
 9/25/2020 7:57:54 PM 1.116,43 RON
+09/28/2020 13:13:36 1.116,19 RON
+09/28/2020 15:48:16 1.116,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GT710-SL-1GD5-BRK
 1645040
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gt-710-1gb-ddr5-32-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/922/1645040/thumbnails/vga-as-geforce-gt-710
 9/23/2020 4:31:25 PM 215,41 RON
 9/23/2020 5:43:13 PM 215,41 RON
 9/25/2020 7:59:26 PM 217,91 RON
+09/28/2020 13:22:51 217,85 RON
+09/28/2020 15:57:00 217,85 RON

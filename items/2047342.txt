@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000281BOX
 2047342
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-5-3600xt-38ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2047342/thumbnails/ryzen-5-3600xt-38
 9/21/2020 7:34:38 AM 1.196,64 RON
 9/23/2020 3:14:11 PM 1.196,64 RON
 9/25/2020 7:45:51 PM 1.196,64 RON
+09/28/2020 11:24:38 1.196,64 RON

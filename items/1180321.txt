@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD767KXBJCSBX
 1180321
     Product link    
 https://www.pcgarage.ro/procesoare/amd/kaveri-a8-7670k-black-edition-36ghz-quiet-cooler-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1180321/thumbnails/kaveri-a8-7670k-bl
 9/21/2020 7:34:58 AM 498,78 RON
 9/23/2020 3:28:27 PM 498,86 RON
 9/25/2020 7:51:07 PM 500,51 RON
+09/28/2020 12:11:23 500,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11233-01-20G
 841217
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-r5-230-1gb-ddr3-64-bit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/841217/thumbnails/radeon-r5-230-1gb-d
 9/21/2020 7:33:05 AM 170,79 RON
 9/23/2020 6:51:40 PM 173,12 RON
 9/25/2020 8:19:39 PM 174,55 RON
+9/28/2020 7:59:17 PM 174,36 RON

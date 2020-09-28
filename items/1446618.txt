@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PSD416G21332S
 1446618
     Product link    
 https://www.pcgarage.ro/memorii-notebook/patriot/signature-16gb-ddr4-2133mhz-cl15-12v-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/991247/1446618/thumbnails/signature-16gb-ddr
 9/20/2020 11:02:29 PM 297,98 RON
 9/23/2020 2:55:42 PM 301,98 RON
 9/25/2020 7:40:36 PM 303,98 RON
+09/28/2020 10:45:24 303,98 RON

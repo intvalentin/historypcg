@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GT 1030 AERO ITX 2G OC
 1498426
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gt-1030-aero-itx-oc-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1192525/1498426/thumbnails/geforce-gt-1030-a
 9/23/2020 4:31:25 PM 450,58 RON
 9/23/2020 5:43:13 PM 450,58 RON
 9/25/2020 7:59:26 PM 454,62 RON
+09/28/2020 13:24:31 454,52 RON
+09/28/2020 16:03:12 454,52 RON

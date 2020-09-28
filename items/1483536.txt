@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX570-O4G-GAMING
 1483536
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-570-strix-gaming-o4g-4gb-ddr5-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1415042/1483536/thumbnails/radeon-rx-570-str
 9/21/2020 7:33:44 AM 1.767,94 RON
 9/23/2020 6:47:30 PM 1.791,97 RON
 9/25/2020 8:17:25 PM 1.806,86 RON
+9/28/2020 7:44:57 PM 1.804,87 RON

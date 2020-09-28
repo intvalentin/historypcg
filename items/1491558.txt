@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GT1030-SL-2G-BRK
 1491558
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gt-1030-sl-brk-2gb-ddr5-64-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/1187917/1491558/thumbnails/geforce-gt-1030-s
 9/23/2020 4:33:30 PM 431,54 RON
 9/23/2020 5:58:05 PM 431,54 RON
 9/25/2020 7:59:26 PM 430,22 RON
+09/28/2020 13:25:57 430,14 RON
+09/28/2020 16:04:33 430,14 RON

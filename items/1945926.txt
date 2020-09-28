@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N208SGAMING-8GC
 1945926
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2080-super-gaming-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1945926/thumbnails/geforce-rtx-2080-sup
 9/21/2020 7:34:10 AM 3.852,48 RON
 9/23/2020 6:20:45 PM 3.896,98 RON
 9/25/2020 8:07:40 PM 3.929,71 RON
+09/28/2020 18:14:17 3.944,11 RON

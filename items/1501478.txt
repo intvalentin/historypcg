@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mqd32
 1501478
     Product link    
 https://www.pcgarage.ro/notebook-laptop/apple/133-macbook-air-13-broadwell-i5-18ghz-8gb-128gb-ssd-gma-hd-6000-mac-os-sierra-int-keyboard/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/798262/1501478/thumbnails/133-macbook-air-13
     Pret    
 9/20/2020 11:01:18 PM 5.493,88 RON
 9/25/2020 7:33:55 PM 5.509,71 RON
+9/28/2020 9:38:02 AM 5.512,87 RON

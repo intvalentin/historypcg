@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1660S-O6G
 1967138
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-super-phoenix-oc-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/8977/1967138/thumbnails/geforce-gtx-1660-sup
 9/21/2020 7:32:12 AM 1.321,23 RON
 9/23/2020 6:16:38 PM 1.274,89 RON
 9/25/2020 8:06:57 PM 1.285,59 RON
+09/28/2020 18:06:34 1.290,48 RON

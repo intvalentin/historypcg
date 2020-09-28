@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ADDS1600W4G11-B
 1259301
     Product link    
 https://www.pcgarage.ro/memorii-notebook/a-data/premier-4gb-ddr3-1600mhz-cl11-135v-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/1259301/thumbnails/premier-4gb-ddr3-1600mh
 9/20/2020 11:02:42 PM 131,98 RON
 9/23/2020 3:04:00 PM 131,98 RON
 9/25/2020 7:43:38 PM 133,98 RON
+09/28/2020 11:07:52 133,98 RON

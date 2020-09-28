@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1660TI-O6G
 1816600
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-ti-phoenix-oc-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/753/1816600/thumbnails/geforce-gtx-1660-ti-p
 9/21/2020 7:33:39 AM 1.515,36 RON
 9/23/2020 6:33:07 PM 1.531,33 RON
 9/25/2020 8:12:55 PM 1.549,05 RON
+09/28/2020 18:55:51 1.548,72 RON

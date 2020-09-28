@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TURBO-RTX2060-6G
 1779640
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-turbo-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/761/1779640/thumbnails/geforce-rtx-2060-turb
 9/21/2020 7:32:51 AM 1.948,70 RON
 9/23/2020 6:33:07 PM 1.969,24 RON
 9/25/2020 8:13:40 PM 1.992,02 RON
+09/28/2020 19:02:05 1.991,60 RON

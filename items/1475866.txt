@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD4S240038G17-S
 1475866
     Product link    
 https://www.pcgarage.ro/memorii-notebook/a-data/premier-8gb-ddr4-2400mhz-cl17-12v-2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1052635/1475866/thumbnails/8gb-ddr4-2400mhz-
 9/20/2020 11:02:37 PM 165,98 RON
 9/23/2020 3:04:00 PM 167,98 RON
 9/25/2020 7:42:52 PM 167,98 RON
+09/28/2020 11:05:30 167,98 RON

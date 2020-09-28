@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-RTX3090-24G-GAMING
 2073442
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-3090-tuf-gaming-24gb-gddr6x-384-bit/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2073442/thumbnails/geforce-rtx-3090-tuf
     Pret    
 9/23/2020 6:00:08 PM 0
 9/25/2020 8:00:54 PM 8.799,99 RON
+09/28/2020 17:13:31 8.799,99 RON

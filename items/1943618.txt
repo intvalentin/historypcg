@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N206SWF2-8GD
 1943618
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2060-super-windforce-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/5758/1943618/thumbnails/geforce-rtx-2060-sup
 9/23/2020 3:42:46 PM 2.107,02 RON
 9/23/2020 5:29:05 PM 2.107,02 RON
 9/25/2020 7:57:07 PM 2.131,39 RON
+09/28/2020 13:04:14 2.130,94 RON
+09/28/2020 15:39:59 2.130,94 RON

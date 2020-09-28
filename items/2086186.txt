@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PVS48G300C8S
 2086186
     Product link    
 https://www.pcgarage.ro/memorii-notebook/patriot/steel-8gb-ddr4-3000mhz-cl18-125v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7008/2086186/thumbnails/patriot-viper-steel-
 9/20/2020 11:02:42 PM 183,98 RON
 9/23/2020 2:59:51 PM 185,98 RON
 9/25/2020 7:39:51 PM 185,98 RON
+09/28/2020 10:36:14 185,98 RON

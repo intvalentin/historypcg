@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO16GX4M2A2133C15
 1127308
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-16gb-ddr4-2133mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1000151/1127308/thumbnails/valueselect-16gb-
 9/20/2020 11:02:24 PM 347,98 RON
 9/23/2020 2:57:46 PM 351,98 RON
 9/25/2020 7:41:23 PM 379,98 RON
+09/28/2020 10:48:20 377,98 RON

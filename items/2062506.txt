@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE61650018G1-166F
 2062506
     Product link    
 https://www.pcgarage.ro/placi-video/palit/vga-pl-gtx-1650-stormx-d6-gddr6/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/6954/2062506/thumbnails/geforce-gtx-1650-sto
 9/23/2020 3:36:38 PM 691,78 RON
 9/23/2020 5:20:47 PM 691,78 RON
 9/25/2020 7:54:07 PM 698,11 RON
+09/28/2020 12:38:54 697,96 RON
+09/28/2020 15:15:16 697,96 RON

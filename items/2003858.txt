@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6208SS19P2-180T
 2003858
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2080-super-gamingpro-oc-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/8078/2003858/thumbnails/geforce-rtx-2080-sup
 9/21/2020 7:33:00 AM 3.606,01 RON
 9/23/2020 6:08:24 PM 3.647,15 RON
 9/25/2020 8:03:55 PM 3.677,86 RON
+09/28/2020 17:39:22 3.691,89 RON

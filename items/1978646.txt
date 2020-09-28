@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11295-05-20G
 1978646
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5500-xt-nitro-plus-8gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/370411/1978646/thumbnails/radeon-rx-5500-xt-
 9/23/2020 3:32:32 PM 1.139,58 RON
 9/23/2020 5:15:56 PM 1.139,58 RON
 9/25/2020 7:52:37 PM 1.139,58 RON
+09/28/2020 12:22:08 1.139,58 RON
+09/28/2020 15:00:52 1.139,58 RON

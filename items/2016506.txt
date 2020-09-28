@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CNS-SW82BB
 2016506
     Product link    
 https://www.pcgarage.ro/smartwatch/canyon/wasabi-metal-negru-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2013982/2016506/thumbnails/wasabi-metal-negr
 9/20/2020 11:45:42 PM 353,98 RON
 9/25/2020 8:59:17 PM 361,98 RON
 9/27/2020 8:55:49 AM 361,98 RON
+09/28/2020 12:08:05 361,98 RON

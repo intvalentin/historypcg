@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TURBO-RTX2070S-8G-EVO
 1936458
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2070-super-turbo-evo-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/2554/1936458/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:32:38 AM 2.859,84 RON
 9/23/2020 6:22:49 PM 2.890,00 RON
 9/25/2020 8:08:26 PM 2.923,43 RON
+09/28/2020 18:21:16 2.922,80 RON

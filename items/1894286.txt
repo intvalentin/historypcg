@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |21293-01-40G
 1894286
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5700-xt-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1275/1894286/thumbnails/radeon-rx-5700-xt-8g
 9/21/2020 7:33:54 AM 2.249,99 RON
 9/23/2020 6:26:55 PM 2.249,99 RON
 9/25/2020 8:10:41 PM 2.249,99 RON
+09/28/2020 18:37:34 2.249,99 RON

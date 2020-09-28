@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20610B-10P
 1903622
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2060-super-amp-extreme-8gb-gddr6-256-bit/
@@ -8,3 +8,5 @@ Zotac GeForce RTX 2060 SUPER AMP Extreme 8GB GDDR6 256-bit
 https://5.grgs.ro/images/products/1/1202/1903622/thumbnails/geforce-rtx-2060-super-amp-extreme-8gb-gddr6-256-bit-9f1088d2600b83681a07af1d9028fd07.jpg
     Pret    
 9/25/2020 7:57:54 PM 2.391,54 RON
+09/28/2020 13:08:31 2.400,71 RON
+09/28/2020 15:44:13 2.400,71 RON

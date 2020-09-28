@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080TI HOF
 1775172
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/kfa2-geforce-rtx-2080-ti-hof-11gb-gddr6-352-bit/
@@ -8,3 +8,4 @@ KFA2 GeForce RTX 2080 Ti HOF 11GB GDDR6 352-bit
 https://5.grgs.ro/images/products/1/1774300/1775172/thumbnails/vga-kfa2-geforce-rtx2080ti-hof-ccc2e183c0ec2717de1f220e6a1b337b.jpg
     Pret    
 9/25/2020 8:13:41 PM 8.122,44 RON
+09/28/2020 19:04:35 8.153,85 RON

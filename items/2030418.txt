@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B450M H
 2030418
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/b450m-h/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8840/2030418/thumbnails/b450m-h-9c34264ec80e
 9/21/2020 7:36:09 AM 295,65 RON
 9/23/2020 7:37:21 PM 298,77 RON
 9/25/2020 8:28:43 PM 302,22 RON
+9/28/2020 8:27:02 PM 287,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |R7240-OC-4GD3-L
 843211
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-r7-240-oc-4gb-ddr3-128-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/812812/843211/thumbnails/radeon-r7-240-oc-4g
 9/21/2020 7:33:15 AM 559,07 RON
 9/23/2020 6:51:40 PM 561,86 RON
 9/25/2020 8:19:39 PM 563,33 RON
+9/28/2020 7:59:01 PM 563,21 RON

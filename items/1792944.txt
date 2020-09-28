@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD250XBBAFMPK
 1792944
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-5-2500x-36ghz-mpk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3049/1792944/thumbnails/ryzen-5-2500x-36ghz-
 9/21/2020 7:35:07 AM 1.368,98 RON
 9/23/2020 3:22:20 PM 1.368,98 RON
 9/25/2020 7:48:53 PM 1.368,98 RON
+09/28/2020 11:53:12 1.368,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD170XBCAEWOF
 1455170
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-7-1700x-34ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1416562/1455170/thumbnails/ryzen-7-1800x-4gh
 9/21/2020 7:35:07 AM 1.647,34 RON
 9/23/2020 3:26:25 PM 1.664,71 RON
 9/25/2020 7:50:22 PM 1.681,33 RON
+09/28/2020 12:08:41 1.681,33 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2060-6G-EVO
 1958766
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-dual-evo-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1261/1958766/thumbnails/geforce-rtx-2060-dua
 9/21/2020 7:33:49 AM 1.978,09 RON
 9/23/2020 6:18:42 PM 1.998,94 RON
 9/25/2020 8:06:57 PM 2.022,06 RON
+09/28/2020 18:08:14 2.021,62 RON

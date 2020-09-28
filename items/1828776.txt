@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GTX 1660 ARMOR 6G OC
 1828776
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1660-armor-oc-6gb-gddr5-192-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1828776/thumbnails/geforce-gtx-1660-arm
 9/21/2020 7:33:35 AM 1.212,29 RON
 9/23/2020 6:31:04 PM 1.228,77 RON
 9/25/2020 8:12:10 PM 1.238,97 RON
+09/28/2020 18:50:36 1.237,61 RON

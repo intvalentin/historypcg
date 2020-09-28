@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N208TTURBO OC-11GC
 1749792
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2080-ti-turbo-oc-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6763/1749792/thumbnails/geforce-rtx-2080-ti-
 9/21/2020 7:34:19 AM 5.836,99 RON
 9/23/2020 6:37:12 PM 5.898,52 RON
 9/25/2020 8:15:11 PM 5.966,76 RON
+09/28/2020 19:19:18 5.965,48 RON

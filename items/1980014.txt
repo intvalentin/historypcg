@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N166T1-06D6-1710VA29
 1980014
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1660-ti-compact-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/370411/1980014/thumbnails/geforce-gtx-1660-t
 9/23/2020 3:40:43 PM 1.336,84 RON
 9/23/2020 5:24:52 PM 1.336,84 RON
 9/25/2020 7:55:36 PM 1.348,73 RON
+09/28/2020 12:52:24 1.322,31 RON
+09/28/2020 15:26:43 1.327,60 RON

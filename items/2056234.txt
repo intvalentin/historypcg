@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51092QPF
 2056234
     Product link    
 https://www.pcgarage.ro/smartphone/huawei/honor-7s-ecran-lcd-quad-core-16gb-2gb-ram-dual-sim-4g-baterie-3020-mah-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2056234/thumbnails/honor-7s-ecran-lcd-q
 9/20/2020 11:40:29 PM 511,98 RON
 9/25/2020 8:54:53 PM 513,98 RON
 9/27/2020 8:51:06 AM 513,98 RON
+09/28/2020 11:25:57 513,98 RON

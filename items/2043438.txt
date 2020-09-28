@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80701G6500
 2043438
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-pentium-gold-g6500-41ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664860/2043438/thumbnails/comet-lake-pentiu
 9/21/2020 7:34:58 AM 435,55 RON
 9/23/2020 3:20:18 PM 440,52 RON
 9/25/2020 7:48:06 PM 444,69 RON
+09/28/2020 11:45:11 444,69 RON

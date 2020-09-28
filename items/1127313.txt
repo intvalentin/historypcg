@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO8GX4M1A2133C15
 1127313
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-8gb-ddr4-2133mhz-cl15/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/1127313/thumbnails/valueselect-8gb-dd
 9/20/2020 11:02:16 PM 165,52 RON
 9/23/2020 2:48:55 PM 165,52 RON
 9/25/2020 7:39:06 PM 165,52 RON
+09/28/2020 10:32:34 165,52 RON

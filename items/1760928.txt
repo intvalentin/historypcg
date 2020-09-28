@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20810C-10P
 1760928
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2080-ti-extreme-core-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1760928/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:19 AM 6.208,59 RON
 9/23/2020 6:35:10 PM 6.279,27 RON
 9/25/2020 8:14:25 PM 6.331,63 RON
+09/28/2020 19:13:02 6.356,50 RON

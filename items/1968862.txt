@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2060 SUPER GAMING
 1968862
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2060-super-gaming-8gb-gddr6-256-bit-msi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6811/1968862/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:33:59 AM 2.310,48 RON
 9/23/2020 6:16:38 PM 2.337,97 RON
 9/25/2020 8:06:57 PM 2.357,60 RON
+09/28/2020 18:02:29 2.365,45 RON

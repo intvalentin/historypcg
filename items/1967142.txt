@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N166SIXOC-6GD
 1967142
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-super-mini-itx-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/8977/1967142/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:42:45 PM 1.141,35 RON
 9/23/2020 5:27:02 PM 1.141,35 RON
 9/25/2020 7:56:22 PM 1.163,41 RON
+09/28/2020 12:59:00 1.160,37 RON
+09/28/2020 15:33:06 1.160,37 RON

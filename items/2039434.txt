@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110900
 2039434
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i9-10900-28ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2039434/thumbnails/comet-lake-core-i
 9/21/2020 7:35:07 AM 2.370,57 RON
 9/23/2020 3:20:18 PM 2.397,47 RON
 9/25/2020 7:48:06 PM 2.420,33 RON
+09/28/2020 11:46:15 2.420,33 RON

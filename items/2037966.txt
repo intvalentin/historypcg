@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110900K
 2037966
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i9-10900k-37ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2037966/thumbnails/comet-lake-core-i
 9/21/2020 7:34:38 AM 2.754,99 RON
 9/23/2020 3:14:11 PM 2.754,99 RON
 9/25/2020 7:48:06 PM 2.438,08 RON
+09/28/2020 11:46:47 2.438,08 RON

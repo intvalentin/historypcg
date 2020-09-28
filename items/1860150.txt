@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CNS-SW51BB
 1860150
     Product link    
 https://www.pcgarage.ro/smartwatch/canyon/military-style-aluminiu-negru-gri-curea-negru-silicon/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1236/1860150/thumbnails/military-style-alumi
 9/20/2020 11:45:42 PM 91,98 RON
 9/25/2020 9:00:47 PM 93,98 RON
 9/27/2020 8:57:25 AM 93,98 RON
+09/28/2020 12:17:59 93,98 RON

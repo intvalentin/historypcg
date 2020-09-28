@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |471056224-1365
 1967122
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1660-super-pegasus-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/8977/1967122/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:42:46 PM 1.152,71 RON
 9/23/2020 5:27:02 PM 1.152,71 RON
 9/25/2020 7:56:22 PM 1.162,35 RON
+09/28/2020 12:59:48 1.162,35 RON
+09/28/2020 15:33:55 1.166,84 RON

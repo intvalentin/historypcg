@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSO8GX3M1A1600C11
 469551
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/valueselect-8gb-ddr3-1600mhz-cl11/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/469551/thumbnails/valueselect-8gb-ddr
 9/20/2020 11:02:20 PM 201,98 RON
 9/23/2020 2:57:46 PM 195,98 RON
 9/25/2020 7:41:23 PM 197,98 RON
+09/28/2020 10:51:22 197,98 RON

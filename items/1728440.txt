@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KFA2 RTX 2080 Ti DUAL BLACK
 1728440
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/kfa2-geforce-rtx-2080-ti-dual-black-11gb-gddr6-352-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/1728440/thumbnails/kfa2-geforce-rtx-208
 9/21/2020 7:34:19 AM 6.607,51 RON
 9/23/2020 6:39:15 PM 6.697,33 RON
 9/25/2020 8:15:55 PM 6.752,97 RON
+9/28/2020 4:29:23 PM 6.745,55 RON

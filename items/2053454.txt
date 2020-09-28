@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27ISL6MDW0BK
 2053454
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/geforce-rtx-2070-super-ex-gamer-black-edition-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://2.grgs.ro/images/products/1/7960/2053454/thumbnails/kfa2-27isl6mdw0bk-kf
 9/23/2020 3:36:38 PM 2.569,66 RON
 9/23/2020 5:20:47 PM 2.569,66 RON
 9/25/2020 8:02:25 PM 2.591,91 RON
+09/28/2020 17:23:57 2.285,61 RON

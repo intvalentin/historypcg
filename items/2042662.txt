@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1656EAGLE OC-4GD
 2042662
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1650-d6-eagle-oc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1034/2042662/thumbnails/vga-gb-nvidia-gtx-16
 9/23/2020 3:38:41 PM 800,11 RON
 9/23/2020 5:22:49 PM 800,11 RON
 9/25/2020 7:54:53 PM 809,74 RON
+09/28/2020 12:42:38 809,57 RON
+09/28/2020 15:18:58 809,57 RON

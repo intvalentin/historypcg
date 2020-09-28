@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1050TI-4G
 1429178
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1050-ti-phoenix-4gb-ddr5-128-bit/
@@ -12,3 +12,4 @@ https://1.grgs.ro/images/products/1/1416578/1429178/thumbnails/geforce-gtx-1050-
 9/23/2020 4:33:30 PM 725,88 RON
 9/23/2020 5:58:05 PM 725,88 RON
 9/25/2020 8:18:09 PM 733,11 RON
+9/28/2020 7:50:57 PM 732,95 RON

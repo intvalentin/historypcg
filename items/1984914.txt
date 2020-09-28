@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-R55XTOC-4GD
 1984914
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/radeon-rx-5500-xt-oc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/6472/1984914/thumbnails/radeon-rx-5500-xt-oc
 9/23/2020 3:40:43 PM 948,27 RON
 9/23/2020 5:24:52 PM 948,27 RON
 9/25/2020 7:55:36 PM 964,43 RON
+09/28/2020 12:50:13 956,35 RON
+09/28/2020 15:25:54 956,35 RON

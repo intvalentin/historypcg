@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11295-03-20G
 1978262
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5500-xt-pulse-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1977958/1978262/thumbnails/radeon-rx-5500-xt
 9/23/2020 3:32:32 PM 878,34 RON
 9/23/2020 5:15:56 PM 878,34 RON
 9/25/2020 7:52:37 PM 878,34 RON
+09/28/2020 12:22:57 878,34 RON
+09/28/2020 15:01:56 878,34 RON

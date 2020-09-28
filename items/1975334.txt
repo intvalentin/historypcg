@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1650S-O4G
 1975334
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-super-phoenix-o4g-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/6472/1975334/thumbnails/geforce-gtx-1650-sup
 9/23/2020 3:32:32 PM 875,95 RON
 9/23/2020 5:15:56 PM 875,95 RON
 9/25/2020 7:53:20 PM 875,95 RON
+09/28/2020 12:23:45 875,95 RON
+09/28/2020 15:02:44 875,95 RON

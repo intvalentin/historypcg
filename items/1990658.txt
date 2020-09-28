@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AXRX 5600XT 6GBD6-3DH+-+OC
 1990658
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-5600-xt-6gb-gddr6-192-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1990366/1990658/thumbnails/radeon-rx-5600-xt
 9/21/2020 7:33:00 AM 1.595,90 RON
 9/23/2020 6:12:31 PM 1.631,56 RON
 9/25/2020 8:05:25 PM 1.644,77 RON
+09/28/2020 17:49:21 1.651,38 RON

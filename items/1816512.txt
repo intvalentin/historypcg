@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6166T018J9-161F
 1816512
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gtx-1660-ti-stormx-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/753/1816512/thumbnails/geforce-gtx-1660-ti-s
 9/23/2020 4:31:25 PM 1.400,46 RON
 9/23/2020 5:43:13 PM 1.400,46 RON
 9/25/2020 7:58:40 PM 1.414,78 RON
+09/28/2020 13:18:31 1.409,84 RON
+09/28/2020 15:52:47 1.409,84 RON

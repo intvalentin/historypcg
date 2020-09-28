@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N3080EAGLE OC-10GD
 2072730
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-3080-eagle-oc-10gb-gddr6x-320-bit/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2072730/thumbnails/geforce-rtx-3080-eag
     Pret    
 9/23/2020 6:02:11 PM 4.399,99 RON
 9/25/2020 8:01:40 PM 4.399,99 RON
+09/28/2020 17:17:16 4.399,99 RON

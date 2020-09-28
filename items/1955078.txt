@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KRO0013
 1955078
     Product link    
 https://www.pcgarage.ro/smartwatch/mykronoz/zeround-3-argintiu-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1953966/1955078/thumbnails/zeround-3-arginti
 9/20/2020 11:45:47 PM 511,98 RON
 9/25/2020 9:00:02 PM 513,98 RON
 9/27/2020 8:56:38 AM 513,98 RON
+09/28/2020 12:13:58 513,98 RON

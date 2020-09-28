@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20810A-10P
 1760916
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2080-ti-blower-11gb-gddr6-352-bit-1/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1153/1760916/thumbnails/geforce-rtx-2080-ti-
 9/21/2020 7:32:51 AM 5.338,19 RON
 9/23/2020 6:35:10 PM 5.399,72 RON
 9/25/2020 8:14:25 PM 5.445,53 RON
+09/28/2020 19:13:19 5.466,48 RON

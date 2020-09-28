@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11268-09-20G
 1994946
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-550-pulse-g5-lp-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1994946/thumbnails/radeon-rx-550-pul
 9/21/2020 7:33:10 AM 401,04 RON
 9/23/2020 6:10:27 PM 403,05 RON
 9/25/2020 8:04:42 PM 407,70 RON
+09/28/2020 17:46:05 407,62 RON

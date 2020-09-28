@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AXRX 5700XT 8GBD6-3DHE+-+OC
 1936854
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-5700-xt-red-devil-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/2554/1936854/thumbnails/radeon-rx-5700-xt-re
 9/23/2020 3:44:48 PM 2.211,15 RON
 9/23/2020 5:29:05 PM 2.211,15 RON
 9/25/2020 7:57:07 PM 2.229,48 RON
+09/28/2020 13:05:39 2.207,47 RON
+09/28/2020 15:41:20 2.207,47 RON

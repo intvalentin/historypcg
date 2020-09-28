@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110320
 2039770
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i3-10320-38ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2039770/thumbnails/comet-lake-core-i3-1
 9/21/2020 7:34:43 AM 858,59 RON
 9/23/2020 3:16:13 PM 868,41 RON
 9/25/2020 7:47:20 PM 876,48 RON
+09/28/2020 11:37:23 876,48 RON

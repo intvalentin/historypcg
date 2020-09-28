@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490 UD AC
 2033758
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z490-ud-ac/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033758/thumbnails/z490-ud-ac-9d44309b0
 9/21/2020 7:35:43 AM 783,97 RON
 9/23/2020 7:14:15 PM 792,95 RON
 9/25/2020 8:28:00 PM 799,55 RON
+9/28/2020 9:50:00 PM 802,59 RON

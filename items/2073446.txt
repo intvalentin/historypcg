@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |471056224-2010
 2073446
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-rtx-3080-phoenix-gs-10gb-gddr6x-320-bit/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4273/2073446/thumbnails/geforce-rtx-3080-pho
     Pret    
 9/23/2020 6:00:08 PM 0
 9/25/2020 8:00:54 PM 0
+09/28/2020 17:13:15 0

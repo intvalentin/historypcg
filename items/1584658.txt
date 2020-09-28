@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1584658
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-p6000-24gb-ddr5-384-bit/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1461878/1584658/thumbnails/nvidia-quadro-p60
 9/21/2020 7:34:25 AM 24.919,43 RON
 9/23/2020 6:53:47 PM 25.204,80 RON
 9/25/2020 8:20:27 PM 25.416,85 RON
+9/28/2020 8:06:46 PM 25.513,72 RON
+9/28/2020 8:15:44 PM 25.513,72 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T16500F-10L
 1857078
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/zotac-geforce-gtx-1650-oc-4gb-gddr5-dp-hdmi-dvi-d/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1848722/1857078/thumbnails/zotac-geforce-gtx
 9/21/2020 7:33:25 AM 795,51 RON
 9/23/2020 6:29:00 PM 792,98 RON
 9/25/2020 8:11:26 PM 787,78 RON
+09/28/2020 18:43:01 784,98 RON

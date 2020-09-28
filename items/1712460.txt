@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B450M-A
 1712460
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b450m-a/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692136/1712460/thumbnails/prime-b450m-a-7f9
 9/21/2020 7:35:25 AM 358,99 RON
 9/23/2020 7:27:03 PM 363,08 RON
 9/25/2020 8:25:41 PM 336,43 RON
+9/28/2020 8:28:41 PM 336,43 RON

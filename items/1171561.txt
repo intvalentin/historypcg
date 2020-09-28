@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M9140-E512LAF
 1171561
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9140-512mb-ddr2-low-profile/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/1171561/thumbnails/m9140-512mb-ddr2-l
 9/21/2020 7:34:25 AM 2.798,89 RON
 9/23/2020 6:55:51 PM 2.831,62 RON
 9/25/2020 8:21:12 PM 2.855,18 RON
+9/28/2020 8:09:59 PM 2.865,65 RON

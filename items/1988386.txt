@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2080S-O8G-EVO-V2
 1988386
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-super-evo-o8g-v2-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1977958/1988386/thumbnails/geforce-rtx-2080-
 9/23/2020 3:40:43 PM 3.932,00 RON
 9/23/2020 5:24:52 PM 3.932,00 RON
 9/25/2020 7:55:36 PM 3.968,84 RON
+09/28/2020 12:49:40 3.963,81 RON
+09/28/2020 15:25:38 3.963,81 RON

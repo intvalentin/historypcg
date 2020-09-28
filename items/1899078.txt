@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AMVLWT01
 1899078
     Product link    
 https://www.pcgarage.ro/smartwatch/xiaomi/amazfit-verge-lite-curea-silicon-gps-gorilla-glass-ip68-rezistent-la-apa-shark-gray/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1899078/thumbnails/amazfit-verge-lite-c
 9/20/2020 11:45:47 PM 425,98 RON
 9/25/2020 9:00:47 PM 433,98 RON
 9/27/2020 8:57:25 AM 433,98 RON
+09/28/2020 12:17:26 433,98 RON

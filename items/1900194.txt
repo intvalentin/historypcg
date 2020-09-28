@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6206S018P2-1160A
 1900194
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-super-dual-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1899326/1900194/thumbnails/geforce-rtx-2060-
 9/23/2020 3:34:35 PM 1.864,99 RON
 9/23/2020 5:17:58 PM 1.864,99 RON
 9/25/2020 7:53:20 PM 1.864,99 RON
+09/28/2020 12:28:01 1.864,99 RON
+09/28/2020 15:07:59 1.864,99 RON

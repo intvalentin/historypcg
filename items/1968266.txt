@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6166SS18J9-161F
 1968266
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gtx-1660-super-stormx-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/8977/1968266/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:42:45 PM 1.157,07 RON
 9/23/2020 5:27:02 PM 1.157,07 RON
 9/25/2020 7:56:22 PM 1.166,84 RON
+09/28/2020 12:58:12 1.166,84 RON
+09/28/2020 15:32:17 1.171,33 RON

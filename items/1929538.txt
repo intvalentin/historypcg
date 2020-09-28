@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11293-01-20G
 1929538
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5700-xt-pulse-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/6622/1929538/thumbnails/radeon-rx-5700-xt-pu
 9/23/2020 3:34:35 PM 2.059,99 RON
 9/23/2020 5:17:58 PM 2.059,99 RON
 9/25/2020 7:57:54 PM 2.255,66 RON
+09/28/2020 12:27:08 2.155,66 RON
+09/28/2020 15:07:09 2.155,66 RON

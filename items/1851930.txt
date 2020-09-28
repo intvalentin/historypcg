@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H110-D3
 1851930
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h110-d3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1848774/1851930/thumbnails/ga-h110-d3-4ba462
 9/21/2020 7:36:27 AM 300,66 RON
 9/23/2020 10:15:59 PM 302,17 RON
 9/25/2020 8:39:41 PM 305,66 RON
+9/28/2020 10:28:32 PM 305,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1050-3G
 1722700
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1050-phoenix-3gb-gddr5-96-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1416562/1722700/thumbnails/geforce-gtx-1050-
 9/21/2020 7:33:20 AM 682,59 RON
 9/23/2020 6:43:20 PM 689,79 RON
 9/25/2020 8:15:55 PM 697,77 RON
+9/28/2020 4:32:09 PM 697,63 RON

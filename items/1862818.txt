@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1862818
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-ti-tuf-gaming-o6g-6gb-gddr6-192-bit/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/7399/1862818/thumbnails/geforce-gtx-1660-ti-
 9/21/2020 7:33:44 AM 1.813,28 RON
 9/23/2020 6:29:00 PM 1.822,34 RON
 9/25/2020 8:11:26 PM 1.843,43 RON
+09/28/2020 18:41:26 1.843,03 RON
+09/28/2020 18:42:11 1.843,03 RON

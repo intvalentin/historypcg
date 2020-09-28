@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCQP620DVI-PB
 1699932
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-p620-2gb-ddr5-128-bit-low-profile-4x-mdp-to-dvi-d/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1690716/1699932/thumbnails/nvidia-quadro-p62
 9/21/2020 7:34:24 AM 886,90 RON
 9/23/2020 6:53:47 PM 891,33 RON
 9/25/2020 8:20:27 PM 901,65 RON
+9/28/2020 8:05:40 PM 901,45 RON

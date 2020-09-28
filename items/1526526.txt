@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD950XAGABBOX
 1526526
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-x4-950-35ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1475542/1526526/thumbnails/athlon-x4-950-35g
 9/21/2020 7:34:53 AM 269,97 RON
 9/23/2020 3:26:25 PM 272,81 RON
 9/25/2020 7:50:22 PM 275,52 RON
+09/28/2020 12:05:41 275,52 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD190XA8AEWOF
 1523918
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-1900x-38ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457254/1523918/thumbnails/ryzen-threadrippe
 9/21/2020 7:34:43 AM 741,56 RON
 9/23/2020 3:18:15 PM 750,03 RON
 9/25/2020 7:50:22 PM 756,35 RON
+09/28/2020 12:05:57 756,35 RON

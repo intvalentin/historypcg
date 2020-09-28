@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKF808S13
 315157
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/commute-133-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/315157/thumbnails/commute-133-inch-cc10462
 9/20/2020 11:02:08 PM 109,98 RON
 9/23/2020 2:35:03 PM 109,98 RON
 9/25/2020 7:38:21 PM 109,98 RON
+09/28/2020 10:25:14 109,98 RON

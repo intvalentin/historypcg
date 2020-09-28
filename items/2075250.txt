@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZS670KS-2A014EU
 2075250
     Product link    
 https://www.pcgarage.ro/smartphone/asus/zenfone-7-zs670ks-display-super-amoled-90hz-gorilla-glass-6-snapdragon-865-octa-core-128gb-8gb-ram-dual-sim-5g-flip-triplel-camera-baterie-5000-mah-fast-charging-30w-aurora-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4525/2075250/thumbnails/zenfone-7-zs670ks-di
 9/20/2020 11:40:16 PM 3.499,00 RON
 9/25/2020 8:48:31 PM 3.499,00 RON
 9/26/2020 10:48:08 PM 3.499,00 RON
+09/28/2020 10:29:41 3.499,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKS620
 460281
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/urbanite-vertical-messenger-bag-141-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/460281/thumbnails/urbanite-vertical-messen
 9/20/2020 11:02:12 PM 403,98 RON
 9/23/2020 2:35:03 PM 403,98 RON
 9/25/2020 7:38:21 PM 403,98 RON
+09/28/2020 10:15:48 403,98 RON

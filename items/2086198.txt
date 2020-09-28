@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PVS432G300C8S
 2086198
     Product link    
 https://www.pcgarage.ro/memorii-notebook/patriot/steel-32gb-ddr4-3000mhz-cl18-125v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7008/2086198/thumbnails/patriot-viper-steel-
 9/20/2020 11:02:33 PM 559,98 RON
 9/23/2020 2:53:37 PM 565,98 RON
 9/25/2020 7:39:51 PM 571,98 RON
+09/28/2020 10:35:58 571,98 RON

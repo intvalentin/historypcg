@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G985FZRDEUE
 2046402
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s20-plus-4g-edition-octa-core-128gb-8gb-ram-dual-sim-5-camere-aura-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046402/thumbnails/galaxy-s20-plus-4
 9/20/2020 11:40:08 PM 3.799,00 RON
 9/25/2020 8:50:37 PM 3.799,00 RON
 9/26/2020 10:50:26 PM 3.599,00 RON
+09/28/2020 10:46:57 3.599,00 RON

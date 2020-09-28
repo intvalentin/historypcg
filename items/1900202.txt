@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6206SS19P2-1062A
 1900202
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-super-gp-oc-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1899326/1900202/thumbnails/geforce-rtx-2060-
 9/23/2020 3:44:48 PM 2.100,32 RON
 9/23/2020 5:29:05 PM 2.100,32 RON
 9/25/2020 7:57:54 PM 2.120,14 RON
+09/28/2020 13:09:29 2.128,06 RON
+09/28/2020 15:45:01 2.128,06 RON

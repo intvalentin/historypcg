@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H310M D3H
 1904198
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/h310m-d3h/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1202/1904198/thumbnails/h310m-d3h-a884d4f51c
 9/21/2020 7:35:39 AM 350,37 RON
 9/23/2020 7:18:26 PM 352,13 RON
 9/25/2020 8:29:31 PM 355,08 RON
+9/28/2020 8:54:29 PM 355,00 RON

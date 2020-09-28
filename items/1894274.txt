@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6206ST19P2-1061J
 1894274
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2060-super-js-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/1275/1894274/thumbnails/geforce-rtx-2060-sup
 9/23/2020 3:44:48 PM 2.242,41 RON
 9/23/2020 5:29:05 PM 2.242,41 RON
 9/25/2020 7:57:54 PM 2.262,04 RON
+09/28/2020 13:11:40 2.269,90 RON
+09/28/2020 15:46:22 2.269,90 RON

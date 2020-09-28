@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z390 AORUS PRO WIFI
 1768364
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-z390-pro-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1765416/1768364/thumbnails/aorus-z390-pro-wi
 9/21/2020 7:35:43 AM 1.006,20 RON
 9/23/2020 7:22:32 PM 1.014,25 RON
 9/25/2020 8:33:01 PM 1.026,36 RON
+9/28/2020 9:58:14 PM 1.030,16 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE5T7100HD06-2081F
 1990762
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gt-710-1gb-gddr5-64-bit-1/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/1977958/1990762/thumbnails/geforce-gt-710-1g
 9/21/2020 7:32:56 AM 186,20 RON
 9/23/2020 6:12:31 PM 185,66 RON
 9/25/2020 8:05:25 PM 184,45 RON
+09/28/2020 17:48:48 183,78 RON

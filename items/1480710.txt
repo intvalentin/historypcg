@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX 580 ARMOR 8G OC
 1480710
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-580-armor-oc-8gb-ddr5-256-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/1416562/1480710/thumbnails/radeon-rx-580-arm
 9/23/2020 4:33:30 PM 1.207,83 RON
 9/23/2020 5:58:05 PM 1.207,83 RON
 9/25/2020 8:00:10 PM 1.218,00 RON
+09/28/2020 13:28:28 1.222,63 RON
+09/28/2020 16:05:54 1.222,63 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X570 AORUS MASTER
 1898650
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-x570-master/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1898650/thumbnails/aorus-x570-master-ba
 9/21/2020 7:35:39 AM 1.949,32 RON
 9/23/2020 7:18:26 PM 1.963,85 RON
 9/25/2020 8:32:18 PM 1.957,85 RON
+9/28/2020 10:07:42 PM 1.957,43 RON

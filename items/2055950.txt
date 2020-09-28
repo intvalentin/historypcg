@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCQP2200-PB
 2055950
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/vga-pny-nvidia-quadro-vcqp2200-pb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2055950/thumbnails/vga-pny-nvidia-quadr
 9/21/2020 7:34:25 AM 2.894,74 RON
 9/23/2020 6:53:47 PM 2.909,21 RON
 9/25/2020 8:20:27 PM 2.942,87 RON
+9/28/2020 8:02:27 PM 2.942,23 RON

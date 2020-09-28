@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N206SAORUS-8GC
 1894266
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/aorus-geforce-rtx-2060-super-8gb-gddr6-256-bit/
@@ -13,3 +13,5 @@ https://4.grgs.ro/images/products/1/1275/1894266/thumbnails/aorus-geforce-rtx-20
 9/23/2020 4:23:22 PM 2.539,68 RON
 9/23/2020 5:41:10 PM 2.539,68 RON
 9/25/2020 8:10:41 PM 2.539,68 RON
+09/28/2020 13:11:56 2.539,68 RON
+09/28/2020 15:46:39 2.539,68 RON

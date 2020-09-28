@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2070-O8G
 1750900
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2070-dual-o8g-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1750900/thumbnails/geforce-rtx-2070-
 9/21/2020 7:34:10 AM 3.266,20 RON
 9/23/2020 6:37:12 PM 3.300,64 RON
 9/25/2020 8:14:25 PM 3.338,83 RON
+09/28/2020 19:17:04 3.338,12 RON

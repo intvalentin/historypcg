@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PVS432G240C5S
 2086190
     Product link    
 https://www.pcgarage.ro/memorii-notebook/patriot/patriot-viper-steel-32gb-ddr4-2400mhz-cl15-sodimm-single/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7008/2086190/thumbnails/patriot-viper-steel-
 9/20/2020 11:02:48 PM 1.497,98 RON
 9/23/2020 2:59:51 PM 557,98 RON
 9/25/2020 7:42:08 PM 561,98 RON
+09/28/2020 10:55:08 561,98 RON

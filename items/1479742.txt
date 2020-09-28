@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |EM144448
 1479742
     Product link    
 https://www.pcgarage.ro/bratari-fitness/mykronoz/zefit-3-hr-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175151/1479742/thumbnails/zefit-3-hr-black-
 9/20/2020 11:46:08 PM 265,98 RON
 9/25/2020 9:04:28 PM 265,98 RON
 9/27/2020 9:01:27 AM 265,98 RON
+09/28/2020 12:58:58 265,98 RON

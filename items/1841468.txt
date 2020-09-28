@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSX16GX4M1A2666C18
 1841468
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/vengeance-16gb-ddr4-2666mhz-cl18-12v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1152773/1841468/thumbnails/vengeance-16gb-dd
 9/20/2020 11:02:20 PM 331,98 RON
 9/23/2020 2:55:42 PM 335,98 RON
 9/25/2020 7:40:36 PM 357,98 RON
+09/28/2020 10:39:45 357,98 RON

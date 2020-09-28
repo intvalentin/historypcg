@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N710D5-2GIL
 2044346
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-710-2gb-gddr5-64-bit-2/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1034/2044346/thumbnails/geforce-gt-710-2gb-g
 9/21/2020 7:32:56 AM 239,02 RON
 9/23/2020 6:06:19 PM 240,22 RON
 9/25/2020 8:02:25 PM 243,00 RON
+09/28/2020 17:27:56 242,93 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110700F
 2039970
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i7-10700f-29ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2039970/thumbnails/comet-lake-core-i
 9/21/2020 7:35:07 AM 1.626,95 RON
 9/23/2020 3:20:18 PM 1.644,43 RON
 9/25/2020 7:46:35 PM 1.671,84 RON
+09/28/2020 11:36:50 1.660,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RX5500XT-O4G-EVO
 2048122
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5500-xt-dual-evo-o4g-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/2045418/2048122/thumbnails/vga-pcie16-rx-550
 9/23/2020 3:36:38 PM 1.028,77 RON
 9/23/2020 5:20:47 PM 1.028,77 RON
 9/25/2020 7:54:53 PM 1.040,68 RON
+09/28/2020 12:40:16 1.040,46 RON
+09/28/2020 15:16:38 1.040,46 RON

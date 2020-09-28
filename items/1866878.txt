@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-0863
 1866878
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1650-ghost-oc-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1866878/thumbnails/geforce-gtx-1650-
 9/21/2020 7:33:20 AM 757,79 RON
 9/23/2020 6:26:55 PM 766,45 RON
 9/25/2020 8:10:41 PM 772,85 RON
+09/28/2020 18:40:03 775,92 RON

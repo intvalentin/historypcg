@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD870KXBJCSBX
 1180405
     Product link    
 https://www.pcgarage.ro/procesoare/amd/kaveri-athlon-x4-870k-black-edition-39ghz-quiet-cooler-box/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/1180405/thumbnails/vision-a6-7400k-bl
 9/21/2020 7:34:48 AM 148,76 RON
 9/23/2020 3:28:27 PM 150,33 RON
 9/25/2020 7:51:07 PM 152,03 RON
+09/28/2020 12:11:06 152,03 RON

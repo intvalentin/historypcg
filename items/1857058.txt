@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-4467
 1857058
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1650-pegasus-4gb-gddr5-128-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1848774/1857058/thumbnails/geforce-gtx-1650-
 9/21/2020 7:32:42 AM 707,17 RON
 9/23/2020 6:29:00 PM 707,17 RON
 9/25/2020 8:11:26 PM 707,17 RON
+09/28/2020 18:44:08 707,17 RON

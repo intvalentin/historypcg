@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |29260
 2074302
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-9c-ecran-ips-octa-core-23ghz-32gb-2gb-ram-dual-sim-4g-nfc-4-camere-baterie-5000-mah-android-10-sunrise-orange/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2074302/thumbnails/redmi-9c-ecran-ips-o
 9/20/2020 11:40:16 PM 499,90 RON
 9/25/2020 8:48:31 PM 499,90 RON
 9/26/2020 10:48:08 PM 499,90 RON
+09/28/2020 10:31:01 479,99 RON

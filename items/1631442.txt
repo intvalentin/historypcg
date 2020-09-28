@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX-570P8DFD6
 1631442
     Product link    
 https://www.pcgarage.ro/placi-video/xfx/radeon-rx-570-rs-8gb-ddr5-256-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/1192525/1631442/thumbnails/radeon-rx-570-rs-
 9/23/2020 3:36:38 PM 715,32 RON
 9/23/2020 5:17:58 PM 715,32 RON
 9/25/2020 7:54:07 PM 823,29 RON
+09/28/2020 12:34:11 823,29 RON
+09/28/2020 15:10:24 823,29 RON

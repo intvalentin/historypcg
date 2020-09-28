@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |OLED77C9PLA
 2085174
     Product link    
 https://www.pcgarage.ro/televizoare-led/lg/smart-tv-oled77c9pla-seria-c9pla-195cm-negru-argintiu-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1275/2085174/thumbnails/smart-tv-oled65c9pla
 9/21/2020 8:13:12 AM 19.180,98 RON
 9/25/2020 9:08:06 PM 19.180,98 RON
 9/27/2020 9:05:34 AM 19.180,98 RON
+09/28/2020 13:30:08 19.180,98 RON

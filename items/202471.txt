@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VRM-R3
 202471
     Product link    
 https://www.pcgarage.ro/coolere-placi-video/thermalright/vrm-r3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/202471/thumbnails/vrm-r3-63aff04a4113371ee
 9/21/2020 7:34:31 AM 102,22 RON
 9/23/2020 6:57:54 PM 102,22 RON
 9/25/2020 8:21:58 PM 102,22 RON
+9/28/2020 8:17:39 PM 102,22 RON

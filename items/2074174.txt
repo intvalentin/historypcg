@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11266-78-20G
 2074174
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-570-pulse-dual-x-8gb-gddr5-256-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4525/2074174/thumbnails/radeon-rx-570-pulse-
 9/23/2020 4:35:34 PM 1.246,30 RON
 9/23/2020 6:00:08 PM 1.246,30 RON
 9/25/2020 8:00:54 PM 1.260,72 RON
+09/28/2020 17:10:26 1.260,46 RON

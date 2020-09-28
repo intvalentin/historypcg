@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H110N
 1194985
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h110n/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1086319/1194985/thumbnails/ga-h110n-bb0b2aa2
 9/21/2020 7:35:34 AM 317,73 RON
 9/23/2020 7:31:10 PM 321,36 RON
 9/25/2020 8:25:41 PM 324,05 RON
+9/28/2020 8:52:16 PM 325,39 RON

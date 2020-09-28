@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT204864BF160B
 1159745
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/16gb-ddr3l-1600mhz-cl11-135-15v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/1159745/thumbnails/16gb-ddr3-1600mhz-
 9/20/2020 11:02:48 PM 733,98 RON
 9/23/2020 3:04:00 PM 741,98 RON
 9/25/2020 7:43:38 PM 749,98 RON
+09/28/2020 11:10:06 749,98 RON

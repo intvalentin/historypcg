@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N16502-04D5X-1510VA25
 1852342
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1650-twin-x2-oc-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1852342/thumbnails/geforce-gtx-1650-twi
 9/21/2020 7:33:20 AM 694,88 RON
 9/23/2020 6:29:00 PM 702,75 RON
 9/25/2020 8:11:26 PM 708,61 RON
+09/28/2020 18:46:36 711,41 RON

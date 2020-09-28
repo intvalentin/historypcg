@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD9700AHABBOX
 1528322
     Product link    
 https://www.pcgarage.ro/procesoare/amd/a10-9700e-30-ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1408706/1528322/thumbnails/a6-9500e-30-ghz-e
 9/21/2020 7:34:53 AM 330,57 RON
 9/23/2020 3:26:25 PM 334,06 RON
 9/25/2020 7:50:22 PM 337,85 RON
+09/28/2020 12:04:51 337,85 RON

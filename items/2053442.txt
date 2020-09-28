@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CNE-SB02BB
 2053442
     Product link    
 https://www.pcgarage.ro/bratari-fitness/canyon/fitness-band-sb02bb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053442/thumbnails/fitness-band-sb02bb-
 9/20/2020 11:46:04 PM 65,98 RON
 9/25/2020 9:03:44 PM 67,98 RON
 9/27/2020 9:00:38 AM 67,98 RON
+09/28/2020 12:43:43 67,98 RON

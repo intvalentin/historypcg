@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 3080 GAMING TRIO 10G
 2073006
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-3080-gaming-trio-10gb-gddr6x-320-bit/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2073006/thumbnails/geforce-rtx-3080-gam
     Pret    
 9/23/2020 6:02:11 PM 0
 9/25/2020 8:00:54 PM 0
+09/28/2020 17:15:54 0

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |06G-P4-2067-KR
 1867006
     Product link    
 https://www.pcgarage.ro/placi-video/evga/geforce-rtx-2060-sc-ultra-gaming-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1864870/1867006/thumbnails/evga-geforce-rtx-
 9/21/2020 7:33:49 AM 2.030,87 RON
 9/23/2020 6:26:55 PM 2.052,30 RON
 9/25/2020 8:10:41 PM 2.076,03 RON
+09/28/2020 18:39:46 2.075,58 RON

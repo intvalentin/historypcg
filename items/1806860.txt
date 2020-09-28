@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1806860
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/amd/radeon-pro-wx-9100-16gb-hbm2-2048-bit/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1802236/1806860/thumbnails/100-505957-0609f1
 9/21/2020 7:34:25 AM 12.871,76 RON
 9/23/2020 6:53:47 PM 13.046,75 RON
 9/25/2020 8:20:27 PM 13.155,14 RON
+9/28/2020 8:03:46 PM 13.140,68 RON
+9/28/2020 8:15:12 PM 13.140,68 RON

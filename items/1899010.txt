@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |NE6207S019P2-180F
 1899010
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-rtx-2070-super-x-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1899010/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:33:59 AM 2.558,74 RON
 9/23/2020 6:26:55 PM 2.585,72 RON
 9/25/2020 8:09:57 PM 2.615,64 RON
+09/28/2020 18:34:04 2.615,08 RON

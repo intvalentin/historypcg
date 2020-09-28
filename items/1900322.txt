@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |X570 AORUS ULTRA
 1900322
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-x570-ultra/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1900322/thumbnails/aorus-x570-ultra-
 9/21/2020 7:35:43 AM 1.438,83 RON
 9/23/2020 7:18:26 PM 1.452,28 RON
 9/25/2020 8:29:31 PM 1.466,32 RON
+9/28/2020 10:04:29 PM 1.463,84 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD1400BBAEBOX
 1469642
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-5-1400-32ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1355434/1469642/thumbnails/ryzen-5-1600-34gh
 9/21/2020 7:35:03 AM 826,43 RON
 9/23/2020 3:26:25 PM 835,14 RON
 9/25/2020 7:50:22 PM 843,48 RON
+09/28/2020 12:07:19 843,48 RON

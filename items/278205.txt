@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSA8GX3M2A1066C7
 278205
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/8gb-ddr3-1066mhz-cl7-dual-channel-kit-for-apple-mac/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/278205/thumbnails/mac-memory-8gb-ddr3-1600
 9/20/2020 11:02:24 PM 201,98 RON
 9/23/2020 2:57:46 PM 203,98 RON
 9/25/2020 7:41:23 PM 207,98 RON
+09/28/2020 10:52:13 207,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000011WOF
 1974818
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-threadripper-3970x-37ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1974818/thumbnails/ryzen-threadripper-3
 9/21/2020 7:34:43 AM 10.339,49 RON
 9/23/2020 3:18:15 PM 10.457,83 RON
 9/25/2020 7:47:20 PM 10.545,23 RON
+09/28/2020 11:40:21 10.545,23 RON

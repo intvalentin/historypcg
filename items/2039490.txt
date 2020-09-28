@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8070110600
 2039490
     Product link    
 https://www.pcgarage.ro/procesoare/intel/comet-lake-core-i5-10600-33ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2039490/thumbnails/comet-lake-core-i5-1
 9/21/2020 7:34:38 AM 1.099,99 RON
 9/23/2020 3:14:11 PM 1.099,99 RON
 9/25/2020 7:45:52 PM 1.099,99 RON
+09/28/2020 11:25:43 1.099,99 RON

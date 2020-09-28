@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT8G4SFRA32A
 2062550
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/8gb-ddr4-3200mhz-cl22-12v-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2062550/thumbnails/nb-memory-8gb-pc2560
 9/20/2020 11:02:33 PM 199,98 RON
 9/23/2020 2:59:51 PM 201,98 RON
 9/25/2020 7:42:08 PM 195,98 RON
+09/28/2020 10:55:41 195,98 RON

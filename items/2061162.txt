@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |08G-P4-2072-KR
 2061162
     Product link    
 https://www.pcgarage.ro/placi-video/evga/rtx-2070-super-ko-gaming-8gb-gddr6/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/6954/2061162/thumbnails/geforce-rtx-2070-sup
 9/23/2020 4:39:41 PM 2.778,52 RON
 9/23/2020 6:04:15 PM 2.778,52 RON
 9/25/2020 8:01:41 PM 2.810,66 RON
+09/28/2020 17:21:15 2.810,06 RON

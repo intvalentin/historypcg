@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R840NZSAEUE
 2063418
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-3-2020-45-mm-otel-argintiu-curea-piele-negru-maro-wi-fi-bluetooth-nfc-rezistent-la-apa/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2063418/thumbnails/galaxy-watch-3-2020-
 9/20/2020 11:45:30 PM 1.799,00 RON
 9/25/2020 8:57:49 PM 1.799,00 RON
 9/27/2020 8:54:13 AM 1.699,00 RON
+09/28/2020 11:52:53 1.699,00 RON

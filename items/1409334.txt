@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1409334
     Product link    
 https://www.pcgarage.ro/placi-video/palit/geforce-gt-710-2gb-ddr3-64-bit-hdmi/
@@ -12,3 +12,6 @@ https://1.grgs.ro/images/products/1/853128/1409334/thumbnails/geforce-gt-730-1gb
 9/23/2020 4:33:30 PM 196,03 RON
 9/23/2020 5:58:05 PM 196,03 RON
 9/25/2020 8:00:10 PM 197,90 RON
+09/28/2020 13:29:52 197,52 RON
+09/28/2020 16:07:58 197,52 RON
+09/28/2020 17:03:46 197,52 RON

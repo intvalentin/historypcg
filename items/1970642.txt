@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N710D5-1GL
 1970642
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/vga-gb-geforce-gt710-1gb-ddr5/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1970642/thumbnails/geforce-gt-710-1gb-g
 9/21/2020 7:33:05 AM 203,85 RON
 9/23/2020 6:16:38 PM 206,62 RON
 9/25/2020 8:06:13 PM 208,34 RON
+09/28/2020 18:00:38 208,11 RON

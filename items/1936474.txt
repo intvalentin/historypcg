@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX2070S-O8G-GAMING
 1936474
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2070-super-strix-gaming-o8g-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1899326/1936474/thumbnails/rog-strix-rtx2070
 9/21/2020 7:32:38 AM 3.196,81 RON
 9/23/2020 6:22:49 PM 3.230,52 RON
 9/25/2020 8:08:26 PM 3.267,89 RON
+09/28/2020 18:20:57 3.267,19 RON

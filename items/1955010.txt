@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KRO0007
 1955010
     Product link    
 https://www.pcgarage.ro/smartwatch/mykronoz/zeround-3-lite-negru-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1953966/1955010/thumbnails/zeround-3-lite-ne
 9/20/2020 11:45:42 PM 387,98 RON
 9/25/2020 9:00:02 PM 389,98 RON
 9/27/2020 8:56:38 AM 389,98 RON
+09/28/2020 12:14:30 389,98 RON

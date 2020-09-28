@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N20702-08D6-1160VA22
 1750004
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2070-twin-x2-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1750004/thumbnails/geforce-rtx-2070-
 9/21/2020 7:34:05 AM 2.574,35 RON
 9/23/2020 6:37:12 PM 2.609,35 RON
 9/25/2020 8:15:11 PM 2.631,03 RON
+09/28/2020 19:17:37 2.628,14 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SYNO-3FL49WA-CC02B
 1629546
     Product link    
 https://www.pcgarage.ro/notebook-laptop/njoy/133-aerial-fhd-ips-procesor-intel-celeron-n3350-2m-cache-up-to-24-ghz-4gb-32gb-emmc-gma-hd-500-win-10-home-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3207/1629546/thumbnails/mwl_celeron-100adc34
     Pret    
 9/20/2020 11:00:45 PM 948,99 RON
 9/25/2020 7:33:55 PM 948,99 RON
+9/28/2020 9:32:10 AM 948,99 RON

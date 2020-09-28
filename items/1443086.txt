@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |460-BCBC
 1443086
     Product link    
 https://www.pcgarage.ro/genti-notebook/dell/rucsac-notebook-156-inch-urban-dark-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1169071/1443086/thumbnails/rucsac-notebook-1
 9/20/2020 11:01:56 PM 128,74 RON
 9/23/2020 2:26:45 PM 128,74 RON
 9/25/2020 7:35:23 PM 128,74 RON
+09/28/2020 09:51:07 128,74 RON

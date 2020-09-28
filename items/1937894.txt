@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Radeon-RX-5700-XT-MECH-OC
 1937894
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-xt-mech-oc-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2554/1937894/thumbnails/radeon-rx-5700-xt-me
 9/21/2020 7:32:34 AM 2.126,91 RON
 9/23/2020 6:20:45 PM 2.155,83 RON
 9/25/2020 8:08:26 PM 2.173,74 RON
+09/28/2020 18:18:27 2.171,35 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GTX 1660 GAMING X 6G
 1828780
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gtx-1660-gaming-x-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/3645/1828780/thumbnails/geforce-gtx-1660-gam
 9/23/2020 4:23:22 PM 1.241,05 RON
 9/23/2020 5:41:10 PM 1.241,05 RON
 9/25/2020 7:58:40 PM 1.251,50 RON
+09/28/2020 13:16:18 1.256,28 RON
+09/28/2020 15:50:37 1.256,28 RON

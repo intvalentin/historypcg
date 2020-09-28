@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1660IXOC-6GD
 1947978
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-mini-itx-oc-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/6166/1947978/thumbnails/geforce-gtx-1660-min
 9/23/2020 3:42:46 PM 1.111,78 RON
 9/23/2020 5:27:02 PM 1.111,78 RON
 9/25/2020 7:57:07 PM 1.117,14 RON
+09/28/2020 13:02:34 1.110,20 RON
+09/28/2020 15:37:06 1.110,20 RON

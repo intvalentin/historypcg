@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |YD220GC6FBBOX
 1808836
     Product link    
 https://www.pcgarage.ro/procesoare/amd/athlon-220ge-34ghz-box/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1808836/thumbnails/athlon-200ge-32ghz-b
 9/21/2020 7:34:38 AM 288,34 RON
 9/23/2020 3:16:13 PM 288,34 RON
 9/25/2020 7:46:35 PM 288,34 RON
+09/28/2020 11:33:02 288,34 RON

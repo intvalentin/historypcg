@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MZB9960EU
 2060446
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-9a-octa-core-32gb-2gb-ram-dual-sim-4g-sky-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2060446/thumbnails/redmi-9a-octa-core-3
 9/20/2020 11:39:54 PM 449,90 RON
 9/25/2020 8:49:13 PM 399,90 RON
 9/26/2020 10:48:56 PM 399,90 RON
+09/28/2020 10:37:05 399,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME Z490-A
 2033190
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-z490-a/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033190/thumbnails/prime-z490-a-6a26c26
 9/21/2020 7:35:25 AM 1.195,80 RON
 9/23/2020 7:16:18 PM 1.195,80 RON
 9/25/2020 8:37:27 PM 1.284,27 RON
+9/28/2020 8:45:42 PM 1.284,00 RON

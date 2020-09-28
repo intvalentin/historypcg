@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |30NPH4HVQ4SK
 2053458
     Product link    
 https://www.pcgarage.ro/placi-video/kfa2/geforce-gt-1030-2gb-gddr5-64-bit-1/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/7960/2053458/thumbnails/geforce-gt-1030-2gb-
 9/23/2020 3:36:38 PM 357,38 RON
 9/23/2020 5:20:47 PM 357,38 RON
 9/25/2020 7:54:52 PM 360,39 RON
+09/28/2020 12:39:26 360,39 RON
+09/28/2020 15:15:49 361,76 RON

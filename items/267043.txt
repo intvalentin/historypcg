@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZE-SD3-2G1333
 267043
     Product link    
 https://www.pcgarage.ro/memorii-notebook/zeppelin/2gb-ddr3-1333mhz-dual-channel-kit-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/267043/thumbnails/2gb-ddr3-1333mhz-bulk-a5
 9/20/2020 11:02:37 PM 57,98 RON
 9/23/2020 3:08:07 PM 57,98 RON
 9/25/2020 7:45:06 PM 57,98 RON
+09/28/2020 11:21:47 57,98 RON

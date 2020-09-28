@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RADEONVII-16G
 1817232
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-vii-16g-hbm2-4096-bit-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/753/1817232/thumbnails/radeon-vii-16g-hbm2-4
 9/21/2020 7:34:14 AM 4.239,64 RON
 9/23/2020 6:31:04 PM 4.284,34 RON
 9/25/2020 8:12:55 PM 4.333,90 RON
+09/28/2020 18:54:29 4.332,97 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MPG Z490 GAMING CARBON WIFI
 2034734
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/mpg-z490-gaming-carbon-wifi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2034734/thumbnails/mpg-z490-gaming-c
 9/21/2020 7:35:43 AM 1.236,76 RON
 9/23/2020 7:14:15 PM 1.250,89 RON
 9/25/2020 8:28:00 PM 1.262,67 RON
+9/28/2020 10:01:26 PM 1.267,39 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX B450-F GAMING
 1712448
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-b450-f-gaming/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692296/1712448/thumbnails/rog-strix-b450-f-
 9/21/2020 7:35:25 AM 728,41 RON
 9/23/2020 7:06:03 PM 678,78 RON
 9/25/2020 8:33:44 PM 705,20 RON
+9/28/2020 9:46:29 PM 705,06 RON

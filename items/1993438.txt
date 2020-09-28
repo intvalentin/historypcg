@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G980FZWDEUE
 1993438
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s20-4g-edition-octa-core-128gb-8gb-ram-dual-sim-4-camere-cloud-white/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1979534/1993438/thumbnails/galaxy-s20-4g-edi
 9/20/2020 11:40:08 PM 3.399,00 RON
 9/25/2020 8:51:19 PM 3.279,00 RON
 9/26/2020 10:51:11 PM 3.279,00 RON
+09/28/2020 10:57:55 3.279,00 RON
+09/28/2020 10:59:25 3.279,00 RON

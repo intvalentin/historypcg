@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-100000279WOF
 2047354
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ryzen-7-3800xt-39ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2047354/thumbnails/ryzen-7-3800xt-39
 9/21/2020 7:34:38 AM 1.910,81 RON
 9/23/2020 3:14:11 PM 1.910,81 RON
 9/25/2020 7:45:51 PM 1.910,81 RON
+09/28/2020 11:24:22 1.910,81 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N207SWF3-8GD
 1945918
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2070-super-windforce-3x-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/5758/1945918/thumbnails/geforce-rtx-2070-sup
 9/21/2020 7:32:00 AM 2.754,86 RON
 9/23/2020 6:20:45 PM 2.630,08 RON
 9/25/2020 7:53:20 PM 2.660,50 RON
+09/28/2020 18:14:33 2.659,94 RON

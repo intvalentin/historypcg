@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-GTX1660-O6G-EVO
 1936478
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1660-dual-evo-o6g-6gb-gddr5-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/2554/1936478/thumbnails/geforce-gtx-1660-dua
 9/23/2020 3:44:48 PM 1.161,08 RON
 9/23/2020 5:29:05 PM 1.161,08 RON
 9/25/2020 7:57:07 PM 1.174,52 RON
+09/28/2020 13:05:55 1.174,27 RON
+09/28/2020 15:41:37 1.174,27 RON

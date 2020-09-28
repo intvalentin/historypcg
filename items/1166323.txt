@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N710D3-2GL
 1166323
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gt-710-2gb-ddr3-64-bit-low-profile-hdmi-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/1166323/thumbnails/geforce-gt-710-1gb
 9/21/2020 7:33:05 AM 210,13 RON
 9/23/2020 6:49:34 PM 212,99 RON
 9/25/2020 8:18:57 PM 214,76 RON
+9/28/2020 7:54:59 PM 214,52 RON

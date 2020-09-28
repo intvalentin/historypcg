@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-N975FZSGROM
 1928986
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-note-10-plus-octa-core-512gb-12gb-ram-dual-sim-4g-5-camere-aura-glow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8629/1928986/thumbnails/galaxy-note-10-plus-
 9/20/2020 11:40:12 PM 4.499,00 RON
 9/25/2020 8:53:26 PM 4.499,00 RON
 9/26/2020 10:53:30 PM 4.499,00 RON
+09/28/2020 11:13:30 4.499,00 RON

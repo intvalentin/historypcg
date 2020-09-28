@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20710E-10M
 1959794
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2070-super-mini-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://1.grgs.ro/images/products/1/1261/1959794/thumbnails/geforce-rtx-2070-sup
 9/23/2020 3:42:46 PM 2.678,31 RON
 9/23/2020 5:27:02 PM 2.678,31 RON
 9/25/2020 7:57:07 PM 2.614,16 RON
+09/28/2020 15:35:01 2.623,33 RON

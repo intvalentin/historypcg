@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF GAMING X570-PLUS (WI-FI)
 1897458
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/tuf-gaming-x570-plus-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3944/1897458/thumbnails/tuf-gaming-x570-plus
 9/21/2020 7:35:21 AM 1.207,13 RON
 9/23/2020 7:20:29 PM 1.212,89 RON
 9/25/2020 8:32:18 PM 1.212,72 RON
+9/28/2020 10:00:36 PM 1.212,46 RON

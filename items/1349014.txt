@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BTD-MINI5
 1349014
     Product link    
 https://www.pcgarage.ro/adaptoare-bluetooth/gembird/usb-v40-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/255443/1349014/thumbnails/usb-v40-3304618fe4
 9/20/2020 11:39:51 PM 38,39 RON
 9/25/2020 8:47:47 PM 38,39 RON
 9/26/2020 10:47:21 PM 38,39 RON
+09/28/2020 10:23:34 38,39 RON

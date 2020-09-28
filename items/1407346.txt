@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1407346
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gt-730-2gb-ddr3-64-bit-hdmi-1/
@@ -12,3 +12,6 @@ https://3.grgs.ro/images/products/1/1355434/1407346/thumbnails/geforce-gt-730-2g
 9/23/2020 4:33:30 PM 290,17 RON
 9/23/2020 5:58:05 PM 290,17 RON
 9/25/2020 8:00:10 PM 292,59 RON
+09/28/2020 13:30:09 288,16 RON
+09/28/2020 16:08:15 288,16 RON
+09/28/2020 17:03:46 288,16 RON

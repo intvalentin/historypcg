@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |010-01995-21
 1852054
     Product link    
 https://www.pcgarage.ro/bratari-fitness/garmin/vivosmart-4-hr-red-small-medium/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848722/1852054/thumbnails/vivosmart-4-hr-re
 9/20/2020 11:46:04 PM 669,98 RON
 9/25/2020 9:03:43 PM 671,98 RON
 9/27/2020 9:00:38 AM 671,98 RON
+09/28/2020 12:42:22 671,98 RON

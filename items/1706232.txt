@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H110MDE
 1706232
     Product link    
 https://www.pcgarage.ro/placi-de-baza/biostar/h110mde/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1690716/1706232/thumbnails/h110mde-85410a7ff
 9/21/2020 7:36:27 AM 239,87 RON
 9/23/2020 10:22:12 PM 242,69 RON
 9/25/2020 8:41:56 PM 244,71 RON
+9/28/2020 10:17:19 PM 245,65 RON

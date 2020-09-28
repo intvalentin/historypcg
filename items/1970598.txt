@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N208S2-08D6X-1780VA18
 1970598
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2080-super-gaming-oc-x2-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/1970598/thumbnails/geforce-rtx-2080-sup
 9/21/2020 7:34:10 AM 3.772,54 RON
 9/23/2020 6:16:38 PM 3.815,74 RON
 9/25/2020 8:06:57 PM 3.848,46 RON
+09/28/2020 18:01:12 3.862,86 RON

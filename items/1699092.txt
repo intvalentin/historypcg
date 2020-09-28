@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |R7240-2GD5-L
 1699092
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-r7-240-2gb-ddr5-128-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/1689668/1699092/thumbnails/radeon-r7-240-2gb
 9/23/2020 4:31:25 PM 392,29 RON
 9/23/2020 5:43:13 PM 392,29 RON
 9/25/2020 7:59:26 PM 396,27 RON
+09/28/2020 13:22:02 396,19 RON
+09/28/2020 15:56:11 396,19 RON

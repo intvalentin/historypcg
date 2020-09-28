@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51092XAM
 1749844
     Product link    
 https://www.pcgarage.ro/smartphone/huawei/mate-20-pro-ecran-oled-gorilla-glass-cu-rezolutie-2k-plus-kirin-980-26-ghz-octa-core-128gb-6gb-ram-dual-sim-4g-nfc-quadcamere-40-mpx-plus-20-mpx-plus-8-mpx-plus-24-mpx-supercharge-android-9-midnight-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6763/1749844/thumbnails/mate-20-pro-ecran-ol
 9/20/2020 11:40:12 PM 2.698,00 RON
 9/25/2020 8:53:26 PM 2.698,00 RON
 9/26/2020 10:53:30 PM 2.698,00 RON
+09/28/2020 11:16:39 2.698,00 RON

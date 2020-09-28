@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX2080-O8G-GAMING
 1728416
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-strix-gaming-o8g-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/1728416/thumbnails/geforce-rtx-2080-str
 9/21/2020 7:34:10 AM 3.935,77 RON
 9/23/2020 6:39:15 PM 3.955,44 RON
 9/25/2020 8:15:55 PM 4.001,21 RON
+9/28/2020 4:29:56 PM 4.000,36 RON

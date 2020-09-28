@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT8G4SFS824A
 1261254
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/8gb-ddr4-2400mhz-cl17-12v-single-ranked-x8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1261254/thumbnails/8gb-ddr4-2133mhz-c
 9/20/2020 11:02:33 PM 187,98 RON
 9/23/2020 3:04:00 PM 189,98 RON
 9/25/2020 7:43:38 PM 191,98 RON
+09/28/2020 11:07:17 191,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I39100
 1864542
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i3-9100-360ghz-box/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/7399/1864542/thumbnails/coffee-lake-core-i3-
 9/21/2020 7:34:43 AM 497,19 RON
 9/23/2020 3:14:11 PM 497,19 RON
 9/25/2020 7:46:35 PM 497,19 RON
+09/28/2020 11:32:30 497,19 RON
+09/28/2020 11:41:27 497,19 RON
+09/28/2020 11:51:50 497,19 RON

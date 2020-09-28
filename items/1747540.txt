@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |010-01847-11
 1747540
     Product link    
 https://www.pcgarage.ro/bratari-fitness/garmin/vivofit-4-white-small-medium/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1747540/thumbnails/vivofit-4-white-s
 9/20/2020 11:46:08 PM 403,98 RON
 9/25/2020 9:04:28 PM 405,98 RON
 9/27/2020 9:01:27 AM 405,98 RON
+09/28/2020 12:58:42 405,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2080-O8G-EVO
 1860922
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-dual-o8g-evo-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1723568/1860922/thumbnails/geforce-rtx-2080-
 9/21/2020 7:34:10 AM 4.073,91 RON
 9/23/2020 6:29:00 PM 4.116,87 RON
 9/25/2020 8:11:26 PM 4.164,49 RON
+09/28/2020 18:42:28 4.163,60 RON

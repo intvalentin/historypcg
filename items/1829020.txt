@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GarminVivoSmartHRGPSLilaM
 1829020
     Product link    
 https://www.pcgarage.ro/bratari-fitness/garmin/vivosmart-hr-plus-imperial-violet-regular/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5664/1829020/thumbnails/vivosmart-hr-plus-im
 9/20/2020 11:46:09 PM 999,98 RON
 9/25/2020 9:04:28 PM 999,98 RON
 9/27/2020 9:01:27 AM 999,98 RON
+09/28/2020 12:57:37 999,98 RON

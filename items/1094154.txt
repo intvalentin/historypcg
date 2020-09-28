@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PGD00038
 1094154
     Product link    
 https://www.pcgarage.ro/smartwatch/cogito/classic-metal-gold-champagne/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/812812/1094154/thumbnails/classic-metal-gold
 9/20/2020 11:45:38 PM 511,98 RON
 9/25/2020 8:59:17 PM 513,98 RON
 9/27/2020 8:55:49 AM 513,98 RON
+09/28/2020 12:07:33 513,98 RON

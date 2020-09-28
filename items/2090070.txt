@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G780FZRDEUE
 2090070
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s20-fe-octa-core-128gb-6gb-ram-dual-sim-4g-4-camere-cloud-red/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/7008/2090070/thumbnails/galaxy-s20-fe-2020-o
     Pret    
 9/25/2020 8:54:09 PM 3.099,99 RON
 9/27/2020 8:50:21 AM 3.099,99 RON
+09/28/2020 11:20:37 3.099,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G970FZSDROM
 1897366
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s10e-octa-core-128gb-6gb-ram-dual-sim-4g-3-camere-prism-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3944/1897366/thumbnails/galaxy-s10e-octa-cor
 9/20/2020 11:40:01 PM 2.649,00 RON
 9/25/2020 8:53:26 PM 2.649,00 RON
 9/26/2020 10:53:30 PM 2.649,00 RON
+09/28/2020 11:14:20 2.649,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-RX550D5-2GD 2.0
 1865330
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/radeon-rx-550-d5-rev-20-2gb-gddr5-128-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/1469686/1865330/thumbnails/radeon-rx-550-d5-
 9/23/2020 4:23:22 PM 562,83 RON
 9/23/2020 5:41:10 PM 562,83 RON
 9/25/2020 7:57:54 PM 567,49 RON
+09/28/2020 13:12:29 569,63 RON
+09/28/2020 15:47:12 569,63 RON

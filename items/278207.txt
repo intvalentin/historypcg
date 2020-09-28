@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSA8GX3M2A1333C9
 278207
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/8gb-ddr3-1333mhz-cl9-dual-channel-kit-for-apple-mac/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/278207/thumbnails/mac-memory-8gb-ddr3
 9/20/2020 11:02:42 PM 213,98 RON
 9/23/2020 3:08:07 PM 215,98 RON
 9/25/2020 7:45:06 PM 217,98 RON
+09/28/2020 11:21:14 217,98 RON

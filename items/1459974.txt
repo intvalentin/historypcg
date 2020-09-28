@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H110M-HDV R3.0
 1459974
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/h110m-hdv-r30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427586/1459974/thumbnails/h110m-hdv-r30-a7d
 9/21/2020 7:36:27 AM 265,40 RON
 9/23/2020 10:52:23 PM 266,73 RON
 9/25/2020 8:46:25 PM 269,81 RON
+9/28/2020 10:20:17 PM 269,77 RON

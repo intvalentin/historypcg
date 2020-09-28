@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CT51264BF160BJ
 735826
     Product link    
 https://www.pcgarage.ro/memorii-notebook/crucial/4gb-ddr3-1600mhz-cl11-5/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/735826/thumbnails/4gb-ddr3-1600mhz-cl
 9/20/2020 11:02:37 PM 131,98 RON
 9/23/2020 3:08:07 PM 131,98 RON
 9/25/2020 7:44:23 PM 133,98 RON
+09/28/2020 11:18:34 133,98 RON

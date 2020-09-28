@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N166TOC-6GD
 1810488
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1660-ti-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://2.grgs.ro/images/products/1/3645/1810488/thumbnails/geforce-gtx-1660-ti-
 9/23/2020 3:34:35 PM 1.464,06 RON
 9/23/2020 5:17:58 PM 1.464,06 RON
 9/25/2020 7:54:07 PM 1.464,06 RON
+09/28/2020 12:33:39 1.464,06 RON
+09/28/2020 15:09:52 1.464,06 RON

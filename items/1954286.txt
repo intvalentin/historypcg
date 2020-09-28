@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SMWVERSABK
 1954286
     Product link    
 https://www.pcgarage.ro/smartwatch/fitbit/versa-negru-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6997/1954286/thumbnails/versa-negru-curea-si
 9/20/2020 11:45:30 PM 662,98 RON
 9/25/2020 8:57:49 PM 662,98 RON
 9/27/2020 8:54:13 AM 662,98 RON
+09/28/2020 11:56:22 662,98 RON

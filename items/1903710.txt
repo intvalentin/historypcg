@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2070S-O8G-EVO
 1903710
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2070-super-evo-o8g-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://4.grgs.ro/images/products/1/1899326/1903710/thumbnails/geforce-rtx-2070-
 9/23/2020 3:44:48 PM 2.880,05 RON
 9/23/2020 5:29:05 PM 2.880,05 RON
 9/25/2020 7:57:54 PM 2.904,29 RON
+09/28/2020 13:07:01 2.915,38 RON
+09/28/2020 15:42:42 2.915,38 RON

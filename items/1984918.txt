@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-R55XTGAMING OC-4GD
 1984918
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/radeon-rx-5500-xt-gaming-oc-4gb-gddr6-128-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6472/1984918/thumbnails/radeon-rx-5500-xt-ga
 9/21/2020 7:32:27 AM 1.004,22 RON
 9/23/2020 6:12:31 PM 1.009,25 RON
 9/25/2020 8:05:25 PM 1.088,29 RON
+09/28/2020 17:51:59 1.087,09 RON

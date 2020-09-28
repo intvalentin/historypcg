@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H110M-S2H DDR3
 1139578
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h110m-s2h-ddr3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/498497/1139578/thumbnails/ga-h110m-s2h-ddr3-
 9/21/2020 7:36:27 AM 281,06 RON
 9/23/2020 10:54:28 PM 281,06 RON
 9/25/2020 8:47:09 PM 281,06 RON
+9/28/2020 10:23:39 PM 281,06 RON

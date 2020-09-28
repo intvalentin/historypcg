@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |FD6350FRHKHBX
 1258846
     Product link    
 https://www.pcgarage.ro/procesoare/amd/vishera-fx-6350-39ghz-wraith-cooler-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1190677/1258846/thumbnails/vishera-fx-6350-3
 9/21/2020 7:34:53 AM 247,93 RON
 9/23/2020 3:26:25 PM 250,54 RON
 9/25/2020 7:51:07 PM 253,39 RON
+09/28/2020 12:09:59 253,39 RON

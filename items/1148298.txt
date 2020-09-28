@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |KVR21S15D8+-+8
 1148298
     Product link    
 https://www.pcgarage.ro/memorii-notebook/kingston/valueram-8gb-ddr4-2133mhz-cl15-12v-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/851375/1148298/thumbnails/valueram-8gb-ddr4-
 9/20/2020 11:02:46 PM 321,98 RON
 9/23/2020 3:04:00 PM 325,98 RON
 9/25/2020 7:43:38 PM 327,98 RON
+09/28/2020 11:10:39 327,98 RON

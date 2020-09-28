@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11289-05-20G
 1776392
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-590-nitro-plus-8gb-gddr5-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1774300/1776392/thumbnails/radeon-rx-590-nit
 9/21/2020 7:33:30 AM 1.100,67 RON
 9/23/2020 6:35:10 PM 1.115,63 RON
 9/25/2020 8:13:41 PM 1.114,86 RON
+09/28/2020 19:04:19 1.113,63 RON

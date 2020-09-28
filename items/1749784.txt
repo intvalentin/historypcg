@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N208TAORUS X-11GC
 1749784
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/aorus-geforce-rtx-2080-ti-xtreme-11gb-gddr6-352-bit/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6763/1749784/thumbnails/aorus-geforce-rtx-20
 9/21/2020 7:32:47 AM 6.752,69 RON
 9/23/2020 6:37:12 PM 6.844,49 RON
 9/25/2020 8:15:11 PM 6.901,35 RON
+09/28/2020 19:19:51 6.893,77 RON

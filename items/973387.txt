@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKB440
 973387
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/trolley-notebook-16-inch-journey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472405/973387/thumbnails/trolley-notebook-16
 9/20/2020 11:02:12 PM 1.017,98 RON
 9/23/2020 2:32:59 PM 1.017,98 RON
 9/25/2020 7:37:37 PM 1.017,98 RON
+09/28/2020 10:13:24 1.017,98 RON

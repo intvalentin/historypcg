@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |471056224-1396
 1967126
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/geforce-gtx-1660-super-ghost-oc-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/8977/1967126/thumbnails/geforce-gtx-1660-sup
 9/23/2020 3:42:46 PM 1.244,78 RON
 9/23/2020 5:27:02 PM 1.244,78 RON
 9/25/2020 7:57:07 PM 1.203,43 RON
+09/28/2020 13:00:04 1.203,43 RON
+09/28/2020 15:34:12 1.207,92 RON

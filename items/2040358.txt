@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX B460-F GAMING
 2040358
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-b460-f-gaming/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2040358/thumbnails/rog-strix-b460-f-
 9/21/2020 7:35:34 AM 827,77 RON
 9/23/2020 7:12:11 PM 835,72 RON
 9/25/2020 8:27:14 PM 845,18 RON
+9/28/2020 9:51:57 PM 844,99 RON

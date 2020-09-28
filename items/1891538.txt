@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N105T2-1SDV-M5CM
 1891538
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-gtx-1050-ti-1-slot-edition-4gb-gddr5-128-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1275/1891538/thumbnails/geforce-gtx-1050-ti-
 9/21/2020 7:33:20 AM 737,20 RON
 9/23/2020 6:26:55 PM 747,22 RON
 9/25/2020 8:10:41 PM 753,43 RON
+09/28/2020 18:38:41 752,60 RON

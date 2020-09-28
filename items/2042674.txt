@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1656OC-4GL
 2042674
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1650-d6-oc-low-profile-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/1034/2042674/thumbnails/geforce-gtx-1650-d6-
 9/23/2020 3:38:41 PM 769,04 RON
 9/23/2020 5:22:49 PM 769,04 RON
 9/25/2020 7:54:53 PM 777,88 RON
+09/28/2020 12:42:04 777,72 RON
+09/28/2020 15:18:25 777,72 RON

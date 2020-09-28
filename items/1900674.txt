@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |426018336-1105
 1900674
     Product link    
 https://www.pcgarage.ro/placi-video/gainward/gainward-geforce-rtx-2060-super-phoenix-8gb-gddr6-3xdp-hdmi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1900674/thumbnails/gainward-geforce-
 9/21/2020 7:33:49 AM 2.043,52 RON
 9/23/2020 6:24:51 PM 2.067,30 RON
 9/25/2020 8:09:57 PM 2.084,47 RON
+09/28/2020 18:31:35 2.092,40 RON

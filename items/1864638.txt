@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684G4930
 1864638
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-celeron-dual-core-g4930-32ghz-box/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1864638/thumbnails/coffee-lake-celeron-
 9/21/2020 7:34:48 AM 167,82 RON
 9/23/2020 3:20:18 PM 169,59 RON
 9/25/2020 7:48:53 PM 171,51 RON
+09/28/2020 11:50:03 171,51 RON

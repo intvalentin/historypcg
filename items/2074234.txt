@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PH-GTX1650-O4GD6
 2074234
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-gtx-1650-phoenix-o4g-d6-4gb-gddr6-128-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4525/2074234/thumbnails/geforce-gtx-1650-pho
 9/23/2020 4:35:34 PM 890,72 RON
 9/23/2020 6:00:07 PM 890,72 RON
 9/25/2020 8:00:54 PM 860,88 RON
+09/28/2020 15:13:39 860,70 RON

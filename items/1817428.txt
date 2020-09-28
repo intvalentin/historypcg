@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RX590-8G-GAMING
 1817428
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-590-strix-gaming-8gb-gddr5-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/753/1817428/thumbnails/radeon-rx-590-strix-g
 9/21/2020 7:33:44 AM 1.718,31 RON
 9/23/2020 6:31:04 PM 1.736,43 RON
 9/25/2020 8:12:10 PM 1.756,52 RON
+09/28/2020 18:53:11 1.756,14 RON

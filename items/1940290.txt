@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Radeon RX 5700 MECH OC
 1940290
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-mech-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1940290/thumbnails/radeon-rx-5700-mech-
 9/21/2020 7:33:49 AM 2.066,60 RON
 9/23/2020 6:20:45 PM 2.076,93 RON
 9/25/2020 8:08:26 PM 2.100,96 RON
+09/28/2020 18:18:11 2.100,52 RON

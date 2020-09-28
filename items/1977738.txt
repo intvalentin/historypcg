@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AXRX 5700XT 8GBD6-3DH
 1977738
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-5700-xt-s-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6472/1977738/thumbnails/radeon-rx-5700-xt-8g
 9/21/2020 7:32:47 AM 2.088,59 RON
 9/23/2020 6:14:34 PM 2.112,37 RON
 9/25/2020 8:05:25 PM 2.129,54 RON
+09/28/2020 17:54:12 2.138,79 RON

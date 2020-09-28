@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1A212AA
 2058030
     Product link    
 https://www.pcgarage.ro/genti-notebook/hp/rucsac-notebook-156-inch-renew-navy/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058030/thumbnails/rucsac-notebook-156-
 9/20/2020 11:02:04 PM 247,98 RON
 9/23/2020 2:26:45 PM 249,98 RON
 9/25/2020 7:35:23 PM 249,98 RON
+09/28/2020 09:53:48 249,98 RON

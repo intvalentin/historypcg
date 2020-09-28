@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RX 5700 EVOKE GP
 2005486
     Product link    
 https://www.pcgarage.ro/placi-video/msi/radeon-rx-5700-evoke-gp-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/2005486/thumbnails/radeon-rx-5700-evoke
 9/21/2020 7:33:49 AM 2.099,00 RON
 9/23/2020 6:08:23 PM 2.109,49 RON
 9/25/2020 8:03:55 PM 2.133,90 RON
+09/28/2020 17:37:11 2.133,44 RON

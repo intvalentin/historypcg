@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TRX40 AORUS PRO WIFI
 1970742
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-trx40-pro-wifi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1970742/thumbnails/aorus-trx40-pro-wifi
 9/21/2020 7:36:05 AM 2.122,12 RON
 9/23/2020 7:16:18 PM 2.147,00 RON
 9/25/2020 8:28:43 PM 2.165,32 RON
+9/28/2020 10:08:31 PM 2.173,18 RON

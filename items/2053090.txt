@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |CMSX16GX4M2A3200C22
 2053090
     Product link    
 https://www.pcgarage.ro/memorii-notebook/corsair/vengeance-16gb-ddr4-3200mhz-cl22-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053090/thumbnails/vengeance-sodimm-16g
 9/20/2020 11:02:46 PM 459,98 RON
 9/23/2020 2:59:51 PM 463,98 RON
 9/25/2020 7:42:08 PM 469,98 RON
+09/28/2020 10:59:57 469,98 RON

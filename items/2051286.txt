@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RX5700XT-O8G-EVO
 2051286
     Product link    
 https://www.pcgarage.ro/placi-video/asus/radeon-rx-5700-xt-dual-evo-o8g-8gb-gddr6-256-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/7960/2051286/thumbnails/radeon-rx-5700-xt-du
 9/23/2020 3:36:38 PM 2.217,72 RON
 9/23/2020 5:20:47 PM 2.217,72 RON
 9/25/2020 8:02:25 PM 2.243,38 RON
+09/28/2020 17:24:30 2.242,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX B550-F GAMING
 2049750
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-b550-f-gaming/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2049750/thumbnails/rog-strix-b550-f-
 9/21/2020 7:35:43 AM 1.045,85 RON
 9/23/2020 7:10:08 PM 1.051,09 RON
 9/25/2020 8:23:26 PM 1.001,55 RON
+9/28/2020 8:44:52 PM 1.001,55 RON

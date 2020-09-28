@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |55025278
 2040606
     Product link    
 https://www.pcgarage.ro/smartwatch/huawei/watch-gt-2e-2020-46-mm-corp-negru-curea-silicon-negru-rezistent-la-apa-senzor-hr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2040606/thumbnails/watch-gt-2e-2020-
 9/20/2020 11:45:29 PM 649,98 RON
 9/25/2020 8:57:49 PM 649,98 RON
 9/27/2020 8:54:13 AM 649,98 RON
+09/28/2020 11:53:57 649,98 RON

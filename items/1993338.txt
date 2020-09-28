@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-G981BZWDEUE
 1993338
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s20-octa-core-128gb-12gb-ram-dual-sim-5g-4-camere-cloud-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/1993338/thumbnails/galaxy-s20-5g-edi
 9/20/2020 11:40:20 PM 3.799,00 RON
 9/25/2020 8:52:02 PM 3.799,00 RON
 9/26/2020 10:51:59 PM 3.599,00 RON
+09/28/2020 10:59:58 3.599,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B450M S2H
 1768504
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/b450m-s2h/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1768504/thumbnails/b450m-s2h-7b6c0ef
 9/21/2020 7:35:12 AM 274,76 RON
 9/23/2020 7:22:32 PM 347,57 RON
 9/25/2020 8:33:01 PM 350,50 RON
+9/28/2020 8:30:04 PM 351,83 RON

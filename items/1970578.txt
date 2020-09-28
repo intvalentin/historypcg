@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |N20602-06D6X-17311165
 1970578
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2060-gaming-oc-x2-6gb-gddr6-192-bit/
@@ -8,3 +8,5 @@ Inno3D GeForce RTX 2060 GAMING OC X2 6GB GDDR6 192-bit
 https://3.grgs.ro/images/products/1/8486/1970578/thumbnails/geforce-rtx-2060-gaming-oc-x2-6gb-gddr6-192-bit-49ca006b56cbb347ff9c904e5db20f4d.png
     Pret    
 9/25/2020 7:56:22 PM 1.692,07 RON
+09/28/2020 12:56:36 1.660,37 RON
+09/28/2020 15:30:55 1.665,65 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |AD6300OKHLBOX
 801913
     Product link    
 https://www.pcgarage.ro/procesoare/amd/ad6300okhlbox/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/801913/thumbnails/vision-a4-6300-37ghz-box
 9/21/2020 7:34:48 AM 99,17 RON
 9/23/2020 3:28:27 PM 100,22 RON
 9/25/2020 7:51:51 PM 101,35 RON
+09/28/2020 12:16:15 101,35 RON

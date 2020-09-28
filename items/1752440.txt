@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N2070WF3-8GC
 1752440
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-rtx-2070-windforce-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6763/1752440/thumbnails/geforce-rtx-2070-win
 9/21/2020 7:34:05 AM 2.708,18 RON
 9/23/2020 6:37:12 PM 2.721,73 RON
 9/25/2020 8:14:25 PM 2.753,21 RON
+09/28/2020 19:15:13 2.752,62 RON

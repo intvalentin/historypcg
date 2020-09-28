@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R800NZSAROM
 1748012
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-46-mm-corp-argintiu-curea-silicon-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1748012/thumbnails/galaxy-watch-46-m
 9/20/2020 11:45:34 PM 1.299,98 RON
 9/25/2020 8:59:17 PM 1.299,98 RON
 9/27/2020 8:55:49 AM 1.299,98 RON
+09/28/2020 12:06:43 1.299,98 RON

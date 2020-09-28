@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZE-SD3-4G1333
 306657
     Product link    
 https://www.pcgarage.ro/memorii-notebook/zeppelin/4gb-ddr3-1333mhz-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/306657/thumbnails/4gb-ddr3-1333mhz-24ba172
 9/20/2020 11:02:33 PM 87,98 RON
 9/23/2020 3:08:07 PM 89,98 RON
 9/25/2020 7:45:06 PM 89,98 RON
+09/28/2020 11:20:58 89,98 RON

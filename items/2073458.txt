@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-A30900D-10P
 2073458
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-3090-trinity-24gb-gddr6x-384-bit/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4273/2073458/thumbnails/geforce-rtx-3090-tri
     Pret    
 9/23/2020 6:00:08 PM 0
 9/25/2020 8:00:54 PM 0
+09/28/2020 17:11:44 0

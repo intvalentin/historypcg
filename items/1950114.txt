@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11293-03-40G
 1950114
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5700-xt-nitro-plus-8gb-gddr6-256-bit/
@@ -11,3 +11,5 @@ https://1.grgs.ro/images/products/1/6166/1950114/thumbnails/radeon-rx-5700-xt-ni
 9/21/2020 7:32:34 AM 2.212,24 RON
 9/23/2020 6:18:42 PM 2.212,24 RON
 9/25/2020 7:57:07 PM 2.300,48 RON
+09/28/2020 13:01:51 2.300,48 RON
+09/28/2020 15:35:49 2.300,48 RON

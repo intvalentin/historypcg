@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |DUAL-RTX2060S-8G-EVO
 1958774
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-super-evo-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1958774/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:33:54 AM 2.212,34 RON
 9/23/2020 6:18:42 PM 2.235,67 RON
 9/25/2020 8:06:57 PM 2.261,52 RON
+09/28/2020 18:07:42 2.261,04 RON

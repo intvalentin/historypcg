@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 2051006
     Product link    
 https://www.pcgarage.ro/placi-video/powercolor/radeon-rx-550-red-dragon-2gb-gddr5-128-bit-1/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/7960/2051006/thumbnails/vga-pw-red-dragon-ra
 9/23/2020 3:32:32 PM 394,69 RON
 9/23/2020 5:15:56 PM 394,69 RON
 9/25/2020 7:52:37 PM 394,69 RON
+09/28/2020 17:24:46 455,87 RON
+09/28/2020 17:25:29 455,87 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |VCG20608SDFPPB-O
 1903002
     Product link    
 https://www.pcgarage.ro/placi-video/pny/geforce-rtx-2060-super-xlr8-gaming-oc-8gb-gddr6-256-bit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1202/1903002/thumbnails/geforce-rtx-2060-sup
 9/21/2020 7:33:54 AM 2.214,83 RON
 9/23/2020 6:24:51 PM 2.241,01 RON
 9/25/2020 8:09:57 PM 2.259,33 RON
+09/28/2020 18:30:29 2.268,50 RON

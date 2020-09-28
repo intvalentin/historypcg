@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ZT-T20700E-10P
 1768064
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-rtx-2070-mini-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1765416/1768064/thumbnails/geforce-rtx-2070-
 9/21/2020 7:32:47 AM 2.298,70 RON
 9/23/2020 6:35:10 PM 2.290,84 RON
 9/25/2020 8:14:25 PM 2.275,13 RON
+09/28/2020 19:11:56 2.267,28 RON

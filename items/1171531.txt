@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |M9138-E1024LAF
 1171531
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9138-1gb-ddr-low-profile/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1169071/1171531/thumbnails/m9138-1gb-ddr-low
 9/21/2020 7:34:24 AM 1.815,83 RON
 9/23/2020 6:55:51 PM 1.835,47 RON
 9/25/2020 8:21:12 PM 1.851,17 RON
+9/28/2020 8:10:14 PM 1.859,03 RON

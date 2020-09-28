@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GV-N1656OC-4GD
 2026554
     Product link    
 https://www.pcgarage.ro/placi-video/gigabyte/geforce-gtx-1650-d6-oc-4gb-gddr6-128-bit/
@@ -12,3 +12,5 @@ https://1.grgs.ro/images/products/1/9002/2026554/thumbnails/geforce-gtx-1650-d6-
 9/23/2020 3:38:41 PM 752,35 RON
 9/23/2020 5:22:49 PM 752,35 RON
 9/25/2020 7:54:53 PM 761,06 RON
+09/28/2020 12:21:36 760,90 RON
+09/28/2020 15:00:19 760,90 RON

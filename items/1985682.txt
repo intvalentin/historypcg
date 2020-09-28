@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1985682
     Product link    
 https://www.pcgarage.ro/placi-video/sapphire/radeon-rx-5600-xt-pulse-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/1977958/1985682/thumbnails/radeon-rx-5600-xt
 9/23/2020 3:32:32 PM 1.499,99 RON
 9/23/2020 5:15:56 PM 1.499,99 RON
 9/25/2020 7:52:37 PM 1.499,99 RON
+09/28/2020 12:49:56 1.548,72 RON
+09/28/2020 17:51:42 1.547,02 RON

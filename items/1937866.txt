@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |RTX 2080 SUPER VENTUS XS OC
 1937866
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2080-super-ventus-xs-oc-8gb-gddr6-256-bit/
@@ -12,3 +12,5 @@ https://3.grgs.ro/images/products/1/6835/1937866/thumbnails/geforce-rtx-2080-sup
 9/23/2020 3:44:48 PM 3.723,37 RON
 9/23/2020 5:29:05 PM 3.723,37 RON
 9/25/2020 7:57:07 PM 3.754,71 RON
+09/28/2020 13:05:05 3.769,06 RON
+09/28/2020 15:40:48 3.769,06 RON

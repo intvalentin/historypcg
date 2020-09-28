@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GLEKB417B
 315141
     Product link    
 https://www.pcgarage.ro/genti-notebook/everki/lunar-laptop-bag-156-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/315141/thumbnails/lunar-laptop-bag-156-inc
 9/20/2020 11:02:12 PM 443,98 RON
 9/23/2020 2:35:03 PM 443,98 RON
 9/25/2020 7:38:21 PM 443,98 RON
+09/28/2020 10:28:00 443,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |TUF-RTX2060-O6G-GAMING
 1816964
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-tuf-gaming-o6g-6gb-gddr6-192-bit/
@@ -12,3 +12,5 @@ https://5.grgs.ro/images/products/1/753/1816964/thumbnails/vga-asus-tuf-rtx2060-
 9/23/2020 4:23:22 PM 1.792,92 RON
 9/23/2020 5:41:10 PM 1.792,92 RON
 9/25/2020 7:58:40 PM 1.813,66 RON
+09/28/2020 13:17:24 1.813,28 RON
+09/28/2020 15:51:43 1.813,28 RON

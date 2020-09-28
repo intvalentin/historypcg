@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME H410M-K
 2040786
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-h410m-k/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2040786/thumbnails/prime-h410m-k-1ec
 9/21/2020 7:35:34 AM 336,01 RON
 9/23/2020 7:12:11 PM 337,84 RON
 9/25/2020 8:27:14 PM 342,68 RON
+9/28/2020 8:53:23 PM 344,01 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1968274
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gtx-1660-super-amp-6gb-gddr6-192-bit/
@@ -11,3 +11,5 @@ https://3.grgs.ro/images/products/1/8977/1968274/thumbnails/geforce-gtx-1660-sup
 9/21/2020 7:32:47 AM 1.211,49 RON
 9/23/2020 6:16:38 PM 1.225,36 RON
 9/25/2020 8:06:57 PM 1.235,66 RON
+09/28/2020 12:57:56 1.235,66 RON
+09/28/2020 18:03:01 1.240,29 RON

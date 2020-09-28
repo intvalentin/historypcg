@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |SM-R835FSSAROM
 1960026
     Product link    
 https://www.pcgarage.ro/smartwatch/samsung/galaxy-watch-active-2-2019-40-mm-otel-argintiu-curea-piele-negru-lte-wi-fi-bluetooth-gps-nfc-rezistent-la-apa/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1960026/thumbnails/sm-r820nssarom-dfdee
 9/20/2020 11:45:38 PM 1.675,98 RON
 9/25/2020 8:58:33 PM 1.675,98 RON
 9/27/2020 8:55:02 AM 1.675,98 RON
+09/28/2020 12:03:31 1.675,98 RON

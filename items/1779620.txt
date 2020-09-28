@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX2060-O6G-GAMING
 1779620
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2060-strix-gaming-o6g-6gb-gddr6-192-bit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1779504/1779620/thumbnails/geforce-rtx-2060-
 9/21/2020 7:33:54 AM 2.200,08 RON
 9/23/2020 6:35:10 PM 2.203,26 RON
 9/25/2020 8:13:40 PM 2.228,74 RON
+09/28/2020 19:02:39 2.228,26 RON

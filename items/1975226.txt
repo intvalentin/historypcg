@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX8069510980XE
 1975226
     Product link    
 https://www.pcgarage.ro/procesoare/intel/cascade-lake-x-core-i9-10980xe-extreme-edition-30ghz-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1975226/thumbnails/cascade-lake-x-core-
 9/21/2020 7:34:43 AM 5.310,72 RON
 9/23/2020 3:16:13 PM 5.366,72 RON
 9/25/2020 7:47:20 PM 5.427,64 RON
+09/28/2020 11:39:27 5.427,64 RON

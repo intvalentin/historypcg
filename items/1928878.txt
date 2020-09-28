@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG-STRIX-RTX2080S-O8G-GAMING
 1928878
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-super-strix-gaming-o8g-8gb-gddr6-256-bit/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1899326/1928878/thumbnails/geforce-rtx-2080-
 9/21/2020 7:32:42 AM 4.388,46 RON
 9/23/2020 6:22:49 PM 4.434,73 RON
 9/25/2020 8:09:10 PM 4.486,05 RON
+09/28/2020 18:24:14 4.485,08 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BX80684I59400F
 1786592
     Product link    
 https://www.pcgarage.ro/procesoare/intel/coffee-lake-core-i5-9400f-290ghz-box/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1779504/1786592/thumbnails/coffee-lake-core-
 9/21/2020 7:34:36 AM 658,88 RON
 9/23/2020 3:16:13 PM 658,88 RON
 9/25/2020 7:46:35 PM 658,88 RON
+09/28/2020 11:33:52 658,88 RON

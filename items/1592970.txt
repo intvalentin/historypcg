@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX X399-E GAMING
 1592970
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-x399-e-gaming/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1508470/1592970/thumbnails/rog-strix-x399-e-
 9/21/2020 7:36:05 AM 1.877,13 RON
 9/23/2020 7:29:06 PM 1.894,92 RON
 9/25/2020 8:34:28 PM 1.915,58 RON
+9/28/2020 10:07:08 PM 1.915,17 RON

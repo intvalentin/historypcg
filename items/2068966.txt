@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A520M S2H
 2068966
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/a520m-s2h/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068966/thumbnails/a520m-s2h-def887182a
 9/21/2020 7:35:56 AM 318,32 RON
 9/23/2020 7:08:06 PM 319,92 RON
 9/25/2020 8:25:41 PM 323,53 RON
+9/28/2020 8:51:09 PM 321,18 RON
