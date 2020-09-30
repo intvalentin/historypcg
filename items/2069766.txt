@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np-c850m-eu
 2069766
     Product link    
 https://www.pcgarage.ro/surse/nzxt/c-series-c850-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2069766/thumbnails/c-series-c850-80-plu
 9/21/2020 7:48:15 AM 822,91 RON
 9/24/2020 12:59:20 PM 831,60 RON
 9/25/2020 10:25:55 PM 841,21 RON
+9/30/2020 8:51:09 PM 837,09 RON

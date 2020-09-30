@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn285
 1626810
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/straight-power-11-1000w-80-plus-gold-1000w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5633/1626810/thumbnails/straight-power-11-80
 9/21/2020 7:48:19 AM 1.010,74 RON
 9/24/2020 1:17:58 PM 999,60 RON
 9/25/2020 10:33:21 PM 993,46 RON
+9/30/2020 8:58:17 PM 998,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn210
 803195
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/power-zone-80-plus-bronze-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/803195/thumbnails/power-zone-80-plus-
 9/21/2020 7:46:14 AM 580,72 RON
 9/24/2020 12:57:16 PM 574,19 RON
 9/25/2020 10:25:11 PM 570,70 RON
+9/30/2020 8:25:26 PM 590,01 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-0750d
 964133
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-dps-750w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/964133/thumbnails/toughpower-dps-750w-f873
 9/21/2020 7:48:15 AM 862,53 RON
 9/24/2020 1:50:48 PM 874,25 RON
 9/25/2020 10:48:53 PM 881,51 RON
+9/30/2020 8:52:16 PM 876,10 RON

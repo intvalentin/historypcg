@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1000f14eg(bk)
 1523742
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-ii-gold-1000w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427586/1523742/thumbnails/super-flower-lead
 9/21/2020 7:47:07 AM 954,62 RON
 9/24/2020 1:22:07 PM 967,59 RON
 9/25/2020 10:34:51 PM 975,63 RON
+9/30/2020 8:57:27 PM 969,64 RON

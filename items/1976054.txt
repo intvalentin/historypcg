@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-tx-1000
 1976054
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-tx-1000-80-plus-titanium-1000w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1976054/thumbnails/prime-tx-1000-80-plu
 9/21/2020 7:46:49 AM 1.583,91 RON
 9/24/2020 1:01:24 PM 1.583,91 RON
 9/25/2020 10:27:24 PM 1.583,91 RON
+9/30/2020 9:11:19 PM 1.583,91 RON

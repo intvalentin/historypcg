@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020070-eu
 1086094
     Product link    
 https://www.pcgarage.ro/surse/corsair/hxi-series-hx1200i-1200w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/1086094/thumbnails/hxi-series-hx1200i
 9/21/2020 7:47:03 AM 1.426,77 RON
 9/24/2020 1:46:39 PM 1.446,16 RON
 9/25/2020 10:47:24 PM 1.456,70 RON
+9/30/2020 9:10:13 PM 1.448,13 RON

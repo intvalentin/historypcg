@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1000f14ht(bk)
 1129523
     Product link    
 https://www.pcgarage.ro/surse/super-flower/sf-1000f14ht-1000w-80-plus-titanium/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/1129523/thumbnails/sf-1000f14ht-1000w
 9/21/2020 7:48:24 AM 1.389,10 RON
 9/24/2020 1:44:34 PM 1.407,98 RON
 9/25/2020 10:46:40 PM 1.419,68 RON
+9/30/2020 9:09:39 PM 1.410,97 RON

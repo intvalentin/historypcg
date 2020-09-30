@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |enf01-br
 1745564
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/enforcer-negru-rosu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6748/1745564/thumbnails/enforcer-negru-rosu-
 9/21/2020 8:07:55 AM 929,99 RON
 9/25/2020 12:20:14 AM 929,99 RON
 9/26/2020 1:16:26 PM 929,99 RON
+9/30/2020 8:28:50 PM 929,99 RON

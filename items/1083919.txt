@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020082
 1083919
     Product link    
 https://www.pcgarage.ro/surse/corsair/enthusiast-gold-series-rm750i-750w-eu-version/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/1083919/thumbnails/enthusiast-gold-se
 9/21/2020 7:46:54 AM 806,11 RON
 9/24/2020 1:46:39 PM 817,13 RON
 9/25/2020 10:47:24 PM 822,24 RON
+9/30/2020 8:48:30 PM 817,10 RON

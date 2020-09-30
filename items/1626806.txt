@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn284
 1626806
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/straight-power-11-850w-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5633/1626806/thumbnails/straight-power-11-80
 9/21/2020 7:48:15 AM 859,51 RON
 9/24/2020 1:17:58 PM 850,09 RON
 9/25/2020 10:33:21 PM 844,95 RON
+9/30/2020 8:51:43 PM 848,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-rl-bla-sgl
 1658516
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-real-leather-negru-sgl/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5286/1658516/thumbnails/icon-real-leather-ne
 9/21/2020 8:07:37 AM 2.899,99 RON
 9/25/2020 12:21:44 AM 2.899,99 RON
 9/26/2020 1:17:57 PM 2.899,99 RON
+9/30/2020 9:12:42 PM 2.899,99 RON

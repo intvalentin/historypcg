@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np-c650m-eu
 2069762
     Product link    
 https://www.pcgarage.ro/surse/nzxt/c-series-c650-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2069762/thumbnails/c-series-c650-80-plu
 9/21/2020 7:48:11 AM 652,65 RON
 9/24/2020 12:59:20 PM 659,54 RON
 9/25/2020 10:25:55 PM 667,16 RON
+9/30/2020 8:38:28 PM 663,91 RON

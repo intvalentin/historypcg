@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co01-bg
 1421538
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/cobra-negru-lime/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1421538/thumbnails/cobra-negru-lime-
 9/21/2020 8:07:51 AM 819,99 RON
 9/25/2020 8:51:37 AM 819,99 RON
 9/26/2020 1:20:53 PM 819,99 RON
+9/30/2020 8:25:15 PM 819,99 RON

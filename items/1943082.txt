@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |focus-px-550
 1943082
     Product link    
 https://www.pcgarage.ro/surse/seasonic/focus-px-80-plus-platinum-550w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/1943082/thumbnails/focus-px-80-plus-pla
 9/21/2020 7:45:53 AM 563,56 RON
 9/24/2020 1:03:27 PM 563,56 RON
 9/25/2020 10:28:09 PM 563,56 RON
+9/30/2020 8:20:50 PM 563,56 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp1200g
 1436274
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp1200g-80-plus-gold-1100w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1190677/1436274/thumbnails/gp1200g-80-plus-g
 9/21/2020 7:48:19 AM 1.007,16 RON
 9/24/2020 1:26:15 PM 1.020,85 RON
 9/25/2020 10:36:20 PM 1.029,33 RON
+9/30/2020 8:59:06 PM 1.023,01 RON

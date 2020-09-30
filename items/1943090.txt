@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |focus-px-750
 1943090
     Product link    
 https://www.pcgarage.ro/surse/seasonic/focus-px-80-plus-platinum-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1943090/thumbnails/focus-px-80-plus-pla
 9/21/2020 7:46:40 AM 683,20 RON
 9/24/2020 1:03:27 PM 683,20 RON
 9/25/2020 10:28:09 PM 683,20 RON
+9/30/2020 8:40:26 PM 683,20 RON

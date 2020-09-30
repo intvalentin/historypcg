@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tp-1350m
 264873
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/tp-1350m-1350w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/264873/thumbnails/tp-1350m-1350w-4716a2dd7
 9/21/2020 7:48:27 AM 1.847,51 RON
 9/24/2020 2:01:10 PM 1.872,62 RON
 9/25/2020 10:53:13 PM 1.888,18 RON
+9/30/2020 9:12:56 PM 1.876,59 RON

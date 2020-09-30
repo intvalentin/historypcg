@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-xfs-bbmfdl-01
 1762704
     Product link    
 https://www.pcgarage.ro/scaune-gaming/tt-esports/x-fit-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3442/1762704/thumbnails/xf-100-black-e646052
 9/21/2020 8:07:42 AM 1.799,99 RON
 9/25/2020 12:20:14 AM 1.799,99 RON
 9/26/2020 1:16:26 PM 1.799,99 RON
+9/30/2020 9:00:36 PM 1.799,99 RON

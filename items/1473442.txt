@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plays_evolutionps
 1473442
     Product link    
 https://www.pcgarage.ro/scaune-gaming/playseat/evolution-playstation/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1169071/1473442/thumbnails/evolution-playsta
 9/21/2020 8:08:14 AM 2.055,07 RON
 9/25/2020 8:50:53 AM 2.055,07 RON
 9/26/2020 1:20:09 PM 2.055,07 RON
+9/30/2020 9:09:42 PM 2.055,07 RON

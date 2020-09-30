@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nc-s300ex-bw
 1889466
     Product link    
 https://www.pcgarage.ro/scaune-gaming/nitro-concepts/s300-ex-black-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1889466/thumbnails/s300-ex-black-whi
 9/21/2020 8:07:37 AM 1.539,90 RON
 9/25/2020 12:20:14 AM 1.539,90 RON
 9/26/2020 1:16:26 PM 1.539,90 RON
+9/30/2020 8:54:09 PM 1.539,90 RON

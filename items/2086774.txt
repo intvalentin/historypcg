@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020227-eu
 2086774
     Product link    
 https://www.pcgarage.ro/surse/corsair/cx750f-rgb-white-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7008/2086774/thumbnails/cx750f-rgb-white-80-
 9/21/2020 7:48:02 AM 552,47 RON
 9/24/2020 12:57:16 PM 558,29 RON
 9/25/2020 10:25:55 PM 564,75 RON
+9/30/2020 8:20:33 PM 561,98 RON

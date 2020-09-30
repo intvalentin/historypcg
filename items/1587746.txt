@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |htx-750-b7
 1587746
     Product link    
 https://www.pcgarage.ro/surse/sama/armor-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1510154/1587746/thumbnails/sama-armor-80-plu
 9/21/2020 7:48:07 AM 572,47 RON
 9/24/2020 1:20:02 PM 580,25 RON
 9/25/2020 10:34:06 PM 585,07 RON
+9/30/2020 8:24:37 PM 581,48 RON

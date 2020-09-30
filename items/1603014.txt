@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass600tl
 1603014
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-fanless-80-plus-titanium-600-w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1535667/1603014/thumbnails/prime-fanless-80-
 9/21/2020 7:48:24 AM 1.161,51 RON
 9/24/2020 1:20:02 PM 1.161,51 RON
 9/25/2020 10:34:06 PM 1.161,51 RON
+9/30/2020 9:03:41 PM 1.161,51 RON

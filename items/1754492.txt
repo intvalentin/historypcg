@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-hro-pu-gol-sgl
 1754492
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/hero-negru-auriu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6763/1754492/thumbnails/hero-negru-auriu-86b
 9/21/2020 8:08:14 AM 1.999,99 RON
 9/25/2020 12:20:14 AM 1.999,99 RON
 9/26/2020 1:16:26 PM 1.999,99 RON
+9/30/2020 9:08:26 PM 1.999,99 RON

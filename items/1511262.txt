@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp700p
 1511262
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp700p-80-plus-platinum-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1409094/1511262/thumbnails/gp700p-80-plus-pl
 9/21/2020 7:48:02 AM 539,69 RON
 9/24/2020 1:22:07 PM 547,03 RON
 9/25/2020 10:34:51 PM 551,57 RON
+9/30/2020 8:17:21 PM 548,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |im01m-bo
 1432362
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/imperator-max-series-negru-portocaliu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/1432362/thumbnails/imperator-max-seri
 9/21/2020 8:08:00 AM 1.129,99 RON
 9/25/2020 8:51:37 AM 1.129,99 RON
 9/26/2020 1:20:53 PM 1.129,99 RON
+9/30/2020 8:40:12 PM 1.129,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-nl-bl
 1715820
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-nappa-leather-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1690716/1715820/thumbnails/icon-nappa-leathe
 9/21/2020 8:08:15 AM 5.499,90 RON
 9/25/2020 12:20:59 AM 5.499,90 RON
 9/26/2020 1:17:10 PM 5.499,90 RON
+9/30/2020 9:16:21 PM 5.499,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-1200f-p
 1088964
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-grand-1200w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/929099/1088964/thumbnails/toughpower-grand-1
 9/21/2020 7:48:24 AM 1.269,27 RON
 9/24/2020 1:46:39 PM 1.286,53 RON
 9/25/2020 10:47:24 PM 1.297,22 RON
+9/30/2020 9:06:44 PM 1.289,25 RON

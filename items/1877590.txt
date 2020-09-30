@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020196-eu
 1877590
     Product link    
 https://www.pcgarage.ro/surse/corsair/rm850-2019-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1867706/1877590/thumbnails/rm850-2019-80-plu
 9/21/2020 7:46:45 AM 621,89 RON
 9/24/2020 1:07:36 PM 633,46 RON
 9/25/2020 10:29:39 PM 634,32 RON
+9/30/2020 8:32:48 PM 630,46 RON

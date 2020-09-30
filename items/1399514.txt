@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hydro g 850
 1399514
     Product link    
 https://www.pcgarage.ro/surse/fortron/hydro-g-80-plusgold-850w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1301253/1399514/thumbnails/hydro-g-80-plusgo
 9/21/2020 7:48:11 AM 639,57 RON
 9/24/2020 1:28:19 PM 648,27 RON
 9/25/2020 10:44:25 PM 653,80 RON
+9/30/2020 8:36:22 PM 650,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-v2-wt
 1620334
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-v2-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1578330/1620334/thumbnails/verona-v2-alb-562
 9/21/2020 8:07:41 AM 1.319,99 RON
 9/25/2020 12:21:44 AM 1.319,99 RON
 9/26/2020 1:17:57 PM 1.319,99 RON
+9/30/2020 8:48:41 PM 1.319,99 RON

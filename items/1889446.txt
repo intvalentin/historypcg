@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ec3-bw
 1889446
     Product link    
 https://www.pcgarage.ro/scaune-gaming/ThunderX3/ec3-black-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1889446/thumbnails/thunder3x-ec3-bla
 9/21/2020 8:07:55 AM 949,99 RON
 9/25/2020 12:20:14 AM 949,99 RON
 9/26/2020 1:16:26 PM 949,99 RON
+9/30/2020 8:31:47 PM 949,99 RON

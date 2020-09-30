@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp900g
 996512
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp900g-800w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862955/996512/thumbnails/gp900g-800w-7fab1d5
 9/21/2020 7:48:02 AM 571,20 RON
 9/24/2020 1:48:43 PM 571,20 RON
 9/25/2020 10:48:09 PM 571,20 RON
+9/30/2020 8:22:29 PM 571,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aphrodite-mf1-bk
 1946258
     Product link    
 https://www.pcgarage.ro/scaune-gaming/gamdias/aphrodite-mf1-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1946258/thumbnails/scaun-gaming-gamdias
 9/21/2020 8:07:37 AM 1.149,99 RON
 9/25/2020 12:19:29 AM 1.149,99 RON
 9/26/2020 1:15:41 PM 1.149,99 RON
+9/30/2020 8:40:29 PM 1.149,99 RON

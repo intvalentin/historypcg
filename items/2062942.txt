@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-xw
 2062942
     Product link    
 https://www.pcgarage.ro/carcase/segotep/snake-bk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2062942/thumbnails/snake-ebb51706e57c2c
 9/21/2020 7:48:30 AM 129,99 RON
 9/24/2020 2:05:16 PM 129,99 RON
 9/25/2020 10:53:56 PM 129,99 RON
+9/30/2020 9:17:45 PM 129,99 RON

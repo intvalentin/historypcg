@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aurum-92+pt1200m
 1452694
     Product link    
 https://www.pcgarage.ro/surse/fortron/aurum-pt-80-plus-platinum-1200w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1126098/1452694/thumbnails/aurum-pt-80-plus-
 9/21/2020 7:48:19 AM 1.053,15 RON
 9/24/2020 1:26:15 PM 1.067,46 RON
 9/25/2020 10:36:20 PM 1.076,55 RON
+9/30/2020 9:00:29 PM 1.071,29 RON

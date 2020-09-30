@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020181-eu
 1743424
     Product link    
 https://www.pcgarage.ro/surse/corsair/sf450-80-plus-platinum-450w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6748/1743424/thumbnails/sf450-80-plus-platin
 9/21/2020 7:48:07 AM 585,51 RON
 9/24/2020 1:13:49 PM 596,40 RON
 9/25/2020 10:31:53 PM 597,13 RON
+9/30/2020 8:26:15 PM 593,50 RON

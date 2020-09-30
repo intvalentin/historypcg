@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c201-bk
 1712428
     Product link    
 https://www.pcgarage.ro/scaune-gaming/redragon/coeus-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1703884/1712428/thumbnails/coeus-negru-1edf3
 9/21/2020 8:08:00 AM 1.249,99 RON
 9/25/2020 12:20:59 AM 1.249,99 RON
 9/26/2020 1:17:10 PM 1.249,99 RON
+9/30/2020 8:46:12 PM 1.249,99 RON

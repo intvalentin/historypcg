@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020083
 1083929
     Product link    
 https://www.pcgarage.ro/surse/corsair/enthusiast-gold-series-rm850i-850w-eu-version/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/859765/1083929/thumbnails/enthusiast-gold-se
 9/24/2020 12:36:45 PM 812,34 RON
 9/24/2020 1:46:39 PM 892,49 RON
 9/25/2020 10:47:24 PM 898,50 RON
+9/30/2020 8:53:05 PM 893,07 RON

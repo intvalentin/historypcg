@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hps-750gd-f14c
 1538490
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/super-gd-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1510154/1538490/thumbnails/super-gd-750w-f37
 9/21/2020 7:48:02 AM 524,10 RON
 9/24/2020 1:20:02 PM 524,74 RON
 9/25/2020 10:34:51 PM 525,61 RON
+9/30/2020 8:15:24 PM 525,78 RON

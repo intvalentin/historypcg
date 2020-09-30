@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vernazza-sfb-ash
 1960062
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/vernazza-soft-fabric-ash/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1261/1960062/thumbnails/vernazza-soft-fabric
 9/21/2020 8:07:10 AM 1.499,99 RON
 9/25/2020 12:19:29 AM 1.749,99 RON
 9/26/2020 1:15:40 PM 1.749,99 RON
+9/30/2020 8:58:59 PM 1.749,99 RON

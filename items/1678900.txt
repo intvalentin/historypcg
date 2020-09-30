@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_ch105bk
 1678900
     Product link    
 https://www.pcgarage.ro/scaune-gaming/marvo/ch-105-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1678900/thumbnails/ch-105-black-ea38
 9/21/2020 8:07:46 AM 629,99 RON
 9/25/2020 12:20:59 AM 629,99 RON
 9/26/2020 1:17:10 PM 629,99 RON
+9/30/2020 8:15:07 PM 629,99 RON

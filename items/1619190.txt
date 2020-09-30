@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp1100gn
 1619190
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp1100gn-80-plus-gold-1000w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/480523/1619190/thumbnails/gp1100gn-80-plus-g
 9/21/2020 7:48:19 AM 902,14 RON
 9/24/2020 1:17:58 PM 914,40 RON
 9/25/2020 10:34:06 PM 922,00 RON
+9/30/2020 8:53:55 PM 916,34 RON

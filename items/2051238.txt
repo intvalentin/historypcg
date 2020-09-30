@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpd-0850fnfape-1
 2051238
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-pf1-80-plus-platinum-850w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2051238/thumbnails/toughpower-pf1-80-pl
 9/21/2020 7:46:54 AM 833,27 RON
 9/24/2020 12:59:20 PM 844,60 RON
 9/25/2020 10:26:40 PM 851,62 RON
+9/30/2020 8:51:26 PM 846,39 RON

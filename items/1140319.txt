@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn252
 1140319
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/dark-power-pro-11-80-plus-platinum-750w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088099/1140319/thumbnails/dark-power-pro-11
 9/21/2020 7:46:31 AM 1.043,87 RON
 9/24/2020 1:42:30 PM 1.033,02 RON
 9/25/2020 10:45:55 PM 1.026,73 RON
+9/30/2020 8:59:39 PM 1.031,59 RON

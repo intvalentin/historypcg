@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_ch106bk
 1678916
     Product link    
 https://www.pcgarage.ro/scaune-gaming/marvo/ch-106-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1666176/1678916/thumbnails/ch-106-black-71cf
 9/21/2020 8:07:51 AM 751,11 RON
 9/25/2020 12:20:59 AM 751,11 RON
 9/26/2020 1:17:10 PM 751,11 RON
+9/30/2020 8:22:01 PM 751,11 RON

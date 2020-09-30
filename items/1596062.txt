@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssr-750tr
 1596062
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-ultra-80-plus-titanium-750-w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1594546/1596062/thumbnails/prime-ultra-80-pl
 9/21/2020 7:48:24 AM 1.140,39 RON
 9/24/2020 1:20:02 PM 1.140,39 RON
 9/25/2020 10:34:06 PM 1.140,39 RON
+9/30/2020 9:02:24 PM 1.140,39 RON

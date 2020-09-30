@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm650-ebt
 1073589
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm650-ebt-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/255443/1073589/thumbnails/zm650-ebt-650w-128
 9/21/2020 7:47:58 AM 508,58 RON
 9/24/2020 1:46:39 PM 515,49 RON
 9/25/2020 10:48:09 PM 519,78 RON
+9/30/2020 8:14:03 PM 516,59 RON

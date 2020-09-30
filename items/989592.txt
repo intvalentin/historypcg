@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gazu-096, monza-gn
 989592
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/monza-verde/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/989592/thumbnails/monza-verde-22fc10c
 9/21/2020 8:07:51 AM 829,99 RON
 9/25/2020 8:52:19 AM 829,99 RON
 9/26/2020 1:21:35 PM 829,99 RON
+9/30/2020 8:25:32 PM 829,99 RON

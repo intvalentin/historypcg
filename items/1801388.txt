@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020186-eu
 1801388
     Product link    
 https://www.pcgarage.ro/surse/corsair/sf750-80-plus-platinum-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1801388/thumbnails/sf750-80-plus-platin
 9/21/2020 7:46:45 AM 777,40 RON
 9/24/2020 1:09:40 PM 790,33 RON
 9/25/2020 10:30:23 PM 792,83 RON
+9/30/2020 8:47:40 PM 787,97 RON

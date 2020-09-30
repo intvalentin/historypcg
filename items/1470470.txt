@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssr-600tl
 1470470
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-80-plus-titanium-600w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1126098/1470470/thumbnails/prime-80-plus-tit
 9/21/2020 7:48:20 AM 1.082,11 RON
 9/24/2020 1:24:11 PM 1.096,82 RON
 9/25/2020 10:35:35 PM 1.106,17 RON
+9/30/2020 9:01:51 PM 1.100,75 RON

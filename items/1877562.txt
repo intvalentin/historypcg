@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020194-eu
 1877562
     Product link    
 https://www.pcgarage.ro/surse/corsair/rm650-2019-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1868718/1877562/thumbnails/rm650-2019-80-plu
 9/21/2020 7:46:35 AM 515,24 RON
 9/24/2020 1:07:36 PM 524,83 RON
 9/25/2020 10:29:39 PM 525,55 RON
+9/30/2020 8:14:35 PM 522,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020138-eu
 1459150
     Product link    
 https://www.pcgarage.ro/surse/corsair/hx-series-80-plus-platinum-850w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1459150/thumbnails/hx-series-80-plus
 9/21/2020 7:46:40 AM 909,58 RON
 9/24/2020 1:26:15 PM 921,95 RON
 9/25/2020 10:36:20 PM 927,91 RON
+9/30/2020 8:54:45 PM 922,20 RON

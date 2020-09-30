@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |torretta-bl
 989647
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/torretta-albastru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/498497/989647/thumbnails/torretta-albastru-e
 9/21/2020 8:07:41 AM 1.249,99 RON
 9/25/2020 8:52:19 AM 1.249,99 RON
 9/26/2020 1:21:35 PM 1.249,99 RON
+9/30/2020 8:43:32 PM 1.249,99 RON

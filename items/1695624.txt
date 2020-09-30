@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpi-1050f2f
 1695624
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-i-rgb-80-plus-platinum-1050w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1695624/thumbnails/toughpower-i-rgb-
 9/21/2020 7:48:24 AM 1.103,70 RON
 9/24/2020 1:13:49 PM 1.118,70 RON
 9/25/2020 10:31:53 PM 1.127,99 RON
+9/30/2020 9:02:08 PM 1.121,07 RON

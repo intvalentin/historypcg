@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-xcs-bblfdl-01
 1703580
     Product link    
 https://www.pcgarage.ro/scaune-gaming/tt-esports/x-confort-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692296/1703580/thumbnails/x-confort-negru-a
 9/21/2020 8:08:14 AM 2.079,99 RON
 9/25/2020 12:20:59 AM 2.079,99 RON
 9/26/2020 1:17:10 PM 2.079,99 RON
+9/30/2020 9:10:14 PM 2.079,99 RON

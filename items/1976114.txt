@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-px-1000
 1976114
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-px-1000-80-plus-platinum-1000w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1976114/thumbnails/prime-px-1000-80-plu
 9/21/2020 7:48:24 AM 1.336,18 RON
 9/24/2020 1:01:24 PM 1.350,26 RON
 9/25/2020 10:27:24 PM 1.365,88 RON
+9/30/2020 9:08:22 PM 1.359,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs550-afbag1-eu
 1129553
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/v-series-v550-v2-550w-80-plus-gold/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/859765/1129553/thumbnails/v-series-v550-v2-8
 9/21/2020 7:48:02 AM 559,14 RON
 9/24/2020 1:44:34 PM 566,74 RON
 9/25/2020 10:46:40 PM 571,45 RON
+9/30/2020 8:22:12 PM 567,94 RON

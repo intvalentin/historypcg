@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thunder
 1761200
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/thunder-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1153/1761200/thumbnails/jazovo-black-aa84cee
 9/21/2020 7:51:18 AM 206,34 RON
 9/24/2020 3:17:21 PM 209,15 RON
 9/26/2020 8:27:56 AM 210,89 RON
+9/30/2020 9:19:22 PM 157,42 RON

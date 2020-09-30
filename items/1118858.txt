@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs750-afbag1-eu
 1118858
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/v-series-v750-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/851375/1118858/thumbnails/v-series-v750-80-p
 9/21/2020 7:48:11 AM 672,84 RON
 9/24/2020 1:46:39 PM 681,99 RON
 9/25/2020 10:47:24 PM 687,65 RON
+9/30/2020 8:40:47 PM 683,43 RON

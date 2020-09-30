@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aero-300-bk-faw
 1492278
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/aero-300-black-faw/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1358815/1492278/thumbnails/aero-300-black-fa
 9/21/2020 7:48:48 AM 149,99 RON
 9/24/2020 2:15:28 PM 149,99 RON
 9/25/2020 10:56:51 PM 149,99 RON
+9/30/2020 9:18:50 PM 149,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gny7d000100
 1969862
     Product link    
 https://www.pcgarage.ro/birouri-gaming/cougar/mars-gaming/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1969862/thumbnails/mars-a727ab6cde54d2f
 9/21/2020 8:08:26 AM 2.199,99 RON
 9/25/2020 8:53:44 AM 2.199,99 RON
 9/26/2020 1:23:05 PM 2.199,99 RON
+9/30/2020 9:24:06 PM 1.999,99 RON

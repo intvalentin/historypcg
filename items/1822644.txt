@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc231
 1822644
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/signum-sg1m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1821372/1822644/thumbnails/signum-sg1m-91781
 9/21/2020 7:48:33 AM 182,27 RON
 9/24/2020 2:13:25 PM 182,50 RON
 9/25/2020 10:56:08 PM 182,79 RON
+9/30/2020 9:21:58 PM 182,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |velocita-red
 1632666
     Product link    
 https://www.pcgarage.ro/accesorii-scaune-gaming/arozzi/velocita-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1630882/1632666/thumbnails/velocita-red-8510
 9/21/2020 8:08:20 AM 999,99 RON
 9/25/2020 8:53:01 AM 999,99 RON
 9/26/2020 1:22:22 PM 999,99 RON
+9/30/2020 9:21:47 PM 999,99 RON

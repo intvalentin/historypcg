@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog-strix-850g
 2050478
     Product link    
 https://www.pcgarage.ro/surse/asus/rog-strix-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/2050478/thumbnails/rog-strix-80-plus-go
 9/21/2020 7:46:58 AM 843,79 RON
 9/24/2020 12:59:20 PM 848,00 RON
 9/25/2020 10:26:40 PM 857,81 RON
+9/30/2020 8:49:36 PM 823,10 RON

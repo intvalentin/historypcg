@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |meissa
 2026530
     Product link    
 https://www.pcgarage.ro/carcase/aqirys/meissa/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2026530/thumbnails/meissa-f575adb032548
 9/21/2020 7:48:30 AM 282,91 RON
 9/24/2020 2:05:16 PM 282,91 RON
 9/25/2020 10:53:56 PM 282,91 RON
+9/30/2020 9:30:02 PM 282,91 RON

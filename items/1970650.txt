@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog-strix-750g
 1970650
     Product link    
 https://www.pcgarage.ro/surse/asus/rog-strix-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970650/thumbnails/rog-strix-80-plus-go
 9/21/2020 7:48:19 AM 950,56 RON
 9/24/2020 1:01:24 PM 955,30 RON
 9/25/2020 10:27:24 PM 966,36 RON
+9/30/2020 8:42:29 PM 706,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-xlplus-white
 1689616
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-xl-plus-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8968/1689616/thumbnails/verona-xl-plus-alb-a
 9/21/2020 8:08:05 AM 1.599,99 RON
 9/25/2020 12:20:59 AM 1.599,99 RON
 9/26/2020 1:17:10 PM 1.599,99 RON
+9/30/2020 8:57:04 PM 1.599,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec300ptg_bk
 1616078
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p300-window-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1578330/1616078/thumbnails/eclipse-p300-wind
 9/21/2020 7:50:13 AM 309,99 RON
 9/24/2020 2:15:28 PM 309,99 RON
 9/25/2020 10:56:51 PM 309,99 RON
+9/30/2020 9:31:57 PM 309,99 RON

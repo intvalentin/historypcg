@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-1250d-t
 1351023
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-dps-g-rgb-80-plus-titanium-1250w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1155213/1351023/thumbnails/toughpower-dps-g-
 9/21/2020 7:48:27 AM 1.884,78 RON
 9/24/2020 1:40:25 PM 1.910,40 RON
 9/25/2020 10:45:10 PM 1.926,27 RON
+9/30/2020 9:13:12 PM 1.914,45 RON

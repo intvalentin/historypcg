@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-850f14ht(bk)
 1129493
     Product link    
 https://www.pcgarage.ro/surse/super-flower/sf-850f14ht-850w-80-plus-titanium/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929094/1129493/thumbnails/sf-850f14ht-850w-8
 9/21/2020 7:48:24 AM 1.145,76 RON
 9/24/2020 1:44:34 PM 1.161,34 RON
 9/25/2020 10:46:40 PM 1.170,99 RON
+9/30/2020 9:04:14 PM 1.163,80 RON

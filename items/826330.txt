@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np-1bm-0700a
 826330
     Product link    
 https://www.pcgarage.ro/surse/nzxt/hale82-v2-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/826330/thumbnails/hale82-v2-700w-f267
 9/21/2020 7:47:58 AM 502,87 RON
 9/24/2020 1:52:52 PM 509,71 RON
 9/25/2020 10:49:36 PM 513,94 RON
+9/30/2020 8:13:13 PM 510,79 RON

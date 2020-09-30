@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-pro-v2-rd
 1495594
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-pro-v2-rosu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1192525/1495594/thumbnails/verona-pro-v2-ros
 9/21/2020 8:07:41 AM 1.449,99 RON
 9/25/2020 12:23:13 AM 1.449,99 RON
 9/26/2020 1:19:25 PM 1.449,99 RON
+9/30/2020 8:53:01 PM 1.449,99 RON

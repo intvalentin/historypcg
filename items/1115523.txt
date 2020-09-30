@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |120-g2-1600-x2
 1115523
     Product link    
 https://www.pcgarage.ro/surse/evga/supernova-1600-g2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/1115523/thumbnails/supernova-1600-g2-0c487
 9/21/2020 7:48:24 AM 1.209,23 RON
 9/24/2020 1:46:39 PM 1.231,79 RON
 9/25/2020 10:47:24 PM 1.233,36 RON
+9/30/2020 9:05:54 PM 1.225,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |torretta-gy
 989652
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/torretta-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/843505/989652/thumbnails/torretta-gri-83007d
 9/21/2020 8:07:37 AM 1.249,99 RON
 9/25/2020 8:51:37 AM 1.249,99 RON
 9/26/2020 1:20:53 PM 1.249,99 RON
+9/30/2020 8:44:33 PM 1.249,99 RON

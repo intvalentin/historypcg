@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr02-bb
 1745560
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/predator-2-negru-albastru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1745560/thumbnails/predator-2-negru-
 9/21/2020 8:08:00 AM 1.199,99 RON
 9/25/2020 12:20:59 AM 1.199,99 RON
 9/26/2020 1:17:10 PM 1.199,99 RON
+9/30/2020 8:41:02 PM 1.199,99 RON

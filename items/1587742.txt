@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |htx-650-b7
 1587742
     Product link    
 https://www.pcgarage.ro/surse/sama/armor-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1510154/1587742/thumbnails/sama-armor-80-plu
 9/21/2020 7:48:02 AM 537,97 RON
 9/24/2020 1:20:02 PM 545,28 RON
 9/25/2020 10:34:06 PM 549,81 RON
+9/30/2020 8:17:05 PM 546,43 RON

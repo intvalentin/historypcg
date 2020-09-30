@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-750f14rg
 2003574
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-iii-gold-argb-white-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8078/2003574/thumbnails/leadex-iii-gold-argb
 9/21/2020 7:48:11 AM 641,60 RON
 9/24/2020 12:59:20 PM 650,32 RON
 9/25/2020 10:26:40 PM 655,72 RON
+9/30/2020 8:36:39 PM 651,70 RON

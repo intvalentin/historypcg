@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020151-eu
 1801844
     Product link    
 https://www.pcgarage.ro/surse/corsair/ax850-80-plus-titanium-850w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1801844/thumbnails/ax850-80-plus-titani
 9/21/2020 7:47:03 AM 1.209,09 RON
 9/24/2020 1:09:40 PM 1.231,65 RON
 9/25/2020 10:30:23 PM 1.233,22 RON
+9/30/2020 9:05:37 PM 1.225,65 RON

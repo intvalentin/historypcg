@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dark brushed rgb
 1988478
     Product link    
 https://www.pcgarage.ro/carcase/floston/dark-brushed-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1988478/thumbnails/dark-brushed-rgb-
 9/21/2020 7:51:18 AM 205,41 RON
 9/24/2020 2:09:21 PM 208,21 RON
 9/25/2020 10:55:22 PM 209,99 RON
+9/30/2020 9:24:07 PM 208,96 RON

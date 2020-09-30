@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sps-0730m
 950521
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/sps-0730m-730w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/950521/thumbnails/sps-0730m-730w-bc1b
 9/21/2020 7:46:49 AM 525,06 RON
 9/24/2020 1:50:48 PM 532,20 RON
 9/25/2020 10:48:53 PM 536,62 RON
+9/30/2020 8:16:32 PM 533,32 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc253
 2004158
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/signum-sg1q-evo-tg-argb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8078/2004158/thumbnails/signum-sg1q-evo-tg-a
 9/21/2020 7:48:30 AM 231,99 RON
 9/24/2020 2:07:19 PM 231,99 RON
 9/25/2020 10:54:39 PM 231,99 RON
+9/30/2020 9:27:18 PM 231,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rift-bk
 1881230
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/rift-rgb-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881230/thumbnails/rift-rgb-01c065ad155
 9/21/2020 7:48:37 AM 169,99 RON
 9/24/2020 2:13:25 PM 169,99 RON
 9/25/2020 10:56:08 PM 169,99 RON
+9/30/2020 9:21:09 PM 169,99 RON

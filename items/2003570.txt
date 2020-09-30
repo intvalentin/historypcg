@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-850f14hg
 2003570
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-iii-gold-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8078/2003570/thumbnails/leadex-iii-gold-80-p
 9/21/2020 7:46:35 AM 635,16 RON
 9/24/2020 12:59:20 PM 643,80 RON
 9/25/2020 10:26:40 PM 649,15 RON
+9/30/2020 8:35:32 PM 645,16 RON

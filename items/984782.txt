@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1000f14mg
 984782
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-gold-1000w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/984782/thumbnails/leadex-gold-1000w-d
 9/21/2020 7:48:19 AM 1.057,94 RON
 9/24/2020 1:48:43 PM 1.072,32 RON
 9/25/2020 10:48:09 PM 1.081,23 RON
+9/30/2020 9:00:45 PM 1.074,60 RON

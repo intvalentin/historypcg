@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inizio-fb-red
 1760944
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/inizio-negru-rosu/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1760944/thumbnails/inizio-negru-rosu-b9
 9/21/2020 8:08:00 AM 1.099,99 RON
 9/25/2020 12:20:14 AM 1.099,99 RON
 9/26/2020 1:16:26 PM 1.099,99 RON
+9/30/2020 8:39:03 PM 1.099,99 RON

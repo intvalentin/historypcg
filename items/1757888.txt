@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog-thor-1200p
 1757888
     Product link    
 https://www.pcgarage.ro/surse/asus/rog-thor-1200w-80-plus-platinum-1200w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1757888/thumbnails/rog-thor-1200w-80-pl
 9/21/2020 7:48:27 AM 1.616,64 RON
 9/24/2020 1:11:44 PM 1.646,63 RON
 9/25/2020 10:31:08 PM 1.648,05 RON
+9/30/2020 9:11:51 PM 1.638,06 RON

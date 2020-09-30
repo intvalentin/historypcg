@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-1000 br-ii
 1117648
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/direct12-series-dp-1000-br-ii-80-plus-bronze-1000w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/367655/1117648/thumbnails/direct12-series-dp
 9/21/2020 7:48:15 AM 741,96 RON
 9/24/2020 1:46:39 PM 742,87 RON
 9/25/2020 10:47:24 PM 744,10 RON
+9/30/2020 8:45:11 PM 744,35 RON

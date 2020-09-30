@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vernazza-or
 1408450
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/vernazza-portocaliu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1408450/thumbnails/vernazza-portocal
 9/21/2020 8:07:42 AM 1.599,99 RON
 9/25/2020 8:51:37 AM 1.599,99 RON
 9/26/2020 1:20:53 PM 1.599,99 RON
+9/30/2020 8:54:58 PM 1.599,99 RON

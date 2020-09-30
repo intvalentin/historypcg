@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |focus-gx-1000
 2042098
     Product link    
 https://www.pcgarage.ro/surse/seasonic/focus-gx-80-plus-gold-1000w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2042098/thumbnails/focus-gx-80-plus-gol
 9/21/2020 7:47:03 AM 904,91 RON
 9/24/2020 12:59:20 PM 914,45 RON
 9/25/2020 10:26:40 PM 925,03 RON
+9/30/2020 8:54:29 PM 920,50 RON

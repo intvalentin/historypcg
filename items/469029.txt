@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn-900ns85+
 469029
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/coba-nitrox-nobility-900w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/469029/thumbnails/coba-nitrox-nobility-900
 9/21/2020 7:48:11 AM 670,85 RON
 9/24/2020 1:59:06 PM 679,97 RON
 9/25/2020 10:52:30 PM 685,62 RON
+9/30/2020 8:40:09 PM 681,41 RON

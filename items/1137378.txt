@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg-0750d-g
 1137378
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-dps-g-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088099/1137378/thumbnails/smart-dps-g-80-pl
 9/21/2020 7:48:11 AM 669,80 RON
 9/24/2020 1:42:30 PM 678,91 RON
 9/25/2020 10:45:55 PM 684,55 RON
+9/30/2020 8:39:52 PM 680,34 RON

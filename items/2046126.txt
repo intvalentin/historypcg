@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blue style
 2046126
     Product link    
 https://www.pcgarage.ro/carcase/floston/blue-style/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2046126/thumbnails/blue-style-6fa77d6f4
 9/21/2020 7:48:34 AM 191,05 RON
 9/24/2020 2:05:16 PM 193,65 RON
 9/25/2020 10:53:56 PM 195,30 RON
+9/30/2020 9:23:19 PM 194,35 RON

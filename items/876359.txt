@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020074-eu
 876359
     Product link    
 https://www.pcgarage.ro/surse/corsair/professional-series-platinum-hx1000i/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/876359/thumbnails/professional-series-plat
 9/21/2020 7:46:45 AM 1.232,95 RON
 9/24/2020 1:52:52 PM 1.249,71 RON
 9/25/2020 10:49:36 PM 1.260,37 RON
+9/30/2020 9:06:27 PM 1.254,20 RON

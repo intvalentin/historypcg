@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-tx-650
 1976058
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-tx-650-80-plus-titanium-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976058/thumbnails/prime-tx-750-80-plus
 9/21/2020 7:46:54 AM 1.007,91 RON
 9/24/2020 1:01:24 PM 1.007,91 RON
 9/25/2020 10:27:24 PM 1.007,91 RON
+9/30/2020 8:58:33 PM 1.007,91 RON

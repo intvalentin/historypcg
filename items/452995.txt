@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020008
 452995
     Product link    
 https://www.pcgarage.ro/surse/corsair/ax1200i-digital-atx/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/452995/thumbnails/ax1200i-digital-atx-2b06
 9/21/2020 7:48:27 AM 2.053,72 RON
 9/24/2020 2:01:10 PM 2.070,23 RON
 9/25/2020 10:52:30 PM 2.087,88 RON
+9/30/2020 9:13:45 PM 2.077,67 RON

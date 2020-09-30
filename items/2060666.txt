@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mars-e1
 2060666
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/mars-e1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2060666/thumbnails/mars-e1-20c2005fbf48
 9/21/2020 7:48:40 AM 237,86 RON
 9/24/2020 2:05:16 PM 241,10 RON
 9/25/2020 10:53:56 PM 243,10 RON
+9/30/2020 9:28:08 PM 241,61 RON

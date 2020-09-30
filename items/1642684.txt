@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020179-eu
 1642684
     Product link    
 https://www.pcgarage.ro/surse/corsair/rmx-series-rm750x-2018-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1053670/1642684/thumbnails/rmx-series-rm750x
 9/21/2020 7:46:40 AM 660,71 RON
 9/24/2020 1:15:54 PM 660,71 RON
 9/25/2020 10:32:37 PM 660,71 RON
+9/30/2020 8:37:29 PM 660,71 RON

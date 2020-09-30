@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssr-850tr
 1592814
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-ultra-80-plus-titanium-850-w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1475490/1592814/thumbnails/prime-850-ultra-t
 9/21/2020 7:48:24 AM 1.319,90 RON
 9/24/2020 1:20:02 PM 1.319,90 RON
 9/25/2020 10:34:06 PM 1.319,90 RON
+9/30/2020 9:07:17 PM 1.319,90 RON

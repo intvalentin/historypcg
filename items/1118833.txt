@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs650-afbag1-eu
 1118833
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/v-series-v650-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1052635/1118833/thumbnails/v-series-v650-80-
 9/21/2020 7:48:07 AM 594,83 RON
 9/24/2020 1:46:39 PM 602,92 RON
 9/25/2020 10:47:24 PM 607,93 RON
+9/30/2020 8:28:27 PM 604,20 RON

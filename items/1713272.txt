@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacm750amaab1
 1713272
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/master-gm-series-g750m-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/480523/1713272/thumbnails/gm-series-g650m-65
 9/21/2020 7:48:02 AM 524,62 RON
 9/24/2020 1:13:49 PM 524,62 RON
 9/25/2020 10:31:53 PM 524,62 RON
+9/30/2020 8:15:08 PM 524,62 RON

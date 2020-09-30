@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |argus-m2
 2023802
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/argus-m2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2023802/thumbnails/argus-m2-8f0af2f0dd4
 9/21/2020 7:48:43 AM 324,75 RON
 9/24/2020 2:07:19 PM 329,16 RON
 9/25/2020 10:54:39 PM 331,90 RON
+9/30/2020 9:34:35 PM 329,86 RON

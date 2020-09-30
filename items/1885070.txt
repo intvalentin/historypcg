@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-gp0650-fmg2-eu
 1885070
     Product link    
 https://www.pcgarage.ro/surse/riotoro/enigma-g2-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1885090/1885070/thumbnails/enigma-g2-80-plus
 9/21/2020 7:46:35 AM 551,05 RON
 9/24/2020 1:07:36 PM 551,05 RON
 9/25/2020 10:29:39 PM 551,05 RON
+9/30/2020 8:18:38 PM 551,05 RON

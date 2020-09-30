@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg385vm600005
 2055626
     Product link    
 https://www.pcgarage.ro/carcase/cougar/mx410-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055626/thumbnails/mx410-argb-acaad119a
 9/21/2020 7:48:37 AM 177,33 RON
 9/24/2020 2:58:40 PM 220,99 RON
 9/26/2020 8:21:12 AM 221,49 RON
+9/30/2020 9:25:46 PM 221,25 RON

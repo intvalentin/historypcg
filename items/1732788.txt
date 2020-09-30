@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mezzo-v2-fb-white
 1732788
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/mezzo-v2-fabric-negru-alb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1728700/1732788/thumbnails/mezzo-v2-fabric-n
 9/21/2020 8:08:05 AM 1.349,99 RON
 9/25/2020 12:20:59 AM 1.349,99 RON
 9/26/2020 1:17:10 PM 1.349,99 RON
+9/30/2020 8:51:23 PM 1.349,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1300f14mg
 984797
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-gold-1300w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/984797/thumbnails/leadex-gold-1300w-4
 9/21/2020 7:48:24 AM 1.319,88 RON
 9/24/2020 1:48:43 PM 1.337,83 RON
 9/25/2020 10:48:09 PM 1.348,94 RON
+9/30/2020 9:07:34 PM 1.340,66 RON

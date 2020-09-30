@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020178-eu
 1656928
     Product link    
 https://www.pcgarage.ro/surse/corsair/rmx-series-rm650x-2018-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1053670/1656928/thumbnails/rmx-series-rm650x
 9/21/2020 7:46:40 AM 608,30 RON
 9/24/2020 1:13:49 PM 607,91 RON
 9/25/2020 10:31:53 PM 610,33 RON
+9/30/2020 8:28:44 PM 606,47 RON

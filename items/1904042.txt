@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-v2-wot
 1904042
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-v2-world-of-tanks-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1899326/1904042/thumbnails/verona-v2-world-o
 9/21/2020 8:08:05 AM 1.399,99 RON
 9/25/2020 12:19:29 AM 1.399,99 RON
 9/26/2020 1:15:41 PM 1.399,99 RON
+9/30/2020 8:52:12 PM 1.399,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-0850d
 964138
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-dps-850w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/931142/964138/thumbnails/toughpower-dps-850w
 9/21/2020 7:48:19 AM 969,01 RON
 9/24/2020 1:50:48 PM 982,18 RON
 9/25/2020 10:48:53 PM 990,34 RON
+9/30/2020 8:57:43 PM 984,26 RON

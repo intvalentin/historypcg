@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpd-0750fnfape-1
 2051234
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-pf1-80-plus-platinum-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2051234/thumbnails/sursa-full-modulara-
 9/21/2020 7:47:07 AM 756,57 RON
 9/24/2020 12:59:20 PM 766,85 RON
 9/25/2020 10:26:40 PM 773,22 RON
+9/30/2020 8:46:34 PM 768,48 RON

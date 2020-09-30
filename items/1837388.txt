@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sbx00028
 1837388
     Product link    
 https://www.pcgarage.ro/birouri-gaming/white-shark/ascended/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3582/1837388/thumbnails/ascended-0b39d5390ca
 9/21/2020 8:08:29 AM 1.076,76 RON
 9/25/2020 8:53:44 AM 1.079,86 RON
 9/26/2020 1:23:05 PM 1.080,48 RON
+9/30/2020 9:26:50 PM 1.079,33 RON

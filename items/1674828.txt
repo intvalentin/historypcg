@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-pro-v2-cb
 1674828
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-pro-v2-carbon/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1666176/1674828/thumbnails/verona-pro-v2-car
 9/21/2020 8:07:37 AM 1.449,99 RON
 9/25/2020 12:20:59 AM 1.449,99 RON
 9/26/2020 1:17:10 PM 1.449,99 RON
+9/30/2020 8:53:34 PM 1.449,99 RON

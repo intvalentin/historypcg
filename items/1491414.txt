@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1000f14eg(wh)
 1491414
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-ii-gold-white-80-plus-gold-1000w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1190677/1491414/thumbnails/leadex-ii-gold-wh
 9/21/2020 7:48:19 AM 1.010,02 RON
 9/24/2020 1:22:07 PM 1.023,75 RON
 9/25/2020 10:34:51 PM 1.032,26 RON
+9/30/2020 8:59:22 PM 1.025,92 RON

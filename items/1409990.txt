@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |arena-white
 1409990
     Product link    
 https://www.pcgarage.ro/birouri-gaming/arozzi/arena-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1169071/1409990/thumbnails/arena-white-16383
 9/21/2020 8:08:26 AM 1.679,99 RON
 9/25/2020 8:54:27 AM 1.679,99 RON
 9/26/2020 1:23:51 PM 1.679,99 RON
+9/30/2020 9:31:56 PM 1.679,99 RON

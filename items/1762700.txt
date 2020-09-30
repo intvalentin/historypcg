@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-xfr-bbmfdl-01
 1762700
     Product link    
 https://www.pcgarage.ro/scaune-gaming/tt-esports/x-fit-real-leather-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3442/1762700/thumbnails/tt-esports-x-fit-bla
 9/21/2020 8:08:14 AM 2.699,99 RON
 9/25/2020 12:20:14 AM 2.699,99 RON
 9/26/2020 1:16:26 PM 2.699,99 RON
+9/30/2020 9:11:36 PM 2.699,99 RON

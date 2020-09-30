@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tp-1500m
 366319
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-1500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/366319/thumbnails/toughpower-1500w-a94a350
 9/21/2020 7:48:27 AM 1.698,43 RON
 9/24/2020 2:01:10 PM 1.721,52 RON
 9/25/2020 10:52:30 PM 1.735,82 RON
+9/30/2020 9:12:07 PM 1.725,17 RON

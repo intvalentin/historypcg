@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-v2-bk
 1620310
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-v2-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1578330/1620310/thumbnails/verona-v2-negru-c
 9/21/2020 8:07:32 AM 1.299,99 RON
 9/25/2020 12:21:44 AM 1.299,99 RON
 9/26/2020 1:17:57 PM 1.299,99 RON
+9/30/2020 8:47:02 PM 1.299,99 RON

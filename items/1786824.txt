@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stronghold
 1786824
     Product link    
 https://www.pcgarage.ro/carcase/kolink/stronghold/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1779504/1786824/thumbnails/stronghold-c29341
 9/21/2020 7:48:33 AM 239,99 RON
 9/24/2020 2:13:25 PM 239,99 RON
 9/25/2020 10:56:08 PM 239,99 RON
+9/30/2020 9:27:51 PM 239,99 RON

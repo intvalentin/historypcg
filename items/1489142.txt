@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-1050d-g
 1489142
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-dps-g-80-plus-gold-1050w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427586/1489142/thumbnails/toughpower-dps-g-
 9/21/2020 7:48:24 AM 1.150,03 RON
 9/24/2020 1:24:11 PM 1.165,67 RON
 9/25/2020 10:35:35 PM 1.175,35 RON
+9/30/2020 9:04:30 PM 1.168,14 RON

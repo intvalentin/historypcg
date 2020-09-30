@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgch4ao
 2033590
     Product link    
 https://www.pcgarage.ro/scaune-gaming/canyon/argama-camo/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033590/thumbnails/argama-d4bff27065ce5
 9/21/2020 8:07:51 AM 804,97 RON
 9/25/2020 12:17:59 AM 822,87 RON
 9/26/2020 1:14:13 PM 822,69 RON
+9/30/2020 8:24:58 PM 817,65 RON

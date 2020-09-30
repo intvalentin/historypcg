@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t380578
 1194223
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/dark-power-pro-11-80-plus-platinum-1000w/
@@ -8,3 +8,4 @@ be quiet! Dark Power Pro 11, 80+ Platinum, 1000W
 https://1.grgs.ro/images/products/1/1025736/1194223/thumbnails/dark-power-pro-11-80-plus-platinum-1000w-78352e4b2b797773e7ee1b92a3d2193b.jpg
     Pret    
 9/25/2020 10:45:10 PM 1.312,62 RON
+9/30/2020 9:07:00 PM 1.318,76 RON

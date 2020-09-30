@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-1200p14pe
 813683
     Product link    
 https://www.pcgarage.ro/surse/super-flower/arctic-platinum-sf-1200p14pe/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/498497/813683/thumbnails/arctic-platinum-sf-
 9/21/2020 7:48:24 AM 1.144,71 RON
 9/24/2020 1:52:53 PM 1.160,27 RON
 9/25/2020 10:50:20 PM 1.169,91 RON
+9/30/2020 9:03:58 PM 1.162,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacgcmx700v3
 674724
     Product link    
 https://www.pcgarage.ro/surse/cougar/cmx700-v3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/674724/thumbnails/cmx700-v3-f29f5543d7388a
 9/21/2020 7:48:02 AM 528,76 RON
 9/24/2020 1:57:02 PM 528,76 RON
 9/25/2020 10:51:03 PM 528,76 RON
+9/30/2020 8:15:41 PM 528,76 RON

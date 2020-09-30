@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacgcmx1200v3
 931135
     Product link    
 https://www.pcgarage.ro/surse/cougar/cmx1200-v3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/931135/thumbnails/cmx1000-v3-421b5ff5a26e6
 9/21/2020 7:48:15 AM 875,06 RON
 9/24/2020 1:50:48 PM 875,06 RON
 9/25/2020 10:48:53 PM 875,06 RON
+9/30/2020 8:52:00 PM 875,06 RON

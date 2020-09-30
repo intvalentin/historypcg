@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |argus-m3
 2023806
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/argus-m3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/9002/2023806/thumbnails/argus-m3-f64409acc65
 9/21/2020 7:48:40 AM 285,60 RON
 9/24/2020 2:07:19 PM 289,48 RON
 9/25/2020 10:54:39 PM 291,88 RON
+9/30/2020 9:30:18 PM 290,09 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn-700ns85+
 469025
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/coba-nitrox-nobility-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/469025/thumbnails/nitrox-nobility-700w-373
 9/21/2020 7:47:58 AM 497,99 RON
 9/24/2020 1:59:06 PM 504,76 RON
 9/25/2020 10:52:30 PM 508,96 RON
+9/30/2020 8:12:38 PM 505,83 RON

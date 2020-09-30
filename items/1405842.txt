@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn255
 1405842
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/dark-power-pro-11-80-plus-platinum-1200w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301253/1405842/thumbnails/dark-power-pro-11
 9/21/2020 7:48:24 AM 1.568,09 RON
 9/24/2020 1:28:19 PM 1.549,52 RON
 9/25/2020 10:44:25 PM 1.540,95 RON
+9/30/2020 9:11:02 PM 1.548,09 RON

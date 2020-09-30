@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c102-bk
 1969970
     Product link    
 https://www.pcgarage.ro/scaune-gaming/redragon/metis-bk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1969970/thumbnails/metis-black-dc0532a7
 9/21/2020 8:07:55 AM 949,99 RON
 9/25/2020 12:18:44 AM 949,99 RON
 9/26/2020 1:14:13 PM 949,99 RON
+9/30/2020 8:32:53 PM 949,99 RON

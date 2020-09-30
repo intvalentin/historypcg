@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass400fl2
 472951
     Product link    
 https://www.pcgarage.ro/surse/seasonic/platinum-fanless-400w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/472951/thumbnails/platinum-fanless-400w-c5
 9/21/2020 7:48:11 AM 710,87 RON
 9/24/2020 1:59:06 PM 720,54 RON
 9/25/2020 10:51:46 PM 726,68 RON
+9/30/2020 8:43:02 PM 723,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |et-223
 2063374
     Product link    
 https://www.pcgarage.ro/birouri-gaming/inter-tech/cadru-reglabil-electric-pe-inaltime-et-223/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2063374/thumbnails/cadru-reglabil-elect
 9/21/2020 8:08:26 AM 1.599,99 RON
 9/25/2020 8:53:44 AM 1.599,99 RON
 9/26/2020 1:23:05 PM 1.599,99 RON
+9/30/2020 9:24:55 PM 1.599,99 RON

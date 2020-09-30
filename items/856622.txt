@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agd-1200f
 856622
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/astro-gd-1200w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/856622/thumbnails/astro-gd-1200w-64d2
 9/21/2020 7:48:15 AM 825,84 RON
 9/24/2020 1:52:52 PM 826,84 RON
 9/25/2020 10:49:36 PM 828,23 RON
+9/30/2020 8:49:53 PM 828,50 RON

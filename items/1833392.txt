@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpd-0650fnfage-1
 1833392
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-gf1-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1833392/thumbnails/toughpower-gf1-80-pl
 9/21/2020 7:48:02 AM 540,76 RON
 9/24/2020 1:09:40 PM 548,11 RON
 9/25/2020 10:30:23 PM 552,67 RON
+9/30/2020 8:18:21 PM 549,27 RON

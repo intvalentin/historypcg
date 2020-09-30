@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shard-g-bk-v2
 1954942
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/shard-tg-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1954942/thumbnails/shard-rgb-tempere
 9/21/2020 7:48:43 AM 249,99 RON
 9/24/2020 2:09:21 PM 249,99 RON
 9/25/2020 10:55:22 PM 249,99 RON
+9/30/2020 9:28:39 PM 249,99 RON

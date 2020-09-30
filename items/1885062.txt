@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-gp0850-fmg2-eu
 1885062
     Product link    
 https://www.pcgarage.ro/surse/riotoro/enigma-g2-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885062/thumbnails/enigma-g2-80-plus-go
 9/21/2020 7:46:35 AM 601,05 RON
 9/24/2020 1:07:36 PM 609,22 RON
 9/25/2020 10:29:39 PM 614,29 RON
+9/30/2020 8:29:51 PM 610,51 RON

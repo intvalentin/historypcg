@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-gx-1000
 1976002
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-gx-1000-80-plus-gold-1000w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1976002/thumbnails/prime-gx-1000-80-plu
 9/21/2020 7:45:57 AM 1.103,90 RON
 9/24/2020 12:42:54 PM 1.103,90 RON
 9/25/2020 10:17:19 PM 1.103,90 RON
+9/30/2020 9:01:34 PM 1.097,53 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-850f14mp(bk)
 1491374
     Product link    
 https://www.pcgarage.ro/surse/super-flower/leadex-platinum-black-80-plus-platinum-850w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1491374/thumbnails/leadex-platinum-bl
 9/21/2020 7:48:19 AM 1.053,14 RON
 9/24/2020 1:22:07 PM 1.067,46 RON
 9/25/2020 10:34:51 PM 1.076,33 RON
+9/30/2020 9:00:12 PM 1.069,72 RON

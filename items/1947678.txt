@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1l4-00m1wn-02
 1947678
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/h100-tg/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1947678/thumbnails/h100-tg-6a7d6f2c27c6
 9/21/2020 7:48:36 AM 326,83 RON
 9/24/2020 2:09:21 PM 325,93 RON
 9/25/2020 10:56:08 PM 328,64 RON
+9/30/2020 9:34:02 PM 326,62 RON

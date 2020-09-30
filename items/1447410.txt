@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |milano-rd
 1447410
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/milano-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1025741/1447410/thumbnails/milano-red-bc8f29
 9/21/2020 8:07:41 AM 949,99 RON
 9/25/2020 8:50:53 AM 949,99 RON
 9/26/2020 1:20:09 PM 949,99 RON
+9/30/2020 8:29:24 PM 949,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020195-eu
 1877566
     Product link    
 https://www.pcgarage.ro/surse/corsair/rm750-2019-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1868718/1877566/thumbnails/rm750-2019-80-plu
 9/21/2020 7:46:35 AM 573,75 RON
 9/24/2020 1:07:36 PM 584,49 RON
 9/25/2020 10:29:39 PM 585,22 RON
+9/30/2020 8:24:53 PM 581,59 RON

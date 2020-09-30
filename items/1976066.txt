@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-tx-850
 1976066
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-tx-850-ssr-850tr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1976066/thumbnails/prime-tx-1000-80-plu
 9/21/2020 7:48:24 AM 1.343,91 RON
 9/24/2020 1:01:24 PM 1.343,91 RON
 9/25/2020 10:27:24 PM 1.343,91 RON
+9/30/2020 9:08:06 PM 1.343,91 RON

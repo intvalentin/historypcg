@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |focus-px-850
 1943094
     Product link    
 https://www.pcgarage.ro/surse/seasonic/focus-px-80-plus-platinum-850w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1943094/thumbnails/focus-px-80-plus-pla
 9/21/2020 7:46:40 AM 782,92 RON
 9/24/2020 1:03:27 PM 782,92 RON
 9/25/2020 10:28:09 PM 782,92 RON
+9/30/2020 8:47:24 PM 782,92 RON

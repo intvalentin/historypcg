@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn212
 803205
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/power-zone-80-plus-bronze-850w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/803205/thumbnails/power-zone-80-plus-
 9/21/2020 7:48:15 AM 776,83 RON
 9/24/2020 1:54:57 PM 768,26 RON
 9/25/2020 10:50:20 PM 763,69 RON
+9/30/2020 8:46:18 PM 767,26 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssr-650gd2
 1623230
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-ultra-80-plus-gold-650-w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1623230/thumbnails/prime-ultra-80-pl
 9/21/2020 7:48:11 AM 675,74 RON
 9/24/2020 1:17:58 PM 675,74 RON
 9/25/2020 10:33:21 PM 675,74 RON
+9/30/2020 8:39:35 PM 675,74 RON

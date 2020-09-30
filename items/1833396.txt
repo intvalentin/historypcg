@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpd-0750fnfage-1
 1833396
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-gf1-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5631/1833396/thumbnails/toughpower-gf1-80-pl
 9/21/2020 7:48:07 AM 588,41 RON
 9/24/2020 1:09:40 PM 596,41 RON
 9/25/2020 10:30:23 PM 601,36 RON
+9/30/2020 8:27:21 PM 597,67 RON

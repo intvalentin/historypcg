@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn-800ns85+
 469027
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/coba-nitrox-nobility-800w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/469027/thumbnails/coba-nitrox-nobility-800
 9/21/2020 7:48:07 AM 603,58 RON
 9/24/2020 1:59:06 PM 601,75 RON
 9/25/2020 10:52:30 PM 606,75 RON
+9/30/2020 8:28:10 PM 603,03 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hps-850gd-f14c
 1535695
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/super-gd-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1520902/1535695/thumbnails/super-gd-80-plus-
 9/21/2020 7:48:07 AM 606,47 RON
 9/24/2020 1:20:02 PM 607,21 RON
 9/25/2020 10:34:51 PM 608,23 RON
+9/30/2020 8:29:00 PM 608,43 RON

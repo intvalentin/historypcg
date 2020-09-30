@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpu-750fc
 1923106
     Product link    
 https://www.pcgarage.ro/surse/chieftec/gpu-750fc-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8629/1923106/thumbnails/gpu-750fc-80-plus-go
 9/21/2020 7:48:07 AM 582,90 RON
 9/24/2020 1:05:31 PM 593,79 RON
 9/25/2020 10:28:54 PM 594,51 RON
+9/30/2020 8:25:42 PM 590,88 RON

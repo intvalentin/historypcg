@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020087-eu
 1629258
     Product link    
 https://www.pcgarage.ro/surse/corsair/ax1600i-80-plus-titanium-1600w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3207/1629258/thumbnails/ax1600i-80-plus-tita
 9/21/2020 7:47:03 AM 2.591,96 RON
 9/24/2020 1:15:54 PM 2.639,09 RON
 9/25/2020 10:33:21 PM 2.643,37 RON
+9/30/2020 9:14:02 PM 2.627,66 RON

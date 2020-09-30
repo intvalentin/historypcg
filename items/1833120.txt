@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020188-eu
 1833120
     Product link    
 https://www.pcgarage.ro/surse/corsair/rmx-series-white-rm850x-2018-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1833120/thumbnails/rmx-series-white-rm8
 9/21/2020 7:46:49 AM 777,40 RON
 9/24/2020 1:09:40 PM 788,74 RON
 9/25/2020 10:30:23 PM 792,83 RON
+9/30/2020 8:47:57 PM 787,97 RON

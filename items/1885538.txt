@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aeroengine-rgb-a-bk-v1
 1885538
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/aeroengine-rgb-tempered-glass/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1885090/1885538/thumbnails/carcasa-atx-aeroc
 9/21/2020 7:48:40 AM 189,99 RON
 9/24/2020 2:13:25 PM 189,99 RON
 9/25/2020 10:56:08 PM 189,99 RON
+9/30/2020 9:22:29 PM 189,99 RON

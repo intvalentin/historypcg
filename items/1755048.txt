@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22526
 1755048
     Product link    
 https://www.pcgarage.ro/scaune-gaming/trust/gxt-707b-resto-v2-negru-albastru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1755048/thumbnails/gxt-707r-resto-v2
 9/21/2020 8:07:32 AM 1.319,99 RON
 9/25/2020 12:20:14 AM 1.319,99 RON
 9/26/2020 1:16:26 PM 1.319,99 RON
+9/30/2020 8:48:58 PM 1.319,99 RON

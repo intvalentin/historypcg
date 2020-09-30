@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hero rgb strip tg
 1977806
     Product link    
 https://www.pcgarage.ro/carcase/floston/hero-rgb-strip-tg/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1977806/thumbnails/hero-rgb-strip-tg-
 9/21/2020 7:50:13 AM 176,69 RON
 9/24/2020 2:09:21 PM 179,09 RON
 9/25/2020 10:55:22 PM 180,61 RON
+9/30/2020 9:21:25 PM 179,73 RON

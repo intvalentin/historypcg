@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc254
 2004702
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/armis-ar6/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2004702/thumbnails/armis-ar6-70f6272
 9/21/2020 7:48:33 AM 206,66 RON
 9/24/2020 2:05:16 PM 206,92 RON
 9/25/2020 10:53:56 PM 207,26 RON
+9/30/2020 9:23:51 PM 207,34 RON
