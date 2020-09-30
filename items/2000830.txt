@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-3035-02, hm191513
 2000830
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/stealth-600-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/2000830/thumbnails/stealth-600p-whit
 9/21/2020 8:01:41 AM 495,98 RON
 9/24/2020 7:24:19 PM 495,98 RON
 9/26/2020 10:27:42 AM 495,98 RON
+9/30/2020 11:28:01 AM 495,98 RON

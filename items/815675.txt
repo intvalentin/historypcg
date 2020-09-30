@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mo-vls-wdlobk-01
 815675
     Product link    
 https://www.pcgarage.ro/mouse-gaming/tt-esports/tt-esports-volos-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/815230/815675/thumbnails/volos-black-fb5632a
 9/21/2020 7:59:56 AM 289,99 RON
 9/24/2020 7:07:37 PM 289,99 RON
 9/26/2020 10:09:23 AM 289,99 RON
+9/30/2020 8:32:28 AM 289,99 RON

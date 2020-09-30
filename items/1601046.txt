@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc1-bk
 1601046
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/orico/sc1-usb/
@@ -8,3 +8,4 @@ Orico SC1 USB
 https://3.grgs.ro/images/products/1/1500686/1601046/thumbnails/sc1-usb-4cb7c16989ebd3bb5745e5a584a0001f.jpg
     Pret    
 9/26/2020 9:59:56 AM 43,17 RON
+9/29/2020 10:58:05 PM 42,97 RON

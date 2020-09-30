@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdped1d480gax1
 1626234
     Product link    
 https://www.pcgarage.ro/ssd/intel/optane-ssd-900p-series-480gb-pci-express-gen3-x4-half-height/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5633/1626234/thumbnails/optane-ssd-900p-seri
 9/21/2020 7:44:55 AM 3.038,98 RON
 9/24/2020 11:14:24 AM 3.080,29 RON
 9/25/2020 10:06:21 PM 3.105,88 RON
+9/30/2020 3:06:39 PM 3.091,34 RON

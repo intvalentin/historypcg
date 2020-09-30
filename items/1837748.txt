@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvs432g320c6k
 1837748
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-steel-32gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1837748/thumbnails/viper-steel-16gb-ddr
 9/21/2020 7:37:44 AM 549,44 RON
 9/24/2020 8:51:03 AM 581,16 RON
 9/25/2020 8:58:49 PM 591,65 RON
+9/29/2020 9:44:11 PM 591,93 RON

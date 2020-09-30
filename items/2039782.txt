@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc267
 2039782
     Product link    
 https://www.pcgarage.ro/surse/SilentiumPC/vero-l3-80-plus-bronze-700w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039782/thumbnails/vero-l3-80-plus-b
 9/21/2020 7:45:41 AM 295,13 RON
 9/24/2020 12:34:42 PM 295,49 RON
 9/25/2020 10:17:19 PM 295,99 RON
+9/30/2020 4:38:48 PM 296,08 RON

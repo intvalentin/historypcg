@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl-1080w
 1619202
     Product link    
 https://www.pcgarage.ro/surse/segotep/kl-1080w-80-plus-platinum-1080w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1605610/1619202/thumbnails/kl-850w-80-plus-p
 9/21/2020 7:46:31 AM 1.104,46 RON
 9/24/2020 12:49:06 PM 1.119,47 RON
 9/25/2020 10:22:21 PM 1.128,77 RON
+9/30/2020 5:53:03 PM 1.121,84 RON

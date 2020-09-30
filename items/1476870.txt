@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwn160uzsva
 1476870
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/n300-6tb-sata-iii-7200rpm-128mb-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355324/1476870/thumbnails/n300-6tb-sata-iii
 9/21/2020 7:45:29 AM 890,86 RON
 9/24/2020 12:30:36 PM 893,34 RON
 9/25/2020 10:15:09 PM 894,38 RON
+9/30/2020 4:16:55 PM 892,82 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpe-7001-acabw-eu
 1971146
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/mwe-700-white-v2-80-plus-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1971146/thumbnails/mwe-700-white-v2-80-
 9/21/2020 7:46:01 AM 339,09 RON
 9/24/2020 12:42:54 PM 337,17 RON
 9/25/2020 10:20:14 PM 333,34 RON
+9/30/2020 5:22:58 PM 334,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX H370-F GAMING
 1674772
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-h370-f-gaming/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1674772/thumbnails/rog-strix-h370-f-
 9/21/2020 7:36:55 AM 771,21 RON
 9/23/2020 10:26:20 PM 779,34 RON
 9/25/2020 8:43:26 PM 788,35 RON
+9/29/2020 5:32:20 PM 787,32 RON

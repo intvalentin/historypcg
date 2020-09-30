@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwd240uzsva
 2062606
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/hdd-toshiba-p300-4tb-5400rpm-128mb-sata-iii-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2062606/thumbnails/p300-4tb-sata-iii-54
 9/21/2020 7:45:24 AM 421,39 RON
 9/24/2020 12:24:25 PM 425,83 RON
 9/25/2020 10:12:56 PM 430,75 RON
+9/30/2020 4:08:25 PM 428,65 RON

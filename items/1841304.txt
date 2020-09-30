@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw128gx4m8x3600c18
 1841304
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-128gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1841304/thumbnails/vengeance-rgb-pro
 9/21/2020 7:42:06 AM 7.673,73 RON
 9/24/2020 8:51:03 AM 7.754,63 RON
 9/25/2020 9:21:02 PM 7.844,35 RON
+9/30/2020 11:00:43 AM 7.834,05 RON

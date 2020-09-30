@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdssda-1t00-g26
 1746612
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/ssd-plus-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5286/1746612/thumbnails/sandisk-ssd-plus-120
 9/21/2020 7:44:31 AM 605,88 RON
 9/24/2020 11:08:09 AM 602,30 RON
 9/25/2020 10:04:06 PM 595,54 RON
+9/30/2020 2:20:20 PM 590,10 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpc-500s
 1300308
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-gpc-500s-500w-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/634551/1300308/thumbnails/iarena-series-350w
 9/21/2020 7:46:23 AM 220,31 RON
 9/24/2020 1:40:25 PM 224,44 RON
 9/25/2020 10:45:10 PM 224,73 RON
+9/30/2020 6:24:10 PM 223,26 RON

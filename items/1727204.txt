@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253tr250g3c313
 1727204
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/t-force-delta-rgb-black-250gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8674/1727204/thumbnails/t-force-delta-rgb-25
 9/21/2020 7:43:06 AM 277,34 RON
 9/24/2020 10:28:54 AM 280,59 RON
 9/25/2020 9:51:27 PM 282,88 RON
+9/30/2020 11:55:12 AM 283,02 RON

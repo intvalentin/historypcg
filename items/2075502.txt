@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx424c15fb3a+-+32
 2075502
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-32gb-ddr4-2400mhz-cl15/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/2075502/thumbnails/fury-rgb-8gb-ddr4-32
 9/21/2020 7:39:33 AM 764,48 RON
 9/23/2020 11:08:48 PM 773,18 RON
 9/25/2020 8:52:12 PM 779,66 RON
+9/29/2020 10:01:27 PM 779,94 RON

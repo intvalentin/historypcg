@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-4000c19d-32gtzsw
 1879858
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-silver-32gb-ddr4-4000mhz-cl19-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1879858/thumbnails/trident-z-silver-
 9/21/2020 7:41:40 AM 1.356,61 RON
 9/24/2020 8:44:49 AM 1.434,20 RON
 9/25/2020 9:18:48 PM 1.446,52 RON
+9/30/2020 10:23:58 AM 1.506,73 RON

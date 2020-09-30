@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-v7p1t0bw
 1695640
     Product link    
 https://www.pcgarage.ro/ssd/samsung/970-pro-series-1tb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1684696/1695640/thumbnails/970-pro-series-1t
 9/21/2020 7:42:53 AM 1.805,32 RON
 9/24/2020 10:28:54 AM 1.794,90 RON
 9/25/2020 9:51:27 PM 1.774,04 RON
+9/30/2020 12:53:13 PM 1.758,40 RON

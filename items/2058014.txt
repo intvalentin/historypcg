@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-H310TN
 2058014
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-h310tn/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2058014/thumbnails/ga-h310tn-69483a0e72
 9/21/2020 7:36:46 AM 507,85 RON
 9/23/2020 7:33:13 PM 514,75 RON
 9/25/2020 8:35:56 PM 519,03 RON
+9/29/2020 5:10:58 PM 518,46 RON

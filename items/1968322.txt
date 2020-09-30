@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp001tbp34a60m28
 1968322
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/p34a60-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1261/1968322/thumbnails/p34a60-1tb-pci-expre
 9/21/2020 7:43:19 AM 620,02 RON
 9/24/2020 9:55:08 AM 627,06 RON
 9/25/2020 9:46:20 PM 633,03 RON
+9/30/2020 12:32:32 PM 633,16 RON

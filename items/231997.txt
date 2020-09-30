@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |senlxe-001
 231997
     Product link    
 https://www.pcgarage.ro/fan-controllere/nzxt/sentry-lxe/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/231997/thumbnails/sentry-lxe-72eaa036f8e0a
 9/21/2020 7:58:32 AM 362,24 RON
 9/24/2020 6:48:51 PM 370,29 RON
 9/26/2020 9:50:25 AM 370,21 RON
+9/29/2020 9:30:28 PM 368,48 RON

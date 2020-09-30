@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3466c16q-64gtzsw
 1713236
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-silver-64gb-ddr4-3466mhz-cl16-135v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1703884/1713236/thumbnails/trident-z-silver-
 9/21/2020 7:39:42 AM 1.561,47 RON
 9/23/2020 11:37:44 PM 1.579,26 RON
 9/25/2020 9:02:29 PM 1.591,58 RON
+9/29/2020 10:26:00 PM 1.644,95 RON

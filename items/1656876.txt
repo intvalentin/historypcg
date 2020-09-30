@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z370M DS3H
 1656876
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z370m-ds3h/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/530/1656876/thumbnails/z370m-ds3h-d5f157c5f0
 9/21/2020 7:36:46 AM 483,70 RON
 9/23/2020 10:28:24 PM 486,11 RON
 9/25/2020 8:44:11 PM 491,74 RON
+9/29/2020 5:09:02 PM 491,08 RON

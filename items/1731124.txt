@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpw-5001-acabn1-eu
 1731124
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/elite-v3-80-plus-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/1731124/thumbnails/elite-v3-80-plus-500
 9/21/2020 7:46:40 AM 214,70 RON
 9/24/2020 1:13:49 PM 212,34 RON
 9/25/2020 10:31:53 PM 211,16 RON
+9/30/2020 6:22:00 PM 212,04 RON

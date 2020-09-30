@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_hg8960
 2072278
     Product link    
 https://www.pcgarage.ro/casti-gaming/marvo/hg8960/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2072278/thumbnails/hg8960-22590513230dd
 9/21/2020 8:01:19 AM 108,54 RON
 9/24/2020 7:22:51 PM 117,98 RON
 9/26/2020 10:26:57 AM 117,98 RON
+9/30/2020 10:24:09 AM 107,08 RON

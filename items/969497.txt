@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass430st
 969497
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ssr-430st-430w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/969497/thumbnails/ssr-430st-430w-4290
 9/21/2020 7:47:21 AM 209,96 RON
 9/24/2020 1:50:48 PM 209,96 RON
 9/25/2020 10:48:53 PM 209,96 RON
+9/30/2020 6:20:53 PM 209,96 RON

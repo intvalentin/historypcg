@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |de530
 1051647
     Product link    
 https://www.pcgarage.ro/surse/deepcool/de530-530w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/782584/1051647/thumbnails/de530-530w-69fdfff
 9/21/2020 7:47:17 AM 151,43 RON
 9/24/2020 1:48:43 PM 153,49 RON
 9/25/2020 10:48:09 PM 154,77 RON
+9/30/2020 6:04:28 PM 153,82 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000nm0235
 1535359
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/enterprise-capacity-6tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457334/1535359/thumbnails/exos-capacity-6tb
 9/21/2020 7:45:29 AM 1.116,67 RON
 9/24/2020 12:28:32 PM 1.131,86 RON
 9/25/2020 10:15:08 PM 1.141,51 RON
+9/30/2020 4:22:02 PM 1.135,92 RON

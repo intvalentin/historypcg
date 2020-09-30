@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog-strix-550g
 2049922
     Product link    
 https://www.pcgarage.ro/surse/asus/rog-strix-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2049922/thumbnails/rog-strix-80-plus
 9/21/2020 7:45:57 AM 559,81 RON
 9/24/2020 12:38:48 PM 566,20 RON
 9/25/2020 10:18:45 PM 570,99 RON
+9/30/2020 5:42:16 PM 567,51 RON

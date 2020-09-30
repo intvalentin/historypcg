@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds100t2b0c
 1988090
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-sn550-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1977958/1988090/thumbnails/blue-sn550-250gb-
 9/21/2020 7:43:38 AM 644,03 RON
 9/24/2020 10:55:41 AM 635,26 RON
 9/25/2020 9:59:39 PM 640,54 RON
+9/30/2020 2:25:08 PM 640,68 RON

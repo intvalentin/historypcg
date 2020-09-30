@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gstfs30512gttd
 1702400
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/ud-pro-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692296/1702400/thumbnails/ud-pro-512gb-sata
 9/21/2020 7:44:16 AM 352,54 RON
 9/24/2020 11:10:13 AM 357,33 RON
 9/25/2020 10:04:51 PM 360,30 RON
+9/30/2020 1:51:49 PM 358,61 RON

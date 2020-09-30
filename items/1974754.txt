@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt32gx4m2k4000c19
 1974754
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-32gb-ddr4-4000mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1804216/1974754/thumbnails/dominator-platinu
 9/21/2020 7:38:45 AM 2.547,05 RON
 9/23/2020 11:15:01 PM 2.573,90 RON
 9/25/2020 8:55:10 PM 2.679,74 RON
+9/29/2020 10:31:40 PM 2.676,22 RON

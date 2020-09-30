@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2-rd
 1867618
     Product link    
 https://www.pcgarage.ro/casti-gaming/somic/senicc-a2-black-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1867618/thumbnails/a2-black-red-b7ffd9e
 9/21/2020 8:01:14 AM 89,99 RON
 9/24/2020 7:25:46 PM 89,99 RON
 9/26/2020 10:29:11 AM 89,99 RON
+9/30/2020 11:40:12 AM 89,99 RON

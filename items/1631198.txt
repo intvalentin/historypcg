@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m716-bk
 1631198
     Product link    
 https://www.pcgarage.ro/mouse-gaming/redragon/inquisitor-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1631198/thumbnails/redragon-inquisit
 9/21/2020 8:00:18 AM 94,99 RON
 9/24/2020 7:09:48 PM 94,99 RON
 9/26/2020 10:11:37 AM 94,99 RON
+9/30/2020 8:45:42 AM 94,99 RON

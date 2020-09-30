@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B250M-PLUS
 1440078
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b250m-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301253/1440078/thumbnails/prime-b250m-plus-
 9/21/2020 7:36:41 AM 461,98 RON
 9/23/2020 10:54:28 PM 466,85 RON
 9/25/2020 8:46:25 PM 472,25 RON
+9/29/2020 5:06:55 PM 471,62 RON

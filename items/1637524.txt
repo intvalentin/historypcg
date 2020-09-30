@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpx-4501-amaab
 1637524
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/masterwatt-450-80-plus-bronze-450w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1637524/thumbnails/masterwatt-450-80
 9/21/2020 7:47:03 AM 331,19 RON
 9/24/2020 1:15:54 PM 335,69 RON
 9/25/2020 10:32:37 PM 338,48 RON
+9/30/2020 7:11:43 PM 336,40 RON

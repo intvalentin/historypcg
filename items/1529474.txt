@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME B350M-E
 1529474
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-b350m-e/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427582/1529474/thumbnails/mb-asus-amd-am4-p
 9/21/2020 7:36:37 AM 399,73 RON
 9/23/2020 10:30:27 PM 403,95 RON
 9/25/2020 8:44:56 PM 408,61 RON
+9/29/2020 4:58:27 PM 408,08 RON

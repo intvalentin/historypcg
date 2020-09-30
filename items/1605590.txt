@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |70sb173000000
 1605590
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/creative/sound-blaster-play-3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1505170/1605590/thumbnails/soud-blaster-play
 9/21/2020 7:59:20 AM 108,26 RON
 9/24/2020 6:58:19 PM 108,26 RON
 9/26/2020 9:59:56 AM 108,26 RON
+9/29/2020 10:38:24 PM 108,26 RON

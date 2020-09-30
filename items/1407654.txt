@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000dm004
 1407654
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-pro-6tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1000151/1407654/thumbnails/barracuda-pro-6tb
 9/21/2020 7:45:33 AM 1.124,01 RON
 9/24/2020 12:30:36 PM 1.139,29 RON
 9/25/2020 10:15:53 PM 1.149,01 RON
+9/30/2020 4:22:18 PM 1.143,38 RON

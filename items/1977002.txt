@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgs02-us
 1977002
     Product link    
 https://www.pcgarage.ro/kit-gaming/canyon/cnd-sgs02-us/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6472/1977002/thumbnails/nightflyer-e2eb2b4e7
 9/24/2020 7:51:29 PM 221,29 RON
 9/24/2020 11:35:45 PM 221,29 RON
 9/26/2020 10:48:30 AM 221,25 RON
+9/30/2020 1:55:06 PM 220,21 RON

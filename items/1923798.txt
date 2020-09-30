@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23289
 1923798
     Product link    
 https://www.pcgarage.ro/kit-gaming/trust/trust-gxt838-azor-combo/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/8629/1923798/thumbnails/gxt-838-azor-combo-3
 9/24/2020 7:51:29 PM 107,77 RON
 9/24/2020 11:35:45 PM 107,77 RON
 9/26/2020 10:48:30 AM 107,94 RON
+9/30/2020 1:53:27 PM 107,91 RON

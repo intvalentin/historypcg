@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2666c15d-16gvr
 1747648
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-16gb-ddr4-2666mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1747648/thumbnails/ripjaws-v-16gb-dd
 9/21/2020 7:39:19 AM 402,18 RON
 9/23/2020 11:33:36 PM 406,67 RON
 9/25/2020 9:01:00 PM 410,18 RON
+9/29/2020 9:17:08 PM 410,18 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490-A PRO
 2066290
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/z490-a-pro/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2066290/thumbnails/z490-a-pro-1dae26e86
 9/21/2020 7:36:55 AM 781,72 RON
 9/23/2020 7:31:10 PM 790,57 RON
 9/25/2020 8:35:12 PM 797,31 RON
+9/29/2020 5:34:00 PM 797,44 RON

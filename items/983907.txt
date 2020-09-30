@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts64gmts600
 983907
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts600-64gb-m2-2260/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/843505/983907/thumbnails/mts600-64gb-m2-2260
 9/21/2020 7:44:11 AM 321,41 RON
 9/24/2020 11:20:38 AM 325,05 RON
 9/25/2020 10:08:36 PM 327,89 RON
+9/30/2020 1:45:57 PM 327,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4110005
 1988338
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/trials-of-mana-pentru-nintendo-switch/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1979534/1988338/thumbnails/trials-of-mana-pe
 9/24/2020 7:56:42 PM 244,98 RON
 9/24/2020 11:40:58 PM 244,98 RON
 9/26/2020 10:53:45 AM 244,98 RON
+9/30/2020 6:04:32 PM 244,98 RON

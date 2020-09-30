@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p300p128gm28
 2069302
     Product link    
 https://www.pcgarage.ro/ssd/patriot/pt-ssd-128gb-m2-2280-p300p128gm28/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/9943/2069302/thumbnails/p300-128gb-pci-expre
 9/21/2020 7:43:01 AM 113,29 RON
 9/24/2020 10:47:22 AM 113,86 RON
 9/25/2020 9:55:56 PM 115,17 RON
+9/30/2020 11:30:28 AM 115,03 RON

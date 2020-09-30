@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx434c17fb3ak2+-+64
 2075142
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-64gb-ddr4-3466mhz-cl17-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/2075142/thumbnails/fury-rgb-16gb-ddr4-3
 9/21/2020 7:41:49 AM 1.796,98 RON
 9/24/2020 12:04:40 AM 1.817,50 RON
 9/25/2020 9:12:03 PM 1.832,56 RON
+9/30/2020 10:32:17 AM 1.832,56 RON

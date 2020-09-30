@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k506-bk
 1265309
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/redragon/centaur-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/472405/1265309/thumbnails/redragon-centaur-b
 9/24/2020 7:50:47 PM 189,99 RON
 9/24/2020 11:35:01 PM 189,99 RON
 9/26/2020 10:47:45 AM 189,99 RON
+9/30/2020 1:19:09 PM 189,99 RON

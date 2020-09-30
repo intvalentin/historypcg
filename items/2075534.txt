@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c16fb3ak4+-+128
 2075534
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-128gb-ddr4-3000mhz-cl16-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2075534/thumbnails/fury-rgb-128gb-ddr4-
 9/21/2020 7:41:59 AM 3.285,08 RON
 9/24/2020 12:02:35 AM 3.323,40 RON
 9/25/2020 9:11:18 PM 3.350,77 RON
+9/30/2020 10:51:15 AM 3.352,14 RON

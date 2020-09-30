@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthk500800
 1982490
     Product link    
 https://www.pcgarage.ro/ssd/lacie/portable-500gb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1779504/1982490/thumbnails/portable-1tb-usb-
 9/21/2020 7:43:14 AM 501,88 RON
 9/24/2020 9:51:01 AM 504,37 RON
 9/25/2020 9:45:36 PM 510,21 RON
+9/30/2020 12:21:35 PM 509,54 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix z490-g gaming
 2037778
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-z490-g-gaming/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2037778/thumbnails/rog-strix-z490-g-gam
 9/21/2020 7:37:09 AM 1.402,83 RON
 9/23/2020 7:35:17 PM 1.409,85 RON
 9/25/2020 8:36:41 PM 1.426,16 RON
+9/29/2020 6:43:05 PM 1.424,27 RON

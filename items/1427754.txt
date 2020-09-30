@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sfx-250vs
 1427754
     Product link    
 https://www.pcgarage.ro/surse/chieftec/smart-series-sfx-250vs-250w-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1263508/1427754/thumbnails/smart-series-sfx-
 9/21/2020 7:47:17 AM 193,16 RON
 9/24/2020 1:28:19 PM 196,70 RON
 9/25/2020 10:44:25 PM 196,99 RON
+9/30/2020 4:58:57 PM 195,81 RON

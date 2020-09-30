@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dlp-23ms
 1081394
     Product link    
 https://www.pcgarage.ro/surse/delux/dlp-23ms-450w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862955/1081394/thumbnails/dlp-23ms-450w-4aae
 9/21/2020 7:47:03 AM 68,93 RON
 9/24/2020 1:46:39 PM 69,87 RON
 9/25/2020 10:47:24 PM 70,45 RON
+9/30/2020 5:56:05 PM 70,01 RON

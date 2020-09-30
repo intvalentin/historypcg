@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt64gx4m4c3200c16
 1841288
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-64gb-ddr4-3200mhz-cl16-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1804216/1841288/thumbnails/dominator-platinu
 9/21/2020 7:41:49 AM 1.832,42 RON
 9/24/2020 8:51:03 AM 1.852,95 RON
 9/25/2020 9:21:02 PM 1.868,00 RON
+9/30/2020 10:33:38 AM 1.869,37 RON

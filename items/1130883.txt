@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-045000a-bu01a
 1130883
     Product link    
 https://www.pcgarage.ro/surse/rpc/450w-atx-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/849800/1130883/thumbnails/450w-atx-71fff8dd4
 9/21/2020 7:47:07 AM 60,55 RON
 9/24/2020 1:44:34 PM 61,37 RON
 9/25/2020 10:46:40 PM 61,88 RON
+9/30/2020 5:55:00 PM 61,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020210-eu
 1985646
     Product link    
 https://www.pcgarage.ro/surse/corsair/cv550-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1985646/thumbnails/cv550-80-plus-bron
 9/21/2020 7:46:31 AM 271,11 RON
 9/24/2020 1:01:24 PM 273,97 RON
 9/25/2020 10:27:24 PM 277,15 RON
+9/30/2020 6:47:58 PM 277,15 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mp-dsh-blksxs-01
 1441634
     Product link    
 https://www.pcgarage.ro/mouse-pad/tt-esports/dasher-2016-new-edition-extended/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1441634/thumbnails/dasher-2016-new-e
 9/21/2020 8:00:42 AM 129,98 RON
 9/24/2020 7:16:22 PM 133,98 RON
 9/26/2020 10:19:36 AM 133,98 RON
+9/30/2020 9:51:14 AM 131,98 RON

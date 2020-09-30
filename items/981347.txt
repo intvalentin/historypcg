@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk8gx4m2a2400c14
 981347
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-8gb-ddr4-2400mhz-cl14-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/981347/thumbnails/vengeance-lpx-black
 9/21/2020 7:38:03 AM 225,74 RON
 9/23/2020 11:52:14 PM 228,43 RON
 9/25/2020 9:07:36 PM 230,27 RON
+9/29/2020 8:44:32 PM 230,41 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpc-600s
 1300322
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-gpc-600s-600w-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/1300322/thumbnails/iarena-series-350w
 9/21/2020 7:46:54 AM 273,43 RON
 9/24/2020 1:40:25 PM 274,46 RON
 9/25/2020 10:45:10 PM 270,63 RON
+9/30/2020 6:42:35 PM 264,58 RON

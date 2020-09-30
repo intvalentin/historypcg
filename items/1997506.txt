@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr-807i
 1997506
     Product link    
 https://www.pcgarage.ro/mouse-gaming/riotoro/nadix-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/1997506/thumbnails/nadix-rgb-5a81011
 9/21/2020 8:00:00 AM 209,98 RON
 9/24/2020 7:05:25 PM 215,98 RON
 9/26/2020 10:07:10 AM 215,98 RON
+9/30/2020 8:28:26 AM 213,98 RON

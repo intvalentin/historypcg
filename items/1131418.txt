@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-atx-600z-ppfc
 1131418
     Product link    
 https://www.pcgarage.ro/surse/spire/pearl-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/931142/1131418/thumbnails/pearl-600-600w-537
 9/21/2020 7:47:12 AM 117,52 RON
 9/24/2020 1:44:34 PM 119,12 RON
 9/25/2020 10:46:40 PM 120,11 RON
+9/30/2020 6:01:14 PM 119,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-m2-bl
 1678284
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/gamdias/hermes-m2-optical-mecanica/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1664836/1678284/thumbnails/hermes-m2-optical
 9/24/2020 7:45:36 PM 439,98 RON
 9/24/2020 11:29:52 PM 439,98 RON
 9/26/2020 10:42:33 AM 439,98 RON
+9/30/2020 12:57:32 PM 437,98 RON

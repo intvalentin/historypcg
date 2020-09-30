@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-s400u-240-60
 2023478
     Product link    
 https://www.pcgarage.ro/ssd/goodram/s400u-240gb-sata-iii-m2-2260/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2023478/thumbnails/s400u-240gb-sata-iii
 9/21/2020 7:44:07 AM 244,95 RON
 9/24/2020 10:53:36 AM 243,46 RON
 9/25/2020 9:58:54 PM 240,76 RON
+9/30/2020 1:29:31 PM 238,60 RON

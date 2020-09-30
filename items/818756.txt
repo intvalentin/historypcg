@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn227
 818756
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/sfx-power-2-400w/
@@ -8,3 +8,4 @@ be quiet! SFX Power 2 400W
 https://1.grgs.ro/images/products/1/634551/818756/thumbnails/sfx-power-2-400w-47d8bfc9a97ab35393c852b11f13f2d5.jpg
     Pret    
 9/25/2020 10:25:11 PM 351,78 RON
+9/30/2020 5:25:09 PM 353,41 RON

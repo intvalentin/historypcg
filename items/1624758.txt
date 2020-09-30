@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn281
 1624758
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/straight-power-11-550w-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5633/1624758/thumbnails/straight-power-11-55
 9/21/2020 7:46:14 AM 591,75 RON
 9/24/2020 12:49:06 PM 585,08 RON
 9/25/2020 10:33:21 PM 582,75 RON
+9/30/2020 5:41:10 PM 550,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-d200(standard)+-+960g
 2027014
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/d200-960gb-sata-iii-25-in/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2027014/thumbnails/ssd-d100standard-480
 9/21/2020 7:43:28 AM 1.605,71 RON
 9/24/2020 9:46:53 AM 1.622,63 RON
 9/25/2020 9:44:08 PM 1.641,40 RON
+9/30/2020 12:52:39 PM 1.633,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |irp-ssdpr-s25c-01t
 1976602
     Product link    
 https://www.pcgarage.ro/ssd/goodram/irdm-pro-gen-2-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976602/thumbnails/irdm-pro-gen2-1tb-sa
 9/21/2020 7:43:47 AM 685,22 RON
 9/24/2020 10:57:45 AM 681,10 RON
 9/25/2020 10:00:24 PM 673,53 RON
+9/30/2020 2:28:34 PM 667,29 RON

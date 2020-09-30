@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r001d408gx1-2400c17a
 1968170
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/m-one-8gb-ddr4-2400mhz-cl17/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1968170/thumbnails/m-one-8gb-ddr4-2666m
 9/21/2020 7:40:32 AM 173,71 RON
 9/24/2020 8:36:30 AM 176,07 RON
 9/25/2020 9:15:47 PM 177,54 RON
+9/29/2020 11:22:13 PM 176,71 RON

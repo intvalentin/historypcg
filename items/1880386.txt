@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-4000c18d-16gtzsw
 1880386
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-silver-16gb-ddr4-4000mhz-cl18-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1880386/thumbnails/trident-z-silver-
 9/21/2020 7:39:24 AM 585,70 RON
 9/23/2020 11:23:16 PM 592,33 RON
 9/25/2020 8:57:22 PM 597,30 RON
+9/29/2020 9:46:24 PM 616,90 RON

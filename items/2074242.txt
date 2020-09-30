@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct500p2ssd8
 2074242
     Product link    
 https://www.pcgarage.ro/ssd/crucial/ssd-m2-2280-500gb-p2-ct500p2ssd8-crucial/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4525/2074242/thumbnails/p2-500gb-pci-express
 9/21/2020 7:43:10 AM 334,59 RON
 9/24/2020 9:44:48 AM 338,12 RON
 9/25/2020 9:42:41 PM 335,98 RON
+9/30/2020 12:04:12 PM 335,54 RON

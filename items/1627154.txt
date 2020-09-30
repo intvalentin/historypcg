@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp1250g
 1627154
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp1250g-80-plus-gold-1150w-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3207/1627154/thumbnails/gp1250g-80-plus-gold
 9/21/2020 7:46:31 AM 1.042,20 RON
 9/24/2020 12:49:06 PM 1.056,37 RON
 9/25/2020 10:22:21 PM 1.065,15 RON
+9/30/2020 5:51:58 PM 1.058,61 RON

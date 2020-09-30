@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr2-2g800-b
 60637
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/2gb-ddr2-800-mhz-ze-ddr2-2g800-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/60637/thumbnails/ddr0202.jpeg
 9/21/2020 7:37:23 AM 59,99 RON
 9/24/2020 9:30:36 AM 65,98 RON
 9/25/2020 9:39:51 PM 66,53 RON
+9/29/2020 10:34:41 PM 66,22 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mocg250mwh
 1162579
     Product link    
 https://www.pcgarage.ro/mouse-gaming/cougar/250m-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1162579/thumbnails/250m-white-bc0220
 9/21/2020 8:00:18 AM 119,98 RON
 9/24/2020 7:04:41 PM 95,98 RON
 9/26/2020 10:06:25 AM 95,98 RON
+9/30/2020 8:47:52 AM 119,98 RON

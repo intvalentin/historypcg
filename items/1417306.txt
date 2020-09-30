@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1gc109901004
 1417306
     Product link    
 https://www.pcgarage.ro/placi-de-captura/elgato/game-capture-hd60-s/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1000151/1417306/thumbnails/game-capture-hd60
 9/21/2020 7:59:27 AM 955,68 RON
 9/24/2020 7:00:25 PM 956,83 RON
 9/26/2020 10:02:04 AM 958,43 RON
+9/29/2020 11:06:35 PM 958,10 RON

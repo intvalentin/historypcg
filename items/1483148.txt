@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rocat_lua, roc-11-310
 1483148
     Product link    
 https://www.pcgarage.ro/mouse-gaming/roccat/lua-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1457254/1483148/thumbnails/lua-e36e301b73880
 9/21/2020 7:59:37 AM 89,99 RON
 9/24/2020 7:03:58 PM 89,99 RON
 9/26/2020 10:05:41 AM 89,99 RON
+9/29/2020 11:14:09 PM 89,99 RON

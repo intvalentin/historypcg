@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwd105uzsva
 1452562
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/p300-500gb-sata-iii-7200-rpm-64mb-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1000151/1452562/thumbnails/p300-500gb-sata-i
 9/21/2020 7:45:19 AM 185,58 RON
 9/24/2020 12:30:36 PM 188,10 RON
 9/25/2020 10:15:09 PM 189,66 RON
+9/30/2020 4:00:08 PM 188,77 RON

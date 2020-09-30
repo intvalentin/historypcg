@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx313c9f+-+8
 825794
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/hyperx-fury-blue-8gb-ddr3-1333-mhz-cl9/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/825794/thumbnails/hyperx-fury-blue-8g
 9/21/2020 7:39:00 AM 194,73 RON
 9/23/2020 11:54:18 PM 196,99 RON
 9/25/2020 9:08:20 PM 198,55 RON
+9/30/2020 7:59:53 AM 198,69 RON

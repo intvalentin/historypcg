@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf7d416g3466hc16cdc01
 1789144
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-night-hawk-legend-rgb-16gb-ddr4-3466mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6440/1789144/thumbnails/t-force-night-hawk-l
 9/21/2020 7:39:28 AM 698,77 RON
 9/23/2020 11:29:28 PM 706,78 RON
 9/25/2020 8:59:33 PM 712,71 RON
+9/29/2020 9:54:57 PM 712,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ecssd960gx150
 1986330
     Product link    
 https://www.pcgarage.ro/ssd/emtec/x150-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/1986330/thumbnails/ssd-sata25-quot-9
 9/21/2020 7:43:19 AM 614,26 RON
 9/24/2020 9:51:01 AM 620,74 RON
 9/25/2020 9:45:36 PM 627,92 RON
+9/30/2020 12:31:16 PM 627,10 RON

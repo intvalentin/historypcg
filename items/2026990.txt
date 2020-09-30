@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e2000+-+1024g
 2026990
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/ssd-e2000-1024gb-nvme-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2026990/thumbnails/e2000-1tb-pci-expres
 9/21/2020 7:42:25 AM 699,21 RON
 9/24/2020 9:32:40 AM 706,58 RON
 9/25/2020 9:40:34 PM 714,75 RON
+9/30/2020 11:24:44 AM 711,25 RON

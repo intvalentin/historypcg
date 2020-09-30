@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B550 AORUS PRO V2
 2085318
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/b550-aorus-pro-v2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3354/2085318/thumbnails/b550-aorus-pro-v2-12
 9/21/2020 7:37:04 AM 1.030,72 RON
 9/23/2020 7:31:10 PM 1.042,50 RON
 9/25/2020 8:35:12 PM 1.051,27 RON
+9/29/2020 5:59:11 PM 1.051,53 RON

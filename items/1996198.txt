@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg050
 1996198
     Product link    
 https://www.pcgarage.ro/mouse-gaming/spcgear/lix-plus/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/1996198/thumbnails/lix-plus-d2de648d
 9/21/2020 7:59:51 AM 299,98 RON
 9/24/2020 7:05:25 PM 299,98 RON
 9/26/2020 10:07:10 AM 299,98 RON
+9/30/2020 8:33:00 AM 299,98 RON

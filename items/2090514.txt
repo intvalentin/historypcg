@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p009-bk
 2090514
     Product link    
 https://www.pcgarage.ro/mouse-pad/redragon/epeius-rgb/
@@ -8,3 +8,4 @@ Redragon Epeius RGB
 https://2.grgs.ro/images/products/1/8441/2090514/thumbnails/epeius-rgb-fceeed96c2ca6d28beeb0297ae69eec2.jpg
     Pret    
 9/26/2020 10:16:37 AM 133,98 RON
+9/30/2020 9:52:14 AM 131,98 RON

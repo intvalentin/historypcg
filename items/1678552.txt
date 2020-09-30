@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-skb3-us
 1678552
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/canyon/fobos/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1666176/1678552/thumbnails/fobos-0c0ef977d98
 9/24/2020 7:49:20 PM 71,98 RON
 9/24/2020 11:33:33 PM 71,98 RON
 9/26/2020 10:46:59 AM 71,98 RON
+9/30/2020 1:12:05 PM 71,98 RON

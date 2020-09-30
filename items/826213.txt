@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sen2-001
 826213
     Product link    
 https://www.pcgarage.ro/fan-controllere/nzxt/sentry-2-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/826213/thumbnails/sentry-2-c6b65579f9a28d7
 9/21/2020 7:58:32 AM 181,09 RON
 9/24/2020 6:48:51 PM 185,11 RON
 9/26/2020 9:50:25 AM 185,07 RON
+9/29/2020 9:28:49 PM 184,21 RON

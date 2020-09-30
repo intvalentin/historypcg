@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu900ss-512gm-c
 1437674
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su900-512gb-sata-iii-25-inch/
@@ -8,3 +8,4 @@ ADATA SU900 512GB SATA-III 2.5 inch
 https://2.grgs.ro/images/products/1/1052635/1437674/thumbnails/su900-256gb-sata-iii-25-inch-0d2d3fb7ba6292a09a8dbb03c7bf281a.jpg
     Pret    
 9/25/2020 10:07:51 PM 506,53 RON
+9/30/2020 2:11:30 PM 506,66 RON

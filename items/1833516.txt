@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kb-ner-tbbrus-01
 1833516
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/tt-esports/neptune-elite-rgb-mecanica-blue-switch/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/5631/1833516/thumbnails/tastatura-gaming-mec
 9/24/2020 7:48:33 PM 445,98 RON
 9/24/2020 11:32:48 PM 445,98 RON
 9/26/2020 10:45:30 AM 445,98 RON
+9/30/2020 1:35:34 PM 443,98 RON

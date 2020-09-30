@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kratos-p1-650g
 2066246
     Product link    
 https://www.pcgarage.ro/surse/gamdias/kratos-p1-650g-rgb-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2066246/thumbnails/kratos-p1-650g-rgb-8
 9/21/2020 7:46:06 AM 375,47 RON
 9/24/2020 12:38:48 PM 380,58 RON
 9/25/2020 10:18:45 PM 383,74 RON
+9/30/2020 5:30:05 PM 381,94 RON

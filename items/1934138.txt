@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inssd120gs625c1
 1934138
     Product link    
 https://www.pcgarage.ro/ssd/integral/c-series-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6811/1934138/thumbnails/c-series-120gb-sata-
 9/21/2020 7:43:47 AM 105,36 RON
 9/24/2020 10:59:50 AM 104,68 RON
 9/25/2020 10:01:07 PM 103,47 RON
+9/30/2020 1:04:30 PM 102,52 RON

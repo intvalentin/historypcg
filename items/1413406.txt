@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm1010050
 1413406
     Product link    
 https://www.pcgarage.ro/jocuri/capcom/resident-evil-7-biohazard-pentru-pc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1187917/1413406/thumbnails/resident-evil-7-b
 9/21/2020 8:06:01 AM 244,98 RON
 9/25/2020 12:06:56 AM 244,98 RON
 9/26/2020 1:03:58 PM 244,98 RON
+9/30/2020 5:42:34 PM 244,98 RON

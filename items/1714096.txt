@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u320038g16-sr80
 1714096
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-spectrix-d80-rgb-8gb-ddr4-3200mhz-cl16/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1690716/1714096/thumbnails/xpg-spectrix-d80-
 9/21/2020 7:40:46 AM 258,26 RON
 9/24/2020 9:03:32 AM 260,98 RON
 9/25/2020 9:25:30 PM 264,00 RON
+9/30/2020 8:18:22 AM 263,67 RON

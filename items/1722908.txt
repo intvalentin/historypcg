@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m2k4133c19
 1722908
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-32gb-ddr4-4133mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/849800/1722908/thumbnails/vengeance-lpx-blac
 9/21/2020 7:41:58 AM 2.882,95 RON
 9/24/2020 9:01:27 AM 2.913,34 RON
 9/25/2020 9:24:46 PM 3.048,07 RON
+9/30/2020 10:46:45 AM 3.044,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r019d408gx2-3600c18a
 2090606
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/toughram-z-one-rgb-16gb-ddr4-3600mhz-cl18-dual-channel/
@@ -8,3 +8,4 @@ Thermaltake ToughRAM Z-ONE RGB 16GB DDR4 3600MHz CL18 Dual Channel
 https://1.grgs.ro/images/products/1/8441/2090606/thumbnails/toughram-z-one-rgb-16gb-ddr4-3200mhz-cl16-dual-channel-b7e86e230140de7de8c802f307e7e4ac.jpg
     Pret    
 9/25/2020 8:50:43 PM 571,79 RON
+9/29/2020 9:40:29 PM 569,11 RON

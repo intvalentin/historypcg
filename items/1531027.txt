@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kw128g8x1
 1531027
     Product link    
 https://www.pcgarage.ro/ssd/intel/ssd-intel-545s-series-128gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457254/1531027/thumbnails/545s-series-256gb
 9/21/2020 7:43:57 AM 108,48 RON
 9/24/2020 11:18:33 AM 109,96 RON
 9/25/2020 10:07:06 PM 110,87 RON
+9/30/2020 1:08:17 PM 110,35 RON

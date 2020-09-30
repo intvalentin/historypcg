@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz01-02540100-r3m1
 1732304
     Product link    
 https://www.pcgarage.ro/mouse-gaming/razer/deathadder-essential/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1732304/thumbnails/deathadder-essent
 9/21/2020 8:00:13 AM 239,99 RON
 9/24/2020 7:09:48 PM 239,99 RON
 9/26/2020 10:10:52 AM 239,99 RON
+9/30/2020 8:52:44 AM 239,99 RON

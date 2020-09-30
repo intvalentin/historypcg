@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb330
 1179091
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-330-led-lighting-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/1179091/thumbnails/rgb-330-led-lighti
 9/21/2020 7:58:58 AM 137,11 RON
 9/24/2020 6:53:10 PM 140,15 RON
 9/26/2020 9:54:49 AM 140,12 RON
+9/29/2020 10:06:27 PM 139,47 RON

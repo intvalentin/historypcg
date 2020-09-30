@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9127414-na
 2011826
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/corsair/k95-rgb-platinum-xt-cherry-mx-speed-black-mecanica-layout-us/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/9943/2011826/thumbnails/k95-rgb-platinum-xt-
 9/24/2020 7:47:05 PM 1.243,98 RON
 9/24/2020 11:31:19 PM 1.243,98 RON
 9/26/2020 10:44:01 AM 1.245,98 RON
+9/30/2020 1:50:32 PM 1.245,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tm8fp4001t0c101
 1885430
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/mp34-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1885090/1885430/thumbnails/1tb-pci-express-3
 9/21/2020 7:43:19 AM 714,92 RON
 9/24/2020 9:59:16 AM 723,02 RON
 9/25/2020 9:47:47 PM 729,12 RON
+9/30/2020 12:36:37 PM 729,40 RON

@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |zt-71115-20l
 1133413
     Product link    
 https://www.pcgarage.ro/placi-video/zotac/geforce-gt-730-zone-edition-4gb-ddr3-64-bit-low-profile-bracket/
@@ -14,3 +14,4 @@ https://4.grgs.ro/images/products/1/959008/1133413/thumbnails/geforce-gt-730-zon
 09/28/2020 13:31:16 375,16 RON
 09/28/2020 16:09:21 375,16 RON
 09/28/2020 17:03:46 375,16 RON
+9/29/2020 8:48:12 PM 373,81 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bts1010049
 1803672
     Product link    
 https://www.pcgarage.ro/jocuri/bethesda/the-elder-scrolls-online-elsweyr-pentru-pc/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4338/1803672/thumbnails/the-elder-scrolls-on
 9/24/2020 8:03:26 PM 194,98 RON
 9/24/2020 11:47:41 PM 194,98 RON
 9/26/2020 11:00:27 AM 194,98 RON
+9/30/2020 4:59:03 PM 194,98 RON

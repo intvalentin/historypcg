@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c15d-32gfx
 1524810
     Product link    
 https://www.pcgarage.ro/memorii/gskill/flare-x-for-amd-32gb-ddr4-2400-mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1263508/1524810/thumbnails/gskill-flare-x-fo
 9/21/2020 7:39:28 AM 711,06 RON
 9/23/2020 11:46:02 PM 719,20 RON
 9/25/2020 9:04:39 PM 725,28 RON
+9/29/2020 9:56:37 PM 725,41 RON

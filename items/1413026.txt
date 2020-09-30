@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm4080024
 1413026
     Product link    
 https://www.pcgarage.ro/jocuri/tecmo-koei/atelier-sophie-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1152773/1413026/thumbnails/atelier-sophie-pe
 9/21/2020 8:06:25 AM 269,98 RON
 9/25/2020 12:07:41 AM 269,98 RON
 9/26/2020 1:04:40 PM 269,98 RON
+9/30/2020 6:08:17 PM 269,98 RON

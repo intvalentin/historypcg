@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpe-450-a12s ii
 739288
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/eco-ii-450w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/739288/thumbnails/eco-ii-450w-5ef6651
 9/21/2020 7:47:21 AM 210,01 RON
 9/24/2020 1:57:01 PM 210,26 RON
 9/25/2020 10:51:03 PM 210,61 RON
+9/30/2020 6:21:10 PM 210,69 RON

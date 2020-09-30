@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn4100001
 1413678
     Product link    
 https://www.pcgarage.ro/jocuri/nintendo/paper-mario-color-splash-pentru-wii-u/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025736/1413678/thumbnails/paper-mario-color
 9/21/2020 8:06:06 AM 244,98 RON
 9/25/2020 12:06:11 AM 244,98 RON
 9/26/2020 1:03:15 PM 244,98 RON
+9/30/2020 5:42:51 PM 244,98 RON

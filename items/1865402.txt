@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253x1960g0c101
 1865402
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/gx1-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1864870/1865402/thumbnails/team-group-ssd-gx
 9/21/2020 7:43:19 AM 599,91 RON
 9/24/2020 9:59:16 AM 606,82 RON
 9/25/2020 9:48:31 PM 611,85 RON
+9/30/2020 12:29:38 PM 612,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc266
 2039778
     Product link    
 https://www.pcgarage.ro/surse/SilentiumPC/vero-l3-bronze-600w-dc-dc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2039778/thumbnails/vero-l3-80-plus-b
 9/21/2020 7:45:41 AM 260,17 RON
 9/24/2020 12:59:20 PM 295,70 RON
 9/25/2020 10:26:40 PM 296,51 RON
+9/30/2020 5:10:38 PM 261,00 RON

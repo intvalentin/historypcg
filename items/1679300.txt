@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |px-128m8vc
 1679300
     Product link    
 https://www.pcgarage.ro/ssd/plextor/m8vc-128gb-sata-iii-25-inch/
@@ -8,3 +8,4 @@ Plextor M8VC 128GB SATA-III 2.5 inch
 https://3.grgs.ro/images/products/1/1666176/1679300/thumbnails/mv8vc-128gb-sata-iii-25-inch-52ca9e142494417ac0f850dad83c7505.jpg
     Pret    
 9/25/2020 9:52:12 PM 157,25 RON
+9/30/2020 11:34:20 AM 157,25 RON

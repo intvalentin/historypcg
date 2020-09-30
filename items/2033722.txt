@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z490 aorus elite
 2033722
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z490-aorus-elite/
@@ -10,3 +10,7 @@ https://3.grgs.ro/images/products/1/3041/2033722/thumbnails/aorus-z490-elite-951
 9/21/2020 7:37:04 AM 1.087,40 RON
 9/23/2020 7:37:21 PM 1.099,83 RON
 9/25/2020 8:37:27 PM 1.109,00 RON
+9/29/2020 6:26:17 PM 1.109,39 RON
+9/29/2020 6:26:49 PM 1.109,39 RON
+9/29/2020 6:36:45 PM 1.109,39 RON
+9/29/2020 6:37:48 PM 1.109,39 RON

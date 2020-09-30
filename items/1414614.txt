@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tk1010131
 1414614
     Product link    
 https://www.pcgarage.ro/jocuri/2k-games/civilization-6-pc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1109408/1414614/thumbnails/civilization-6-pc
 9/21/2020 8:06:25 AM 269,98 RON
 9/25/2020 12:06:11 AM 269,98 RON
 9/26/2020 1:03:15 PM 269,98 RON
+9/30/2020 6:08:34 PM 269,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sat5200-1920g
 2048762
     Product link    
 https://www.pcgarage.ro/ssd/synology/sat5200-192tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2048762/thumbnails/sat5200-192tb-sat
 9/21/2020 7:43:28 AM 3.296,86 RON
 9/24/2020 9:46:52 AM 3.300,86 RON
 9/25/2020 9:43:24 PM 3.308,26 RON
+9/30/2020 12:58:35 PM 3.307,44 RON

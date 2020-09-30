@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-1600c11s-8gnt
 1747640
     Product link    
 https://www.pcgarage.ro/memorii/gskill/8gb-ddr3-1600mhz-cl11-9/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1747640/thumbnails/4gb-ddr3-1600mhz-
 9/21/2020 7:38:12 AM 162,16 RON
 9/24/2020 8:59:22 AM 164,00 RON
 9/25/2020 9:01:00 PM 165,41 RON
+9/29/2020 8:05:25 PM 172,35 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts128gmts800
 1045082
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts800-128gb-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/480523/1045082/thumbnails/mts800-128gb-m2-22
 9/21/2020 7:44:11 AM 263,70 RON
 9/24/2020 11:20:38 AM 266,67 RON
 9/25/2020 10:08:36 PM 268,95 RON
+9/30/2020 1:35:52 PM 268,97 RON

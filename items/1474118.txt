@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwn180uzsva
 1474118
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/n300-8tb-sata-iii-7200rpm-128mb-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301253/1474118/thumbnails/n300-8tb-sata-iii
 9/21/2020 7:45:33 AM 1.160,00 RON
 9/24/2020 12:30:36 PM 1.163,12 RON
 9/25/2020 10:15:09 PM 1.165,73 RON
+9/30/2020 4:22:36 PM 1.163,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpg-1200f1f
 1695632
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-grand-rgb-80-plus-platinum-1200w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1695632/thumbnails/toughpower-grand-
 9/21/2020 7:45:53 AM 1.048,12 RON
 9/24/2020 12:47:02 PM 1.062,37 RON
 9/25/2020 10:21:40 PM 1.071,20 RON
+9/30/2020 5:52:15 PM 1.064,62 RON

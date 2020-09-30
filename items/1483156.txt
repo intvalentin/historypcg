@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |roc-13-016
 1483156
     Product link    
 https://www.pcgarage.ro/mouse-pad/roccat/kanga/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1415042/1483156/thumbnails/kanga-4958afaeffc
 9/21/2020 8:00:31 AM 49,99 RON
 9/24/2020 7:16:22 PM 49,99 RON
 9/26/2020 10:19:36 AM 49,99 RON
+9/30/2020 9:38:42 AM 49,99 RON

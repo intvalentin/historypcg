@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atx-400wh
 260787
     Product link    
 https://www.pcgarage.ro/surse/segotep/atx-400wh/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/260787/thumbnails/atx-400wh-916a99c51b687e
 9/21/2020 7:47:12 AM 87,54 RON
 9/24/2020 2:03:13 PM 88,73 RON
 9/25/2020 10:53:13 PM 89,47 RON
+9/30/2020 5:58:29 PM 88,92 RON

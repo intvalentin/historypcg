@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdp-550c
 977282
     Product link    
 https://www.pcgarage.ro/surse/chieftec/a-90-series-gdp-550c-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/977282/thumbnails/a-90-series-gdp-550
 9/21/2020 7:45:57 AM 357,41 RON
 9/24/2020 12:55:12 PM 364,06 RON
 9/25/2020 10:25:11 PM 364,53 RON
+9/30/2020 5:27:05 PM 362,30 RON

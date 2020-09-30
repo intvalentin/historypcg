@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cml16gx3m2a1600c10
 475015
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lp-16gb-ddr3-1600mhz-cl10-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/475015/thumbnails/vengeance-lp-16gb-ddr3-1
 9/21/2020 7:39:19 AM 430,54 RON
 9/23/2020 11:56:22 PM 435,46 RON
 9/25/2020 9:09:05 PM 439,11 RON
+9/29/2020 9:24:21 PM 439,25 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gom-white
 1949830
     Product link    
 https://www.pcgarage.ro/mouse-gaming/glorious-pc-gaming-race/model-o-minus-matte-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1949830/thumbnails/model-o-minus-matte-
 9/21/2020 8:00:18 AM 333,98 RON
 9/24/2020 7:09:04 PM 333,98 RON
 9/26/2020 10:10:52 AM 333,98 RON
+9/30/2020 8:57:18 AM 333,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts1glk64v3h
 989347
     Product link    
 https://www.pcgarage.ro/memorii/transcend/8gb-ddr3-1333mhz-cl9-11/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/989347/thumbnails/8gb-ddr3-1333mhz-cl
 9/21/2020 7:40:51 AM 324,09 RON
 9/24/2020 9:24:23 AM 327,88 RON
 9/25/2020 9:37:37 PM 330,55 RON
+9/30/2020 8:31:24 AM 330,69 RON

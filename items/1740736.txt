@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asd700-1tu31-cbk
 1740736
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sd700-1tb-usb-31-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/842306/1740736/thumbnails/sd700-256gb-usb-31
 9/21/2020 7:42:36 AM 587,50 RON
 9/24/2020 10:26:50 AM 615,21 RON
 9/25/2020 9:50:43 PM 620,32 RON
+9/30/2020 12:30:27 PM 617,41 RON

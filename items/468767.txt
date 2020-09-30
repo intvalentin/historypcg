@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dt01aca200
 468767
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/2tb-sata-iii-7200rpm-32mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/468767/thumbnails/2tb-sata-iii-7200rpm-32m
 9/21/2020 7:45:15 AM 329,99 RON
 9/24/2020 12:22:22 PM 329,99 RON
 9/25/2020 10:12:11 PM 329,99 RON
+9/30/2020 3:49:44 PM 329,99 RON

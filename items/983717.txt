@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts64gpsd330
 983717
     Product link    
 https://www.pcgarage.ro/ssd/transcend/330-series-64gb-ide-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/959008/983717/thumbnails/330-series-64gb-ide
 9/21/2020 7:43:14 AM 424,00 RON
 9/24/2020 10:39:12 AM 428,78 RON
 9/25/2020 9:54:26 PM 432,36 RON
+9/30/2020 12:15:54 PM 432,49 RON

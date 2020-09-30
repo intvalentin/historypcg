@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmv16gx4m1a2666c18
 1580586
     Product link    
 https://www.pcgarage.ro/memorii/corsair/value-select-16gb-ddr4-2666mhz-cl18/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469694/1580586/thumbnails/value-select-16gb
 9/21/2020 7:40:51 AM 301,58 RON
 9/24/2020 9:09:47 AM 304,75 RON
 9/25/2020 9:28:29 PM 328,16 RON
+9/30/2020 8:30:18 AM 328,16 RON

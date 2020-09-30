@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000vx0023
 1407706
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-6tb-7200rpm-sata-iii-256mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025736/1407706/thumbnails/skyhawk-6tb-7200r
 9/21/2020 7:45:29 AM 949,99 RON
 9/24/2020 12:30:36 PM 949,99 RON
 9/25/2020 10:15:53 PM 949,99 RON
+9/30/2020 4:17:44 PM 949,99 RON

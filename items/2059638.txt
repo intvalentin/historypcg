@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-ar36c18s8k2hu416r
 2059638
     Product link    
 https://www.pcgarage.ro/memorii/gigabyte/aorus-rgb-memory-16gb-2x8gb-3600mhz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2059638/thumbnails/aorus-rgb-16gb-ddr4-
 9/21/2020 7:41:15 AM 571,86 RON
 9/24/2020 12:04:40 AM 577,88 RON
 9/25/2020 9:12:03 PM 584,57 RON
+9/30/2020 9:16:18 AM 583,80 RON

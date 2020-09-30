@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bts4080024
 1525234
     Product link    
 https://www.pcgarage.ro/jocuri/bethesda/the-elder-scrolls-v-skyrim-vr-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/842306/1525234/thumbnails/the-elder-scrolls-
 9/21/2020 8:05:20 AM 194,98 RON
 9/25/2020 12:00:18 AM 194,98 RON
 9/26/2020 11:13:11 AM 194,98 RON
+9/30/2020 4:43:24 PM 194,98 RON

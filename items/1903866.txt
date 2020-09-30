@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3600c18d-16gtzn
 1903866
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-neo-16gb-ddr4-3600mhz-cl18-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1903866/thumbnails/trident-z-neo-16gb-d
 9/21/2020 7:37:49 AM 473,91 RON
 9/23/2020 11:23:15 PM 479,29 RON
 9/25/2020 9:18:01 PM 483,43 RON
+9/30/2020 9:10:41 AM 499,30 RON

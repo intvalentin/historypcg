@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr3-4g1333-b
 259585
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/4gb-ddr3-1333mhz-cl9-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/259585/thumbnails/4gb-ddr3-1333mhz-cl9-dua
 9/21/2020 7:39:42 AM 75,37 RON
 9/24/2020 9:28:32 AM 76,39 RON
 9/25/2020 9:39:51 PM 77,03 RON
+9/29/2020 10:35:20 PM 76,67 RON

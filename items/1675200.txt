@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds500g2x0c
 1675200
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/black-500gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1664836/1675200/thumbnails/black-500gb-pci-e
 9/21/2020 7:44:31 AM 602,08 RON
 9/24/2020 11:12:19 AM 608,99 RON
 9/25/2020 10:05:36 PM 614,69 RON
+9/30/2020 2:23:29 PM 614,83 RON

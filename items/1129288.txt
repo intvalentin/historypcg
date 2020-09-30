@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |strix_raid_dlx
 1129288
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/asus/strix-raid-dlx/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/843505/1129288/thumbnails/strix-raid-dlx-plu
 9/21/2020 7:59:20 AM 875,90 RON
 9/24/2020 6:57:35 PM 788,31 RON
 9/26/2020 9:59:12 AM 788,31 RON
+9/29/2020 10:37:00 PM 744,51 RON

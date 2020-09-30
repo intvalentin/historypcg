@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |A10N-8800E
 1860186
     Product link    
 https://www.pcgarage.ro/placi-de-baza/biostar/a10n-8800e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1236/1860186/thumbnails/a10n-8800e-e92506446
 9/21/2020 7:36:23 AM 400,61 RON
 9/23/2020 10:15:59 PM 433,27 RON
 9/25/2020 8:39:41 PM 436,87 RON
+9/29/2020 5:02:30 PM 437,00 RON

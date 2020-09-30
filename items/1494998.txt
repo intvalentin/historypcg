@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zeus-m1
 1494998
     Product link    
 https://www.pcgarage.ro/mouse-gaming/gamdias/zeus-m1-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1178653/1494998/thumbnails/zeus-m1-rgb-e3dee
 9/21/2020 8:00:04 AM 299,98 RON
 9/24/2020 7:07:37 PM 305,98 RON
 9/26/2020 10:08:37 AM 305,98 RON
+9/30/2020 8:33:16 AM 303,98 RON

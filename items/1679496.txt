@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwt380uzsva
 1679496
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/s300-8tb-sata-iii-7200rpm-256mb-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664836/1679496/thumbnails/s300-4tb-sata-iii
 9/21/2020 7:45:33 AM 1.128,78 RON
 9/24/2020 12:26:28 PM 1.129,70 RON
 9/25/2020 10:13:40 PM 1.133,34 RON
+9/30/2020 4:21:29 PM 1.131,25 RON

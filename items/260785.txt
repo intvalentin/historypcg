@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atx-500wh
 260785
     Product link    
 https://www.pcgarage.ro/surse/segotep/atx-500wh/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/260785/thumbnails/atx-500wh-5c5322b52a9346
 9/21/2020 7:45:41 AM 119,99 RON
 9/24/2020 12:36:45 PM 119,99 RON
 9/25/2020 10:18:02 PM 119,99 RON
+9/30/2020 4:36:57 PM 119,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ada-71
 1801424
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/axagon/ada-71-usb-71-soundbox/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4338/1801424/thumbnails/ada-71-usb-71-soundb
 9/21/2020 7:59:16 AM 165,07 RON
 9/24/2020 6:57:35 PM 165,27 RON
 9/26/2020 9:59:12 AM 165,55 RON
+9/29/2020 10:39:14 PM 165,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kab0048
 1443222
     Product link    
 https://www.pcgarage.ro/modding/logilink/cable-management-with-zipper-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1416578/1443222/thumbnails/cable-management-
 9/21/2020 7:58:42 AM 43,37 RON
 9/24/2020 6:51:43 PM 43,33 RON
 9/26/2020 9:53:20 AM 43,14 RON
+9/29/2020 9:45:15 PM 42,77 RON

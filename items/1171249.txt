@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m9120-e512f
 1171249
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9120-512mb-ddr2/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1169071/1171249/thumbnails/m9120-512mb-ddr2-
 9/21/2020 7:34:24 AM 1.233,09 RON
 9/23/2020 6:55:51 PM 1.247,21 RON
 9/25/2020 8:21:12 PM 1.257,70 RON
+9/29/2020 9:11:04 PM 1.258,10 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw128gx4m4e3200c16
 2000878
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-128gb-ddr4-3200mhz-cl16-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692136/2000878/thumbnails/corsair-vengeance
 9/21/2020 7:41:59 AM 3.329,42 RON
 9/23/2020 11:12:56 PM 3.364,53 RON
 9/25/2020 8:53:41 PM 3.403,45 RON
+9/29/2020 10:32:29 PM 3.398,98 RON

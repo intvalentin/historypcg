@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc265
 2039774
     Product link    
 https://www.pcgarage.ro/surse/SilentiumPC/vero-l3-80-plus-bronze-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039774/thumbnails/vero-l3-80-plus-b
 9/21/2020 7:45:41 AM 240,77 RON
 9/24/2020 12:59:20 PM 241,06 RON
 9/25/2020 10:26:40 PM 274,39 RON
+9/30/2020 5:07:04 PM 241,54 RON

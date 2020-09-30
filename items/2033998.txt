@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za960cv1a001
 2033998
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-q1-960gb-sata-iii-25-inch-ww/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033998/thumbnails/barracuda-q1-960gb-s
 9/21/2020 7:43:14 AM 521,45 RON
 9/24/2020 9:46:53 AM 526,95 RON
 9/25/2020 9:44:08 PM 533,04 RON
+9/30/2020 12:23:13 PM 532,34 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3200316g16-st41
 1706276
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-spectrix-d41-titanium-gray-rgb-16gb-ddr4-3200mhz-cl16/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692296/1706276/thumbnails/xpg-spectrix-d41-
 9/21/2020 7:41:01 AM 422,64 RON
 9/24/2020 9:03:32 AM 427,09 RON
 9/25/2020 9:26:15 PM 432,03 RON
+9/30/2020 8:55:09 AM 431,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000dm008 recertified
 1965314
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-2tb-sata-iii-7200rpm-256mb-recertified/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8674/1965314/thumbnails/barracuda-2tb-sata-i
 9/21/2020 7:45:19 AM 278,30 RON
 9/24/2020 12:24:25 PM 278,30 RON
 9/25/2020 10:12:56 PM 278,30 RON
+9/30/2020 4:03:51 PM 278,30 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpg-700st-t12s
 1721196
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/simplicity-series-red-led-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1721196/thumbnails/hpg-700st-t12s-8b
 9/21/2020 7:47:40 AM 326,68 RON
 9/24/2020 1:13:49 PM 327,08 RON
 9/25/2020 10:31:53 PM 327,63 RON
+9/30/2020 7:08:24 PM 327,73 RON

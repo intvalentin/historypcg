@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za2000cm10003
 1976534
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-120-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976534/thumbnails/barracuda-120-250gb-
 9/21/2020 7:43:23 AM 1.091,52 RON
 9/24/2020 9:53:04 AM 1.103,91 RON
 9/25/2020 9:46:20 PM 1.113,29 RON
+9/30/2020 12:47:14 PM 1.113,55 RON

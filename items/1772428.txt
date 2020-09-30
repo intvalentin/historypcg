@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |rog-strix-rtx2080ti-11g-gaming
 1772428
     Product link    
 https://www.pcgarage.ro/placi-video/asus/geforce-rtx-2080-ti-strix-gaming-11gb-gddr6-352-bit/
@@ -12,3 +12,4 @@ https://5.grgs.ro/images/products/1/1749840/1772428/thumbnails/geforce-rtx-2080-
 9/25/2020 8:13:41 PM 6.797,73 RON
 09/28/2020 19:05:25 6.823,91 RON
 09/28/2020 19:10:50 6.823,91 RON
+9/29/2020 9:08:31 PM 6.800,35 RON

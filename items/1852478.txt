@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvs48g320c6
 1852478
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-steel-8gb-ddr4-3200mhz-cl16-135v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1779504/1852478/thumbnails/patriot-viper-ste
 9/21/2020 7:37:44 AM 173,06 RON
 9/23/2020 11:25:20 PM 174,90 RON
 9/25/2020 8:58:07 PM 176,46 RON
+9/29/2020 8:07:24 PM 176,46 RON

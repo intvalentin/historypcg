@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx442c19pb3k2+-+16
 1857538
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-black-16gb-ddr4-4266mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/849800/1857538/thumbnails/predator-black-16g
 9/21/2020 7:41:25 AM 813,85 RON
 9/24/2020 8:46:53 AM 823,15 RON
 9/25/2020 9:19:32 PM 830,13 RON
+9/30/2020 9:45:32 AM 830,41 RON

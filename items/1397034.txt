@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st10000vx0004
 1397034
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-10tb-7200rpm-sata-iii-256mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1397034/thumbnails/skyhawk-10tb-7200r
 9/21/2020 7:45:33 AM 1.361,84 RON
 9/24/2020 12:32:39 PM 1.380,35 RON
 9/25/2020 10:15:53 PM 1.392,11 RON
+9/30/2020 4:24:15 PM 1.385,30 RON

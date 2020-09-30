@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |n730-2gd3v2
 1101428
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-gt-730-2gb-ddr3-128-bit-7/
@@ -15,3 +15,4 @@ https://1.grgs.ro/images/products/1/255443/1101428/thumbnails/geforce-gt-730-2gb
 09/28/2020 13:36:32 321,48 RON
 09/28/2020 16:12:56 321,48 RON
 09/28/2020 17:03:46 321,48 RON
+9/29/2020 8:19:54 PM 320,40 RON

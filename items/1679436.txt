@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pve432g266c6kgy
 1679436
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-elite-gray-32gb-ddr4-2666mhz-cl16-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/978807/1679436/thumbnails/viper-elite-gray-3
 9/21/2020 7:38:41 AM 578,40 RON
 9/23/2020 11:39:47 PM 585,03 RON
 9/25/2020 9:27:00 PM 590,00 RON
+9/30/2020 9:17:39 AM 590,13 RON

@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |rtx 2060 ventus xs  6g oc
 1815172
     Product link    
 https://www.pcgarage.ro/placi-video/msi/geforce-rtx-2060-ventus-xs-oc-6gb-gddr6-192-bit/
@@ -16,3 +16,4 @@ https://4.grgs.ro/images/products/1/3645/1815172/thumbnails/geforce-rtx-2060-ven
 09/28/2020 13:18:48 1.763,49 RON
 09/28/2020 15:53:03 1.763,49 RON
 09/28/2020 18:56:41 1.763,49 RON
+9/29/2020 8:58:19 PM 1.756,89 RON

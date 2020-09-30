@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st14000dm001
 1738412
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-pro-14tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1738412/thumbnails/barracuda-pro-14t
 9/21/2020 7:45:38 AM 2.683,82 RON
 9/24/2020 12:26:28 PM 2.712,11 RON
 9/25/2020 10:13:40 PM 2.743,48 RON
+9/30/2020 4:34:06 PM 2.730,06 RON

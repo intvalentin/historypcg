@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgm03rgb
 1986538
     Product link    
 https://www.pcgarage.ro/mouse-gaming/canyon/eclector/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1986538/thumbnails/eclector-49532173
 9/21/2020 7:59:56 AM 35,98 RON
 9/24/2020 7:05:25 PM 35,98 RON
 9/26/2020 10:07:10 AM 35,98 RON
+9/30/2020 8:12:38 AM 35,98 RON

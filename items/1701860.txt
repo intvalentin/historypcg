@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdlf1dam-800g-1ha2
 1701860
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/cloudspeed-ultra-gen-ii-800gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1701860/thumbnails/cloudspeed-ultra-
 9/21/2020 7:44:55 AM 2.891,08 RON
 9/24/2020 11:10:14 AM 2.930,38 RON
 9/25/2020 10:04:51 PM 2.954,72 RON
+9/30/2020 3:05:34 PM 2.940,89 RON

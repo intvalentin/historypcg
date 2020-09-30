@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eph4083016ad
 1947954
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/phoenix-8gb-ddr4-3000mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/1947954/thumbnails/phoenix-16gb-ddr4
 9/21/2020 7:40:32 AM 169,77 RON
 9/24/2020 8:40:40 AM 172,08 RON
 9/25/2020 9:17:16 PM 173,51 RON
+9/29/2020 11:21:25 PM 172,69 RON

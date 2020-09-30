@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr2-1g800-b
 60633
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/1-gb-ddr2-800mhz-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/60633/thumbnails/ddr2.jpeg
 9/21/2020 7:40:17 AM 51,52 RON
 9/24/2020 9:30:36 AM 52,22 RON
 9/25/2020 9:39:51 PM 52,66 RON
+9/29/2020 10:33:35 PM 52,41 RON

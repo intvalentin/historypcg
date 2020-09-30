@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds100t2g0a
 1770740
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/green-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1416578/1770740/thumbnails/green-1tb-sata-ii
 9/21/2020 7:43:43 AM 419,02 RON
 9/24/2020 11:06:04 AM 421,12 RON
 9/25/2020 10:03:21 PM 425,99 RON
+9/30/2020 1:59:45 PM 425,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpeknw010t8x1
 1759496
     Product link    
 https://www.pcgarage.ro/ssd/intel/660p-series-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1759496/thumbnails/660p-series-512gb-pc
 9/21/2020 7:42:13 AM 558,74 RON
 9/24/2020 9:42:45 AM 558,74 RON
 9/25/2020 9:41:58 PM 558,74 RON
+9/30/2020 11:23:23 AM 552,39 RON

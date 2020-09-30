@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-frgb-chub5-12v
 1994502
     Product link    
 https://www.pcgarage.ro/modding/deepcool/convertor-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1979534/1994502/thumbnails/convertor-rgb-040
 9/21/2020 7:58:49 AM 52,32 RON
 9/24/2020 6:52:27 PM 53,48 RON
 9/26/2020 9:54:04 AM 53,47 RON
+9/29/2020 9:58:56 PM 53,22 RON

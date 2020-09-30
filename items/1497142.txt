@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpg-700st-h12s
 1497142
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/simplicity-series-700w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1497142/thumbnails/simplicity-series-
 9/21/2020 7:47:40 AM 316,68 RON
 9/24/2020 1:22:07 PM 317,06 RON
 9/25/2020 10:34:51 PM 317,59 RON
+9/30/2020 7:04:53 PM 317,70 RON

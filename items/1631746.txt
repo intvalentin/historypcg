@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76e2t0b+-+eu
 1631746
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-evo-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3207/1631746/thumbnails/860-evo-1tb-sata-iii
 9/21/2020 7:42:29 AM 1.394,09 RON
 9/24/2020 10:30:58 AM 1.397,49 RON
 9/25/2020 9:52:12 PM 1.368,71 RON
+9/30/2020 11:26:58 AM 1.362,79 RON

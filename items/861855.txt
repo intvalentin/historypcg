@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid1010091
 861855
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/thief-triple-pack-pentru-pc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/861855/thumbnails/thief-triple-pack-pentru
 9/21/2020 8:03:37 AM 14,98 RON
 9/25/2020 12:11:25 AM 14,98 RON
 9/26/2020 1:07:34 PM 14,98 RON
+9/30/2020 2:18:56 PM 14,98 RON

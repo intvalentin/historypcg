@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd140purz
 1974862
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/purple-14tb-sata-iii-7200rpm-512mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691852/1974862/thumbnails/purple-12tb-sata-
 9/21/2020 7:45:38 AM 2.198,03 RON
 9/24/2020 12:24:25 PM 2.222,79 RON
 9/25/2020 10:12:56 PM 2.242,34 RON
+9/30/2020 4:31:47 PM 2.228,00 RON

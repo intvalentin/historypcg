@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23378
 2038526
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-390-juga-wireless/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2038526/thumbnails/gxt-390-juga-wireles
 9/21/2020 8:01:55 AM 239,99 RON
 9/24/2020 7:27:58 PM 239,99 RON
 9/26/2020 10:31:24 AM 239,99 RON
+9/30/2020 11:59:19 AM 239,99 RON

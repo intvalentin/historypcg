@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm7050041
 1491550
     Product link    
 https://www.pcgarage.ro/jocuri/capcom/resident-evil-4-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1141198/1491550/thumbnails/resident-evil-4-p
 9/21/2020 8:04:25 AM 124,98 RON
 9/25/2020 12:02:29 AM 124,98 RON
 9/26/2020 11:15:26 AM 124,98 RON
+9/30/2020 3:29:00 PM 124,98 RON

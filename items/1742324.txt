@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kg480g801
 1742324
     Product link    
 https://www.pcgarage.ro/ssd/intel/s4610-d3-series-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1742324/thumbnails/s4610-d3-series-4
 9/21/2020 7:43:01 AM 764,39 RON
 9/24/2020 10:26:50 AM 774,78 RON
 9/25/2020 9:50:43 PM 767,14 RON
+9/30/2020 12:36:53 PM 729,45 RON

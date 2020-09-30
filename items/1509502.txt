@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2133c15d-16gnt
 1509502
     Product link    
 https://www.pcgarage.ro/memorii/gskill/f4-16gb-ddr4-2133mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175151/1509502/thumbnails/f4-16gb-ddr4-2133
 9/21/2020 7:38:12 AM 259,65 RON
 9/24/2020 9:13:56 AM 300,09 RON
 9/25/2020 9:29:14 PM 302,62 RON
+9/30/2020 8:28:55 AM 322,14 RON

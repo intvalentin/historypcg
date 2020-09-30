@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk64gx4m2a2666c16
 1974770
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-64gb-ddr4-2666mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1974770/thumbnails/vengeance-lpx-blac
 9/21/2020 7:38:45 AM 1.312,54 RON
 9/23/2020 11:15:01 PM 1.326,39 RON
 9/25/2020 8:55:10 PM 1.371,59 RON
+9/30/2020 10:19:38 AM 1.327,58 RON

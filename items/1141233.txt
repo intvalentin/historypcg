@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp-m300
 1141233
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/vp-m300-300w-bulk-plus-cablu-alimentare/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/849800/1141233/thumbnails/vp-m300-300w-bulk-
 9/21/2020 7:46:18 AM 185,04 RON
 9/24/2020 12:53:10 PM 187,55 RON
 9/25/2020 10:24:29 PM 186,11 RON
+9/30/2020 4:57:51 PM 188,23 RON

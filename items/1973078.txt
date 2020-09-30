@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-01871000-r3m1
 1973078
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/huntsman-elite-optical-linear-switch/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1728700/1973078/thumbnails/huntsman-elite-me
 9/24/2020 7:47:05 PM 1.109,98 RON
 9/24/2020 11:31:19 PM 1.109,98 RON
 9/26/2020 10:44:01 AM 1.111,98 RON
+9/30/2020 1:50:16 PM 1.111,98 RON

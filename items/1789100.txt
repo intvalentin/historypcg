@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf4d48g2666hc15bdc01
 1789100
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-delta-rgb-white-8gb-ddr4-2666mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6440/1789100/thumbnails/t-force-delta-rgb-wh
 9/21/2020 7:40:03 AM 280,01 RON
 9/24/2020 8:55:12 AM 283,24 RON
 9/25/2020 9:22:31 PM 285,63 RON
+9/30/2020 8:22:59 AM 285,63 RON

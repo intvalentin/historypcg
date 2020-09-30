@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011203-eu
 1957186
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/void-rgb-elite-carbon/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1953966/1957186/thumbnails/corsair-gaming-vo
 9/21/2020 8:01:19 AM 449,99 RON
 9/24/2020 7:25:02 PM 449,99 RON
 9/26/2020 10:28:26 AM 449,99 RON
+9/30/2020 11:26:06 AM 449,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z390 taichi
 1746872
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z390-taichi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1737700/1746872/thumbnails/z390-taichi-a8695
 9/21/2020 7:37:04 AM 1.194,76 RON
 9/23/2020 10:20:08 PM 1.200,73 RON
 9/25/2020 8:41:11 PM 1.214,62 RON
+9/29/2020 6:39:59 PM 1.213,02 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpb-350s
 1511254
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-350w-bulk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1443558/1511254/thumbnails/iarena-series-350
 9/21/2020 7:46:10 AM 186,07 RON
 9/24/2020 12:51:08 PM 189,47 RON
 9/25/2020 10:23:04 PM 189,76 RON
+9/30/2020 4:58:07 PM 188,58 RON

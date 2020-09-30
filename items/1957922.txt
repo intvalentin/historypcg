@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011201-eu
 1957922
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/void-elite-wireless-carbon/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1261/1957922/thumbnails/void-rgb-elite-wirel
 9/21/2020 8:01:00 AM 499,99 RON
 9/24/2020 7:25:02 PM 581,98 RON
 9/26/2020 10:24:42 AM 523,78 RON
+9/30/2020 10:43:17 AM 523,78 RON

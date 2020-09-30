@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct250mx500ssd4
 1674820
     Product link    
 https://www.pcgarage.ro/ssd/crucial/mx500-250gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1674820/thumbnails/mx500-250gb-sata-
 9/21/2020 7:43:43 AM 252,72 RON
 9/24/2020 11:12:19 AM 256,16 RON
 9/25/2020 10:05:36 PM 258,28 RON
+9/30/2020 1:34:00 PM 257,08 RON

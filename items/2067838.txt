@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds384t1d0d
 2067838
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/wd-gold-enterprise-class-nvme-ssd-384tb-25inch-u2-pcie-gen-31/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2067838/thumbnails/wd-gold-enterprise-c
 9/21/2020 7:44:58 AM 4.244,97 RON
 9/24/2020 10:47:22 AM 4.292,99 RON
 9/25/2020 9:56:40 PM 4.329,33 RON
+9/30/2020 3:11:42 PM 4.330,63 RON

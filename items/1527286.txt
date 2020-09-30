@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4dfd8266
 1527286
     Product link    
 https://www.pcgarage.ro/memorii/crucial/16gb-ddr4-2666mhz-cl19-12v-dual-ranked-x8/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1508470/1527286/thumbnails/16gb-ddr4-2666mhz
 9/21/2020 7:40:12 AM 348,36 RON
 9/23/2020 11:04:41 PM 316,83 RON
 9/25/2020 8:49:19 PM 316,83 RON
+9/29/2020 7:17:37 PM 316,83 RON

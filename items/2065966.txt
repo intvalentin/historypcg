@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-p2a
 2065966
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/gamdias/hermes-p2a-rgb-mecanica-optical-blue/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4917/2065966/thumbnails/hermes-p2a-rgb-mecan
 9/24/2020 7:43:23 PM 235,98 RON
 9/24/2020 11:27:39 PM 235,98 RON
 9/26/2020 10:41:04 AM 235,98 RON
+9/30/2020 12:51:43 PM 239,98 RON

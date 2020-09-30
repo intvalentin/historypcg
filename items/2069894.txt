@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01n930es-512g-e2x
 2069894
     Product link    
 https://www.pcgarage.ro/ssd/netac/n930es-512gb-pci-express-30-x2-m2-2242/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2069894/thumbnails/n930es-128gb-pci-exp
 9/21/2020 7:44:11 AM 271,06 RON
 9/24/2020 10:41:17 AM 273,93 RON
 9/25/2020 9:55:56 PM 277,09 RON
+9/30/2020 1:38:44 PM 276,73 RON

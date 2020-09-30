@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwg11auzsva
 1675064
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/n300-10tb-sata-iii-7200rpm-256mb-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1666176/1675064/thumbnails/n300-8tb-sata-iii
 9/21/2020 7:45:33 AM 1.574,45 RON
 9/24/2020 12:28:32 PM 1.579,65 RON
 9/25/2020 10:14:24 PM 1.580,96 RON
+9/30/2020 4:27:43 PM 1.578,35 RON

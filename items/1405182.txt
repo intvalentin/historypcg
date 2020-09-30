@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20852
 1405182
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-155-white-camouflage/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088254/1405182/thumbnails/gxt-155-white-cam
 9/21/2020 7:59:56 AM 123,98 RON
 9/24/2020 7:07:37 PM 123,98 RON
 9/26/2020 10:09:23 AM 123,98 RON
+9/30/2020 8:21:55 AM 123,98 RON

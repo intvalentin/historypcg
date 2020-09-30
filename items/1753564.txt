@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn295
 1753564
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/pure-power-11-80-plus-gold-700w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6763/1753564/thumbnails/pure-power-11-80-plu
 9/21/2020 7:46:14 AM 536,15 RON
 9/24/2020 12:47:02 PM 530,20 RON
 9/25/2020 10:21:40 PM 527,00 RON
+9/30/2020 5:40:36 PM 529,47 RON

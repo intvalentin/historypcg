@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-de480-bk
 1425162
     Product link    
 https://www.pcgarage.ro/surse/deepcool/explorer-series-de480-black-350w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1408706/1425162/thumbnails/explorer-series-d
 9/21/2020 7:47:12 AM 114,39 RON
 9/24/2020 1:28:19 PM 115,94 RON
 9/25/2020 10:44:25 PM 116,91 RON
+9/30/2020 6:00:57 PM 116,19 RON

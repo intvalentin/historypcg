@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3000c16d-16gisb
 1598726
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-3000mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/862955/1598726/thumbnails/aegis-8gb-ddr4-213
 9/21/2020 7:40:03 AM 258,39 RON
 9/24/2020 9:09:47 AM 261,34 RON
 9/25/2020 9:28:29 PM 263,58 RON
+9/30/2020 8:19:29 AM 274,82 RON

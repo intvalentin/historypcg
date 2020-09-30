@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u320038g16-sr10
 1850346
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-gammix-d10-red-8gb-ddr4-3200mhz-cl16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1535667/1850346/thumbnails/xpg-gammix-d10-re
 9/21/2020 7:40:51 AM 299,80 RON
 9/24/2020 8:48:58 AM 303,31 RON
 9/25/2020 9:20:17 PM 305,83 RON
+9/30/2020 8:25:26 AM 305,98 RON

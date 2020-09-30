@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wdbamj2500agy-eesn
 1663224
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/my-passport-wireless-250gb-usb-30/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1573/1663224/thumbnails/my-passport-wireless
 9/21/2020 7:44:45 AM 1.121,63 RON
 9/24/2020 11:12:19 AM 1.134,40 RON
 9/25/2020 10:05:36 PM 1.145,08 RON
+9/30/2020 2:47:13 PM 1.145,34 RON

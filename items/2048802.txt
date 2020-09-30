@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u320038g16a-db80
 2048802
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-spectrix-d80-black-rgb-16gb-ddr4-3200mhz-cl16-dual-channel-kit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2013982/2048802/thumbnails/xpg-spectrix-d80-
 9/21/2020 7:40:12 AM 477,70 RON
 9/24/2020 12:06:46 AM 480,09 RON
 9/25/2020 9:13:32 PM 485,65 RON
+9/30/2020 9:08:47 AM 485,02 RON

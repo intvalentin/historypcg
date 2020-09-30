@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B460M PRO-VDH WIFI
 2052950
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/b460m-pro-vdh-wifi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2052950/thumbnails/b460m-pro-vdh-wifi-2
 9/21/2020 7:35:17 AM 418,84 RON
 9/23/2020 7:10:08 PM 448,33 RON
 9/25/2020 8:23:26 PM 418,84 RON
+9/29/2020 5:03:52 PM 447,30 RON

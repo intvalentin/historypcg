@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21187
 2030522
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-310-radius/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8840/2030522/thumbnails/gxt-310-radius-e2f9b
 9/21/2020 8:01:32 AM 87,98 RON
 9/24/2020 7:24:19 PM 87,98 RON
 9/26/2020 10:27:42 AM 87,98 RON
+9/30/2020 10:53:42 AM 87,98 RON

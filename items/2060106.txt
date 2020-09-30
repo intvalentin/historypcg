@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |trx40 creator
 2060106
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/asrock-trx40-creator/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2060106/thumbnails/trx40-creator-fa9c54
 9/21/2020 7:37:13 AM 2.545,55 RON
 9/23/2020 7:33:13 PM 2.558,28 RON
 9/25/2020 8:35:56 PM 2.587,88 RON
+9/29/2020 6:57:41 PM 2.584,49 RON

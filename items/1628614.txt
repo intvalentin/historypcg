@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-2400c11d-16gxm
 1628614
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-x-blue-16gb-ddr3-2400mhz-cl11-165v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3207/1628614/thumbnails/gskill-ripjawsx-ddr3
 9/21/2020 7:41:05 AM 439,81 RON
 9/24/2020 9:09:47 AM 444,86 RON
 9/25/2020 9:27:44 PM 448,66 RON
+9/30/2020 9:02:34 AM 463,40 RON

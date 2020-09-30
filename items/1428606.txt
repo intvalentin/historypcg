@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asd700-512gu3-cyl
 1428606
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sd700-512gb-usb-31-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1428606/thumbnails/sd700-256gb-usb-31
 9/21/2020 7:43:10 AM 341,32 RON
 9/24/2020 11:18:34 AM 345,16 RON
 9/25/2020 10:07:51 PM 348,08 RON
+9/30/2020 1:49:40 PM 348,22 RON

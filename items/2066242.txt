@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kratos-m1-750b
 2066242
     Product link    
 https://www.pcgarage.ro/surse/gamdias/sursa-gamdias-kratos-m1-bronze-750w-iluminare-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2066242/thumbnails/kratos-m1-750b-rgb-8
 9/21/2020 7:45:44 AM 296,36 RON
 9/24/2020 12:34:42 PM 300,39 RON
 9/25/2020 10:17:19 PM 302,89 RON
+9/30/2020 4:39:04 PM 301,47 RON

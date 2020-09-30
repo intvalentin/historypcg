@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmv8gx4m1a2666c18
 1580414
     Product link    
 https://www.pcgarage.ro/memorii/corsair/value-select-8gb-ddr4-2666mhz-cl18/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929094/1580414/thumbnails/value-select-8gb-d
 9/21/2020 7:38:12 AM 175,19 RON
 9/24/2020 9:11:51 AM 177,17 RON
 9/25/2020 9:28:29 PM 178,73 RON
+9/29/2020 8:12:49 PM 191,19 RON

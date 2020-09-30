@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m990rgb-bk
 1750456
     Product link    
 https://www.pcgarage.ro/mouse-gaming/redragon/legend-chroma-rgb-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6763/1750456/thumbnails/legend-chroma-rgb-bl
 9/21/2020 8:00:09 AM 259,99 RON
 9/24/2020 7:09:48 PM 259,99 RON
 9/26/2020 10:10:52 AM 259,99 RON
+9/30/2020 8:53:18 AM 259,99 RON

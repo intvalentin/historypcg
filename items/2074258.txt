@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct8g4dfra266
 2074258
     Product link    
 https://www.pcgarage.ro/memorii/crucial/8gb-ddr4-2666mhz-cl19/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2074258/thumbnails/memory-dimm-8gb-pc21
 9/21/2020 7:38:55 AM 162,29 RON
 9/23/2020 11:08:48 PM 164,00 RON
 9/25/2020 8:52:13 PM 165,90 RON
+9/29/2020 8:03:29 PM 165,67 RON

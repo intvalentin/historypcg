@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz04-02210100-r3m1
 1598958
     Product link    
 https://www.pcgarage.ro/casti-gaming/razer/electra-v2/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1475542/1598958/thumbnails/electra-v2-26b1f7
 9/24/2020 7:39:08 PM 327,98 RON
 9/24/2020 11:23:21 PM 327,98 RON
 9/26/2020 10:35:51 AM 329,98 RON
+9/30/2020 12:03:54 PM 327,98 RON

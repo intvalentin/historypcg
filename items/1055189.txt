@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk4gx4m1a2400c14
 1055189
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-4gb-ddr4-2400mhz-cl14/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/1055189/thumbnails/vengeance-lpx-blac
 9/21/2020 7:40:08 AM 107,21 RON
 9/24/2020 9:22:18 AM 108,12 RON
 9/25/2020 9:37:37 PM 109,37 RON
+9/29/2020 10:57:59 PM 109,22 RON

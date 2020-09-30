@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog maximus xi gene
 1772280
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/maximus-xi-gene/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1772280/thumbnails/maximus-xi-gene-800a
 9/21/2020 7:37:13 AM 1.689,96 RON
 9/23/2020 10:18:03 PM 1.707,77 RON
 9/25/2020 8:40:26 PM 1.727,53 RON
+9/29/2020 6:51:36 PM 1.725,26 RON

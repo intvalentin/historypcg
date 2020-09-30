@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ss-500es
 1161241
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-500es-80-plus-bronze-500w-bulk/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1088099/1161241/thumbnails/ss-350es-80-plus-
 9/21/2020 7:47:36 AM 290,01 RON
 9/24/2020 1:42:30 PM 293,95 RON
 9/25/2020 10:45:55 PM 296,46 RON
+9/30/2020 6:55:03 PM 295,02 RON
+9/30/2020 6:55:48 PM 295,02 RON

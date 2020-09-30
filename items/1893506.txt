@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_arctis3bt19
 1893506
     Product link    
 https://www.pcgarage.ro/casti-gaming/steelseries/arctis-3-bluetooth-2019-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1893506/thumbnails/steelseries-arctis-3
 9/21/2020 8:01:00 AM 559,99 RON
 9/24/2020 7:21:25 PM 559,99 RON
 9/26/2020 10:24:42 AM 559,99 RON
+9/30/2020 10:44:55 AM 559,99 RON

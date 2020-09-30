@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjd500400
 1982646
     Product link    
 https://www.pcgarage.ro/ssd/seagate/expansion-500gb-usb-30-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1977958/1982646/thumbnails/expansion-1tb-usb
 9/21/2020 7:44:16 AM 390,95 RON
 9/24/2020 10:55:41 AM 392,90 RON
 9/25/2020 9:59:39 PM 397,46 RON
+9/30/2020 1:56:38 PM 396,93 RON

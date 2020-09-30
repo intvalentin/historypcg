@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c17pb4ak4+-+32
 1857526
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-rgb-32gb-ddr4-3600mhz-cl17-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1190677/1857526/thumbnails/predator-rgb-32gb
 9/21/2020 7:41:40 AM 1.297,47 RON
 9/24/2020 8:46:53 AM 1.312,25 RON
 9/25/2020 9:19:32 PM 1.323,34 RON
+9/30/2020 10:18:50 AM 1.323,75 RON

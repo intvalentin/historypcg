@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000nea01
 2053402
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/seagate-ironwolf-pro-8000-8tb-7200rpm-sata-iii-35inch-nas-hdd-retail-singlepack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457254/2053402/thumbnails/ironwolf-pro-8tb-
 9/21/2020 7:45:38 AM 1.748,67 RON
 9/24/2020 12:24:25 PM 1.768,14 RON
 9/25/2020 10:12:56 PM 1.783,71 RON
+9/30/2020 4:28:48 PM 1.772,03 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as40g-2tt-c
 2084002
     Product link    
 https://www.pcgarage.ro/ssd/a-data/xpg-spectrix-s40g-rgb-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/2084002/thumbnails/xpg-spectrix-s40g-rg
 9/21/2020 7:44:50 AM 1.610,03 RON
 9/24/2020 10:39:12 AM 1.628,26 RON
 9/25/2020 9:54:26 PM 1.642,58 RON
+9/30/2020 2:54:58 PM 1.642,58 RON

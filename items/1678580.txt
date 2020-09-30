@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpekkw020t8x1
 1678580
     Product link    
 https://www.pcgarage.ro/ssd/intel/760p-series-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1678580/thumbnails/760p-series-512gb
 9/21/2020 7:42:48 AM 1.328,62 RON
 9/24/2020 10:30:58 AM 1.346,68 RON
 9/25/2020 9:52:12 PM 1.357,87 RON
+9/30/2020 12:49:41 PM 1.351,51 RON

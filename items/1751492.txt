@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s101-2-bk
 1751492
     Product link    
 https://www.pcgarage.ro/kit-gaming/redragon/vajra-plus-centrophorus/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/6763/1751492/thumbnails/vajra-plus-centropho
 9/24/2020 7:52:13 PM 127,24 RON
 9/24/2020 11:36:29 PM 127,24 RON
 9/26/2020 10:49:14 AM 146,05 RON
+9/30/2020 1:58:19 PM 145,37 RON

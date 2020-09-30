@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21790
 2057498
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-140-manx-rechargeable-wireless/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057498/thumbnails/gxt-140-manx-recharg
 9/21/2020 8:00:00 AM 121,98 RON
 9/24/2020 7:04:41 PM 121,98 RON
 9/26/2020 10:06:25 AM 121,98 RON
+9/30/2020 8:21:22 AM 121,98 RON

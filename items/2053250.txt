@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bbs-600s
 2053250
     Product link    
 https://www.pcgarage.ro/surse/chieftec/core-bbs-600s-80-plus-gold-600w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2053250/thumbnails/core-bbs-500s-80-plu
 9/21/2020 7:46:14 AM 372,97 RON
 9/24/2020 12:38:48 PM 377,18 RON
 9/25/2020 10:18:45 PM 380,37 RON
+9/30/2020 5:30:22 PM 386,76 RON

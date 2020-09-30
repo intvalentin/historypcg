@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-01830200-r3m1
 1503546
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/gigantus-elite/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469758/1503546/thumbnails/gigantus-elite-b4
 9/21/2020 8:00:31 AM 205,98 RON
 9/24/2020 7:16:22 PM 205,98 RON
 9/26/2020 10:21:49 AM 173,98 RON
+9/30/2020 10:16:08 AM 173,98 RON

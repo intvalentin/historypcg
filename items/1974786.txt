@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m4b3200c16w
 1974786
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-white-32gb-ddr4-3200mhz-cl16-quad-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1974786/thumbnails/vengeance-lpx-white-
 9/21/2020 7:41:20 AM 729,40 RON
 9/24/2020 12:10:55 AM 762,26 RON
 9/25/2020 9:15:02 PM 768,61 RON
+9/30/2020 9:39:11 AM 768,88 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000ne000
 1865350
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-6tb-sata-iii-7200rpm-256mb-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1508470/1865350/thumbnails/ironwolf-pro-6tb-
 9/21/2020 7:45:10 AM 1.076,77 RON
 9/24/2020 11:28:50 AM 1.082,16 RON
 9/25/2020 10:11:28 PM 1.094,67 RON
+9/30/2020 3:53:35 PM 1.089,30 RON

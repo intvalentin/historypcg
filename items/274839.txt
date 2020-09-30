@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-500ae
 274839
     Product link    
 https://www.pcgarage.ro/surse/segotep/sg-500ae/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/274839/thumbnails/sg-500ae-a7057647abdc3b3
 9/21/2020 7:46:31 AM 211,97 RON
 9/24/2020 2:01:10 PM 214,85 RON
 9/25/2020 10:53:13 PM 216,63 RON
+9/30/2020 6:22:16 PM 215,30 RON

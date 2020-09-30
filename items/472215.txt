@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd38g13332h
 472215
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-line-8gb-ddr3-1333mhz-cl9/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/472215/thumbnails/signature-line-heat
 9/21/2020 7:40:27 AM 158,19 RON
 9/24/2020 9:28:32 AM 160,03 RON
 9/25/2020 9:39:06 PM 161,31 RON
+9/29/2020 11:11:21 PM 161,45 RON

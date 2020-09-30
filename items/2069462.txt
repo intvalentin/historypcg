@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-03390100-r3m1
 2069462
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/huntsman-mini-clicky-optical-switch-mecanica/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/4273/2069462/thumbnails/huntsman-mini-clicky
 9/24/2020 7:46:20 PM 583,98 RON
 9/24/2020 11:30:35 PM 583,98 RON
 9/26/2020 10:43:17 AM 585,98 RON
+9/30/2020 1:40:20 PM 585,98 RON

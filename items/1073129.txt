@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct2kit25664aa800
 1073129
     Product link    
 https://www.pcgarage.ro/memorii/crucial/4gb-ddr2-800mhz-cl6-dual-channel-kit-18v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/1073129/thumbnails/4gb-ddr2-800mhz-cl6-dua
 9/21/2020 7:40:51 AM 305,55 RON
 9/24/2020 9:22:18 AM 308,78 RON
 9/25/2020 9:37:37 PM 312,35 RON
+9/30/2020 8:26:32 AM 311,94 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwd130uzsva
 1587482
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/p300-3tb-sata-iii-7200-rpm-64mb-bulk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1000151/1587482/thumbnails/p300-3tb-sata-iii
 9/21/2020 7:45:02 AM 343,99 RON
 9/24/2020 11:24:44 AM 343,99 RON
 9/25/2020 10:10:01 PM 343,99 RON
+9/30/2020 3:39:18 PM 343,99 RON

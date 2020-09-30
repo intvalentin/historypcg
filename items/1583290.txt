@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ghs3510
 1583290
     Product link    
 https://www.pcgarage.ro/casti-gaming/gamdias/hephaestus-v2/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/953558/1583290/thumbnails/hephaestus-v2-d9f5
 9/24/2020 7:39:08 PM 149,99 RON
 9/24/2020 11:23:21 PM 149,99 RON
 9/26/2020 10:35:51 AM 149,99 RON
+9/30/2020 11:47:51 AM 149,99 RON

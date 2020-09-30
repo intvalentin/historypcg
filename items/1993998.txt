@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjm500400
 1993998
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-fast-500gb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/1993998/thumbnails/barracuda-fast-50
 9/21/2020 7:43:14 AM 413,47 RON
 9/24/2020 9:51:01 AM 415,54 RON
 9/25/2020 9:44:52 PM 420,35 RON
+9/30/2020 1:57:29 PM 409,49 RON

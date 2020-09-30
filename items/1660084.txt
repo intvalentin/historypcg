@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-4000c19d-16gtzkw
 1660084
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-16gb-ddr4-4000mhz-cl19-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1535667/1660084/thumbnails/trident-z-16gb-dd
 9/21/2020 7:38:40 AM 554,80 RON
 9/23/2020 11:39:47 PM 561,15 RON
 9/25/2020 9:03:13 PM 565,84 RON
+9/29/2020 9:41:51 PM 584,48 RON

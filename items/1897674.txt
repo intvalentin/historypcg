@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdp-650c-rgb
 1897674
     Product link    
 https://www.pcgarage.ro/surse/chieftec/photon-gold-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3944/1897674/thumbnails/chieftec-atx-psu-a-9
 9/21/2020 7:45:53 AM 461,09 RON
 9/24/2020 12:42:54 PM 466,32 RON
 9/25/2020 10:20:57 PM 470,24 RON
+9/30/2020 5:37:22 PM 467,33 RON

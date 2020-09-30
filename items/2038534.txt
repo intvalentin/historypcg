@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23439
 2038534
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-404r-rana-nintendo-switch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2038534/thumbnails/gxt-404r-rana-ninten
 9/21/2020 8:01:19 AM 119,99 RON
 9/24/2020 7:23:35 PM 119,99 RON
 9/26/2020 10:26:57 AM 119,99 RON
+9/30/2020 10:59:05 AM 119,99 RON

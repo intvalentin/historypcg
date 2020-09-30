@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper 600
 877471
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-600/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/843505/877471/thumbnails/hyper-600-a833eeb06
 9/21/2020 7:47:36 AM 296,36 RON
 9/24/2020 1:52:52 PM 298,75 RON
 9/25/2020 10:49:36 PM 301,29 RON
+9/30/2020 6:57:27 PM 299,81 RON

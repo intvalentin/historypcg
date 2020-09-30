@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spr-0700n
 1585886
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-rgb-80-plus-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1585886/thumbnails/smart-rgb-80-plus
 9/21/2020 7:46:45 AM 349,39 RON
 9/24/2020 1:20:02 PM 354,14 RON
 9/25/2020 10:34:06 PM 357,08 RON
+9/30/2020 7:36:15 PM 354,89 RON

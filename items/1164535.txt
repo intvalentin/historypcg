@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4dfd824a
 1164535
     Product link    
 https://www.pcgarage.ro/memorii/crucial/16gb-ddr4-2400mhz-cl17-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1141198/1164535/thumbnails/4gb-ddr4-2400mhz-
 9/21/2020 7:40:03 AM 317,24 RON
 9/24/2020 9:20:11 AM 321,55 RON
 9/25/2020 9:31:28 PM 324,22 RON
+9/30/2020 8:29:11 AM 322,70 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co01-bb
 1421518
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/cobra-negru-albastru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1192525/1421518/thumbnails/cobra-negru-albas
 9/21/2020 8:07:10 AM 499,99 RON
 9/25/2020 12:15:45 AM 499,99 RON
 9/26/2020 1:11:59 PM 499,99 RON
+9/30/2020 7:35:10 PM 499,99 RON

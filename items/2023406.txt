@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp004gblfu240c02
 2023406
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/4gb-ddr4-2400mhz-cl17-12v-19/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469770/2023406/thumbnails/4gb-ddr4-2133mhz-
 9/21/2020 7:38:50 AM 99,14 RON
 9/23/2020 11:12:56 PM 100,27 RON
 9/25/2020 8:52:57 PM 101,12 RON
+9/29/2020 7:39:46 PM 101,27 RON

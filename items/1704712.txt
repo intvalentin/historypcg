@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9109010-na
 1704712
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/corsair/k70-mk2-rgb-led-cherry-mx-red-layout-us-mecanica/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1703884/1704712/thumbnails/k70-mk2-rgb-led-c
 9/24/2020 7:45:36 PM 849,99 RON
 9/24/2020 11:29:52 PM 849,99 RON
 9/26/2020 10:39:33 AM 849,99 RON
+9/30/2020 12:44:13 PM 849,99 RON

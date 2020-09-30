@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd2003fzex
 784880
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/2tb-sata-iii-7200rpm-64mb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/784880/thumbnails/2tb-sata-iii-7200rp
 9/21/2020 7:45:06 AM 599,99 RON
 9/24/2020 11:26:47 AM 599,99 RON
 9/25/2020 10:10:44 PM 599,99 RON
+9/30/2020 3:44:08 PM 599,99 RON

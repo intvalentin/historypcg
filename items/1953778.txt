@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10gas9901
 1953778
     Product link    
 https://www.pcgarage.ro/placi-de-captura/elgato/game-capture-4k60-pro-mk2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6997/1953778/thumbnails/game-capture-4k60-pr
 9/21/2020 7:59:27 AM 1.257,03 RON
 9/24/2020 7:00:25 PM 1.258,56 RON
 9/26/2020 10:02:04 AM 1.260,64 RON
+9/29/2020 11:07:08 PM 1.260,21 RON

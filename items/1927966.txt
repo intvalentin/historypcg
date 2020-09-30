@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |argon 100 blue
 1927966
     Product link    
 https://www.pcgarage.ro/casti-gaming/genesis/argon-100-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1927966/thumbnails/argon-100-blue-f45ef
 9/21/2020 8:02:00 AM 71,98 RON
 9/24/2020 7:29:27 PM 71,98 RON
 9/26/2020 10:32:53 AM 71,98 RON
+9/30/2020 11:38:16 AM 71,98 RON

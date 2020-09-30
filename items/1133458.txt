@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd10ezrz
 1133458
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/blue-1tb-sata-iii-5400-rpm-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1133458/thumbnails/blue-1tb-sata-iii-
 9/21/2020 7:45:15 AM 205,51 RON
 9/24/2020 12:32:39 PM 200,61 RON
 9/25/2020 10:15:53 PM 202,31 RON
+9/30/2020 4:00:24 PM 201,32 RON

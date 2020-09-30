@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct51264bd160bj
 1119738
     Product link    
 https://www.pcgarage.ro/memorii/crucial/4gb-ddr3-1600mhz-cl11-16/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1052635/1119738/thumbnails/4gb-ddr3-1600mhz-
 9/21/2020 7:40:03 AM 111,81 RON
 9/24/2020 9:22:18 AM 113,33 RON
 9/25/2020 9:32:13 PM 114,27 RON
+9/29/2020 10:59:37 PM 113,73 RON

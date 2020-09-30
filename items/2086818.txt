@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jblq800
 2086818
     Product link    
 https://www.pcgarage.ro/casti-gaming/jbl/quantum-800/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7008/2086818/thumbnails/quantum-800-30e82dc2
 9/21/2020 8:01:46 AM 1.377,98 RON
 9/24/2020 7:22:51 PM 1.377,98 RON
 9/26/2020 10:26:12 AM 1.377,98 RON
+9/30/2020 11:35:20 AM 1.377,98 RON

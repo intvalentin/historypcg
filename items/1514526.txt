@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x299 raider
 1514526
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/x299-raider/
@@ -10,3 +10,8 @@ https://4.grgs.ro/images/products/1/1431858/1514526/thumbnails/x299-raider-ab836
 9/21/2020 7:37:04 AM 1.072,92 RON
 9/23/2020 10:30:27 PM 1.078,28 RON
 9/25/2020 8:44:56 PM 1.090,76 RON
+9/29/2020 6:26:17 PM 1.089,32 RON
+9/29/2020 6:26:49 PM 1.089,32 RON
+9/29/2020 6:34:16 PM 1.089,32 RON
+9/29/2020 6:36:12 PM 1.089,32 RON
+9/29/2020 6:37:48 PM 1.089,32 RON

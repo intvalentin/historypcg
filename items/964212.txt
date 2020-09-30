@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-cled-rc-30
 964212
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-led-lighting-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/964212/thumbnails/rgb-color-led-c0dd6
 9/21/2020 7:58:54 AM 83,92 RON
 9/24/2020 6:53:54 PM 85,79 RON
 9/26/2020 9:55:33 AM 85,77 RON
+9/29/2020 10:03:33 PM 85,37 RON

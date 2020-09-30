@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds250g3x0c
 1789336
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/black-sn750-250gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6440/1789336/thumbnails/wd-black-sn750-nvme-
 9/21/2020 7:42:17 AM 305,25 RON
 9/24/2020 9:34:43 AM 298,83 RON
 9/25/2020 9:41:16 PM 298,83 RON
+9/30/2020 11:18:15 AM 306,16 RON

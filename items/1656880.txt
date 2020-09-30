@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9440022-eu
 1656880
     Product link    
 https://www.pcgarage.ro/mouse-pad/corsair/mm1000/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/530/1656880/thumbnails/mm1000-870d27fbb261fc
 9/21/2020 8:00:51 AM 517,98 RON
 9/24/2020 7:17:51 PM 517,98 RON
 9/26/2020 10:21:05 AM 519,98 RON
+9/30/2020 10:20:25 AM 517,98 RON

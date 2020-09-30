@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-8950020
 2049742
     Product link    
 https://www.pcgarage.ro/modding/corsair/rgb-fan-led-hub/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2049742/thumbnails/rgb-fan-led-hub-4
 9/21/2020 7:58:54 AM 58,63 RON
 9/24/2020 6:52:27 PM 59,43 RON
 9/26/2020 9:54:04 AM 59,94 RON
+9/29/2020 10:00:46 PM 59,86 RON

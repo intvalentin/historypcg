@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4110002
 1834952
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-x-x-2-hd-pentru-nintendo-switch/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/5631/1834952/thumbnails/final-fantasy-x-x-2-
 9/24/2020 8:02:41 PM 149,98 RON
 9/24/2020 11:46:57 PM 149,98 RON
 9/26/2020 10:59:42 AM 149,98 RON
+9/30/2020 4:13:40 PM 149,98 RON

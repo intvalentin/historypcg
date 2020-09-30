@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c16pb3a+-+32
 2075538
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-rgb-32gb-ddr4-3000mhz-cl16/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1190677/2075538/thumbnails/predator-rgb-32gb
     Pret    
 9/24/2020 12:00:30 AM 768,07 RON
 9/25/2020 9:10:34 PM 774,56 RON
+9/30/2020 9:40:17 AM 774,83 RON

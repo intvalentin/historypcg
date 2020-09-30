@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22401
 1642280
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-180-kusan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/922/1642280/thumbnails/gxt-180-kusan-8bd5467
 9/21/2020 7:59:56 AM 115,98 RON
 9/24/2020 7:06:53 PM 115,98 RON
 9/26/2020 10:08:37 AM 115,98 RON
+9/30/2020 8:21:06 AM 115,98 RON

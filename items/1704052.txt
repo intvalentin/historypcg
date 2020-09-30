@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H370M D3H GSM
 1704052
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/h370m-d3h-gsm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691840/1704052/thumbnails/h370m-d3h-gsm-528
 9/21/2020 7:36:14 AM 529,69 RON
 9/23/2020 10:22:12 PM 536,79 RON
 9/25/2020 8:41:56 PM 541,35 RON
+9/29/2020 5:12:37 PM 540,76 RON

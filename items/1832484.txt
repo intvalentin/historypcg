@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-1600c7d-16gtx
 1832484
     Product link    
 https://www.pcgarage.ro/memorii/gskill/tridentx-16gb-ddr3-1600mhz-cl7-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5631/1832484/thumbnails/tridentx-16gb-ddr3-1
 9/21/2020 7:39:24 AM 575,36 RON
 9/23/2020 11:27:24 PM 581,85 RON
 9/25/2020 8:58:50 PM 586,82 RON
+9/29/2020 9:45:49 PM 606,15 RON

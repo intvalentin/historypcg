@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts1tmte220s
 1967462
     Product link    
 https://www.pcgarage.ro/ssd/transcend/220s-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1967462/thumbnails/220s-1tb-pci-express
 9/21/2020 7:42:48 AM 665,52 RON
 9/24/2020 9:55:08 AM 673,09 RON
 9/25/2020 9:46:20 PM 640,98 RON
+9/30/2020 12:33:21 PM 641,11 RON

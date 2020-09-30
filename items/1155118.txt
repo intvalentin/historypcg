@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk8gx4m2a2133c13r
 1155118
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-8gb-ddr4-2133mhz-cl13-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/853128/1155118/thumbnails/vengeance-lpx-red-
 9/21/2020 7:40:41 AM 208,35 RON
 9/24/2020 9:20:11 AM 210,55 RON
 9/25/2020 9:32:13 PM 212,98 RON
+9/30/2020 8:04:59 AM 212,70 RON

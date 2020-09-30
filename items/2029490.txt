@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjw1000400
 2029490
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ultra-touch-1tb-usb-30-tip-c-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2029490/thumbnails/ultra-touch-1tb-usb-
 9/21/2020 7:42:48 AM 610,98 RON
 9/24/2020 9:46:53 AM 614,03 RON
 9/25/2020 9:44:08 PM 621,14 RON
+9/30/2020 12:30:44 PM 620,32 RON

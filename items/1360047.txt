@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |trs-0650p-2
 1360047
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/tr2-s-80-plus-650w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862960/1360047/thumbnails/tr2-s-80-plus-650w
 9/21/2020 7:46:49 AM 332,88 RON
 9/24/2020 1:40:25 PM 337,41 RON
 9/25/2020 10:45:10 PM 340,21 RON
+9/30/2020 7:12:16 PM 338,12 RON

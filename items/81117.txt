@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d25664g60
 81117
     Product link    
 https://www.pcgarage.ro/memorii/kingston/2gb-ddr2-800mhz-pc2-6400-cl6/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/81117/thumbnails/2gb-ddr2-800mhz-pc2-6400-
 9/21/2020 7:40:27 AM 160,72 RON
 9/24/2020 9:30:36 AM 162,90 RON
 9/25/2020 9:39:51 PM 164,25 RON
+9/29/2020 11:14:01 PM 163,49 RON

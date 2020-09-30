@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpekkw512g801
 1682140
     Product link    
 https://www.pcgarage.ro/ssd/intel/760p-series-512gb-pci-express-30-x4-m2-2280-generic-single-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1682140/thumbnails/760p-series-512gb
 9/21/2020 7:42:33 AM 391,50 RON
 9/24/2020 10:30:58 AM 396,83 RON
 9/25/2020 9:51:27 PM 400,12 RON
+9/30/2020 12:11:33 PM 398,25 RON

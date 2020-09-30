@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acntsav2
 880045
     Product link    
 https://www.pcgarage.ro/accesorii-ventilatoare-radiatoare/noctua/na-sav2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/880045/thumbnails/na-sav2-0967f0c846e
 9/21/2020 7:58:37 AM 27,92 RON
 9/24/2020 6:50:18 PM 27,92 RON
 9/26/2020 9:51:53 AM 27,92 RON
+9/29/2020 9:31:47 PM 27,92 RON

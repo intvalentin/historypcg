@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000vm002
 355325
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/1tb-sata-iii-5900-rpm-64mb-pipeline-hd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/355325/thumbnails/video-35-hdd-1tb-5900rpm
 9/21/2020 7:45:19 AM 267,73 RON
 9/24/2020 12:32:39 PM 271,37 RON
 9/25/2020 10:16:35 PM 273,69 RON
+9/30/2020 4:03:34 PM 272,34 RON

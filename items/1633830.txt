@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3000c16d-16gsxfb
 1633830
     Product link    
 https://www.pcgarage.ro/memorii/gskill/sniper-x-classic-camo-16gb-ddr4-3000mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1630882/1633830/thumbnails/sniper-x-classic-
 9/21/2020 7:38:12 AM 318,77 RON
 9/23/2020 11:41:52 PM 322,28 RON
 9/25/2020 9:03:56 PM 325,09 RON
+9/29/2020 8:59:53 PM 335,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd38g16002
 806495
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-line-8gb-ddr3-1600mhz-cl11-dual-rank-15v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/806495/thumbnails/signature-line-8gb-
 9/21/2020 7:40:27 AM 153,76 RON
 9/24/2020 9:26:28 AM 155,37 RON
 9/25/2020 9:39:06 PM 157,17 RON
+9/29/2020 11:09:43 PM 156,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz01-03340100-r3m1
 2069454
     Product link    
 https://www.pcgarage.ro/mouse-gaming/razer/deathadder-v2-mini/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2069454/thumbnails/deathadder-v2-mini-3
 9/21/2020 8:00:18 AM 327,98 RON
 9/24/2020 7:08:21 PM 327,98 RON
 9/26/2020 10:09:23 AM 329,98 RON
+9/30/2020 8:56:45 AM 329,98 RON

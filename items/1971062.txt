@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c17d-8gnt
 1971062
     Product link    
 https://www.pcgarage.ro/memorii/gskill/f4-8gb-ddr4-2400mhz-cl17-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/1971062/thumbnails/f4-8gb-ddr4-2400mhz-
 9/21/2020 7:40:32 AM 162,45 RON
 9/24/2020 8:36:30 AM 164,17 RON
 9/25/2020 9:15:47 PM 166,07 RON
+9/29/2020 11:17:38 PM 165,85 RON

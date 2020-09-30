@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22208
 2033170
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-310d-radius-desert-camo/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033170/thumbnails/gxt-310d-radius-dese
 9/21/2020 8:01:23 AM 103,98 RON
 9/24/2020 7:24:19 PM 103,98 RON
 9/26/2020 10:27:42 AM 103,98 RON
+9/30/2020 10:56:43 AM 103,98 RON

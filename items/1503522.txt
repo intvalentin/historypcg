@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-01940100-r3m1
 1503522
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/sphex-v2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1415042/1503522/thumbnails/sphex-v2-9d237edd
 9/21/2020 8:00:34 AM 99,98 RON
 9/24/2020 7:16:22 PM 99,98 RON
 9/26/2020 10:21:49 AM 89,98 RON
+9/30/2020 10:10:57 AM 89,98 RON

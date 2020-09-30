@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-2400c10q-32gtx
 1832480
     Product link    
 https://www.pcgarage.ro/memorii/gskill/tridentx-32gb-ddr3-2400mhz-cl10-165v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1505170/1832480/thumbnails/tridentx-32gb-ddr
 9/21/2020 7:39:37 AM 1.143,12 RON
 9/23/2020 11:27:24 PM 1.156,12 RON
 9/25/2020 8:58:50 PM 1.165,84 RON
+9/29/2020 10:17:08 PM 1.204,16 RON

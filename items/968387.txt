@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sfx-350bs
 968387
     Product link    
 https://www.pcgarage.ro/surse/chieftec/sfx-350bs-350w-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/968387/thumbnails/sfx-350bs-350w-bulk-240c
 9/21/2020 7:47:21 AM 213,81 RON
 9/24/2020 1:50:48 PM 217,80 RON
 9/25/2020 10:48:53 PM 217,95 RON
+9/30/2020 5:02:09 PM 216,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwf180ezsta
 1675084
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/x300-8tb-sata-iii-7200-rpm-128mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1535667/1675084/thumbnails/x300-4tb-sata-iii
 9/21/2020 7:45:29 AM 953,67 RON
 9/24/2020 12:26:28 PM 956,27 RON
 9/25/2020 10:14:24 PM 958,48 RON
+9/30/2020 4:18:17 PM 956,65 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x570 taichi
 1905366
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/x570-taichi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1905366/thumbnails/x570-taichi-1eb8d1ae
 9/21/2020 7:37:09 AM 1.585,43 RON
 9/23/2020 7:41:29 PM 1.603,76 RON
 9/25/2020 8:38:56 PM 1.616,85 RON
+9/29/2020 6:48:16 PM 1.618,16 RON

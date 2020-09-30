@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb100bl
 1429846
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-100-blue-led-lighting-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1416578/1429846/thumbnails/rgb-100-blue-led-
 9/21/2020 7:58:54 AM 45,67 RON
 9/24/2020 6:53:10 PM 46,69 RON
 9/26/2020 9:54:49 AM 46,68 RON
+9/29/2020 9:57:31 PM 46,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st3000dm007
 1530791
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-3tb-sata-iii-5400rpm-256mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025736/1530791/thumbnails/barracuda-3tb-sat
 9/21/2020 7:45:10 AM 419,99 RON
 9/24/2020 12:22:21 PM 419,99 RON
 9/25/2020 10:12:11 PM 419,99 RON
+9/30/2020 3:50:33 PM 419,99 RON

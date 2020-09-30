@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-asm2ne2256gttdr
 1877746
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/aorus-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1867706/1877746/thumbnails/aorus-256gb-pci-e
 9/21/2020 7:42:17 AM 284,15 RON
 9/24/2020 9:34:42 AM 280,92 RON
 9/25/2020 9:41:16 PM 280,92 RON
+9/30/2020 11:17:43 AM 293,16 RON

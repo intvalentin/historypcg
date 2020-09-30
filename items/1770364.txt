@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssd7cs900-960-pb
 1770364
     Product link    
 https://www.pcgarage.ro/ssd/pny/cs900-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1192525/1770364/thumbnails/cs900-240gb-sata-
 9/21/2020 7:43:14 AM 506,55 RON
 9/24/2020 10:24:46 AM 512,39 RON
 9/25/2020 9:50:43 PM 516,63 RON
+9/30/2020 12:21:51 PM 516,76 RON

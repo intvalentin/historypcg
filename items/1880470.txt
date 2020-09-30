@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253x2512g0c101
 1880470
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/gx2-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5634/1880470/thumbnails/gx2-128gb-sata-iii-2
 9/21/2020 7:43:33 AM 248,30 RON
 9/24/2020 11:01:54 AM 247,49 RON
 9/25/2020 10:01:53 PM 245,86 RON
+9/30/2020 1:31:34 PM 241,82 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st12000ne0008
 1868478
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-12tb-sata-iii-7200rpm-256mb-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1868478/thumbnails/ironwolf-pro-12tb-sa
 9/21/2020 7:45:15 AM 1.833,49 RON
 9/24/2020 11:28:50 AM 1.852,78 RON
 9/25/2020 10:11:28 PM 1.874,21 RON
+9/30/2020 3:58:14 PM 1.848,17 RON

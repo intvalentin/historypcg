@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd4003fzex recertified
 1509162
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/black-4tb-sata-iii-7200-rpm-64mb-recertified/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/634551/1509162/thumbnails/4tb-sata-iii-7200r
 9/21/2020 7:45:29 AM 1.045,37 RON
 9/24/2020 12:30:36 PM 1.045,37 RON
 9/25/2020 10:15:09 PM 1.045,37 RON
+9/30/2020 4:19:06 PM 1.045,37 RON

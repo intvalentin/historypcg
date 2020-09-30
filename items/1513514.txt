@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx-mpfs-sm
 1513514
     Product link    
 https://www.pcgarage.ro/mouse-pad/hyperx/fury-s-pro-small/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/842306/1513514/thumbnails/fury-s-pro-small-7
 9/21/2020 8:00:51 AM 54,99 RON
 9/24/2020 7:18:35 PM 54,99 RON
 9/26/2020 10:21:49 AM 54,99 RON
+9/30/2020 10:06:03 AM 54,99 RON

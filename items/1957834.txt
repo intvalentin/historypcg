@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gr26c16s8k1hu408
 1957834
     Product link    
 https://www.pcgarage.ro/memorii/gigabyte/8gb-ddr4-2666mhz-cl16-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1957834/thumbnails/8gb-ddr4-2666mhz-
 9/21/2020 7:40:41 AM 234,72 RON
 9/24/2020 8:38:35 AM 237,20 RON
 9/25/2020 9:15:47 PM 237,93 RON
+9/30/2020 8:12:39 AM 237,62 RON

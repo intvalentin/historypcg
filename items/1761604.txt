@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-550
 1761604
     Product link    
 https://www.pcgarage.ro/surse/segotep/segotep-sp-550-450w-psu/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1765416/1761604/thumbnails/sp-550-450w-977ea
 9/21/2020 7:45:41 AM 79,99 RON
 9/24/2020 12:34:42 PM 79,99 RON
 9/25/2020 10:17:19 PM 79,99 RON
+9/30/2020 4:46:49 PM 79,99 RON

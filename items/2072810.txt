@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za3840nx1a001
 2072810
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-pro-125-384tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2072810/thumbnails/ironwolf-pro-125-384
 9/21/2020 7:44:55 AM 3.857,87 RON
 9/24/2020 10:39:12 AM 3.902,18 RON
 9/25/2020 9:55:11 PM 3.934,77 RON
+9/30/2020 3:07:59 PM 3.936,06 RON

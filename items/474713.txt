@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lq037aa
 474713
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/hp/1tb-sata-7200-rpm-35-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/474713/thumbnails/1tb-sata-7200-rpm-35-inc
 9/21/2020 7:45:24 AM 372,50 RON
 9/24/2020 12:32:39 PM 372,86 RON
 9/25/2020 10:16:35 PM 373,47 RON
+9/30/2020 4:06:36 PM 373,60 RON

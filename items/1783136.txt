@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c15d-32gfxr
 1783136
     Product link    
 https://www.pcgarage.ro/memorii/gskill/flare-x-red-for-amd-32gb-ddr4-2400-mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1783136/thumbnails/flare-x-red-for-amd-
 9/21/2020 7:39:24 AM 571,91 RON
 9/23/2020 11:31:33 PM 578,54 RON
 9/25/2020 9:00:16 PM 583,37 RON
+9/29/2020 9:47:57 PM 631,96 RON

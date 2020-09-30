@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-bz-dn500
 1425226
     Product link    
 https://www.pcgarage.ro/surse/deepcool/nova-series-dn500-new-version-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088254/1425226/thumbnails/nova-series-dn500
 9/21/2020 7:46:40 AM 187,99 RON
 9/24/2020 1:28:19 PM 187,52 RON
 9/25/2020 10:44:25 PM 189,08 RON
+9/30/2020 6:08:49 PM 187,91 RON

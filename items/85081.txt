@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eps-750
 85081
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/energon-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/85081/thumbnails/energon-750w-5ffe15923306
 9/21/2020 7:45:49 AM 255,86 RON
 9/24/2020 12:57:16 PM 259,34 RON
 9/25/2020 10:25:55 PM 261,49 RON
+9/30/2020 5:10:05 PM 260,27 RON

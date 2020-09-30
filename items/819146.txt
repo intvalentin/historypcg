@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sarx600af
 819146
     Product link    
 https://www.pcgarage.ro/surse/raidmax/rx-600af/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/819146/thumbnails/rx-600af-c2ded7397f8f71b
 9/21/2020 7:47:40 AM 312,93 RON
 9/24/2020 1:52:53 PM 312,93 RON
 9/25/2020 10:49:36 PM 312,93 RON
+9/30/2020 7:04:03 PM 312,93 RON

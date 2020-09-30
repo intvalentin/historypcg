@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-500g
 1893842
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-500g-500w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1275/1893842/thumbnails/sl-500g-500w-e5b16b5
 9/21/2020 7:47:12 AM 66,53 RON
 9/24/2020 1:05:31 PM 67,44 RON
 9/25/2020 10:28:54 PM 68,00 RON
+9/30/2020 5:55:32 PM 67,58 RON

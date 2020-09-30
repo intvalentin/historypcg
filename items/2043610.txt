@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za2000gm1a001
 2043610
     Product link    
 https://www.pcgarage.ro/ssd/seagate/firecuda-120-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2043610/thumbnails/sg-ssd-500gb-sata-ii
 9/21/2020 7:43:52 AM 1.416,30 RON
 9/24/2020 10:51:32 AM 1.431,25 RON
 9/25/2020 9:58:09 PM 1.447,80 RON
+9/30/2020 2:52:15 PM 1.445,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |STRIX Z270H GAMING
 1443018
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/strix-z270h-gaming/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1053670/1443018/thumbnails/strix-z270h-gamin
 9/21/2020 7:37:00 AM 941,14 RON
 9/23/2020 10:52:23 PM 951,07 RON
 9/25/2020 8:46:25 PM 962,08 RON
+9/29/2020 5:42:45 PM 960,81 RON

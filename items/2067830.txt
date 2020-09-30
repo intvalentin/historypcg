@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds960g1d0d
 2067830
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/gold-enterprise-960gb-u2-pci-express-30-x4-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2067830/thumbnails/wd-gold-enterprise-c
 9/21/2020 7:43:23 AM 1.386,09 RON
 9/24/2020 9:44:48 AM 1.401,67 RON
 9/25/2020 9:42:41 PM 1.413,35 RON
+9/30/2020 12:51:17 PM 1.414,64 RON

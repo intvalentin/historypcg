@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g925-bg
 1089099
     Product link    
 https://www.pcgarage.ro/casti-gaming/somic/g925-black-green/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/480523/1089099/thumbnails/g925-black-green-0
 9/24/2020 7:39:51 PM 105,99 RON
 9/24/2020 11:24:05 PM 105,99 RON
 9/26/2020 10:36:36 AM 105,99 RON
+9/30/2020 11:41:34 AM 105,99 RON

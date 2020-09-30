@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0-761345-06484-2
 1740768
     Product link    
 https://www.pcgarage.ro/surse/antec/vp400-pc-400w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1740768/thumbnails/vp500-pc-500w-e24
 9/21/2020 7:46:23 AM 231,37 RON
 9/24/2020 12:47:02 PM 231,96 RON
 9/25/2020 10:21:40 PM 232,26 RON
+9/30/2020 5:05:10 PM 231,82 RON

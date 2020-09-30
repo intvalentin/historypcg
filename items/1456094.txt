@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-065a0am-ce01b
 1456094
     Product link    
 https://www.pcgarage.ro/surse/njoy/storm-650-80-plus-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175596/1456094/thumbnails/storm-550-80-plus
 9/21/2020 7:45:49 AM 259,99 RON
 9/24/2020 12:51:08 PM 259,99 RON
 9/25/2020 10:23:46 PM 259,99 RON
+9/30/2020 5:08:59 PM 259,99 RON

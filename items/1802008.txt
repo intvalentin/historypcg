@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ekblue4082417a
 1802008
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/8gb-ddr4-2400mhz-cl17-12v-blue-heatshield/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4338/1802008/thumbnails/8gb-ddr4-2400mhz-cl1
 9/21/2020 7:40:27 AM 159,32 RON
 9/24/2020 8:55:12 AM 161,49 RON
 9/25/2020 9:22:31 PM 162,83 RON
+9/29/2020 11:11:38 PM 162,07 RON

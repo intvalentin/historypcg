@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid7050001
 1481398
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/thief-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1178653/1481398/thumbnails/thief-pentru-xbox
 9/21/2020 8:03:47 AM 69,98 RON
 9/25/2020 12:03:58 AM 69,98 RON
 9/26/2020 11:17:40 AM 69,98 RON
+9/30/2020 2:34:43 PM 69,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct2kit25664ba160bj
 1422218
     Product link    
 https://www.pcgarage.ro/memorii/crucial/4gb-ddr3-1600mhz-cl11-dual-channel-kit-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1052635/1422218/thumbnails/4gb-ddr3-1600mhz-
 9/21/2020 7:40:22 AM 105,02 RON
 9/24/2020 9:16:01 AM 106,12 RON
 9/25/2020 9:30:44 PM 107,35 RON
+9/29/2020 10:57:26 PM 107,21 RON

@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |n208t2-11d6-1150633
 1774288
     Product link    
 https://www.pcgarage.ro/placi-video/inno3d/geforce-rtx-2080-ti-twin-x2-11gb-gddr6-352-bit-1/
@@ -12,3 +12,4 @@ https://5.grgs.ro/images/products/1/8674/1774288/thumbnails/geforce-rtx-2080-ti-
 9/25/2020 8:13:41 PM 5.825,14 RON
 09/28/2020 19:05:08 5.847,39 RON
 09/28/2020 19:10:50 5.847,39 RON
+9/29/2020 9:07:31 PM 5.826,45 RON

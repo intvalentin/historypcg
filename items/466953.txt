@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crosshair v formula-z
 466953
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/crosshair-v-formula-z/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/466953/thumbnails/crosshair-v-formula-z-c2
 9/21/2020 7:37:04 AM 1.216,38 RON
 9/23/2020 10:56:31 PM 1.229,20 RON
 9/25/2020 8:47:09 PM 1.243,43 RON
+9/29/2020 6:40:49 PM 1.241,80 RON

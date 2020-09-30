@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020140-eu
 1459222
     Product link    
 https://www.pcgarage.ro/surse/corsair/hx-series-80-plus-platinum-1200w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457334/1459222/thumbnails/hx-series-80-plus
 9/21/2020 7:47:07 AM 1.237,93 RON
 9/24/2020 1:24:11 PM 1.259,04 RON
 9/25/2020 10:36:20 PM 1.262,64 RON
+9/30/2020 5:54:26 PM 1.295,28 RON

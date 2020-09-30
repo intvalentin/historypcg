@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8200np-480gt-c
 1663120
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8200-480gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1573/1663120/thumbnails/sx8200-240gb-pci-exp
 9/21/2020 7:44:31 AM 678,67 RON
 9/24/2020 11:12:19 AM 685,82 RON
 9/25/2020 10:05:36 PM 693,75 RON
+9/30/2020 2:29:55 PM 692,84 RON

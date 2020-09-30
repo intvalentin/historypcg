@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpm-650ii
 1834888
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/combat-power-cpm-ii-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5631/1834888/thumbnails/combat-power-cpm-ii-
 9/21/2020 7:46:59 AM 249,21 RON
 9/24/2020 1:07:36 PM 252,60 RON
 9/25/2020 10:29:39 PM 254,70 RON
+9/30/2020 6:37:38 PM 253,13 RON

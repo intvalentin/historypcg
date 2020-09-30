@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020133
 1452610
     Product link    
 https://www.pcgarage.ro/surse/corsair/tx550m-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/367655/1452610/thumbnails/tx550m-80-plus-bro
 9/21/2020 7:45:45 AM 416,29 RON
 9/24/2020 12:36:45 PM 381,24 RON
 9/25/2020 10:23:46 PM 381,24 RON
+9/30/2020 5:29:49 PM 381,24 RON

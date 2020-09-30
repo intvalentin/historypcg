@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu630ss-960gq-r
 1837700
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su630-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2863/1837700/thumbnails/su630-960gb-sata-iii
 9/21/2020 7:42:21 AM 450,15 RON
 9/24/2020 9:34:42 AM 449,23 RON
 9/25/2020 9:41:16 PM 449,23 RON
+9/30/2020 12:21:02 PM 499,10 RON

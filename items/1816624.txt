@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gr26c16s8k2hu416
 1816624
     Product link    
 https://www.pcgarage.ro/memorii/gigabyte/16gb-ddr4-2666mhz-cl16-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1816624/thumbnails/gigabyte-memory-16gb-
 9/21/2020 7:41:01 AM 414,98 RON
 9/24/2020 8:53:07 AM 419,36 RON
 9/25/2020 9:21:47 PM 424,22 RON
+9/30/2020 8:54:19 AM 423,66 RON

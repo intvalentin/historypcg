@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ctg-550c
 369771
     Product link    
 https://www.pcgarage.ro/surse/chieftec/a-80-ctg-550c-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/369771/thumbnails/a-80-ctg-550c-550w-4cba0
 9/21/2020 7:45:57 AM 284,58 RON
 9/24/2020 12:57:16 PM 289,90 RON
 9/25/2020 10:25:55 PM 290,27 RON
+9/30/2020 5:14:49 PM 288,48 RON

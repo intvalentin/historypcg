@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za240nx1a001
 2072826
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-pro-125-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072826/thumbnails/ironwolf-pro-125-384
 9/21/2020 7:44:26 AM 486,16 RON
 9/24/2020 10:39:12 AM 491,73 RON
 9/25/2020 9:54:26 PM 495,84 RON
+9/30/2020 2:10:42 PM 495,97 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0053
 478923
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/logilink/usb-virtual-3d-ua0053/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/478923/thumbnails/ua0053-66d0fa847b56afedf
 9/21/2020 7:59:16 AM 23,26 RON
 9/24/2020 6:58:19 PM 23,33 RON
 9/26/2020 9:59:56 AM 23,35 RON
+9/29/2020 10:37:17 PM 23,34 RON

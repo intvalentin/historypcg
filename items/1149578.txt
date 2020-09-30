@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm600-tx
 1149578
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm600-tx-80-plus-600w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1086319/1149578/thumbnails/zm600-tx-80-plus-
 9/21/2020 7:47:40 AM 318,80 RON
 9/24/2020 1:42:30 PM 323,13 RON
 9/25/2020 10:45:55 PM 325,81 RON
+9/30/2020 7:06:16 PM 323,82 RON

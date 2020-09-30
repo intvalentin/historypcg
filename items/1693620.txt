@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kw010t8x1
 1693620
     Product link    
 https://www.pcgarage.ro/ssd/intel/545s-series-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1693620/thumbnails/intel-ssd-545-ser
 9/21/2020 7:44:45 AM 1.090,32 RON
 9/24/2020 11:10:14 AM 1.105,14 RON
 9/25/2020 10:04:51 PM 1.114,32 RON
+9/30/2020 2:46:25 PM 1.109,11 RON

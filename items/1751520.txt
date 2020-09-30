@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb200ex
 1751520
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-200-ex-led-lighting-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1751520/thumbnails/rgb200ex-addressable
 9/21/2020 7:58:42 AM 70,91 RON
 9/24/2020 6:51:43 PM 72,49 RON
 9/26/2020 9:53:20 AM 72,47 RON
+9/29/2020 9:47:42 PM 72,13 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpx-7001-acabw-eu
 1495798
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/masterwatt-lite-80-plus-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469758/1495798/thumbnails/masterwatt-lite-8
 9/21/2020 7:47:36 AM 302,29 RON
 9/24/2020 1:22:07 PM 306,40 RON
 9/25/2020 10:34:51 PM 308,95 RON
+9/30/2020 7:00:30 PM 307,05 RON

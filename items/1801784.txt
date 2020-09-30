@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt16gx4m2k4266c19
 1801784
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-16gb-ddr4-4266mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2863/1801784/thumbnails/dominator-platinum-r
 9/21/2020 7:41:54 AM 2.552,32 RON
 9/24/2020 8:55:12 AM 2.579,24 RON
 9/25/2020 9:22:31 PM 2.667,12 RON
+9/30/2020 10:41:25 AM 2.663,62 RON

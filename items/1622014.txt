@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu650ss-480gt-c
 1622014
     Product link    
 https://www.pcgarage.ro/ssd/a-data/ultimate-su650-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427466/1622014/thumbnails/ultimate-su650-12
 9/21/2020 7:44:16 AM 370,72 RON
 9/24/2020 11:14:24 AM 374,63 RON
 9/25/2020 10:06:21 PM 378,97 RON
+9/30/2020 1:54:18 PM 378,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2133c15s-8gnt
 1508462
     Product link    
 https://www.pcgarage.ro/memorii/gskill/f4-8gb-ddr4-2133mhz-cl15-12v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1415042/1508462/thumbnails/f4-4gb-ddr4-2133m
 9/21/2020 7:40:22 AM 134,12 RON
 9/24/2020 9:13:56 AM 144,77 RON
 9/25/2020 9:29:14 PM 146,44 RON
+9/29/2020 11:05:22 PM 146,24 RON

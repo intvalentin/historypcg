@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020073
 929241
     Product link    
 https://www.pcgarage.ro/surse/corsair/hxi-series-hx850i/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/929241/thumbnails/hxi-series-hx850i-5
 9/21/2020 7:46:49 AM 1.033,36 RON
 9/24/2020 1:50:48 PM 1.047,41 RON
 9/25/2020 10:48:53 PM 1.056,33 RON
+9/30/2020 5:51:42 PM 1.052,12 RON

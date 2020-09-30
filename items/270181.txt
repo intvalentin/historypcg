@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm51620
 270181
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/hama/71-surround/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/270181/thumbnails/71-surround-7be8b5fd57d2
 9/21/2020 7:59:17 AM 102,19 RON
 9/24/2020 6:58:19 PM 102,19 RON
 9/26/2020 9:59:56 AM 102,19 RON
+9/29/2020 10:38:07 PM 102,19 RON

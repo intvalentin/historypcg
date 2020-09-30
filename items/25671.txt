@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr2-2g800-kit
 25671
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/2gb-ddr2-800mhz-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/25671/thumbnails/ddr-dualchannel.jpg
 9/21/2020 7:38:25 AM 108,44 RON
 9/24/2020 9:30:36 AM 109,91 RON
 9/25/2020 9:39:51 PM 110,83 RON
+9/29/2020 10:59:04 PM 110,31 RON

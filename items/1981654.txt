@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000ve000
 1981654
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-ai-8tb-7200rpm-sata-iii-256mb-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1642372/1981654/thumbnails/skyhawk-ai-8tb-72
 9/21/2020 7:45:15 AM 1.092,81 RON
 9/24/2020 11:28:50 AM 1.098,27 RON
 9/25/2020 10:10:44 PM 1.110,98 RON
+9/30/2020 3:54:09 PM 1.105,54 RON

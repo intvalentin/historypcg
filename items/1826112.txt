@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22897
 1826112
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-420-rath/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1826112/thumbnails/gxt-420-rath-bfe85ec
 9/21/2020 8:01:55 AM 189,99 RON
 9/24/2020 7:30:11 PM 189,99 RON
 9/26/2020 10:33:37 AM 189,99 RON
+9/30/2020 11:53:22 AM 189,99 RON

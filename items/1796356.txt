@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m280cs3030-500-rb
 1796356
     Product link    
 https://www.pcgarage.ro/ssd/pny/xlr8-cs3030-500gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1796356/thumbnails/xlr8-cs3030-2tb-pci-
 9/21/2020 7:42:40 AM 405,17 RON
 9/24/2020 9:48:57 AM 409,81 RON
 9/25/2020 9:44:08 PM 399,92 RON
+9/30/2020 12:11:51 PM 400,05 RON

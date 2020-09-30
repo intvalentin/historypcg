@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p200s256g25
 1888890
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p200-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1888890/thumbnails/p200-256gb-sata-i
 9/21/2020 7:43:33 AM 146,01 RON
 9/24/2020 11:01:54 AM 147,54 RON
 9/25/2020 10:01:52 PM 149,25 RON
+9/30/2020 1:14:33 PM 149,05 RON

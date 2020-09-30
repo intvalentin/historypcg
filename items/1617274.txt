@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-cmp3
 1617274
     Product link    
 https://www.pcgarage.ro/mouse-pad/canyon/cnd-cmp3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1594546/1617274/thumbnails/cnd-cmp3-ab70ddc9
 9/21/2020 8:00:51 AM 17,98 RON
 9/24/2020 7:17:51 PM 17,98 RON
 9/26/2020 10:21:05 AM 17,98 RON
+9/30/2020 9:59:33 AM 17,98 RON

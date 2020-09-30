@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmwlekit2
 1801868
     Product link    
 https://www.pcgarage.ro/modding/corsair/vengeance-rgb-pro-light-enhancement-black-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4338/1801868/thumbnails/vengeance-rgb-pro-bl
 9/21/2020 7:58:58 AM 203,67 RON
 9/24/2020 6:53:10 PM 206,44 RON
 9/26/2020 9:54:49 AM 208,20 RON
+9/29/2020 10:07:49 PM 207,93 RON

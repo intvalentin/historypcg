@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21566
 1862926
     Product link    
 https://www.pcgarage.ro/mouse-pad/trust/gxt-752-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1862926/thumbnails/gxt-752-m-43795a2de2
 9/21/2020 8:00:27 AM 39,99 RON
 9/24/2020 7:14:53 PM 39,99 RON
 9/26/2020 10:18:07 AM 39,99 RON
+9/30/2020 9:37:04 AM 39,99 RON

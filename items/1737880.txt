@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22055
 1737880
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-383-dion-71/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5286/1737880/thumbnails/gxt-383-dion-71-plus
 9/21/2020 8:01:51 AM 299,99 RON
 9/24/2020 7:30:57 PM 299,99 RON
 9/26/2020 10:34:22 AM 299,99 RON
+9/30/2020 10:33:53 AM 235,78 RON

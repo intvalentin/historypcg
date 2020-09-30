@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-2133c9d-16gxh
 1508146
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-x-black-16gb-ddr3-2133mhz-cl9-16v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1508146/thumbnails/ripjaws-x-black-8
 9/21/2020 7:39:24 AM 570,40 RON
 9/23/2020 11:46:02 PM 577,02 RON
 9/25/2020 9:05:23 PM 581,85 RON
+9/29/2020 9:45:33 PM 600,90 RON

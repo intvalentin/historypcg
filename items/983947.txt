@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts128gmts400
 983947
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts400-128gb-m2-2242/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/983947/thumbnails/mts400-128gb-m2-2242-0d1
 9/21/2020 7:42:53 AM 259,37 RON
 9/24/2020 10:35:06 AM 262,34 RON
 9/25/2020 9:54:26 PM 260,59 RON
+9/30/2020 11:50:39 AM 260,59 RON

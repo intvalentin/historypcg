@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fl400
 278349
     Product link    
 https://www.pcgarage.ro/surse/floston/fl400/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/278349/thumbnails/fl400-ac7a81a202aaf4fb58
 9/21/2020 7:47:07 AM 63,59 RON
 9/24/2020 2:01:10 PM 64,44 RON
 9/25/2020 10:52:30 PM 65,00 RON
+9/30/2020 5:55:16 PM 64,68 RON

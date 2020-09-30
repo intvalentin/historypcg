@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw32gx4m4c3600c18
 1707912
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-32gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1707912/thumbnails/corsair-vengeance
 9/21/2020 7:39:37 AM 1.170,70 RON
 9/24/2020 9:03:32 AM 1.169,94 RON
 9/25/2020 9:25:30 PM 1.179,80 RON
+9/30/2020 10:13:25 AM 1.180,21 RON

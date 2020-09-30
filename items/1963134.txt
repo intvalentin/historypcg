@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp512gbp34a60m28
 1963134
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/p34a60-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1261/1963134/thumbnails/p34a60-512gb-pci-exp
 9/21/2020 7:42:40 AM 319,23 RON
 9/24/2020 10:59:50 AM 322,61 RON
 9/25/2020 10:00:24 PM 325,31 RON
+9/30/2020 1:45:41 PM 325,31 RON

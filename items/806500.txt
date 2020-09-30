@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd34g160081h
 806500
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-line-heatspreader-4gb-ddr3-1600mhz-cl11-single-rank/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/746930/806500/thumbnails/signature-line-heat
 9/21/2020 7:38:25 AM 86,25 RON
 9/23/2020 11:56:22 PM 87,25 RON
 9/25/2020 9:09:05 PM 87,95 RON
+9/29/2020 7:34:34 PM 86,11 RON

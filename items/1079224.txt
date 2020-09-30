@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-psu-es1b-hv-500w
 1079224
     Product link    
 https://www.pcgarage.ro/surse/fractal-design/essence-500w-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/1079224/thumbnails/essence-500w-bulk-
 9/21/2020 7:47:31 AM 261,28 RON
 9/24/2020 1:46:39 PM 261,28 RON
 9/25/2020 10:47:24 PM 261,28 RON
+9/30/2020 6:42:02 PM 261,28 RON

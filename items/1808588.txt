@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c14d-16gtrs
 1808588
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-royal-rgb-silver-16gb-ddr4-3200mhz-cl14-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1808588/thumbnails/trident-z-royal-rgb-
 9/21/2020 7:39:33 AM 816,05 RON
 9/23/2020 11:27:24 PM 825,36 RON
 9/25/2020 8:58:50 PM 832,34 RON
+9/30/2020 9:47:44 AM 859,71 RON

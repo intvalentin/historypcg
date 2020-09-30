@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st14000vn0008
 1738416
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-14tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1738416/thumbnails/ironwolf-14tb-sat
 9/21/2020 7:45:38 AM 2.159,97 RON
 9/24/2020 11:28:50 AM 2.190,63 RON
 9/25/2020 10:11:28 PM 2.215,98 RON
+9/30/2020 4:31:14 PM 2.191,94 RON

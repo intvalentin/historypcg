@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st4000vn008
 1407714
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-4tb-sata-iii-5900rpm-64mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1355324/1407714/thumbnails/ironwolf-4tb-sata
 9/21/2020 7:45:02 AM 551,99 RON
 9/24/2020 11:26:46 AM 551,99 RON
 9/25/2020 10:10:44 PM 551,99 RON
+9/30/2020 3:43:52 PM 551,99 RON

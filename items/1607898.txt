@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2dp97aa#abb
 1607898
     Product link    
 https://www.pcgarage.ro/ssd/hp/s700-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1520902/1607898/thumbnails/s700-500gb-sata-i
 9/21/2020 7:42:25 AM 111,91 RON
 9/24/2020 10:33:02 AM 112,47 RON
 9/25/2020 9:52:57 PM 113,76 RON
+9/30/2020 1:08:35 PM 113,61 RON

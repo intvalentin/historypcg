@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e2000+-+2048g
 2026994
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/e2000-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2026994/thumbnails/e2000-1tb-pci-expres
 9/21/2020 7:44:45 AM 1.462,97 RON
 9/24/2020 10:53:36 AM 1.478,40 RON
 9/25/2020 9:58:09 PM 1.495,50 RON
+9/30/2020 2:53:05 PM 1.493,53 RON

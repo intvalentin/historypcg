@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_m316
 111022
     Product link    
 https://www.pcgarage.ro/mouse-gaming/marvo/scorpion-sting-m600/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/853128/111022/thumbnails/scorpion-sting-m600
 9/21/2020 8:00:09 AM 33,98 RON
 9/24/2020 7:10:30 PM 33,98 RON
 9/26/2020 10:12:20 AM 33,98 RON
+9/30/2020 8:40:19 AM 33,98 RON

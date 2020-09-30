@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp512gbpsdb75scs
 2026078
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/bolt-b75-512gb-usb-31-type-c-silver/
@@ -8,3 +8,4 @@ Silicon-Power Bolt B75 512GB USB 3.1 Type-C Silver
 https://4.grgs.ro/images/products/1/1684696/2026078/thumbnails/bolt-b75-120gb-usb-30-silver-2ba52a1b208d3b2bc80b341770561592.jpg
     Pret    
 9/25/2020 9:44:08 PM 413,45 RON
+9/30/2020 12:14:30 PM 413,59 RON

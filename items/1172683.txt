@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmd16gx4m2b3200c16
 1172683
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-16gb-ddr4-3200mhz-c16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/750014/1172683/thumbnails/dominator-platinum
 9/21/2020 7:39:24 AM 559,21 RON
 9/23/2020 11:50:10 PM 565,70 RON
 9/25/2020 9:06:52 PM 570,40 RON
+9/29/2020 9:40:45 PM 570,53 RON

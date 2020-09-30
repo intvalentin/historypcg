@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sat5200-960g
 2048758
     Product link    
 https://www.pcgarage.ro/ssd/synology/sat5200-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2048758/thumbnails/sat5200-960gb-sat
 9/21/2020 7:44:50 AM 1.805,90 RON
 9/24/2020 10:51:32 AM 1.807,20 RON
 9/25/2020 9:58:09 PM 1.813,68 RON
+9/30/2020 2:57:06 PM 1.811,09 RON

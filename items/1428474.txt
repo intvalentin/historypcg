@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bts1010012
 1428474
     Product link    
 https://www.pcgarage.ro/jocuri/bethesda/wolfenstein-the-old-blood-pentru-pc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1409094/1428474/thumbnails/wolfenstein-the-o
 9/21/2020 8:03:52 AM 79,98 RON
 9/25/2020 12:05:27 AM 79,98 RON
 9/26/2020 1:02:32 PM 79,98 RON
+9/30/2020 2:40:05 PM 79,98 RON

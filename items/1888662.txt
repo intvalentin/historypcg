@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00101
 1888662
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-800hs-wireless/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1888662/thumbnails/rig-800hs-wireles
 9/21/2020 8:01:28 AM 839,99 RON
 9/24/2020 7:25:46 PM 839,99 RON
 9/26/2020 10:29:11 AM 839,99 RON
+9/30/2020 11:33:28 AM 839,99 RON

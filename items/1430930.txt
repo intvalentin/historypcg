@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp00e1-b0ua00
 1430930
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/asus/rog-claymore/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1113903/1430930/thumbnails/rog-claymore-2671
 9/24/2020 7:43:23 PM 949,99 RON
 9/24/2020 11:27:39 PM 949,99 RON
 9/26/2020 10:40:17 AM 949,99 RON
+9/30/2020 12:39:46 PM 699,99 RON

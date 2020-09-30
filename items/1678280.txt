@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-m3-bn
 1678280
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/gamdias/hermes-m3-gamdias-brown-mecanica/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1666176/1678280/thumbnails/hermes-m3-gamdias
 9/24/2020 7:50:04 PM 429,99 RON
 9/24/2020 11:34:17 PM 429,99 RON
 9/26/2020 10:46:59 AM 429,99 RON
+9/30/2020 1:34:14 PM 429,99 RON

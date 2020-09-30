@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpb-500s
 1169107
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-gpb-500s-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/991247/1169107/thumbnails/i-arena-85-plus-50
 9/21/2020 7:47:21 AM 218,68 RON
 9/24/2020 1:40:25 PM 222,82 RON
 9/25/2020 10:45:55 PM 223,11 RON
+9/30/2020 6:23:38 PM 221,78 RON

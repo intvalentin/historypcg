@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vx-plus-600
 1962110
     Product link    
 https://www.pcgarage.ro/surse/aerocool/vx-plus-600-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1261/1962110/thumbnails/vx-plus-600-600w-af2
 9/21/2020 7:46:35 AM 199,33 RON
 9/24/2020 12:42:54 PM 202,04 RON
 9/25/2020 10:27:24 PM 203,72 RON
+9/30/2020 6:17:23 PM 202,47 RON

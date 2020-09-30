@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs500-acabb1-eu
 930734
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/b-series-b500-ver2-500w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/859765/930734/thumbnails/b-series-b500-ver2-
 9/21/2020 7:47:36 AM 298,66 RON
 9/24/2020 1:48:43 PM 302,72 RON
 9/25/2020 10:48:09 PM 305,24 RON
+9/30/2020 6:58:17 PM 303,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-f1000gbmp600
 1898538
     Product link    
 https://www.pcgarage.ro/ssd/corsair/force-mp600-1tb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3944/1898538/thumbnails/force-mp600-1tb-pci-
 9/21/2020 7:42:25 AM 966,04 RON
 9/24/2020 9:57:12 AM 971,64 RON
 9/25/2020 9:47:47 PM 979,86 RON
+9/30/2020 12:43:15 PM 963,50 RON

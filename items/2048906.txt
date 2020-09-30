@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk256gx4m8d3600c18
 2048906
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-256gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/815230/2048906/thumbnails/vengeance-lpx-blac
 9/21/2020 7:42:06 AM 8.174,58 RON
 9/24/2020 12:06:46 AM 8.260,77 RON
 9/25/2020 9:12:48 PM 8.356,35 RON
+9/30/2020 11:01:58 AM 8.345,37 RON

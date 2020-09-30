@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e1000+-+512g
 2026874
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/e1000-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2026874/thumbnails/e1000-1tb-pci-expres
 9/21/2020 7:42:25 AM 356,55 RON
 9/24/2020 9:32:40 AM 360,30 RON
 9/25/2020 9:40:34 PM 364,47 RON
+9/30/2020 11:19:56 AM 359,60 RON

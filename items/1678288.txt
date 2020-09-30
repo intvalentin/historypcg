@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |artemis-bk
 1678288
     Product link    
 https://www.pcgarage.ro/kit-gaming/gamdias/artemis-e1/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1664836/1678288/thumbnails/artemis-e1-e9f9c3
 9/24/2020 7:51:29 PM 203,41 RON
 9/24/2020 11:35:45 PM 203,41 RON
 9/26/2020 10:49:14 AM 203,37 RON
+9/30/2020 2:00:32 PM 202,41 RON

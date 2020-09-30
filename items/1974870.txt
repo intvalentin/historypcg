@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd140effx
 1974870
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/red-14tb-sata-iii-5400rpm-512mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1974870/thumbnails/red-14tb-sata-iii-54
 9/21/2020 7:45:19 AM 2.187,60 RON
 9/24/2020 12:24:25 PM 2.212,36 RON
 9/25/2020 10:12:56 PM 2.230,61 RON
+9/30/2020 4:31:30 PM 2.217,56 RON

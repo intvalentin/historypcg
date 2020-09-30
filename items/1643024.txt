@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rgb-650cm
 1643024
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-rgb-650cm-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1642372/1643024/thumbnails/argus-rgb-650-mod
 9/21/2020 7:46:45 AM 338,39 RON
 9/24/2020 1:15:54 PM 342,99 RON
 9/25/2020 10:32:37 PM 345,83 RON
+9/30/2020 7:34:52 PM 343,71 RON

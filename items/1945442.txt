@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c15fb3ak2+-+32
 1945442
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-32gb-ddr4-3000mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5758/1945442/thumbnails/fury-rgb-32gb-ddr4-3
 9/21/2020 7:41:30 AM 884,61 RON
 9/24/2020 8:42:44 AM 894,74 RON
 9/25/2020 9:18:01 PM 902,27 RON
+9/30/2020 9:52:34 AM 902,54 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx6000np-256gt-c
 1611342
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx6000-256gb-pci-express-30-x2-m2-2280/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1510154/1611342/thumbnails/sx6000-256gb-pci-
     Pret    
 9/21/2020 7:43:06 AM 169,31 RON
 9/25/2020 9:42:41 PM 216,27 RON
+9/30/2020 11:11:32 AM 173,02 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00092
 1690816
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-400hx-dolby-atmos/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/991247/1690816/thumbnails/rig-400hx-dolby-at
 9/21/2020 8:02:09 AM 239,99 RON
 9/24/2020 7:31:41 PM 239,99 RON
 9/26/2020 10:35:06 AM 239,99 RON
+9/30/2020 11:58:29 AM 239,99 RON

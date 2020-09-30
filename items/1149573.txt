@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm500-tx
 1149573
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm500-tx-80-plus-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1086319/1149573/thumbnails/zm500-tx-80-plus-
 9/21/2020 7:47:31 AM 267,10 RON
 9/24/2020 1:42:30 PM 270,74 RON
 9/25/2020 10:45:55 PM 272,99 RON
+9/30/2020 6:45:47 PM 271,31 RON

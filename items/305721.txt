@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass600et
 305721
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-600et-600w-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/305721/thumbnails/ss-600et-600w-bulk-54072
 9/21/2020 7:47:40 AM 323,76 RON
 9/24/2020 2:01:10 PM 328,16 RON
 9/25/2020 10:52:30 PM 330,95 RON
+9/30/2020 7:08:57 PM 329,34 RON

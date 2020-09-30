@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps128gpm280ssdr
 1617254
     Product link    
 https://www.pcgarage.ro/ssd/patriot/scorch-128gb-pci-express-x2-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1605610/1617254/thumbnails/scorch-m2-pcie-12
 9/21/2020 7:44:02 AM 157,41 RON
 9/24/2020 11:16:29 AM 159,55 RON
 9/25/2020 10:07:06 PM 160,87 RON
+9/30/2020 1:15:56 PM 160,12 RON

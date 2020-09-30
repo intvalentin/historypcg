@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23575
 2049586
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/trust-gxt-930-jacx-rgb-gaming-mouse/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2049586/thumbnails/gxt-930-jacx-rgb-
 9/21/2020 7:59:40 AM 99,99 RON
 9/24/2020 7:01:09 PM 99,99 RON
 9/26/2020 10:02:47 AM 99,99 RON
+9/29/2020 11:16:30 PM 99,99 RON

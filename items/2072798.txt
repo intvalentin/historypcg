@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1000nm1a002
 2072798
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-125-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2072798/thumbnails/seagate-ironwolf-125
 9/21/2020 7:44:36 AM 777,68 RON
 9/24/2020 10:39:12 AM 786,67 RON
 9/25/2020 9:55:11 PM 793,18 RON
+9/30/2020 2:36:36 PM 793,45 RON

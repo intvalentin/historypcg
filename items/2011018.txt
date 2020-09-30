@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |trx40 pro 10g
 2011018
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/trx40-pro-10g/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2011018/thumbnails/trx40-pro-10g-0a9b6d
 9/21/2020 7:37:16 AM 2.824,81 RON
 9/23/2020 7:37:21 PM 2.838,93 RON
 9/25/2020 8:37:27 PM 2.871,79 RON
+9/29/2020 6:59:25 PM 2.868,01 RON

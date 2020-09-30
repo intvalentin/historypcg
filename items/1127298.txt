@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m2b3000c15b
 1127298
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-blue-16gb-ddr4-3000mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862960/1127298/thumbnails/vengeance-lpx-blue
 9/21/2020 7:41:05 AM 444,39 RON
 9/24/2020 9:22:18 AM 465,13 RON
 9/25/2020 9:32:13 PM 470,49 RON
+9/30/2020 9:05:04 AM 469,89 RON

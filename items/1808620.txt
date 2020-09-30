@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-4600c18d-16gtrs
 1808620
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-royal-rgb-silver-16gb-ddr4-4600mhz-cl18-145v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1808620/thumbnails/trident-z-royal-rgb-
 9/21/2020 7:39:42 AM 1.844,74 RON
 9/23/2020 11:27:24 PM 1.865,27 RON
 9/25/2020 8:58:50 PM 1.880,32 RON
+9/29/2020 10:29:17 PM 1.943,27 RON

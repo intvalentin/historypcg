@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp008gblfu240bs2
 1700516
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/8gb-ddr4-2400mhz-cl17-12v-heatsink/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1690716/1700516/thumbnails/4gb-ddr4-2400mhz-
 9/21/2020 7:40:32 AM 166,26 RON
 9/24/2020 9:05:37 AM 168,11 RON
 9/25/2020 9:26:15 PM 169,52 RON
+9/29/2020 11:18:29 PM 169,52 RON

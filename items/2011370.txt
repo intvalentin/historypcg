@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdssde80-1t00-g25
 2011370
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/extreme-pro-portable-1tb-usb-31-tip-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011370/thumbnails/extreme-pro-portable
 9/21/2020 7:43:23 AM 1.002,35 RON
 9/24/2020 9:48:57 AM 1.002,24 RON
 9/25/2020 9:44:52 PM 1.004,97 RON
+9/30/2020 2:43:00 PM 1.004,62 RON

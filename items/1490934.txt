@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc169
 1490934
     Product link    
 https://www.pcgarage.ro/surse/SilentiumPC/supremo-fm2-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1054/1490934/thumbnails/supremo-fm2-80-plus-
 9/21/2020 7:46:35 AM 498,39 RON
 9/24/2020 1:24:11 PM 498,98 RON
 9/25/2020 10:35:35 PM 499,83 RON
+9/30/2020 5:35:25 PM 439,99 RON

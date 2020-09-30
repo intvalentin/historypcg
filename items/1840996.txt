@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100-br-0600-k2
 1840996
     Product link    
 https://www.pcgarage.ro/surse/evga/br-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6599/1840996/thumbnails/br-80-plus-bronze-60
 9/21/2020 7:47:31 AM 255,43 RON
 9/24/2020 1:07:36 PM 260,30 RON
 9/25/2020 10:29:39 PM 260,59 RON
+9/30/2020 6:40:07 PM 258,97 RON

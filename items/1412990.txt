@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid1010114
 1412990
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/lara-croft-and-the-temple-of-osiris-pentru-pc/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1113903/1412990/thumbnails/lara-croft-and-th
 9/21/2020 8:03:47 AM 59,98 RON
 9/25/2020 12:07:41 AM 59,98 RON
 9/26/2020 1:04:40 PM 59,98 RON
+9/30/2020 2:31:46 PM 59,98 RON

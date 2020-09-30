@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gstfs31240gntd
 1720424
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692136/1720424/thumbnails/240gb-sata-iii-25
 9/21/2020 7:42:25 AM 166,78 RON
 9/24/2020 10:28:54 AM 168,54 RON
 9/25/2020 9:51:27 PM 168,64 RON
+9/30/2020 11:37:19 AM 168,42 RON

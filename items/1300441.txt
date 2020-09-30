@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpe-600s
 1300441
     Product link    
 https://www.pcgarage.ro/surse/chieftec/eco-series-gpe-600s-600w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/1300441/thumbnails/eco-series-gpe-400
 9/21/2020 7:47:03 AM 241,70 RON
 9/24/2020 1:40:25 PM 246,13 RON
 9/25/2020 10:45:10 PM 246,43 RON
+9/30/2020 6:34:56 PM 244,95 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011186-eu
 1949662
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/virtuoso-rgb-white-wireless/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1949662/thumbnails/virtuoso-rgb-white-w
 9/21/2020 8:01:02 AM 849,99 RON
 9/24/2020 7:25:02 PM 1.079,99 RON
 9/26/2020 10:24:42 AM 969,99 RON
+9/30/2020 10:49:58 AM 969,99 RON

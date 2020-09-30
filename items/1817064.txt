@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-cl100-120-g2
 1817064
     Product link    
 https://www.pcgarage.ro/ssd/goodram/cl100-g2-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/753/1817064/thumbnails/cl100-g2-120gb-sata-i
 9/21/2020 7:43:57 AM 132,96 RON
 9/24/2020 11:06:04 AM 133,62 RON
 9/25/2020 10:03:21 PM 135,17 RON
+9/30/2020 1:12:03 PM 134,99 RON

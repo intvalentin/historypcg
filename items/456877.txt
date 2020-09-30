@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd22g80026
 456877
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-line-2gb-ddr2-800mhz-cl6/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/456877/thumbnails/signature-line-2gb-ddr2-
 9/21/2020 7:40:17 AM 76,88 RON
 9/24/2020 9:28:32 AM 77,69 RON
 9/25/2020 9:39:06 PM 78,58 RON
+9/29/2020 10:35:53 PM 78,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000vn0041
 1413774
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-6tb-sata-iii-7200rpm-128mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1192525/1413774/thumbnails/ironwolf-1tb-sata
 9/21/2020 7:45:29 AM 909,71 RON
 9/24/2020 12:30:36 PM 922,07 RON
 9/25/2020 10:15:09 PM 929,93 RON
+9/30/2020 4:17:11 PM 925,38 RON

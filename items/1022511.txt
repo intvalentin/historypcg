@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blt2cp4g3d1608dt2txobceu
 1022511
     Product link    
 https://www.pcgarage.ro/memorii/crucial/ballistix-tactical-tracer-8gb-ddr3-1600mhz-cl8-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/1022511/thumbnails/ballistix-tactical
 9/21/2020 7:41:05 AM 475,09 RON
 9/24/2020 9:22:18 AM 481,54 RON
 9/25/2020 9:37:37 PM 485,54 RON
+9/30/2020 9:08:14 AM 483,27 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crosshair vii hero
 1679236
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/asus-crosshair-vii-hero/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1679236/thumbnails/crosshair-vii-her
 9/21/2020 7:37:09 AM 1.501,71 RON
 9/23/2020 10:24:16 PM 1.517,54 RON
 9/25/2020 8:42:42 PM 1.535,09 RON
+9/29/2020 6:46:19 PM 1.533,07 RON

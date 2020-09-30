@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f3-2400c10d-8gtx
 1507838
     Product link    
 https://www.pcgarage.ro/memorii/gskill/tridentx-8gb-ddr3-2400mhz-cl10-165v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1505170/1507838/thumbnails/tridentx-8gb-ddr3
 9/21/2020 7:40:08 AM 317,29 RON
 9/24/2020 9:13:56 AM 320,64 RON
 9/25/2020 9:29:59 PM 324,34 RON
+9/30/2020 8:29:45 AM 323,92 RON

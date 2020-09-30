@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r400026
 1718384
     Product link    
 https://www.pcgarage.ro/watercooling/raijintek/rai-r10-watercooling-reservoir-100mm-gold/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691840/1718384/thumbnails/rai-r10-watercool
 9/21/2020 7:59:03 AM 246,47 RON
 9/24/2020 6:55:25 PM 246,77 RON
 9/26/2020 9:57:03 AM 247,18 RON
+9/29/2020 10:15:53 PM 247,10 RON

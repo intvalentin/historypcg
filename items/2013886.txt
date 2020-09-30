@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |radon 300
 2013886
     Product link    
 https://www.pcgarage.ro/casti-gaming/genesis/radon-300/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/9943/2013886/thumbnails/radon-300-213513d942
 9/21/2020 8:01:55 AM 123,98 RON
 9/24/2020 7:28:43 PM 123,98 RON
 9/26/2020 10:32:09 AM 123,98 RON
+9/30/2020 11:42:39 AM 123,98 RON

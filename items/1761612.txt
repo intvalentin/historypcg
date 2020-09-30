@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-x3
 1761612
     Product link    
 https://www.pcgarage.ro/surse/segotep/x3-nuclear-power-350w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1153/1761612/thumbnails/x3-nuclear-power-350
 9/21/2020 7:47:12 AM 98,66 RON
 9/24/2020 1:11:44 PM 100,00 RON
 9/25/2020 10:31:08 PM 100,83 RON
+9/30/2020 5:59:03 PM 100,22 RON

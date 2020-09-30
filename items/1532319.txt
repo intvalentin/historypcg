@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16d-16gtzb
 1532319
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-16gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1532319/thumbnails/trident-z-16gb-dd
 9/21/2020 7:37:58 AM 354,29 RON
 9/23/2020 11:43:57 PM 358,37 RON
 9/25/2020 9:04:39 PM 361,46 RON
+9/29/2020 9:09:39 PM 373,25 RON

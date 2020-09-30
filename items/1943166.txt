@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76e960e
 1943166
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-dct-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/1943166/thumbnails/860-dct-960gb-sata-i
 9/21/2020 7:43:23 AM 876,46 RON
 9/24/2020 9:57:12 AM 871,25 RON
 9/25/2020 9:47:04 PM 861,47 RON
+9/30/2020 12:41:22 PM 853,65 RON

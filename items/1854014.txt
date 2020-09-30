@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za960nm10011
 1854014
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-110-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848722/1854014/thumbnails/ironwolf-110-960g
 9/21/2020 7:42:21 AM 899,99 RON
 9/24/2020 9:34:42 AM 799,99 RON
 9/25/2020 9:41:16 PM 799,99 RON
+9/30/2020 11:25:04 AM 769,99 RON

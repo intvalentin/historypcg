@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tgm202
 1832248
     Product link    
 https://www.pcgarage.ro/mouse-gaming/t-dagger/mouse-gaming-t-dagger-sergeant-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1832248/thumbnails/sergeant-black-2d203
 9/21/2020 7:59:47 AM 89,99 RON
 9/24/2020 7:06:09 PM 89,99 RON
 9/26/2020 10:07:54 AM 89,99 RON
+9/30/2020 8:19:43 AM 89,99 RON

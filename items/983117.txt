@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct1000mx200ssd1
 983117
     Product link    
 https://www.pcgarage.ro/ssd/crucial/mx200-series-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/983117/thumbnails/mx200-series-1tb-sa
 9/21/2020 7:44:45 AM 1.429,60 RON
 9/24/2020 11:22:41 AM 1.444,67 RON
 9/25/2020 10:08:36 PM 1.461,38 RON
+9/30/2020 2:52:32 PM 1.454,23 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-450it82+
 469031
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/cobapower-450w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/469031/thumbnails/cobapower-450w-85bca1f1c
 9/21/2020 7:46:23 AM 225,03 RON
 9/24/2020 12:57:16 PM 228,08 RON
 9/25/2020 10:25:55 PM 229,98 RON
+9/30/2020 5:04:20 PM 228,90 RON

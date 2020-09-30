@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080041
 1425526
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/deus-ex-mankind-divided-steelbook-edition-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1094679/1425526/thumbnails/deus-ex-mankind-d
 9/21/2020 8:06:48 AM 319,98 RON
 9/25/2020 12:05:27 AM 319,98 RON
 9/26/2020 1:02:32 PM 319,98 RON
+9/30/2020 6:47:11 PM 319,98 RON

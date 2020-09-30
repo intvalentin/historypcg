@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20865
 1185577
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-322c-camo/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1109408/1185577/thumbnails/gxt-322c-camo-bac
 9/21/2020 8:01:55 AM 129,98 RON
 9/24/2020 7:27:58 PM 129,98 RON
 9/26/2020 10:31:24 AM 129,98 RON
+9/30/2020 11:00:42 AM 129,98 RON

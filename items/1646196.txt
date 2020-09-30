@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-f10pwm-hub
 1646196
     Product link    
 https://www.pcgarage.ro/fan-controllere/deepcool/fh-10-fan-hub/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1646196/thumbnails/fh-10-fan-hub-c66
 9/21/2020 7:58:32 AM 61,80 RON
 9/24/2020 6:48:51 PM 63,17 RON
 9/26/2020 9:50:25 AM 63,16 RON
+9/29/2020 9:27:26 PM 62,86 RON

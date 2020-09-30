@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-c100+-+1920g
 2025582
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/c100-192tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2025582/thumbnails/c100-1920gb-sata-iii
 9/21/2020 7:42:44 AM 809,38 RON
 9/24/2020 9:48:56 AM 889,03 RON
 9/25/2020 9:44:08 PM 899,32 RON
+9/30/2020 12:41:06 PM 823,33 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts240gjdm500
 842641
     Product link    
 https://www.pcgarage.ro/ssd/transcend/jetdrive-500-240gb-sata-iii-usb-30-m2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/798262/842641/thumbnails/jetdrive-500-240gb-
 9/21/2020 7:44:26 AM 553,01 RON
 9/24/2020 11:22:41 AM 559,37 RON
 9/25/2020 10:09:18 PM 564,02 RON
+9/30/2020 2:17:19 PM 560,56 RON

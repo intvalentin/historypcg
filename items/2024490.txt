@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3813460
 2024490
     Product link    
 https://www.pcgarage.ro/ssd/intenso/high-performance-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2024490/thumbnails/ssd-sata25-quot-960g
 9/21/2020 7:44:36 AM 716,17 RON
 9/24/2020 10:53:36 AM 716,27 RON
 9/25/2020 9:58:54 PM 718,23 RON
+9/30/2020 2:31:48 PM 717,98 RON

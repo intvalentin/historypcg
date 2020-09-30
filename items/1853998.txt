@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp1000gm30011
 1853998
     Product link    
 https://www.pcgarage.ro/ssd/seagate/firecuda-510-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848774/1853998/thumbnails/firecuda-510-1tb-
 9/21/2020 7:42:48 AM 877,05 RON
 9/24/2020 11:03:59 AM 886,30 RON
 9/25/2020 10:02:37 PM 896,56 RON
+9/30/2020 2:38:13 PM 895,38 RON

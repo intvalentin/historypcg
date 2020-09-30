@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpb-400s
 1496314
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-gpb-400s-400w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/1496314/thumbnails/iarena-series-gpb-
 9/21/2020 7:46:23 AM 199,80 RON
 9/24/2020 12:51:08 PM 203,49 RON
 9/25/2020 10:23:46 PM 203,78 RON
+9/30/2020 4:58:40 PM 195,66 RON

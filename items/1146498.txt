@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000nm0055
 1146498
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/server-hdd-seagate-enterprise-capacity-35-8tb-sata3-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/1146498/thumbnails/enterprise-capacit
 9/21/2020 7:45:33 AM 1.323,94 RON
 9/24/2020 12:32:39 PM 1.341,94 RON
 9/25/2020 10:15:53 PM 1.353,38 RON
+9/30/2020 4:23:41 PM 1.346,75 RON

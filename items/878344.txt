@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aps-520w
 878344
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-520w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/878344/thumbnails/argus-520w-25b82f13
 9/21/2020 7:46:10 AM 181,72 RON
 9/24/2020 12:55:12 PM 184,19 RON
 9/25/2020 10:25:11 PM 185,72 RON
+9/30/2020 4:57:35 PM 184,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd82purz
 1856438
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/internal-hdd-wd-purple-35-8tb-sata3-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1856438/thumbnails/purple-8tb-sata-iii-
 9/21/2020 7:45:10 AM 1.082,56 RON
 9/24/2020 11:28:50 AM 1.093,97 RON
 9/25/2020 10:10:44 PM 1.106,39 RON
+9/30/2020 3:53:52 PM 1.101,16 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3813430
 1353670
     Product link    
 https://www.pcgarage.ro/ssd/intenso/high-performance-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/1353670/thumbnails/high-performance-120gb-
 9/21/2020 7:43:57 AM 141,11 RON
 9/24/2020 11:20:38 AM 141,13 RON
 9/25/2020 10:08:36 PM 141,52 RON
+9/30/2020 1:13:27 PM 141,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6mc15aa#abb
 1837720
     Product link    
 https://www.pcgarage.ro/ssd/hp/s700-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1520902/1837720/thumbnails/s700-500gb-sata-i
 9/21/2020 7:42:40 AM 434,80 RON
 9/24/2020 11:04:00 AM 436,98 RON
 9/25/2020 10:02:37 PM 471,35 RON
+9/30/2020 2:05:27 PM 470,73 RON

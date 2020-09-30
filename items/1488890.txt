@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd48g240082
 1488890
     Product link    
 https://www.pcgarage.ro/memorii/patriot/8gb-ddr4-2400mhz-cl16-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469694/1488890/thumbnails/8gb-ddr4-2400mhz-
 9/21/2020 7:38:25 AM 143,04 RON
 9/23/2020 11:48:06 PM 144,60 RON
 9/25/2020 9:06:07 PM 145,59 RON
+9/29/2020 11:04:50 PM 145,73 RON

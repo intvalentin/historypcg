@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spr-0500n
 1585866
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-rgb-80-plus-500w/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1541210/1585866/thumbnails/smart-rgb-80-plus
 9/21/2020 7:45:49 AM 234,84 RON
 9/24/2020 12:49:06 PM 238,03 RON
 9/25/2020 10:22:22 PM 240,01 RON
+9/30/2020 5:05:59 PM 238,89 RON
+9/30/2020 6:33:02 PM 237,46 RON

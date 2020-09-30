@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr3-8g1600b
 474641
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/8gb-ddr3-1600mhz-cl9/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/474641/thumbnails/8gb-ddr3-1600mhz-cl9-351
 9/21/2020 7:37:27 AM 131,26 RON
 9/23/2020 11:06:43 PM 131,26 RON
 9/25/2020 8:50:43 PM 131,26 RON
+9/29/2020 11:05:06 PM 146,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inssd960gs625p5
 1624778
     Product link    
 https://www.pcgarage.ro/ssd/integral/p5-series-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5633/1624778/thumbnails/p5-series-960gb-sata
 9/21/2020 7:44:26 AM 481,44 RON
 9/24/2020 11:14:24 AM 478,52 RON
 9/25/2020 10:06:21 PM 473,21 RON
+9/30/2020 2:04:39 PM 468,96 RON

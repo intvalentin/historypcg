@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agammixs11p-2tt-c
 1964150
     Product link    
 https://www.pcgarage.ro/ssd/a-data/xpg-gammix-s11-pro-2tb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1774300/1964150/thumbnails/xpg-gammix-s11-pr
 9/21/2020 7:42:17 AM 1.174,33 RON
 9/24/2020 10:59:50 AM 1.174,33 RON
 9/25/2020 9:41:16 PM 1.174,33 RON
+9/30/2020 11:26:40 AM 1.191,90 RON

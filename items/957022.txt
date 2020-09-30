@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m4a2400c14
 957022
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-16gb-ddr4-2400mhz-cl14-quad-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/957022/thumbnails/vengeance-lpx-black-16gb
 9/21/2020 7:39:19 AM 449,92 RON
 9/23/2020 11:54:18 PM 454,97 RON
 9/25/2020 9:08:20 PM 458,91 RON
+9/29/2020 9:27:56 PM 459,05 RON

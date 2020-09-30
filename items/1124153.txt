@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-010-b51nan-a1
 1124153
     Product link    
 https://www.pcgarage.ro/fan-controllere/thermaltake/commander-ft/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/255443/1124153/thumbnails/commander-ft-98233
 9/21/2020 7:58:32 AM 207,65 RON
 9/24/2020 6:48:51 PM 212,26 RON
 9/26/2020 9:50:25 AM 212,22 RON
+9/29/2020 9:29:23 PM 211,22 RON

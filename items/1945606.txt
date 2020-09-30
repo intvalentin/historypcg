@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx426c16fb3ak2+-+32
 1945606
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-32gb-ddr4-2666mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5758/1945606/thumbnails/fury-rgb-32gb-ddr4-3
 9/21/2020 7:41:25 AM 779,37 RON
 9/24/2020 8:42:44 AM 788,21 RON
 9/25/2020 9:17:16 PM 794,83 RON
+9/30/2020 9:42:32 AM 795,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8100np-512gt-c
 2055762
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8100-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2055762/thumbnails/sx8100-1tb-pci-ex
 9/21/2020 7:43:47 AM 338,84 RON
 9/24/2020 10:51:32 AM 336,34 RON
 9/25/2020 9:57:25 PM 340,24 RON
+9/30/2020 1:49:08 PM 339,79 RON

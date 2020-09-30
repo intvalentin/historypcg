@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf4d416g2666hc15bdc01
 1789108
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-delta-rgb-white-16gb-ddr4-2666mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6440/1789108/thumbnails/t-force-delta-rgb-wh
 9/21/2020 7:39:14 AM 372,69 RON
 9/23/2020 11:29:29 PM 377,04 RON
 9/25/2020 9:00:16 PM 380,13 RON
+9/29/2020 9:11:25 PM 380,27 RON

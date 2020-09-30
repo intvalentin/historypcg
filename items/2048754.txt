@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sat5200-480g
 2048754
     Product link    
 https://www.pcgarage.ro/ssd/synology/sat5200-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2048754/thumbnails/sat5200-480gb-sat
 9/21/2020 7:43:23 AM 1.018,33 RON
 9/24/2020 9:46:52 AM 1.019,57 RON
 9/25/2020 9:43:24 PM 1.021,86 RON
+9/30/2020 12:44:46 PM 1.021,60 RON

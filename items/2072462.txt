@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0g04756-1
 2072462
     Product link    
 https://www.pcgarage.ro/ssd/g-technology/g-drive-ev-raw-500gb-usb-30-black-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2072462/thumbnails/g-drive-ev-raw-1tb-u
 9/21/2020 7:44:40 AM 922,20 RON
 9/24/2020 10:41:17 AM 932,76 RON
 9/25/2020 9:55:11 PM 941,47 RON
+9/30/2020 2:40:51 PM 941,75 RON

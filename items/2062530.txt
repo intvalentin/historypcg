@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ase760-512gu32g2-cbk
 2062530
     Product link    
 https://www.pcgarage.ro/ssd/a-data/se760-512gb-usb-32-tip-c-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2062530/thumbnails/se760-512gb-usb-31-t
 9/21/2020 7:44:21 AM 470,11 RON
 9/24/2020 10:49:27 AM 472,46 RON
 9/25/2020 9:57:25 PM 477,93 RON
+9/30/2020 2:05:43 PM 477,31 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |trs-0500p-2
 1137288
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/tr2-s-80-plus-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/815230/1137288/thumbnails/tr2-s-80-plus-500w
 9/21/2020 7:46:40 AM 205,15 RON
 9/24/2020 1:44:34 PM 207,94 RON
 9/25/2020 10:46:40 PM 209,67 RON
+9/30/2020 6:20:20 PM 208,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3200316g16-db10
 1850310
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-gammix-d10-black-32gb-ddr4-3200mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1850310/thumbnails/xpg-gammix-d10-bl
 9/21/2020 7:41:35 AM 1.064,42 RON
 9/24/2020 8:51:03 AM 1.076,46 RON
 9/25/2020 9:21:02 PM 1.085,63 RON
+9/30/2020 10:08:04 AM 1.085,90 RON

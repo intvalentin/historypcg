@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20864
 1185583
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-322w-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/782584/1185583/thumbnails/gxt-322w-white-e68
 9/21/2020 8:01:19 AM 129,98 RON
 9/24/2020 7:27:58 PM 129,98 RON
 9/26/2020 10:31:24 AM 129,98 RON
+9/30/2020 11:00:58 AM 129,98 RON

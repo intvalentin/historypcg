@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u300038g16a-db30
 1950198
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-gammix-d30-black-16gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/753/1950198/thumbnails/xpg-gammix-d30-black-
 9/21/2020 7:39:09 AM 315,26 RON
 9/24/2020 8:40:40 AM 318,91 RON
 9/25/2020 9:17:16 PM 384,06 RON
+9/30/2020 8:43:50 AM 384,20 RON

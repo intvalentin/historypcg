@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw16gx4m2a2666c16w
 1703640
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-white-16gb-ddr4-2666mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1703640/thumbnails/vengeance-rgb-pro
 9/21/2020 7:41:01 AM 405,97 RON
 9/24/2020 9:05:37 AM 428,11 RON
 9/25/2020 9:26:15 PM 439,11 RON
+9/30/2020 8:56:47 AM 439,25 RON

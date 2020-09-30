@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mu-ps500b+-+eu
 1018321
     Product link    
 https://www.pcgarage.ro/ssd/samsung/portable-t1-500gb-usb-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/1018321/thumbnails/portable-t1-ssd-50
 9/21/2020 7:44:45 AM 1.134,96 RON
 9/24/2020 11:20:38 AM 1.134,96 RON
 9/25/2020 10:08:36 PM 1.134,96 RON
+9/30/2020 2:46:41 PM 1.134,96 RON

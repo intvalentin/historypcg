@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080044
 1450154
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xii-the-zodiac-age-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1155213/1450154/thumbnails/final-fantasy-xii
 9/21/2020 8:03:57 AM 94,98 RON
 9/25/2020 12:04:42 AM 94,98 RON
 9/26/2020 1:01:48 PM 94,98 RON
+9/30/2020 2:43:45 PM 94,98 RON

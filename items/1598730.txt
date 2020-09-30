@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3000c16s-8gisb
 1598730
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-8gb-ddr4-3000mhz-cl16-135v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1541210/1598730/thumbnails/aegis-8gb-ddr4-30
 9/21/2020 7:40:08 AM 130,30 RON
 9/24/2020 9:09:47 AM 129,87 RON
 9/25/2020 9:28:29 PM 129,02 RON
+9/29/2020 11:01:44 PM 126,33 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za480nm10011
 1854010
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-110-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848722/1854010/thumbnails/ironwolf-110-480g
 9/21/2020 7:43:19 AM 678,06 RON
 9/24/2020 10:01:19 AM 681,44 RON
 9/25/2020 9:48:31 PM 689,32 RON
+9/30/2020 12:34:25 PM 688,43 RON

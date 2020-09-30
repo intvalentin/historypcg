@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct51264bd160b
 1144138
     Product link    
 https://www.pcgarage.ro/memorii/crucial/4gb-ddr3l-1600mhz-cl11/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1052635/1144138/thumbnails/4gb-ddr3-1600mhz-
 9/21/2020 7:38:25 AM 133,10 RON
 9/23/2020 11:52:14 PM 134,91 RON
 9/25/2020 9:07:36 PM 136,03 RON
+9/29/2020 7:50:28 PM 135,39 RON

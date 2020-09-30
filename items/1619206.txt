@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts32gmts800s
 1619206
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts800-32gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/1619206/thumbnails/mts800-32gb-sata-i
 9/21/2020 7:43:52 AM 92,95 RON
 9/24/2020 11:16:29 AM 93,90 RON
 9/25/2020 10:07:06 PM 94,71 RON
+9/30/2020 1:03:25 PM 94,84 RON

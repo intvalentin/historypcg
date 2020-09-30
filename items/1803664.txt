@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1803664
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z390-phantom-gaming-itx-ac/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1737700/1803664/thumbnails/z390-phantom-gami
 9/21/2020 7:37:00 AM 977,57 RON
 9/23/2020 10:15:59 PM 988,67 RON
 9/25/2020 8:39:41 PM 996,99 RON
+9/29/2020 5:44:34 PM 997,25 RON
+9/29/2020 5:58:04 PM 997,25 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dn650
 1622106
     Product link    
 https://www.pcgarage.ro/surse/deepcool/dn650/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1605610/1622106/thumbnails/dn650-539e90de4e5
 9/21/2020 7:46:06 AM 289,17 RON
 9/24/2020 1:17:58 PM 255,23 RON
 9/25/2020 10:33:21 PM 257,35 RON
+9/30/2020 6:39:01 PM 255,77 RON

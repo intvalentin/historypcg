@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2133c15s-16gis
 1783132
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-2133mhz-cl15/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1146523/1783132/thumbnails/aegis-8gb-ddr4-21
 9/21/2020 7:39:52 AM 256,00 RON
 9/24/2020 8:57:17 AM 290,12 RON
 9/25/2020 9:23:16 PM 292,51 RON
+9/30/2020 8:26:16 AM 311,61 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psf-400b
 1300231
     Product link    
 https://www.pcgarage.ro/surse/chieftec/smart-series-400w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1053670/1300231/thumbnails/smart-series-400w
 9/21/2020 7:47:31 AM 275,79 RON
 9/24/2020 1:40:25 PM 280,95 RON
 9/25/2020 10:45:10 PM 281,25 RON
+9/30/2020 5:14:02 PM 279,48 RON

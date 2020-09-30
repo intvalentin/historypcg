@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m4a2133c13r
 981317
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-16gb-ddr4-2133mhz-cl13-quad-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/981317/thumbnails/vengeance-lpx-red-1
 9/21/2020 7:39:24 AM 535,46 RON
 9/23/2020 11:52:14 PM 541,53 RON
 9/25/2020 9:07:36 PM 546,09 RON
+9/29/2020 9:38:03 PM 546,22 RON

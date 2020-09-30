@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m4z3200c16
 1629426
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-32gb-ddr4-3200mhz-cl16-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/859765/1629426/thumbnails/vengeance-lpx-blac
 9/21/2020 7:41:20 AM 729,40 RON
 9/24/2020 9:07:42 AM 762,26 RON
 9/25/2020 9:27:44 PM 768,61 RON
+9/30/2020 9:38:55 AM 768,88 RON

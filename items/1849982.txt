@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn206
 1849982
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/system-power-b9-80-plus-300w-bulk/
@@ -8,3 +8,4 @@ be quiet! System Power B9, 80+, 300W, Bulk
 https://1.grgs.ro/images/products/1/1848774/1849982/thumbnails/psu-be-quiet-system-power-b9-300w-bulk-80plus-ffc89880f56c859ddf73c6a5200171b8.jpg
     Pret    
 9/25/2020 10:29:39 PM 189,91 RON
+9/30/2020 6:11:14 PM 190,80 RON

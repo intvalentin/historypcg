@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-02930200-r3m1
 2046582
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/mousepad-razer-goliathus-overwatch-lucio/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2046582/thumbnails/goliathus-overwat
 9/21/2020 8:00:27 AM 79,99 RON
 9/24/2020 7:13:23 PM 189,99 RON
 9/26/2020 10:16:37 AM 189,99 RON
+9/30/2020 9:53:53 AM 189,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-77q2t0bw
 2066866
     Product link    
 https://www.pcgarage.ro/ssd/samsung/870-qvo-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6440/2066866/thumbnails/870-qvo-1tb-sata-iii
 9/21/2020 7:43:23 AM 1.037,51 RON
 9/24/2020 9:44:48 AM 1.037,41 RON
 9/25/2020 9:56:40 PM 1.040,22 RON
+9/30/2020 2:44:20 PM 1.039,86 RON

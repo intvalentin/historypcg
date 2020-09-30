@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16d-32gtzrx
 1809056
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-rgb-for-amd-32gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1489074/1809056/thumbnails/trident-z-rgb-16g
 9/21/2020 7:37:49 AM 699,88 RON
 9/23/2020 11:00:36 PM 686,64 RON
 9/25/2020 9:21:47 PM 713,96 RON
+9/30/2020 9:35:10 AM 737,29 RON

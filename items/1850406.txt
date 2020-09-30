@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3200316g16-dr80
 1850406
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-spectrix-d80-red-rgb-32gb-ddr4-3200mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1690716/1850406/thumbnails/xpg-spectrix-d80-
 9/21/2020 7:41:39 AM 1.275,44 RON
 9/24/2020 8:48:58 AM 1.290,08 RON
 9/25/2020 9:20:17 PM 1.300,90 RON
+9/30/2020 10:17:32 AM 1.301,31 RON

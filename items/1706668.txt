@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd121purz
 1706668
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/purple-12tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691852/1706668/thumbnails/purple-12tb-sata-
 9/21/2020 7:45:10 AM 1.840,94 RON
 9/24/2020 11:28:50 AM 1.850,14 RON
 9/25/2020 10:11:28 PM 1.871,55 RON
+9/30/2020 3:58:30 PM 1.862,39 RON

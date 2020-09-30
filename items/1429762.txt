@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h9plus+
 1429762
     Product link    
 https://www.pcgarage.ro/surse/segotep/h9plus-plus-520w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1175151/1429762/thumbnails/segotep-nuclear-a
 9/21/2020 7:47:31 AM 272,85 RON
 9/24/2020 1:28:19 PM 276,56 RON
 9/25/2020 10:44:25 PM 278,85 RON
+9/30/2020 6:47:42 PM 277,14 RON

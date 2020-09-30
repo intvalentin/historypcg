@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx426c16fb2+-+8
 1479886
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-8gb-ddr4-2666mhz-cl16-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/812812/1479886/thumbnails/fury-black-4gb-ddr
 9/21/2020 7:40:37 AM 186,80 RON
 9/24/2020 9:16:01 AM 188,92 RON
 9/25/2020 9:29:59 PM 190,62 RON
+9/29/2020 11:27:02 PM 190,62 RON

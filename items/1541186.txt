@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pve48g240c6gy
 1541186
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-elite-gray-8gb-ddr4-2400mhz-cl16-12v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1517618/1541186/thumbnails/viper-elite-gray-
 9/21/2020 7:40:27 AM 150,26 RON
 9/24/2020 9:11:51 AM 151,96 RON
 9/25/2020 9:28:29 PM 153,24 RON
+9/29/2020 11:08:35 PM 153,24 RON

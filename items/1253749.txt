@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-075a04w-bu01b
 1253749
     Product link    
 https://www.pcgarage.ro/surse/njoy/woden-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1173769/1253749/thumbnails/woden-80-plus-gol
 9/21/2020 7:46:35 AM 289,99 RON
 9/24/2020 1:40:25 PM 289,99 RON
 9/25/2020 10:45:10 PM 289,99 RON
+9/30/2020 6:52:52 PM 289,99 RON

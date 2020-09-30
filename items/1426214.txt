@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-600r12a
 1426214
     Product link    
 https://www.pcgarage.ro/surse/super-flower/nova-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1178653/1426214/thumbnails/nova-600w-9302e2d
 9/21/2020 7:47:44 AM 333,97 RON
 9/24/2020 1:28:19 PM 338,51 RON
 9/25/2020 10:44:25 PM 341,32 RON
+9/30/2020 7:13:06 PM 339,23 RON

@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |vcqrtx8000-pb
 1779296
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-rtx-8000-48gb-gddr6-384-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/6115/1779296/thumbnails/nvidia-quadro-rtx-80
 9/25/2020 8:20:27 PM 31.882,00 RON
 9/28/2020 8:04:34 PM 32.003,74 RON
 9/28/2020 8:15:44 PM 32.003,74 RON
+9/29/2020 9:13:24 PM 31.891,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |206800-05
 1888658
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-800hd/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1885090/1888658/thumbnails/rig-800hd-dolby-a
 9/21/2020 8:02:13 AM 799,99 RON
 9/24/2020 7:30:11 PM 799,99 RON
 9/26/2020 10:33:37 AM 799,99 RON
+9/30/2020 12:18:17 PM 799,99 RON

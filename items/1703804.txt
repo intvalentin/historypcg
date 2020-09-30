@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdssde60-2t00-g25
 1703804
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/extreme-portable-2tb-usb-31-tip-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1703804/thumbnails/sdssde60-1t00-g25
 9/21/2020 7:43:52 AM 2.067,60 RON
 9/24/2020 11:10:13 AM 2.067,38 RON
 9/25/2020 10:04:51 PM 2.073,00 RON
+9/30/2020 12:54:53 PM 2.072,27 RON

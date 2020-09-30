@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p001-bk
 868474
     Product link    
 https://www.pcgarage.ro/mouse-pad/redragon/archelon-m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862960/868474/thumbnails/archelon-m-3f2597d8
 9/21/2020 8:00:31 AM 49,99 RON
 9/24/2020 7:17:06 PM 49,99 RON
 9/26/2020 10:19:36 AM 49,99 RON
+9/30/2020 9:38:25 AM 49,99 RON

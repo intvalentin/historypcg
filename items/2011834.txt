@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p300p256gm28
 2011834
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p300-256gb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011834/thumbnails/p300-256gb-pci-expre
 9/21/2020 7:43:43 AM 171,18 RON
 9/24/2020 10:53:36 AM 172,04 RON
 9/25/2020 9:58:54 PM 174,03 RON
+9/30/2020 1:19:41 PM 173,80 RON

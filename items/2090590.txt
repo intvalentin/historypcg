@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r009d416gx2-3600c18a
 2090590
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/toughram-rgb-32gb-ddr4-3600mhz-cl18-dual-channel/
@@ -8,3 +8,4 @@ Thermaltake ToughRAM RGB 32GB DDR4 3600MHz CL18 Dual Channel
 https://2.grgs.ro/images/products/1/8977/2090590/thumbnails/toughram-rgb-16gb-ddr4-3600mhz-cl16-dual-channel-fd16e72fae8ccadca3dadaa83cf7c987.jpg
     Pret    
 9/25/2020 8:51:28 PM 1.011,14 RON
+9/29/2020 10:15:29 PM 1.006,41 RON

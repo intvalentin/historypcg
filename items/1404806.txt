@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |da500
 1404806
     Product link    
 https://www.pcgarage.ro/surse/deepcool/aurora-series-da500/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1363661/1404806/thumbnails/aurora-series-da5
 9/21/2020 7:46:49 AM 228,71 RON
 9/24/2020 1:28:19 PM 231,82 RON
 9/25/2020 10:44:25 PM 233,75 RON
+9/30/2020 6:30:06 PM 232,31 RON

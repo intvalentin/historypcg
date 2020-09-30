@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-cl100-240-g3
 2047110
     Product link    
 https://www.pcgarage.ro/ssd/goodram/ssd-gr-240-25-quot-cl100-ssdpr-cl100-240-g3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2047110/thumbnails/cl100-g3-240gb-sa
 9/21/2020 7:44:02 AM 182,81 RON
 9/24/2020 10:51:32 AM 183,73 RON
 9/25/2020 9:58:09 PM 185,85 RON
+9/30/2020 1:21:36 PM 185,61 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m2z4000c18
 1936634
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-16gb-ddr4-4000mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1936634/thumbnails/vengeance-lpx-blac
 9/21/2020 7:38:21 AM 1.120,13 RON
 9/23/2020 11:21:12 PM 1.132,86 RON
 9/25/2020 8:56:38 PM 1.142,44 RON
+9/29/2020 10:16:18 PM 1.142,71 RON

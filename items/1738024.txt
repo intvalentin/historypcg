@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx6000pnp-512gt-c
 1738024
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx6000-pro-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1510154/1738024/thumbnails/sx6000-pro-256gb-
 9/21/2020 7:42:29 AM 321,81 RON
 9/24/2020 10:26:50 AM 326,19 RON
 9/25/2020 9:50:43 PM 328,89 RON
+9/30/2020 12:02:17 PM 327,36 RON

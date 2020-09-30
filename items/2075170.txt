@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c18pb3ak2+-+64
 2075170
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-rgb-64gb-ddr4-3600mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1190677/2075170/thumbnails/predator-rgb-32gb
 9/21/2020 7:39:42 AM 1.646,44 RON
 9/23/2020 11:08:48 PM 1.664,23 RON
 9/25/2020 8:52:13 PM 1.679,29 RON
+9/29/2020 10:26:33 PM 1.679,29 RON

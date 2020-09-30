@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp2000gm3a002
 1976562
     Product link    
 https://www.pcgarage.ro/ssd/seagate/firecuda-520-2tb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976562/thumbnails/seagate-firecuda-520
 9/21/2020 7:43:28 AM 2.078,73 RON
 9/24/2020 10:57:45 AM 2.089,14 RON
 9/25/2020 10:00:24 PM 2.108,88 RON
+9/30/2020 12:55:25 PM 2.110,52 RON

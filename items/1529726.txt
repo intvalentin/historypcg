@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp240gbss3s56b25
 1529726
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/slim-s56-series-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427586/1529726/thumbnails/slim-s56-240gb-sa
 9/21/2020 7:44:07 AM 239,26 RON
 9/24/2020 11:18:33 AM 241,97 RON
 9/25/2020 10:07:51 PM 243,98 RON
+9/30/2020 11:48:43 AM 244,12 RON

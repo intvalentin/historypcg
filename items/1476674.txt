@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmv8gx4m1a2400c16
 1476674
     Product link    
 https://www.pcgarage.ro/memorii/corsair/value-select-8gb-ddr4-2400mhz-cl16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469694/1476674/thumbnails/value-select-16gb
 9/21/2020 7:40:27 AM 152,17 RON
 9/24/2020 9:16:01 AM 153,79 RON
 9/25/2020 9:29:59 PM 183,06 RON
+9/29/2020 11:24:24 PM 182,82 RON

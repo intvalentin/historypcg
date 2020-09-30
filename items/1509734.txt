@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmd8gx4m2b3866c18
 1509734
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-8gb-ddr4-3866mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1263508/1509734/thumbnails/dominator-platinu
 9/21/2020 7:39:33 AM 860,24 RON
 9/23/2020 11:46:02 PM 870,09 RON
 9/25/2020 9:05:23 PM 877,35 RON
+9/29/2020 10:09:14 PM 877,62 RON

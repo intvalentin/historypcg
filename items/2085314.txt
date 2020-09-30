@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b550 aorus pro ax
 2085314
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/b550-aorus-pro-ax/
@@ -10,3 +10,7 @@ https://4.grgs.ro/images/products/1/3354/2085314/thumbnails/b550-aorus-pro-ax-90
 9/21/2020 7:37:04 AM 1.134,39 RON
 9/23/2020 7:31:10 PM 1.147,35 RON
 9/25/2020 8:35:12 PM 1.157,04 RON
+9/29/2020 6:26:17 PM 1.157,30 RON
+9/29/2020 6:26:49 PM 1.157,30 RON
+9/29/2020 6:37:35 PM 1.157,30 RON
+9/29/2020 6:37:48 PM 1.157,30 RON

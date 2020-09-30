@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts240gssd220s
 1257845
     Product link    
 https://www.pcgarage.ro/ssd/transcend/220-premium-series-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1175151/1257845/thumbnails/220-premium-serie
 9/21/2020 7:43:47 AM 163,18 RON
 9/24/2020 11:20:38 AM 162,24 RON
 9/25/2020 9:54:26 PM 163,58 RON
+9/30/2020 11:35:56 AM 163,58 RON

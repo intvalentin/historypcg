@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn292
 1753580
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/pure-power-11-80-plus-gold-400w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1749840/1753580/thumbnails/pure-power-11-80-
 9/21/2020 7:47:40 AM 327,88 RON
 9/24/2020 1:11:44 PM 324,34 RON
 9/25/2020 10:31:08 PM 322,42 RON
+9/30/2020 5:18:55 PM 315,48 RON

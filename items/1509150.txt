@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000dm010 recertified
 1509150
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-1tb-sata-iii-7200rpm-64mb-recertified/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301183/1509150/thumbnails/barracuda-1tb-sat
 9/21/2020 7:45:19 AM 236,12 RON
 9/24/2020 12:30:36 PM 236,12 RON
 9/25/2020 10:15:09 PM 236,12 RON
+9/30/2020 4:02:45 PM 236,12 RON

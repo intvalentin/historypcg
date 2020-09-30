@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2074146/thumbnails/14-latitude-5410-ser
 9/20/2020 11:01:23 PM 6.498,03 RON
 9/25/2020 7:11:01 PM 6.515,00 RON
 9/27/2020 7:31:33 PM 6.518,74 RON
+9/29/2020 7:40:45 PM 6.512,73 RON

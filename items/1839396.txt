@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu750ss-256gt-c
 1839396
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su750-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2863/1839396/thumbnails/su750-256gb-sata-iii
 9/21/2020 7:42:36 AM 188,31 RON
 9/24/2020 11:04:00 AM 170,92 RON
 9/25/2020 10:02:37 PM 172,51 RON
+9/30/2020 1:19:24 PM 172,65 RON

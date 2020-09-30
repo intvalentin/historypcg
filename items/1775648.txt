@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st12000ve0008
 1775648
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-ai-12tb-7200rpm-sata-iii-256mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1775648/thumbnails/skyhawk-ai-12tb-7
 9/21/2020 7:45:10 AM 1.530,46 RON
 9/24/2020 11:28:50 AM 1.538,11 RON
 9/25/2020 10:11:28 PM 1.555,91 RON
+9/30/2020 3:57:06 PM 1.548,30 RON

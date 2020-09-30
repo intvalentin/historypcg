@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kb019t801
 1728612
     Product link    
 https://www.pcgarage.ro/ssd/intel/s4510-dc-series-192tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1728612/thumbnails/s4510-dc-series-9
 9/21/2020 7:44:50 AM 2.035,76 RON
 9/24/2020 11:08:09 AM 2.063,44 RON
 9/25/2020 10:04:06 PM 2.080,58 RON
+9/30/2020 2:59:59 PM 2.070,84 RON

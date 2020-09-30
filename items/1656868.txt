@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020177-eu
 1656868
     Product link    
 https://www.pcgarage.ro/surse/corsair/rmx-series-rm550x-2018-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8674/1656868/thumbnails/new-rmx-series-rm550
 9/21/2020 7:46:01 AM 543,06 RON
 9/24/2020 12:47:02 PM 548,65 RON
 9/25/2020 10:21:40 PM 553,34 RON
+9/30/2020 5:41:27 PM 550,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthr500800
 2009162
     Product link    
 https://www.pcgarage.ro/ssd/lacie/rugged-500gb-usb-31-tip-c-orange/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2003606/2009162/thumbnails/rugged-500gb-usb-
 9/21/2020 7:43:19 AM 750,48 RON
 9/24/2020 9:48:57 AM 754,23 RON
 9/25/2020 9:44:52 PM 762,95 RON
+9/30/2020 12:38:56 PM 761,95 RON

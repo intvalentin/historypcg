@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz7lm480hmhq-00005
 1495802
     Product link    
 https://www.pcgarage.ro/ssd/samsung/pm863a-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1178653/1495802/thumbnails/pm863a-480gb-sata
 9/21/2020 7:44:45 AM 1.502,40 RON
 9/24/2020 11:18:33 AM 1.522,83 RON
 9/25/2020 10:07:51 PM 1.535,48 RON
+9/30/2020 2:53:53 PM 1.528,29 RON

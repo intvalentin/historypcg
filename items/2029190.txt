@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22755
 2029190
     Product link    
 https://www.pcgarage.ro/mouse-pad/trust/primo-summer-green/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2029190/thumbnails/primo-summer-green-a
 9/21/2020 8:00:38 AM 23,98 RON
 9/24/2020 7:13:23 PM 23,98 RON
 9/26/2020 10:17:22 AM 23,98 RON
+9/30/2020 9:31:38 AM 23,98 RON

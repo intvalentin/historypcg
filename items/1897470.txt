@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pro ws x570-ace
 1897470
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/pro-ws-x570-ace/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3944/1897470/thumbnails/pro-ws-x570-ace-529e
 9/21/2020 7:37:09 AM 1.663,97 RON
 9/23/2020 7:41:29 PM 1.683,61 RON
 9/25/2020 8:38:56 PM 1.698,01 RON
+9/29/2020 6:49:57 PM 1.698,01 RON

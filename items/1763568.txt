@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x399 aorus pro
 1763568
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/x399-aorus-pro/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3442/1763568/thumbnails/x399-aorus-pro-cd13b
 9/21/2020 7:36:18 AM 1.561,47 RON
 9/23/2020 10:18:03 PM 1.569,28 RON
 9/25/2020 8:40:27 PM 1.587,42 RON
+9/29/2020 6:47:59 PM 1.585,34 RON

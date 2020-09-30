@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_kg950
 1758340
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/marvo/kg950-mecanica/
@@ -8,3 +8,4 @@ Marvo KG950 Mecanica
 https://3.grgs.ro/images/products/1/1153/1758340/thumbnails/kg950-mecanica-ae20dbf58068e1259945e4070234ea5f.jpg
     Pret    
 9/26/2020 10:46:14 AM 317,98 RON
+9/30/2020 12:53:47 PM 303,98 RON

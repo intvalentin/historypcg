@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gnsis_argon500
 1600662
     Product link    
 https://www.pcgarage.ro/casti-gaming/genesis/argon-500/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1516422/1600662/thumbnails/argon-500-2d78c98
 9/21/2020 8:02:04 AM 183,98 RON
 9/24/2020 7:31:41 PM 183,98 RON
 9/26/2020 10:35:06 AM 183,98 RON
+9/30/2020 11:51:58 AM 183,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za240cv1a001
 2073390
     Product link    
 https://www.pcgarage.ro/ssd/seagate/seagate-barracuda-q1-ssd-240gb-sata-25inch-7mm-nand-flash-memory-3d-qlc-halogen-free-trim-smart/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2073390/thumbnails/barracuda-q1-960gb-s
 9/21/2020 7:44:02 AM 199,55 RON
 9/24/2020 10:39:12 AM 201,72 RON
 9/25/2020 9:54:26 PM 203,47 RON
+9/30/2020 1:23:14 PM 203,47 RON

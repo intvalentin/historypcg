@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-f4000gbmp400
 2089906
     Product link    
 https://www.pcgarage.ro/ssd/corsair/mp400-4tb-pci-express-30-x4-m2-2280/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2089906/thumbnails/corsair-mp400-4tb-nv
     Pret    
 9/24/2020 10:39:12 AM 3.060,01 RON
 9/25/2020 9:54:26 PM 3.086,07 RON
+9/30/2020 3:06:06 PM 2.970,10 RON

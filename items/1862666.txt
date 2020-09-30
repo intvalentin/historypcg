@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r40a00061
 1862666
     Product link    
 https://www.pcgarage.ro/watercooling/raijintek/teos-240a-rbw-240mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1862666/thumbnails/teos-240a-rbw-10f4ff
 9/21/2020 7:59:03 AM 333,33 RON
 9/24/2020 6:55:25 PM 333,73 RON
 9/26/2020 9:57:03 AM 334,30 RON
+9/29/2020 10:16:41 PM 334,17 RON

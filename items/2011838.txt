@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p300p512gm28
 2011838
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p300-512gb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9943/2011838/thumbnails/p300-512gb-pci-expre
 9/21/2020 7:42:57 AM 300,26 RON
 9/24/2020 9:32:40 AM 279,23 RON
 9/25/2020 9:40:34 PM 279,23 RON
+9/30/2020 11:17:11 AM 284,63 RON

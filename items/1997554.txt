@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hr-60
 1997554
     Product link    
 https://www.pcgarage.ro/casti-gaming/riotoro/aviator-classic/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1997554/thumbnails/aviator-classic-d
 9/21/2020 8:01:06 AM 269,99 RON
 9/24/2020 7:20:42 PM 269,99 RON
 9/26/2020 10:23:58 AM 269,99 RON
+9/30/2020 10:35:47 AM 269,99 RON

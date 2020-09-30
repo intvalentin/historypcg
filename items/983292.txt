@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm4080010
 983292
     Product link    
 https://www.pcgarage.ro/jocuri/capcom/resident-evil-revelations-2-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/983292/thumbnails/resident-evil-revel
 9/21/2020 8:05:15 AM 194,98 RON
 9/25/2020 12:10:40 AM 194,98 RON
 9/26/2020 1:07:34 PM 194,98 RON
+9/30/2020 4:34:07 PM 194,98 RON

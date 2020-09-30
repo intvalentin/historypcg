@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22331
 1769588
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-168/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1769588/thumbnails/gxt-168-ea48e12fb
 9/21/2020 8:00:00 AM 99,98 RON
 9/24/2020 7:06:53 PM 99,98 RON
 9/26/2020 10:08:37 AM 99,98 RON
+9/30/2020 8:20:00 AM 99,98 RON

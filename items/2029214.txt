@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skc2500m8+-+250g
 2029214
     Product link    
 https://www.pcgarage.ro/ssd/kingston/kc2500-250gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8840/2029214/thumbnails/kc2500-1tb-pci-expre
 9/21/2020 7:42:40 AM 301,37 RON
 9/24/2020 9:46:53 AM 307,88 RON
 9/25/2020 9:44:08 PM 308,02 RON
+9/30/2020 11:57:27 AM 306,66 RON

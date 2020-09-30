@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sedc500r+-+960g
 1837184
     Product link    
 https://www.pcgarage.ro/ssd/kingston/dc500r-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3582/1837184/thumbnails/dc500r-960gb-sata-ii
 9/21/2020 7:42:33 AM 898,15 RON
 9/24/2020 10:01:20 AM 907,62 RON
 9/25/2020 9:49:15 PM 918,11 RON
+9/30/2020 12:42:10 PM 916,91 RON

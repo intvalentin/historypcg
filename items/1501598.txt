@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn6040036
 1501598
     Product link    
 https://www.pcgarage.ro/jocuri/nintendo/metroid-samus-returns-pentru-3ds/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427586/1501598/thumbnails/metroid-samus-ret
 9/21/2020 8:06:06 AM 244,98 RON
 9/25/2020 12:01:46 AM 244,98 RON
 9/26/2020 11:14:40 AM 244,98 RON
+9/30/2020 5:45:33 PM 244,98 RON

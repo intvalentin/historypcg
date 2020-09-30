@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kb480g801
 1728608
     Product link    
 https://www.pcgarage.ro/ssd/intel/s4510-dc-series-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1723568/1728608/thumbnails/s4510-dc-series-9
 9/21/2020 7:42:33 AM 648,57 RON
 9/24/2020 10:26:50 AM 657,39 RON
 9/25/2020 9:51:27 PM 662,85 RON
+9/30/2020 12:30:59 PM 624,30 RON

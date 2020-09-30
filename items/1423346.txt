@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwd110ezsta
 1423346
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/p300-1tb-sata-iii-7200-rpm-64mb-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/1423346/thumbnails/p300-1tb-sata-iii-
 9/21/2020 7:45:10 AM 216,02 RON
 9/24/2020 12:22:22 PM 216,68 RON
 9/25/2020 10:12:11 PM 217,08 RON
+9/30/2020 3:47:40 PM 216,68 RON

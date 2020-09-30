@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr3-8g1333-b
 463403
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/8gb-ddr3-1333mhz-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/463403/thumbnails/8gb-ddr3-1333mhz-bulk-ac
 9/21/2020 7:39:47 AM 143,14 RON
 9/24/2020 9:28:32 AM 145,08 RON
 9/25/2020 9:39:06 PM 146,29 RON
+9/29/2020 11:04:33 PM 145,60 RON

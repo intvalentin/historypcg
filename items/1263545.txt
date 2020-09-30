@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid1010101
 1263545
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/deus-ex-mankind-divided-day-one-edition-pentru-pc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/859765/1263545/thumbnails/deus-ex-manking-di
 9/21/2020 8:05:11 AM 188,41 RON
 9/25/2020 12:09:10 AM 188,41 RON
 9/26/2020 1:06:04 PM 188,41 RON
+9/30/2020 4:33:20 PM 188,41 RON

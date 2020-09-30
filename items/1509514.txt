@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c17s-8gnt
 1509514
     Product link    
 https://www.pcgarage.ro/memorii/gskill/f4-8gb-ddr4-2400mhz-cl17-12v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1415042/1509514/thumbnails/f4-4gb-ddr4-2133m
 9/21/2020 7:38:55 AM 175,57 RON
 9/23/2020 11:46:02 PM 177,58 RON
 9/25/2020 9:05:23 PM 179,07 RON
+9/29/2020 8:06:35 PM 174,07 RON

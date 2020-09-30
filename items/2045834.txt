@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53249
 2045834
     Product link    
 https://www.pcgarage.ro/ssd/verbatim/store-n-go-256gb-usb-32-tip-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2045834/thumbnails/store-n-go-512gb-
 9/21/2020 7:43:10 AM 316,30 RON
 9/24/2020 9:46:53 AM 316,30 RON
 9/25/2020 9:43:24 PM 316,30 RON
+9/30/2020 11:59:37 AM 316,30 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2yy42aa#abb
 1663808
     Product link    
 https://www.pcgarage.ro/ssd/hp/ex900-120gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1663808/thumbnails/hp-ssd-ex900-120g
 9/21/2020 7:42:25 AM 136,29 RON
 9/24/2020 10:30:58 AM 136,96 RON
 9/25/2020 9:52:12 PM 138,54 RON
+9/30/2020 11:32:58 AM 138,37 RON

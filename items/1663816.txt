@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2yy44aa#abb
 1663816
     Product link    
 https://www.pcgarage.ro/ssd/hp/ex900-500gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1663772/1663816/thumbnails/hp-ssd-ex900-120g
 9/21/2020 7:42:33 AM 322,97 RON
 9/24/2020 10:30:58 AM 324,60 RON
 9/25/2020 9:52:12 PM 328,35 RON
+9/30/2020 12:02:51 PM 327,92 RON

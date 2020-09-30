@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-skb6-us
 1833136
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/canyon/hazard-1/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5631/1833136/thumbnails/skb6-69ce65a9be02278
 9/24/2020 7:44:52 PM 144,99 RON
 9/24/2020 11:29:08 PM 144,99 RON
 9/26/2020 10:41:49 AM 144,99 RON
+9/30/2020 12:48:14 PM 144,99 RON

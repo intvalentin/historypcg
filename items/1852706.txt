@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vpn100-512gm28h
 1852706
     Product link    
 https://www.pcgarage.ro/ssd/patriot/vpn100-512gb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1848722/1852706/thumbnails/vpn100-1tb-pci-ex
 9/21/2020 7:42:48 AM 407,31 RON
 9/24/2020 10:01:19 AM 411,61 RON
 9/25/2020 9:48:31 PM 416,36 RON
+9/30/2020 12:15:02 PM 415,82 RON

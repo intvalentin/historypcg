@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea7040100
 244491
     Product link    
 https://www.pcgarage.ro/jocuri/ea-games/dead-space-2-pentru-xbox-360/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/244491/thumbnails/dead-space-2-pentru-xbox
 9/21/2020 8:06:29 AM 277,98 RON
 9/25/2020 12:12:55 AM 277,98 RON
 9/26/2020 1:09:47 PM 277,98 RON
+9/30/2020 6:17:01 PM 277,98 RON

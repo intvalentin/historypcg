@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct1050mx300ssd1
 1396709
     Product link    
 https://www.pcgarage.ro/ssd/crucial/mx300-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1088099/1396709/thumbnails/mx300-750gb-sata-
 9/21/2020 7:44:45 AM 1.294,61 RON
 9/24/2020 11:20:38 AM 1.308,26 RON
 9/25/2020 10:08:36 PM 1.323,39 RON
+9/30/2020 2:49:39 PM 1.316,92 RON

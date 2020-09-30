@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rp550
 296615
     Product link    
 https://www.pcgarage.ro/surse/segotep/raynor-power-550w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/296615/thumbnails/raynor-power-550w-344bc8
 9/21/2020 7:47:26 AM 241,23 RON
 9/24/2020 2:01:10 PM 244,51 RON
 9/25/2020 10:52:30 PM 246,54 RON
+9/30/2020 6:35:13 PM 245,03 RON

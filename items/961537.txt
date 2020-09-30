@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-500k
 961537
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-500k-500w-bulk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/931142/961537/thumbnails/sl-500k-500w-bulk-3
 9/21/2020 7:45:57 AM 103,45 RON
 9/24/2020 12:55:12 PM 104,86 RON
 9/25/2020 10:25:11 PM 105,73 RON
+9/30/2020 4:50:30 PM 105,24 RON

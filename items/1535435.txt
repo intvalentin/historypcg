@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp004gbltu160n02
 1535435
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/4gb-ddr3-1600mhz-cl11-15v-3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1505170/1535435/thumbnails/4gb-ddr3-1600mhz-
 9/21/2020 7:38:45 AM 79,03 RON
 9/24/2020 9:11:51 AM 80,02 RON
 9/25/2020 9:28:29 PM 80,59 RON
+9/29/2020 10:39:41 PM 87,95 RON

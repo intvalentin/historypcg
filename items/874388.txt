@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm700-lx
 874388
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm700-lx-700w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/874388/thumbnails/zm700-lx-886ee1d8018161f
 9/21/2020 7:47:44 AM 341,77 RON
 9/24/2020 1:52:52 PM 346,42 RON
 9/25/2020 10:49:36 PM 349,29 RON
+9/30/2020 7:35:25 PM 347,15 RON

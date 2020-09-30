@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts480gmts820s
 1619758
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts820s-480gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1489074/1619758/thumbnails/transcend-ssd-mts
 9/21/2020 7:43:10 AM 286,82 RON
 9/24/2020 10:33:02 AM 290,07 RON
 9/25/2020 9:52:56 PM 292,50 RON
+9/30/2020 11:56:36 AM 292,63 RON

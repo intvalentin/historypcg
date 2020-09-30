@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x570 aorus xtreme
 1900326
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-x570-xtreme/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1899326/1900326/thumbnails/aorus-x570-xtreme
 9/21/2020 7:37:16 AM 3.771,94 RON
 9/23/2020 7:41:29 PM 3.811,70 RON
 9/25/2020 8:38:56 PM 3.855,80 RON
+9/29/2020 7:01:11 PM 3.850,74 RON

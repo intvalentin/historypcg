@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-e1-bn
 1494918
     Product link    
 https://www.pcgarage.ro/kit-gaming/gamdias/hermes-e1-combo/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1469770/1494918/thumbnails/hermes-e1-combo-6
 9/24/2020 7:52:13 PM 331,35 RON
 9/24/2020 11:35:45 PM 331,35 RON
 9/26/2020 10:49:14 AM 331,28 RON
+9/30/2020 2:01:39 PM 329,73 RON

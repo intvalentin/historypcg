@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011180-eu
 1949670
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/virtuoso-rgb-gunmetal-se-wireless/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1949670/thumbnails/virtuoso-rgb-gunmeta
 9/21/2020 8:01:14 AM 999,99 RON
 9/24/2020 7:25:02 PM 1.099,99 RON
 9/26/2020 10:24:42 AM 999,99 RON
+9/30/2020 10:50:15 AM 999,99 RON

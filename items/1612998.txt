@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ted416g2400c1601
 1612998
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/elite-16gb-ddr4-2400mhz-cl16-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1612998/thumbnails/tp-ddr4-8gb-2400-
 9/21/2020 7:40:03 AM 242,80 RON
 9/24/2020 9:09:47 AM 245,61 RON
 9/25/2020 9:27:44 PM 247,57 RON
+9/30/2020 8:14:20 AM 247,71 RON

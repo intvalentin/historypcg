@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000vx004
 1937346
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-8tb-7200rpm-sata-iii-256mb-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025736/1937346/thumbnails/skyhawk-8tb-7200r
 9/21/2020 7:45:06 AM 1.059,99 RON
 9/24/2020 11:24:44 AM 1.059,99 RON
 9/25/2020 10:10:01 PM 1.059,99 RON
+9/30/2020 3:45:12 PM 1.059,99 RON

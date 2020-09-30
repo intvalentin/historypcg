@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9440020-eu
 1402375
     Product link    
 https://www.pcgarage.ro/mouse-pad/corsair/mm800-rgb-polaris/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1355434/1402375/thumbnails/mm800-rgb-polaris
 9/21/2020 8:00:38 AM 383,98 RON
 9/24/2020 7:16:22 PM 379,98 RON
 9/26/2020 10:19:36 AM 377,98 RON
+9/30/2020 9:56:37 AM 373,98 RON

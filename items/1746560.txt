@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdssdxpm2-500g-g25
 1746560
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/extremepro-500gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1746560/thumbnails/extremepro-500gb-
 9/21/2020 7:43:01 AM 624,39 RON
 9/24/2020 10:26:50 AM 620,66 RON
 9/25/2020 9:50:43 PM 613,77 RON
+9/30/2020 2:22:25 PM 608,06 RON

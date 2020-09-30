@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog maximus xii apex
 2036946
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/z490-rog-maximus-xii-apex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2036946/thumbnails/z490-rog-maximus-xii
 9/21/2020 7:37:16 AM 2.805,70 RON
 9/23/2020 7:37:21 PM 2.819,73 RON
 9/25/2020 8:37:27 PM 2.852,35 RON
+9/29/2020 6:59:08 PM 2.848,59 RON

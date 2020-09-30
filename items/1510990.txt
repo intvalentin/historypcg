@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp600t
 1510990
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp600t-80-plus-titanium-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1408706/1510990/thumbnails/gp600t-80-plus-ti
 9/21/2020 7:46:27 AM 562,29 RON
 9/24/2020 12:51:08 PM 569,94 RON
 9/25/2020 10:23:04 PM 574,67 RON
+9/30/2020 5:42:33 PM 571,15 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e100n+-+256g
 2026902
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/e100n-256gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1802236/2026902/thumbnails/e100n-240gb-sata-
 9/21/2020 7:42:13 AM 143,07 RON
 9/24/2020 9:32:40 AM 144,57 RON
 9/25/2020 9:40:34 PM 146,25 RON
+9/30/2020 11:08:55 AM 145,54 RON

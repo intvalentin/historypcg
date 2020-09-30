@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3200316g16-sb10
 1850314
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-gammix-d10-black-16gb-ddr4-3200mhz-cl16/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1850314/thumbnails/xpg-gammix-d10-bl
 9/21/2020 7:41:10 AM 544,43 RON
 9/24/2020 8:51:03 AM 550,64 RON
 9/25/2020 9:21:02 PM 555,20 RON
+9/30/2020 9:14:24 AM 555,33 RON

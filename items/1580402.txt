@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-060asbl-bu01b
 1580402
     Product link    
 https://www.pcgarage.ro/surse/njoy/legion-80-plus-silver-600w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1500686/1580402/thumbnails/legion-600w-20c6e
 9/21/2020 7:45:45 AM 309,99 RON
 9/24/2020 12:49:06 PM 309,99 RON
 9/25/2020 10:34:06 PM 309,99 RON
+9/30/2020 7:02:40 PM 309,99 RON

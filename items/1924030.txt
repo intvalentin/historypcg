@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |meg x570 ace
 1924030
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/meg-x570-ace/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1924030/thumbnails/meg-x570-ace-c147df2
 9/21/2020 7:36:14 AM 1.716,24 RON
 9/23/2020 7:41:29 PM 1.739,57 RON
 9/25/2020 8:38:56 PM 1.754,02 RON
+9/29/2020 6:52:09 PM 1.745,81 RON

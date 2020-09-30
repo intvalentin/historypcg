@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01n930es-001t-e2x
 2069898
     Product link    
 https://www.pcgarage.ro/ssd/netac/n930es-1tb-pci-express-30-x2-m2-2242/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2069898/thumbnails/n930es-128gb-pci-exp
 9/21/2020 7:44:26 AM 478,80 RON
 9/24/2020 10:41:17 AM 483,85 RON
 9/25/2020 9:55:56 PM 489,45 RON
+9/30/2020 2:10:10 PM 488,80 RON

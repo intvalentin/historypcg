@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-f1920gbmp510
 1843960
     Product link    
 https://www.pcgarage.ro/ssd/corsair/force-mp510-1920gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1054/1843960/thumbnails/force-mp510-1920gb-p
 9/21/2020 7:42:53 AM 1.518,46 RON
 9/24/2020 10:01:20 AM 1.535,40 RON
 9/25/2020 9:48:31 PM 1.548,44 RON
+9/30/2020 12:52:07 PM 1.549,74 RON

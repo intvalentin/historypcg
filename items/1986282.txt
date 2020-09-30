@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ecssd128gx200
 1986282
     Product link    
 https://www.pcgarage.ro/ssd/emtec/ssd-usb-c-128gb-ext-x200-ecssd128gx200-emtec/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1986282/thumbnails/power-plus-x200-1
 9/21/2020 7:43:57 AM 136,63 RON
 9/24/2020 10:55:41 AM 138,07 RON
 9/25/2020 9:59:39 PM 139,67 RON
+9/30/2020 1:12:54 PM 139,49 RON

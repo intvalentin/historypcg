@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp256gbp34a60m28
 1963130
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/p34a60-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1261/1963130/thumbnails/p34a60-256gb-pci-exp
 9/21/2020 7:42:44 AM 229,16 RON
 9/24/2020 9:55:08 AM 231,87 RON
 9/25/2020 9:46:20 PM 234,03 RON
+9/30/2020 11:46:03 AM 234,03 RON

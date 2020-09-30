@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-rp650
 457093
     Product link    
 https://www.pcgarage.ro/surse/segotep/rp650/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/457093/thumbnails/rp650-b74796c5a522730e46
 9/21/2020 7:47:31 AM 269,95 RON
 9/24/2020 2:01:10 PM 273,62 RON
 9/25/2020 10:52:30 PM 275,89 RON
+9/30/2020 6:46:20 PM 274,20 RON

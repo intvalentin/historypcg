@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16s-8gis
 1956426
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-8gb-ddr4-3200mhz-cl16-135v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1541210/1956426/thumbnails/aegis-8gb-ddr4-30
 9/21/2020 7:39:52 AM 138,08 RON
 9/24/2020 8:38:35 AM 139,64 RON
 9/25/2020 9:16:31 PM 140,92 RON
+9/29/2020 11:05:39 PM 146,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ah-2sa30-d1
 1847916
     Product link    
 https://www.pcgarage.ro/modding/nzxt/hue-2-led-strips/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1844684/1847916/thumbnails/nzxt-advanced-lig
 9/21/2020 7:58:45 AM 118,86 RON
 9/24/2020 6:51:01 PM 121,11 RON
 9/26/2020 9:52:37 AM 121,27 RON
+9/29/2020 9:49:37 PM 121,27 RON

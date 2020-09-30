@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ak-b1-500e
 1530519
     Product link    
 https://www.pcgarage.ro/surse/akyga/basic-ak-b1-500e-500w/
@@ -8,3 +8,4 @@ AKYGA Basic AK-B1-500E, 500W
 https://2.grgs.ro/images/products/1/1510154/1530519/thumbnails/akyga-basic-ak-b1-500e-500w-ba4b07e6208ffa308c09aa3b589edb11.jpg
     Pret    
 9/25/2020 10:23:04 PM 100,46 RON
+9/30/2020 5:59:19 PM 100,91 RON

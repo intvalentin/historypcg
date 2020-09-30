@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u300038g16a-sbht
 2055766
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-hunter-8gb-ddr4-3000mhz-cl16/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2055766/thumbnails/xpg-hunter-8gb-ddr4-
 9/21/2020 7:38:55 AM 172,50 RON
 9/24/2020 12:04:40 AM 174,31 RON
 9/25/2020 9:12:03 PM 176,33 RON
+9/29/2020 11:21:57 PM 176,09 RON

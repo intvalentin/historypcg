@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsckkw512g8x1
 1620950
     Product link    
 https://www.pcgarage.ro/ssd/intel/545s-series-512gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301183/1620950/thumbnails/545s-series-512gb
 9/21/2020 7:43:52 AM 367,74 RON
 9/24/2020 11:16:29 AM 371,62 RON
 9/25/2020 10:06:21 PM 375,91 RON
+9/30/2020 1:54:01 PM 375,43 RON

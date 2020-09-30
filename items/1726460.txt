@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x399 aorus xtreme
 1726460
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/aorus-x399-xtreme/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8674/1726460/thumbnails/aorus-x399-xtreme-a2
 9/21/2020 7:37:13 AM 2.369,89 RON
 9/23/2020 10:20:08 PM 2.381,75 RON
 9/25/2020 8:41:11 PM 2.409,29 RON
+9/29/2020 6:56:42 PM 2.406,14 RON

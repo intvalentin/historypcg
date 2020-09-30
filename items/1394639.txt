@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2133c15s-8gis
 1394639
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-8gb-ddr4-2133mhz-cl15/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1146523/1394639/thumbnails/aegis-8gb-ddr4-21
 9/21/2020 7:39:47 AM 135,96 RON
 9/24/2020 9:18:06 AM 153,24 RON
 9/25/2020 9:30:44 PM 154,51 RON
+9/29/2020 11:14:52 PM 164,42 RON

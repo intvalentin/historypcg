@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16d-32gis
 1956442
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-32gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862955/1956442/thumbnails/aegis-8gb-ddr4-213
 9/21/2020 7:39:52 AM 517,80 RON
 9/24/2020 8:38:35 AM 597,45 RON
 9/25/2020 9:15:47 PM 602,42 RON
+9/30/2020 9:23:19 AM 640,93 RON

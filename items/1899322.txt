@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tm8fp5001t0c119
 1899322
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/cardea-liquid-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1899322/thumbnails/cardea-liquid-512
 9/21/2020 7:44:36 AM 784,51 RON
 9/24/2020 11:01:54 AM 793,50 RON
 9/25/2020 10:01:52 PM 800,14 RON
+9/30/2020 2:36:52 PM 800,40 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-8920052, zuad-463
 803548
     Product link    
 https://www.pcgarage.ro/modding/corsair/kit-cabluri-alimentare-type-3gen-2-pentru-seria-axi-ax-hx-hxi-txm-cxm-csm-rm-metallic-graphite/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/803548/thumbnails/professional-individuall
 9/21/2020 7:58:58 AM 513,41 RON
 9/24/2020 6:53:54 PM 524,82 RON
 9/26/2020 9:55:33 AM 524,71 RON
+9/29/2020 10:10:34 PM 522,25 RON

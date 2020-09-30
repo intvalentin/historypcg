@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds768t1d0d
 2067842
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/gold-enterprise-768tb-u2-pci-express-30-x4-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2067842/thumbnails/wd-gold-enterprise-c
 9/21/2020 7:44:58 AM 8.474,24 RON
 9/24/2020 10:47:22 AM 8.571,57 RON
 9/25/2020 9:56:40 PM 8.644,25 RON
+9/30/2020 3:12:31 PM 8.645,55 RON

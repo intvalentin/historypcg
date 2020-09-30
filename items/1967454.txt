@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts1tmte110s
 1967454
     Product link    
 https://www.pcgarage.ro/ssd/transcend/110s-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1967454/thumbnails/110s-1tb-pci-express
 9/21/2020 7:43:14 AM 548,48 RON
 9/24/2020 9:55:08 AM 554,71 RON
 9/25/2020 9:46:20 PM 559,36 RON
+9/30/2020 12:24:52 PM 559,63 RON

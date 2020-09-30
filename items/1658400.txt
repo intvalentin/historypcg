@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid7050034
 1658400
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/shadow-of-the-tomb-raider-pentru-xbox-one/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5286/1658400/thumbnails/shadow-of-the-tomb-r
 9/24/2020 8:11:40 PM 149,98 RON
 9/24/2020 11:55:54 PM 149,98 RON
 9/26/2020 11:08:41 AM 149,98 RON
+9/30/2020 4:01:07 PM 149,98 RON

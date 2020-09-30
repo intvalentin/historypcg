@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gsm2ne8128gntd
 1742432
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/128gb-pci-express-30-x2-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1742432/thumbnails/128gb-pci-express
 9/21/2020 7:43:57 AM 136,42 RON
 9/24/2020 11:08:09 AM 138,27 RON
 9/25/2020 10:04:06 PM 139,42 RON
+9/30/2020 1:12:38 PM 138,77 RON

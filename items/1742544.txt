@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-gstfs31256gtnd
 1742544
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1736364/1742544/thumbnails/256gb-sata-iii-25
 9/21/2020 7:42:21 AM 184,79 RON
 9/24/2020 10:26:50 AM 184,79 RON
 9/25/2020 9:41:58 PM 184,79 RON
+9/30/2020 11:12:37 AM 193,19 RON

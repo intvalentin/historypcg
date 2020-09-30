@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c17pb3+-+16
 1728500
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-black-16gb-ddr4-3600mhz-cl17-135v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1190677/1728500/thumbnails/predator-black-8g
 9/21/2020 7:39:19 AM 468,52 RON
 9/24/2020 8:59:22 AM 473,91 RON
 9/25/2020 9:24:01 PM 477,91 RON
+9/30/2020 9:06:25 AM 478,05 RON

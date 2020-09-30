@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp002tbp34a80m28
 1949314
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/p34a80-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6599/1949314/thumbnails/p34a80-512gb-pci-exp
 9/21/2020 7:42:40 AM 1.334,70 RON
 9/24/2020 9:57:12 AM 1.350,35 RON
 9/25/2020 9:47:04 PM 1.360,77 RON
+9/30/2020 12:49:58 PM 1.362,07 RON

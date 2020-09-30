@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sps-530m
 491429
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-se-530w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/491429/thumbnails/smart-se-530w-d8cb0e723e
 9/21/2020 7:46:49 AM 310,21 RON
 9/24/2020 1:59:06 PM 314,43 RON
 9/25/2020 10:51:46 PM 317,04 RON
+9/30/2020 7:04:37 PM 315,09 RON

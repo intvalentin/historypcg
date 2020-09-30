@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20687
 1185571
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt130-wireless/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175596/1185571/thumbnails/gxt130-wireless-a
 9/21/2020 7:59:47 AM 84,99 RON
 9/24/2020 7:03:58 PM 78,99 RON
 9/26/2020 10:05:41 AM 78,99 RON
+9/29/2020 11:13:03 PM 78,99 RON

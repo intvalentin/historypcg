@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ase800-1tu32g2-cbl
 1903162
     Product link    
 https://www.pcgarage.ro/ssd/a-data/se800-1tb-usb-31-tip-c-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1202/1903162/thumbnails/se800-512gb-usb-31-t
 9/21/2020 7:43:43 AM 601,92 RON
 9/24/2020 11:01:54 AM 610,10 RON
 9/25/2020 10:01:08 PM 615,17 RON
+9/30/2020 2:22:57 PM 612,29 RON

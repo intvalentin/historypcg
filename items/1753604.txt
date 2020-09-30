@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn290
 1753604
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/pure-power-11-80-plus-bronze-300w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1753604/thumbnails/be-quiet-pure-pow
 9/21/2020 7:46:23 AM 271,66 RON
 9/24/2020 12:47:02 PM 268,56 RON
 9/25/2020 10:21:40 PM 266,94 RON
+9/30/2020 5:12:12 PM 268,26 RON

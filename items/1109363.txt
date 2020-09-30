@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacgstx650
 1109363
     Product link    
 https://www.pcgarage.ro/surse/cougar/stx-650w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/812812/1109363/thumbnails/stx-550w-5a60c95d8
 9/21/2020 7:47:44 AM 336,13 RON
 9/24/2020 1:46:39 PM 336,13 RON
 9/25/2020 10:47:24 PM 336,13 RON
+9/30/2020 7:11:10 PM 336,13 RON

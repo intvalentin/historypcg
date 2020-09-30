@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se50s37+-+480g
 744436
     Product link    
 https://www.pcgarage.ro/ssd/kingston/480gb-sata-iii-25-inch-ssdnow-e50/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/744436/thumbnails/480gb-sata-iii-25-i
 9/21/2020 7:44:50 AM 1.648,50 RON
 9/24/2020 11:22:41 AM 1.670,91 RON
 9/25/2020 10:09:18 PM 1.685,15 RON
+9/30/2020 2:56:02 PM 1.676,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z490 taichi
 2037446
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z490-taichi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2037446/thumbnails/z490-taichi-f5172
 9/21/2020 7:37:13 AM 2.036,42 RON
 9/23/2020 7:35:17 PM 2.046,61 RON
 9/25/2020 8:36:41 PM 2.070,29 RON
+9/29/2020 6:54:42 PM 2.067,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf3d432g2400hc15bdc01
 1752488
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/team-group-delta-rgb-ddr4-32gb-2x16gb-2400mhz-cl15-12v-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1752488/thumbnails/delta-rgb-8gb-ddr
 9/21/2020 7:39:33 AM 870,24 RON
 9/23/2020 11:25:20 PM 880,23 RON
 9/25/2020 8:58:07 PM 887,62 RON
+9/29/2020 10:09:30 PM 887,90 RON

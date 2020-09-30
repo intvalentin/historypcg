@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |suv500ms+-+120g
 1678564
     Product link    
 https://www.pcgarage.ro/ssd/kingston/ssdnow-uv500-120gb-sata-iii-msata/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1678564/thumbnails/ssdnow-uv500-120g
 9/21/2020 7:43:38 AM 151,04 RON
 9/24/2020 11:12:19 AM 153,87 RON
 9/25/2020 9:52:12 PM 155,08 RON
+9/30/2020 1:15:23 PM 155,08 RON

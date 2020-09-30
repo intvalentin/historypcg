@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hydro ge 550
 1708288
     Product link    
 https://www.pcgarage.ro/surse/fortron/hydro-ge-80-plusgold-550w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1301253/1708288/thumbnails/hydro-ge-80-plusg
 9/21/2020 7:46:27 AM 455,05 RON
 9/24/2020 12:47:02 PM 461,23 RON
 9/25/2020 10:21:40 PM 465,06 RON
+9/30/2020 5:36:32 PM 462,89 RON

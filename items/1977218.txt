@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap2tbas2280q4-1
 1977218
     Product link    
 https://www.pcgarage.ro/ssd/apacer/as2280q4-2tb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1977218/thumbnails/as2280q4-500gb-pci-e
 9/21/2020 7:43:28 AM 1.844,01 RON
 9/24/2020 9:53:04 AM 1.864,87 RON
 9/25/2020 9:45:36 PM 1.880,50 RON
+9/30/2020 12:54:04 PM 1.880,50 RON

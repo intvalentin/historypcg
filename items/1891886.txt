@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpe2ke032t801
 1891886
     Product link    
 https://www.pcgarage.ro/ssd/intel/dc-p4610-32tb-u2-pci-express-30-x4-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1275/1891886/thumbnails/dc-p4610-32tb-u2-pci
 9/21/2020 7:44:58 AM 5.795,75 RON
 9/24/2020 11:01:54 AM 5.856,86 RON
 9/25/2020 10:01:52 PM 5.924,62 RON
+9/30/2020 3:11:59 PM 5.916,84 RON

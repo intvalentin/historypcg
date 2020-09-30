@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ep-550s (hpg-550br-h14c)
 638157
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/element-smart-550w-ep-550s/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/638157/thumbnails/element-smart-550w-ep-55
 9/21/2020 7:47:44 AM 332,67 RON
 9/24/2020 1:57:02 PM 333,09 RON
 9/25/2020 10:51:46 PM 333,63 RON
+9/30/2020 7:10:37 PM 333,75 RON

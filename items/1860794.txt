@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xa960le10063
 1860794
     Product link    
 https://www.pcgarage.ro/ssd/seagate/nytro-1351-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1860794/thumbnails/nytro-1351-960gb-sat
 9/21/2020 7:44:41 AM 991,41 RON
 9/24/2020 11:03:59 AM 1.001,87 RON
 9/25/2020 10:02:37 PM 1.013,46 RON
+9/30/2020 2:43:16 PM 1.012,13 RON

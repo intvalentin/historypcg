@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd2002ffsx
 1387244
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/red-pro-rev2-2tb-sata-iii-7200rpm-64mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/1387244/thumbnails/red-pro-2tb-sata-i
 9/21/2020 7:45:06 AM 554,99 RON
 9/24/2020 11:26:46 AM 554,99 RON
 9/25/2020 10:12:11 PM 554,99 RON
+9/30/2020 4:12:54 PM 554,99 RON

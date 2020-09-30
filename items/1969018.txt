@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-03020100-r3m1
 1969018
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/firefly-v2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1969018/thumbnails/firefly-v2-aafda8c30
 9/21/2020 8:00:54 AM 343,98 RON
 9/24/2020 7:17:07 PM 343,98 RON
 9/26/2020 10:20:20 AM 345,98 RON
+9/30/2020 10:18:38 AM 345,98 RON

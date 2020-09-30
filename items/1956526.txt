@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253tm500g3c302
 1956526
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/t-force-delta-max-rgb-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1953966/1956526/thumbnails/t-force-delta-max
 9/21/2020 7:43:14 AM 406,45 RON
 9/24/2020 9:55:08 AM 411,10 RON
 9/25/2020 9:47:04 PM 414,55 RON
+9/30/2020 12:14:46 PM 414,68 RON

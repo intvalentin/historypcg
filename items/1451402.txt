@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ne650c ec
 1451402
     Product link    
 https://www.pcgarage.ro/surse/antec/neoeco-classic-80-plus-bronze-650w/
@@ -8,3 +8,4 @@ Antec NeoECO Classic, 80+ Bronze, 650W
 https://4.grgs.ro/images/products/1/1408706/1451402/thumbnails/neoeco-classic-80-plus-bronze-650w-81570f966064820e1015f03a8b5e6122.jpg
     Pret    
 9/25/2020 10:23:46 PM 368,21 RON
+9/30/2020 5:28:27 PM 368,32 RON

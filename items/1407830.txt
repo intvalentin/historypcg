@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ss-256gt-c
 1407830
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/978807/1407830/thumbnails/su800-256gb-sata-i
 9/21/2020 7:42:21 AM 179,72 RON
 9/24/2020 10:35:06 AM 194,39 RON
 9/25/2020 9:53:41 PM 194,39 RON
+9/30/2020 11:42:44 AM 210,53 RON

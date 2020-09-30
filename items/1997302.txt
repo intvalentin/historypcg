@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-psu-ionp-760p-bk-eu
 1997302
     Product link    
 https://www.pcgarage.ro/surse/fractal-design/ion-plus-760p-80-plus-platinum-760w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/1997302/thumbnails/ion-plus-760p-80-
 9/21/2020 7:46:27 AM 683,30 RON
 9/24/2020 12:38:48 PM 683,30 RON
 9/25/2020 10:19:30 PM 683,30 RON
+9/30/2020 5:46:33 PM 683,30 RON

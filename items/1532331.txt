@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c16d-16gft
 1532331
     Product link    
 https://www.pcgarage.ro/memorii/gskill/fortis-for-amd-16gb-ddr4-2400mhz-cl16-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475558/1532331/thumbnails/fortis-for-amd-16
 9/21/2020 7:39:05 AM 272,15 RON
 9/24/2020 9:11:51 AM 275,24 RON
 9/25/2020 9:29:14 PM 315,68 RON
+9/30/2020 8:31:41 AM 332,53 RON

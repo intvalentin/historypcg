@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1920nx1a001
 2072814
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-pro-125-192tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2072814/thumbnails/ironwolf-pro-125-384
 9/21/2020 7:44:50 AM 2.043,68 RON
 9/24/2020 10:39:12 AM 2.067,15 RON
 9/25/2020 9:54:26 PM 2.085,39 RON
+9/30/2020 3:00:31 PM 2.085,40 RON

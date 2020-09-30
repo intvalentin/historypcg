@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st3000dm008
 1397019
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-3tb-sata-iii-7200rpm-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025736/1397019/thumbnails/barracuda-3tb-sat
 9/21/2020 7:45:24 AM 441,93 RON
 9/24/2020 12:32:39 PM 447,94 RON
 9/25/2020 10:15:53 PM 451,76 RON
+9/30/2020 4:09:17 PM 449,55 RON

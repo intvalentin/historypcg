@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts128gmts600
 1045102
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts600-128gb-m2-2260/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1045102/thumbnails/mts600-128gb-m2-22
 9/21/2020 7:44:11 AM 311,61 RON
 9/24/2020 11:20:38 AM 311,61 RON
 9/25/2020 10:08:36 PM 311,61 RON
+9/30/2020 1:43:33 PM 311,61 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx7000np-256gt-c
 1479950
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx7000-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427582/1479950/thumbnails/sx7000-128gb-nvm-
 9/21/2020 7:43:10 AM 312,94 RON
 9/24/2020 10:35:06 AM 218,69 RON
 9/25/2020 9:53:41 PM 220,50 RON
+9/30/2020 11:44:06 AM 219,47 RON

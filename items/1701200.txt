@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd8003ffbx
 1701200
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/red-pro-8tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1701200/thumbnails/red-pro-4tb-sata-i
 9/21/2020 7:45:10 AM 1.475,83 RON
 9/24/2020 11:28:50 AM 1.495,89 RON
 9/25/2020 10:11:28 PM 1.508,32 RON
+9/30/2020 3:56:32 PM 1.501,26 RON

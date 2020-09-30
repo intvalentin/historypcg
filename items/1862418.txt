@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vpn100-2tbm28h
 1862418
     Product link    
 https://www.pcgarage.ro/ssd/patriot/vpn100-2tb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848722/1862418/thumbnails/vpn100-1tb-pci-ex
 9/21/2020 7:42:44 AM 1.416,81 RON
 9/24/2020 11:03:59 AM 1.433,75 RON
 9/25/2020 10:01:53 PM 1.445,48 RON
+9/30/2020 12:51:34 PM 1.450,69 RON

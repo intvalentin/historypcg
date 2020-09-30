@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skc2000m8+-+2000g
 1865226
     Product link    
 https://www.pcgarage.ro/ssd/kingston/kc2000-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1864870/1865226/thumbnails/kc2000-1tb-pci-ex
 9/21/2020 7:43:28 AM 1.637,17 RON
 9/24/2020 9:59:16 AM 1.668,39 RON
 9/25/2020 10:01:53 PM 1.661,30 RON
+9/30/2020 2:55:14 PM 1.659,12 RON

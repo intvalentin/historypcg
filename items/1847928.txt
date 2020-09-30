@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ah-2pcca-01
 1847928
     Product link    
 https://www.pcgarage.ro/modding/nzxt/hue-2-cable-comb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1844684/1847928/thumbnails/nzxt-cable-comb-b
 9/21/2020 7:58:45 AM 150,82 RON
 9/24/2020 6:51:01 PM 153,55 RON
 9/26/2020 9:52:37 AM 153,87 RON
+9/29/2020 9:50:10 PM 153,87 RON

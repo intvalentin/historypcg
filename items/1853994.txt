@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp512cm30041
 1853994
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-510-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848722/1853994/thumbnails/barracuda-510-512
 9/21/2020 7:44:21 AM 458,23 RON
 9/24/2020 11:03:59 AM 463,07 RON
 9/25/2020 10:02:37 PM 468,42 RON
+9/30/2020 2:04:23 PM 467,81 RON

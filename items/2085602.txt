@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm4x4gd3000c16k2
 2085602
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-8gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929094/2085602/thumbnails/vengeance-lpx-blac
 9/21/2020 7:40:51 AM 299,99 RON
 9/24/2020 12:00:30 AM 299,99 RON
 9/25/2020 9:10:34 PM 299,99 RON
+9/30/2020 8:24:54 AM 299,99 RON

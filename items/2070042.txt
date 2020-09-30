@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthb1000401
 2070042
     Product link    
 https://www.pcgarage.ro/ssd/seagate/game-drive-1tb-usb-30-tip-c-pentru-xbox/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2070042/thumbnails/seagate-gaming-drive
 9/21/2020 7:44:36 AM 759,78 RON
 9/24/2020 10:41:17 AM 768,41 RON
 9/25/2020 9:55:11 PM 774,91 RON
+9/30/2020 2:36:20 PM 775,04 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m9120-e512lpuf
 1171279
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9120-plus-512mb-ddr2-low-profile/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/1113903/1171279/thumbnails/m9120-plus-512mb-
 9/21/2020 7:34:24 AM 1.509,28 RON
 9/23/2020 6:55:51 PM 1.526,29 RON
 9/25/2020 8:21:12 PM 1.539,38 RON
+9/29/2020 9:11:36 PM 1.539,38 RON

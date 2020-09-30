@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3823440
 2024494
     Product link    
 https://www.pcgarage.ro/ssd/intenso/premium-edition-256gb-usb-30-anthracite/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2024494/thumbnails/premium-edition-128g
 9/21/2020 7:44:11 AM 274,37 RON
 9/24/2020 10:53:36 AM 274,43 RON
 9/25/2020 9:58:54 PM 275,17 RON
+9/30/2020 1:38:11 PM 275,07 RON

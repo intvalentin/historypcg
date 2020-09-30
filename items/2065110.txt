@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz04-02950100-r381
 2065110
     Product link    
 https://www.pcgarage.ro/casti-gaming/razer/kraken-x-lite/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2065110/thumbnails/kraken-x-lite-f9c686
 9/21/2020 8:01:00 AM 189,99 RON
 9/24/2020 7:27:58 PM 273,98 RON
 9/26/2020 10:31:24 AM 273,98 RON
+9/30/2020 12:00:26 PM 273,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx434c17fb3k2+-+64
 2075434
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-64gb-ddr4-3466mhz-cl17-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/2075434/thumbnails/fury-black-32gb-ddr4
 9/21/2020 7:41:49 AM 1.755,92 RON
 9/24/2020 12:02:35 AM 1.775,08 RON
 9/25/2020 9:11:18 PM 1.790,13 RON
+9/30/2020 10:29:18 AM 1.791,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020123
 1457674
     Product link    
 https://www.pcgarage.ro/surse/corsair/cx750-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1113903/1457674/thumbnails/cx750-80-plus-bro
 9/21/2020 7:45:57 AM 497,68 RON
 9/24/2020 1:26:15 PM 506,97 RON
 9/25/2020 10:23:46 PM 523,05 RON
+9/30/2020 5:38:56 PM 505,24 RON

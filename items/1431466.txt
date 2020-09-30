@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ss-1tt-c
 1431466
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1431466/thumbnails/su800-256gb-sata-i
 9/21/2020 7:42:33 AM 564,87 RON
 9/24/2020 10:35:06 AM 589,59 RON
 9/25/2020 9:53:41 PM 594,49 RON
+9/30/2020 12:28:34 PM 591,70 RON

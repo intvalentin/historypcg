@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011157-eu
 1528654
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/void-pro-surround-dolby-71-red/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1469686/1528654/thumbnails/void-pro-surround
 9/24/2020 7:39:08 PM 481,98 RON
 9/24/2020 11:23:21 PM 481,98 RON
 9/26/2020 10:35:51 AM 481,98 RON
+9/30/2020 12:12:38 PM 481,98 RON

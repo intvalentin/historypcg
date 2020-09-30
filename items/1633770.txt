@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c15d-16gnt
 1633770
     Product link    
 https://www.pcgarage.ro/memorii/gskill/f4-16gb-ddr4-2400mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1633770/thumbnails/f4-16gb-ddr4-2400
 9/21/2020 7:39:05 AM 265,83 RON
 9/23/2020 11:41:52 PM 268,92 RON
 9/25/2020 9:27:44 PM 271,17 RON
+9/30/2020 8:30:52 AM 328,74 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-udpro1t
 2046442
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/ud-pro-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2046442/thumbnails/ud-pro-1tb-sata-iii-
 9/21/2020 7:44:31 AM 659,34 RON
 9/24/2020 10:51:32 AM 666,29 RON
 9/25/2020 9:58:09 PM 674,00 RON
+9/30/2020 2:29:06 PM 673,12 RON

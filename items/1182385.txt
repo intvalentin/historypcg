@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fs-500
 1182385
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/fs-500-500w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/367655/1182385/thumbnails/fs-500-500w-73e484
 9/21/2020 7:47:12 AM 75,50 RON
 9/24/2020 1:40:25 PM 76,53 RON
 9/25/2020 10:45:55 PM 77,16 RON
+9/30/2020 5:57:56 PM 76,69 RON

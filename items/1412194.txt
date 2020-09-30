@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid7050009
 1412194
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/sleeping-dogs-definitive-limited-edition-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1173769/1412194/thumbnails/sleeping-dogs-def
 9/21/2020 8:04:20 AM 109,98 RON
 9/25/2020 12:08:25 AM 109,98 RON
 9/26/2020 1:05:22 PM 109,98 RON
+9/30/2020 3:19:28 PM 109,98 RON

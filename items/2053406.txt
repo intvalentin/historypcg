@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000vna01
 2053406
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-6tb-sata-iii-5400rpm-256mb-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1496454/2053406/thumbnails/ironwolf-6tb-sata
 9/21/2020 7:45:29 AM 1.101,89 RON
 9/24/2020 12:24:25 PM 1.114,35 RON
 9/25/2020 10:12:56 PM 1.123,82 RON
+9/30/2020 4:21:13 PM 1.116,95 RON

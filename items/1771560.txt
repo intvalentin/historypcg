@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx6000pnp-1tt-c
 1771560
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx6000-pro-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1510154/1771560/thumbnails/sx6000-pro-256gb-
 9/21/2020 7:42:36 AM 619,67 RON
 9/24/2020 10:24:46 AM 626,21 RON
 9/25/2020 9:50:00 PM 633,45 RON
+9/30/2020 12:31:32 PM 632,62 RON

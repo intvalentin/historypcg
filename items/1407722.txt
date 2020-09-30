@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st3000vn007
 1407722
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-3tb-sata-iii-5900rpm-64mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1052635/1407722/thumbnails/ironwolf-3tb-sata
 9/21/2020 7:45:06 AM 489,99 RON
 9/24/2020 11:26:46 AM 489,99 RON
 9/25/2020 10:10:44 PM 489,99 RON
+9/30/2020 3:41:29 PM 489,99 RON

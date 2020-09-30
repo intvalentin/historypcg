@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct500p1ssd8
 1743752
     Product link    
 https://www.pcgarage.ro/ssd/crucial/crucial-p1-m2-type-2280-ssd-500gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1743752/thumbnails/p1-1tb-pci-express-3
 9/21/2020 7:44:11 AM 313,38 RON
 9/24/2020 11:08:09 AM 317,64 RON
 9/25/2020 10:04:06 PM 320,28 RON
+9/30/2020 1:45:09 PM 318,78 RON

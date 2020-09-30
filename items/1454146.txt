@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9304111-eu
 1454146
     Product link    
 https://www.pcgarage.ro/mouse-gaming/corsair/scimitar-pro-rgb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1358815/1454146/thumbnails/scimitar-pro-rgb-
 9/21/2020 8:00:20 AM 477,98 RON
 9/24/2020 7:10:30 PM 479,98 RON
 9/26/2020 10:12:20 AM 479,98 RON
+9/30/2020 9:05:57 AM 479,98 RON

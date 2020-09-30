@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spr-0650nhsabe-1
 1793552
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-bx1-rgb-80-plus-bronze-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3049/1793552/thumbnails/smart-bx1-rgb-80-plu
 9/21/2020 7:46:40 AM 327,26 RON
 9/24/2020 1:09:40 PM 331,71 RON
 9/25/2020 10:30:23 PM 334,47 RON
+9/30/2020 7:09:47 PM 332,41 RON

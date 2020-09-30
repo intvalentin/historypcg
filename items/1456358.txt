@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crosshair vi hero
 1456358
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/crosshair-vi-hero/
@@ -10,3 +10,7 @@ https://1.grgs.ro/images/products/1/1355324/1456358/thumbnails/crosshair-vi-hero
 9/21/2020 7:37:04 AM 1.128,96 RON
 9/23/2020 10:52:23 PM 1.140,86 RON
 9/25/2020 8:46:25 PM 1.154,07 RON
+9/29/2020 6:26:17 PM 1.152,55 RON
+9/29/2020 6:26:49 PM 1.152,55 RON
+9/29/2020 6:37:19 PM 1.152,55 RON
+9/29/2020 6:37:48 PM 1.152,55 RON

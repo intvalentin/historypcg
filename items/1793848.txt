@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3000c16d-32gtrg
 1793848
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-royal-rgb-gold-32gb-ddr4-3000mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3049/1793848/thumbnails/trident-z-royal-rgb-
 9/21/2020 7:39:33 AM 793,88 RON
 9/23/2020 11:29:28 PM 802,99 RON
 9/25/2020 8:59:33 PM 809,76 RON
+9/29/2020 10:08:42 PM 869,56 RON

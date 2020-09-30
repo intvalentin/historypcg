@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix z390-i gaming
 1765044
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-z390-i-gaming/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3442/1765044/thumbnails/rog-strix-z390-i-gam
 9/21/2020 7:36:23 AM 1.199,75 RON
 9/23/2020 10:18:03 PM 1.212,41 RON
 9/25/2020 8:40:27 PM 1.226,43 RON
+9/29/2020 6:40:16 PM 1.224,82 RON

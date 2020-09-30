@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00083
 1436562
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-4vr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1053670/1436562/thumbnails/rig-4vr-6e5203601
 9/21/2020 8:01:37 AM 349,99 RON
 9/24/2020 7:27:14 PM 349,99 RON
 9/26/2020 10:30:40 AM 349,99 RON
+9/30/2020 11:20:28 AM 349,99 RON

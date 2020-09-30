@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx424c15fb+-+4
 1107423
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-4gb-ddr4-2400mhz-cl15/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/1107423/thumbnails/fury-black-4gb-ddr
 9/21/2020 7:40:22 AM 128,11 RON
 9/24/2020 9:22:18 AM 129,85 RON
 9/25/2020 9:32:13 PM 130,93 RON
+9/29/2020 11:02:01 PM 130,32 RON

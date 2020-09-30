@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000ne0023 recertified
 1965318
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-6tb-sata-iii-7200rpm-256mb-recertified/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1508470/1965318/thumbnails/ironwolf-pro-6tb-
 9/21/2020 7:45:29 AM 1.091,78 RON
 9/24/2020 12:24:25 PM 1.091,78 RON
 9/25/2020 10:12:56 PM 1.091,78 RON
+9/30/2020 4:19:39 PM 1.091,78 RON

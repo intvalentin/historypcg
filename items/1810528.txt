@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e100+-+1024g
 1810528
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/e100-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3645/1810528/thumbnails/e100-1tb-sata-iii-25
 9/21/2020 7:43:43 AM 538,54 RON
 9/24/2020 11:06:04 AM 544,22 RON
 9/25/2020 10:03:21 PM 550,52 RON
+9/30/2020 2:13:55 PM 549,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts256gmsa370
 863543
     Product link    
 https://www.pcgarage.ro/ssd/transcend/370-series-256gb-msata/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/863543/thumbnails/370-series-256gb-ms
 9/21/2020 7:44:21 AM 470,57 RON
 9/24/2020 11:22:41 AM 475,88 RON
 9/25/2020 10:08:36 PM 480,00 RON
+9/30/2020 2:06:34 PM 480,13 RON

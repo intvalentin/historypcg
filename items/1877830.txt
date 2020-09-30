@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cx-9055017-ww
 1877830
     Product link    
 https://www.pcgarage.ro/watercooling/corsair/hydro-x-series-xf-fill-port-chrome/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1867706/1877830/thumbnails/hydro-x-series-xf
 9/21/2020 7:59:03 AM 71,25 RON
 9/24/2020 6:54:39 PM 71,33 RON
 9/26/2020 9:56:18 AM 71,45 RON
+9/29/2020 10:12:07 PM 71,44 RON

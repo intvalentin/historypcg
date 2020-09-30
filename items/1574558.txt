@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |943-000118
 1574558
     Product link    
 https://www.pcgarage.ro/mouse-pad/logitech/g840-xl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469686/1574558/thumbnails/g840-xl-86d9fd625
 9/21/2020 8:00:22 AM 199,99 RON
 9/24/2020 7:12:39 PM 199,99 RON
 9/26/2020 10:15:54 AM 199,99 RON
+9/30/2020 9:26:16 AM 199,99 RON

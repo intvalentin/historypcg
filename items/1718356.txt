@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r400055
 1718356
     Product link    
 https://www.pcgarage.ro/watercooling/raijintek/calore-c240d-watercooling-radiator-240mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1692296/1718356/thumbnails/calore-c240d-wate
 9/21/2020 7:59:07 AM 567,11 RON
 9/24/2020 6:55:25 PM 567,80 RON
 9/26/2020 9:57:03 AM 568,75 RON
+9/29/2020 10:18:46 PM 568,54 RON

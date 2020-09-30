@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c17pb4ak2+-+16
 1857522
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-rgb-16gb-ddr4-3600mhz-cl17-dual-channel-kit-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1190677/1857522/thumbnails/predator-rgb-8gb-
 9/21/2020 7:41:20 AM 654,31 RON
 9/24/2020 8:46:53 AM 661,90 RON
 9/25/2020 9:19:32 PM 667,42 RON
+9/30/2020 9:27:18 AM 667,56 RON

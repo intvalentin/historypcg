@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds200t3x0c
 1808540
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/black-sn750-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6440/1808540/thumbnails/black-sn750-500gb-pc
 9/21/2020 7:44:55 AM 2.243,23 RON
 9/24/2020 11:06:04 AM 2.041,22 RON
 9/25/2020 10:03:21 PM 2.059,47 RON
+9/30/2020 2:59:43 PM 2.059,47 RON

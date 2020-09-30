@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds250g1b0c
 1832968
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-sn500-250gb-pci-express-30-x2-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5631/1832968/thumbnails/blue-sn500-250gb-pci
 9/21/2020 7:44:16 AM 408,14 RON
 9/24/2020 11:04:00 AM 410,18 RON
 9/25/2020 10:02:37 PM 414,92 RON
+9/30/2020 1:57:48 PM 414,38 RON

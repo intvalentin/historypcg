@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass400et
 305717
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-400et-400w-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/305717/thumbnails/ss-400et-400w-bulk-57be7
 9/21/2020 7:47:21 AM 222,27 RON
 9/24/2020 2:01:10 PM 225,29 RON
 9/25/2020 10:52:30 PM 227,21 RON
+9/30/2020 6:27:06 PM 226,11 RON

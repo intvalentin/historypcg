@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd5000azrz
 1133478
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/blue-500gb-sata-iii-5400-rpm-64mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986897/1133478/thumbnails/blue-1tb-sata-iii-
 9/21/2020 7:45:19 AM 215,29 RON
 9/24/2020 12:32:39 PM 218,21 RON
 9/25/2020 10:15:53 PM 220,08 RON
+9/30/2020 4:02:12 PM 219,01 RON

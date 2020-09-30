@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |drw-24f1mt-b-bulk
 1110023
     Product link    
 https://www.pcgarage.ro/dvd-writere/asus/drw-24f1mt-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1094679/1110023/thumbnails/drw-24f1mt-bulk-1
 9/21/2020 7:59:23 AM 64,45 RON
 9/24/2020 6:59:01 PM 64,45 RON
 9/26/2020 10:00:39 AM 64,45 RON
+9/29/2020 11:01:35 PM 64,45 RON

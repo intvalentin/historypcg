@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_qckheavy
 5411
     Product link    
 https://www.pcgarage.ro/mouse-pad/steelseries/steelpad-qck-heavy/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/5411/thumbnails/steelpad-qck-heavy-2c270f0
 9/21/2020 8:00:47 AM 137,98 RON
 9/24/2020 7:19:16 PM 137,98 RON
 9/26/2020 10:22:31 AM 137,98 RON
+9/30/2020 10:13:55 AM 137,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4dfd832a
 1962166
     Product link    
 https://www.pcgarage.ro/memorii/crucial/16gb-ddr4-3200mhz-cl22/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/1962166/thumbnails/crucial-4gb-ddr4-320
 9/21/2020 7:40:56 AM 364,18 RON
 9/24/2020 8:38:35 AM 369,13 RON
 9/25/2020 9:15:47 PM 372,20 RON
+9/30/2020 8:38:56 AM 370,46 RON

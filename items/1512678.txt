@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds500g2b0b
 1512678
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-3d-nand-500gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469758/1512678/thumbnails/blue-3d-nand-250g
 9/21/2020 7:42:33 AM 345,59 RON
 9/24/2020 10:35:06 AM 305,88 RON
 9/25/2020 9:53:41 PM 308,45 RON
+9/30/2020 11:58:31 AM 308,58 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpu-550fc
 1905498
     Product link    
 https://www.pcgarage.ro/surse/chieftec/gpu-550fc-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1905498/thumbnails/gpu-550fc-80-plus
 9/21/2020 7:46:14 AM 521,34 RON
 9/24/2020 12:42:54 PM 527,29 RON
 9/25/2020 10:20:14 PM 531,79 RON
+9/30/2020 5:40:19 PM 528,60 RON

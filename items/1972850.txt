@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16s-32gvk
 1972850
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-32gb-ddr4-3200mhz-cl16-135v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427586/1972850/thumbnails/ripjaws-v-32gb-dd
 9/21/2020 7:40:03 AM 561,01 RON
 9/24/2020 8:36:30 AM 642,18 RON
 9/25/2020 9:15:02 PM 647,56 RON
+9/30/2020 9:28:23 AM 681,93 RON

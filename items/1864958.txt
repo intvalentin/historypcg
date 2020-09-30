@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf5d416g4000hc18edc01
 1864958
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-xcalibur-rgb-general-edition-16gb-ddr4-4000mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1864958/thumbnails/team-group-xcalibur-
 9/21/2020 7:39:28 AM 672,68 RON
 9/23/2020 11:23:16 PM 680,41 RON
 9/25/2020 8:57:22 PM 686,07 RON
+9/29/2020 9:51:31 PM 686,35 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx950uss-120gt-c
 1726228
     Product link    
 https://www.pcgarage.ro/ssd/a-data/xpg-sx950u-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1649828/1726228/thumbnails/xpg-sx950u-240gb-
 9/21/2020 7:43:57 AM 143,25 RON
 9/24/2020 11:10:13 AM 144,76 RON
 9/25/2020 10:04:51 PM 146,44 RON
+9/30/2020 1:14:00 PM 146,24 RON

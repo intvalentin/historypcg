@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME Z270-P
 1440070
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-z270-p/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1440070/thumbnails/prime-z270-p-dbaa
 9/21/2020 7:36:50 AM 574,41 RON
 9/23/2020 10:54:28 PM 580,94 RON
 9/25/2020 8:46:25 PM 585,87 RON
+9/29/2020 5:15:50 PM 586,01 RON

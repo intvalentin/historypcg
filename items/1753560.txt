@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253tr250g3c413
 1753560
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/t-force-delta-rgb-white-250gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1749840/1753560/thumbnails/t-force-delta-rgb
 9/21/2020 7:43:06 AM 264,44 RON
 9/24/2020 10:26:50 AM 267,41 RON
 9/25/2020 9:50:43 PM 269,71 RON
+9/30/2020 11:52:01 AM 269,84 RON

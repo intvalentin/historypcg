@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |re-c10l-rgb-r1
 1718632
     Product link    
 https://www.pcgarage.ro/modding/cooler-master/rgb-controller-wired-c10l/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1718632/thumbnails/rgb-controller-wi
 9/21/2020 7:58:54 AM 56,49 RON
 9/24/2020 6:53:10 PM 55,80 RON
 9/26/2020 9:54:49 AM 55,46 RON
+9/29/2020 10:00:14 PM 54,94 RON

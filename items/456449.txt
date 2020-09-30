@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr16s11s8+-+4
 456449
     Product link    
 https://www.pcgarage.ro/memorii-notebook/kingston/4gb-ddr3-1600mhz-cl11-sr-x8/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/456449/thumbnails/4gb-ddr3-1600mhz-cl
 9/20/2020 11:02:16 PM 100,28 RON
 9/23/2020 2:53:37 PM 100,28 RON
 9/25/2020 7:39:51 PM 100,28 RON
+9/29/2020 7:52:09 PM 100,28 RON

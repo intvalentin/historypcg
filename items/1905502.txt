@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpu-650fc
 1905502
     Product link    
 https://www.pcgarage.ro/surse/chieftec/gpu-650fc-80-plus-gold-650w/
@@ -8,3 +8,4 @@ Chieftec GPU-650FC, 80+ Gold, 650W
 https://1.grgs.ro/images/products/1/1899326/1905502/thumbnails/gpu-650fc-80-plus-gold-650w-710a4bdc85c608cc04a086b2ee282906.jpg
     Pret    
 9/25/2020 10:20:14 PM 559,96 RON
+9/30/2020 5:41:59 PM 556,62 RON

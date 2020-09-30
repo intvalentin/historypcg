@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490M Pro4
 2037042
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z490m-pro4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2037042/thumbnails/z490m-pro4-9874ec0a6
 9/21/2020 7:36:59 AM 837,20 RON
 9/23/2020 7:35:17 PM 841,39 RON
 9/25/2020 8:37:27 PM 851,12 RON
+9/29/2020 5:37:30 PM 850,01 RON

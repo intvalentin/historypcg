@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zeus-p1
 1494990
     Product link    
 https://www.pcgarage.ro/mouse-gaming/gamdias/zeus-p1-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427586/1494990/thumbnails/zeus-p1-rgb-b736a
 9/21/2020 8:00:00 AM 207,98 RON
 9/24/2020 7:07:37 PM 211,98 RON
 9/26/2020 10:08:37 AM 211,98 RON
+9/30/2020 8:28:10 AM 209,98 RON

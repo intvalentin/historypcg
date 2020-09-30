@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-500a
 85083
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-500a-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/85083/thumbnails/sl-500a-500w-3cbc510b9f06
 9/21/2020 7:46:10 AM 111,81 RON
 9/24/2020 12:57:16 PM 113,33 RON
 9/25/2020 10:25:55 PM 114,27 RON
+9/30/2020 4:50:46 PM 113,74 RON

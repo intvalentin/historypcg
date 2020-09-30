@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf4d416g3000hc16cdc01
 1789708
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/team-group-delta-rgb-ddr4-16gb-2x8gb-3000mhz-cl16-135v-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6440/1789708/thumbnails/t-force-delta-rgb-wh
 9/21/2020 7:37:53 AM 375,64 RON
 9/23/2020 11:29:28 PM 379,85 RON
 9/25/2020 8:59:33 PM 383,08 RON
+9/29/2020 9:12:49 PM 383,22 RON

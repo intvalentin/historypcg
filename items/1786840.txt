@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf9d432g3200hc16cdc01
 1786840
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/delta-tuf-asus-rgb-32gb-ddr4-3200mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1786840/thumbnails/team-group-delta-tuf
 9/21/2020 7:38:07 AM 984,51 RON
 9/23/2020 11:31:33 PM 995,73 RON
 9/25/2020 9:00:16 PM 1.004,08 RON
+9/29/2020 10:15:13 PM 1.004,36 RON

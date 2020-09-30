@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ht-rso-diecbk-13
 1073604
     Product link    
 https://www.pcgarage.ro/casti-gaming/tt-esports/shock-3d-71/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/843505/1073604/thumbnails/shock-3d-71-d518cb
 9/21/2020 8:01:41 AM 401,98 RON
 9/24/2020 7:27:58 PM 409,98 RON
 9/26/2020 10:31:24 AM 409,98 RON
+9/30/2020 11:25:17 AM 407,98 RON

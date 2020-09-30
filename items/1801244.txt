@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwg21eezsta
 1801244
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/n300-14tb-sata-iii-7200-rpm-256mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1535667/1801244/thumbnails/n300-12tb-sata-ii
 9/21/2020 7:45:38 AM 2.798,19 RON
 9/24/2020 12:24:25 PM 2.800,80 RON
 9/25/2020 10:13:40 PM 2.809,92 RON
+9/30/2020 4:34:38 PM 2.804,71 RON

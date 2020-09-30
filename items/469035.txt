@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-650it82+
 469035
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/cobapower-650w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/469035/thumbnails/cobapower-650w-014b25c4f
 9/21/2020 7:46:23 AM 273,45 RON
 9/24/2020 12:57:16 PM 277,17 RON
 9/25/2020 10:25:55 PM 279,47 RON
+9/30/2020 5:13:01 PM 278,16 RON

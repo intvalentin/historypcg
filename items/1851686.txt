@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds400t2b0a
 1851686
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-3d-nand-4tb-sata-iii-25-inch/
@@ -8,3 +8,4 @@ WD Blue 3D NAND 4TB SATA-III 2.5 inch
 https://4.grgs.ro/images/products/1/1263508/1851686/thumbnails/blue-3d-nand-250gb-sata-iii-25-inch-a0882c3400ac26b3877532560cc5d853.jpg
     Pret    
 9/25/2020 10:02:37 PM 2.235,54 RON
+9/30/2020 3:02:08 PM 2.235,55 RON

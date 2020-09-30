@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bdf-1000c
 1504366
     Product link    
 https://www.pcgarage.ro/surse/chieftec/proton-series-80-plus-bronze-1000w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1409094/1504366/thumbnails/proton-series-80-
 9/21/2020 7:46:18 AM 606,90 RON
 9/24/2020 1:22:07 PM 618,18 RON
 9/25/2020 10:34:51 PM 618,90 RON
+9/30/2020 5:44:56 PM 615,18 RON

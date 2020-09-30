@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m2a2666c16w
 1580502
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-white-16gb-ddr4-2666mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1109408/1580502/thumbnails/vengeance-lpx-whi
 9/21/2020 7:40:51 AM 322,78 RON
 9/24/2020 9:11:51 AM 326,20 RON
 9/25/2020 9:28:29 PM 370,15 RON
+9/30/2020 8:38:40 AM 370,29 RON

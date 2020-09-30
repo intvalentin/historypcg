@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp016gblfu266b02
 2023398
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/16gb-ddr4-2666mhz-cl19-12v-7/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2554/2023398/thumbnails/16gb-ddr4-2666mhz-cl
 9/21/2020 7:39:05 AM 274,28 RON
 9/23/2020 11:12:56 PM 277,41 RON
 9/25/2020 8:52:57 PM 279,74 RON
+9/29/2020 8:49:40 PM 279,83 RON

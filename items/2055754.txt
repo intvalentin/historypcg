@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8100np-2tt-c
 2055754
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8100-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2055754/thumbnails/sx8100-1tb-pci-ex
 9/21/2020 7:44:45 AM 1.124,97 RON
 9/24/2020 10:51:32 AM 1.136,83 RON
 9/25/2020 9:57:25 PM 1.149,98 RON
+9/30/2020 2:47:29 PM 1.148,48 RON

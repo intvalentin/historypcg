@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3000316g16-drg
 1850334
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-gammix-d10-red-32gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1535667/1850334/thumbnails/xpg-gammix-d10-re
 9/21/2020 7:41:35 AM 985,18 RON
 9/24/2020 8:51:03 AM 996,40 RON
 9/25/2020 9:20:17 PM 1.004,75 RON
+9/30/2020 10:03:47 AM 1.005,03 RON

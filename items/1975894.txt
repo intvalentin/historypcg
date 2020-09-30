@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23288
 1975894
     Product link    
 https://www.pcgarage.ro/scaune-gaming/trust/gxt-705-ryon-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1975894/thumbnails/gxt-705-ryon-gaming-
 9/21/2020 8:07:14 AM 399,99 RON
 9/25/2020 12:14:20 AM 399,99 RON
 9/26/2020 1:10:31 PM 399,99 RON
+9/30/2020 7:34:21 PM 399,99 RON

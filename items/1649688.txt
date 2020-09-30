@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz04-02420100-r3g1
 1649688
     Product link    
 https://www.pcgarage.ro/casti-gaming/razer/hammerhead-usb-c/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/530/1649688/thumbnails/hammerhead-usb-c-044e
 9/21/2020 8:01:41 AM 445,98 RON
 9/24/2020 7:27:14 PM 445,98 RON
 9/26/2020 10:30:40 AM 445,98 RON
+9/30/2020 11:26:39 AM 479,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e404247a
 1783416
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/4gb-ddr4-2400mhz-cl17-12v-17/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1783416/thumbnails/4gb-ddr4-2400mhz-cl1
 9/21/2020 7:38:50 AM 83,78 RON
 9/23/2020 11:31:33 PM 84,92 RON
 9/25/2020 9:00:16 PM 85,63 RON
+9/29/2020 7:34:17 PM 85,23 RON

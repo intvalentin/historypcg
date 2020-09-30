@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX X370-F GAMING
 1505154
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/strix-x370-f-gaming/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469758/1505154/thumbnails/strix-x370-f-gami
 9/21/2020 7:36:59 AM 838,86 RON
 9/23/2020 10:52:23 PM 847,70 RON
 9/25/2020 8:45:40 PM 857,52 RON
+9/29/2020 5:38:03 PM 856,38 RON

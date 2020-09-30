@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-d600scr
 880671
     Product link    
 https://www.pcgarage.ro/surse/segotep/sg-d600scr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/498497/880671/thumbnails/sg-d600scr-11db5bde
 9/21/2020 7:46:35 AM 262,69 RON
 9/24/2020 1:50:48 PM 262,69 RON
 9/25/2020 10:49:36 PM 262,69 RON
+9/30/2020 6:42:18 PM 262,69 RON

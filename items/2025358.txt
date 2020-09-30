@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |49352
 2025358
     Product link    
 https://www.pcgarage.ro/ssd/verbatim/vi550-s3-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2025358/thumbnails/vi550-s3-512gb-sata-
 9/21/2020 7:42:40 AM 338,61 RON
 9/24/2020 9:48:57 AM 338,61 RON
 9/25/2020 9:44:08 PM 338,61 RON
+9/30/2020 1:46:13 PM 330,53 RON

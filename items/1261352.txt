@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m4c3000c15
 1261352
     Product link    
 https://www.pcgarage.ro/memorii/corsair/corsair-vengeance-lpx-4x8gb-ddr4-3000mhz-c15-memory-kit-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/859765/1261352/thumbnails/vengeance-lpx-blac
 9/21/2020 7:38:07 AM 695,96 RON
 9/23/2020 11:50:10 PM 774,28 RON
 9/25/2020 9:06:52 PM 695,96 RON
+9/29/2020 10:02:00 PM 781,04 RON

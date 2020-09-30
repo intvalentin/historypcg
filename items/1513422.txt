@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |radon 600
 1513422
     Product link    
 https://www.pcgarage.ro/casti-gaming/genesis/radon-600/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1443558/1513422/thumbnails/radon-600-9691dbc
 9/24/2020 7:39:08 PM 201,98 RON
 9/24/2020 11:23:21 PM 201,98 RON
 9/26/2020 10:35:51 AM 201,98 RON
+9/30/2020 11:55:17 AM 201,98 RON

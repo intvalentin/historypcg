@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cig1010001
 1947790
     Product link    
 https://www.pcgarage.ro/jocuri/ci-games/sniper-ghost-warrior-contracts-pentru-pc/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6166/1947790/thumbnails/sniper-ghost-warrior
 9/24/2020 7:58:12 PM 109,98 RON
 9/24/2020 11:42:28 PM 109,98 RON
 9/26/2020 10:55:14 AM 109,98 RON
+9/30/2020 3:20:32 PM 109,98 RON

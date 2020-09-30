@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spd-0550nnsabe-1
 1793520
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-bx1-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3049/1793520/thumbnails/smart-bx1-80-plus-br
 9/21/2020 7:46:49 AM 268,73 RON
 9/24/2020 1:11:44 PM 272,38 RON
 9/25/2020 10:31:08 PM 274,65 RON
+9/30/2020 6:46:04 PM 272,96 RON

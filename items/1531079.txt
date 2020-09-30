@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1531079
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/b250-mining-expert/
@@ -8,3 +8,5 @@ ASUS B250 MINING EXPERT
 https://1.grgs.ro/images/products/1/1457334/1531079/thumbnails/b250-mining-expert-2e4e6963cdbfe08c03000e1dc5013c00.jpg
     Pret    
 9/25/2020 8:44:56 PM 1.008,06 RON
+9/29/2020 5:44:51 PM 1.008,32 RON
+9/29/2020 5:58:04 PM 1.008,32 RON

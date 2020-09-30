@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvs416g340c6k
 1852422
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-steel-16gb-ddr4-3400mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1852422/thumbnails/viper-steel-16gb-ddr
 9/21/2020 7:41:01 AM 396,41 RON
 9/24/2020 8:48:58 AM 400,58 RON
 9/25/2020 9:19:32 PM 405,21 RON
+9/30/2020 8:48:23 AM 404,68 RON

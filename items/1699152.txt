@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvr416g320c6k
 1699152
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-rgb-black-16gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1689668/1699152/thumbnails/viper-rgb-black-1
 9/21/2020 7:41:01 AM 433,00 RON
 9/24/2020 9:05:37 AM 437,56 RON
 9/25/2020 9:26:15 PM 442,62 RON
+9/30/2020 9:00:28 AM 442,04 RON

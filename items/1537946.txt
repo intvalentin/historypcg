@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm1010077
 1537946
     Product link    
 https://www.pcgarage.ro/jocuri/ubisoft/ghost-recon-wildlands-pentru-pc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469770/1537946/thumbnails/ghost-recon-wildl
 9/21/2020 8:06:06 AM 244,98 RON
 9/24/2020 11:59:34 PM 244,98 RON
 9/26/2020 11:12:24 AM 244,98 RON
+9/30/2020 5:46:05 PM 244,98 RON

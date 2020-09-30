@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp600p
 996517
     Product link    
 https://www.pcgarage.ro/surse/segotep/gp600p-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/996517/thumbnails/gp600p-80-plus-plat
 9/21/2020 7:45:44 AM 410,88 RON
 9/24/2020 12:55:12 PM 513,60 RON
 9/25/2020 10:25:11 PM 513,60 RON
+9/30/2020 5:39:29 PM 513,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bts1010034
 1518230
     Product link    
 https://www.pcgarage.ro/jocuri/bethesda/fallout-4-goty-pentru-pc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457334/1518230/thumbnails/fallout-4-goty-pe
 9/21/2020 8:04:48 AM 149,98 RON
 9/25/2020 12:01:02 AM 149,98 RON
 9/26/2020 11:13:11 AM 149,98 RON
+9/30/2020 3:55:10 PM 149,98 RON

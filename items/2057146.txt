@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk8gx4m1z3600c18
 2057146
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-8gb-ddr4-3600mhz-cl18/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/2057146/thumbnails/vengeance-lpx-blac
 9/21/2020 7:38:03 AM 218,70 RON
 9/23/2020 11:10:52 PM 221,01 RON
 9/25/2020 8:52:57 PM 230,13 RON
+9/30/2020 8:10:27 AM 229,82 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r002d408gx1-2666c19b
 1968162
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/m-one-hs-8gb-ddr4-2666mhz-cl19/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1968162/thumbnails/m-one-hs-8gb-ddr4-26
 9/21/2020 7:40:37 AM 200,11 RON
 9/24/2020 8:36:30 AM 202,83 RON
 9/25/2020 9:15:47 PM 204,52 RON
+9/30/2020 8:00:41 AM 203,56 RON

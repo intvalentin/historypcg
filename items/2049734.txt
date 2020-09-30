@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-8930001
 2049734
     Product link    
 https://www.pcgarage.ro/modding/corsair/link-rgb-led-lighting-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2049734/thumbnails/link-rgb-led-ligh
 9/21/2020 7:58:54 AM 84,60 RON
 9/24/2020 6:52:27 PM 85,75 RON
 9/26/2020 9:54:04 AM 86,48 RON
+9/29/2020 10:04:05 PM 86,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kni1010003
 932754
     Product link    
 https://www.pcgarage.ro/jocuri/konami/pro-evolution-soccer-2015-pentru-pc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/932754/thumbnails/pro-evolution-socce
 9/21/2020 8:04:39 AM 149,98 RON
 9/25/2020 12:10:40 AM 149,98 RON
 9/26/2020 1:07:34 PM 149,98 RON
+9/30/2020 3:44:42 PM 149,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psat5075a20coco01b
 1995018
     Product link    
 https://www.pcgarage.ro/surse/njoy/astro-750-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/1995018/thumbnails/astro-750-750w-18
 9/21/2020 7:46:14 AM 289,99 RON
 9/24/2020 12:40:51 PM 289,99 RON
 9/25/2020 10:19:31 PM 289,99 RON
+9/30/2020 6:53:25 PM 289,99 RON

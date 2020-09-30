@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |roc-13-015
 1483152
     Product link    
 https://www.pcgarage.ro/mouse-pad/roccat/kanga-mini/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1263508/1483152/thumbnails/kanga-mini-dbe448
 9/21/2020 8:00:22 AM 19,99 RON
 9/24/2020 7:18:35 PM 35,98 RON
 9/26/2020 10:21:49 AM 35,98 RON
+9/30/2020 10:03:34 AM 35,98 RON

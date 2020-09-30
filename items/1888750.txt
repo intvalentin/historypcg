@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v4 green
 1888750
     Product link    
 https://www.pcgarage.ro/casti-gaming/edifier/v4-green/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1885090/1888750/thumbnails/v4-green-0fb08521
 9/21/2020 8:01:19 AM 249,99 RON
 9/24/2020 7:25:46 PM 249,99 RON
 9/26/2020 10:29:11 AM 249,99 RON
+9/30/2020 11:14:16 AM 249,99 RON

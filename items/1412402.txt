@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tk1010103
 1412402
     Product link    
 https://www.pcgarage.ro/jocuri/take-two/civilization-v-gods-and-kings-pentru-pc/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088099/1412402/thumbnails/civilization-v-go
 9/21/2020 8:03:47 AM 64,98 RON
 9/25/2020 12:08:25 AM 64,98 RON
 9/26/2020 1:04:40 PM 64,98 RON
+9/30/2020 2:32:34 PM 64,98 RON

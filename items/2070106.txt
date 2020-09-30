@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st18000ne000
 2070106
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-18tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2070106/thumbnails/ironwolf-pro-18tb-sa
 9/21/2020 7:45:38 AM 2.920,51 RON
 9/24/2020 12:22:22 PM 2.954,25 RON
 9/25/2020 10:12:12 PM 2.978,91 RON
+9/30/2020 4:34:54 PM 2.960,73 RON

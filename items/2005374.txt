@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph6-ce120-l1
 2005374
     Product link    
 https://www.pcgarage.ro/ssd/liteon/mu-3-l1-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175151/2005374/thumbnails/mu-3-120gb-sata-i
 9/21/2020 7:43:43 AM 86,85 RON
 9/24/2020 10:55:41 AM 87,93 RON
 9/25/2020 9:58:54 PM 88,60 RON
+9/30/2020 1:01:35 PM 88,60 RON

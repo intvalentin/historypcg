@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap240gas340g-1
 1697676
     Product link    
 https://www.pcgarage.ro/ssd/apacer/as340-panther-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1697676/thumbnails/as340-panther-120
 9/21/2020 7:43:38 AM 132,92 RON
 9/24/2020 11:10:14 AM 134,42 RON
 9/25/2020 10:04:51 PM 135,49 RON
+9/30/2020 1:09:25 PM 122,93 RON

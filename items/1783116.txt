@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16d-16gsxwb
 1783116
     Product link    
 https://www.pcgarage.ro/memorii/gskill/sniper-x-urban-camo-16gb-ddr4-3200mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1630882/1783116/thumbnails/sniper-x-urban-ca
 9/21/2020 7:38:03 AM 316,66 RON
 9/23/2020 11:31:33 PM 320,31 RON
 9/25/2020 9:00:16 PM 322,98 RON
+9/30/2020 8:42:45 AM 379,85 RON

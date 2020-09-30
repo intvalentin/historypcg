@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd20ezaz
 1975298
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/blue-2tb-sata-iii-5400-rpm-256mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1975298/thumbnails/blue-2tb-sata-iii-54
 9/21/2020 7:45:15 AM 292,72 RON
 9/24/2020 11:28:50 AM 296,03 RON
 9/25/2020 10:11:28 PM 298,54 RON
+9/30/2020 3:48:13 PM 296,69 RON

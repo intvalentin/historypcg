@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1000cm1a002
 1968126
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-1tb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1968126/thumbnails/barracuda-1tb-sata-i
 9/21/2020 7:44:31 AM 626,87 RON
 9/24/2020 10:59:50 AM 633,48 RON
 9/25/2020 10:00:24 PM 640,81 RON
+9/30/2020 2:24:52 PM 639,96 RON

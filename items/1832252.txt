@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tgm203
 1832252
     Product link    
 https://www.pcgarage.ro/mouse-gaming/t-dagger/warrant-officer-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5664/1832252/thumbnails/warrant-officer-blac
 9/21/2020 7:59:34 AM 69,69 RON
 9/24/2020 7:02:33 PM 69,69 RON
 9/26/2020 10:04:12 AM 69,69 RON
+9/29/2020 11:11:56 PM 69,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apc001361
 1750120
     Product link    
 https://www.pcgarage.ro/mouse-pad/white-shark/mp-arcane-sentry/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1750120/thumbnails/mp-arcane-sentry-
 9/21/2020 8:00:34 AM 25,98 RON
 9/24/2020 7:15:37 PM 25,98 RON
 9/26/2020 10:18:51 AM 25,98 RON
+9/30/2020 9:32:28 AM 25,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0g04756
 1726944
     Product link    
 https://www.pcgarage.ro/ssd/g-technology/g-drive-ev-raw-500gb-usb-30-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8674/1726944/thumbnails/g-drive-ev-raw-500gb
 9/21/2020 7:44:41 AM 952,81 RON
 9/24/2020 11:10:13 AM 963,76 RON
 9/25/2020 10:04:51 PM 971,84 RON
+9/30/2020 2:41:23 PM 972,10 RON

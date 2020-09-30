@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kw512g8xt
 1767200
     Product link    
 https://www.pcgarage.ro/ssd/intel/545s-series-512gb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1767200/thumbnails/intel-ssd-545-ser
 9/21/2020 7:44:31 AM 644,14 RON
 9/24/2020 11:06:04 AM 644,14 RON
 9/25/2020 10:03:21 PM 644,14 RON
+9/30/2020 2:25:40 PM 644,14 RON

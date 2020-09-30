@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt128gx4m8x3600c18
 1801768
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-128gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1804216/1801768/thumbnails/dominator-platinu
 9/21/2020 7:42:06 AM 7.782,66 RON
 9/24/2020 8:55:12 AM 7.871,61 RON
 9/25/2020 9:22:31 PM 7.938,67 RON
+9/30/2020 11:01:00 AM 7.940,04 RON

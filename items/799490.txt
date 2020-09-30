@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d3-rspc
 799490
     Product link    
 https://www.pcgarage.ro/jocuri/blizzard/diablo-iii-reaper-of-souls-pentru-pc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/799490/thumbnails/diablo-iii-reaper-o
 9/21/2020 8:05:06 AM 153,98 RON
 9/25/2020 12:12:10 AM 153,98 RON
 9/26/2020 1:09:04 PM 153,98 RON
+9/30/2020 4:22:39 PM 153,98 RON

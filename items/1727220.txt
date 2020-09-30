@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253le240gtc101
 1727220
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/l3-evo-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8674/1727220/thumbnails/l3-evo-240gb-sata-ii
 9/21/2020 7:42:29 AM 166,92 RON
 9/24/2020 10:28:54 AM 168,81 RON
 9/25/2020 9:51:27 PM 170,16 RON
+9/30/2020 11:37:36 AM 170,31 RON

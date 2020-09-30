@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-700+
 1166179
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-700-plus-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/859765/1166179/thumbnails/sl-700-plus-700w-f
 9/21/2020 7:46:05 AM 203,56 RON
 9/24/2020 12:53:10 PM 206,33 RON
 9/25/2020 10:24:29 PM 208,04 RON
+9/30/2020 5:00:46 PM 207,07 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp256gbpsdb75scs
 2026074
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/bolt-b75-256gb-usb-31-type-c-silver/
@@ -8,3 +8,4 @@ Silicon-Power Bolt B75 256GB USB 3.1 Type-C Silver
 https://2.grgs.ro/images/products/1/1684696/2026074/thumbnails/bolt-b75-120gb-usb-30-silver-2ba52a1b208d3b2bc80b341770561592.jpg
     Pret    
 9/25/2020 9:44:08 PM 234,65 RON
+9/30/2020 11:46:19 AM 234,78 RON

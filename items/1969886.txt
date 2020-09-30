@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp01d0-b0ua00
 1969886
     Product link    
 https://www.pcgarage.ro/mouse-gaming/asus/rog-gladius-ii-core/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1969886/thumbnails/rog-gladius-ii-core-
 9/21/2020 7:59:47 AM 289,99 RON
 9/24/2020 7:05:25 PM 289,99 RON
 9/26/2020 10:03:30 AM 169,99 RON
+9/29/2020 11:26:49 PM 169,99 RON

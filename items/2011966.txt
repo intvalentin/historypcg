@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp240nm30011
 2011966
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-510-240gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011966/thumbnails/sg-ssd-240gb-m2-nvme
 9/21/2020 7:42:48 AM 473,44 RON
 9/24/2020 9:48:57 AM 475,80 RON
 9/25/2020 9:44:52 PM 481,31 RON
+9/30/2020 12:20:12 PM 480,68 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3600c17q-64gtzr
 1631726
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-rgb-64gb-ddr4-3600mhz-cl17-135v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1489074/1631726/thumbnails/trident-z-rgb-64g
 9/21/2020 7:38:45 AM 1.699,69 RON
 9/23/2020 11:41:52 PM 1.718,85 RON
 9/25/2020 9:03:56 PM 1.733,90 RON
+9/29/2020 10:28:27 PM 1.790,01 RON

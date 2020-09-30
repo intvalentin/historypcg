@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x299 sli plus
 1496950
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/x299-sli-plus/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1416562/1496950/thumbnails/x299-sli-plus-ea8
 9/21/2020 7:37:04 AM 1.233,16 RON
 9/23/2020 10:52:23 PM 1.239,32 RON
 9/25/2020 8:45:40 PM 1.253,66 RON
+9/29/2020 6:41:06 PM 1.252,02 RON

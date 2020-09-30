@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp004gblfu213c02
 2023402
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/4gb-ddr4-2133mhz-cl15-12v-7/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469770/2023402/thumbnails/4gb-ddr4-2133mhz-
 9/21/2020 7:40:17 AM 88,95 RON
 9/24/2020 12:08:50 AM 89,94 RON
 9/25/2020 9:13:32 PM 90,64 RON
+9/29/2020 10:40:30 PM 90,64 RON

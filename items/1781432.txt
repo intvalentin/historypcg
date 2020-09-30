@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd60ezaz
 1781432
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/internal-hdd-wd-blue-35-6tb-sata3-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1781432/thumbnails/blue-6tb-sata-iii-
 9/21/2020 7:45:19 AM 773,25 RON
 9/24/2020 12:26:28 PM 781,41 RON
 9/25/2020 10:13:40 PM 790,45 RON
+9/30/2020 4:15:16 PM 786,57 RON

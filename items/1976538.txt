@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp250cm3a001
 1976538
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-510-250gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976538/thumbnails/barracuda-510-250gb-
 9/21/2020 7:42:17 AM 254,74 RON
 9/24/2020 9:53:04 AM 326,26 RON
 9/25/2020 9:46:20 PM 330,03 RON
+9/30/2020 12:03:08 PM 329,60 RON

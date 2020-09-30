@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd101fzbx
 2090378
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/black-10tb-sata-iii-7200rpm-256mb/
@@ -8,3 +8,4 @@ WD Black 10TB SATA-III 7200RPM 256MB
 https://4.grgs.ro/images/products/1/5633/2090378/thumbnails/black-10tb-sata-iii-7200rpm-256mb-f9f664f864c6fb96a88c7d40c5f2e1ee.jpg
     Pret    
 9/25/2020 10:12:11 PM 1.620,84 RON
+9/30/2020 4:28:32 PM 1.611,71 RON

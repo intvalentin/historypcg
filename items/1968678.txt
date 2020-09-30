@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts480gesd230c
 1968678
     Product link    
 https://www.pcgarage.ro/ssd/transcend/esd230c-480gb-usb-31-tip-c/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1968678/thumbnails/transcend-240gb-exte
 9/21/2020 7:42:48 AM 359,65 RON
 9/24/2020 9:55:08 AM 354,52 RON
 9/25/2020 9:46:20 PM 357,44 RON
+9/30/2020 12:08:13 PM 357,57 RON

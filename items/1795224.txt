@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_mg11
 1795224
     Product link    
 https://www.pcgarage.ro/mouse-pad/marvo/mg-11/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3049/1795224/thumbnails/mg-11-b5d99092278a8c
 9/21/2020 8:00:51 AM 143,98 RON
 9/24/2020 7:17:51 PM 143,98 RON
 9/26/2020 10:21:05 AM 143,98 RON
+9/30/2020 10:15:01 AM 143,98 RON

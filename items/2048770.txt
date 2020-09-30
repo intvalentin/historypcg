@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |snv3500-400g
 2048770
     Product link    
 https://www.pcgarage.ro/ssd/synology/snv3500-400gb-pci-express-30-x4-m2-22110/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2048770/thumbnails/snv3500-400gb-pci
 9/21/2020 7:44:41 AM 934,37 RON
 9/24/2020 10:51:32 AM 935,14 RON
 9/25/2020 9:57:25 PM 938,13 RON
+9/30/2020 2:40:19 PM 937,22 RON

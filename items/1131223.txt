@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd30ezrz
 1131223
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/blue-3tb-sata-iii-5400-rpm-64mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/851375/1131223/thumbnails/blue-3tb-sata-iii-
 9/21/2020 7:45:10 AM 403,53 RON
 9/24/2020 12:22:22 PM 409,02 RON
 9/25/2020 10:12:11 PM 412,41 RON
+9/30/2020 3:50:16 PM 410,48 RON

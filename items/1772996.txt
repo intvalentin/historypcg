@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ws z390 pro
 1772996
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/ws-z390-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1772996/thumbnails/ws-z390-pro-9ba79019
 9/21/2020 7:37:13 AM 2.069,14 RON
 9/23/2020 10:18:03 PM 2.090,96 RON
 9/25/2020 8:40:26 PM 2.115,15 RON
+9/29/2020 6:55:15 PM 2.112,36 RON

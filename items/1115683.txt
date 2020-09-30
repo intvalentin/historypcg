@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm600-gsii
 1115683
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm600-gsii-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/815230/1115683/thumbnails/zm600-gsii-600w-41
 9/21/2020 7:47:31 AM 272,85 RON
 9/24/2020 1:46:39 PM 276,56 RON
 9/25/2020 10:47:24 PM 278,85 RON
+9/30/2020 6:47:26 PM 277,14 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd48g240081
 1436834
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-8gb-ddr4-2400mhz-cl17/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1146523/1436834/thumbnails/signature-8gb-ddr
 9/21/2020 7:39:52 AM 141,51 RON
 9/24/2020 9:16:01 AM 143,13 RON
 9/25/2020 9:30:44 PM 144,33 RON
+9/29/2020 11:03:41 PM 144,37 RON

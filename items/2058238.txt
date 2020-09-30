@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asc685-2tu32g2-cbk
 2058238
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sc685-2tb-usb-32-tip-c-black-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2058238/thumbnails/sc685-2tb-usb-32-tip
 9/21/2020 7:43:23 AM 976,53 RON
 9/24/2020 9:44:48 AM 986,83 RON
 9/25/2020 9:57:25 PM 998,25 RON
+9/30/2020 2:42:44 PM 996,94 RON

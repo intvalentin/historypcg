@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hades-m1
 1720404
     Product link    
 https://www.pcgarage.ro/mouse-gaming/gamdias/hades-m1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691852/1720404/thumbnails/hades-m1-97e1a700
 9/21/2020 8:00:04 AM 313,98 RON
 9/24/2020 7:06:53 PM 321,98 RON
 9/26/2020 10:11:37 AM 321,98 RON
+9/30/2020 8:55:56 AM 319,98 RON

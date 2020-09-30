@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd6003fzbx
 1626774
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/black-6tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5633/1626774/thumbnails/black-6tb-sata-iii-7
 9/21/2020 7:45:10 AM 1.230,35 RON
 9/24/2020 12:28:32 PM 1.240,24 RON
 9/25/2020 10:14:24 PM 1.250,81 RON
+9/30/2020 3:45:44 PM 1.240,69 RON

@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |vcqgp100-pb
 1505210
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/nvidia-quadro-gp100-16gb-hmb2-4096-bit/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/1408706/1505210/thumbnails/nvidia-quadro-gp1
 9/25/2020 8:21:12 PM 33.850,74 RON
 9/28/2020 8:09:26 PM 33.979,02 RON
 9/28/2020 8:15:44 PM 33.979,02 RON
+9/29/2020 9:13:40 PM 33.859,90 RON

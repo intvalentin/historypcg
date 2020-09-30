@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct2000bx500ssd1
 1990314
     Product link    
 https://www.pcgarage.ro/ssd/crucial/bx500-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1990314/thumbnails/bx500-960gb-sata-iii
 9/21/2020 7:44:41 AM 1.009,27 RON
 9/24/2020 10:55:41 AM 1.022,99 RON
 9/25/2020 9:59:39 PM 1.031,49 RON
+9/30/2020 2:43:32 PM 1.026,66 RON

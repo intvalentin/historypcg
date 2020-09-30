@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-055p00p-bu01a
 1109983
     Product link    
 https://www.pcgarage.ro/surse/rpc/550w-atx-psu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1000151/1109983/thumbnails/500w-atx-eb81f115
 9/21/2020 7:46:18 AM 92,23 RON
 9/24/2020 12:55:12 PM 93,48 RON
 9/25/2020 10:24:29 PM 94,26 RON
+9/30/2020 4:49:08 PM 93,82 RON

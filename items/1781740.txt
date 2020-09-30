@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx6000lnp-256gt-c
 1781740
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx6000-lite-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1781740/thumbnails/sx6000-lite-256gb-pc
 9/21/2020 7:42:33 AM 180,61 RON
 9/24/2020 10:24:46 AM 211,58 RON
 9/25/2020 9:49:59 PM 182,19 RON
+9/30/2020 11:38:26 AM 181,95 RON

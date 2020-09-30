@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ss-500et f3
 1526542
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-500et-f3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1505170/1526542/thumbnails/ss-500et-f3-2cd43
 9/21/2020 7:47:31 AM 274,51 RON
 9/24/2020 1:22:07 PM 278,24 RON
 9/25/2020 10:34:51 PM 280,61 RON
+9/30/2020 6:48:32 PM 279,24 RON

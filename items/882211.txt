@@ -1,4 +1,4 @@
-    Cod    |G41C-GS R2.0
+    Cod    |
 882211
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/g41c-gs-r20/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/853128/882211/thumbnails/g41c-gs-r20-0db7e99
 9/23/2020 10:56:31 PM 354,63 RON
 9/25/2020 8:47:09 PM 357,56 RON
 9/28/2020 10:39:11 PM 358,90 RON
+9/29/2020 1:50:30 PM 357,70 RON

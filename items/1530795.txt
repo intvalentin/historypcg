@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000dm003
 1530795
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-6tb-sata-iii-5400rpm-256mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025736/1530795/thumbnails/barracuda-6tb-sat
 9/21/2020 7:45:10 AM 767,39 RON
 9/24/2020 12:22:21 PM 773,75 RON
 9/25/2020 10:12:11 PM 780,35 RON
+9/30/2020 3:51:23 PM 762,47 RON

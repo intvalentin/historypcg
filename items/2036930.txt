@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog maximus xii extreme
 2036930
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/z490-rog-maximus-xii-extreme/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2036930/thumbnails/z490-rog-maximus-
 9/21/2020 7:37:16 AM 5.273,19 RON
 9/23/2020 7:37:21 PM 5.299,55 RON
 9/25/2020 8:37:27 PM 5.360,85 RON
+9/29/2020 7:02:02 PM 5.353,82 RON

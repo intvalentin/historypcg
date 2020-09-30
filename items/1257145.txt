@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk8gx4m1a2400c16r
 1257145
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-8gb-ddr4-2400mhz-cl16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/1257145/thumbnails/vengeance-lpx-red-
 9/21/2020 7:37:44 AM 183,40 RON
 9/23/2020 11:50:10 PM 185,52 RON
 9/25/2020 9:06:52 PM 187,08 RON
+9/29/2020 8:11:24 PM 187,08 RON

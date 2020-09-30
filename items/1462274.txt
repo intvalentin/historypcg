@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asd600-256gu31-cbk
 1462274
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sd600-256gb-usb-31-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1126098/1462274/thumbnails/sd600-256gb-usb-3
 9/21/2020 7:44:11 AM 278,06 RON
 9/24/2020 11:18:33 AM 281,84 RON
 9/25/2020 10:07:51 PM 284,19 RON
+9/30/2020 1:40:06 PM 282,86 RON

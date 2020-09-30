@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020103
 1166497
     Product link    
 https://www.pcgarage.ro/surse/corsair/cx-series-cx650m-80-plus-bronze-650w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/1166497/thumbnails/cx-series-cx650m-8
 9/21/2020 7:45:48 AM 468,35 RON
 9/24/2020 12:53:10 PM 435,82 RON
 9/25/2020 10:18:02 PM 477,34 RON
+9/30/2020 4:42:45 PM 446,26 RON

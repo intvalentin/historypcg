@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid1010129
 1659076
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/shadow-of-the-tomb-raider-pentru-pc/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5286/1659076/thumbnails/shadow-of-the-tomb-r
 9/24/2020 8:11:40 PM 294,98 RON
 9/24/2020 11:55:54 PM 294,98 RON
 9/26/2020 11:08:41 AM 294,98 RON
+9/30/2020 6:25:17 PM 294,98 RON

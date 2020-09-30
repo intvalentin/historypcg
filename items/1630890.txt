@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-n6e2t0bw
 1630890
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-evo-2tb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1630890/thumbnails/860-evo-2tb-sata-
 9/21/2020 7:44:45 AM 1.484,65 RON
 9/24/2020 11:14:24 AM 1.484,89 RON
 9/25/2020 10:06:21 PM 1.488,93 RON
+9/30/2020 2:52:48 PM 1.488,41 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmz16gx3m2a1600c10
 299481
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-16gb-ddr3-1600mhz-cl10-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/299481/thumbnails/vengeance-16gb-ddr3-1600
 9/21/2020 7:38:17 AM 420,01 RON
 9/23/2020 11:58:26 PM 441,49 RON
 9/25/2020 9:09:49 PM 445,15 RON
+9/29/2020 9:08:34 PM 371,42 RON

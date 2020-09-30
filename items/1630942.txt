@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76p2t0b+-+eu
 1630942
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-pro-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1630942/thumbnails/860-pro-1tb-sata-
 9/21/2020 7:42:36 AM 2.615,78 RON
 9/24/2020 10:30:58 AM 2.604,55 RON
 9/25/2020 9:52:12 PM 2.580,79 RON
+9/30/2020 12:57:30 PM 2.557,32 RON

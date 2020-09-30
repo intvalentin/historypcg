@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2666c15d-8gvr
 1706204
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-8gb-ddr4-2666mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1192525/1706204/thumbnails/gskill-ripjaws-v-
 9/21/2020 7:40:32 AM 182,12 RON
 9/24/2020 9:05:37 AM 199,40 RON
 9/25/2020 9:26:15 PM 201,10 RON
+9/30/2020 8:01:14 AM 204,36 RON

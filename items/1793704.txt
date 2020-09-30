@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9307011-eu
 1793704
     Product link    
 https://www.pcgarage.ro/mouse-gaming/corsair/ironclaw-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3049/1793704/thumbnails/ironclaw-rgb-9a8056e
 9/21/2020 7:59:40 AM 274,99 RON
 9/24/2020 7:03:15 PM 274,99 RON
 9/26/2020 10:08:37 AM 325,98 RON
+9/30/2020 8:56:12 AM 325,98 RON

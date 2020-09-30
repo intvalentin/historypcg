@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2666c19d-16gis
 1747672
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-2666mhz-cl19-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1747672/thumbnails/aegis-16gb-ddr4-2666
 9/21/2020 7:39:53 AM 263,30 RON
 9/24/2020 8:57:17 AM 303,88 RON
 9/25/2020 9:23:16 PM 306,41 RON
+9/30/2020 8:30:02 AM 326,07 RON

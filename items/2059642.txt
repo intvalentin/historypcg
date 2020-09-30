@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-ar36c18s8k2hu416rd
 2059642
     Product link    
 https://www.pcgarage.ro/memorii/gigabyte/aorus-rgb-16gb-ddr4-3600mhz-cl18-dual-channel-kit-plus-demo-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2059642/thumbnails/aorus-rgb-memory-16g
 9/21/2020 7:41:20 AM 695,35 RON
 9/24/2020 12:04:40 AM 702,69 RON
 9/25/2020 9:12:03 PM 710,81 RON
+9/30/2020 9:31:24 AM 709,88 RON

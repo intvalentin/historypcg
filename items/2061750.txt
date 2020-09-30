@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.db2e0.p100c
 2061750
     Product link    
 https://www.pcgarage.ro/ssd/apacer/as350-panther-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/2061750/thumbnails/as350-panther-120
 9/21/2020 7:44:11 AM 279,24 RON
 9/24/2020 10:49:27 AM 263,02 RON
 9/25/2020 9:57:25 PM 261,28 RON
+9/30/2020 1:33:28 PM 256,95 RON

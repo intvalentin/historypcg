@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01n5m-128g-m3x
 2069530
     Product link    
 https://www.pcgarage.ro/ssd/netac/n5m-128gb-sata-iii-msata/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2069530/thumbnails/ssd-msata-128gb-nt01
 9/21/2020 7:43:52 AM 80,16 RON
 9/24/2020 10:41:17 AM 81,00 RON
 9/25/2020 9:55:56 PM 81,95 RON
+9/30/2020 12:59:56 PM 81,84 RON

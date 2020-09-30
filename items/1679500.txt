@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwt31auzsva
 1679500
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/s300-10tb-sata-iii-7200rpm-256mb-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1664836/1679500/thumbnails/s300-4tb-sata-iii
 9/21/2020 7:45:33 AM 1.515,99 RON
 9/24/2020 12:26:28 PM 1.515,99 RON
 9/25/2020 10:13:40 PM 1.521,20 RON
+9/30/2020 4:26:25 PM 1.518,59 RON

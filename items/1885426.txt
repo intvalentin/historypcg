@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tm8fp4512g0c101
 1885426
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/mp34-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1885426/thumbnails/mp34-512gb-pci-expre
 9/21/2020 7:42:57 AM 360,42 RON
 9/24/2020 9:59:16 AM 364,54 RON
 9/25/2020 9:47:47 PM 367,59 RON
+9/30/2020 12:09:05 PM 367,73 RON

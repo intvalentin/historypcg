@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdssde80-2t00-g25
 2051278
     Product link    
 https://www.pcgarage.ro/ssd/sandisk/extreme-pro-portable-2tb-usb-31-tip-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2051278/thumbnails/extreme-pro-portable
 9/21/2020 7:44:55 AM 3.013,09 RON
 9/24/2020 10:51:32 AM 3.012,77 RON
 9/25/2020 9:57:25 PM 3.020,96 RON
+9/30/2020 3:06:22 PM 3.019,91 RON

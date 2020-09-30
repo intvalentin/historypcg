@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22457
 2057514
     Product link    
 https://www.pcgarage.ro/kit-gaming/trust/gxt-845-tural-combo/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/7193/2057514/thumbnails/gxt-845-tural-combo-
 9/24/2020 7:51:29 PM 140,34 RON
 9/24/2020 11:35:45 PM 140,34 RON
 9/26/2020 10:48:30 AM 140,57 RON
+9/30/2020 1:54:00 PM 140,53 RON

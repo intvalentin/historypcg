@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-6286-02, hm191697
 1769340
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/atlas-elite/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1765416/1769340/thumbnails/atlas-elite-8bca1
 9/21/2020 8:01:23 AM 495,98 RON
 9/24/2020 7:26:30 PM 495,98 RON
 9/26/2020 10:29:55 AM 495,98 RON
+9/30/2020 11:27:28 AM 495,98 RON

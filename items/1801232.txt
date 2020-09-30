@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwg21cuzsva
 1801232
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/n300-12tb-sata-iii-7200-rpm-256mb-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1535667/1801232/thumbnails/n300-12tb-sata-ii
 9/21/2020 7:45:38 AM 2.115,26 RON
 9/24/2020 12:26:28 PM 2.116,57 RON
 9/25/2020 10:13:40 PM 2.123,08 RON
+9/30/2020 4:30:42 PM 2.119,18 RON

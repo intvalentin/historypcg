@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds100t2b0a
 1512654
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-3d-nand-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1263508/1512654/thumbnails/blue-3d-nand-250g
 9/21/2020 7:42:13 AM 497,97 RON
 9/24/2020 9:44:48 AM 497,97 RON
 9/25/2020 9:42:41 PM 497,97 RON
+9/30/2020 11:22:09 AM 501,97 RON

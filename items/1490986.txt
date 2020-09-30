@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080056
 1490986
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xiv-online-starter-edition-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1152773/1490986/thumbnails/final-fantasy-xiv
 9/21/2020 8:03:42 AM 44,98 RON
 9/25/2020 12:03:13 AM 44,98 RON
 9/26/2020 11:16:55 AM 44,98 RON
+9/30/2020 2:24:49 PM 44,98 RON

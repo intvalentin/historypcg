@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st4000dm004 recertified
 1877550
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-4tb-sata-iii-5400rpm-256mb-recertified/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1025736/1877550/thumbnails/barracuda-4tb-sat
 9/21/2020 7:45:24 AM 527,81 RON
 9/24/2020 12:24:25 PM 527,81 RON
 9/25/2020 10:12:56 PM 527,81 RON
+9/30/2020 4:11:47 PM 527,81 RON

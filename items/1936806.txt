@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-925c015-na
 1936806
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/corsair/k57-rgb-wireless-layout-us/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/2554/1936806/thumbnails/k57-rgb-wireless-f8a
 9/24/2020 7:47:49 PM 529,98 RON
 9/24/2020 11:32:03 PM 529,98 RON
 9/26/2020 10:45:30 AM 531,98 RON
+9/30/2020 1:37:42 PM 529,98 RON

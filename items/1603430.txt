@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp480gbpsdb80scs
 1603430
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/bolt-b80-480gb-usb-30-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1489074/1603430/thumbnails/silicon-power-ext
 9/21/2020 7:43:14 AM 414,52 RON
 9/24/2020 10:33:02 AM 419,31 RON
 9/25/2020 9:52:57 PM 423,15 RON
+9/30/2020 12:15:21 PM 423,28 RON

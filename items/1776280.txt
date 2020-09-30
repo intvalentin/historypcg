@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-3320-02, hm191519
 1776280
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/recon-150/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1774300/1776280/thumbnails/recon-150-ps4-1a4
 9/21/2020 8:02:09 AM 303,98 RON
 9/24/2020 7:30:57 PM 303,98 RON
 9/26/2020 10:34:22 AM 303,98 RON
+9/30/2020 12:02:31 PM 303,98 RON

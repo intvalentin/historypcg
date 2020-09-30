@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000nm0115
 1410670
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/enterprise-capacity-35-hdd-v5-6tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025736/1410670/thumbnails/enterprise-capaci
 9/21/2020 7:45:29 AM 1.089,05 RON
 9/24/2020 12:30:36 PM 1.103,85 RON
 9/25/2020 10:15:09 PM 1.113,26 RON
+9/30/2020 4:20:13 PM 1.107,81 RON

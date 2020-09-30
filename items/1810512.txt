@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-c100+-+120g
 1810512
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/c100-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1765416/1810512/thumbnails/c100-120gb-sata-i
 9/21/2020 7:42:21 AM 101,20 RON
 9/24/2020 9:34:42 AM 92,03 RON
 9/25/2020 9:41:16 PM 92,03 RON
+9/30/2020 11:05:56 AM 86,47 RON

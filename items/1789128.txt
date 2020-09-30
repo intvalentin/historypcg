@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf1d416g3600hc18edc01
 1789128
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-night-hawk-rgb-16gb-ddr4-3600mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6440/1789128/thumbnails/t-force-night-hawk-r
 9/21/2020 7:39:28 AM 733,83 RON
 9/23/2020 11:29:29 PM 742,12 RON
 9/25/2020 8:59:33 PM 748,33 RON
+9/29/2020 9:57:44 PM 748,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjw500400
 2029482
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ultra-touch-500gb-usb-30-tip-c-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2029482/thumbnails/ultra-touch-1tb-usb-
 9/21/2020 7:42:57 AM 359,18 RON
 9/24/2020 9:46:53 AM 360,98 RON
 9/25/2020 9:44:08 PM 365,15 RON
+9/30/2020 12:08:29 PM 364,67 RON

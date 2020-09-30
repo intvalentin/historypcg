@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4070056
 863370
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/murdered-soul-suspect-limited-edition-pentru-playstation-3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/863370/thumbnails/murdered-soul-suspe
 9/21/2020 8:05:42 AM 199,98 RON
 9/25/2020 12:10:40 AM 199,98 RON
 9/26/2020 1:07:34 PM 199,98 RON
+9/30/2020 5:16:32 PM 199,98 RON

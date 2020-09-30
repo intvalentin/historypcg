@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-asm2ne2512gttdr
 1877754
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/aorus-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1867706/1877754/thumbnails/aorus-256gb-pci-e
 9/21/2020 7:42:29 AM 459,42 RON
 9/24/2020 9:59:16 AM 461,72 RON
 9/25/2020 9:47:48 PM 467,06 RON
+9/30/2020 12:18:39 PM 466,45 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0g06032-1
 2072466
     Product link    
 https://www.pcgarage.ro/ssd/g-technology/g-drive-ev-raw-2tb-usb-30-black-blue-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2072466/thumbnails/g-drive-ev-raw-1tb-u
 9/21/2020 7:44:55 AM 2.612,77 RON
 9/24/2020 10:41:17 AM 2.641,45 RON
 9/25/2020 9:55:11 PM 2.666,20 RON
+9/30/2020 3:04:30 PM 2.667,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp01m0-bpua00
 2001242
     Product link    
 https://www.pcgarage.ro/mouse-pad/asus/rog-strix-slice/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2001242/thumbnails/rog-strix-slice-c
 9/21/2020 8:00:24 AM 69,99 RON
 9/24/2020 7:14:08 PM 99,99 RON
 9/26/2020 10:13:04 AM 69,99 RON
+9/30/2020 9:46:51 AM 99,99 RON

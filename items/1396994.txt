@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000dx002
 1396994
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/firecuda-sshd-1tb-sata-iii-7200rpm-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1396994/thumbnails/firecuda-sshd-1tb
 9/21/2020 7:45:24 AM 419,99 RON
 9/24/2020 12:32:39 PM 419,99 RON
 9/25/2020 10:15:53 PM 419,99 RON
+9/30/2020 4:07:53 PM 419,99 RON

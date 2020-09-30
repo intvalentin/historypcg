@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c15d-32gtzsw
 1880374
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-silver-32gb-ddr4-3200mhz-cl15-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1703884/1880374/thumbnails/trident-z-silver-
 9/21/2020 7:38:45 AM 879,14 RON
 9/23/2020 11:23:16 PM 889,13 RON
 9/25/2020 8:57:22 PM 896,65 RON
+9/29/2020 10:11:10 PM 926,08 RON

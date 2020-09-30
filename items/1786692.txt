@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthk1000800
 1786692
     Product link    
 https://www.pcgarage.ro/ssd/lacie/portable-1tb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1779504/1786692/thumbnails/portable-1tb-usb-
 9/21/2020 7:43:23 AM 913,92 RON
 9/24/2020 10:22:42 AM 918,49 RON
 9/25/2020 9:49:59 PM 929,11 RON
+9/30/2020 12:42:43 PM 927,89 RON

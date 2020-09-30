@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts128gssd370s
 1044642
     Product link    
 https://www.pcgarage.ro/ssd/transcend/370-premium-series-128gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/1044642/thumbnails/370s-premium-serie
 9/21/2020 7:42:57 AM 270,04 RON
 9/24/2020 10:35:06 AM 273,15 RON
 9/25/2020 9:54:26 PM 275,45 RON
+9/30/2020 11:53:07 AM 275,45 RON

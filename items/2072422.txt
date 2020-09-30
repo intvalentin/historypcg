@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjm2000401
 2072422
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-fast-2tb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/2072422/thumbnails/barracuda-fast-50
 9/21/2020 7:44:50 AM 1.690,50 RON
 9/24/2020 10:41:17 AM 1.710,04 RON
 9/25/2020 9:55:11 PM 1.724,38 RON
+9/30/2020 2:55:46 PM 1.681,57 RON

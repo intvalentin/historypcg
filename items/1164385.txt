@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm1010046
 1164385
     Product link    
 https://www.pcgarage.ro/jocuri/capcom/street-fighter-5-pentru-pc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1086319/1164385/thumbnails/street-fighter-5-
 9/21/2020 8:04:39 AM 149,98 RON
 9/25/2020 12:09:55 AM 149,98 RON
 9/26/2020 1:06:48 PM 149,98 RON
+9/30/2020 3:45:14 PM 149,98 RON

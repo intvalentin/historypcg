@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts256gmte110s
 1697260
     Product link    
 https://www.pcgarage.ro/ssd/transcend/110s-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1689668/1697260/thumbnails/110s-128gb-pci-ex
 9/21/2020 7:42:17 AM 170,30 RON
 9/24/2020 9:42:46 AM 166,71 RON
 9/25/2020 9:41:58 PM 166,71 RON
+9/30/2020 11:10:00 AM 166,60 RON

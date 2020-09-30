@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01n535n-128g-n8x
 2066822
     Product link    
 https://www.pcgarage.ro/ssd/netac/n535n-128gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2066822/thumbnails/n535n-120gb-sata-iii
 9/21/2020 7:43:52 AM 80,16 RON
 9/24/2020 10:49:27 AM 81,00 RON
 9/25/2020 9:56:40 PM 81,95 RON
+9/30/2020 12:59:40 PM 81,84 RON

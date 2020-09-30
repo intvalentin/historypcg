@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |in3t2gnabkx
 872904
     Product link    
 https://www.pcgarage.ro/memorii/integral/2gb-ddr3-1600mhz-cl11-4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/872904/thumbnails/2gb-ddr3-1066mhz-cl
 9/21/2020 7:40:17 AM 67,41 RON
 9/24/2020 9:24:23 AM 66,98 RON
 9/25/2020 9:38:22 PM 66,13 RON
+9/29/2020 10:34:24 PM 65,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-asm2ne6200tttd
 1902986
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/aorus-2tb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1202/1902986/thumbnails/aorus-2tb-pci-expres
 9/21/2020 7:44:50 AM 1.958,45 RON
 9/24/2020 11:01:54 AM 1.979,10 RON
 9/25/2020 10:01:08 PM 2.002,00 RON
+9/30/2020 2:59:27 PM 1.999,36 RON

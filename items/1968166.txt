@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r012d408gx1-3000c16b
 1968166
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/m-one-hs-8gb-ddr4-3000mhz-cl16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1968166/thumbnails/m-one-hs-8gb-ddr4-26
 9/21/2020 7:40:37 AM 205,39 RON
 9/24/2020 8:36:30 AM 208,18 RON
 9/25/2020 9:15:47 PM 209,91 RON
+9/30/2020 8:02:48 AM 208,93 RON

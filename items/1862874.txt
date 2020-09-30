@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-cx400-256
 1862874
     Product link    
 https://www.pcgarage.ro/ssd/goodram/ssd-gr-256-25-quot-cx400-ssdpr-cx400-256/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1862874/thumbnails/cx400-1tb-sata-iii-2
 9/21/2020 7:43:06 AM 210,51 RON
 9/24/2020 10:01:19 AM 158,67 RON
 9/25/2020 9:48:31 PM 160,52 RON
+9/30/2020 11:34:39 AM 160,30 RON

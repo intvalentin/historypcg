@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sa400m8+-+120g
 1817420
     Product link    
 https://www.pcgarage.ro/ssd/kingston/a400-120gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/753/1817420/thumbnails/a400-120gb-sata-iii-m
 9/21/2020 7:43:43 AM 105,26 RON
 9/24/2020 10:22:42 AM 111,35 RON
 9/25/2020 10:02:37 PM 108,02 RON
+9/30/2020 1:07:28 PM 107,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m9128-e1024laf
 1171255
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/matrox/m9128-1gb-ddr-low-profile/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/472405/1171255/thumbnails/m9128-1gb-ddr-low-
 9/21/2020 7:34:24 AM 1.233,09 RON
 9/23/2020 6:55:51 PM 1.247,21 RON
 9/25/2020 8:21:12 PM 1.257,70 RON
+9/29/2020 9:11:20 PM 1.258,10 RON

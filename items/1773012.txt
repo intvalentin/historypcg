@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mu-pb1t0b+-+eu
 1773012
     Product link    
 https://www.pcgarage.ro/ssd/samsung/x5-1tb-thunderbolt-3-type-c/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5015/1773012/thumbnails/x5-500gb-thunderbolt
 9/21/2020 7:43:28 AM 1.894,08 RON
 9/24/2020 10:24:46 AM 1.882,35 RON
 9/25/2020 9:50:00 PM 1.861,49 RON
+9/30/2020 12:53:32 PM 1.844,55 RON

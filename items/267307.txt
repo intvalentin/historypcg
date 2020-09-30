@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cml8gx3m2a1600c9
 267307
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lp-rev-a-8gb-ddr3-1600mhz-cl9-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/267307/thumbnails/8gb-ddr3-1600mhz-cl9-dua
 9/21/2020 7:39:58 AM 219,04 RON
 9/24/2020 9:28:32 AM 220,13 RON
 9/25/2020 9:39:51 PM 230,23 RON
+9/30/2020 8:10:44 AM 229,93 RON

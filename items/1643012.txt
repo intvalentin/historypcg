@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rgb-700
 1643012
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-rgb-700-80-plus-bronze-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1643012/thumbnails/argus-rgb-600-80-
 9/21/2020 7:47:03 AM 297,09 RON
 9/24/2020 1:15:54 PM 301,13 RON
 9/25/2020 10:32:37 PM 303,63 RON
+9/30/2020 6:57:44 PM 301,77 RON

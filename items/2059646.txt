@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-ars16g44
 2059646
     Product link    
 https://www.pcgarage.ro/memorii/gigabyte/aorus-rgb-memory-ddr4-4400mhz-cl-19-2x8gb-135v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2059646/thumbnails/aorus-rgb-16gb-ddr4-
 9/21/2020 7:41:25 AM 829,11 RON
 9/24/2020 12:04:40 AM 837,85 RON
 9/25/2020 9:12:03 PM 847,54 RON
+9/30/2020 9:46:38 AM 846,43 RON

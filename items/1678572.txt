@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |suv500ms+-+480g
 1678572
     Product link    
 https://www.pcgarage.ro/ssd/kingston/ssdnow-uv500-480gb-sata-iii-msata/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1678572/thumbnails/ssdnow-uv500-120g
 9/21/2020 7:43:38 AM 359,52 RON
 9/24/2020 10:30:58 AM 352,61 RON
 9/25/2020 10:05:36 PM 358,32 RON
+9/30/2020 1:51:32 PM 358,45 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-v7e1t0bw
 1695160
     Product link    
 https://www.pcgarage.ro/ssd/samsung/970-evo-series-1tb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1695160/thumbnails/970-evo-series-1t
 9/21/2020 7:43:33 AM 1.045,76 RON
 9/24/2020 11:10:14 AM 1.045,76 RON
 9/25/2020 10:04:51 PM 1.045,76 RON
+9/30/2020 2:44:37 PM 1.045,76 RON

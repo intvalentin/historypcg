@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |PRIME H310M-A R2.0
 1951494
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-h310m-a-r20/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3049/1951494/thumbnails/prime-h310m-a-r20-cs
 9/21/2020 7:36:23 AM 382,61 RON
 9/23/2020 7:39:26 PM 384,51 RON
 9/25/2020 8:38:11 PM 448,11 RON
+9/29/2020 5:04:09 PM 447,53 RON

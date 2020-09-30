@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-9011110-ww
 1656812
     Product link    
 https://www.pcgarage.ro/fan-controllere/corsair/commander-pro/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/530/1656812/thumbnails/commander-pro-9e5c08b
 9/21/2020 7:58:32 AM 362,80 RON
 9/24/2020 6:48:51 PM 367,74 RON
 9/26/2020 9:50:25 AM 370,88 RON
+9/29/2020 9:26:34 PM 370,38 RON

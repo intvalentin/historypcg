@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |MPG Z490 GAMING EDGE WIFI
 2034750
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/mpg-z490-gaming-edge-wifi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2034750/thumbnails/mpg-z490-gaming-e
 9/21/2020 7:36:14 AM 1.018,15 RON
 9/23/2020 7:37:21 PM 1.029,67 RON
 9/25/2020 8:37:27 PM 1.038,31 RON
+9/29/2020 5:58:38 PM 1.038,70 RON

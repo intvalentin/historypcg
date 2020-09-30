@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tgk305
 1832340
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/t-dagger/destroyer-mecanica-blue-switch/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5664/1832340/thumbnails/destroyer-mecanica-b
 9/24/2020 7:44:52 PM 259,99 RON
 9/24/2020 11:29:08 PM 259,99 RON
 9/26/2020 10:41:49 AM 259,99 RON
+9/30/2020 12:52:15 PM 259,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st16000ne000
 1923158
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-16tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1923158/thumbnails/ironwolf-pro-16tb-sa
 9/21/2020 7:45:15 AM 2.424,07 RON
 9/24/2020 12:24:25 PM 2.449,63 RON
 9/25/2020 10:12:56 PM 2.477,97 RON
+9/30/2020 4:32:35 PM 2.465,84 RON

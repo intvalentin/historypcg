@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eps-650cm
 271473
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/energon-cm-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/271473/thumbnails/energon-cm-650w-7b6c25a7
 9/21/2020 7:46:49 AM 244,86 RON
 9/24/2020 2:01:10 PM 248,18 RON
 9/25/2020 10:53:13 PM 250,25 RON
+9/30/2020 6:35:46 PM 248,71 RON

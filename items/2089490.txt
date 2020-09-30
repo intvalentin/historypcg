@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23758
 2089490
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/trust-gxt-960-graphin-light-gaming-mouse/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2089490/thumbnails/gxt-960-graphin-3e47
     Pret    
 9/24/2020 7:04:41 PM 133,98 RON
 9/26/2020 10:06:25 AM 133,98 RON
+9/30/2020 8:24:01 AM 133,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76p1t0b+-+eu
 1630906
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-pro-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1630906/thumbnails/860-pro-1tb-sata-
 9/21/2020 7:42:48 AM 1.355,20 RON
 9/24/2020 10:33:02 AM 1.369,48 RON
 9/25/2020 9:52:56 PM 1.385,33 RON
+9/30/2020 12:51:01 PM 1.381,75 RON

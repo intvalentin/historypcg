@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct500mx500ssd1
 1623462
     Product link    
 https://www.pcgarage.ro/ssd/crucial/mx500-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5633/1623462/thumbnails/mx500-2tb-sata-iii-2
 9/21/2020 7:42:21 AM 362,44 RON
 9/24/2020 10:33:02 AM 307,14 RON
 9/25/2020 9:52:56 PM 309,69 RON
+9/30/2020 11:58:15 AM 308,24 RON

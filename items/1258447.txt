@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |943-000089, 943-000090
 1258447
     Product link    
 https://www.pcgarage.ro/mouse-pad/logitech/g640-v2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/255443/1258447/thumbnails/g640-v2-b191b84807
 9/21/2020 8:00:22 AM 169,99 RON
 9/24/2020 7:12:39 PM 169,99 RON
 9/26/2020 10:16:37 AM 169,99 RON
+9/30/2020 9:24:36 AM 169,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpx-7501-amaab
 1656680
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/masterwatt-750-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1649828/1656680/thumbnails/masterwatt-750-80
 9/21/2020 7:46:27 AM 514,66 RON
 9/24/2020 1:15:53 PM 509,00 RON
 9/25/2020 10:32:37 PM 505,81 RON
+9/30/2020 5:39:13 PM 508,13 RON

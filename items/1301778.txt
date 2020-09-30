@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wbi7050025
 1301778
     Product link    
 https://www.pcgarage.ro/jocuri/warner-bros/batman-return-to-arkham-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/815230/1301778/thumbnails/batman-return-to-a
 9/21/2020 8:04:01 AM 99,98 RON
 9/25/2020 12:09:10 AM 99,98 RON
 9/26/2020 1:06:04 PM 99,98 RON
+9/30/2020 2:49:03 PM 99,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np-1pm-e500a
 1776096
     Product link    
 https://www.pcgarage.ro/surse/nzxt/e-series-e500-80-plus-gold-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1774300/1776096/thumbnails/e-series-e500-80-
 9/21/2020 7:46:14 AM 555,52 RON
 9/24/2020 12:44:58 PM 555,52 RON
 9/25/2020 10:21:40 PM 555,52 RON
+9/30/2020 5:41:43 PM 555,52 RON

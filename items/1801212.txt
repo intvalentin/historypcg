@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwr21cuzsva
 1801212
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/x300-12tb-sata-iii-7200-rpm-256mb-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1535667/1801212/thumbnails/x300-4tb-sata-iii
 9/21/2020 7:45:38 AM 1.844,23 RON
 9/24/2020 12:26:28 PM 1.845,53 RON
 9/25/2020 10:13:40 PM 1.850,74 RON
+9/30/2020 4:29:20 PM 1.848,13 RON

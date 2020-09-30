@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd1cs1050-960-ffs
 1796372
     Product link    
 https://www.pcgarage.ro/ssd/pny/elite-960gb-usb-30/
@@ -8,3 +8,4 @@ PNY Elite 960GB USB 3.0
 https://5.grgs.ro/images/products/1/6361/1796372/thumbnails/pny-external-ssd-elite-960gb-420-420-mb-s-usb-30-32a6752c1f768254a5e76d2f8b93fffa.png
     Pret    
 9/25/2020 10:03:21 PM 567,39 RON
+9/30/2020 2:17:52 PM 567,52 RON

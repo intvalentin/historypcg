@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk64gx4m8b3200c16
 1974790
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-64gb-ddr4-3200mhz-cl16-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/1974790/thumbnails/vengeance-lpx-blac
 9/21/2020 7:41:54 AM 2.027,36 RON
 9/24/2020 12:10:55 AM 2.048,74 RON
 9/25/2020 9:15:02 PM 2.077,38 RON
+9/30/2020 10:38:58 AM 2.077,38 RON

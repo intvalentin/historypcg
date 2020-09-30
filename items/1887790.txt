@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fcgmrgbrmt
 1887790
     Product link    
 https://www.pcgarage.ro/modding/gamemax/controller-rgb-cu-telecomanda/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/1887790/thumbnails/controller-rgb-cu-te
 9/21/2020 7:58:49 AM 85,13 RON
 9/24/2020 6:52:27 PM 85,13 RON
 9/26/2020 9:54:04 AM 85,13 RON
+9/29/2020 10:03:16 PM 85,13 RON

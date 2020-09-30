@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds200t2b0a
 1512658
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-3d-nand-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1263508/1512658/thumbnails/blue-3d-nand-250g
 9/21/2020 7:42:40 AM 1.084,79 RON
 9/24/2020 10:35:06 AM 1.090,21 RON
 9/25/2020 9:53:41 PM 1.102,82 RON
+9/30/2020 12:46:25 PM 1.076,59 RON

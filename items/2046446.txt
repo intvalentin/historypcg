@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-udpro256g
 2046446
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/ud-pro-256gb-sata-iii-25-inch-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1034/2046446/thumbnails/ud-pro-1tb-sata-iii-
 9/21/2020 7:44:07 AM 251,07 RON
 9/24/2020 10:51:32 AM 253,72 RON
 9/25/2020 9:58:09 PM 256,65 RON
+9/30/2020 1:33:11 PM 256,31 RON

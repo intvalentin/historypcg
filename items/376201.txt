@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fl500 extra
 376201
     Product link    
 https://www.pcgarage.ro/surse/floston/fl500-extra/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/376201/thumbnails/fl500-extra-22bfe990c702
 9/21/2020 7:45:44 AM 121,15 RON
 9/24/2020 12:36:45 PM 122,80 RON
 9/25/2020 10:18:02 PM 123,85 RON
+9/30/2020 4:51:02 PM 123,24 RON

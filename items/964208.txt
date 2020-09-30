@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs600-acabb1-eu
 964208
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/b600-v2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/964208/thumbnails/b600-v2-7d5052bc663403ea
 9/21/2020 7:47:40 AM 324,53 RON
 9/24/2020 1:50:48 PM 324,53 RON
 9/25/2020 10:48:53 PM 324,53 RON
+9/30/2020 7:06:33 PM 324,53 RON

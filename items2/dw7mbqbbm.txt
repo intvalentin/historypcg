@@ -1,0 +1,1 @@
+adc_150cm_usb_emag

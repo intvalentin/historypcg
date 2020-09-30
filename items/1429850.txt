@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb100rd
 1429850
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-100-red-led-lighting-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1173769/1429850/thumbnails/rgb-100-red-led-l
 9/21/2020 7:58:42 AM 45,67 RON
 9/24/2020 6:52:27 PM 46,69 RON
 9/26/2020 9:54:04 AM 46,68 RON
+9/29/2020 9:46:05 PM 46,46 RON

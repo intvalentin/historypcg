@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3600c19d-16gvrb
 1786972
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-16gb-ddr4-3600mhz-cl19-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1192525/1786972/thumbnails/ripjaws-v-16gb-dd
 9/21/2020 7:38:03 AM 316,66 RON
 9/24/2020 8:57:17 AM 320,31 RON
 9/25/2020 9:23:16 PM 322,98 RON
+9/30/2020 8:32:14 AM 333,65 RON

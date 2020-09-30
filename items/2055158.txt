@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-p450b
 2055158
     Product link    
 https://www.pcgarage.ro/surse/gigabyte/p450b-80-plus-bronze-450w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2055158/thumbnails/p450b-80-plus-bronze
 9/21/2020 7:47:21 AM 218,24 RON
 9/24/2020 12:59:20 PM 219,33 RON
 9/25/2020 10:18:45 PM 221,87 RON
+9/30/2020 5:02:57 PM 220,78 RON

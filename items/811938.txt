@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-550+
 811938
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/combat-power-plus-550w/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/735074/811938/thumbnails/combat-power-plus-5
 9/24/2020 12:55:12 PM 171,67 RON
 9/24/2020 12:57:16 PM 171,67 RON
 9/25/2020 10:25:11 PM 173,10 RON
+9/30/2020 4:56:14 PM 172,29 RON

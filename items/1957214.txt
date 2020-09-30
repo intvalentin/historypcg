@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm700-lxii
 1957214
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm700-lxii-700w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1957214/thumbnails/zm700-lxii-700w-2
 9/21/2020 7:47:17 AM 194,63 RON
 9/24/2020 1:03:27 PM 198,17 RON
 9/25/2020 10:28:09 PM 198,47 RON
+9/30/2020 6:16:34 PM 197,29 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psd416g2133k
 1402135
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-16gb-ddr4-2133mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1112123/1402135/thumbnails/signature-8gb-ddr
 9/21/2020 7:41:25 AM 840,40 RON
 9/24/2020 9:18:06 AM 849,98 RON
 9/25/2020 9:30:44 PM 857,09 RON
+9/30/2020 9:47:27 AM 857,37 RON

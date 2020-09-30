@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ted48g2133c1501
 1585338
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/elite-8gb-ddr4-2133mhz-cl15-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1585338/thumbnails/tp-ddr4-8gb-2400-
 9/21/2020 7:38:25 AM 153,11 RON
 9/23/2020 11:43:57 PM 154,95 RON
 9/25/2020 9:04:39 PM 156,22 RON
+9/29/2020 7:52:43 PM 156,22 RON

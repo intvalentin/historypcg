@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sga1010026
 1513978
     Product link    
 https://www.pcgarage.ro/jocuri/sega/total-war-warhammer-2-pentru-pc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457254/1513978/thumbnails/total-war-warhamm
 9/21/2020 8:05:06 AM 169,98 RON
 9/25/2020 12:01:02 AM 169,98 RON
 9/26/2020 11:13:55 AM 169,98 RON
+9/30/2020 4:26:06 PM 169,98 RON

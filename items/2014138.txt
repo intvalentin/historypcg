@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |311600641
 2014138
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/t200n-512gb-usb-31-tip-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2014138/thumbnails/t200n-512gb-usb-3
 9/21/2020 7:42:57 AM 425,62 RON
 9/24/2020 9:48:57 AM 425,62 RON
 9/25/2020 9:44:08 PM 425,62 RON
+9/30/2020 11:59:21 AM 313,99 RON

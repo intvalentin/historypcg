@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c15d-16gvk
 1660088
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-16gb-ddr4-3200mhz-cl15-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427586/1660088/thumbnails/ripjaws-v-16gb-dd
 9/21/2020 7:40:03 AM 451,46 RON
 9/23/2020 11:39:47 PM 456,66 RON
 9/25/2020 9:03:13 PM 460,45 RON
+9/30/2020 9:03:25 AM 467,56 RON

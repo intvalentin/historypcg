@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-v7p512bw
 1695644
     Product link    
 https://www.pcgarage.ro/ssd/samsung/970-pro-series-512gb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692136/1695644/thumbnails/970-pro-series-51
 9/21/2020 7:42:29 AM 928,33 RON
 9/24/2020 10:28:54 AM 922,86 RON
 9/25/2020 9:51:27 PM 912,56 RON
+9/30/2020 12:41:38 PM 904,22 RON

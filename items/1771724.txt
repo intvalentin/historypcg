@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |meg z390 ace
 1771724
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/meg-z390-ace/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5015/1771724/thumbnails/meg-z390-ace-c37e64d
 9/21/2020 7:37:09 AM 1.431,98 RON
 9/23/2020 10:18:03 PM 1.451,45 RON
 9/25/2020 8:40:26 PM 1.463,51 RON
+9/29/2020 6:44:12 PM 1.456,66 RON

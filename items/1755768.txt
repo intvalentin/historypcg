@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8200pnp-1tt-c
 1755768
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8200-pro-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1573/1755768/thumbnails/sx8200-240gb-pci-exp
 9/21/2020 7:42:21 AM 655,19 RON
 9/24/2020 10:26:50 AM 658,47 RON
 9/25/2020 9:50:43 PM 730,27 RON
+9/30/2020 12:36:21 PM 729,31 RON

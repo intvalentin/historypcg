@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn245
 1637220
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/system-power-9-80-plus-bronze-400w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1637220/thumbnails/system-power-9-80
 9/21/2020 7:46:10 AM 250,11 RON
 9/24/2020 12:47:02 PM 247,46 RON
 9/25/2020 10:22:21 PM 245,98 RON
+9/30/2020 5:07:37 PM 247,02 RON

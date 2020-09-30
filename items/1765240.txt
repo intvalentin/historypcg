@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mempek1j032ga01
 1765240
     Product link    
 https://www.pcgarage.ro/memorii/intel/memory-card-m2-32gb-optane-mempek1j032ga01-intel/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3442/1765240/thumbnails/optane-memory-m10-se
 9/21/2020 7:41:01 AM 415,04 RON
 9/24/2020 8:59:22 AM 419,42 RON
 9/25/2020 9:24:01 PM 424,26 RON
+9/30/2020 8:54:36 AM 423,72 RON

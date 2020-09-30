@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p210s2tb25
 2074246
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p210-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2074246/thumbnails/p210-512gb-sata-iii-
 9/21/2020 7:43:23 AM 903,99 RON
 9/24/2020 9:44:48 AM 913,52 RON
 9/25/2020 9:42:41 PM 924,09 RON
+9/30/2020 12:42:26 PM 922,87 RON

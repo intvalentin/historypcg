@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xa240me10003
 1878450
     Product link    
 https://www.pcgarage.ro/ssd/seagate/nytro-1551-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1868718/1878450/thumbnails/nytro-1551-240gb-
 9/21/2020 7:44:21 AM 471,55 RON
 9/24/2020 11:01:55 AM 476,51 RON
 9/25/2020 10:01:53 PM 482,04 RON
+9/30/2020 2:08:22 PM 481,40 RON

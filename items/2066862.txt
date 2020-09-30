@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01z8pro-001t-32gr
 2066862
     Product link    
 https://www.pcgarage.ro/ssd/netac/z8-pro-1tb-usb-32-tip-c-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2066862/thumbnails/z8-pro-250gb-usb-32-
 9/21/2020 7:44:26 AM 561,33 RON
 9/24/2020 10:47:22 AM 567,25 RON
 9/25/2020 9:56:40 PM 573,81 RON
+9/30/2020 2:18:41 PM 573,06 RON

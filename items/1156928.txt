@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr4-8g2133b
 1156928
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/8gb-ddr4-2133mhz-cl15-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/1156928/thumbnails/4gb-ddr3-1333mhz-cl9-du
 9/21/2020 7:37:27 AM 141,99 RON
 9/23/2020 11:50:10 PM 158,84 RON
 9/25/2020 9:06:52 PM 141,99 RON
+9/29/2020 7:51:18 PM 141,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdwe140ezsta
 1675072
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/toshiba/x300-4tb-sata-iii-7200-rpm-128mb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1535667/1675072/thumbnails/x300-4tb-sata-iii
 9/21/2020 7:45:19 AM 548,79 RON
 9/24/2020 12:28:32 PM 550,36 RON
 9/25/2020 10:14:24 PM 551,01 RON
+9/30/2020 4:12:38 PM 549,96 RON

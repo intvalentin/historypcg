@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23191
 1841484
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-450-blizz-rgb-71-surround/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6599/1841484/thumbnails/gxt-450-blizz-rgb-71
 9/21/2020 8:00:58 AM 164,99 RON
 9/24/2020 7:21:25 PM 164,99 RON
 9/26/2020 10:24:42 AM 164,99 RON
+9/30/2020 10:28:11 AM 164,99 RON

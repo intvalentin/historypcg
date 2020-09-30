@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-6220-02, hm191530
 2001870
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/recon-spark-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8078/2001870/thumbnails/recon-spark-white-29
 9/21/2020 8:01:37 AM 251,98 RON
 9/24/2020 7:24:19 PM 251,98 RON
 9/26/2020 10:27:42 AM 251,98 RON
+9/30/2020 11:14:49 AM 251,98 RON

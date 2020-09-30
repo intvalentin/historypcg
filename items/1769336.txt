@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-6350-02, hm191527
 1769336
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/atlas-three/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1769336/thumbnails/atlas-three-cba71
 9/21/2020 8:01:28 AM 397,98 RON
 9/24/2020 7:26:30 PM 397,98 RON
 9/26/2020 10:29:55 AM 397,98 RON
+9/30/2020 11:24:00 AM 397,98 RON

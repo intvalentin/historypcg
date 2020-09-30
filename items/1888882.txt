@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p200s1tb25
 1888882
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p200-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1885090/1888882/thumbnails/p200-1tb-sata-iii
 9/21/2020 7:42:33 AM 546,61 RON
 9/24/2020 9:57:12 AM 552,37 RON
 9/25/2020 9:47:47 PM 558,77 RON
+9/30/2020 12:24:36 PM 558,03 RON

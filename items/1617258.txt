@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps256gpm280ssdr
 1617258
     Product link    
 https://www.pcgarage.ro/ssd/patriot/scorch-256gb-pci-express-x2-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1594546/1617258/thumbnails/patriot-ssd-scorc
 9/21/2020 7:44:07 AM 236,14 RON
 9/24/2020 11:16:29 AM 239,35 RON
 9/25/2020 10:07:06 PM 241,34 RON
+9/30/2020 1:31:02 PM 240,21 RON

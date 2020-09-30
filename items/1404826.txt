@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-bz-da600n
 1404826
     Product link    
 https://www.pcgarage.ro/surse/deepcool/aurora-series-da600-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025741/1404826/thumbnails/aurora-series-da6
 9/21/2020 7:45:57 AM 289,17 RON
 9/24/2020 12:51:08 PM 293,10 RON
 9/25/2020 10:23:46 PM 295,54 RON
+9/30/2020 6:50:06 PM 281,87 RON

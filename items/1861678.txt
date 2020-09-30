@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ekblue4082619a
 1861678
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/blue-kudos-8gb-ddr4-2666mhz-cl19-12v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1861678/thumbnails/8gb-ddr4-2400mhz-cl1
 9/21/2020 7:40:32 AM 162,63 RON
 9/24/2020 8:46:53 AM 164,84 RON
 9/25/2020 9:19:32 PM 166,21 RON
+9/29/2020 11:16:32 PM 165,43 RON

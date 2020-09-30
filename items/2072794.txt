@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za2000nm1a002
 2072794
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-125-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072794/thumbnails/seagate-ironwolf-125
 9/21/2020 7:44:45 AM 1.415,50 RON
 9/24/2020 10:39:12 AM 1.431,14 RON
 9/25/2020 9:55:11 PM 1.444,17 RON
+9/30/2020 2:51:15 PM 1.444,18 RON

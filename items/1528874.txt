@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c15pb3k4+-+64
 1528874
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-black-64gb-ddr4-3000mhz-cl15-135v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/1528874/thumbnails/predator-black-16gb-ddr
 9/21/2020 7:41:49 AM 1.706,52 RON
 9/24/2020 9:11:51 AM 1.725,68 RON
 9/25/2020 9:29:14 PM 1.740,73 RON
+9/30/2020 10:28:29 AM 1.740,73 RON

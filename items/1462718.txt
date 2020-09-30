@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sps-atx-500-v12
 1462718
     Product link    
 https://www.pcgarage.ro/surse/spacer/sps-atx-500-v12-500w/
@@ -8,3 +8,4 @@ Spacer SPS ATX 500 V12, 500W
 https://5.grgs.ro/images/products/1/1434070/1462718/thumbnails/sps-atx-500-v12-500w-492b38770a0147ed1c83d015afbfc87a.jpg
     Pret    
 9/25/2020 10:35:35 PM 70,45 RON
+9/30/2020 5:56:21 PM 70,01 RON

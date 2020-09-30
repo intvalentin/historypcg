@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx437c19fb3ak2+-+32
 1988634
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-32gb-ddr4-3733mhz-cl19-dual-channel-kit/
@@ -8,3 +8,4 @@ HyperX Fury RGB 32GB DDR4 3733MHz CL19 Dual Channel Kit
 https://5.grgs.ro/images/products/1/5758/1988634/thumbnails/fury-rgb-16gb-ddr4-3200mhz-cl16-dual-channel-kit-f5c43a7442eaf92f0776dc6b06a60cd6.jpg
     Pret    
 9/25/2020 9:14:17 PM 1.094,53 RON
+9/30/2020 10:08:52 AM 1.094,80 RON

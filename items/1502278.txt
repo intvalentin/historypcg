@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fl600 extra
 1502278
     Product link    
 https://www.pcgarage.ro/surse/floston/fl600-extra-80-plus-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469694/1502278/thumbnails/fl600-extra-80-pl
 9/21/2020 7:47:21 AM 200,78 RON
 9/24/2020 1:22:07 PM 203,51 RON
 9/25/2020 10:34:51 PM 205,24 RON
+9/30/2020 6:19:14 PM 204,24 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sedc500m+-+3840g
 1976610
     Product link    
 https://www.pcgarage.ro/ssd/kingston/dc500m-384tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1976610/thumbnails/dc500m-384tb-sata-ii
 9/21/2020 7:43:28 AM 3.661,68 RON
 9/24/2020 9:53:04 AM 3.700,29 RON
 9/25/2020 9:45:36 PM 3.742,29 RON
+9/30/2020 12:58:51 PM 3.724,77 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-f480gbmp510b
 2053062
     Product link    
 https://www.pcgarage.ro/ssd/corsair/force-mp510b-480gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053062/thumbnails/force-series-mp510-4
 9/21/2020 7:44:16 AM 394,67 RON
 9/24/2020 10:51:32 AM 398,83 RON
 9/25/2020 9:57:25 PM 403,44 RON
+9/30/2020 1:56:54 PM 402,91 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r40b00130
 1884718
     Product link    
 https://www.pcgarage.ro/modding/raijintek/extensie-cablu-atx-24pin-adressabil-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1884718/thumbnails/extensie-cablu-atx-2
 9/21/2020 7:58:45 AM 187,24 RON
 9/24/2020 6:51:01 PM 187,46 RON
 9/26/2020 9:52:37 AM 187,77 RON
+9/29/2020 9:51:49 PM 187,70 RON

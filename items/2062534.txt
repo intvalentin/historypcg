@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ase760-256gu32g2-cbk
 2062534
     Product link    
 https://www.pcgarage.ro/ssd/a-data/adata-external-ssd-256gb-32-se760-bk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2062534/thumbnails/se760-512gb-usb-31-t
 9/21/2020 7:44:11 AM 297,27 RON
 9/24/2020 10:49:27 AM 298,75 RON
 9/25/2020 9:57:25 PM 302,22 RON
+9/30/2020 1:40:38 PM 301,82 RON

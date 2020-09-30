@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as40g-256gt-c
 1893826
     Product link    
 https://www.pcgarage.ro/ssd/a-data/xpg-spectrix-s40g-rgb-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1275/1893826/thumbnails/xpg-spectrix-s40g-rg
 9/21/2020 7:42:29 AM 239,11 RON
 9/24/2020 9:57:12 AM 241,82 RON
 9/25/2020 9:47:47 PM 243,85 RON
+9/30/2020 11:48:26 AM 243,85 RON

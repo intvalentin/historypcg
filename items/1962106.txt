@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vx-plus-500
 1962106
     Product link    
 https://www.pcgarage.ro/surse/aerocool/vx-plus-500-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1261/1962106/thumbnails/sursa-aerocool-vx-pl
 9/21/2020 7:47:17 AM 172,20 RON
 9/24/2020 1:03:27 PM 174,54 RON
 9/25/2020 10:27:24 PM 175,99 RON
+9/30/2020 6:06:38 PM 174,91 RON

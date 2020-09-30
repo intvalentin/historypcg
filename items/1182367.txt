@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ces-400b
 1182367
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/coba-ces-400b-80-plus-bronze-400w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862960/1182367/thumbnails/coba-ces-400b-80-p
 9/21/2020 7:46:05 AM 206,34 RON
 9/24/2020 12:53:10 PM 209,15 RON
 9/25/2020 10:24:29 PM 210,89 RON
+9/30/2020 5:01:02 PM 209,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacgrs550v3
 1163131
     Product link    
 https://www.pcgarage.ro/surse/cougar/rs550-v3-80-plus-550w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/1163131/thumbnails/rs550-v3-80-plus-5
 9/21/2020 7:46:06 AM 267,75 RON
 9/24/2020 12:53:10 PM 267,75 RON
 9/25/2020 10:24:29 PM 267,75 RON
+9/30/2020 5:11:55 PM 267,75 RON

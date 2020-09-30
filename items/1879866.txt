@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c15s-16gis
 1879866
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-2400mhz-cl15-12v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1879866/thumbnails/aegis-16gb-ddr4-3000
 9/21/2020 7:40:46 AM 262,74 RON
 9/24/2020 8:44:49 AM 293,60 RON
 9/25/2020 9:18:48 PM 297,00 RON
+9/30/2020 8:24:21 AM 296,61 RON

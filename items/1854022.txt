@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za3840nm10011
 1854022
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-110-384tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848722/1854022/thumbnails/ironwolf-110-384t
 9/21/2020 7:44:58 AM 3.915,26 RON
 9/24/2020 11:03:59 AM 3.960,88 RON
 9/25/2020 10:02:37 PM 3.993,46 RON
+9/30/2020 3:11:10 PM 3.994,76 RON

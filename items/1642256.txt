@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21683
 1642256
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt105-izza/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/922/1642256/thumbnails/gxt105-izza-e362871b2
 9/21/2020 7:59:43 AM 43,99 RON
 9/24/2020 7:03:58 PM 36,99 RON
 9/26/2020 10:05:41 AM 36,99 RON
+9/29/2020 11:09:45 PM 36,99 RON

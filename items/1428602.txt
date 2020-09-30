@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asd700-256gu3-cyl
 1428602
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sd700-256gb-usb-31-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/842306/1428602/thumbnails/sd700-256gb-usb-31
 9/21/2020 7:42:44 AM 228,57 RON
 9/24/2020 10:35:06 AM 231,14 RON
 9/25/2020 9:53:41 PM 233,17 RON
+9/30/2020 11:45:46 AM 233,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp-m350
 1489314
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/vp-m350-350w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1169071/1489314/thumbnails/vp-m350-350w-dd14
 9/21/2020 7:47:26 AM 253,08 RON
 9/24/2020 1:24:11 PM 256,52 RON
 9/25/2020 10:35:35 PM 258,65 RON
+9/30/2020 6:39:34 PM 257,06 RON

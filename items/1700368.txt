@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km120gsmv32
 1700368
     Product link    
 https://www.pcgarage.ro/ssd/kingmax/smv32-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692136/1700368/thumbnails/km120gsmv32-120gb
 9/21/2020 7:42:40 AM 89,09 RON
 9/24/2020 10:28:54 AM 90,30 RON
 9/25/2020 9:51:27 PM 97,36 RON
+9/30/2020 1:01:51 PM 90,62 RON

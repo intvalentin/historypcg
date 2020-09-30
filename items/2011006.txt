@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x299 pro 10g
 2011006
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/x299-pro-10g/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011006/thumbnails/x299-pro-10g-7b4520a
 9/21/2020 7:37:13 AM 1.926,01 RON
 9/23/2020 7:37:21 PM 1.935,63 RON
 9/25/2020 8:37:27 PM 1.958,03 RON
+9/29/2020 6:53:52 PM 1.955,46 RON

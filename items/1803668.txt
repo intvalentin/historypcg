@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |
 1803668
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z390-phantom-gaming-6/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4338/1803668/thumbnails/z390-phantom-gaming-
 9/21/2020 7:37:04 AM 992,20 RON
 9/23/2020 10:15:59 PM 1.003,45 RON
 9/25/2020 8:39:41 PM 1.011,96 RON
+9/29/2020 5:45:07 PM 1.012,22 RON
+9/29/2020 5:58:04 PM 1.012,22 RON

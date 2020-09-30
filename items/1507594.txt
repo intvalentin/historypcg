@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts120gmts820
 1507594
     Product link    
 https://www.pcgarage.ro/ssd/transcend/mts820-120gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1489074/1507594/thumbnails/mts820-120gb-sata
 9/21/2020 7:42:53 AM 89,15 RON
 9/24/2020 10:35:06 AM 90,09 RON
 9/25/2020 9:53:41 PM 90,90 RON
+9/30/2020 1:02:08 PM 90,77 RON

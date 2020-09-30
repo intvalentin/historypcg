@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-bfx500-eu
 1885074
     Product link    
 https://www.pcgarage.ro/surse/riotoro/builder-edition-80-plus-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1885074/thumbnails/builder-edition-500w
 9/21/2020 7:47:21 AM 226,84 RON
 9/24/2020 1:07:36 PM 229,92 RON
 9/25/2020 10:29:39 PM 231,83 RON
+9/30/2020 6:28:45 PM 230,41 RON

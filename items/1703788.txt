@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |msi x299 xpower gaming ac
 1703788
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/x299-xpower-gaming-ac/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1703788/thumbnails/x299-xpower-gamin
 9/21/2020 7:37:13 AM 2.140,09 RON
 9/23/2020 10:22:12 PM 2.169,19 RON
 9/25/2020 8:42:41 PM 2.187,21 RON
+9/29/2020 6:55:32 PM 2.176,97 RON

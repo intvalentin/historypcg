@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-500r14se
 1124148
     Product link    
 https://www.pcgarage.ro/surse/super-flower/sf-500r14se-500w-80-plus-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/255443/1124148/thumbnails/sf-500r14se-500w-8
 9/21/2020 7:47:44 AM 332,28 RON
 9/24/2020 1:46:39 PM 336,80 RON
 9/25/2020 10:47:24 PM 339,59 RON
+9/30/2020 7:11:59 PM 337,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ht-drc009ecre
 734786
     Product link    
 https://www.pcgarage.ro/casti-gaming/tt-esports/tt-esports-dracco-captain/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/734786/thumbnails/tt-esports-dracco-c
 9/21/2020 8:01:41 AM 419,98 RON
 9/24/2020 7:27:58 PM 427,98 RON
 9/26/2020 10:31:24 AM 427,98 RON
+9/30/2020 11:25:49 AM 425,98 RON

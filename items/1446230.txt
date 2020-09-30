@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts256gssd230s
 1446230
     Product link    
 https://www.pcgarage.ro/ssd/transcend/230-series-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/1446230/thumbnails/230-series-128gb-
 9/21/2020 7:44:02 AM 182,37 RON
 9/24/2020 11:18:33 AM 184,40 RON
 9/25/2020 9:53:41 PM 184,94 RON
+9/30/2020 1:21:20 PM 184,94 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mu-pb500b+-+eu
 1773008
     Product link    
 https://www.pcgarage.ro/ssd/samsung/x5-500gb-thunderbolt-3-type-c/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1773008/thumbnails/x5-500gb-thunderbolt
 9/21/2020 7:43:01 AM 1.134,64 RON
 9/24/2020 10:24:46 AM 1.128,00 RON
 9/25/2020 9:50:00 PM 1.115,35 RON
+9/30/2020 12:46:58 PM 1.105,19 RON

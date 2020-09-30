@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm500-gs ii
 1078214
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm500-gs-ii-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/815230/1078214/thumbnails/zm500-gs-ii-500w-1
 9/21/2020 7:47:26 AM 245,28 RON
 9/24/2020 1:46:39 PM 248,61 RON
 9/25/2020 10:48:09 PM 250,68 RON
+9/30/2020 6:36:03 PM 249,14 RON

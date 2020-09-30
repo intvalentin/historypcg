@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020172-eu
 1633678
     Product link    
 https://www.pcgarage.ro/surse/corsair/vs-series-vs650-80-plus-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1630882/1633678/thumbnails/vs-series-vs650-8
 9/21/2020 7:47:36 AM 291,34 RON
 9/24/2020 1:15:54 PM 294,15 RON
 9/25/2020 10:32:37 PM 296,65 RON
+9/30/2020 6:56:21 PM 295,19 RON

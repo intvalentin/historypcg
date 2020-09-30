@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu750ss-512gt-c
 1839400
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su750-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2863/1839400/thumbnails/su750-256gb-sata-iii
 9/21/2020 7:42:48 AM 311,34 RON
 9/24/2020 11:04:00 AM 312,90 RON
 9/25/2020 10:02:37 PM 316,52 RON
+9/30/2020 1:44:21 PM 316,10 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-f7
 1128628
     Product link    
 https://www.pcgarage.ro/surse/segotep/super-battleship-f7-500w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/960827/1128628/thumbnails/super-battleship-f
 9/21/2020 7:47:17 AM 180,92 RON
 9/24/2020 1:44:34 PM 183,38 RON
 9/25/2020 10:47:24 PM 184,90 RON
+9/30/2020 6:07:43 PM 183,77 RON

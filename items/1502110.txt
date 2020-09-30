@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xonar_ae
 1502110
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/asus/xonar-ae/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1263508/1502110/thumbnails/xonar-ae-431fa110
 9/21/2020 7:59:16 AM 234,81 RON
 9/24/2020 6:57:35 PM 238,00 RON
 9/26/2020 9:59:12 AM 240,04 RON
+9/29/2020 10:40:19 PM 260,07 RON

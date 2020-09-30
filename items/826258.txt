@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx318c10fb+-+4
 826258
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/hyperx-fury-black-4gb-ddr3-1866-mhz-cl10/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/826258/thumbnails/hyperx-fury-black-4
 9/21/2020 7:40:22 AM 112,17 RON
 9/24/2020 9:26:28 AM 113,44 RON
 9/25/2020 9:39:06 PM 114,44 RON
+9/29/2020 11:00:55 PM 114,44 RON

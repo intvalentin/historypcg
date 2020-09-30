@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-asacne2200tttda
 2059934
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/aorus-raid-aic-2tb-pci-express-30-add-in-card/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2059934/thumbnails/aorus-raid-aic-2tb-p
 9/21/2020 7:44:50 AM 2.038,77 RON
 9/24/2020 10:49:27 AM 2.060,26 RON
 9/25/2020 9:57:25 PM 2.084,10 RON
+9/30/2020 3:00:15 PM 2.081,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp01e0-b0ua00
 2026022
     Product link    
 https://www.pcgarage.ro/mouse-gaming/asus/rog-strix-impact-ii/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2026022/thumbnails/rog-strix-impact-ii-
 9/21/2020 7:59:40 AM 219,99 RON
 9/24/2020 7:01:51 PM 219,99 RON
 9/26/2020 10:03:29 AM 219,99 RON
+9/30/2020 7:59:00 AM 189,99 RON

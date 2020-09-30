@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st3000vx009
 1632790
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-3tb-5400rpm-sata-iii-256mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1112123/1632790/thumbnails/skyhawk-3tb-5400r
 9/21/2020 7:45:06 AM 419,99 RON
 9/24/2020 11:24:44 AM 419,99 RON
 9/25/2020 10:10:01 PM 419,99 RON
+9/30/2020 3:40:40 PM 419,99 RON

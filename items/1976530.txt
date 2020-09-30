@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1000cm10003
 1976530
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-120-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1976530/thumbnails/barracuda-120-250gb-
 9/21/2020 7:42:36 AM 514,37 RON
 9/24/2020 9:53:04 AM 520,21 RON
 9/25/2020 9:46:20 PM 524,60 RON
+9/30/2020 12:22:08 PM 524,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mu-pa2t0b+-+eu
 1631818
     Product link    
 https://www.pcgarage.ro/ssd/samsung/portable-t5-2tb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1630882/1631818/thumbnails/portable-t5-2tb-u
 9/21/2020 7:42:40 AM 1.564,34 RON
 9/24/2020 10:30:58 AM 1.555,21 RON
 9/25/2020 10:06:21 PM 1.536,97 RON
+9/30/2020 11:27:15 AM 1.473,94 RON

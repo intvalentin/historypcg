@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apc001356
 1750100
     Product link    
 https://www.pcgarage.ro/mouse-pad/white-shark/tmp-110-ascended/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1749840/1750100/thumbnails/ascended-c1850552
 9/21/2020 8:00:34 AM 129,98 RON
 9/24/2020 7:15:37 PM 129,98 RON
 9/26/2020 10:18:51 AM 129,98 RON
+9/30/2020 9:49:20 AM 129,98 RON

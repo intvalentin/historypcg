@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gps-400a8
 463115
     Product link    
 https://www.pcgarage.ro/surse/chieftec/smart-series-gps-400a8/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/463115/thumbnails/smart-series-gps-400a8-2
 9/21/2020 7:46:01 AM 210,27 RON
 9/24/2020 12:57:16 PM 214,11 RON
 9/25/2020 10:25:55 PM 214,40 RON
+9/30/2020 5:01:52 PM 213,08 RON

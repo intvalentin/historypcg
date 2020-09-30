@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c15fb3k4+-+64
 1954322
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-64gb-ddr4-3000mhz-cl15-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5758/1954322/thumbnails/fury-black-64gb-ddr4
 9/21/2020 7:41:44 AM 1.664,10 RON
 9/24/2020 8:40:40 AM 1.683,26 RON
 9/25/2020 9:16:32 PM 1.696,94 RON
+9/30/2020 10:27:57 AM 1.696,94 RON

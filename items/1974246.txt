@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skt2-bk
 1974246
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/orico/skt2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1974246/thumbnails/skt2-2514e5c5bf08dd9
 9/21/2020 7:59:20 AM 27,46 RON
 9/24/2020 6:58:19 PM 28,07 RON
 9/26/2020 9:59:56 AM 28,06 RON
+9/29/2020 10:56:23 PM 27,93 RON

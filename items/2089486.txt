@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23797
 2089486
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-160x-ture-rgb/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7008/2089486/thumbnails/gxt-160x-ture-rgb-de
     Pret    
 9/24/2020 7:04:41 PM 129,98 RON
 9/26/2020 10:06:25 AM 129,98 RON
+9/30/2020 8:22:28 AM 129,98 RON

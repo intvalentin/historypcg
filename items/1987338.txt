@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |212608-99
 1987338
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-300hc-nintendo-switch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/370411/1987338/thumbnails/rig-300hc-nintendo
 9/21/2020 8:02:09 AM 211,98 RON
 9/24/2020 7:28:43 PM 211,98 RON
 9/26/2020 10:32:09 AM 211,98 RON
+9/30/2020 11:57:23 AM 211,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e20103a
 1786712
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/2gb-ddr2-800mhz-cl6-10/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1779504/1786712/thumbnails/2gb-ddr2-800mhz-c
 9/21/2020 7:40:17 AM 56,22 RON
 9/24/2020 8:57:17 AM 56,99 RON
 9/25/2020 9:23:16 PM 57,46 RON
+9/29/2020 10:33:51 PM 57,19 RON

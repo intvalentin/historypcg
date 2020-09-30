@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080002
 1481354
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xiv-a-realm-reborn-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427466/1481354/thumbnails/final-fantasy-xiv
 9/21/2020 8:04:43 AM 149,98 RON
 9/25/2020 12:03:58 AM 149,98 RON
 9/26/2020 11:17:40 AM 149,98 RON
+9/30/2020 3:50:52 PM 149,98 RON

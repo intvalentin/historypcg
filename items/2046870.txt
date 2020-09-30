@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23574
 2046870
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-940-xidon-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2046870/thumbnails/gxt-940-xidon-rgb
 9/21/2020 7:59:43 AM 129,99 RON
 9/24/2020 7:01:09 PM 129,99 RON
 9/26/2020 10:02:47 AM 129,99 RON
+9/29/2020 11:21:13 PM 129,99 RON

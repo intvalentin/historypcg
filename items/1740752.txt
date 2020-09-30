@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu650ss-960gt-r
 1740752
     Product link    
 https://www.pcgarage.ro/ssd/a-data/ultimate-su650-960gb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1740752/thumbnails/ultimate-su650-96
 9/21/2020 7:42:40 AM 455,20 RON
 9/24/2020 10:26:50 AM 461,39 RON
 9/25/2020 9:50:43 PM 465,22 RON
+9/30/2020 12:19:12 PM 479,02 RON

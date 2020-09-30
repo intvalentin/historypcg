@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-p2-bn
 1678268
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/gamdias/hermes-p2-optical-brown-mecanica/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1664836/1678268/thumbnails/hermes-p2-optical
 9/24/2020 7:45:36 PM 497,98 RON
 9/24/2020 11:29:52 PM 497,98 RON
 9/26/2020 10:42:33 AM 497,98 RON
+9/30/2020 12:59:54 PM 493,98 RON

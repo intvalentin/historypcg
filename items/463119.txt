@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gps-600a8
 463119
     Product link    
 https://www.pcgarage.ro/surse/chieftec/smart-series-gps-600a8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/463119/thumbnails/smart-series-gps-600a8-e
 9/21/2020 7:47:31 AM 262,07 RON
 9/24/2020 1:59:06 PM 266,94 RON
 9/25/2020 10:52:30 PM 267,23 RON
+9/30/2020 6:44:08 PM 265,61 RON

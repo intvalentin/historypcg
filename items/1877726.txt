@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cx-9055020-ww
 1877726
     Product link    
 https://www.pcgarage.ro/watercooling/corsair/hydro-x-series-xf-ball-valve-chrome/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1867706/1877726/thumbnails/hydro-x-series-xf
 9/21/2020 7:59:03 AM 89,76 RON
 9/24/2020 6:54:39 PM 89,87 RON
 9/26/2020 9:56:18 AM 90,01 RON
+9/29/2020 10:12:40 PM 89,98 RON

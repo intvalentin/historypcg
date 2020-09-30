@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22090
 1702228
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-108-rava/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1702228/thumbnails/gxt-108-rava-2fab
 9/21/2020 7:59:51 AM 39,98 RON
 9/24/2020 7:06:53 PM 39,98 RON
 9/26/2020 10:08:37 AM 39,98 RON
+9/30/2020 8:13:10 AM 39,98 RON

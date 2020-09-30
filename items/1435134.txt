@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg37vanxnmb0002
 1435134
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/cougar/vantar/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1112123/1435134/thumbnails/vantar-a23ee7c16c
 9/24/2020 7:50:47 PM 189,99 RON
 9/24/2020 11:35:01 PM 189,99 RON
 9/26/2020 10:47:45 AM 189,99 RON
+9/30/2020 12:26:35 PM 169,99 RON

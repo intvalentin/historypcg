@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bbs-700s
 2053246
     Product link    
 https://www.pcgarage.ro/surse/chieftec/core-bbs-700s-80-plus-gold-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053246/thumbnails/core-bbs-700s-80-plu
 9/21/2020 7:46:14 AM 402,15 RON
 9/24/2020 12:38:48 PM 406,79 RON
 9/25/2020 10:18:45 PM 410,13 RON
+9/30/2020 5:32:43 PM 407,67 RON

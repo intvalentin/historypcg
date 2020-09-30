@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-s400u-480-80
 1715664
     Product link    
 https://www.pcgarage.ro/ssd/goodram/s400u-480gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1355324/1715664/thumbnails/s400u-120gb-sata-
 9/21/2020 7:44:36 AM 746,12 RON
 9/24/2020 11:10:13 AM 741,62 RON
 9/25/2020 10:04:51 PM 733,39 RON
+9/30/2020 2:32:53 PM 726,61 RON

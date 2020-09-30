@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mtfddak3t8tdc-1at1zabyy
 1990730
     Product link    
 https://www.pcgarage.ro/ssd/micron/5200-eco-384tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1990730/thumbnails/ssd-sata25-quot-3
 9/21/2020 7:44:55 AM 2.896,39 RON
 9/24/2020 10:55:41 AM 2.926,93 RON
 9/25/2020 9:58:54 PM 2.960,79 RON
+9/30/2020 3:05:50 PM 2.956,91 RON

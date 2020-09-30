@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sagmvp700rgb
 2040114
     Product link    
 https://www.pcgarage.ro/surse/gamemax/vp-700-rgb-80-plus-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2040114/thumbnails/vp-500-rgb-80-plu
 9/21/2020 7:45:57 AM 274,43 RON
 9/24/2020 12:38:48 PM 274,43 RON
 9/25/2020 10:26:40 PM 274,43 RON
+9/30/2020 6:46:53 PM 274,43 RON

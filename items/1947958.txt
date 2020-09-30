@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eph4163016ad
 1947958
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/phoenix-16gb-ddr4-3000mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1821372/1947958/thumbnails/phoenix-16gb-ddr4
 9/21/2020 7:41:01 AM 401,18 RON
 9/24/2020 8:40:40 AM 406,63 RON
 9/25/2020 9:17:16 PM 410,01 RON
+9/30/2020 8:49:13 AM 408,09 RON

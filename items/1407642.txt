@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000dm010
 1407642
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-1tb-sata-iii-7200rpm-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1301183/1407642/thumbnails/barracuda-1tb-sat
 9/21/2020 7:45:02 AM 189,99 RON
 9/24/2020 11:26:46 AM 189,99 RON
 9/25/2020 10:10:44 PM 189,99 RON
+9/30/2020 3:37:07 PM 189,99 RON

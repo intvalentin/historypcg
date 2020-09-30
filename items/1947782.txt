@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spd-0600mnsabe-1
 1947782
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-bm1-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1947782/thumbnails/smart-bm1-80-plus-br
 9/21/2020 7:47:40 AM 327,38 RON
 9/24/2020 1:03:27 PM 331,83 RON
 9/25/2020 10:28:09 PM 334,59 RON
+9/30/2020 7:10:03 PM 332,54 RON

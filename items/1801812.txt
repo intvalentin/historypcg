@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt64gx4m4c3000c15
 1801812
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-64gb-ddr4-3000mhz-cl15-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1804216/1801812/thumbnails/dominator-platinu
 9/21/2020 7:41:49 AM 1.759,89 RON
 9/24/2020 8:55:12 AM 1.780,42 RON
 9/25/2020 9:22:31 PM 1.794,10 RON
+9/30/2020 10:29:51 AM 1.795,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgm01rgb
 1986522
     Product link    
 https://www.pcgarage.ro/mouse-gaming/canyon/cnd-sgm01rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1986522/thumbnails/star-raider-00d387
 9/21/2020 8:00:13 AM 29,98 RON
 9/24/2020 7:05:25 PM 29,98 RON
 9/26/2020 10:07:10 AM 29,98 RON
+9/30/2020 8:12:04 AM 29,98 RON

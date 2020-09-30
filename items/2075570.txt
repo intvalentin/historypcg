@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx432c16pb3ak4+-+128
 2075570
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-rgb-128gb-ddr4-3200mhz-cl16-quad-channel-kit/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2075570/thumbnails/predator-rgb-128gb-d
     Pret    
 9/24/2020 12:00:30 AM 3.142,21 RON
 9/25/2020 9:10:34 PM 3.168,21 RON
+9/30/2020 10:48:21 AM 3.169,58 RON

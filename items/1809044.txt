@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ns38-1tt-c
 1809044
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-1tb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1363661/1809044/thumbnails/su800-128gb-sata-
 9/21/2020 7:44:36 AM 745,52 RON
 9/24/2020 11:06:04 AM 754,14 RON
 9/25/2020 10:03:21 PM 760,38 RON
+9/30/2020 2:34:58 PM 760,64 RON

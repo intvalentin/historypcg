@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eps-650
 85079
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/energon-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/85079/thumbnails/energon-650w-ab4a605396b1
 9/21/2020 7:47:17 AM 192,56 RON
 9/24/2020 2:03:13 PM 195,18 RON
 9/25/2020 10:53:13 PM 196,80 RON
+9/30/2020 6:15:11 PM 195,59 RON

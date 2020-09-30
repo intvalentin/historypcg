@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb350
 1429870
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb-350-led-lighting-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1146523/1429870/thumbnails/rgb-350-led-light
 9/21/2020 7:58:42 AM 72,46 RON
 9/24/2020 6:52:27 PM 74,08 RON
 9/26/2020 9:54:04 AM 74,06 RON
+9/29/2020 9:48:15 PM 73,71 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix b550-i gaming
 2067774
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-b550-i-gaming/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2067774/thumbnails/rog-strix-b550-i-gam
 9/21/2020 7:36:23 AM 1.188,99 RON
 9/23/2020 7:31:10 PM 1.194,93 RON
 9/25/2020 8:35:12 PM 1.208,76 RON
+9/29/2020 6:39:39 PM 1.207,17 RON

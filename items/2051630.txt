@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk128gx4m4x4000c18
 2051630
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-128gb-ddr4-4000mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/2051630/thumbnails/vengeance-lpx-black-
 9/21/2020 7:42:06 AM 6.808,08 RON
 9/24/2020 12:06:46 AM 6.879,86 RON
 9/25/2020 9:12:47 PM 6.959,45 RON
+9/30/2020 10:59:55 AM 6.950,32 RON

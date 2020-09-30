@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5ms24aa#abb
 1806916
     Product link    
 https://www.pcgarage.ro/ssd/hp/ex950-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4338/1806916/thumbnails/ex950-2tb-pci-expres
 9/21/2020 7:42:36 AM 1.209,83 RON
 9/24/2020 10:22:42 AM 1.215,89 RON
 9/25/2020 9:49:15 PM 1.229,95 RON
+9/30/2020 12:48:03 PM 1.228,34 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm1010083
 1605250
     Product link    
 https://www.pcgarage.ro/jocuri/ubisoft/assassins-creed-origins-deluxe-edition-pentru-pc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1541210/1605250/thumbnails/assassins-creed-o
 9/21/2020 8:06:52 AM 344,98 RON
 9/24/2020 11:58:07 PM 344,98 RON
 9/26/2020 11:10:55 AM 344,98 RON
+9/30/2020 6:51:16 PM 344,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000vn004
 1407718
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-2tb-sata-iii-5900rpm-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1113903/1407718/thumbnails/ironwolf-2tb-sata
 9/21/2020 7:45:02 AM 379,99 RON
 9/24/2020 11:26:46 AM 379,99 RON
 9/25/2020 10:10:44 PM 379,99 RON
+9/30/2020 3:39:51 PM 379,99 RON

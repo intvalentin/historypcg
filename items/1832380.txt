@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-rgh202
 1832380
     Product link    
 https://www.pcgarage.ro/casti-gaming/t-dagger/ural-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5664/1832380/thumbnails/ural-black-2d789a53b
 9/21/2020 8:01:23 AM 97,98 RON
 9/24/2020 7:25:46 PM 99,98 RON
 9/26/2020 10:29:11 AM 99,98 RON
+9/30/2020 10:55:21 AM 97,98 RON

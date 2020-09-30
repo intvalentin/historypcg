@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r009d408gx2-3000c16b
 1968146
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/toughram-rgb-16gb-ddr4-3000mhz-cl16-dual-channel/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8977/1968146/thumbnails/toughram-rgb-16gb-dd
 9/21/2020 7:41:15 AM 579,04 RON
 9/24/2020 8:36:30 AM 586,91 RON
 9/25/2020 9:15:47 PM 591,79 RON
+9/30/2020 9:17:22 AM 589,02 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-s7-gt
 1128658
     Product link    
 https://www.pcgarage.ro/surse/segotep/super-battleship-s7-gt-450w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/1128658/thumbnails/super-battleship-s7-gt-
 9/21/2020 7:47:12 AM 150,50 RON
 9/24/2020 1:44:34 PM 150,50 RON
 9/25/2020 10:47:24 PM 150,50 RON
+9/30/2020 6:03:55 PM 150,50 RON

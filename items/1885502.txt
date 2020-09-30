@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-de600us-ph
 1885502
     Product link    
 https://www.pcgarage.ro/surse/deepcool/de600-450w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1885090/1885502/thumbnails/de600-450w-d685d3
 9/21/2020 7:47:17 AM 152,23 RON
 9/24/2020 1:05:32 PM 154,30 RON
 9/25/2020 10:28:54 PM 155,58 RON
+9/30/2020 6:05:17 PM 154,63 RON

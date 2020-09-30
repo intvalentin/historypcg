@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e2000+-+256g
 2026998
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/ssd-e2000-256gb-nvme-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2026998/thumbnails/e2000-256gb-pci-expr
 9/21/2020 7:43:43 AM 271,56 RON
 9/24/2020 10:53:36 AM 274,43 RON
 9/25/2020 9:58:09 PM 277,60 RON
+9/30/2020 1:38:59 PM 277,24 RON

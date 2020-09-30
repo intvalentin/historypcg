@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4110003
 1814916
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xii-the-zodiac-age-pentru-nintendo-switch/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3645/1814916/thumbnails/final-fantasy-xii-th
 9/24/2020 8:03:26 PM 244,98 RON
 9/24/2020 11:47:41 PM 244,98 RON
 9/26/2020 10:59:42 AM 244,98 RON
+9/30/2020 5:52:20 PM 244,98 RON

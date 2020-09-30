@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt32gx4m2c3466c16
 1841284
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-rgb-32gb-ddr4-3466mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1804216/1841284/thumbnails/dominator-platinu
 9/21/2020 7:41:39 AM 1.227,60 RON
 9/24/2020 8:51:03 AM 1.240,53 RON
 9/25/2020 9:21:02 PM 1.282,86 RON
+9/30/2020 10:16:43 AM 1.281,18 RON

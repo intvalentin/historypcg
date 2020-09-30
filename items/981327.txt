@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m4a2133c13
 981327
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-32gb-ddr4-2133mhz-cl13-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/981327/thumbnails/vengeance-lpx-32gb-ddr4-
 9/21/2020 7:41:20 AM 644,25 RON
 9/24/2020 9:24:23 AM 700,84 RON
 9/25/2020 9:37:37 PM 706,64 RON
+9/30/2020 9:31:06 AM 706,92 RON

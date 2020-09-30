@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |BLKD2700DC
 305383
     Product link    
 https://www.pcgarage.ro/placi-de-baza/intel/d2700dc-bulk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/305383/thumbnails/mb-desktop-8e5d94a6728d6
 9/21/2020 7:36:41 AM 436,86 RON
 9/23/2020 10:56:31 PM 442,80 RON
 9/25/2020 8:47:09 PM 446,48 RON
+9/29/2020 5:03:03 PM 445,99 RON

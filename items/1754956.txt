@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |vcqrtx6000-pb
 1754956
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/pny/pny-nvidia-quadro-rtx-6000-24gb-gddr6-384-bit-4xdp-virtuallink/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/6763/1754956/thumbnails/nvidia-quadro-rtx-60
 9/25/2020 8:20:27 PM 22.937,61 RON
 9/28/2020 8:05:07 PM 23.025,31 RON
 9/28/2020 8:15:44 PM 23.025,31 RON
+9/29/2020 9:12:52 PM 22.944,15 RON

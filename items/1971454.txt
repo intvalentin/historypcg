@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgm04rgb
 1971454
     Product link    
 https://www.pcgarage.ro/mouse-gaming/canyon/sulaco-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1971454/thumbnails/sulaco-rgb-008891030
 9/21/2020 8:00:13 AM 51,98 RON
 9/24/2020 7:09:04 PM 53,98 RON
 9/26/2020 10:10:07 AM 53,98 RON
+9/30/2020 8:41:26 AM 53,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |de430
 983267
     Product link    
 https://www.pcgarage.ro/surse/deepcool/de430-430w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/983267/thumbnails/explorer-series-de4
 9/21/2020 7:47:12 AM 103,95 RON
 9/24/2020 1:48:43 PM 105,36 RON
 9/25/2020 10:48:09 PM 106,23 RON
+9/30/2020 6:00:24 PM 105,58 RON

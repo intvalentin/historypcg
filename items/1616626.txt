@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-038-co1otn-f1
 1616626
     Product link    
 https://www.pcgarage.ro/modding/thermaltake/riing-rgb-controller-cable/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1578330/1616626/thumbnails/riing-rgb-control
 9/21/2020 7:58:49 AM 24,11 RON
 9/24/2020 6:51:43 PM 24,64 RON
 9/26/2020 9:53:20 AM 24,64 RON
+9/29/2020 9:44:08 PM 24,52 RON

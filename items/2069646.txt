@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1k5y2ea
 2069646
     Product link    
 https://www.pcgarage.ro/notebook-laptop/hp/gaming-156-omen-15-dh1002nq-fhd-ips-144hz-procesor-intel-core-i7-10750h-12m-cache-up-to-500-ghz-16gb-ddr4-1tb-7200-rpm-plus-256gb-ssd-geforce-gtx-1660-ti-6gb-free-dos-shadow-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2069646/thumbnails/gaming-156-omen-15-d
     Pret    
 9/20/2020 11:01:28 PM 7.083,67 RON
 9/25/2020 7:11:46 PM 7.102,17 RON
+9/29/2020 7:41:47 PM 7.099,70 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts128gssd420k
 1426082
     Product link    
 https://www.pcgarage.ro/ssd/transcend/420k-series-128gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986422/1426082/thumbnails/420-series-128gb-s
 9/21/2020 7:44:11 AM 348,48 RON
 9/24/2020 11:18:34 AM 352,47 RON
 9/25/2020 10:07:51 PM 355,39 RON
+9/30/2020 1:50:28 PM 355,52 RON

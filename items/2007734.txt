@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjm1000400
 2007734
     Product link    
 https://www.pcgarage.ro/ssd/seagate/fast-black-1tb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/2007734/thumbnails/fast-2tb-usb-30-ti
 9/21/2020 7:43:52 AM 680,46 RON
 9/24/2020 10:55:41 AM 687,34 RON
 9/25/2020 9:58:54 PM 694,13 RON
+9/30/2020 2:29:22 PM 676,83 RON

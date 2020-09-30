@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-p750gm
 2058674
     Product link    
 https://www.pcgarage.ro/surse/gigabyte/p750gm-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2058674/thumbnails/p750gm-80-plus-gold-
 9/21/2020 7:45:53 AM 521,56 RON
 9/24/2020 12:38:48 PM 518,99 RON
 9/25/2020 10:18:45 PM 530,23 RON
+9/30/2020 5:40:02 PM 527,63 RON

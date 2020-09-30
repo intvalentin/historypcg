@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bdf-400s
 1504326
     Product link    
 https://www.pcgarage.ro/surse/chieftec/proton-series-80-plus-bronze-400w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301183/1504326/thumbnails/proton-series-80-
 9/21/2020 7:46:23 AM 284,79 RON
 9/24/2020 12:51:08 PM 290,10 RON
 9/25/2020 10:23:46 PM 290,55 RON
+9/30/2020 5:15:05 PM 288,77 RON

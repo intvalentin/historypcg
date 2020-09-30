@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vpr100-256gm28h
 1978186
     Product link    
 https://www.pcgarage.ro/ssd/patriot/vpr100-rgb-256gb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1978186/thumbnails/vpr100-rgb-256gb-pci
 9/21/2020 7:43:38 AM 315,36 RON
 9/24/2020 10:57:45 AM 318,69 RON
 9/25/2020 10:00:24 PM 322,38 RON
+9/30/2020 1:45:25 PM 321,95 RON

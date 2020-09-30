@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apc001365
 1750136
     Product link    
 https://www.pcgarage.ro/mouse-pad/white-shark/mp-vestige/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1750136/thumbnails/mp-vestige-d6350faea
 9/21/2020 8:00:42 AM 25,98 RON
 9/24/2020 7:15:37 PM 25,98 RON
 9/26/2020 10:18:51 AM 25,98 RON
+9/30/2020 9:34:18 AM 25,98 RON

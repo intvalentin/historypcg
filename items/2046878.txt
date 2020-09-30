@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23577
 2046878
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/trust/gxt-856-torac/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/2045418/2046878/thumbnails/gxt-856-torac-8ec
 9/24/2020 7:41:17 PM 79,99 RON
 9/24/2020 11:25:31 PM 79,99 RON
 9/26/2020 10:38:04 AM 79,99 RON
+9/30/2020 1:13:12 PM 89,99 RON

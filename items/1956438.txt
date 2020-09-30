@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16s-16gis
 1956438
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-3200mhz-cl16-135v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1956438/thumbnails/aegis-16gb-ddr4-3000
 9/21/2020 7:39:58 AM 263,44 RON
 9/24/2020 8:38:35 AM 266,39 RON
 9/25/2020 9:16:31 PM 268,64 RON
+9/30/2020 8:21:36 AM 280,15 RON

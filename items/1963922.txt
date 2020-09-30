@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ase800-512gu32g2-cbk
 1963922
     Product link    
 https://www.pcgarage.ro/ssd/a-data/se800-512gb-usb-32-tip-c-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/1963922/thumbnails/adata-external-ssd-s
 9/21/2020 7:42:36 AM 446,20 RON
 9/24/2020 9:55:08 AM 433,15 RON
 9/25/2020 9:46:20 PM 436,73 RON
+9/30/2020 12:16:11 PM 436,23 RON

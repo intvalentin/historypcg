@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp1920nm30011
 2011978
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-510-192tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011978/thumbnails/ironwolf-510-192tb-p
 9/21/2020 7:43:28 AM 2.078,73 RON
 9/24/2020 9:48:57 AM 2.089,14 RON
 9/25/2020 9:44:08 PM 2.113,30 RON
+9/30/2020 12:55:41 PM 2.110,52 RON

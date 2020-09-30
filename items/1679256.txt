@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX X470-I GAMING
 1679256
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-x470-i-gaming/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1664836/1679256/thumbnails/rog-strix-x470-i-
 9/21/2020 7:36:59 AM 892,98 RON
 9/23/2020 10:24:16 PM 902,40 RON
 9/25/2020 8:42:42 PM 912,83 RON
+9/29/2020 5:40:15 PM 911,63 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp120gbss3s56b25
 1528258
     Product link    
 https://www.pcgarage.ro/ssd/silicon-power/slim-s56-series-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1520902/1528258/thumbnails/slim-s56-series-1
 9/21/2020 7:43:01 AM 142,98 RON
 9/24/2020 10:33:02 AM 144,74 RON
 9/25/2020 9:52:57 PM 145,95 RON
+9/30/2020 11:33:31 AM 145,95 RON

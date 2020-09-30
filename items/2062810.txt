@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76e3t8e
 2062810
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-dct-38tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2062810/thumbnails/860-dct-384tb-sata-i
 9/21/2020 7:44:55 AM 3.315,61 RON
 9/24/2020 10:49:27 AM 3.296,06 RON
 9/25/2020 9:56:40 PM 3.259,56 RON
+9/30/2020 3:07:11 PM 3.229,58 RON

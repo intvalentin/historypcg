@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m2b3000c15w
 1722900
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-white-32gb-ddr4-3000mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1109408/1722900/thumbnails/vengeance-lpx-whi
 9/21/2020 7:41:15 AM 628,77 RON
 9/24/2020 9:01:27 AM 643,05 RON
 9/25/2020 9:24:46 PM 653,62 RON
+9/30/2020 9:24:40 AM 653,90 RON

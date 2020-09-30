@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8200np-240gt-c
 1663112
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8200-240gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1573/1663112/thumbnails/sx8200-240gb-pci-exp
 9/21/2020 7:43:43 AM 378,83 RON
 9/24/2020 11:12:19 AM 382,84 RON
 9/25/2020 10:05:36 PM 387,26 RON
+9/30/2020 1:56:06 PM 386,76 RON

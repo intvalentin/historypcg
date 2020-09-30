@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvs432g320c6
 2089290
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-steel-32gb-ddr4-3200mhz-cl16-135v/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1779504/2089290/thumbnails/patriot-viper-ste
     Pret    
 9/23/2020 11:08:47 PM 597,30 RON
 9/25/2020 8:52:12 PM 592,61 RON
+9/29/2020 9:44:27 PM 592,74 RON

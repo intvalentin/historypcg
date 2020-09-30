@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-700
 91687
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-700-700w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/91687/thumbnails/sl-700-700w-724e2989a58a7
 9/21/2020 7:47:17 AM 181,72 RON
 9/24/2020 2:03:13 PM 184,19 RON
 9/25/2020 10:53:13 PM 185,72 RON
+9/30/2020 6:07:59 PM 184,58 RON

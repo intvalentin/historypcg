@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sa2000m8+-+1000g
 1929554
     Product link    
 https://www.pcgarage.ro/ssd/kingston/a2000-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1929554/thumbnails/a2000-250gb-pci-expr
 9/21/2020 7:42:10 AM 509,15 RON
 9/24/2020 9:32:40 AM 509,15 RON
 9/25/2020 9:41:16 PM 509,15 RON
+9/30/2020 2:12:35 PM 528,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm4x8gd3000c16k4d
 2084078
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-8gb-ddr4-3000mhz-cl16-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/2084078/thumbnails/vengeance-lpx-blac
 9/21/2020 7:40:46 AM 248,98 RON
 9/24/2020 12:02:35 AM 248,98 RON
 9/25/2020 9:11:18 PM 248,98 RON
+9/30/2020 8:15:21 AM 248,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gd-dq550st
 1748020
     Product link    
 https://www.pcgarage.ro/surse/deepcool/dq550st-st-80-plus-gold-550w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1737700/1748020/thumbnails/dq550st-st-80-plu
 9/21/2020 7:47:40 AM 305,80 RON
 9/24/2020 1:13:49 PM 309,96 RON
 9/25/2020 10:31:53 PM 312,53 RON
+9/30/2020 7:02:57 PM 310,61 RON

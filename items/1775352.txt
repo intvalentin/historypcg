@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253st500g3c312
 1775352
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/t-force-delta-s-tuf-rgb-black-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1774300/1775352/thumbnails/t-force-delta-s-t
 9/21/2020 7:43:10 AM 399,04 RON
 9/24/2020 10:24:46 AM 403,56 RON
 9/25/2020 9:49:59 PM 407,01 RON
+9/30/2020 12:12:24 PM 407,14 RON

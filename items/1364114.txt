@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmu16gx4m2c3000c15
 1364114
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-white-led-16gb-ddr4-3000mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472773/1364114/thumbnails/vengeance-white-le
 9/21/2020 7:41:20 AM 695,36 RON
 9/24/2020 9:18:06 AM 698,83 RON
 9/25/2020 9:30:44 PM 706,93 RON
+9/30/2020 9:30:34 AM 706,01 RON

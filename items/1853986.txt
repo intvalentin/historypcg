@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ek.08g2t.gec
 1853986
     Product link    
 https://www.pcgarage.ro/memorii/apacer/panther-golden-8gb-ddr4-2400mhz-cl16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1853986/thumbnails/panther-golden-8gb-d
 9/21/2020 7:40:32 AM 177,17 RON
 9/24/2020 8:48:58 AM 179,15 RON
 9/25/2020 9:19:32 PM 180,71 RON
+9/29/2020 11:23:35 PM 180,71 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cruiser-q6
 1761600
     Product link    
 https://www.pcgarage.ro/surse/segotep/cruiser-q6-400w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1761600/thumbnails/cruiser-q6-400w-122d
 9/21/2020 7:47:12 AM 147,07 RON
 9/24/2020 1:11:44 PM 149,07 RON
 9/25/2020 10:31:08 PM 150,31 RON
+9/30/2020 6:02:37 PM 149,39 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mo-nms-wdoobk-01
 1623634
     Product link    
 https://www.pcgarage.ro/mouse-gaming/tt-esports/nemesis/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5633/1623634/thumbnails/nemesis-2974239c50d0
 9/21/2020 8:00:04 AM 285,98 RON
 9/24/2020 7:06:53 PM 291,98 RON
 9/26/2020 10:08:37 AM 291,98 RON
+9/30/2020 8:32:11 AM 289,98 RON

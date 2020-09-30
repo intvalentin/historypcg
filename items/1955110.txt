@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k587rgb-bk
 1955110
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/redragon/magic-wand-rgb-mecanica/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1953966/1955110/thumbnails/magic-wand-rgb-me
 9/24/2020 7:44:07 PM 359,99 RON
 9/24/2020 11:28:22 PM 359,99 RON
 9/26/2020 10:41:49 AM 359,99 RON
+9/30/2020 12:30:31 PM 239,99 RON

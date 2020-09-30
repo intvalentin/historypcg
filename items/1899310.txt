@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tm8fp5512g0c110
 1899310
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/cardea-ii-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1202/1899310/thumbnails/cardea-ii-256gb-pci-
 9/21/2020 7:43:14 AM 456,64 RON
 9/24/2020 9:57:12 AM 461,95 RON
 9/25/2020 9:47:04 PM 465,80 RON
+9/30/2020 12:18:23 PM 465,93 RON

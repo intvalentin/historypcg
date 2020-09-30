@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76p512b+-+eu
 1630946
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-pro-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1630882/1630946/thumbnails/860-pro-1tb-sata-
 9/21/2020 7:42:25 AM 767,69 RON
 9/24/2020 10:30:58 AM 775,22 RON
 9/25/2020 9:52:12 PM 777,33 RON
+9/30/2020 12:40:17 PM 797,72 RON

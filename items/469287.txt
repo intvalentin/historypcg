@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000nc001
 469287
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/2tb-sata-7200-rpm-64mb-constellation-cs/
@@ -8,3 +8,4 @@ Seagate Enterprise Value HDD 2TB SATA-III 7200 RPM 64MB
 https://3.grgs.ro/images/products/1/634551/469287/thumbnails/enterprise-value-hdd-2tb-7200rpm-64mb-sata-iii-cb66d826bbc062dcdd2acb82a26fe6b7.jpg
     Pret    
 9/25/2020 10:16:35 PM 643,10 RON
+9/30/2020 4:14:01 PM 639,94 RON

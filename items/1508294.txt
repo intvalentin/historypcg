@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tuf x299 mark 1
 1508294
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/tuf-x299-mark-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1489074/1508294/thumbnails/tuf-x299-mark-1-e
 9/21/2020 7:37:09 AM 1.545,68 RON
 9/23/2020 10:52:23 PM 1.561,98 RON
 9/25/2020 8:45:40 PM 1.580,05 RON
+9/29/2020 6:47:26 PM 1.577,97 RON

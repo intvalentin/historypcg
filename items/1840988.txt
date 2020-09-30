@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts512gmts830s
 1840988
     Product link    
 https://www.pcgarage.ro/ssd/transcend/830s-512gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6599/1840988/thumbnails/830s-512gb-sata-iii-
 9/21/2020 7:43:10 AM 326,12 RON
 9/24/2020 10:01:20 AM 329,91 RON
 9/25/2020 9:48:31 PM 332,60 RON
+9/30/2020 12:03:56 PM 332,75 RON

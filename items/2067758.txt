@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p210s256g25
 2067758
     Product link    
 https://www.pcgarage.ro/ssd/patriot/p210-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2067758/thumbnails/p210-512gb-sata-iii-
 9/21/2020 7:43:57 AM 135,95 RON
 9/24/2020 10:47:22 AM 137,37 RON
 9/25/2020 9:43:24 PM 139,73 RON
+9/30/2020 11:33:14 AM 139,55 RON

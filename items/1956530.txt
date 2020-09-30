@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t253tm001t3c302
 1956530
     Product link    
 https://www.pcgarage.ro/ssd/teamgroup/t-force-delta-max-rgb-1tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1953966/1956530/thumbnails/t-force-delta-max
 9/21/2020 7:43:19 AM 640,31 RON
 9/24/2020 10:59:50 AM 647,61 RON
 9/25/2020 10:01:07 PM 653,05 RON
+9/30/2020 2:26:45 PM 653,19 RON

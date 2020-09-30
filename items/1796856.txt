@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthk2000800
 1796856
     Product link    
 https://www.pcgarage.ro/ssd/lacie/portable-2tb-usb-30-tip-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1779504/1796856/thumbnails/portable-1tb-usb-
 9/21/2020 7:43:28 AM 1.597,92 RON
 9/24/2020 10:22:42 AM 1.605,91 RON
 9/25/2020 9:49:15 PM 1.624,49 RON
+9/30/2020 12:52:23 PM 1.622,36 RON

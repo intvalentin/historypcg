@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080066
 1601342
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/lost-sphear-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1578330/1601342/thumbnails/lost-sphear-pentr
 9/21/2020 8:04:06 AM 99,98 RON
 9/24/2020 11:58:07 PM 99,98 RON
 9/26/2020 11:10:55 AM 99,98 RON
+9/30/2020 2:58:57 PM 99,98 RON

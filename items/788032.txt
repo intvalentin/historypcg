@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-001-bn1nan-a1
 788032
     Product link    
 https://www.pcgarage.ro/fan-controllere/thermaltake/commander-f5/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/788032/thumbnails/commander-f5-16225e83647
 9/21/2020 7:58:32 AM 98,05 RON
 9/24/2020 6:48:51 PM 100,23 RON
 9/26/2020 9:50:25 AM 100,21 RON
+9/29/2020 9:27:59 PM 99,74 RON

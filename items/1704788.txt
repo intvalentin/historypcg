@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid7050002
 1704788
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/kingdom-hearts-3-pentru-xbox-one/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1691840/1704788/thumbnails/kingdom-hearts-3-
 9/24/2020 8:09:25 PM 149,98 RON
 9/24/2020 11:53:39 PM 149,98 RON
 9/26/2020 11:06:25 AM 149,98 RON
+9/30/2020 4:06:13 PM 149,98 RON

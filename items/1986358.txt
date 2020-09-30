@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ecssd256gx250
 1986358
     Product link    
 https://www.pcgarage.ro/ssd/emtec/power-plus-x250-256gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1986358/thumbnails/power-plus-x250-25
 9/21/2020 7:43:38 AM 165,29 RON
 9/24/2020 10:55:41 AM 167,03 RON
 9/25/2020 9:59:39 PM 168,96 RON
+9/30/2020 1:26:28 PM 216,55 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020209-eu
 1985642
     Product link    
 https://www.pcgarage.ro/surse/corsair/cv450-80-plus-bronze-450w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/1985642/thumbnails/cv450-80-plus-bron
 9/21/2020 7:45:49 AM 241,35 RON
 9/24/2020 1:01:24 PM 242,54 RON
 9/25/2020 10:20:14 PM 233,15 RON
+9/30/2020 5:05:26 PM 233,15 RON

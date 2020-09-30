@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpc-700s
 1300336
     Product link    
 https://www.pcgarage.ro/surse/chieftec/iarena-series-gpc-700s-700w-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/1300336/thumbnails/iarena-series-350w
 9/21/2020 7:46:59 AM 267,38 RON
 9/24/2020 1:40:25 PM 268,56 RON
 9/25/2020 10:45:10 PM 264,87 RON
+9/30/2020 6:39:51 PM 258,82 RON

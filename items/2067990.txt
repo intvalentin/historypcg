@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt01n930e-001t-e4x
 2067990
     Product link    
 https://www.pcgarage.ro/ssd/netac/n930e-pro-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2067990/thumbnails/n930e-pro-128gb-pci-
 9/21/2020 7:44:26 AM 478,80 RON
 9/24/2020 10:47:22 AM 483,85 RON
 9/25/2020 9:55:56 PM 489,45 RON
+9/30/2020 2:09:54 PM 488,80 RON

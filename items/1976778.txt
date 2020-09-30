@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sedc450r+-+3840g
 1976778
     Product link    
 https://www.pcgarage.ro/ssd/kingston/dc450r-384tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1976778/thumbnails/dc450r-384tb-sata-ii
 9/21/2020 7:44:55 AM 2.444,97 RON
 9/24/2020 10:57:45 AM 2.490,50 RON
 9/25/2020 10:00:24 PM 2.511,35 RON
+9/30/2020 3:03:13 PM 2.512,65 RON

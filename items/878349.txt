@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aps-620w
 878349
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-620w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/798262/878349/thumbnails/argus-620w-3e91c9c1
 9/21/2020 7:47:03 AM 200,84 RON
 9/24/2020 1:50:48 PM 203,57 RON
 9/25/2020 10:49:36 PM 205,26 RON
+9/30/2020 6:18:57 PM 204,00 RON

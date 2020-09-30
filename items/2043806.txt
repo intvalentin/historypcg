@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_kg940
 2043806
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/marvo/tastatura-marvo-kg940/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1034/2043806/thumbnails/kg940-mecanica-574ae
 9/24/2020 7:41:17 PM 286,18 RON
 9/24/2020 11:25:31 PM 286,18 RON
 9/26/2020 10:38:04 AM 286,18 RON
+9/30/2020 12:32:07 PM 286,18 RON

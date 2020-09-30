@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ep-650s (hpg-650br-h14c)
 478665
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/element-smart-650w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/478665/thumbnails/element-smart-650w-ep-65
 9/21/2020 7:47:44 AM 353,35 RON
 9/24/2020 1:59:06 PM 353,78 RON
 9/25/2020 10:51:46 PM 354,37 RON
+9/30/2020 7:35:58 PM 354,48 RON

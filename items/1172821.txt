@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020101
 1172821
     Product link    
 https://www.pcgarage.ro/surse/corsair/cx450m-80-plus-bronze-450w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/255443/1172821/thumbnails/cx450m-450w-acc7ed
 9/21/2020 7:46:06 AM 342,25 RON
 9/24/2020 12:53:10 PM 345,01 RON
 9/25/2020 10:24:29 PM 347,95 RON
+9/30/2020 5:24:03 PM 346,25 RON

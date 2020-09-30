@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx424c12pb3+-+16
 1528862
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-black-16gb-ddr4-2400mhz-cl12-135v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1190677/1528862/thumbnails/predator-black-8g
 9/21/2020 7:40:56 AM 379,71 RON
 9/24/2020 9:13:56 AM 384,06 RON
 9/25/2020 9:29:14 PM 387,29 RON
+9/30/2020 8:44:23 AM 387,43 RON

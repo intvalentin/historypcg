@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20429
 2029194
     Product link    
 https://www.pcgarage.ro/mouse-pad/trust/bigfoot-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8840/2029194/thumbnails/bigfoot-red-141bac40
 9/21/2020 8:00:34 AM 29,98 RON
 9/24/2020 7:13:23 PM 25,98 RON
 9/26/2020 10:16:37 AM 25,98 RON
+9/30/2020 9:34:35 AM 29,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m2k3600c19
 2029250
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-32gb-ddr4-3600mhz-cl19-2x16gb-135v/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/2029250/thumbnails/vengeance-lpx-black-
 9/21/2020 7:41:30 AM 908,82 RON
 9/24/2020 12:08:50 AM 918,41 RON
 9/25/2020 9:13:32 PM 929,03 RON
+9/30/2020 9:55:01 AM 927,82 RON

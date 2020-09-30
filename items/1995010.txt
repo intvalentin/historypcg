@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psat5070a20cuco01b
 1995010
     Product link    
 https://www.pcgarage.ro/surse/njoy/titan-plus-700-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1979534/1995010/thumbnails/titan-plus-400-40
 9/21/2020 7:45:53 AM 239,19 RON
 9/24/2020 12:34:42 PM 239,19 RON
 9/25/2020 10:19:31 PM 259,99 RON
+9/30/2020 5:09:49 PM 259,99 RON

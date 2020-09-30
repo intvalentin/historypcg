@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw32gx4m4c3200c16w
 1700488
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-white-32gb-ddr4-3200mhz-cl16-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691840/1700488/thumbnails/vengeance-rgb-pro
 9/21/2020 7:39:37 AM 974,25 RON
 9/23/2020 11:39:47 PM 985,33 RON
 9/25/2020 9:03:13 PM 993,68 RON
+9/29/2020 10:14:56 PM 993,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nx.c4jex.003
 1956150
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/156-conceptd-cn515-51-uhd-ips-procesor-intel-core-i7-8705g-8m-cache-up-to-410-ghz-8gb-ddr4-512gb-ssd-radeon-rx-vega-m-gl-win-10-pro-white/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1953966/1956150/thumbnails/mwl_i7_8-2ad917b6
     Pret    
 9/20/2020 11:01:29 PM 7.599,08 RON
 9/25/2020 7:30:57 PM 7.599,08 RON
+9/29/2020 7:42:48 PM 7.599,08 RON

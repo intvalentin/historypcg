@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |is-sfx400
 1136738
     Product link    
 https://www.pcgarage.ro/surse/id-cooling/is-sfx400-400w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/991247/1136738/thumbnails/is-sfx400-400w-636
 9/21/2020 7:47:36 AM 299,27 RON
 9/24/2020 1:44:34 PM 303,34 RON
 9/25/2020 10:46:40 PM 305,86 RON
+9/30/2020 6:58:50 PM 303,98 RON

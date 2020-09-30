@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct1000p1ssd8
 1743756
     Product link    
 https://www.pcgarage.ro/ssd/crucial/p1-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6763/1743756/thumbnails/p1-1tb-pci-express-3
 9/21/2020 7:44:26 AM 541,20 RON
 9/24/2020 11:08:09 AM 548,56 RON
 9/25/2020 10:04:06 PM 553,11 RON
+9/30/2020 2:14:28 PM 550,52 RON

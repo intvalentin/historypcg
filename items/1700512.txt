@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp004gblfu240ns2
 1700512
     Product link    
 https://www.pcgarage.ro/memorii/silicon-power/4gb-ddr4-2400mhz-cl17-12v-heatsink/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1690716/1700512/thumbnails/4gb-ddr4-2400mhz-
 9/21/2020 7:40:22 AM 107,50 RON
 9/24/2020 9:05:37 AM 108,77 RON
 9/25/2020 9:26:15 PM 109,62 RON
+9/29/2020 10:58:31 PM 109,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000vx005
 1407682
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-1tb-5900rpm-sata-iii-64mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1407682/thumbnails/skyhawk-1tb-5900r
 9/21/2020 7:45:02 AM 224,99 RON
 9/24/2020 11:26:46 AM 224,99 RON
 9/25/2020 10:10:44 PM 224,99 RON
+9/30/2020 3:37:41 PM 224,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm600-leii
 1409282
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm600-le-ii/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1173769/1409282/thumbnails/zm600-le-ii-17c0d
 9/21/2020 7:47:31 AM 263,66 RON
 9/24/2020 1:28:19 PM 267,24 RON
 9/25/2020 10:44:25 PM 269,46 RON
+9/30/2020 6:45:15 PM 267,81 RON

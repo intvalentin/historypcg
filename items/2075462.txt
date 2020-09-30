@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c18fb3k4+-+128
 2075462
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-128gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/8441/2075462/thumbnails/fury-black-128gb-ddr
     Pret    
 9/23/2020 11:58:26 PM 3.645,82 RON
 9/25/2020 9:10:34 PM 3.677,30 RON
+9/30/2020 10:53:44 AM 3.677,30 RON

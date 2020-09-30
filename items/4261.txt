@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aet660ud00-370
 4261
     Product link    
 https://www.pcgarage.ro/memorii/aeneon/512mb-ddr2-533mhz-cl4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/4261/thumbnails/aet660ud00-370a98xx1.jpg
 9/21/2020 7:40:46 AM 246,82 RON
 9/24/2020 9:30:36 AM 250,17 RON
 9/25/2020 9:39:51 PM 252,25 RON
+9/30/2020 8:15:53 AM 251,07 RON

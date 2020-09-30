@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx8200pnp-256gt-c
 1755748
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx8200-pro-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1755748/thumbnails/sx8200-240gb-pci-exp
 9/21/2020 7:42:25 AM 234,26 RON
 9/24/2020 10:26:50 AM 242,70 RON
 9/25/2020 9:50:43 PM 244,71 RON
+9/30/2020 11:47:26 AM 243,57 RON

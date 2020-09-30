@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rgb-600
 1643004
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-rgb-600-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1643004/thumbnails/argus-rgb-600-80-
 9/21/2020 7:46:49 AM 275,09 RON
 9/24/2020 1:15:54 PM 278,82 RON
 9/25/2020 10:32:37 PM 281,14 RON
+9/30/2020 6:48:48 PM 279,42 RON

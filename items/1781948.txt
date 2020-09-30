@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2666c19s-16gis
 1781948
     Product link    
 https://www.pcgarage.ro/memorii/gskill/aegis-16gb-ddr4-2666mhz-cl19-12v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1781948/thumbnails/aegis-16gb-ddr4-3000
 9/21/2020 7:40:46 AM 248,42 RON
 9/24/2020 8:57:17 AM 247,71 RON
 9/25/2020 9:23:16 PM 280,12 RON
+9/30/2020 8:20:02 AM 278,47 RON

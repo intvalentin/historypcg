@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds100t3x0c
 1789344
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/black-sn750-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6440/1789344/thumbnails/black-sn750-1tb-pci-
 9/21/2020 7:42:36 AM 1.065,05 RON
 9/24/2020 10:22:42 AM 935,49 RON
 9/25/2020 9:49:15 PM 943,45 RON
+9/30/2020 12:41:54 PM 906,67 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvb416g400c9k
 1945746
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-4-blackout-16gb-ddr4-4000mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1945746/thumbnails/viper-4-blackout-16g
 9/21/2020 7:39:24 AM 598,14 RON
 9/23/2020 11:19:09 PM 604,91 RON
 9/25/2020 8:55:54 PM 610,01 RON
+9/29/2020 9:46:07 PM 610,15 RON

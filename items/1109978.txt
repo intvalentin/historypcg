@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwps-050p00p-bu01a
 1109978
     Product link    
 https://www.pcgarage.ro/surse/rpc/500w-atx-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1000151/1109978/thumbnails/500w-atx-eb81f115
 9/21/2020 7:46:18 AM 78,75 RON
 9/24/2020 12:55:12 PM 79,82 RON
 9/25/2020 10:25:11 PM 80,49 RON
+9/30/2020 4:47:06 PM 80,11 RON

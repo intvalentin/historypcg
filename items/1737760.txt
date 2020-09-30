@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw32gx4m2c3000c15w
 1737760
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-white-32gb-ddr4-3000mhz-cl15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691840/1737760/thumbnails/vengeance-rgb-pro
 9/21/2020 7:39:33 AM 888,31 RON
 9/23/2020 11:33:36 PM 898,43 RON
 9/25/2020 9:01:00 PM 905,96 RON
+9/29/2020 10:10:04 PM 906,23 RON

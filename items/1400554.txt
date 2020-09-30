@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spotter
 1400554
     Product link    
 https://www.pcgarage.ro/mouse-gaming/somic/easars-spotter/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/931142/1400554/thumbnails/easars-spotter-096
 9/21/2020 7:59:47 AM 124,99 RON
 9/24/2020 7:07:37 PM 124,99 RON
 9/26/2020 10:09:23 AM 124,99 RON
+9/30/2020 8:22:12 AM 124,99 RON

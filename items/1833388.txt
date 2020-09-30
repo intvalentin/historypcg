@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ltp-0650nhsane-1
 1833388
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/litepower-rgb-650w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5631/1833388/thumbnails/litepower-rgb-650w-a
 9/21/2020 7:46:40 AM 298,72 RON
 9/24/2020 1:09:40 PM 302,79 RON
 9/25/2020 10:30:23 PM 305,30 RON
+9/30/2020 6:58:34 PM 303,43 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct480bx500ssd1
 1737716
     Product link    
 https://www.pcgarage.ro/ssd/crucial/bx500-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1737716/thumbnails/bx500-480gb-sata-iii
 9/21/2020 7:43:47 AM 274,92 RON
 9/24/2020 10:26:50 AM 278,66 RON
 9/25/2020 9:50:43 PM 280,98 RON
+9/30/2020 11:54:40 AM 279,66 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ss-400es f3
 1525818
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-400es-f3-400w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1510154/1525818/thumbnails/ss-400es-f3-602b8
 9/21/2020 7:47:26 AM 238,06 RON
 9/24/2020 1:22:07 PM 241,29 RON
 9/25/2020 10:34:51 PM 243,34 RON
+9/30/2020 6:33:50 PM 242,16 RON

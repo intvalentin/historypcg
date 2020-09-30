@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax4u3000316g16-drz
 1622190
     Product link    
 https://www.pcgarage.ro/memorii/a-data/xpg-z1-red-32gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1605610/1622190/thumbnails/xpg-z1-white-32gb
 9/21/2020 7:41:39 AM 1.182,53 RON
 9/24/2020 9:09:47 AM 1.196,08 RON
 9/25/2020 9:27:44 PM 1.206,07 RON
+9/30/2020 10:14:13 AM 1.206,48 RON

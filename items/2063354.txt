@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z490 aorus master wf
 2063354
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z490-aorus-master-waterforce/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2063354/thumbnails/z490-aorus-master-wa
 9/21/2020 7:37:16 AM 3.167,26 RON
 9/23/2020 7:31:10 PM 3.200,65 RON
 9/25/2020 8:35:56 PM 3.237,68 RON
+9/29/2020 7:00:21 PM 3.233,43 RON

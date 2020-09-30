@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-03400100-r3m1
 2065098
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/cynosa-v2-chroma-rgb/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4917/2065098/thumbnails/cynosa-v2-chroma-rgb
 9/24/2020 7:41:16 PM 343,78 RON
 9/24/2020 11:25:31 PM 343,78 RON
 9/26/2020 10:38:04 AM 343,78 RON
+9/30/2020 12:32:39 PM 343,78 RON

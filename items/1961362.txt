@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu650ns38-120gt-c
 1961362
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su650-120gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/1961362/thumbnails/su650-120gb-sata-iii
 9/21/2020 7:42:21 AM 96,76 RON
 9/24/2020 9:55:08 AM 97,88 RON
 9/25/2020 9:47:04 PM 98,70 RON
+9/30/2020 11:27:48 AM 98,73 RON

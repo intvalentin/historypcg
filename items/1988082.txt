@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds250g2b0c
 1988082
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-sn550-250gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1988082/thumbnails/blue-sn550-250gb-
 9/21/2020 7:42:40 AM 264,46 RON
 9/24/2020 9:51:01 AM 267,19 RON
 9/25/2020 9:45:36 PM 270,28 RON
+9/30/2020 11:50:56 AM 260,87 RON

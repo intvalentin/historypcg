@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tbs-2010-02, hm191506
 2000786
     Product link    
 https://www.pcgarage.ro/casti-gaming/turtle-beach/elite-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/2000786/thumbnails/elite-pro-c99dcb8
 9/21/2020 8:02:13 AM 959,99 RON
 9/24/2020 7:28:43 PM 959,99 RON
 9/26/2020 10:32:09 AM 959,99 RON
+9/30/2020 12:19:58 PM 959,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23138
 1968186
     Product link    
 https://www.pcgarage.ro/casti-gaming/trust/gxt-455-torus-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1968186/thumbnails/gxt-455-torus-rgb-d0
 9/21/2020 8:02:09 AM 357,98 RON
 9/24/2020 7:29:27 PM 357,98 RON
 9/26/2020 10:32:53 AM 357,98 RON
+9/30/2020 12:06:05 PM 357,98 RON

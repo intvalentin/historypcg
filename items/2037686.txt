@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |Z490M-ITX+-+AC
 2037686
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asrock/z490m-itx-ac/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2037686/thumbnails/z490m-itx-ac-8789831
 9/21/2020 7:36:59 AM 900,63 RON
 9/23/2020 7:35:17 PM 905,13 RON
 9/25/2020 8:36:41 PM 915,60 RON
+9/29/2020 5:40:31 PM 914,39 RON

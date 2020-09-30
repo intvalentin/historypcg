@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h301-bk
 1418062
     Product link    
 https://www.pcgarage.ro/casti-gaming/redragon/siren-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/842306/1418062/thumbnails/siren-black-de1fba
 9/24/2020 7:39:51 PM 149,99 RON
 9/24/2020 11:24:05 PM 149,99 RON
 9/26/2020 10:36:36 AM 149,99 RON
+9/30/2020 11:47:18 AM 149,99 RON

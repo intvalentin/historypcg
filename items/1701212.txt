@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H110S1
 1701212
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/h110s1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692296/1701212/thumbnails/h110s1-0b1c941033
 9/21/2020 7:36:41 AM 414,47 RON
 9/23/2020 10:22:12 PM 418,85 RON
 9/25/2020 8:42:41 PM 423,68 RON
+9/29/2020 5:00:40 PM 423,12 RON

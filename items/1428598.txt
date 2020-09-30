@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asd700-512gu3-cbk
 1428598
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sd700-512gb-usb-31-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1428598/thumbnails/sd700-256gb-usb-31
 9/21/2020 7:42:48 AM 343,17 RON
 9/24/2020 10:35:06 AM 347,03 RON
 9/25/2020 9:53:41 PM 349,40 RON
+9/30/2020 12:06:41 PM 349,55 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76e4t0b+-+eu
 1631754
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-evo-4tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3207/1631754/thumbnails/860-evo-1tb-sata-iii
 9/21/2020 7:43:43 AM 2.836,24 RON
 9/24/2020 10:30:58 AM 2.887,18 RON
 9/25/2020 9:52:12 PM 2.885,63 RON
+9/30/2020 12:58:03 PM 2.874,83 RON

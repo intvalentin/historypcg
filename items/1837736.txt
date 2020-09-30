@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pvs416g373c7k
 1837736
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-steel-16gb-ddr4-3733mhz-cl17-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2863/1837736/thumbnails/viper-steel-16gb-ddr
 9/21/2020 7:37:58 AM 419,17 RON
 9/23/2020 11:27:24 PM 423,94 RON
 9/25/2020 8:58:50 PM 423,94 RON
+9/29/2020 7:20:38 PM 374,27 RON

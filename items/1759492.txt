@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpeknw020t8x1
 1759492
     Product link    
 https://www.pcgarage.ro/ssd/intel/660p-series-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1153/1759492/thumbnails/660p-series-512gb-pc
 9/21/2020 7:42:40 AM 1.228,81 RON
 9/24/2020 10:24:46 AM 1.241,77 RON
 9/25/2020 9:50:43 PM 1.256,14 RON
+9/30/2020 11:26:24 AM 1.139,78 RON

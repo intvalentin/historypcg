@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |glo-ms-om-pnk
 2072602
     Product link    
 https://www.pcgarage.ro/mouse-gaming/glorious-pc-gaming-race/model-o-matte-pink-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2072602/thumbnails/model-o-matte-pink-6
 9/21/2020 8:00:20 AM 333,98 RON
 9/24/2020 7:08:21 PM 333,98 RON
 9/26/2020 10:09:23 AM 333,98 RON
+9/30/2020 9:00:46 AM 333,98 RON

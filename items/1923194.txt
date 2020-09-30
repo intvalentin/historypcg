@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp01b0-b0ua00
 1923194
     Product link    
 https://www.pcgarage.ro/mouse-gaming/asus/mouse-usb-optical-rog-strix-carry-asus/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8629/1923194/thumbnails/rog-strix-carry-a622
 9/21/2020 7:59:47 AM 289,99 RON
 9/24/2020 7:02:33 PM 289,99 RON
 9/26/2020 10:04:12 AM 289,99 RON
+9/30/2020 8:05:28 AM 289,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph6-ce480-l
 1648776
     Product link    
 https://www.pcgarage.ro/ssd/liteon/mu-3-ph6-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175151/1648776/thumbnails/mu-3-120gb-sata-i
 9/21/2020 7:44:07 AM 259,51 RON
 9/24/2020 11:14:24 AM 261,81 RON
 9/25/2020 10:06:21 PM 263,98 RON
+9/30/2020 1:35:04 PM 264,11 RON

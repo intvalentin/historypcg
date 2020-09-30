@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |core-gc-500 ssr-500lc
 1937318
     Product link    
 https://www.pcgarage.ro/surse/seasonic/core-gc-80-plus-gold-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/1937318/thumbnails/core-gc-80-plus-gold
 9/21/2020 7:45:41 AM 351,24 RON
 9/24/2020 12:34:42 PM 351,24 RON
 9/25/2020 10:17:19 PM 351,24 RON
+9/30/2020 4:40:42 PM 351,24 RON

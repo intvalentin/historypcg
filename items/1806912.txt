@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5ms23aa#abb
 1806912
     Product link    
 https://www.pcgarage.ro/ssd/hp/ex950-1tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1804216/1806912/thumbnails/ex950-1tb-pci-exp
 9/21/2020 7:42:36 AM 691,11 RON
 9/24/2020 10:22:42 AM 694,57 RON
 9/25/2020 9:49:15 PM 702,60 RON
+9/30/2020 12:35:16 PM 701,69 RON

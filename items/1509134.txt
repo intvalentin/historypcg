@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000ne0021
 1509134
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-8tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1508470/1509134/thumbnails/ironwolf-pro-8tb-
 9/21/2020 7:45:33 AM 1.254,91 RON
 9/24/2020 12:30:36 PM 1.271,96 RON
 9/25/2020 10:15:09 PM 1.282,81 RON
+9/30/2020 4:23:08 PM 1.276,53 RON

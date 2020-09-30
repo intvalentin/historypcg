@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srx600w12pa85
 1892218
     Product link    
 https://www.pcgarage.ro/surse/serioux/solas-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1275/1892218/thumbnails/sursa-pc-serioux-sol
 9/21/2020 7:46:45 AM 266,88 RON
 9/24/2020 1:05:32 PM 269,02 RON
 9/25/2020 10:28:54 PM 271,32 RON
+9/30/2020 6:45:31 PM 269,99 RON

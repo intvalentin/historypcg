@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-650+
 828736
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/combat-power-plus-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/828736/thumbnails/combat-power-plus-6
 9/21/2020 7:47:17 AM 192,56 RON
 9/24/2020 1:52:52 PM 195,18 RON
 9/25/2020 10:49:36 PM 196,80 RON
+9/30/2020 6:15:28 PM 195,59 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-02640100-r3m1
 1801288
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/blackwidow-lite-orange-switch-mecanica/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4338/1801288/thumbnails/blackwidow-lite-oran
 9/24/2020 7:44:52 PM 489,99 RON
 9/24/2020 11:29:08 PM 489,99 RON
 9/26/2020 10:42:33 AM 489,99 RON
+9/30/2020 12:58:05 PM 489,99 RON

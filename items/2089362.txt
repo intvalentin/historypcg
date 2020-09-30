@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_hg8932
 2089362
     Product link    
 https://www.pcgarage.ro/casti-gaming/marvo/hg8932/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/7008/2089362/thumbnails/hg8932-c98a5bb832e0b
     Pret    
 9/24/2020 7:22:51 PM 69,98 RON
 9/26/2020 10:26:12 AM 69,98 RON
+9/30/2020 10:51:21 AM 69,98 RON

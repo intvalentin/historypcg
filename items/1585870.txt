@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spr-0600n
 1585870
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-rgb-80-plus-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1496454/1585870/thumbnails/smart-rgb-80-plus
 9/21/2020 7:46:45 AM 294,98 RON
 9/24/2020 1:20:02 PM 298,99 RON
 9/25/2020 10:34:06 PM 301,47 RON
+9/30/2020 6:57:11 PM 299,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpekkw256g8xt
 1637128
     Product link    
 https://www.pcgarage.ro/ssd/intel/760p-series-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1634078/1637128/thumbnails/760p-series-256gb
 9/21/2020 7:44:16 AM 389,01 RON
 9/24/2020 11:14:24 AM 394,30 RON
 9/25/2020 10:06:21 PM 397,58 RON
+9/30/2020 1:56:22 PM 395,72 RON

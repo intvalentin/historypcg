@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mtfdhba256tck-1as1aabyy
 2008318
     Product link    
 https://www.pcgarage.ro/ssd/micron/2200-256gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2003606/2008318/thumbnails/2200-256gb-pci-ex
 9/21/2020 7:43:10 AM 280,98 RON
 9/24/2020 9:48:57 AM 284,80 RON
 9/25/2020 9:44:52 PM 287,17 RON
+9/30/2020 11:55:28 AM 285,83 RON

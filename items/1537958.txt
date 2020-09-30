@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdm1010078
 1537958
     Product link    
 https://www.pcgarage.ro/jocuri/ubisoft/rainbow-six-siege-pentru-pc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1475490/1537958/thumbnails/rainbow-six-siege
 9/21/2020 8:03:33 AM 99,98 RON
 9/24/2020 11:59:34 PM 99,98 RON
 9/26/2020 11:12:24 AM 99,98 RON
+9/30/2020 2:57:20 PM 99,98 RON

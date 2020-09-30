@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-de500us-ph
 1885498
     Product link    
 https://www.pcgarage.ro/surse/deepcool/de500-350w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885498/thumbnails/de500-350w-d842cfce1
 9/21/2020 7:47:12 AM 136,20 RON
 9/24/2020 1:07:36 PM 138,05 RON
 9/25/2020 10:28:54 PM 139,20 RON
+9/30/2020 6:02:04 PM 138,34 RON

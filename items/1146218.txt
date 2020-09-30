@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmd32gx4m2b3000c15
 1146218
     Product link    
 https://www.pcgarage.ro/memorii/corsair/dominator-platinum-32gb-ddr4-3000mhz-c15-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/843505/1146218/thumbnails/dominator-platinum
 9/21/2020 7:41:25 AM 807,42 RON
 9/24/2020 9:20:11 AM 816,58 RON
 9/25/2020 9:32:13 PM 823,43 RON
+9/30/2020 9:43:40 AM 823,70 RON

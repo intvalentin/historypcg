@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1vc108601001
 1953630
     Product link    
 https://www.pcgarage.ro/placi-de-captura/elgato/video-capture/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6997/1953630/thumbnails/video-capture-a74fb5
 9/21/2020 7:59:27 AM 528,57 RON
 9/24/2020 7:00:25 PM 529,21 RON
 9/26/2020 10:02:04 AM 530,09 RON
+9/29/2020 11:06:18 PM 529,91 RON

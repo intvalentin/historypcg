@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf10d416g3600hc18jdc01
 1978018
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/t-force-xtreem-argb-16gb-ddr4-3600mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1978018/thumbnails/t-force-xtreem-ar
 9/21/2020 7:41:15 AM 594,40 RON
 9/24/2020 12:10:55 AM 601,16 RON
 9/25/2020 9:15:02 PM 606,27 RON
+9/30/2020 9:20:36 AM 606,41 RON

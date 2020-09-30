@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ak-b1-700
 1527842
     Product link    
 https://www.pcgarage.ro/surse/akyga/basic-ak-b1-700-700w/
@@ -8,3 +8,4 @@ AKYGA Basic AK-B1-700, 700W
 https://1.grgs.ro/images/products/1/1520902/1527842/thumbnails/basic-ak-b1-700-700w-eda1b7ff79851dacf1df89d31d8925d6.jpg
     Pret    
 9/25/2020 10:34:51 PM 174,53 RON
+9/30/2020 6:06:54 PM 175,43 RON

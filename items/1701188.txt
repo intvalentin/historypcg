@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sl-500c
 1701188
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/sl-500c-500w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1690716/1701188/thumbnails/sl-500c-500w-5dbc
 9/21/2020 7:46:01 AM 69,91 RON
 9/24/2020 12:47:02 PM 70,86 RON
 9/25/2020 10:21:40 PM 71,45 RON
+9/30/2020 4:46:17 PM 71,12 RON

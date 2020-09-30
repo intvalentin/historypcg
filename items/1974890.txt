@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds500g1r0b
 1974890
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/red-sa500-500gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1974890/thumbnails/red-sa500-500gb-sata
 9/21/2020 7:44:11 AM 337,18 RON
 9/24/2020 10:57:45 AM 334,70 RON
 9/25/2020 10:00:24 PM 338,57 RON
+9/30/2020 1:48:08 PM 338,14 RON

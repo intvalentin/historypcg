@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-e100n+-+128g bulk
 2072770
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/e100n-128gb-sata-iii-m2-2280-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1802236/2072770/thumbnails/e100n-240gb-sata-
 9/21/2020 7:43:52 AM 105,09 RON
 9/24/2020 10:39:12 AM 105,09 RON
 9/25/2020 9:55:11 PM 105,09 RON
+9/30/2020 1:07:12 PM 105,09 RON

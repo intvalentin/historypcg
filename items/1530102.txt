@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-led-rgb380
 1530102
     Product link    
 https://www.pcgarage.ro/modding/deepcool/rgb380-led-lighting-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1420862/1530102/thumbnails/deepcool-rgb380-l
 9/21/2020 7:58:45 AM 153,76 RON
 9/24/2020 6:51:43 PM 157,18 RON
 9/26/2020 9:53:20 AM 157,14 RON
+9/29/2020 9:50:44 PM 156,41 RON

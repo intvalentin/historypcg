@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-bfx600-eu
 1885078
     Product link    
 https://www.pcgarage.ro/surse/riotoro/builder-edition-80-plus-600w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885078/thumbnails/builder-edition-80-p
 9/21/2020 7:46:40 AM 270,01 RON
 9/24/2020 1:07:36 PM 273,68 RON
 9/25/2020 10:29:39 PM 275,95 RON
+9/30/2020 6:46:37 PM 274,26 RON

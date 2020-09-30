@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2400c15s-8gnt
 1879854
     Product link    
 https://www.pcgarage.ro/memorii/gskill/nt-series-8gb-ddr4-2400mhz-cl15/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5634/1879854/thumbnails/nt-series-8gb-ddr4-2
 9/21/2020 7:39:57 AM 129,99 RON
 9/24/2020 8:44:49 AM 143,65 RON
 9/25/2020 9:18:48 PM 145,31 RON
+9/29/2020 11:03:58 PM 145,12 RON

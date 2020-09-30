@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ak-p3-600
 1530527
     Product link    
 https://www.pcgarage.ro/surse/akyga/pro-ak-p3-600-600w/
@@ -8,3 +8,4 @@ AKYGA Pro AK-P3-600, 600W
 https://5.grgs.ro/images/products/1/1416578/1530527/thumbnails/pro-ak-p3-600-600w-d0a3e8cbc721c3857fda386977d2bd4f.jpg
     Pret    
 9/25/2020 10:22:22 PM 195,37 RON
+9/30/2020 4:59:13 PM 196,25 RON

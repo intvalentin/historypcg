@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_gamedac
 1970538
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/steelseries/gamedac/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970538/thumbnails/amplificator-dac-pen
 9/21/2020 7:59:20 AM 679,31 RON
 9/24/2020 6:57:35 PM 679,31 RON
 9/26/2020 9:59:12 AM 679,31 RON
+9/29/2020 10:54:42 PM 679,31 RON

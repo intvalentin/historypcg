@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds200t1r0a
 1974886
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/red-sa500-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1974886/thumbnails/red-sa500-2tb-sata-i
 9/21/2020 7:43:01 AM 1.626,77 RON
 9/24/2020 9:53:04 AM 1.270,31 RON
 9/25/2020 9:46:20 PM 1.281,00 RON
+9/30/2020 12:48:19 PM 1.230,95 RON

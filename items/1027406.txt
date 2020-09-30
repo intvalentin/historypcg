@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p005-bk
 1027406
     Product link    
 https://www.pcgarage.ro/mouse-pad/redragon/kunlun-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/843505/1027406/thumbnails/kunlun-m-231d3ef3d
 9/21/2020 8:00:38 AM 65,98 RON
 9/24/2020 7:16:22 PM 65,98 RON
 9/26/2020 10:19:36 AM 75,98 RON
+9/30/2020 9:43:53 AM 75,98 RON

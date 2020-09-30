@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00098
 1699940
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/rig-100hx-pc-xbox-one/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691852/1699940/thumbnails/rig-100hx-796861e
 9/21/2020 8:01:32 AM 123,98 RON
 9/24/2020 7:26:30 PM 125,98 RON
 9/26/2020 10:29:55 AM 125,98 RON
+9/30/2020 10:59:53 AM 125,98 RON

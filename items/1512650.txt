@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds500g2b0a
 1512650
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/blue-3d-nand-500gb-sata-iii-25-inch/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1263508/1512650/thumbnails/blue-3d-nand-250g
     Pret    
 9/21/2020 7:43:33 AM 297,51 RON
 9/25/2020 9:42:41 PM 304,13 RON
+9/30/2020 1:40:54 PM 303,73 RON

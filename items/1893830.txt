@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as40g-512gt-c
 1893830
     Product link    
 https://www.pcgarage.ro/ssd/a-data/xpg-spectrix-s40g-rgb-512gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1275/1893830/thumbnails/xpg-spectrix-s40g-rg
 9/21/2020 7:42:33 AM 392,37 RON
 9/24/2020 9:57:12 AM 396,51 RON
 9/25/2020 9:47:47 PM 401,09 RON
+9/30/2020 12:12:08 PM 400,56 RON

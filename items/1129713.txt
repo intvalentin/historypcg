@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper m 600
 1129713
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-m-600-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/851375/1129713/thumbnails/hyper-m-600-600w-a
 9/21/2020 7:47:44 AM 339,11 RON
 9/24/2020 1:44:34 PM 343,72 RON
 9/25/2020 10:46:40 PM 346,58 RON
+9/30/2020 7:35:08 PM 344,45 RON

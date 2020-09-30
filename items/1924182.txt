@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xa480me10063
 1924182
     Product link    
 https://www.pcgarage.ro/ssd/seagate/nytro-1551-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1868718/1924182/thumbnails/nytro-1551-240gb-
 9/21/2020 7:44:36 AM 698,95 RON
 9/24/2020 11:01:54 AM 706,32 RON
 9/25/2020 10:01:08 PM 714,50 RON
+9/30/2020 2:31:32 PM 713,56 RON

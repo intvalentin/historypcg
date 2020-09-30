@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004939
 1682080
     Product link    
 https://www.pcgarage.ro/mouse-gaming/logitech/g102-prodigy/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1682080/thumbnails/g102-prodigy-859c
 9/21/2020 8:00:05 AM 149,99 RON
 9/24/2020 7:09:48 PM 149,99 RON
 9/26/2020 10:11:37 AM 149,99 RON
+9/30/2020 8:49:59 AM 149,99 RON

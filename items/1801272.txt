@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-01820500-r3m1
 1801272
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/goliathus-mobile-stealth-edition/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1801272/thumbnails/goliathus-mobile-ste
 9/21/2020 8:00:31 AM 65,98 RON
 9/24/2020 7:14:53 PM 65,98 RON
 9/26/2020 10:21:05 AM 59,98 RON
+9/30/2020 10:06:37 AM 59,98 RON

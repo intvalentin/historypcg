@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B360M HD3
 1666992
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-b360m-hd3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1573/1666992/thumbnails/ga-b360m-hd3-31c6eab
 9/21/2020 7:36:37 AM 374,38 RON
 9/23/2020 10:28:24 PM 376,25 RON
 9/25/2020 8:44:11 PM 380,59 RON
+9/29/2020 4:54:07 PM 380,10 RON

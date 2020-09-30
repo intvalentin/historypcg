@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080054
 1487606
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xiv-online-stormblood-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1355434/1487606/thumbnails/final-fantasy-xiv
 9/21/2020 8:05:06 AM 159,98 RON
 9/25/2020 12:03:13 AM 159,98 RON
 9/26/2020 11:16:55 AM 159,98 RON
+9/30/2020 4:23:28 PM 159,98 RON

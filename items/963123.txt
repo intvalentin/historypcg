@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m4a2400c14r
 963123
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-32gb-ddr4-2400mhz-cl14-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/963123/thumbnails/vengeance-lpx-red-3
 9/21/2020 7:39:33 AM 914,58 RON
 9/23/2020 11:54:18 PM 925,12 RON
 9/25/2020 9:08:20 PM 932,92 RON
+9/29/2020 10:12:28 PM 933,19 RON

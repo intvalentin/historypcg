@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |radon 710
 1755100
     Product link    
 https://www.pcgarage.ro/casti-gaming/genesis/radon-710/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1755100/thumbnails/radon-710-3e304b5
 9/21/2020 8:02:04 AM 207,98 RON
 9/24/2020 7:30:57 PM 207,98 RON
 9/26/2020 10:34:22 AM 207,98 RON
+9/30/2020 11:56:35 AM 207,98 RON

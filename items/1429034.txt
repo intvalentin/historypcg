@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-02040100-r3m1
 1429034
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/ornata-chroma/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/367655/1429034/thumbnails/ornata-chroma-7aff
 9/24/2020 7:50:47 PM 571,98 RON
 9/24/2020 11:35:01 PM 571,98 RON
 9/26/2020 10:47:45 AM 571,98 RON
+9/30/2020 1:39:32 PM 571,98 RON

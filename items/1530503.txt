@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ak-b1-420
 1530503
     Product link    
 https://www.pcgarage.ro/surse/akyga/basic-ak-b1-420-420w/
@@ -8,3 +8,4 @@ AKYGA Basic AK-B1-420, 420W
 https://2.grgs.ro/images/products/1/1469770/1530503/thumbnails/ak-b1-420-420w-8ab04a9e5d4d1361fdad1e41584f99b8.jpg
     Pret    
 9/25/2020 10:23:04 PM 88,01 RON
+9/30/2020 4:48:52 PM 88,31 RON

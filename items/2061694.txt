@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aswordfish-500g-c
 2061694
     Product link    
 https://www.pcgarage.ro/ssd/a-data/swordfish-500gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2061694/thumbnails/swordfish-250gb-pci-
 9/21/2020 7:43:10 AM 316,69 RON
 9/24/2020 9:44:48 AM 326,19 RON
 9/25/2020 9:43:24 PM 328,89 RON
+9/30/2020 12:02:33 PM 327,36 RON

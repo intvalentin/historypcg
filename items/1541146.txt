@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pve416g280c6krd
 1541146
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-elite-red-16gb-ddr4-2800mhz-cl16-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1192525/1541146/thumbnails/viper-elite-red-1
 9/21/2020 7:41:10 AM 535,26 RON
 9/24/2020 9:11:51 AM 540,91 RON
 9/25/2020 9:28:29 PM 547,16 RON
+9/30/2020 9:12:51 AM 546,45 RON

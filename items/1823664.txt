@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e47051a
 1823664
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/red-series-8gb-ddr4-2400mhz-cl17-12v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1821372/1823664/thumbnails/red-series-8gb-dd
 9/21/2020 7:40:27 AM 159,32 RON
 9/24/2020 8:53:07 AM 161,49 RON
 9/25/2020 9:21:47 PM 162,83 RON
+9/29/2020 11:12:10 PM 162,07 RON

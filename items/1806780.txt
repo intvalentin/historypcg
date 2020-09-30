@@ -1,4 +1,4 @@
-    Cod    |
+    Cod    |100-506014
 1806780
     Product link    
 https://www.pcgarage.ro/placi-video-profesionale/amd/radeon-pro-ssg-16gb-hbm2-plus-2tb-ssg-2048-bit/
@@ -12,3 +12,4 @@ https://1.grgs.ro/images/products/1/4338/1806780/thumbnails/radeon-pro-ssg-16gb-
 9/25/2020 8:20:27 PM 38.363,66 RON
 9/28/2020 8:04:02 PM 38.321,52 RON
 9/28/2020 8:15:44 PM 38.321,52 RON
+9/29/2020 9:13:56 PM 38.184,10 RON

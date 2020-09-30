@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmr16gx4m2c3600c18w
 1605526
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-white-rgb-led-16gb-ddr4-3600mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1510154/1605526/thumbnails/vengeance-white-r
 9/21/2020 7:39:37 AM 1.188,56 RON
 9/23/2020 11:41:52 PM 1.202,24 RON
 9/25/2020 9:03:56 PM 1.212,37 RON
+9/29/2020 10:17:25 PM 1.212,64 RON

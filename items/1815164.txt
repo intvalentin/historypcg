@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z390 designare
 1815164
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/z390-designare/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3645/1815164/thumbnails/z390-designare-bc067
 9/21/2020 7:36:18 AM 1.447,23 RON
 9/23/2020 10:15:59 PM 1.454,48 RON
 9/25/2020 8:39:41 PM 1.471,30 RON
+9/29/2020 6:45:29 PM 1.469,37 RON

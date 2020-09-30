@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw32gx4m4k4000c19
 1974742
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-32gb-ddr4-4000mhz-cl19-quad-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1692136/1974742/thumbnails/corsair-vengeance
 9/21/2020 7:41:49 AM 1.825,87 RON
 9/24/2020 12:10:55 AM 1.845,11 RON
 9/25/2020 9:15:02 PM 1.868,00 RON
+9/30/2020 10:33:54 AM 1.869,37 RON

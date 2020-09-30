@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu650ss-120gt-r
 1738504
     Product link    
 https://www.pcgarage.ro/ssd/a-data/ultimate-su650-120gb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427466/1738504/thumbnails/ultimate-su650-12
 9/21/2020 7:42:25 AM 101,38 RON
 9/24/2020 10:26:50 AM 107,52 RON
 9/25/2020 9:50:43 PM 107,52 RON
+9/30/2020 11:29:39 AM 107,52 RON

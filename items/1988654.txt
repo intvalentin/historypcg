@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx437c19fb3a+-+8
 1988654
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-8gb-ddr4-3733mhz-cl19/
@@ -8,3 +8,4 @@ HyperX Fury RGB 8GB DDR4 3733MHz CL19
 https://1.grgs.ro/images/products/1/1979534/1988654/thumbnails/fury-rgb-8gb-ddr4-3733mhz-cl19-7864b44d0b4a541e2c959a7a64591a30.jpg
     Pret    
 9/25/2020 8:54:26 PM 279,44 RON
+9/29/2020 8:48:40 PM 279,58 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp480nm30011
 2011970
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-510-480gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9943/2011970/thumbnails/ironwolf-510-480gb-p
 9/21/2020 7:43:01 AM 691,11 RON
 9/24/2020 9:48:57 AM 694,57 RON
 9/25/2020 9:44:52 PM 702,60 RON
+9/30/2020 12:35:33 PM 701,69 RON

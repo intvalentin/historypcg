@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3466c16d-32gtzsw
 1713232
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-silver-32gb-ddr4-3466mhz-cl16-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1713232/thumbnails/trident-z-silver-
 9/21/2020 7:40:03 AM 752,06 RON
 9/24/2020 9:03:32 AM 815,78 RON
 9/25/2020 9:25:30 PM 822,76 RON
+9/30/2020 9:48:33 AM 862,58 RON

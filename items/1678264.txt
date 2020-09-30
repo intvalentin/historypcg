@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hephaestus-p1
 1678264
     Product link    
 https://www.pcgarage.ro/casti-gaming/gamdias/hephaestus-p1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1666176/1678264/thumbnails/hephaestus-p1-5ae
 9/21/2020 8:01:37 AM 319,99 RON
 9/24/2020 7:26:30 PM 319,99 RON
 9/26/2020 10:29:55 AM 319,99 RON
+9/30/2020 11:18:05 AM 319,99 RON

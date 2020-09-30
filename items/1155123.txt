@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk8gx4m2a2400c14r
 1155123
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-8gb-ddr4-2400mhz-cl14-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1113903/1155123/thumbnails/vengeance-lpx-red
 9/21/2020 7:40:46 AM 258,22 RON
 9/24/2020 9:20:11 AM 259,51 RON
 9/25/2020 9:31:28 PM 262,52 RON
+9/30/2020 8:18:06 AM 262,18 RON

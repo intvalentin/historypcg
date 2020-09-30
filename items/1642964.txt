@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21789
 1642964
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-188/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/922/1642964/thumbnails/gxt-188-laban-8733f37
 9/21/2020 7:59:40 AM 174,99 RON
 9/24/2020 7:03:58 PM 174,99 RON
 9/26/2020 10:05:41 AM 174,99 RON
+9/29/2020 11:27:06 PM 174,99 RON

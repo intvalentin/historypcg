@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk32gx4m2b3200c16r
 1298292
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-red-32gb-ddr4-3200mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/853128/1298292/thumbnails/vengeance-lpx-red-
 9/21/2020 7:41:15 AM 638,42 RON
 9/24/2020 9:18:06 AM 645,14 RON
 9/25/2020 9:31:28 PM 690,61 RON
+9/30/2020 9:28:40 AM 690,89 RON

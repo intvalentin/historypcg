@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz01-02170100-r3g1
 1518818
     Product link    
 https://www.pcgarage.ro/mouse-gaming/razer/atheris/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1409094/1518818/thumbnails/atheris-f1d0e983d
 9/21/2020 8:00:18 AM 289,99 RON
 9/24/2020 7:06:53 PM 289,99 RON
 9/26/2020 10:11:37 AM 289,99 RON
+9/30/2020 8:55:08 AM 289,99 RON

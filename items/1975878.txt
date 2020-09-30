@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |irp-3600d4v64l17s+-+16gdc
 1975878
     Product link    
 https://www.pcgarage.ro/memorii/goodram/irdm-pro-16gb-ddr4-3600mhz-cl17-dual-channel/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/1975878/thumbnails/irdm-pro-16gb-ddr4-3
 9/21/2020 7:39:24 AM 482,79 RON
 9/24/2020 12:10:55 AM 635,91 RON
 9/25/2020 9:15:02 PM 628,70 RON
+9/30/2020 9:21:57 AM 623,02 RON

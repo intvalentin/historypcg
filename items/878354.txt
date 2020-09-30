@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aps-720w
 878354
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-720w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/498497/878354/thumbnails/argus-720w-d97215a2
 9/21/2020 7:46:01 AM 209,06 RON
 9/24/2020 12:55:12 PM 211,91 RON
 9/25/2020 10:25:11 PM 213,67 RON
+9/30/2020 5:01:35 PM 212,67 RON

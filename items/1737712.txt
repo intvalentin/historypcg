@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct240bx500ssd1
 1737712
     Product link    
 https://www.pcgarage.ro/ssd/crucial/bx500-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1737712/thumbnails/bx500-240gb-sata-iii
 9/21/2020 7:42:25 AM 207,21 RON
 9/24/2020 10:26:50 AM 159,99 RON
 9/25/2020 9:50:43 PM 161,32 RON
+9/30/2020 11:34:56 AM 160,57 RON

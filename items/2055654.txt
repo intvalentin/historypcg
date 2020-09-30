@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-9011220-eu
 2055654
     Product link    
 https://www.pcgarage.ro/casti-gaming/corsair/hs45-surround-carbon/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055654/thumbnails/hs45-surround-carbon
 9/21/2020 8:01:37 AM 311,98 RON
 9/24/2020 7:23:35 PM 311,98 RON
 9/26/2020 10:23:14 AM 296,38 RON
+9/30/2020 10:36:19 AM 296,38 RON

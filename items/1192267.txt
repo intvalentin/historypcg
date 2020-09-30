@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-037-ln1nan-a1
 1192267
     Product link    
 https://www.pcgarage.ro/modding/thermaltake/lumi-color-256c-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1192267/thumbnails/lumi-color-256c-r
 9/21/2020 7:58:58 AM 306,66 RON
 9/24/2020 6:53:10 PM 313,48 RON
 9/26/2020 9:54:49 AM 313,41 RON
+9/29/2020 10:08:55 PM 311,95 RON

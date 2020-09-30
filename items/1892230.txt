@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srx500w12pa80
 1892230
     Product link    
 https://www.pcgarage.ro/surse/serioux/solas-80-plus-500w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1275/1892230/thumbnails/solas-80-plus-600w-7
 9/21/2020 7:47:21 AM 224,32 RON
 9/24/2020 1:05:31 PM 226,12 RON
 9/25/2020 10:28:54 PM 228,05 RON
+9/30/2020 6:27:39 PM 226,93 RON

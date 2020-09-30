@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90mp01u0-bmua00
 2058138
     Product link    
 https://www.pcgarage.ro/mouse-gaming/asus/rog-strix-impact-ii-electro-punk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2058138/thumbnails/rog-strix-impact-ii-
 9/21/2020 7:59:43 AM 189,99 RON
 9/24/2020 7:01:09 PM 189,99 RON
 9/26/2020 10:02:47 AM 189,99 RON
+9/30/2020 7:59:33 AM 189,99 RON

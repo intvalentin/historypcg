@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-500p12n
 984672
     Product link    
 https://www.pcgarage.ro/surse/super-flower/sf-500p12n-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/984672/thumbnails/sf-500p12n-500w-9679c8a9
 9/21/2020 7:47:21 AM 216,20 RON
 9/24/2020 1:48:43 PM 219,14 RON
 9/25/2020 10:48:09 PM 220,96 RON
+9/30/2020 6:23:05 PM 219,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tmp201
 1829144
     Product link    
 https://www.pcgarage.ro/mouse-pad/t-dagger/geometry-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1054/1829144/thumbnails/geometry-m-f24a40917
 9/21/2020 8:00:24 AM 29,99 RON
 9/24/2020 7:11:56 PM 29,99 RON
 9/26/2020 10:13:48 AM 29,99 RON
+9/30/2020 9:37:52 AM 47,99 RON

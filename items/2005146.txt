@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn600-1tb
 2005146
     Product link    
 https://www.pcgarage.ro/ssd/colorful/cn600-1tb-pci-express-30-m2-2280/
@@ -8,3 +8,4 @@ Colorful CN600 1TB PCI Express 3.0 x4 M.2 2280
 https://5.grgs.ro/images/products/1/2003606/2005146/thumbnails/ssd-colorful-cn600-m2-1tb-d071eca45f05934a1844d163c6f28ca6.png
     Pret    
 9/25/2020 9:44:52 PM 648,97 RON
+9/30/2020 12:33:37 PM 645,93 RON

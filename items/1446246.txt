@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts512gssd230s
 1446246
     Product link    
 https://www.pcgarage.ro/ssd/transcend/230-series-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/1446246/thumbnails/230-series-128gb-
 9/21/2020 7:42:48 AM 310,45 RON
 9/24/2020 10:35:06 AM 313,96 RON
 9/25/2020 9:53:41 PM 316,80 RON
+9/30/2020 12:00:54 PM 316,80 RON

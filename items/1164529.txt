@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct8g4dfd824a
 1164529
     Product link    
 https://www.pcgarage.ro/memorii/crucial/8gb-ddr4-2400mhz-cl17-12v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1141198/1164529/thumbnails/4gb-ddr4-2400mhz-
 9/21/2020 7:40:37 AM 195,24 RON
 9/24/2020 9:20:11 AM 197,89 RON
 9/25/2020 9:31:28 PM 199,54 RON
+9/30/2020 7:59:35 AM 198,60 RON

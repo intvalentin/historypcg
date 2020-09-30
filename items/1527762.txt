@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3200c16q-64gvk
 1527762
     Product link    
 https://www.pcgarage.ro/memorii/gskill/ripjaws-v-64gb-ddr4-3200mhz-cl16-135v-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1420862/1527762/thumbnails/ripjaws-v-32gb-dd
 9/21/2020 7:38:45 AM 1.121,91 RON
 9/24/2020 9:13:56 AM 1.282,98 RON
 9/25/2020 9:29:14 PM 1.293,79 RON
+9/30/2020 10:19:55 AM 1.331,89 RON

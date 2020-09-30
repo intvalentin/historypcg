@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-c100+-+480g
 1768424
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/c100-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1768424/thumbnails/c100-480gb-sata-i
 9/21/2020 7:42:21 AM 252,20 RON
 9/24/2020 9:34:43 AM 383,48 RON
 9/25/2020 9:41:58 PM 383,48 RON
+9/30/2020 11:20:30 AM 383,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asx6000lnp-128gt-c
 1781744
     Product link    
 https://www.pcgarage.ro/ssd/a-data/sx6000-lite-128gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1781744/thumbnails/sx6000-lite-128gb-pc
 9/21/2020 7:42:21 AM 121,84 RON
 9/24/2020 10:24:46 AM 122,49 RON
 9/25/2020 9:49:59 PM 124,28 RON
+9/30/2020 11:31:53 AM 124,41 RON

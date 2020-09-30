@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pe512gtb3ecssd
 1728940
     Product link    
 https://www.pcgarage.ro/ssd/patriot/evlvr-512gb-thunderbolt-3-type-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1728700/1728940/thumbnails/evlvr-512gb-thund
 9/21/2020 7:44:36 AM 716,19 RON
 9/24/2020 11:08:09 AM 724,29 RON
 9/25/2020 10:04:06 PM 730,39 RON
+9/30/2020 2:33:53 PM 730,66 RON

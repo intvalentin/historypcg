@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdpc08g3000d4s
 2005102
     Product link    
 https://www.pcgarage.ro/memorii/colorful/8gb-ddr4-3000mhz-cl16/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8078/2005102/thumbnails/8gb-ddr4-3000mhz-cl1
 9/21/2020 7:38:31 AM 179,17 RON
 9/23/2020 11:12:56 PM 181,60 RON
 9/25/2020 8:53:41 PM 183,11 RON
+9/29/2020 8:09:44 PM 182,25 RON

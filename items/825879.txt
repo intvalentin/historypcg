@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx316c10fk2+-+8
 825879
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/hyperx-fury-blue-8gb-ddr3-1600-mhz-cl10-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/815230/825879/thumbnails/hyperx-fury-blue-8g
 9/21/2020 7:40:03 AM 226,28 RON
 9/24/2020 9:26:28 AM 228,67 RON
 9/25/2020 9:38:22 PM 231,31 RON
+9/29/2020 8:44:49 PM 233,53 RON

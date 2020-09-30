@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mz-76e1t9e
 1943186
     Product link    
 https://www.pcgarage.ro/ssd/samsung/860-dct-19tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5758/1943186/thumbnails/860-dct-960gb-sata-i
 9/21/2020 7:43:47 AM 1.658,06 RON
 9/24/2020 10:59:50 AM 1.648,93 RON
 9/25/2020 10:01:07 PM 1.630,68 RON
+9/30/2020 2:54:42 PM 1.615,05 RON

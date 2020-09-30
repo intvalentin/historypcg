@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psp432g2666kh1
 1881086
     Product link    
 https://www.pcgarage.ro/memorii/patriot/signature-line-premium-32gb-ddr4-2666mhz-cl19-dual-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881086/thumbnails/signature-line-premi
 9/21/2020 7:41:10 AM 508,68 RON
 9/24/2020 8:44:49 AM 691,30 RON
 9/25/2020 9:18:48 PM 697,10 RON
+9/30/2020 9:29:45 AM 697,38 RON

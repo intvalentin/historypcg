@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn208
 1849990
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/system-power-b9-80-plus-bronze-450w-bulk/
@@ -8,3 +8,4 @@ be quiet! System Power B9, 80+ Bronze, 450W, Bulk
 https://3.grgs.ro/images/products/1/1848774/1849990/thumbnails/system-power-b9-80-plus-bronze-450w-bulk-15887fc78652327daef076d35202c8a5.jpg
     Pret    
 9/25/2020 10:20:57 PM 255,43 RON
+9/30/2020 5:08:43 PM 256,61 RON

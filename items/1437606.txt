@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu900ss-256gm-c
 1437606
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su900-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1052635/1437606/thumbnails/su900-256gb-sata-
 9/21/2020 7:43:47 AM 312,25 RON
 9/24/2020 11:18:33 AM 313,80 RON
 9/25/2020 10:07:51 PM 317,43 RON
+9/30/2020 1:44:37 PM 317,01 RON

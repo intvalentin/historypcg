@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ROG STRIX B365-F GAMING
 1934170
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-b365-f-gaming/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6811/1934170/thumbnails/rog-strix-b365-f-gam
 9/21/2020 7:36:14 AM 745,62 RON
 9/23/2020 7:41:29 PM 754,21 RON
 9/25/2020 8:38:56 PM 760,55 RON
+9/29/2020 5:31:31 PM 760,68 RON

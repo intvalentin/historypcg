@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lux-rgb-550
 1818976
     Product link    
 https://www.pcgarage.ro/surse/aerocool/lux-rgb-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1818976/thumbnails/lux-rgb-80-plus-bronz
 9/21/2020 7:46:40 AM 222,31 RON
 9/24/2020 1:09:40 PM 225,33 RON
 9/25/2020 10:30:23 PM 227,20 RON
+9/30/2020 6:26:49 PM 225,80 RON

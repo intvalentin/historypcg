@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ecssd480gx150
 1986326
     Product link    
 https://www.pcgarage.ro/ssd/emtec/x150-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1986326/thumbnails/x150-480gb-sata-ii
 9/21/2020 7:42:57 AM 269,96 RON
 9/24/2020 9:51:01 AM 272,81 RON
 9/25/2020 9:45:36 PM 275,97 RON
+9/30/2020 12:06:07 PM 345,31 RON

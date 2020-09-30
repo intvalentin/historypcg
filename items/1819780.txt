@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/753/1819780/thumbnails/mwl_i5_8-16643db9e4bd
 9/23/2020 1:33:24 PM 5.290,12 RON
 9/25/2020 6:51:29 PM 5.305,24 RON
 9/27/2020 12:47:58 PM 5.308,30 RON
+9/29/2020 6:57:18 PM 5.303,40 RON

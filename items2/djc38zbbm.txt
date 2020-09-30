@@ -1,0 +1,1 @@
+rtx 2070 ventus 8g

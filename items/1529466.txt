@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pbu120gs25ssdr
 1529466
     Product link    
 https://www.pcgarage.ro/ssd/patriot/burst-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1529466/thumbnails/burst-120gb-sata-
 9/21/2020 7:43:33 AM 81,58 RON
 9/24/2020 11:18:33 AM 82,52 RON
 9/25/2020 9:52:57 PM 85,90 RON
+9/30/2020 11:05:40 AM 80,15 RON

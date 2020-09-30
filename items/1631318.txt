@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk64gx4m4k3733c17
 1631318
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-64gb-ddr4-3733mhz-cl17-quad-channel-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/782584/1631318/thumbnails/vengeance-lpx-blac
 9/21/2020 7:42:03 AM 4.217,72 RON
 9/24/2020 9:07:42 AM 4.265,61 RON
 9/25/2020 9:27:44 PM 4.301,20 RON
+9/30/2020 10:56:55 AM 4.302,56 RON

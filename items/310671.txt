@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-630p
 310671
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-630w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/310671/thumbnails/smart-630w-d48b63005e9fd
 9/21/2020 7:47:40 AM 324,06 RON
 9/24/2020 2:01:10 PM 328,46 RON
 9/25/2020 10:52:30 PM 331,19 RON
+9/30/2020 7:08:41 PM 329,16 RON

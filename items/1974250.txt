@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skt3-bk
 1974250
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/orico/skt3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1974250/thumbnails/skt3-4b10ac866c35df7
 9/21/2020 7:59:20 AM 35,41 RON
 9/24/2020 6:58:19 PM 36,19 RON
 9/26/2020 9:59:56 AM 36,19 RON
+9/29/2020 10:57:31 PM 36,02 RON

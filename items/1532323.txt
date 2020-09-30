@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-3000c15d-32gtz
 1532323
     Product link    
 https://www.pcgarage.ro/memorii/gskill/trident-z-32gb-ddr4-3000mhz-cl15-135v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1532323/thumbnails/trident-z-32gb-dd
 9/21/2020 7:39:28 AM 727,76 RON
 9/23/2020 11:43:57 PM 736,04 RON
 9/25/2020 9:04:39 PM 742,25 RON
+9/29/2020 10:00:22 PM 766,69 RON

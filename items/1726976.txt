@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ss-2tt-c
 1726976
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-2tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1726976/thumbnails/su800-256gb-sata-i
 9/21/2020 7:42:44 AM 1.142,62 RON
 9/24/2020 10:28:54 AM 1.154,67 RON
 9/25/2020 9:51:27 PM 1.168,01 RON
+9/30/2020 12:47:31 PM 1.166,48 RON

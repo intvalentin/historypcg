@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper 500
 877466
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-500/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/851375/877466/thumbnails/hyper-500-9e1c08a3c
 9/21/2020 7:46:59 AM 250,78 RON
 9/24/2020 1:52:52 PM 254,19 RON
 9/25/2020 10:49:36 PM 256,30 RON
+9/30/2020 6:38:44 PM 254,73 RON

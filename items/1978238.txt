@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgm02rgb
 1978238
     Product link    
 https://www.pcgarage.ro/mouse-gaming/canyon/cnd-sgm02rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1978238/thumbnails/cnd-sgm02rgb-c057cf9
 9/21/2020 8:00:09 AM 31,98 RON
 9/24/2020 7:05:25 PM 31,98 RON
 9/26/2020 10:07:10 AM 31,98 RON
+9/30/2020 8:12:21 AM 31,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mu-pb2t0b+-+eu
 1773016
     Product link    
 https://www.pcgarage.ro/ssd/samsung/x5-2tb-thunderbolt-3-type-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5015/1773016/thumbnails/x5-500gb-thunderbolt
 9/21/2020 7:44:55 AM 3.352,10 RON
 9/24/2020 11:06:04 AM 3.332,55 RON
 9/25/2020 10:03:21 PM 3.294,75 RON
+9/30/2020 3:07:27 PM 3.264,77 RON

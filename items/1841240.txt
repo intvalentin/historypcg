@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw64gx4m4c3000c15
 1841240
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-64gb-ddr4-3000mhz-cl15-quad-channel-kit-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691840/1841240/thumbnails/vengeance-rgb-pro
 9/21/2020 7:41:44 AM 1.494,40 RON
 9/24/2020 8:51:03 AM 1.512,19 RON
 9/25/2020 9:21:02 PM 1.524,51 RON
+9/30/2020 10:25:16 AM 1.524,51 RON

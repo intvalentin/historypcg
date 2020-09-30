@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4dfra266
 2074270
     Product link    
 https://www.pcgarage.ro/memorii/crucial/16gb-ddr4-2666mhz-cl19-12v-11/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5634/2074270/thumbnails/4gb-ddr4-2666mhz-cl1
 9/21/2020 7:39:09 AM 318,56 RON
 9/23/2020 11:08:48 PM 321,91 RON
 9/25/2020 8:52:13 PM 325,65 RON
+9/29/2020 8:54:25 PM 325,21 RON

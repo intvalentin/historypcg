@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-ssd-v100(std)+-+256g+-+od
 2027022
     Product link    
 https://www.pcgarage.ro/ssd/hikvision/v100-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2027022/thumbnails/v100-1tb-sata-iii-25
 9/21/2020 7:42:44 AM 269,31 RON
 9/24/2020 9:32:40 AM 272,14 RON
 9/25/2020 9:40:34 PM 275,30 RON
+9/30/2020 11:15:40 AM 273,95 RON

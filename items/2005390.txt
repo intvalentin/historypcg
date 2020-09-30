@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpeknw020t9x1
 2005390
     Product link    
 https://www.pcgarage.ro/ssd/intel/665p-series-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2003606/2005390/thumbnails/665p-series-1tb-p
 9/21/2020 7:44:50 AM 1.896,49 RON
 9/24/2020 10:55:41 AM 1.917,24 RON
 9/25/2020 9:58:54 PM 1.934,11 RON
+9/30/2020 2:56:50 PM 1.740,84 RON

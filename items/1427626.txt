@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ns38-512gt-c
 1427626
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-512gb-sata-iii-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1363661/1427626/thumbnails/su800-128gb-sata-
 9/21/2020 7:42:33 AM 325,18 RON
 9/24/2020 10:35:06 AM 328,95 RON
 9/25/2020 9:53:41 PM 331,66 RON
+9/30/2020 12:03:24 PM 331,79 RON

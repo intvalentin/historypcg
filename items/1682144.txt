@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |suv500+-+120g
 1682144
     Product link    
 https://www.pcgarage.ro/ssd/kingston/ssdnow-uv500-120gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1664836/1682144/thumbnails/ssdnow-uv500-120g
 9/21/2020 7:43:57 AM 141,65 RON
 9/24/2020 11:12:19 AM 143,58 RON
 9/25/2020 10:04:51 PM 144,77 RON
+9/30/2020 1:13:44 PM 144,09 RON

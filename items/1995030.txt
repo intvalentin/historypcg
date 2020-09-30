@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psat5075a40cnco01b
 1995030
     Product link    
 https://www.pcgarage.ro/surse/njoy/dawn-750-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/1995030/thumbnails/dawn-550-550w-f29
 9/21/2020 7:45:53 AM 250,17 RON
 9/24/2020 1:01:24 PM 250,17 RON
 9/25/2020 10:27:24 PM 250,17 RON
+9/30/2020 6:36:20 PM 250,17 RON

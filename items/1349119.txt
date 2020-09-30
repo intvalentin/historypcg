@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ltp-0450p-2
 1349119
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/litepower-gen2-450w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/1349119/thumbnails/litepower-gen2-450w-6e7
 9/21/2020 7:46:59 AM 187,42 RON
 9/24/2020 1:40:25 PM 189,97 RON
 9/25/2020 10:45:10 PM 191,55 RON
+9/30/2020 6:10:56 PM 190,37 RON

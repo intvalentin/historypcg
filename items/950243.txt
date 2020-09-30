@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fl700 extra
 950243
     Product link    
 https://www.pcgarage.ro/surse/floston/fl700-extra-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929094/950243/thumbnails/fl700-extra-700w-a4
 9/21/2020 7:47:26 AM 248,93 RON
 9/24/2020 1:50:48 PM 252,33 RON
 9/25/2020 10:48:53 PM 254,47 RON
+9/30/2020 6:37:54 PM 253,23 RON

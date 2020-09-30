@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |si500
 2069882
     Product link    
 https://www.pcgarage.ro/surse/inaza/si500-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2069882/thumbnails/si500-500w-13cce0c7d
 9/21/2020 7:46:18 AM 160,53 RON
 9/24/2020 12:36:45 PM 162,71 RON
 9/25/2020 10:18:02 PM 164,06 RON
+9/30/2020 4:54:29 PM 163,29 RON

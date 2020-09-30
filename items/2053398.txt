@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000vna04
 2053398
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-8tb-sata-iii-7200rpm-256mb-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1192525/2053398/thumbnails/ironwolf-8tb-sata
 9/21/2020 7:45:33 AM 1.428,13 RON
 9/24/2020 12:24:25 PM 1.445,01 RON
 9/25/2020 10:12:56 PM 1.456,68 RON
+9/30/2020 4:25:36 PM 1.447,60 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx313c9fb+-+8
 825829
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/hyperx-fury-black-8gb-ddr3-1333-mhz-cl9/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/825829/thumbnails/8gb-1333mhz-ddr3-cl
 9/21/2020 7:37:44 AM 199,54 RON
 9/23/2020 11:56:22 PM 201,95 RON
 9/25/2020 9:08:21 PM 203,65 RON
+9/29/2020 8:19:10 PM 203,65 RON

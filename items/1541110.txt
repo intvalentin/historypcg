@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pv432g300c6k
 1541110
     Product link    
 https://www.pcgarage.ro/memorii/patriot/viper-4-series-32gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862955/1541110/thumbnails/viper-4-series-8gb
 9/21/2020 7:39:24 AM 621,19 RON
 9/23/2020 11:43:57 PM 628,23 RON
 9/25/2020 9:04:39 PM 633,62 RON
+9/29/2020 9:48:13 PM 633,76 RON

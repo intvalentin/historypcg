@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vsa001
 1732900
     Product link    
 https://www.pcgarage.ro/unelte/heinner/surublenita-36v-li-ion-2-pozitii/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1728700/1732900/thumbnails/surublenita-36v-l
 9/21/2020 7:59:09 AM 69,29 RON
 9/24/2020 6:56:07 PM 69,29 RON
 9/26/2020 9:57:45 AM 69,29 RON
+9/29/2020 10:29:25 PM 69,29 RON

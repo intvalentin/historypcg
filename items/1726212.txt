@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000dm008
 1726212
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/barracuda-2tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8674/1726212/thumbnails/barracuda-2tb-sata-i
 9/21/2020 7:45:02 AM 278,99 RON
 9/24/2020 11:24:44 AM 278,99 RON
 9/25/2020 10:10:01 PM 278,99 RON
+9/30/2020 3:38:29 PM 278,99 RON

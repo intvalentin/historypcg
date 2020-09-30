@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cma-cemb00xxbk12-g4
 1769708
     Product link    
 https://www.pcgarage.ro/modding/cooler-master/atx-24-pin-90-adapter/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1804216/1769708/thumbnails/24-pin-90-adapter
 9/21/2020 7:58:45 AM 173,98 RON
 9/24/2020 6:51:43 PM 172,06 RON
 9/26/2020 9:53:20 AM 170,93 RON
+9/29/2020 9:51:17 PM 169,49 RON

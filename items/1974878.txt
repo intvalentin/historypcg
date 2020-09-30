@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds500g1r0a
 1974878
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/red-sa500-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1974878/thumbnails/red-sa500-500gb-sata
 9/21/2020 7:42:57 AM 341,36 RON
 9/24/2020 10:57:45 AM 343,04 RON
 9/25/2020 10:00:24 PM 346,96 RON
+9/30/2020 1:49:24 PM 346,51 RON

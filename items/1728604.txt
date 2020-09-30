@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kb240g801
 1728604
     Product link    
 https://www.pcgarage.ro/ssd/intel/s4510-dc-series-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1728604/thumbnails/s4510-dc-series-9
 9/21/2020 7:42:40 AM 486,43 RON
 9/24/2020 10:28:54 AM 493,04 RON
 9/25/2020 10:04:06 PM 497,14 RON
+9/30/2020 2:04:06 PM 466,84 RON

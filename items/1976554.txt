@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zp500gm3a002
 1976554
     Product link    
 https://www.pcgarage.ro/ssd/seagate/firecuda-520-500gb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1976554/thumbnails/seagate-firecuda-520
 9/21/2020 7:43:38 AM 610,20 RON
 9/24/2020 9:53:04 AM 793,02 RON
 9/25/2020 9:45:36 PM 787,73 RON
+9/30/2020 12:40:01 PM 786,70 RON

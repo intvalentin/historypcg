@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-asm2ne6500gttd
 1902994
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/aorus-500gb-pci-express-40-x4-m2-2280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1202/1902994/thumbnails/aorus-2tb-pci-expres
 9/21/2020 7:42:29 AM 645,00 RON
 9/24/2020 9:57:12 AM 651,80 RON
 9/25/2020 10:01:08 PM 659,34 RON
+9/30/2020 2:28:02 PM 658,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-gx-850
 1976014
     Product link    
 https://www.pcgarage.ro/surse/seasonic/prime-gx-850-80-plus-gold-850w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1976014/thumbnails/prime-gx-850-80-plus
 9/21/2020 7:45:49 AM 924,17 RON
 9/24/2020 12:34:42 PM 859,48 RON
 9/25/2020 10:20:14 PM 924,17 RON
+9/30/2020 5:50:10 PM 924,17 RON

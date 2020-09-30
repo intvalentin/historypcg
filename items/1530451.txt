@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ak-b1-400
 1530451
     Product link    
 https://www.pcgarage.ro/surse/akyga/basic-ak-b1-400-400w/
@@ -8,3 +8,4 @@ AKYGA Basic AK-B1-400, 400W
 https://4.grgs.ro/images/products/1/1355324/1530451/thumbnails/basic-ak-b1-400-400w-1afd6c978f32243814890ce7555dfddb.jpg
     Pret    
 9/25/2020 10:23:04 PM 83,97 RON
+9/30/2020 4:48:20 PM 84,27 RON

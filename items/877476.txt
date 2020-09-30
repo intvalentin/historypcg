@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper 700
 877476
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-700/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/877476/thumbnails/hyper-700-8bdef1a3e
 9/21/2020 7:47:40 AM 328,93 RON
 9/24/2020 1:52:52 PM 331,58 RON
 9/25/2020 10:49:36 PM 334,40 RON
+9/30/2020 7:10:20 PM 332,76 RON

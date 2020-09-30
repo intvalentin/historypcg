@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz03-02520100-r3m1
 1744112
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/razer/huntsman-mecanica/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1737700/1744112/thumbnails/huntsman-mecanica
 9/24/2020 7:42:41 PM 756,49 RON
 9/24/2020 11:26:56 PM 756,49 RON
 9/26/2020 10:39:33 AM 756,49 RON
+9/30/2020 12:42:21 PM 756,49 RON

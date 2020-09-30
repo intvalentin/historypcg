@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e408269a
 1802004
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/8gb-ddr4-2666mhz-cl19-12v-6/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1802004/thumbnails/8gb-ddr4-2400mhz-cl17
 9/21/2020 7:40:08 AM 161,53 RON
 9/24/2020 8:55:12 AM 163,72 RON
 9/25/2020 9:22:31 PM 165,09 RON
+9/29/2020 11:14:35 PM 164,31 RON

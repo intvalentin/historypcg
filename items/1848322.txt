@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |GA-J3455N-D3H
 1848322
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/ga-j3455n-d3h/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1844684/1848322/thumbnails/ga-j3455n-d3h-c76
 9/21/2020 7:36:41 AM 458,70 RON
 9/23/2020 10:15:59 PM 463,53 RON
 9/25/2020 8:39:41 PM 468,80 RON
+9/29/2020 5:06:38 PM 468,28 RON

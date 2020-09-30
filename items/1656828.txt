@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-8930002
 1656828
     Product link    
 https://www.pcgarage.ro/modding/corsair/rgb-led-lighting-pro-expansion-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1649828/1656828/thumbnails/rgb-led-lighting-
 9/21/2020 7:58:42 AM 187,96 RON
 9/24/2020 6:51:43 PM 190,51 RON
 9/26/2020 9:53:20 AM 192,14 RON
+9/29/2020 9:52:05 PM 191,90 RON

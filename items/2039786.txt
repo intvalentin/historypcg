@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc268
 2039786
     Product link    
 https://www.pcgarage.ro/surse/SilentiumPC/vero-m3-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2039786/thumbnails/vero-m3-80-plus-b
 9/21/2020 7:45:41 AM 295,13 RON
 9/24/2020 12:34:42 PM 295,49 RON
 9/25/2020 10:26:40 PM 336,35 RON
+9/30/2020 5:17:01 PM 296,08 RON

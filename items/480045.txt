@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct25664aa800
 480045
     Product link    
 https://www.pcgarage.ro/memorii/crucial/2gb-ddr2-800mhz-cl6-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/480045/thumbnails/2gb-ddr2-800mhz-cl6-ca1d
 9/21/2020 7:40:27 AM 153,41 RON
 9/24/2020 9:28:32 AM 155,02 RON
 9/25/2020 9:39:06 PM 156,82 RON
+9/29/2020 11:09:26 PM 156,61 RON

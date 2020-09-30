@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.db260.p100c
 2061342
     Product link    
 https://www.pcgarage.ro/ssd/apacer/as350-panther-128gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692296/2061342/thumbnails/as350-panther-120
 9/21/2020 7:43:33 AM 84,69 RON
 9/24/2020 10:49:27 AM 84,42 RON
 9/25/2020 9:57:25 PM 83,88 RON
+9/30/2020 1:00:29 PM 82,54 RON

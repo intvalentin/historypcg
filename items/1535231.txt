@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000ne0025
 1535231
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-2tb-sata-iii-7200rpm-128mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1443558/1535231/thumbnails/ironwolf-pro-2tb-
 9/21/2020 7:45:19 AM 477,27 RON
 9/24/2020 12:30:36 PM 483,76 RON
 9/25/2020 10:15:08 PM 487,78 RON
+9/30/2020 4:10:23 PM 485,50 RON

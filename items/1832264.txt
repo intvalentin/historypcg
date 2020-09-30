@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tgm302
 1832264
     Product link    
 https://www.pcgarage.ro/mouse-gaming/t-dagger/captain-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5664/1832264/thumbnails/captain-black-15c6e7
 9/21/2020 7:59:40 AM 99,99 RON
 9/24/2020 7:02:33 PM 99,99 RON
 9/26/2020 10:04:12 AM 99,99 RON
+9/30/2020 8:24:18 AM 133,99 RON

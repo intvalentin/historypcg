@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts64gssd630
 818563
     Product link    
 https://www.pcgarage.ro/ssd/transcend/ssd630-64gb-sata-ii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/782584/818563/thumbnails/ssd630-64gb-sata-ii
 9/21/2020 7:44:26 AM 496,74 RON
 9/24/2020 11:22:41 AM 502,31 RON
 9/25/2020 10:09:18 PM 506,55 RON
+9/30/2020 2:11:46 PM 503,50 RON

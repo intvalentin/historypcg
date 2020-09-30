@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-p550b
 2055162
     Product link    
 https://www.pcgarage.ro/surse/gigabyte/p550b-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2055162/thumbnails/p550b-80-plus-bronze
 9/21/2020 7:45:57 AM 272,53 RON
 9/24/2020 12:38:48 PM 275,41 RON
 9/25/2020 10:26:40 PM 278,11 RON
+9/30/2020 5:12:45 PM 277,22 RON

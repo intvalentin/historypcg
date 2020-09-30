@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sedc1000bm8+-+480g
 1988574
     Product link    
 https://www.pcgarage.ro/ssd/kingston/dc1000b-480gb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/370411/1988574/thumbnails/ssd-sedc1000bm8-24
 9/21/2020 7:43:19 AM 644,03 RON
 9/24/2020 9:51:01 AM 650,82 RON
 9/25/2020 9:44:52 PM 658,21 RON
+9/30/2020 12:34:09 PM 655,12 RON

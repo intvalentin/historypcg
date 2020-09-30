@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c18pb3k2+-+64
 2075482
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/predator-black-64gb-ddr4-3600mhz-cl18-dual-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/849800/2075482/thumbnails/predator-black-64g
 9/21/2020 7:41:49 AM 1.814,77 RON
 9/24/2020 12:02:35 AM 1.835,30 RON
 9/25/2020 9:11:19 PM 1.850,35 RON
+9/30/2020 10:33:22 AM 1.851,72 RON

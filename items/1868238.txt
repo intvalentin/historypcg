@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw16gx4m2c3200c14
 1868238
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-16gb-ddr4-3200mhz-cl14-dual-channel-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1868238/thumbnails/vengeance-rgb-pro
 9/21/2020 7:39:37 AM 1.124,52 RON
 9/23/2020 11:23:16 PM 1.136,39 RON
 9/25/2020 8:57:22 PM 1.168,43 RON
+9/29/2020 10:16:34 PM 1.168,84 RON

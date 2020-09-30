@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-de530-bk
 1425178
     Product link    
 https://www.pcgarage.ro/surse/deepcool/explorer-series-de530-black-400w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472773/1425178/thumbnails/explorer-series-de
 9/21/2020 7:47:17 AM 151,43 RON
 9/24/2020 1:28:19 PM 153,49 RON
 9/25/2020 10:44:25 PM 154,77 RON
+9/30/2020 6:04:44 PM 153,82 RON

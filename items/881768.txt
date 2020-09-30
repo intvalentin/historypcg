@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004067, 910-004068
 881768
     Product link    
 https://www.pcgarage.ro/mouse-gaming/logitech/g402-hyperion-fury/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/881768/thumbnails/g402-hyperion-fury-
 9/21/2020 7:59:34 AM 219,99 RON
 9/24/2020 7:04:41 PM 219,99 RON
 9/26/2020 10:06:25 AM 219,99 RON
+9/30/2020 8:01:45 AM 219,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpg-600st-h12s
 1497126
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/simplicity-series-600w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175151/1497126/thumbnails/simplicity-series
 9/21/2020 7:47:35 AM 283,34 RON
 9/24/2020 1:22:07 PM 283,68 RON
 9/25/2020 10:34:51 PM 284,16 RON
+9/30/2020 6:51:13 PM 284,26 RON

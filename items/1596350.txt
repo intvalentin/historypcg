@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3813450
 1596350
     Product link    
 https://www.pcgarage.ro/ssd/intenso/high-performance-480gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/1596350/thumbnails/high-performance-480gb-
 9/21/2020 7:44:16 AM 358,08 RON
 9/24/2020 11:16:29 AM 358,14 RON
 9/25/2020 10:07:06 PM 359,11 RON
+9/30/2020 1:52:05 PM 358,98 RON

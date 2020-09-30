@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hermes-e2-bn
 1720400
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/gamdias/hermes-e2-gamdias-brown-mecanica/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/1692296/1720400/thumbnails/hermes-e2-gamdias
 9/24/2020 7:45:36 PM 237,98 RON
 9/24/2020 11:29:52 PM 237,98 RON
 9/26/2020 10:42:33 AM 237,98 RON
+9/30/2020 12:51:27 PM 235,98 RON

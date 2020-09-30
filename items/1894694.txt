@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmw32gx4m2z3200c16
 1894694
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-pro-32gb-ddr4-3200mhz-cl16-dual-channel-kit-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1894694/thumbnails/vengeance-rgb-pro
 9/21/2020 7:37:44 AM 737,15 RON
 9/23/2020 11:23:15 PM 745,57 RON
 9/25/2020 8:57:22 PM 751,78 RON
+9/30/2020 9:37:38 AM 752,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tps200
 1972822
     Product link    
 https://www.pcgarage.ro/surse/t-dagger/neutron-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1972822/thumbnails/neutron-500w-2c8c257
 9/21/2020 7:46:18 AM 172,20 RON
 9/24/2020 12:42:54 PM 174,54 RON
 9/25/2020 10:20:14 PM 175,99 RON
+9/30/2020 4:56:46 PM 175,17 RON

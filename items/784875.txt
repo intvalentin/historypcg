@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd1003fzex
 784875
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/1tb-sata-iii-7200rpm-64mb-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/784875/thumbnails/1tb-sata-iii-7200rpm-64m
 9/21/2020 7:45:02 AM 395,99 RON
 9/24/2020 11:26:47 AM 395,99 RON
 9/25/2020 10:10:44 PM 395,99 RON
+9/30/2020 3:40:07 PM 395,99 RON

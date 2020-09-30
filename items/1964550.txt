@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skc600+-+512g
 1964550
     Product link    
 https://www.pcgarage.ro/ssd/kingston/kc600-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1960570/1964550/thumbnails/kingston-ssd-256g
 9/21/2020 7:42:10 AM 317,29 RON
 9/24/2020 9:55:08 AM 317,29 RON
 9/25/2020 9:40:34 PM 317,29 RON
+9/30/2020 11:18:32 AM 317,29 RON

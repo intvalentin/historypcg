@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct2k102464bd160b
 1177699
     Product link    
 https://www.pcgarage.ro/memorii/crucial/16gb-ddr3-1600mhz-cl11-dual-channel-kit-135v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/480523/1177699/thumbnails/16gb-ddr3-1866mhz-
 9/21/2020 7:41:05 AM 467,62 RON
 9/24/2020 9:20:11 AM 472,55 RON
 9/25/2020 9:31:28 PM 478,02 RON
+9/30/2020 9:06:09 AM 477,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-ap750gm
 1868482
     Product link    
 https://www.pcgarage.ro/surse/gigabyte/aorus-p750w-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1868482/thumbnails/aorus-p850w-80-pl
 9/21/2020 7:45:49 AM 599,11 RON
 9/24/2020 12:44:58 PM 605,43 RON
 9/25/2020 10:20:57 PM 604,07 RON
+9/30/2020 5:43:39 PM 601,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r009d408gx2-4000c19a
 1987190
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/toughram-rgb-16gb-ddr4-4000mhz-cl19-dual-channel/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8977/1987190/thumbnails/toughram-rgb-16gb-dd
 9/21/2020 7:41:25 AM 769,47 RON
 9/23/2020 11:15:01 PM 779,93 RON
 9/25/2020 8:54:26 PM 786,41 RON
+9/29/2020 10:02:17 PM 782,73 RON

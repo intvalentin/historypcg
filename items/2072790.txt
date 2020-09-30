@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za4000nm1a002
 2072790
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-125-4tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072790/thumbnails/seagate-ironwolf-125
 9/21/2020 7:44:55 AM 3.060,26 RON
 9/24/2020 10:39:12 AM 3.095,44 RON
 9/25/2020 9:55:11 PM 3.121,51 RON
+9/30/2020 3:06:55 PM 3.122,81 RON

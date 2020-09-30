@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f4-2133c15d-16gft
 1532339
     Product link    
 https://www.pcgarage.ro/memorii/gskill/fortis-for-amd-16gb-ddr4-2133mhz-cl15-12v-dual-channel-kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475558/1532339/thumbnails/fortis-for-amd-16
 9/21/2020 7:39:05 AM 266,25 RON
 9/23/2020 11:43:57 PM 269,20 RON
 9/25/2020 9:04:39 PM 271,59 RON
+9/29/2020 8:49:56 PM 280,43 RON

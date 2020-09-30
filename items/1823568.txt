@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080081
 1823568
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/kingdom-hearts-the-story-so-far-pentru-playstation-4/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1821372/1823568/thumbnails/kingdom-hearts-th
 9/24/2020 8:02:41 PM 99,98 RON
 9/24/2020 11:46:57 PM 99,98 RON
 9/26/2020 10:59:42 AM 99,98 RON
+9/30/2020 3:13:06 PM 99,98 RON

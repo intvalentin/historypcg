@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21090
 1185451
     Product link    
 https://www.pcgarage.ro/mouse-gaming/trust/gxt-111/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1185451/thumbnails/gxt-111-9f98330f32
 9/21/2020 7:59:51 AM 55,98 RON
 9/24/2020 7:07:37 PM 55,98 RON
 9/26/2020 10:09:23 AM 55,98 RON
+9/30/2020 8:14:49 AM 55,98 RON

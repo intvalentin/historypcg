@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00041
 287643
     Product link    
 https://www.pcgarage.ro/casti-gaming/plantronics/audio-626/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/4/287643/thumbnails/audio-626-303cccc0eddedb
 9/24/2020 7:40:33 PM 153,98 RON
 9/24/2020 11:24:47 PM 153,98 RON
 9/26/2020 10:37:17 AM 153,98 RON
+9/30/2020 11:48:28 AM 153,98 RON

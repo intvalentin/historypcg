@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za480cv1a001
 2033994
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-q1-480gb-sata-iii-25-inch-ww/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2033994/thumbnails/barracuda-q1-960gb-s
 9/21/2020 7:43:10 AM 299,30 RON
 9/24/2020 9:46:53 AM 302,46 RON
 9/25/2020 9:44:08 PM 305,96 RON
+9/30/2020 11:59:04 AM 313,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-450b
 1136708
     Product link    
 https://www.pcgarage.ro/surse/id-cooling/se-450b-80-plus-bronze-450w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1113903/1136708/thumbnails/se-450b-80-plus-b
 9/21/2020 7:47:26 AM 233,79 RON
 9/24/2020 1:44:34 PM 236,97 RON
 9/25/2020 10:46:40 PM 238,94 RON
+9/30/2020 6:33:18 PM 237,47 RON

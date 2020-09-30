@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu650ss-240gt-r
 1740740
     Product link    
 https://www.pcgarage.ro/ssd/a-data/ultimate-su650-240gb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427466/1740740/thumbnails/ultimate-su650-24
 9/21/2020 7:42:21 AM 136,84 RON
 9/24/2020 10:26:50 AM 137,47 RON
 9/25/2020 9:41:58 PM 129,62 RON
+9/30/2020 11:04:52 AM 129,62 RON

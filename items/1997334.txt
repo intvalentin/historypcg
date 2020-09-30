@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B450M MORTAR MAX
 1997334
     Product link    
 https://www.pcgarage.ro/placi-de-baza/msi/b450m-mortarmax/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1997334/thumbnails/b450m-mortarmax-3
 9/21/2020 7:36:41 AM 475,09 RON
 9/23/2020 7:39:26 PM 481,54 RON
 9/25/2020 8:38:11 PM 485,54 RON
+9/29/2020 5:08:29 PM 485,01 RON

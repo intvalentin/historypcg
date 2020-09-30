@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds200t3xhc
 1924186
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/black-sn750-heatsink-2tb-pci-express-30-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8629/1924186/thumbnails/black-sn750-heatsink
 9/21/2020 7:44:55 AM 2.298,12 RON
 9/24/2020 10:59:50 AM 2.103,91 RON
 9/25/2020 10:01:07 PM 2.123,44 RON
+9/30/2020 3:01:03 PM 2.123,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmr32gx4m4c3000c15
 1481154
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-rgb-led-32gb-ddr4-3000mhz-cl15-quad-channel-kit/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1434070/1481154/thumbnails/vengeance-rgb-led
 9/21/2020 7:41:39 AM 1.224,97 RON
 9/24/2020 9:16:01 AM 1.231,10 RON
 9/25/2020 9:29:59 PM 1.245,34 RON
+9/30/2020 10:14:46 AM 1.243,71 RON

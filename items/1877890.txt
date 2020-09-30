@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cx-9020002-ww
 1877890
     Product link    
 https://www.pcgarage.ro/watercooling/corsair/hydro-x-series-xg7-rgb-20-series-gpu-waterblock-2080-fe/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1868718/1877890/thumbnails/hydro-x-series-xg
 9/21/2020 7:59:03 AM 686,81 RON
 9/24/2020 6:54:39 PM 687,65 RON
 9/26/2020 9:56:18 AM 688,79 RON
+9/29/2020 10:19:19 PM 688,55 RON

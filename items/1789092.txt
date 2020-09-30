@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf4d48g2400hc15bdc01
 1789092
     Product link    
 https://www.pcgarage.ro/memorii/teamgroup/team-group-delta-rgb-ddr4-8gb-2x4gb-2400mhz-cl15-12v-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6440/1789092/thumbnails/t-force-delta-rgb-wh
 9/21/2020 7:39:05 AM 262,60 RON
 9/23/2020 11:25:20 PM 265,69 RON
 9/25/2020 8:58:07 PM 267,94 RON
+9/29/2020 8:47:34 PM 267,94 RON

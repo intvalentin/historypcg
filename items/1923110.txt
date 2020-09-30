@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gpu-850fc
 1923110
     Product link    
 https://www.pcgarage.ro/surse/chieftec/gpu-850fc-80-plus-platinum-850w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8629/1923110/thumbnails/gpu-850fc-80-plus-go
 9/21/2020 7:46:18 AM 880,22 RON
 9/24/2020 12:42:54 PM 890,22 RON
 9/25/2020 10:28:54 PM 897,78 RON
+9/30/2020 5:49:19 PM 892,21 RON

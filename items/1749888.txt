@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdsc2kg960g801
 1749888
     Product link    
 https://www.pcgarage.ro/ssd/intel/s4610-d3-series-960gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1736364/1749888/thumbnails/s4610-d3-series-4
 9/21/2020 7:44:45 AM 1.353,38 RON
 9/24/2020 10:26:50 AM 1.371,78 RON
 9/25/2020 9:50:43 PM 1.383,18 RON
+9/30/2020 12:48:35 PM 1.260,69 RON

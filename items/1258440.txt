@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |943-000099
 1258440
     Product link    
 https://www.pcgarage.ro/mouse-pad/logitech/g440-v2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/853128/1258440/thumbnails/g440-v2-9c66c7e02c
 9/21/2020 8:00:22 AM 119,99 RON
 9/24/2020 7:13:23 PM 119,99 RON
 9/26/2020 10:16:37 AM 119,99 RON
+9/30/2020 9:21:17 AM 119,99 RON

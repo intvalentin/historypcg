@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmk16gx4m1d3000c16
 1718576
     Product link    
 https://www.pcgarage.ro/memorii/corsair/vengeance-lpx-black-16gb-ddr4-3000mhz-cl16-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1718576/thumbnails/vengeance-lpx-blac
 9/21/2020 7:37:27 AM 305,99 RON
 9/23/2020 11:02:38 PM 305,99 RON
 9/25/2020 8:49:19 PM 305,99 RON
+9/29/2020 8:52:06 PM 305,99 RON

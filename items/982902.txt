@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sga1010001
 982902
     Product link    
 https://www.pcgarage.ro/jocuri/sega/total-war-attila-pentru-pc/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/859765/982902/thumbnails/total-war-attila-pe
 9/21/2020 8:04:39 AM 149,98 RON
 9/25/2020 12:10:40 AM 149,98 RON
 9/26/2020 1:07:34 PM 149,98 RON
+9/30/2020 3:44:58 PM 149,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e30144a
 800627
     Product link    
 https://www.pcgarage.ro/memorii/exceleram/4gb-ddr3-1600mhz-cl11-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/800627/thumbnails/4gb-ddr3-1600mhz-cl
 9/21/2020 7:40:17 AM 90,98 RON
 9/24/2020 9:28:32 AM 92,21 RON
 9/25/2020 9:39:06 PM 92,98 RON
+9/29/2020 10:41:20 PM 92,54 RON

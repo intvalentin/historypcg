@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53230
 2045838
     Product link    
 https://www.pcgarage.ro/ssd/verbatim/store-n-go-1tb-usb-32-tip-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2045838/thumbnails/store-n-go-1tb-us
 9/21/2020 7:43:01 AM 699,44 RON
 9/24/2020 9:46:53 AM 699,44 RON
 9/25/2020 9:43:24 PM 699,44 RON
+9/30/2020 12:34:57 PM 699,44 RON

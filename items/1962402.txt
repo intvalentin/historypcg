@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za500cm1a002
 1962402
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-500gb-sata-iii-25-inch-retail/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1962402/thumbnails/barracuda-500gb-s
 9/21/2020 7:44:16 AM 378,62 RON
 9/24/2020 10:59:50 AM 382,61 RON
 9/25/2020 10:01:07 PM 387,04 RON
+9/30/2020 1:55:50 PM 386,53 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4n002-01-20g
 1856850
     Product link    
 https://www.pcgarage.ro/modding/sapphire/nitro-gear-backplate-shroud-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848774/1856850/thumbnails/nitro-gear-backpl
 9/21/2020 7:58:54 AM 104,58 RON
 9/24/2020 6:52:27 PM 106,67 RON
 9/26/2020 9:54:04 AM 106,67 RON
+9/29/2020 10:04:37 PM 106,83 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-p650b
 1653972
     Product link    
 https://www.pcgarage.ro/surse/gigabyte/p650b-80-plus-bronze-650w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1649828/1653972/thumbnails/p650b-80-plus-bro
 9/21/2020 7:45:53 AM 312,47 RON
 9/24/2020 12:47:02 PM 314,98 RON
 9/25/2020 10:21:40 PM 317,67 RON
+9/30/2020 5:20:12 PM 316,10 RON

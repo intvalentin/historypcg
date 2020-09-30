@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gr2133d464l15s+-+4g
 1419418
     Product link    
 https://www.pcgarage.ro/memorii/goodram/4gb-ddr4-2133mhz-cl15-12v-1/
@@ -8,3 +8,4 @@ GOODRAM 4GB DDR4 2133MHz CL15 1.2v
 https://5.grgs.ro/images/products/1/842306/1419418/thumbnails/4gb-ddr4-2133mhz-cl15-12v-eda359a3015ac81fffbb4950f9ab0fbe.jpg
     Pret    
 9/25/2020 9:06:07 PM 195,72 RON
+9/29/2020 8:16:39 PM 195,46 RON

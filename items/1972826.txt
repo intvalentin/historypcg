@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t-tps201
 1972826
     Product link    
 https://www.pcgarage.ro/surse/t-dagger/proton-600w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1972826/thumbnails/proton-600w-33ffbbef
 9/21/2020 7:46:01 AM 205,07 RON
 9/24/2020 12:42:54 PM 207,86 RON
 9/25/2020 10:20:14 PM 209,59 RON
+9/30/2020 6:20:04 PM 208,30 RON

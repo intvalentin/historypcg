@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn301
 1904026
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/system-power-9-cm-80-plus-bronze-500w/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1899326/1904026/thumbnails/system-power-9-cm
     Pret    
 9/21/2020 7:46:27 AM 356,50 RON
 9/25/2020 10:20:57 PM 350,46 RON
+9/30/2020 5:24:36 PM 352,08 RON

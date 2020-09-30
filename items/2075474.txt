@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx436c18fb4k4+-+64
 2075474
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-black-64gb-ddr4-3600mhz-cl18-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5758/2075474/thumbnails/fury-black-64gb-ddr4
 9/21/2020 7:41:54 AM 2.028,25 RON
 9/24/2020 12:02:35 AM 2.051,52 RON
 9/25/2020 9:11:19 PM 2.067,94 RON
+9/30/2020 10:38:42 AM 2.069,31 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssdpr-cx400-128
 1862878
     Product link    
 https://www.pcgarage.ro/ssd/goodram/cx400-128gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1862878/thumbnails/cx400-1tb-sata-iii-2
 9/21/2020 7:42:17 AM 99,84 RON
 9/24/2020 9:34:42 AM 94,59 RON
 9/25/2020 9:41:16 PM 94,59 RON
+9/30/2020 11:28:21 AM 102,13 RON

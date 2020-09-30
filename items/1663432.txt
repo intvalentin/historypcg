@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_arctisprow
 1663432
     Product link    
 https://www.pcgarage.ro/casti-gaming/steelseries/arctis-pro-wireless/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1573/1663432/thumbnails/arctis-pro-wireless-
 9/21/2020 8:01:46 AM 1.575,98 RON
 9/24/2020 7:31:41 PM 1.575,98 RON
 9/26/2020 10:35:06 AM 1.575,98 RON
+9/30/2020 12:22:18 PM 1.575,98 RON

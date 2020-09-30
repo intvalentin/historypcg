@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts960gesd350c
 2060574
     Product link    
 https://www.pcgarage.ro/ssd/transcend/esd350c-960gb-usb-31-tip-c-navy-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2060574/thumbnails/transcend-ts960gesd3
 9/21/2020 7:44:36 AM 766,34 RON
 9/24/2020 10:49:27 AM 717,70 RON
 9/25/2020 9:57:25 PM 723,67 RON
+9/30/2020 2:32:21 PM 723,93 RON

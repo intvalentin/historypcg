@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wds400t1r0a
 1978642
     Product link    
 https://www.pcgarage.ro/ssd/western-digital/red-sa500-4tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1978642/thumbnails/red-sa500-4tb-sata-i
 9/21/2020 7:42:53 AM 2.533,43 RON
 9/24/2020 9:53:04 AM 2.546,08 RON
 9/25/2020 9:59:39 PM 2.549,00 RON
+9/30/2020 12:57:47 PM 2.572,11 RON

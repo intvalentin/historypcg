@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080084
 1888110
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/final-fantasy-xiv-shadowbringers-complete-edition-pentru-playstation-4/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1798/1888110/thumbnails/final-fantasy-xiv-sh
 9/24/2020 8:01:11 PM 269,98 RON
 9/24/2020 11:45:27 PM 269,98 RON
 9/26/2020 10:58:13 AM 269,98 RON
+9/30/2020 6:16:28 PM 269,98 RON

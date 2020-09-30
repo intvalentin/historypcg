@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |70sb158000000
 1115648
     Product link    
 https://www.pcgarage.ro/placi-de-sunet/creative/sound-blaster-sb-x7-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1115648/thumbnails/sound-blaster-sb-x
 9/21/2020 7:59:20 AM 1.644,74 RON
 9/24/2020 6:57:35 PM 1.644,74 RON
 9/26/2020 9:59:12 AM 1.644,74 RON
+9/29/2020 10:55:48 PM 1.644,74 RON

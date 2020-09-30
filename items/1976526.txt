@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za500cm10003
 1976526
     Product link    
 https://www.pcgarage.ro/ssd/seagate/barracuda-120-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1976526/thumbnails/barracuda-120-250gb-
 9/21/2020 7:43:38 AM 301,45 RON
 9/24/2020 10:57:45 AM 304,83 RON
 9/25/2020 9:46:20 PM 307,40 RON
+9/30/2020 11:57:59 AM 307,53 RON

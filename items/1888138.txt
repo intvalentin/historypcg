@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bts1010040
 1888138
     Product link    
 https://www.pcgarage.ro/jocuri/bethesda/doom-eternal-pentru-pc/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1885090/1888138/thumbnails/doom-eternal-pent
 9/24/2020 8:01:11 PM 294,98 RON
 9/24/2020 11:45:27 PM 294,98 RON
 9/26/2020 10:58:13 AM 294,98 RON
+9/30/2020 6:38:31 PM 294,98 RON

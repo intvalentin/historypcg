@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st6000vx001
 1632794
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/skyhawk-6tb-5400rpm-sata-iii-256mb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1632794/thumbnails/skyhawk-6tb-5400r
 9/21/2020 7:45:06 AM 790,11 RON
 9/24/2020 11:28:51 AM 790,11 RON
 9/25/2020 10:11:28 PM 790,11 RON
+9/30/2020 3:51:39 PM 790,11 RON

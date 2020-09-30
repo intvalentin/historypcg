@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn296
 1769292
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/pure-power-11-cm-80-plus-gold-400w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1769292/thumbnails/pure-power-11-cm-
 9/21/2020 7:46:59 AM 366,43 RON
 9/24/2020 12:47:02 PM 368,31 RON
 9/25/2020 10:21:40 PM 366,10 RON
+9/30/2020 5:28:11 PM 367,72 RON

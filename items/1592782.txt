@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eid4080063
 1592782
     Product link    
 https://www.pcgarage.ro/jocuri/square-enix/dragon-quest-builders-pentru-playstation-4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475490/1592782/thumbnails/dragon-quest-buil
 9/21/2020 8:04:20 AM 109,98 RON
 9/24/2020 11:58:50 PM 109,98 RON
 9/26/2020 11:10:55 AM 109,98 RON
+9/30/2020 3:20:00 PM 109,98 RON

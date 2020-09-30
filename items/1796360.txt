@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m280cs3030-1tb-rb
 1796360
     Product link    
 https://www.pcgarage.ro/ssd/pny/xlr8-cs3030-1tb-pci-express-x4-m2-2280/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/978807/1796360/thumbnails/xlr8-cs3030-1tb-pc
 9/21/2020 7:43:52 AM 631,42 RON
 9/24/2020 11:06:04 AM 638,72 RON
 9/25/2020 10:03:21 PM 644,69 RON
+9/30/2020 2:25:56 PM 644,82 RON

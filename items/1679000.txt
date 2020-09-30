@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix x470-f gaming
 1679000
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/rog-strix-x470-f-gaming/
@@ -10,3 +10,7 @@ https://4.grgs.ro/images/products/1/1666176/1679000/thumbnails/strix-x470-f-gami
 9/21/2020 7:37:04 AM 1.093,56 RON
 9/23/2020 10:24:16 PM 1.105,10 RON
 9/25/2020 8:42:42 PM 1.117,87 RON
+9/29/2020 6:26:17 PM 1.116,41 RON
+9/29/2020 6:26:49 PM 1.116,41 RON
+9/29/2020 6:37:01 PM 1.116,41 RON
+9/29/2020 6:37:48 PM 1.116,41 RON

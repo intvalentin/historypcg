@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts256gssd370s
 1044647
     Product link    
 https://www.pcgarage.ro/ssd/transcend/370-premium-series-256gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/750014/1044647/thumbnails/370s-premium-serie
 9/21/2020 7:43:14 AM 462,46 RON
 9/24/2020 10:35:06 AM 467,64 RON
 9/25/2020 9:54:26 PM 471,61 RON
+9/30/2020 12:18:56 PM 471,75 RON

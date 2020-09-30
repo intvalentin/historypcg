@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |H370 HD3
 1679640
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/h370-hd3/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1664860/1679640/thumbnails/h370-hd3-a411661e
 9/21/2020 7:36:00 AM 522,56 RON
 9/23/2020 10:24:16 PM 528,56 RON
 9/25/2020 8:42:42 PM 532,96 RON
+9/29/2020 5:12:21 PM 533,09 RON
+9/29/2020 9:21:22 PM 533,09 RON

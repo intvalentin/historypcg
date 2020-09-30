@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper m 500
 1129678
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-m-500-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986422/1129678/thumbnails/hyper-m-500-500w-e
 9/21/2020 7:47:36 AM 301,26 RON
 9/24/2020 1:44:34 PM 305,36 RON
 9/25/2020 10:46:40 PM 307,90 RON
+9/30/2020 6:59:40 PM 306,01 RON

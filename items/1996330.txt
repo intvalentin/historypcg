@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gd-white
 1996330
     Product link    
 https://www.pcgarage.ro/mouse-gaming/glorious-pc-gaming-race/mouse-gaming-glorious-model-d-matte-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/1996330/thumbnails/model-d-matte-whi
 9/21/2020 7:59:56 AM 341,98 RON
 9/24/2020 7:05:25 PM 341,98 RON
 9/26/2020 10:07:10 AM 343,98 RON
+9/30/2020 8:34:55 AM 343,98 RON

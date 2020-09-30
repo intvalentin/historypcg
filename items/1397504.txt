@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch-9110014-na
 1397504
     Product link    
 https://www.pcgarage.ro/tastaturi-gaming/corsair/k65-rapidfire-compact-mechanical-gaming-keyboard-cherry-mx-speed-rgb-us/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1126098/1397504/thumbnails/k65-rapidfire-com
 9/24/2020 7:46:20 PM 793,98 RON
 9/24/2020 11:30:35 PM 793,98 RON
 9/26/2020 10:43:17 AM 795,98 RON
+9/30/2020 1:46:12 PM 795,98 RON

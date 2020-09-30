@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cdp1010007
 1889778
     Product link    
 https://www.pcgarage.ro/jocuri/cd-projekt/cyberpunk-2077-pentru-pc/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1885090/1889778/thumbnails/cyberpunk-2077-pe
 9/24/2020 8:00:26 PM 269,99 RON
 9/24/2020 11:44:42 PM 269,99 RON
 9/26/2020 10:50:45 AM 269,99 RON
+9/30/2020 2:16:35 PM 269,99 RON

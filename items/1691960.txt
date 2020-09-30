@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr200 25sat3-240g
 1691960
     Product link    
 https://www.pcgarage.ro/ssd/toshiba/ocz-tr200-240gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1689668/1691960/thumbnails/ocz-tr200-240gb-s
 9/21/2020 7:43:06 AM 214,92 RON
 9/24/2020 10:28:54 AM 213,70 RON
 9/25/2020 9:51:27 PM 211,28 RON
+9/30/2020 11:42:11 AM 209,25 RON

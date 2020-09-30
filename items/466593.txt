@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmx8gx3m1a1600c11
 466593
     Product link    
 https://www.pcgarage.ro/memorii/corsair/xms3-8gb-ddr3-1600mhz-cl11/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/466593/thumbnails/xms3-8gb-ddr3-1600mhz-cl
 9/21/2020 7:38:55 AM 174,19 RON
 9/23/2020 11:56:22 PM 176,18 RON
 9/25/2020 9:09:49 PM 177,59 RON
+9/29/2020 11:22:47 PM 178,16 RON

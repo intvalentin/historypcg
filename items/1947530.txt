@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mp-dcm-rgbhms-02
 1947530
     Product link    
 https://www.pcgarage.ro/mouse-pad/tt-esports/draconem-rgb-touch-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1947530/thumbnails/draconem-rgb-touch-e
 9/21/2020 8:00:47 AM 301,98 RON
 9/24/2020 7:14:08 PM 309,98 RON
 9/26/2020 10:17:23 AM 307,98 RON
+9/30/2020 9:55:47 AM 307,98 RON

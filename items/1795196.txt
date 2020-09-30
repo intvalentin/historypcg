@@ -1,4 +1,4 @@
-    Cod    |PRIME H310M-A R2.0-CSM
+    Cod    |
 1795196
     Product link    
 https://www.pcgarage.ro/placi-de-baza/asus/prime-h310m-a-r20-csm/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3049/1795196/thumbnails/prime-h310m-a-r20-cs
 9/23/2020 10:15:59 PM 351,41 RON
 9/25/2020 8:40:26 PM 355,47 RON
 9/28/2020 10:38:38 PM 355,39 RON
+9/29/2020 1:50:30 PM 355,00 RON

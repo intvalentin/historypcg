@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2dp99aa#abb
 1607886
     Product link    
 https://www.pcgarage.ro/ssd/hp/s700-500gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1520902/1607886/thumbnails/s700-500gb-sata-i
 9/21/2020 7:42:29 AM 276,44 RON
 9/24/2020 11:16:29 AM 277,83 RON
 9/25/2020 10:07:06 PM 281,61 RON
+9/30/2020 1:39:17 PM 281,23 RON

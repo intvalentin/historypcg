@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd5003azex
 458097
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/western-digital/500-gb-sata-iii-64mb-7200rpm-caviar-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/458097/thumbnails/500-gb-sata-iii-64mb-720
 9/21/2020 7:45:10 AM 379,99 RON
 9/24/2020 12:22:22 PM 379,99 RON
 9/25/2020 10:12:11 PM 379,99 RON
+9/30/2020 3:50:00 PM 379,99 RON

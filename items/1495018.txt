@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ht-cra-diecbk-20
 1495018
     Product link    
 https://www.pcgarage.ro/casti-gaming/tt-esports/cronos-riing-rgb-71/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1475558/1495018/thumbnails/cronos-riing-rgb-
 9/21/2020 8:01:41 AM 387,98 RON
 9/24/2020 7:27:14 PM 397,98 RON
 9/26/2020 10:30:40 AM 397,98 RON
+9/30/2020 11:23:44 AM 395,98 RON

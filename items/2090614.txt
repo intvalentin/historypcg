@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ra24d408gx2-3600c18a
 2090614
     Product link    
 https://www.pcgarage.ro/memorii/thermaltake/toughram-rc-16gb-ddr4-3600mhz-cl18-dual-channel/
@@ -8,3 +8,4 @@ Thermaltake ToughRAM RC 16GB DDR4 3600MHz CL18 Dual Channel
 https://3.grgs.ro/images/products/1/8441/2090614/thumbnails/toughram-rc-16gb-ddr4-3200mhz-cl16-dual-channel-13c41a3abd0f86d8896448057d987ab3.jpg
     Pret    
 9/25/2020 8:51:28 PM 509,71 RON
+9/29/2020 9:35:01 PM 507,32 RON

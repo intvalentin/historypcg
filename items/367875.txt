@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ze-ddr3-4g1600b
 367875
     Product link    
 https://www.pcgarage.ro/memorii/zeppelin/4gb-ddr3-1600mhz-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/367875/thumbnails/4gb-ddr3-1600mhz-bulk-d2
 9/21/2020 7:39:42 AM 75,89 RON
 9/24/2020 9:28:32 AM 76,92 RON
 9/25/2020 9:39:06 PM 77,56 RON
+9/29/2020 10:35:36 PM 77,20 RON

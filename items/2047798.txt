@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |B460M D2V
 2047798
     Product link    
 https://www.pcgarage.ro/placi-de-baza/gigabyte/b460m-d2v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2047798/thumbnails/b460m-d2v-fe32280
 9/21/2020 7:36:23 AM 378,80 RON
 9/23/2020 7:33:13 PM 383,19 RON
 9/25/2020 8:35:56 PM 386,39 RON
+9/29/2020 4:56:13 PM 386,39 RON

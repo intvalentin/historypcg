@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx432c16fb3ak4+-+32
 1954382
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-32gb-ddr4-3200mhz-cl16-quad-channel-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5758/1954382/thumbnails/fury-rgb-32gb-ddr4-2
 9/21/2020 7:41:35 AM 1.008,45 RON
 9/24/2020 8:38:35 AM 1.019,94 RON
 9/25/2020 9:16:32 PM 1.028,56 RON
+9/30/2020 10:04:52 AM 1.028,84 RON

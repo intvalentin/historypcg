@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx430c16fb3ak2+-+64
 2075530
     Product link    
 https://www.pcgarage.ro/memorii/hyperx/fury-rgb-64gb-ddr4-3000mhz-cl16-dual-channel-kit/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2075530/thumbnails/fury-rgb-64gb-ddr4-3
     Pret    
 9/23/2020 11:08:47 PM 1.587,60 RON
 9/25/2020 8:51:28 PM 1.601,28 RON
+9/29/2020 10:25:43 PM 1.601,28 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st10000ne0004
 1534731
     Product link    
 https://www.pcgarage.ro/hard-disk-uri/seagate/ironwolf-pro-10tb-sata-iii-7200rpm-256mb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469686/1534731/thumbnails/ironwolf-pro-10tb
 9/21/2020 7:45:33 AM 1.547,04 RON
 9/24/2020 12:30:36 PM 1.568,08 RON
 9/25/2020 10:15:08 PM 1.581,44 RON
+9/30/2020 4:27:27 PM 1.573,71 RON

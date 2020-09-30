@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-udpro512g
 2046450
     Product link    
 https://www.pcgarage.ro/ssd/gigabyte/ud-pro-512gb-sata-iii-25-inch-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2046450/thumbnails/ud-pro-1tb-sata-iii-
 9/21/2020 7:42:57 AM 349,80 RON
 9/24/2020 9:46:52 AM 353,49 RON
 9/25/2020 9:58:09 PM 357,58 RON
+9/30/2020 1:51:16 PM 357,12 RON

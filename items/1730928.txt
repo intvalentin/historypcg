@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rcx-16g2400
 1730928
     Product link    
 https://www.pcgarage.ro/memorii/inno3d/ichill-16gb-ddr4-2400mhz-cl16/
@@ -8,3 +8,4 @@ Inno3D iCHILL 16GB DDR4 2400MHz CL16
 https://3.grgs.ro/images/products/1/8674/1730928/thumbnails/ichill-16gb-ddr4-2666mhz-cl16-dual-channel-kit-3d86cc6f7c12bf54ba64e763cc9b8d21.jpg
     Pret    
 9/25/2020 9:01:00 PM 581,01 RON
+9/29/2020 9:41:18 PM 581,15 RON

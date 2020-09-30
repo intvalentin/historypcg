@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg047
 2060414
     Product link    
 https://www.pcgarage.ro/casti-gaming/spcgear/viro/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2060414/thumbnails/viro-9d6f29be8c61295
 9/21/2020 8:01:37 AM 299,99 RON
 9/24/2020 7:23:35 PM 299,99 RON
 9/26/2020 10:26:57 AM 299,99 RON
+9/30/2020 11:17:33 AM 299,99 RON

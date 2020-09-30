@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asu800ss-512gt-c
 1407838
     Product link    
 https://www.pcgarage.ro/ssd/a-data/su800-512gb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/978807/1407838/thumbnails/su800-256gb-sata-i
 9/21/2020 7:42:25 AM 298,12 RON
 9/24/2020 11:20:38 AM 307,92 RON
 9/25/2020 10:07:51 PM 310,48 RON
+9/30/2020 1:43:01 PM 309,03 RON

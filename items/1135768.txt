@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sfx-450bs
 1135768
     Product link    
 https://www.pcgarage.ro/surse/chieftec/smart-series-sfx-450bs-450w-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/859765/1135768/thumbnails/smart-series-sfx-4
 9/21/2020 7:47:31 AM 261,92 RON
 9/24/2020 1:44:34 PM 266,94 RON
 9/25/2020 10:46:40 PM 267,23 RON
+9/30/2020 5:10:55 PM 265,61 RON
