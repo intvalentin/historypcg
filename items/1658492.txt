@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-pu-bla-sgl
 1658492
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-negru-sgl/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5286/1658492/thumbnails/icon-negru-sgl-321ba
 9/21/2020 8:07:18 AM 1.899,99 RON
 9/25/2020 12:15:03 AM 1.899,99 RON
 9/26/2020 1:11:16 PM 1.899,99 RON
+9/30/2020 7:54:51 PM 1.899,99 RON

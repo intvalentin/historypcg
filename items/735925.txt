@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-750wtb-apfc-2
 735925
     Product link    
 https://www.pcgarage.ro/surse/spire/silenteagle-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/735925/thumbnails/silenteagle-750w-19
 9/21/2020 7:47:49 AM 367,53 RON
 9/24/2020 1:57:01 PM 366,51 RON
 9/25/2020 10:51:03 PM 369,56 RON
+9/30/2020 7:44:45 PM 367,29 RON

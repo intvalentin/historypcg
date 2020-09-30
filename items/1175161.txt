@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |evolution black
 1175161
     Product link    
 https://www.pcgarage.ro/scaune-gaming/playseat/evolution-black-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/959008/1175161/thumbnails/evolution-black-8f
 9/21/2020 8:07:18 AM 1.644,04 RON
 9/25/2020 12:17:15 AM 1.644,04 RON
 9/26/2020 1:13:29 PM 1.644,04 RON
+9/30/2020 8:04:52 PM 1.644,04 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-pu-bpw-sgl
 1778516
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-negru-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778516/thumbnails/icon-negru-platinum-a
 9/21/2020 8:07:28 AM 1.899,99 RON
 9/25/2020 12:16:30 AM 1.899,99 RON
 9/26/2020 1:13:29 PM 1.899,99 RON
+9/30/2020 8:06:46 PM 1.899,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs700-acabb1-eu
 1026046
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/b700-v2-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/746930/1026046/thumbnails/b700-v2-4809f29722
 9/21/2020 7:47:53 AM 410,55 RON
 9/24/2020 1:48:43 PM 410,55 RON
 9/25/2020 10:48:09 PM 410,55 RON
+9/30/2020 7:55:22 PM 410,55 RON

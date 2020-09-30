@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nc-c100-b
 2053878
     Product link    
 https://www.pcgarage.ro/scaune-gaming/nitro-concepts/c100-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053878/thumbnails/c100-black-c2b1befaf
 9/21/2020 8:07:14 AM 935,89 RON
 9/25/2020 12:14:20 AM 935,89 RON
 9/26/2020 1:10:31 PM 935,89 RON
+9/30/2020 7:46:55 PM 935,89 RON

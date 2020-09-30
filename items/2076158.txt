@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_ch303rd
 2076158
     Product link    
 https://www.pcgarage.ro/scaune-gaming/marvo/ch-303-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2076158/thumbnails/ch-303-red-2dbd5f411
 9/21/2020 8:07:23 AM 455,34 RON
 9/25/2020 12:15:45 AM 455,34 RON
 9/26/2020 1:12:44 PM 455,34 RON
+9/30/2020 7:57:04 PM 455,34 RON

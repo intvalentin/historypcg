@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inf01-br
 1745568
     Product link    
 https://www.pcgarage.ro/scaune-gaming/inaza/infinity-negru-rosu/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6748/1745568/thumbnails/infinity-negru-rosu-
 9/21/2020 8:07:28 AM 1.479,99 RON
 9/25/2020 12:17:15 AM 1.479,99 RON
 9/26/2020 1:13:29 PM 1.479,99 RON
+9/30/2020 8:03:35 PM 1.479,99 RON

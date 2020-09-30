@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgch2
 2033594
     Product link    
 https://www.pcgarage.ro/scaune-gaming/canyon/vigil/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033594/thumbnails/vigil-47be23babeb636
 9/21/2020 8:07:42 AM 519,75 RON
 9/25/2020 12:17:59 AM 531,30 RON
 9/26/2020 1:14:13 PM 531,19 RON
+9/30/2020 8:11:21 PM 527,93 RON

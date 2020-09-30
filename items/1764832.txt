@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgch5
 1764832
     Product link    
 https://www.pcgarage.ro/scaune-gaming/canyon/corax-negru-portocaliu/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3442/1764832/thumbnails/corax-black-orange-0
 9/21/2020 8:07:28 AM 1.109,21 RON
 9/25/2020 12:17:15 AM 1.133,88 RON
 9/26/2020 1:13:29 PM 1.133,63 RON
+9/30/2020 8:02:29 PM 1.126,68 RON

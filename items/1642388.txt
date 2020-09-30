@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |csn-650c
 1642388
     Product link    
 https://www.pcgarage.ro/surse/chieftec/csn-650c-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/922/1642388/thumbnails/csn-550c-80-plus-gold
 9/21/2020 7:47:53 AM 441,49 RON
 9/24/2020 1:15:54 PM 449,62 RON
 9/25/2020 10:32:37 PM 450,20 RON
+9/30/2020 8:02:59 PM 447,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-hro-pu-bla-sgl
 1754480
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/hero-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1754480/thumbnails/hero-negru-658223
 9/21/2020 8:07:10 AM 1.999,99 RON
 9/25/2020 12:15:03 AM 1.999,99 RON
 9/26/2020 1:11:16 PM 1.999,99 RON
+9/30/2020 7:55:08 PM 1.999,99 RON

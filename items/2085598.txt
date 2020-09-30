@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22256
 2085598
     Product link    
 https://www.pcgarage.ro/scaune-gaming/trust/trust-gxt-705r-ryon-gaming-chair-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2085598/thumbnails/gxt-705r-ryon-black-
 9/21/2020 8:07:23 AM 941,26 RON
 9/25/2020 12:15:45 AM 942,14 RON
 9/26/2020 1:11:59 PM 943,72 RON
+9/30/2020 8:01:05 PM 944,03 RON

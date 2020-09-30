@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gnsis_trit500rgbbk
 1996286
     Product link    
 https://www.pcgarage.ro/scaune-gaming/genesis/trit-500-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990366/1996286/thumbnails/trit-500-rgb-9e1c
 9/21/2020 8:07:10 AM 1.079,99 RON
 9/25/2020 12:14:20 AM 1.079,99 RON
 9/26/2020 1:10:31 PM 1.079,99 RON
+9/30/2020 7:49:09 PM 1.079,99 RON

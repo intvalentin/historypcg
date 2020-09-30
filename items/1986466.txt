@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-sgch3
 1986466
     Product link    
 https://www.pcgarage.ro/scaune-gaming/canyon/cnd-sgch3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1977958/1986466/thumbnails/fobos-negru-porto
 9/21/2020 8:07:23 AM 854,99 RON
 9/25/2020 12:16:30 AM 854,99 RON
 9/26/2020 1:12:44 PM 854,99 RON
+9/30/2020 8:00:16 PM 854,99 RON

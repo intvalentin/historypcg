@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mezzo-v2-red
 1674784
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/mezzo-v2-negru-rosu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664836/1674784/thumbnails/mezzo-v2-negru-ro
 9/21/2020 8:07:14 AM 1.149,99 RON
 9/25/2020 12:15:03 AM 1.149,99 RON
 9/26/2020 1:11:16 PM 1.149,99 RON
+9/30/2020 7:49:25 PM 1.149,99 RON

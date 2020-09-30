@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |focus-gm-500
 1975766
     Product link    
 https://www.pcgarage.ro/surse/seasonic/focus-gm-80-plus-gold-500w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6472/1975766/thumbnails/focus-gm-500-80-plus
 9/21/2020 7:47:49 AM 403,86 RON
 9/24/2020 1:01:24 PM 403,86 RON
 9/25/2020 10:27:24 PM 403,86 RON
+9/30/2020 7:54:00 PM 403,86 RON

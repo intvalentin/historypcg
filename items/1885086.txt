@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-ba0750-sm-eu
 1885086
     Product link    
 https://www.pcgarage.ro/surse/riotoro/onyx-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885086/thumbnails/onyx-80-plus-bronze-
 9/21/2020 7:47:53 AM 425,07 RON
 9/24/2020 1:07:36 PM 430,85 RON
 9/25/2020 10:29:39 PM 434,42 RON
+9/30/2020 8:01:20 PM 431,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-pu-bed-sgl
 2053790
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-black-edition-hybrid-leather-sgl-nbl-icn-pu-bed-sgl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2053790/thumbnails/icon-black-edition-7
 9/21/2020 8:07:28 AM 2.699,99 RON
 9/25/2020 12:16:30 AM 2.699,99 RON
 9/26/2020 1:12:44 PM 2.699,99 RON
+9/30/2020 8:08:08 PM 2.699,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rgb-750cm
 1643032
     Product link    
 https://www.pcgarage.ro/surse/inter-tech/argus-rgb-750cm-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1642372/1643032/thumbnails/argus-rgb-650-mod
 9/21/2020 7:47:44 AM 365,89 RON
 9/24/2020 1:15:54 PM 370,87 RON
 9/25/2020 10:32:37 PM 367,92 RON
+9/30/2020 7:47:11 PM 371,65 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-pu-bla
 1434270
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/epic-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1178653/1434270/thumbnails/epic-negru-d202b0
 9/21/2020 8:07:10 AM 1.699,99 RON
 9/25/2020 12:15:45 AM 1.699,99 RON
 9/26/2020 1:11:59 PM 1.699,99 RON
+9/30/2020 7:54:02 PM 1.699,99 RON

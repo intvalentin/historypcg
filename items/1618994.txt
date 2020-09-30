@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpx-5501-amaab-eu
 1618994
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/masterwatt-550-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1578330/1618994/thumbnails/masterwatt-550-80
 9/21/2020 7:46:45 AM 369,79 RON
 9/24/2020 1:17:58 PM 365,65 RON
 9/25/2020 10:34:06 PM 363,44 RON
+9/30/2020 7:43:55 PM 365,21 RON

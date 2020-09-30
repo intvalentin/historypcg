@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spd-0750nnsabe-1
 1793528
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-bx1-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3049/1793528/thumbnails/thermaltake-smart-bx
 9/21/2020 7:47:07 AM 427,09 RON
 9/24/2020 1:11:44 PM 432,90 RON
 9/25/2020 10:31:08 PM 436,49 RON
+9/30/2020 8:01:37 PM 433,81 RON

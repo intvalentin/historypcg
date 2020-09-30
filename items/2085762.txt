@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020225-eu
 2085762
     Product link    
 https://www.pcgarage.ro/surse/corsair/cx550f-rgb-white-80-plus-bronze-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3354/2085762/thumbnails/cx550f-rgb-white-80-
 9/21/2020 7:47:57 AM 461,29 RON
 9/24/2020 12:59:20 PM 465,01 RON
 9/25/2020 10:25:55 PM 468,93 RON
+9/30/2020 8:05:38 PM 466,03 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ss-450rt
 1161317
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-450rt-80-plus-gold-450w-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/1161317/thumbnails/ss-450rt-80-plus-g
 9/21/2020 7:47:44 AM 354,50 RON
 9/24/2020 1:42:30 PM 359,32 RON
 9/25/2020 10:45:55 PM 362,38 RON
+9/30/2020 7:42:45 PM 360,61 RON

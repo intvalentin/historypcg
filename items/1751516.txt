@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpd-0700n
 1751516
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/toughpower-gx1-80-plus-gold-700w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6763/1751516/thumbnails/toughpower-gx1-80-pl
 9/21/2020 7:47:07 AM 464,98 RON
 9/24/2020 1:11:44 PM 471,30 RON
 9/25/2020 10:31:08 PM 475,22 RON
+9/30/2020 8:06:45 PM 472,30 RON

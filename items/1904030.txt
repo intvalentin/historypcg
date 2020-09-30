@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn302
 1904030
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/system-power-9-cm-80-plus-bronze-600w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1904030/thumbnails/system-power-9-cm
 9/21/2020 7:47:07 AM 410,13 RON
 9/24/2020 1:05:31 PM 405,63 RON
 9/25/2020 10:28:54 PM 403,16 RON
+9/30/2020 7:54:33 PM 405,05 RON

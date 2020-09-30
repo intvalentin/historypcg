@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |challenge
 1139148
     Product link    
 https://www.pcgarage.ro/scaune-gaming/playseat/challenge-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/1139148/thumbnails/challenge-negru-e7
 9/21/2020 8:07:10 AM 1.057,49 RON
 9/25/2020 12:15:45 AM 1.057,49 RON
 9/26/2020 1:11:59 PM 1.057,49 RON
+9/30/2020 7:48:52 PM 1.057,49 RON

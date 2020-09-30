@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inizio-fb-black
 1760952
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/inizio-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1153/1760952/thumbnails/inizio-negru-62938d0
 9/21/2020 8:07:18 AM 1.099,99 RON
 9/25/2020 12:17:15 AM 1.099,99 RON
 9/26/2020 1:13:29 PM 1.099,99 RON
+9/30/2020 8:02:12 PM 1.099,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ggc-eg5-bblfdm-01
 2051150
     Product link    
 https://www.pcgarage.ro/scaune-gaming/thermaltake/cyberchair-e500-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2051150/thumbnails/cyberchair-e500-blac
 9/21/2020 8:07:23 AM 2.999,99 RON
 9/25/2020 12:14:20 AM 2.999,99 RON
 9/26/2020 1:10:31 PM 2.999,99 RON
+9/30/2020 7:55:57 PM 2.999,99 RON

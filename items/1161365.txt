@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ss-650rt
 1161365
     Product link    
 https://www.pcgarage.ro/surse/seasonic/ss-650rt-80-plus-gold-650w-bulk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/1161365/thumbnails/ss-450rt-80-plus-g
 9/21/2020 7:47:57 AM 468,42 RON
 9/24/2020 1:42:30 PM 474,80 RON
 9/25/2020 10:45:55 PM 478,85 RON
+9/30/2020 8:07:17 PM 476,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hyper m 700
 1129753
     Product link    
 https://www.pcgarage.ro/surse/fortron/hyper-m-700-700w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1129753/thumbnails/hyper-m-700-700w-7
 9/21/2020 7:47:49 AM 373,97 RON
 9/24/2020 1:44:34 PM 379,05 RON
 9/25/2020 10:46:40 PM 382,20 RON
+9/30/2020 7:49:24 PM 379,86 RON

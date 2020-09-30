@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-pu-red
 1434338
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/epic-negru-rosu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1415042/1434338/thumbnails/epic-negru-rosu-a
 9/21/2020 8:07:10 AM 1.699,99 RON
 9/25/2020 12:15:45 AM 1.699,99 RON
 9/26/2020 1:11:59 PM 1.699,99 RON
+9/30/2020 7:54:19 PM 1.699,99 RON

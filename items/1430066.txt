@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg-0500d-b
 1430066
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-dps-g-80-plus-bronze-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175596/1430066/thumbnails/smart-digital-dps
 9/21/2020 7:47:58 AM 480,68 RON
 9/24/2020 1:28:19 PM 487,22 RON
 9/25/2020 10:44:25 PM 491,27 RON
+9/30/2020 8:08:06 PM 488,25 RON

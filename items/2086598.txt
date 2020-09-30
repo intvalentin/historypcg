@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fury_avengermbkwh
 2086598
     Product link    
 https://www.pcgarage.ro/scaune-gaming/fury/avenger-m-plus-black-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7008/2086598/thumbnails/avenger-m-plus-black
 9/21/2020 8:07:23 AM 645,52 RON
 9/25/2020 12:15:45 AM 645,52 RON
 9/26/2020 1:11:59 PM 645,52 RON
+9/30/2020 7:57:38 PM 645,52 RON

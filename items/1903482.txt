@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_ch118
 1903482
     Product link    
 https://www.pcgarage.ro/scaune-gaming/marvo/ch-118-negru-rosu/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1903482/thumbnails/ch-118-90fb7aa298
 9/21/2020 8:07:10 AM 899,99 RON
 9/25/2020 12:15:03 AM 799,99 RON
 9/26/2020 1:11:16 PM 799,99 RON
+9/30/2020 7:43:57 PM 799,99 RON

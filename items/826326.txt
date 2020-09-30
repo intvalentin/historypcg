@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np-1bm-0550a
 826326
     Product link    
 https://www.pcgarage.ro/surse/nzxt/hale82-v2-550w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/802687/826326/thumbnails/hale82-v2-550w-b7d9
 9/21/2020 7:47:53 AM 408,71 RON
 9/24/2020 1:52:52 PM 414,26 RON
 9/25/2020 10:49:36 PM 417,71 RON
+9/30/2020 7:56:28 PM 415,14 RON

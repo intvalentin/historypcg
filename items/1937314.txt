@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |core-gc-650 ssr-650lc
 1937314
     Product link    
 https://www.pcgarage.ro/surse/seasonic/core-gc-80-plus-gold-650w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/1937314/thumbnails/core-gc-80-plus-gold
 9/21/2020 7:45:41 AM 375,19 RON
 9/24/2020 1:05:31 PM 403,43 RON
 9/25/2020 10:28:54 PM 403,43 RON
+9/30/2020 7:53:27 PM 403,43 RON

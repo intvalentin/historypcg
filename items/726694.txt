@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpg-700br-h12s
 726694
     Product link    
 https://www.pcgarage.ro/surse/sirtec-high-power/element-bronze-ii-700w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/726694/thumbnails/element-bronze-700w
 9/21/2020 7:47:44 AM 366,69 RON
 9/24/2020 1:57:02 PM 367,13 RON
 9/25/2020 10:51:03 PM 367,73 RON
+9/30/2020 7:45:01 PM 367,85 RON

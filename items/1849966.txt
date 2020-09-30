@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn298
 1849966
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/pure-power-11-cm-80-plus-gold-600w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848722/1849966/thumbnails/pure-power-11-cm-
 9/21/2020 7:47:58 AM 491,72 RON
 9/24/2020 12:44:58 PM 500,87 RON
 9/25/2020 10:20:57 PM 495,21 RON
+9/30/2020 8:08:56 PM 497,53 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sass620gm2
 796171
     Product link    
 https://www.pcgarage.ro/surse/seasonic/m12ii-620-evo-edition-bronze-620w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/796171/thumbnails/m12ii-620-evo-edition-br
 9/21/2020 7:47:07 AM 467,41 RON
 9/24/2020 1:54:57 PM 467,41 RON
 9/25/2020 10:50:20 PM 467,41 RON
+9/30/2020 8:05:55 PM 467,41 RON

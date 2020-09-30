@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bn231
 983387
     Product link    
 https://www.pcgarage.ro/surse/be-quiet/straight-power-10-80-plus-gold-500w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862960/983387/thumbnails/straight-power-10-8
 9/21/2020 7:47:58 AM 504,88 RON
 9/24/2020 1:48:43 PM 504,88 RON
 9/25/2020 10:48:09 PM 504,88 RON
+9/30/2020 8:11:37 PM 504,88 RON

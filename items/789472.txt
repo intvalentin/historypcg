@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sacm550amaab1
 789472
     Product link    
 https://www.pcgarage.ro/surse/cooler-master/gm-series-g550m-550w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/789472/thumbnails/gm-series-g550m-550
 9/21/2020 7:47:49 AM 399,14 RON
 9/24/2020 1:54:57 PM 399,14 RON
 9/25/2020 10:51:03 PM 399,14 RON
+9/30/2020 7:53:10 PM 399,14 RON

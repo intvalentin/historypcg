@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gd-dq750st
 1530343
     Product link    
 https://www.pcgarage.ro/surse/deepcool/dq750-st-80-plus-gold-750w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427582/1530343/thumbnails/deepcool-dq750-st
 9/21/2020 7:46:45 AM 427,74 RON
 9/24/2020 1:20:02 PM 433,56 RON
 9/25/2020 10:34:51 PM 437,16 RON
+9/30/2020 8:01:53 PM 434,48 RON

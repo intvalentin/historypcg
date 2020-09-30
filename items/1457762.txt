@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |110-bq-0750-v2
 1457762
     Product link    
 https://www.pcgarage.ro/surse/evga/bq-80-plus-bronze-750w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1126098/1457762/thumbnails/bq-80-plus-bronze
 9/21/2020 7:47:49 AM 392,42 RON
 9/24/2020 1:26:15 PM 399,83 RON
 9/25/2020 10:36:20 PM 400,26 RON
+9/30/2020 7:52:54 PM 397,79 RON

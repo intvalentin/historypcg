@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr-bp0650-sm-eu
 1885082
     Product link    
 https://www.pcgarage.ro/surse/riotoro/onyx-80-plus-bronze-650w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1885090/1885082/thumbnails/onyx-80-plus-bron
 9/21/2020 7:46:45 AM 371,95 RON
 9/24/2020 1:07:36 PM 377,00 RON
 9/25/2020 10:29:39 PM 380,14 RON
+9/30/2020 7:49:07 PM 377,80 RON

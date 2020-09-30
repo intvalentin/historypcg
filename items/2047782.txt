@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inizio-pu-bkrd
 2047782
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/inizio-pu-black-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2047782/thumbnails/inizio-pu-black-r
 9/21/2020 8:07:18 AM 949,99 RON
 9/25/2020 12:14:20 AM 949,99 RON
 9/26/2020 1:10:31 PM 949,99 RON
+9/30/2020 7:48:19 PM 949,99 RON

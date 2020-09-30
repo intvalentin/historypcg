@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |enzo-bl
 989617
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/enzo-albastru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/843505/989617/thumbnails/enzo-albastru-f9584
 9/21/2020 8:07:14 AM 629,99 RON
 9/25/2020 12:15:45 AM 629,99 RON
 9/26/2020 1:11:59 PM 629,99 RON
+9/30/2020 7:42:17 PM 629,99 RON

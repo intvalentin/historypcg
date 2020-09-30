@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22692
 1735300
     Product link    
 https://www.pcgarage.ro/scaune-gaming/trust/gxt-707r-resto-v2-negru-rosu/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1630882/1735300/thumbnails/gxt-707r-resto-ne
 9/21/2020 8:07:18 AM 1.319,99 RON
 9/25/2020 12:20:59 AM 1.319,99 RON
 9/26/2020 1:11:16 PM 899,99 RON
+9/30/2020 7:46:03 PM 899,99 RON

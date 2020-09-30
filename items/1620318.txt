@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |verona-v2-gn
 1620318
     Product link    
 https://www.pcgarage.ro/scaune-gaming/arozzi/verona-v2-verde/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1578330/1620318/thumbnails/verona-v2-verde-0
 9/21/2020 8:07:14 AM 949,99 RON
 9/25/2020 12:15:03 AM 949,99 RON
 9/26/2020 1:11:16 PM 949,99 RON
+9/30/2020 7:47:30 PM 949,99 RON

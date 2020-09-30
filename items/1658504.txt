@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbl-icn-pu-gol-sgl
 1658504
     Product link    
 https://www.pcgarage.ro/scaune-gaming/noblechairs/icon-negru-auriu-sgl/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5286/1658504/thumbnails/icon-negru-auriu-sgl
 9/21/2020 8:07:28 AM 2.089,89 RON
 9/25/2020 12:17:15 AM 2.089,89 RON
 9/26/2020 1:13:29 PM 2.089,89 RON
+9/30/2020 8:07:36 PM 2.089,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |evolution alcantara
 1174941
     Product link    
 https://www.pcgarage.ro/scaune-gaming/playseat/evolution-alcantara/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/1174941/thumbnails/evolution-alcantara-297
 9/21/2020 8:07:28 AM 1.746,80 RON
 9/25/2020 12:17:15 AM 1.746,80 RON
 9/26/2020 1:13:29 PM 1.746,80 RON
+9/30/2020 8:05:08 PM 1.746,80 RON

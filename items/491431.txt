@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sps-630m
 491431
     Product link    
 https://www.pcgarage.ro/surse/thermaltake/smart-se-630w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/491431/thumbnails/smart-se-630w-c5f2fff2ec
 9/21/2020 7:47:07 AM 380,69 RON
 9/24/2020 1:59:06 PM 385,87 RON
 9/25/2020 10:51:46 PM 389,07 RON
+9/30/2020 7:50:12 PM 386,69 RON

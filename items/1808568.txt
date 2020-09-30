@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psat-080araf-bu01b
 1808568
     Product link    
 https://www.pcgarage.ro/surse/njoy/freya-800-800w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1802236/1808568/thumbnails/njoy-freya-700-ps
 9/21/2020 7:46:06 AM 359,99 RON
 9/24/2020 12:44:58 PM 359,99 RON
 9/25/2020 10:21:40 PM 359,99 RON
+9/30/2020 7:42:29 PM 359,99 RON
