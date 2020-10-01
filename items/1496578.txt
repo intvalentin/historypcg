@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta12x15pwm
 1496578
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a12x15-pwm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1301253/1496578/thumbnails/nf-a12x15-flx-812
 9/21/2020 7:56:09 AM 114,49 RON
 9/24/2020 6:25:03 PM 114,49 RON
 9/26/2020 9:32:46 AM 114,49 RON
+10/1/2020 8:32:47 PM 114,49 RON

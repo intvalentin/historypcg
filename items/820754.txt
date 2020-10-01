@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |silent fan 140 pwm
 820754
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooltek/silent-fan-140-pwm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/820754/thumbnails/silent-fan-140-pwm-
 9/21/2020 7:57:45 AM 34,62 RON
 9/24/2020 6:43:44 PM 34,62 RON
 9/26/2020 9:45:17 AM 34,62 RON
+10/1/2020 10:07:44 PM 34,62 RON

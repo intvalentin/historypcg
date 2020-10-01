@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |silent fan 120 pwm
 820739
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooltek/silent-fan-120-pwm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/820739/thumbnails/silent-fan-120-pwm-01994
 9/21/2020 7:57:40 AM 29,16 RON
 9/24/2020 6:43:44 PM 29,16 RON
 9/26/2020 9:45:17 AM 29,16 RON
+10/1/2020 10:00:36 PM 29,16 RON

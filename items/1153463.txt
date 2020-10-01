@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |af-0625s
 1153463
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/chieftec/af-0625s/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/851375/1153463/thumbnails/af-0625s-fec8435b6
 9/21/2020 7:56:22 AM 15,52 RON
 9/24/2020 6:25:47 PM 15,84 RON
 9/26/2020 9:34:13 AM 15,84 RON
+10/1/2020 6:55:47 PM 15,68 RON

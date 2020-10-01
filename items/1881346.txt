@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-fled-rf120-rd
 1881346
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/rf120r-red-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5634/1881346/thumbnails/rf120r-red-120mm-419
 9/21/2020 7:57:17 AM 23,14 RON
 9/24/2020 6:36:15 PM 23,66 RON
 9/26/2020 9:37:52 AM 23,65 RON
+10/1/2020 9:52:55 PM 23,44 RON

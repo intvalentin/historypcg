@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-w-2-s2402
 2085206
     Product link    
 https://www.pcgarage.ro/coolere/fractal-design/celsius-plus-s24-prisma/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3354/2085206/thumbnails/celsius-plus-s24-pri
 9/21/2020 7:55:31 AM 916,88 RON
 9/24/2020 5:46:50 PM 916,88 RON
 9/26/2020 9:02:50 AM 916,88 RON
+10/1/2020 6:00:59 PM 916,88 RON

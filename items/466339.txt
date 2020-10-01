@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sy1425hb12m
 466339
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/glidestream-140mm-1200rpm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/466339/thumbnails/glide-stream-140mm-1200r
 9/21/2020 7:56:58 AM 64,65 RON
 9/24/2020 6:34:01 PM 64,73 RON
 9/26/2020 9:35:39 AM 64,83 RON
+10/1/2020 7:39:38 PM 64,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta12x25pwm
 1705844
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a12x25-pwm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1705844/thumbnails/nf-a12x25-pwm-80a
 9/21/2020 7:55:58 AM 188,38 RON
 9/24/2020 6:22:50 PM 188,38 RON
 9/26/2020 9:30:36 AM 188,38 RON
+10/1/2020 9:12:57 PM 188,38 RON

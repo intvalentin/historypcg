@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl037
 1296381
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/pure-wings-2-80mm-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/1296381/thumbnails/pure-wings-2-80mm-1b132
 9/21/2020 7:56:45 AM 49,33 RON
 9/24/2020 6:25:47 PM 49,33 RON
 9/26/2020 9:33:29 AM 49,33 RON
+10/1/2020 7:28:03 PM 49,33 RON

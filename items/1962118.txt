@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eclipse12-pro
 1962118
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/eclipse-12-pro-argb-three-fan-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1962118/thumbnails/eclipse-12-pro-ar
 9/21/2020 7:55:54 AM 140,50 RON
 9/24/2020 6:16:13 PM 140,50 RON
 9/26/2020 9:23:57 AM 140,50 RON
+10/1/2020 6:50:38 PM 140,50 RON

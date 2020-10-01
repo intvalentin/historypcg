@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050069-ww
 1484302
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/hd140-rgb-led-high-performance-140mm-twin-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1409094/1484302/thumbnails/hd140-rgb-led-hig
 9/21/2020 7:56:26 AM 305,31 RON
 9/24/2020 6:25:03 PM 311,02 RON
 9/26/2020 9:32:46 AM 311,31 RON
+10/1/2020 9:18:19 PM 309,56 RON

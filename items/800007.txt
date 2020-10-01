@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-f3(sf)
 800007
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/zalman/zm-f3sf/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/800007/thumbnails/zm-f3sf-ba9ec133022
 9/21/2020 7:57:31 AM 24,42 RON
 9/24/2020 6:44:29 PM 24,91 RON
 9/26/2020 9:46:02 AM 24,91 RON
+10/1/2020 9:54:19 PM 24,75 RON

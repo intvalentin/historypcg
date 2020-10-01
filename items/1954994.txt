@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frost12-frgb-pwm
 1954994
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/ventilator-aerocool-frost12-120mm-iluminare-rgb-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1953966/1954994/thumbnails/frost-12-rgb-8cb8
 9/21/2020 7:57:26 AM 34,68 RON
 9/24/2020 6:35:30 PM 35,45 RON
 9/26/2020 9:37:07 AM 35,44 RON
+10/1/2020 10:09:55 PM 35,12 RON

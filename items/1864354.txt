@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |su1225fd12hr-rn
 1864354
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/kaze-flex-120-rgb1800-rpm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1864354/thumbnails/kaze-flex-rgb-120mm-
 9/21/2020 7:56:22 AM 66,40 RON
 9/24/2020 6:21:21 PM 66,47 RON
 9/26/2020 9:29:07 AM 66,60 RON
+10/1/2020 7:42:53 PM 66,55 RON

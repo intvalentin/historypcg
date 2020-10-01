@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl068
 1404331
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/silent-wings-3-120mm-2200-rpm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1404331/thumbnails/silent-wings-3-140
 9/21/2020 7:57:07 AM 110,34 RON
 9/24/2020 6:25:47 PM 109,14 RON
 9/26/2020 9:33:29 AM 108,39 RON
+10/1/2020 8:28:59 PM 108,84 RON

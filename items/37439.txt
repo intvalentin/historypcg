@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |actcp00005b
 37439
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/arctic-cooling/mx-2-4g/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/37439/thumbnails/mx-2-4-grame-dca87796a7f7
 9/21/2020 7:55:33 AM 23,74 RON
 9/24/2020 6:12:32 PM 23,74 RON
 9/26/2020 9:20:17 AM 23,74 RON
+10/1/2020 6:11:21 PM 23,74 RON

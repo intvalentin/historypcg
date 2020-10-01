@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-fa-rgb-cf120-3
 1704072
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/cf120-120mm-rgb-led-three-fan-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1704072/thumbnails/cf120-120mm-rgb-l
 9/21/2020 7:56:13 AM 248,07 RON
 9/24/2020 6:23:34 PM 253,58 RON
 9/26/2020 9:31:19 AM 247,49 RON
+10/1/2020 9:16:45 PM 251,25 RON

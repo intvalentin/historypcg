@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f006-pl12bl-a
 815618
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/pure-s-12-led/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/815618/thumbnails/pure-s-12-led-8ded25c3c0
 9/21/2020 7:57:45 AM 34,41 RON
 9/24/2020 6:43:44 PM 35,18 RON
 9/26/2020 9:45:17 AM 35,17 RON
+10/1/2020 10:08:01 PM 34,86 RON

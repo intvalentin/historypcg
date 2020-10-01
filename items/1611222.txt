@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wf-12025
 1611222
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/wf-12025-120mm-pwm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/953558/1611222/thumbnails/wf-12025-120mm-pwm
 9/21/2020 7:55:58 AM 24,63 RON
 9/24/2020 6:16:13 PM 25,18 RON
 9/26/2020 9:31:19 AM 25,17 RON
+10/1/2020 6:38:47 PM 24,95 RON

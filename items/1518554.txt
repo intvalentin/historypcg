@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-11 green led
 1518554
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/marvo/fn-11-green-led-120mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1301183/1518554/thumbnails/fn-11-green-led-1
 9/21/2020 7:56:22 AM 23,87 RON
 9/24/2020 6:25:03 PM 23,87 RON
 9/26/2020 9:32:46 AM 23,87 RON
+10/1/2020 7:00:58 PM 23,87 RON

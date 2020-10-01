@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050098-ww
 2053018
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/icue-ql120-rgb-120mm-three-fan-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2053018/thumbnails/icue-ql120-rgb-120mm
 9/21/2020 7:56:41 AM 608,42 RON
 9/24/2020 6:18:24 PM 616,69 RON
 9/26/2020 9:26:09 AM 621,94 RON
+10/1/2020 9:22:56 PM 617,99 RON

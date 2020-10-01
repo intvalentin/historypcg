@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frgb256-168x
 1885034
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/riotoro/prism-rgb-2-pack-120mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1885034/thumbnails/prism-rgb-2-pack-120
 9/21/2020 7:56:41 AM 109,72 RON
 9/24/2020 6:20:37 PM 112,16 RON
 9/26/2020 9:28:22 AM 112,14 RON
+10/1/2020 8:30:05 PM 111,13 RON

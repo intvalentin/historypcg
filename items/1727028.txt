@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-f008-bk
 1727028
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/redragon/f008-120mm-rgb-3-pack-fan/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8674/1727028/thumbnails/f008-120mm-rgb-3-pac
 9/21/2020 7:56:26 AM 208,38 RON
 9/24/2020 6:22:50 PM 213,02 RON
 9/26/2020 9:30:36 AM 212,97 RON
+10/1/2020 9:14:36 PM 211,06 RON

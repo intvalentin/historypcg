@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventf12pwmchb
 1603026
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-f12-pwm-chromax-black-swap/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1517618/1603026/thumbnails/nf-f12-pwm-chroma
 9/21/2020 7:56:06 AM 141,26 RON
 9/24/2020 6:24:19 PM 141,26 RON
 9/26/2020 9:32:03 AM 141,26 RON
+10/1/2020 9:01:49 PM 141,26 RON

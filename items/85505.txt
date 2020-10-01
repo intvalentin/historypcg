@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-idisk2
 85505
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/icedisk-2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/85505/thumbnails/icedisk-2-2d35655aaa3612f
 9/21/2020 7:57:36 AM 25,40 RON
 9/24/2020 6:46:42 PM 25,96 RON
 9/26/2020 9:48:16 AM 25,96 RON
+10/1/2020 9:55:26 PM 25,72 RON

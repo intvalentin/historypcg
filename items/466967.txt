@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta9x14
 466967
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a9x14-pwm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/466967/thumbnails/nf-a9x14-pwm-44e343eaa57
 9/21/2020 7:56:14 AM 105,92 RON
 9/24/2020 6:34:01 PM 105,92 RON
 9/26/2020 9:35:39 AM 105,92 RON
+10/1/2020 8:08:01 PM 105,92 RON

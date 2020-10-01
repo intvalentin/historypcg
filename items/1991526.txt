@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs-04
 1991526
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/inter-tech/argus-rs-04-rgb-3-fan-set/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990366/1991526/thumbnails/argus-rs-04-rgb-3
 9/21/2020 7:57:07 AM 148,18 RON
 9/24/2020 6:19:08 PM 151,47 RON
 9/26/2020 9:26:54 AM 151,44 RON
+10/1/2020 9:04:02 PM 150,08 RON

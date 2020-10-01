@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aerosm-20wl
 809332
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/silent-master-white-led-200mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/809332/thumbnails/silent-master-white
 9/21/2020 7:56:58 AM 65,73 RON
 9/24/2020 6:33:18 PM 64,96 RON
 9/26/2020 9:34:56 AM 64,49 RON
+10/1/2020 7:40:39 PM 64,80 RON

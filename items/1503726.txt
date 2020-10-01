@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rl-krx62-02
 1503726
     Product link    
 https://www.pcgarage.ro/coolere/nzxt/kraken-x62/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475558/1503726/thumbnails/kraken-x62-6c974f
 9/21/2020 7:55:30 AM 770,57 RON
 9/24/2020 6:05:10 PM 784,89 RON
 9/26/2020 9:10:17 AM 785,92 RON
+10/1/2020 5:57:31 PM 781,34 RON

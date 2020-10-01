@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc224
 1946806
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/corona-hp-rgb-140-3-fan-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1946806/thumbnails/corona-hp-rgb-140-3-
 9/21/2020 7:55:54 AM 198,33 RON
 9/24/2020 6:16:13 PM 198,58 RON
 9/26/2020 9:23:57 AM 198,91 RON
+10/1/2020 6:52:17 PM 198,80 RON

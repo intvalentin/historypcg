@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-l2r-20ac-gp
 242585
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/sickleflow-120-blue-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/242585/thumbnails/sickleflow-120-blue-led-
 9/21/2020 7:57:45 AM 35,34 RON
 9/24/2020 6:45:57 PM 36,13 RON
 9/26/2020 9:47:31 AM 36,12 RON
+10/1/2020 10:12:09 PM 35,80 RON

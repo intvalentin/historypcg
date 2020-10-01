@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |af-0925pwm
 261321
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/chieftec/af-0925pwm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/261321/thumbnails/chieftec-af-0925pwm-vent
 9/21/2020 7:56:35 AM 23,13 RON
 9/24/2020 6:34:01 PM 23,45 RON
 9/26/2020 9:36:23 AM 23,45 RON
+10/1/2020 7:00:08 PM 23,45 RON

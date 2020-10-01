@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w249-cu12sw-a
 1947630
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/do-it-yourself-kit-pacific-c240-ddc-soft-tube-water-cooling/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1947630/thumbnails/do-it-yourself-kit-p
 9/21/2020 7:55:31 AM 1.434,86 RON
 9/24/2020 5:48:55 PM 1.466,76 RON
 9/26/2020 9:04:20 AM 1.466,44 RON
+10/1/2020 6:07:42 PM 1.453,28 RON

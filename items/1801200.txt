@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050091-ww
 1801200
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/ll120-white-rgb-led-120mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1801200/thumbnails/ll120-white-rgb-led-
 9/21/2020 7:56:50 AM 150,37 RON
 9/24/2020 6:22:06 PM 150,37 RON
 9/26/2020 9:29:52 AM 146,01 RON
+10/1/2020 9:02:56 PM 145,08 RON

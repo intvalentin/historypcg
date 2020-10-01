@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aerorev-120blue-led
 1754884
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/rev-blue-120mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1754884/thumbnails/rev-blue-120mm-86
 9/21/2020 7:55:54 AM 33,86 RON
 9/24/2020 6:22:50 PM 40,28 RON
 9/26/2020 9:30:36 AM 40,12 RON
+10/1/2020 7:18:33 PM 40,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta6x25pwm
 1108908
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a6x25-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/853128/1108908/thumbnails/nf-a6x25-pwm-1082d
 9/21/2020 7:56:30 AM 86,65 RON
 9/24/2020 6:32:34 PM 86,65 RON
 9/26/2020 9:34:13 AM 86,65 RON
+10/1/2020 8:01:31 PM 86,65 RON

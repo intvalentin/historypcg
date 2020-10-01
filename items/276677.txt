@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |actcp00001b
 276677
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/arctic-cooling/mx-4-20g/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/276677/thumbnails/mx-4-20-grame-c43aade
 9/21/2020 7:55:38 AM 153,29 RON
 9/24/2020 6:13:17 PM 125,70 RON
 9/26/2020 9:21:00 AM 125,78 RON
+10/1/2020 6:19:34 PM 125,70 RON

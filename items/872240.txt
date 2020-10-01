@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |silent fan 120 green led
 872240
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooltek/silent-fan-120-green-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/872240/thumbnails/silent-fan-120-gree
 9/21/2020 7:57:40 AM 30,64 RON
 9/24/2020 6:43:00 PM 30,64 RON
 9/26/2020 9:44:32 AM 30,64 RON
+10/1/2020 10:04:43 PM 30,64 RON

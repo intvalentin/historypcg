@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pl-12025-b
 1253473
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/pl-12025-b-120mm-blue-led-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1253473/thumbnails/pl-12025-b-120mm-
 9/21/2020 7:55:51 AM 29,99 RON
 9/24/2020 6:25:47 PM 30,65 RON
 9/26/2020 9:33:29 AM 30,65 RON
+10/1/2020 6:40:10 PM 30,37 RON

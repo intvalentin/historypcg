@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-c1ds-20pc-r1
 1682104
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/masterfan-120r-rgb-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1682104/thumbnails/masterfan-120r-rg
 9/21/2020 7:56:30 AM 70,99 RON
 9/24/2020 6:23:34 PM 70,22 RON
 9/26/2020 9:31:19 AM 69,75 RON
+10/1/2020 7:45:21 PM 70,06 RON

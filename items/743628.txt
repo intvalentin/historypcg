@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-f102-bkw
 743628
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/super-flower/sf-f102/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/743628/thumbnails/sf-f102-e459dc82389
 9/21/2020 7:57:41 AM 31,36 RON
 9/24/2020 6:45:13 PM 32,06 RON
 9/26/2020 9:46:46 AM 32,05 RON
+10/1/2020 10:04:59 PM 31,77 RON

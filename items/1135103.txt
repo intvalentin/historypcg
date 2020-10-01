@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f12 silent
 1135103
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/arctic-cooling/f12-silent/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1088099/1135103/thumbnails/f12-silent-2cf533
 9/21/2020 7:57:12 AM 24,45 RON
 9/24/2020 6:32:34 PM 24,52 RON
 9/26/2020 9:34:13 AM 24,54 RON
+10/1/2020 7:02:03 PM 24,52 RON

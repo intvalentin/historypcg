@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta14ippc2000pwm
 850338
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a14-industrialppc-2000-pwm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/850338/thumbnails/nf-a14-industrialpp
 9/21/2020 7:56:17 AM 164,83 RON
 9/24/2020 6:32:34 PM 164,83 RON
 9/26/2020 9:34:13 AM 164,83 RON
+10/1/2020 9:06:58 PM 164,83 RON

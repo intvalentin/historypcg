@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060047-ww
 2085778
     Product link    
 https://www.pcgarage.ro/coolere/corsair/icue-h115i-elite-capellix/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3354/2085778/thumbnails/icue-h115i-elite-cap
 9/21/2020 7:55:31 AM 1.015,66 RON
 9/24/2020 5:38:47 PM 1.034,54 RON
 9/26/2020 9:02:50 AM 1.035,87 RON
+10/1/2020 6:02:05 PM 975,42 RON

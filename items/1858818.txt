@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-fan-pri-al14-pwm-3p
 1858818
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/fractal-design/prisma-al-14-argb-pwm-3-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1236/1858818/thumbnails/prisma-al-14-argb-pw
 9/21/2020 7:57:12 AM 386,72 RON
 9/24/2020 6:21:21 PM 386,72 RON
 9/26/2020 9:29:07 AM 386,72 RON
+10/1/2020 9:20:14 PM 386,72 RON

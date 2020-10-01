@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f8 silent
 1135038
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/arctic-cooling/f8-silent/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/1135038/thumbnails/f8-silent-db4e1d951f14e
 9/21/2020 7:57:26 AM 23,76 RON
 9/24/2020 6:41:30 PM 23,76 RON
 9/26/2020 9:43:03 AM 23,76 RON
+10/1/2020 9:53:29 PM 23,76 RON

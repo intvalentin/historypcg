@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |no-9215
 1948886
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/no-9215-92mm-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1948886/thumbnails/ventilator-id-coolin
 9/21/2020 7:55:51 AM 18,77 RON
 9/24/2020 6:16:13 PM 19,19 RON
 9/26/2020 9:23:57 AM 19,18 RON
+10/1/2020 6:37:58 PM 19,01 RON

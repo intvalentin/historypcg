@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventf12ippc2000pwm
 850318
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-f12-industrialppc-2000-pwm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/850318/thumbnails/nf-f12-industrialpp
 9/21/2020 7:56:17 AM 147,69 RON
 9/24/2020 6:32:34 PM 147,69 RON
 9/26/2020 9:34:56 AM 147,69 RON
+10/1/2020 9:03:12 PM 147,69 RON

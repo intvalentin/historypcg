@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050100-ww
 2053030
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/icue-ql140-rgb-140mm-twin-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2053030/thumbnails/icue-ql140-rgb-140mm
 9/21/2020 7:57:12 AM 547,57 RON
 9/24/2020 6:17:40 PM 555,02 RON
 9/26/2020 9:25:25 AM 559,75 RON
+10/1/2020 9:22:23 PM 556,19 RON

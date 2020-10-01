@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta15hspwmchbs
 1652160
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a15-hs-pwm-chromaxblackswap/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/530/1652160/thumbnails/nf-a15-hs-pwm-chromax
 9/21/2020 7:56:26 AM 153,04 RON
 9/24/2020 6:23:35 PM 153,04 RON
 9/26/2020 9:31:19 AM 153,04 RON
+10/1/2020 9:05:52 PM 153,04 RON

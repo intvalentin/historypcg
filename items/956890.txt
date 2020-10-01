@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta4x105v
 956890
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a4x10-5v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/956890/thumbnails/nf-a4x10-5v-944e3cc
 9/21/2020 7:56:22 AM 77,24 RON
 9/24/2020 6:32:34 PM 77,24 RON
 9/26/2020 9:34:13 AM 77,24 RON
+10/1/2020 7:55:38 PM 77,24 RON

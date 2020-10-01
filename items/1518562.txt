@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-12 red led
 1518562
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/marvo/fn-12-red-led-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1434070/1518562/thumbnails/fn-12-red-led-120
 9/21/2020 7:56:06 AM 28,01 RON
 9/24/2020 6:24:19 PM 28,01 RON
 9/26/2020 9:32:46 AM 28,01 RON
+10/1/2020 7:05:05 PM 28,01 RON

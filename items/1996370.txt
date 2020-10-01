@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rl-krz63-01
 1996370
     Product link    
 https://www.pcgarage.ro/coolere/nzxt/kraken-z63/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/1996370/thumbnails/kraken-z63-748299
 9/21/2020 7:54:33 AM 1.401,60 RON
 9/24/2020 5:46:50 PM 1.420,66 RON
 9/26/2020 9:03:35 AM 1.432,76 RON
+10/1/2020 6:07:26 PM 1.423,67 RON

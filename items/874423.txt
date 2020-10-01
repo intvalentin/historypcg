@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-df12
 874423
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/zalman/zm-df12/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/874423/thumbnails/zm-df12-94c88cffd88
 9/21/2020 7:56:45 AM 87,54 RON
 9/24/2020 6:32:34 PM 89,49 RON
 9/26/2020 9:34:13 AM 89,47 RON
+10/1/2020 8:02:36 PM 88,67 RON

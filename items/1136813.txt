@@ -1,0 +1,10 @@
+    Cod    |id-tg01
+1136813
+    Product link    
+https://www.pcgarage.ro/pasta-termoconductoare/id-cooling/tg01-1g/
+    Name    
+ID-Cooling TG01 1g
+    Img url    
+https://5.grgs.ro/images/products/1/849800/1136813/thumbnails/id-tg11-15g-64f7b08e90ef542f5f5e52e2958899ba.jpg
+    Pret    
+10/1/2020 6:20:56 PM 10,84 RON

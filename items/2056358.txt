@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |df-12025-rgb
 2056358
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/df-12025-120mm-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2056358/thumbnails/df-12025-120mm-rgb-a
 9/21/2020 7:56:58 AM 54,79 RON
 9/24/2020 6:17:40 PM 56,01 RON
 9/26/2020 9:25:25 AM 56,00 RON
+10/1/2020 7:31:06 PM 55,50 RON

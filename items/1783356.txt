@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf120 white
 1783356
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/tf120-120mm-white-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1783356/thumbnails/tf120-120mm-white-led
 9/21/2020 7:56:13 AM 63,38 RON
 9/24/2020 6:22:50 PM 64,79 RON
 9/26/2020 9:29:52 AM 64,78 RON
+10/1/2020 7:39:04 PM 64,20 RON

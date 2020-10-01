@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uctbrgb14-sg
 1771748
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/enermax/tb-rgb-led-expansion-140mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1771748/thumbnails/tb-rgb-led-expansion
 9/21/2020 7:56:45 AM 98,35 RON
 9/24/2020 6:22:50 PM 98,65 RON
 9/26/2020 9:30:35 AM 98,80 RON
+10/1/2020 8:06:04 PM 98,65 RON

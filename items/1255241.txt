@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc011
 1255241
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/zephyr-50/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1109408/1255241/thumbnails/zephyr-50-e662b0f
 9/21/2020 7:55:54 AM 15,74 RON
 9/24/2020 6:16:56 PM 15,77 RON
 9/26/2020 9:24:41 AM 15,78 RON
+10/1/2020 6:35:58 PM 15,78 RON

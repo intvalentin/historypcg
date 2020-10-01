@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f12 pwm
 90091
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/arctic-cooling/f12-pwm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/90091/thumbnails/f12-pwm-8002ea1be7f3adf33
 9/21/2020 7:56:41 AM 32,84 RON
 9/24/2020 6:46:42 PM 32,51 RON
 9/26/2020 9:48:16 AM 32,35 RON
+10/1/2020 10:05:16 PM 32,51 RON

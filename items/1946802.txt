@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc223
 1946802
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/corona-hp-rgb-140/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1946802/thumbnails/corona-hp-rgb-140-9c
 9/21/2020 7:55:54 AM 69,42 RON
 9/24/2020 6:16:13 PM 69,50 RON
 9/26/2020 9:23:57 AM 69,62 RON
+10/1/2020 6:46:37 PM 69,59 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-13 rgb
 1518574
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/marvo/fn-13-rgb-led-120mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1415042/1518574/thumbnails/fn-13-rgb-led-120
 9/21/2020 7:56:02 AM 33,10 RON
 9/24/2020 6:24:19 PM 33,10 RON
 9/26/2020 9:32:03 AM 33,10 RON
+10/1/2020 7:12:31 PM 33,10 RON

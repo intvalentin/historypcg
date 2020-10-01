@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060046-ww
 2085774
     Product link    
 https://www.pcgarage.ro/coolere/corsair/corsair-icue-h100i-elite-capellix-240mm-radiator-dual-120mm-ml-rgb-fans-software-control-liquid-cpu-cooler/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3354/2085774/thumbnails/icue-h100i-elite-cap
 9/21/2020 7:55:31 AM 952,35 RON
 9/24/2020 5:38:47 PM 970,06 RON
 9/26/2020 9:02:50 AM 971,24 RON
+10/1/2020 6:00:43 PM 914,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-z5
 241865
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/deepcool/z5-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/241865/thumbnails/z5-e6e72dba9d76e9e7ec976
 9/21/2020 7:55:33 AM 20,43 RON
 9/24/2020 6:12:32 PM 20,89 RON
 9/26/2020 9:20:17 AM 20,88 RON
+10/1/2020 6:11:05 PM 20,70 RON

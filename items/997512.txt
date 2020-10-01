@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f012-pl12bu-a
 997512
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/pure-12-blue-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472405/997512/thumbnails/pure-12-led-blue-68
 9/21/2020 7:57:45 AM 34,54 RON
 9/24/2020 6:42:15 PM 35,31 RON
 9/26/2020 9:43:47 AM 35,30 RON
+10/1/2020 10:08:34 PM 34,99 RON

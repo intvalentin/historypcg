@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |htk-002-u1-gp
 226611
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/cooler-master/htk-002-u1-gp/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/226611/thumbnails/htk-002-u1-gp-3969cea419
 9/21/2020 7:55:38 AM 16,49 RON
 9/24/2020 6:13:17 PM 16,34 RON
 9/26/2020 9:21:00 AM 16,34 RON
+10/1/2020 6:13:49 PM 16,34 RON

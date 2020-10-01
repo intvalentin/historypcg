@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050095-ww
 1953674
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/icue-sp140-rgb-pro-performance-140mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6997/1953674/thumbnails/icue-sp140-rgb-pro-p
 9/21/2020 7:56:45 AM 99,41 RON
 9/24/2020 6:19:52 PM 100,98 RON
 9/26/2020 9:27:38 AM 101,36 RON
+10/1/2020 8:06:54 PM 100,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |silent fan 120 pwm low
 872230
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooltek/silent-fan-120-pwm-low/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/843505/872230/thumbnails/silent-fan-120-pwm-
 9/21/2020 7:57:40 AM 27,06 RON
 9/24/2020 6:43:00 PM 27,06 RON
 9/26/2020 9:44:32 AM 27,06 RON
+10/1/2020 9:58:23 PM 27,06 RON

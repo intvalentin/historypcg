@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aerosm-20rl
 813996
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/silent-master-red-led-200mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/813996/thumbnails/silent-master-red-l
 9/21/2020 7:56:35 AM 67,59 RON
 9/24/2020 6:33:18 PM 66,97 RON
 9/26/2020 9:34:56 AM 66,51 RON
+10/1/2020 7:43:59 PM 66,81 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf-1225rgb
 1862434
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/chieftec/cf-1225rgb-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1236/1862434/thumbnails/cf-1225rgb-120mm-54f
 9/21/2020 7:56:45 AM 72,54 RON
 9/24/2020 6:21:21 PM 73,93 RON
 9/26/2020 9:29:07 AM 74,09 RON
+10/1/2020 7:49:22 PM 73,62 RON

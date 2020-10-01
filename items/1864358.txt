@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |su1225fd12hr-rnp
 1864358
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/kaze-flex-pwm-rgb-120mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1864358/thumbnails/kaze-flex-rgb-120mm-
 9/21/2020 7:57:03 AM 75,87 RON
 9/24/2020 6:21:21 PM 75,96 RON
 9/26/2020 9:29:07 AM 76,09 RON
+10/1/2020 7:53:58 PM 76,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf-3012-rgb
 1803764
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/chieftec/cf-3012-rgb-three-fan-kit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1803764/thumbnails/cf-3012-rgb-three-fa
 9/21/2020 7:56:22 AM 175,26 RON
 9/24/2020 6:22:06 PM 178,71 RON
 9/26/2020 9:29:52 AM 179,01 RON
+10/1/2020 9:10:50 PM 177,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050040-ww
 1364185
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-ml120-pro-magnetic-levitation-fan-120mm-pwm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025741/1364185/thumbnails/air-series-ml120-
 9/21/2020 7:57:17 AM 109,89 RON
 9/24/2020 6:40:45 PM 111,62 RON
 9/26/2020 9:33:29 AM 112,57 RON
+10/1/2020 8:31:40 PM 111,39 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc137
 1255185
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/sigma-pro-140-pwm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/859765/1255185/thumbnails/sigma-pro-140-pwm-
 9/21/2020 7:55:58 AM 63,33 RON
 9/24/2020 6:40:45 PM 63,41 RON
 9/26/2020 9:42:18 AM 63,52 RON
+10/1/2020 6:45:30 PM 55,87 RON

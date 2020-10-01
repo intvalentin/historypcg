@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct-9010001-ww
 1823692
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/corsair/tm30-performance/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5147/1823692/thumbnails/tm30-performance-3g-
 9/21/2020 7:55:38 AM 45,97 RON
 9/24/2020 6:12:32 PM 46,59 RON
 9/26/2020 9:20:17 AM 46,99 RON
+10/1/2020 6:17:20 PM 47,46 RON

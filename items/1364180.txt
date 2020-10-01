@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050039-ww
 1364180
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-ml120-magnetic-levitation-120mm-pwm-dual-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/1364180/thumbnails/air-series-ml140-
 9/21/2020 7:56:14 AM 137,18 RON
 9/24/2020 6:25:47 PM 139,73 RON
 9/26/2020 9:33:29 AM 140,03 RON
+10/1/2020 9:02:39 PM 143,69 RON

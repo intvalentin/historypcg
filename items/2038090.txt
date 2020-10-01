@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |astro12-pro
 2038090
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/set-3-ventilatoare-aerocool-astro-12-pro-120mm-iluminare-argb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2038090/thumbnails/astro-12-pro-argb
 9/21/2020 7:56:14 AM 172,20 RON
 9/24/2020 6:18:24 PM 176,03 RON
 9/26/2020 9:26:09 AM 175,99 RON
+10/1/2020 9:08:38 PM 174,41 RON

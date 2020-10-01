@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc228
 2038358
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/corona-hp-evo-argb-140mm-3-fan-pack/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2038358/thumbnails/corona-hp-evo-arg
 9/21/2020 7:55:54 AM 227,78 RON
 9/24/2020 6:15:31 PM 228,05 RON
 9/26/2020 9:23:12 AM 228,44 RON
+10/1/2020 6:52:50 PM 228,32 RON

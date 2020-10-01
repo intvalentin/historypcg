@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-frgb-rf120-1c
 1599086
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/rf120-120mm-rgb-led/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1489074/1599086/thumbnails/rf120-120mm-rgb-l
 9/21/2020 7:56:13 AM 78,57 RON
 9/24/2020 6:24:19 PM 80,32 RON
 9/26/2020 9:32:03 AM 80,30 RON
+10/1/2020 7:57:00 PM 79,58 RON

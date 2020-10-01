@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050045-ww
 1364200
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-ml140-pro-magnetic-levitation-fan-140mm-pwm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1169071/1364200/thumbnails/air-series-ml140-
 9/21/2020 7:56:13 AM 123,54 RON
 9/24/2020 6:25:47 PM 125,93 RON
 9/26/2020 9:33:29 AM 126,08 RON
+10/1/2020 8:35:00 PM 125,33 RON

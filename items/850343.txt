@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta14ippc2000ip67pwm
 850343
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a14-industrialppc-2000-ip67-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/850343/thumbnails/nf-a14-industrialpp
 9/21/2020 7:57:07 AM 176,61 RON
 9/24/2020 6:32:34 PM 176,61 RON
 9/26/2020 9:34:13 AM 176,61 RON
+10/1/2020 9:09:11 PM 176,61 RON

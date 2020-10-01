@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc016
 1255213
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/zephyr-120/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1190677/1255213/thumbnails/zephyr-120-a92057
 9/21/2020 7:57:12 AM 29,34 RON
 9/24/2020 6:40:45 PM 29,37 RON
 9/26/2020 9:42:18 AM 29,42 RON
+10/1/2020 6:39:37 PM 29,41 RON

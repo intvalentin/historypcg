@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n-120-r
 232043
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/inter-tech/cobanitrox-extended-n-120-r/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/232043/thumbnails/cobanitrox-extended-n-12
 9/21/2020 7:56:13 AM 35,61 RON
 9/24/2020 6:34:45 PM 36,40 RON
 9/26/2020 9:36:23 AM 36,39 RON
+10/1/2020 7:16:20 PM 36,07 RON

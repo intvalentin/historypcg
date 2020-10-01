@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc017
 1255206
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/zephyr-120-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1088099/1255206/thumbnails/zephyr-120-pwm-7c
 9/21/2020 7:57:12 AM 33,63 RON
 9/24/2020 6:40:45 PM 33,66 RON
 9/26/2020 9:42:18 AM 33,73 RON
+10/1/2020 6:39:54 PM 29,67 RON

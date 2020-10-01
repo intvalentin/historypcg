@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kf1215fd18
 1979410
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/kaze-flex-silm-1800-rpm-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1979410/thumbnails/kaze-flex-120-sil
 9/21/2020 7:57:26 AM 59,76 RON
 9/24/2020 6:35:30 PM 59,84 RON
 9/26/2020 9:37:07 AM 59,93 RON
+10/1/2020 7:34:37 PM 59,90 RON

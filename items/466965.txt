@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta6x25
 466965
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a6x25-flx/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/466965/thumbnails/nf-a6x25-flx-5d40e36e593
 9/21/2020 7:56:35 AM 88,78 RON
 9/24/2020 6:34:01 PM 88,78 RON
 9/26/2020 9:35:39 AM 88,78 RON
+10/1/2020 8:02:52 PM 88,78 RON

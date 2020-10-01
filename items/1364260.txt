@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050047-ww
 1364260
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-ml140-magnetic-levitation-140mm-pwm-red-led/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1364260/thumbnails/air-series-ml140-
 9/21/2020 7:57:26 AM 137,18 RON
 9/24/2020 6:40:45 PM 139,46 RON
 9/26/2020 9:42:18 AM 140,03 RON
+10/1/2020 9:00:10 PM 139,13 RON

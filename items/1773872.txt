@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hf-2814c-d1
 1773872
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/aer-rgb-2-series-starter-kit-140mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5015/1773872/thumbnails/aer-rgb-2-series-sta
 9/21/2020 7:56:50 AM 457,23 RON
 9/24/2020 6:22:50 PM 463,45 RON
 9/26/2020 9:30:35 AM 467,39 RON
+10/1/2020 9:21:19 PM 464,43 RON

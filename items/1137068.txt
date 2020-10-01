@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |no-12015
 1137068
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/no-12015-slim/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/1137068/thumbnails/no-12015-slim-8c13c09bd
 9/21/2020 7:56:35 AM 27,84 RON
 9/24/2020 6:32:34 PM 28,46 RON
 9/26/2020 9:34:13 AM 28,46 RON
+10/1/2020 7:09:25 PM 28,20 RON

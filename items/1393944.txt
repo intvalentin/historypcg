@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w107-pl12sw-a
 1393944
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/water-30-riing-rgb-led-240/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472773/1393944/thumbnails/water-30-riing-rgb
 9/21/2020 7:55:30 AM 738,86 RON
 9/24/2020 6:06:38 PM 755,29 RON
 9/26/2020 9:14:25 AM 755,13 RON
+10/1/2020 5:56:58 PM 748,35 RON

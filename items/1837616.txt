@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc195
 1837616
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/sigma-hp-corona-rgb-120-3-fan-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2863/1837616/thumbnails/sigma-hp-corona-rgb-
 9/21/2020 7:55:51 AM 149,34 RON
 9/24/2020 6:16:13 PM 149,51 RON
 9/26/2020 9:38:36 AM 170,18 RON
+10/1/2020 6:51:11 PM 149,69 RON

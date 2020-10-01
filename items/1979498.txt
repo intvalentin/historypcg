@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kf9225fd23-p
 1979498
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/kaze-flex-pwm-92mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1979498/thumbnails/kaze-flex-pwm-92mm-d
 9/21/2020 7:56:58 AM 57,32 RON
 9/24/2020 6:19:08 PM 57,38 RON
 9/26/2020 9:26:54 AM 57,49 RON
+10/1/2020 7:32:45 PM 57,46 RON

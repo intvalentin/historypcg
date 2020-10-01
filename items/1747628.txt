@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ls-f12-r
 1747628
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/logistep/ls-f12-r-120mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1747628/thumbnails/ls-f12-r-120mm-42
 9/21/2020 7:56:13 AM 12,93 RON
 9/24/2020 6:22:50 PM 13,22 RON
 9/26/2020 9:30:36 AM 13,21 RON
+10/1/2020 6:54:25 PM 13,10 RON

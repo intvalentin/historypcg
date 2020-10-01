@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060031-ww
 1617506
     Product link    
 https://www.pcgarage.ro/coolere/corsair/hydro-series-h150i-pro-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1594546/1617506/thumbnails/corsair-hyrdo-ser
 9/21/2020 7:54:28 AM 968,71 RON
 9/24/2020 6:01:20 PM 968,71 RON
 9/26/2020 9:08:48 AM 968,71 RON
+10/1/2020 6:01:32 PM 968,71 RON

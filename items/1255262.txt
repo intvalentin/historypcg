@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc014
 1255262
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/zephyr-80-v2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/498497/1255262/thumbnails/zephyr-80-v2-b9e83
 9/21/2020 7:55:51 AM 17,63 RON
 9/24/2020 6:16:13 PM 17,65 RON
 9/26/2020 9:23:57 AM 17,67 RON
+10/1/2020 6:37:08 PM 17,67 RON

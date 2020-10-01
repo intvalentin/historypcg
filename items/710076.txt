@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm1225gs12l+-+sm1225gf12l
 710076
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/grand-flex-120-mm-1200-rpm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/710076/thumbnails/grand-flex-120-mm-1200-r
 9/21/2020 7:56:58 AM 66,40 RON
 9/24/2020 6:34:01 PM 66,47 RON
 9/26/2020 9:35:39 AM 66,60 RON
+10/1/2020 7:42:36 PM 66,55 RON

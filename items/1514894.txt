@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |id-am4-brkt
 1514894
     Product link    
 https://www.pcgarage.ro/accesorii-coolere/id-cooling/adaptor-am4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1489074/1514894/thumbnails/adaptor-am4-0c94a
 9/21/2020 7:55:43 AM 20,75 RON
 9/24/2020 6:14:02 PM 21,21 RON
 9/26/2020 9:21:46 AM 21,21 RON
+10/1/2020 6:24:37 PM 21,02 RON

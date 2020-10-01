@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-xf80
 85477
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/xfan-80/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/85477/thumbnails/xfan-80-ce27d13a6ab9ede14
 9/21/2020 7:57:17 AM 10,41 RON
 9/24/2020 6:46:42 PM 10,64 RON
 9/26/2020 9:48:16 AM 10,64 RON
+10/1/2020 9:25:04 PM 10,54 RON

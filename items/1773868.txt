@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hf-28140-b1
 1773868
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/aer-rgb-2-series-140mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1773868/thumbnails/aer-rgb-2-series-140
 9/21/2020 7:56:50 AM 160,54 RON
 9/24/2020 6:22:50 PM 160,54 RON
 9/26/2020 9:30:35 AM 160,54 RON
+10/1/2020 6:50:55 PM 144,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-frgb-rf120-3c
 1599102
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/rf120-120mm-rgb-led-three-fan-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1489074/1599102/thumbnails/rf120-120mm-rgb-l
 9/21/2020 7:55:58 AM 176,25 RON
 9/24/2020 6:24:19 PM 180,17 RON
 9/26/2020 9:32:03 AM 180,13 RON
+10/1/2020 9:11:51 PM 178,52 RON

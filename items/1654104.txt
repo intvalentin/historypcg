@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rl-krx72-01
 1654104
     Product link    
 https://www.pcgarage.ro/coolere/nzxt/kraken-x72/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/530/1654104/thumbnails/kraken-x72-9ba8a934ba
 9/21/2020 7:55:31 AM 956,65 RON
 9/24/2020 6:01:20 PM 974,50 RON
 9/26/2020 9:08:48 AM 975,68 RON
+10/1/2020 6:01:49 PM 970,07 RON

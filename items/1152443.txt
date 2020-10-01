@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |polarwnd-bl
 1152443
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/segotep/polar-wind-120-blue-led/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1146523/1152443/thumbnails/polar-wind-120-bl
 9/21/2020 7:57:22 AM 29,64 RON
 9/24/2020 6:41:30 PM 30,30 RON
 9/26/2020 9:43:03 AM 30,29 RON
+10/1/2020 10:03:17 PM 30,02 RON

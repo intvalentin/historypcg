@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f-120-s
 92085
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/inter-tech/f-120-s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/92085/thumbnails/f-120-s-98a44975073a0bed0
 9/21/2020 7:56:13 AM 25,33 RON
 9/24/2020 6:34:45 PM 25,89 RON
 9/26/2020 9:36:23 AM 25,89 RON
+10/1/2020 7:02:20 PM 25,66 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-c1ds-12fk-r1
 1693468
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/masterfan-mf120l/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1690716/1693468/thumbnails/masterfan-mf120l-
 9/21/2020 7:56:54 AM 27,50 RON
 9/24/2020 6:23:34 PM 27,17 RON
 9/26/2020 9:31:19 AM 27,01 RON
+10/1/2020 7:03:59 PM 27,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc018
 1255227
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/SilentiumPC/zephyr-140/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1192525/1255227/thumbnails/zephyr-140-64ada9
 9/21/2020 7:55:54 AM 33,31 RON
 9/24/2020 6:16:56 PM 33,35 RON
 9/26/2020 9:24:41 AM 33,40 RON
+10/1/2020 6:41:58 PM 33,38 RON

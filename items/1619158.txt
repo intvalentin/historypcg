@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc174
 1619158
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/SilentiumPC/pactum-pt-1-25g/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1594546/1619158/thumbnails/pactum-pt-1-25g-4
 9/21/2020 7:55:38 AM 61,99 RON
 9/24/2020 6:13:17 PM 62,05 RON
 9/26/2020 9:20:17 AM 62,16 RON
+10/1/2020 6:17:53 PM 62,13 RON

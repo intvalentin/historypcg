@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tf120rd
 1753572
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/tf120-120mm-red-led/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1753572/thumbnails/tf120-120mm-red-led-
 9/21/2020 7:56:17 AM 63,38 RON
 9/24/2020 6:22:50 PM 64,79 RON
 9/26/2020 9:30:36 AM 64,78 RON
+10/1/2020 7:38:46 PM 64,20 RON

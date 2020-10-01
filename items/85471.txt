@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-windb
 85471
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/wind-blade-120-mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/85471/thumbnails/wind-blade-5e8475ce3c79e9
 9/21/2020 7:55:58 AM 21,75 RON
 9/24/2020 6:34:45 PM 22,23 RON
 9/26/2020 9:36:23 AM 22,23 RON
+10/1/2020 6:57:29 PM 22,03 RON

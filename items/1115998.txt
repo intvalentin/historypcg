@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f011-pl12bl-a
 1115998
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/pure-12/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1112123/1115998/thumbnails/pure-12-adaab9d9f
 9/21/2020 7:57:45 AM 35,01 RON
 9/24/2020 6:42:15 PM 35,79 RON
 9/26/2020 9:43:03 AM 35,78 RON
+10/1/2020 10:11:19 PM 35,46 RON

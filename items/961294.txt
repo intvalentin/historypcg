@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-120rb
 961294
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/fn-120rb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862955/961294/thumbnails/fn-120rb-fdea4cccbd
 9/21/2020 7:57:45 AM 35,61 RON
 9/24/2020 6:42:15 PM 36,40 RON
 9/26/2020 9:43:47 AM 36,39 RON
+10/1/2020 10:12:42 PM 36,07 RON

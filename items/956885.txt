@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta9pwm
 956885
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a9-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/956885/thumbnails/nf-a9-pwm-6123ed4386c624
 9/21/2020 7:56:17 AM 104,85 RON
 9/24/2020 6:32:34 PM 104,85 RON
 9/26/2020 9:34:13 AM 104,85 RON
+10/1/2020 8:07:11 PM 104,85 RON

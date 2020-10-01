@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050043-ww
 1364225
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-ml120-magnetic-levitation-120mm-pwm-blue-led/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1173769/1364225/thumbnails/air-series-ml120-
 9/21/2020 7:56:22 AM 116,38 RON
 9/24/2020 6:25:47 PM 117,96 RON
 9/26/2020 9:33:29 AM 118,96 RON
+10/1/2020 8:34:26 PM 118,21 RON

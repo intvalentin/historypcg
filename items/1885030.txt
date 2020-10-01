@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fr120
 1885030
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/riotoro/fr120-120mm-red-led/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1885030/thumbnails/cross-x-120mm-red-le
 9/21/2020 7:56:35 AM 41,14 RON
 9/24/2020 6:20:37 PM 42,05 RON
 9/26/2020 9:28:22 AM 42,04 RON
+10/1/2020 7:22:19 PM 41,66 RON

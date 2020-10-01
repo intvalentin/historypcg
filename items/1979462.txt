@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kf1425fd18r-p
 1979462
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/scythe/kaze-flex-rgb-pwm-140/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/1979462/thumbnails/kaze-flex-rgb-pwm-
 9/21/2020 7:57:03 AM 90,77 RON
 9/24/2020 6:19:52 PM 90,89 RON
 9/26/2020 9:27:38 AM 91,04 RON
+10/1/2020 8:05:32 PM 91,00 RON

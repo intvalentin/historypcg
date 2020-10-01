@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl040
 1447202
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/pure-wings-2-140-mm-1000-rpm-pwm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/1447202/thumbnails/be-quiet-pure-wing
 9/21/2020 7:56:02 AM 59,39 RON
 9/24/2020 6:25:03 PM 58,77 RON
 9/26/2020 9:32:46 AM 58,46 RON
+10/1/2020 7:33:02 PM 58,62 RON

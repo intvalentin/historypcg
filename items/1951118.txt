@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-tp-g40
 1951118
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/deepcool/g40/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1951118/thumbnails/g40-4-grame-9585430c
 9/21/2020 7:55:38 AM 69,27 RON
 9/24/2020 6:12:32 PM 70,81 RON
 9/26/2020 9:20:17 AM 70,79 RON
+10/1/2020 6:18:27 PM 70,16 RON

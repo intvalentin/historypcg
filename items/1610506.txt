@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050077-ww
 1610506
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/ml-pro-rgb-140-single-high-static-pressure/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/953558/1610506/thumbnails/ml-pro-rgb-140-sin
 9/21/2020 7:56:31 AM 169,18 RON
 9/24/2020 6:24:19 PM 171,47 RON
 9/26/2020 9:32:03 AM 172,94 RON
+10/1/2020 9:07:49 PM 171,85 RON

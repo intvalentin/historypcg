@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta14uln
 478799
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a14-uln/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/478799/thumbnails/nf-a14-uln-e2f10936080f5
 9/21/2020 7:56:13 AM 129,49 RON
 9/24/2020 6:34:01 PM 129,49 RON
 9/26/2020 9:35:39 AM 129,49 RON
+10/1/2020 8:57:17 PM 129,49 RON

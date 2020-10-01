@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl064
 1404571
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/silent-wings-3-120mm-1450-rpm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1404571/thumbnails/silent-wings-3-140
 9/21/2020 7:57:31 AM 112,14 RON
 9/24/2020 6:40:45 PM 110,94 RON
 9/26/2020 9:42:18 AM 110,19 RON
+10/1/2020 8:29:49 PM 110,64 RON

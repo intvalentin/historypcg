@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rf-af120-b1
 2047338
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/aer-f-120mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2047338/thumbnails/aer-f-140mm-0a07a
 9/21/2020 7:56:45 AM 107,00 RON
 9/24/2020 6:18:24 PM 107,00 RON
 9/26/2020 9:26:09 AM 107,00 RON
+10/1/2020 8:08:17 PM 107,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050075-ww
 1610510
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/ml-pro-rgb-120-single-high-static-pressure/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1594546/1610510/thumbnails/ml-pro-rgb-120-si
 9/21/2020 7:56:31 AM 139,80 RON
 9/24/2020 6:24:19 PM 141,69 RON
 9/26/2020 9:32:03 AM 142,88 RON
+10/1/2020 9:02:23 PM 141,99 RON

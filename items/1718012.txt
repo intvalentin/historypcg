@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r400049
 1718012
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/raijintek/iris-14-rainbow-rgb-led-with-controller-2-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691852/1718012/thumbnails/raijintek-iris-14
 9/21/2020 7:56:50 AM 193,63 RON
 9/24/2020 6:22:50 PM 193,86 RON
 9/26/2020 9:30:36 AM 194,18 RON
+10/1/2020 9:13:47 PM 194,08 RON

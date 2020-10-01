@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-z9-2
 1425118
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/deepcool/z9-new-3-grame/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/1425118/thumbnails/z9-new-3-grame-7168d98c
 9/21/2020 7:55:33 AM 34,19 RON
 9/24/2020 6:12:32 PM 34,95 RON
 9/26/2020 9:20:17 AM 34,94 RON
+10/1/2020 6:12:10 PM 34,63 RON

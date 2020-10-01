@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs-051-rgb
 2020050
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/inter-tech/argus-rs-051-120mm-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8491/2020050/thumbnails/argus-rs-051-120mm-r
 9/21/2020 7:56:02 AM 40,45 RON
 9/24/2020 6:18:24 PM 39,52 RON
 9/26/2020 9:26:09 AM 39,52 RON
+10/1/2020 7:17:59 PM 39,16 RON

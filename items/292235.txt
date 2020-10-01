@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-bcbr-12fr-r1
 292235
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/bc-120-red-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/292235/thumbnails/bc-120-led-red-b68c292bd
 9/21/2020 7:56:30 AM 45,19 RON
 9/24/2020 6:34:01 PM 45,19 RON
 9/26/2020 9:35:39 AM 45,19 RON
+10/1/2020 7:24:31 PM 45,19 RON

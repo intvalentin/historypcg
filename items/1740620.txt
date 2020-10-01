@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zf-12025-rgb3
 1740620
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/zf-12025-rgb-3-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1736364/1740620/thumbnails/zf-12025-rgb-3-pa
 9/21/2020 7:56:06 AM 180,10 RON
 9/24/2020 6:22:50 PM 184,11 RON
 9/26/2020 9:30:36 AM 184,07 RON
+10/1/2020 9:12:07 PM 182,41 RON
