@@ -1,4 +1,3 @@
-# historypcg
- Istorie preturi pcg
+# PriceEPCG
+ Istorie preturi pcg & emg
  
-https://intvalentin.github.io/historypcg/
