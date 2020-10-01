@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_tflighthot4, 4160664
 1180033
     Product link    
 https://www.pcgarage.ro/joystick-uri/thrustmaster/tflight-hotas-4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1112123/1180033/thumbnails/tflight-hotas-4-2
 9/21/2020 8:09:46 AM 419,99 RON
 9/25/2020 9:08:23 AM 419,99 RON
 9/26/2020 1:37:55 PM 419,99 RON
+10/1/2020 7:52:27 AM 419,99 RON

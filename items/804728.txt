@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-grone-bk
 804728
     Product link    
 https://www.pcgarage.ro/carcase/in-win/grone-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/804728/thumbnails/grone-black-e734bcb
 9/21/2020 7:52:47 AM 718,79 RON
 9/24/2020 4:17:11 PM 728,57 RON
 9/26/2020 8:45:52 AM 722,58 RON
+10/1/2020 1:07:39 PM 730,11 RON

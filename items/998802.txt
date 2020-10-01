@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1b3-00m1nn-00
 998802
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-h22/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/929099/998802/thumbnails/versa-h22-e57d9adde
 9/21/2020 7:51:14 AM 189,84 RON
 9/24/2020 4:10:57 PM 192,42 RON
 9/26/2020 8:43:39 AM 194,02 RON
+10/1/2020 9:16:07 AM 192,83 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a2029321
 2008738
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/anker/powerport-atom-pd-2-60w-2x-usb-c-power-delivery-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2003606/2008738/thumbnails/powerport-atom-pd
 9/20/2020 11:48:18 PM 351,98 RON
 9/25/2020 9:34:10 AM 351,98 RON
 9/26/2020 2:02:16 PM 351,98 RON
+10/1/2020 12:18:23 PM 351,98 RON

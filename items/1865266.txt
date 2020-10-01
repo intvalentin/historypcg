@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |02r20b00135
 1865266
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/ophion-m-evo-tgs/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1864870/1865266/thumbnails/raijintek-ophion-
 9/21/2020 7:50:05 AM 845,01 RON
 9/24/2020 2:36:07 PM 846,04 RON
 9/26/2020 8:14:32 AM 847,45 RON
+10/1/2020 8:14:14 AM 847,73 RON

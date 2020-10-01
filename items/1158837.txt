@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-tx3e-22pk-b1
 1158837
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/hyper-tx3i/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1126098/1158837/thumbnails/hyper-tx3i-a99ed2
 9/21/2020 7:53:56 AM 113,58 RON
 9/24/2020 5:34:38 PM 115,13 RON
 9/26/2020 9:01:22 AM 116,08 RON
+10/1/2020 3:05:59 PM 115,37 RON

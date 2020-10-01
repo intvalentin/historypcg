@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r100009
 1526330
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/aidos-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1409094/1526330/thumbnails/aidos-direct-cont
 9/21/2020 7:54:49 AM 138,75 RON
 9/24/2020 6:03:43 PM 138,92 RON
 9/26/2020 9:10:17 AM 139,14 RON
+10/1/2020 4:24:02 PM 139,08 RON

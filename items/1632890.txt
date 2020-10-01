@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-801-bk
 1632890
     Product link    
 https://www.pcgarage.ro/carcase/redragon/ironhide-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1632890/thumbnails/ironhide-black-55
 9/21/2020 7:49:22 AM 675,31 RON
 9/24/2020 2:50:25 PM 684,49 RON
 9/26/2020 8:18:14 AM 690,18 RON
+10/1/2020 8:05:34 AM 685,94 RON

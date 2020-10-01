@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-h230i-b1
 826359
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h230-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/815230/826359/thumbnails/h230-black-54bf6006
 9/21/2020 7:52:01 AM 370,25 RON
 9/24/2020 4:15:06 PM 369,23 RON
 9/26/2020 8:45:52 AM 372,29 RON
+10/1/2020 11:32:32 AM 370,01 RON

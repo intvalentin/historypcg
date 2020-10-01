@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011030-ww
 707907
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-air-540-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/707907/thumbnails/carbide-air-540-black-0b
 9/21/2020 7:50:00 AM 673,84 RON
 9/24/2020 2:58:40 PM 686,32 RON
 9/26/2020 8:47:22 AM 687,20 RON
+10/1/2020 1:00:21 PM 683,28 RON

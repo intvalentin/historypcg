@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chromecast audio
 1135608
     Product link    
 https://www.pcgarage.ro/accesorii-gsm/google/chromecast-audio/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1135608/thumbnails/chromecast-audio-
 9/20/2020 11:47:28 PM 259,99 RON
 9/25/2020 9:25:18 AM 259,99 RON
 9/26/2020 1:52:46 PM 259,99 RON
+10/1/2020 10:20:40 AM 259,99 RON

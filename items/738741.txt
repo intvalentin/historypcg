@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z3
 738741
     Product link    
 https://www.pcgarage.ro/carcase/zalman/z3-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/714621/738741/thumbnails/z3-61bffadd078acf61
 9/21/2020 7:51:28 AM 249,87 RON
 9/24/2020 4:19:16 PM 253,27 RON
 9/26/2020 8:46:37 AM 255,38 RON
+10/1/2020 9:59:51 AM 253,81 RON

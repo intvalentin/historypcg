@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-214l-w
 1852198
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-214l-white-led/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848774/1852198/thumbnails/se-214l-white-led
 9/21/2020 7:54:37 AM 161,69 RON
 9/24/2020 5:53:03 PM 165,29 RON
 9/26/2020 9:05:49 AM 165,25 RON
+10/1/2020 4:30:03 PM 164,24 RON

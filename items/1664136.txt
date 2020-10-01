@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt240 b
 1664136
     Product link    
 https://www.pcgarage.ro/carcase/fortron/cmt240/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1573/1664136/thumbnails/cmt240-ea9f56170abbf
 9/21/2020 7:51:28 AM 246,43 RON
 9/24/2020 2:48:22 PM 248,40 RON
 9/26/2020 8:17:30 AM 250,53 RON
+9/30/2020 10:18:02 PM 244,36 RON

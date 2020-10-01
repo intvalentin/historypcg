@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s210-001
 277319
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/source-210-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/277319/thumbnails/source-210-black-afff5fa
 9/21/2020 7:51:19 AM 214,57 RON
 9/24/2020 4:27:33 PM 217,48 RON
 9/26/2020 8:49:36 AM 219,29 RON
+10/1/2020 9:24:45 AM 217,94 RON

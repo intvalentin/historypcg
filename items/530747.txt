@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011029-ww
 530747
     Product link    
 https://www.pcgarage.ro/carcase/corsair/obsidian-350d-windowed/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/530747/thumbnails/obsidian-350d-windowed-f
 9/21/2020 7:52:38 AM 612,14 RON
 9/24/2020 4:21:20 PM 623,61 RON
 9/26/2020 8:48:07 AM 624,33 RON
+10/1/2020 12:49:30 PM 620,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc257
 2004138
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/armis-ar6x-evo-tg-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2003606/2004138/thumbnails/armis-ar6x-evo-tg
 9/21/2020 7:48:33 AM 436,32 RON
 9/24/2020 2:07:19 PM 436,84 RON
 9/25/2020 10:54:39 PM 437,57 RON
+9/30/2020 9:43:43 PM 437,73 RON

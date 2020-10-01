@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sprint-bk
 1189471
     Product link    
 https://www.pcgarage.ro/carcase/segotep/sprint-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/1189471/thumbnails/sprint-black-fe175
 9/21/2020 7:51:14 AM 189,54 RON
 9/24/2020 4:02:37 PM 192,11 RON
 9/26/2020 8:40:40 AM 193,71 RON
+10/1/2020 9:15:51 AM 192,52 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-c-ver1a-02
 2085274
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/vector-rs-dark-tempered-glass/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3354/2085274/thumbnails/vector-rs-dark-tempe
 9/21/2020 7:50:05 AM 1.019,89 RON
 9/24/2020 2:15:28 PM 1.019,89 RON
 9/25/2020 10:57:38 PM 1.019,89 RON
+10/1/2020 8:19:38 AM 1.019,89 RON

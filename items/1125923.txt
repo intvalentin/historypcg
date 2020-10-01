@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd5000lpcx
 1125923
     Product link    
 https://www.pcgarage.ro/hdd-notebook/western-digital/blue-500gb-sata-iii-5400rpm-16mb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1053670/1125923/thumbnails/blue-500gb-sata-i
 9/20/2020 11:11:12 PM 229,99 RON
 9/25/2020 9:09:49 AM 229,99 RON
 9/26/2020 1:39:26 PM 229,99 RON
+10/1/2020 8:14:44 AM 229,99 RON

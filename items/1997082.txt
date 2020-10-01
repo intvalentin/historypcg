@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-c-def7a-09
 1997082
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/define-7-white-solid/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1997082/thumbnails/define-7-white-so
 9/21/2020 7:49:27 AM 836,29 RON
 9/24/2020 2:23:44 PM 752,66 RON
 9/25/2020 10:55:22 PM 664,11 RON
+9/30/2020 9:45:54 PM 664,11 RON

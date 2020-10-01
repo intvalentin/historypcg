@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217466609
 2046278
     Product link    
 https://www.pcgarage.ro/baterii-externe/swissten/worx-10000-mah-2x-usb-24a-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2046278/thumbnails/worx-10000-mah-2x
 9/20/2020 11:47:04 PM 109,99 RON
 9/25/2020 9:20:10 AM 109,99 RON
 9/26/2020 1:49:46 PM 109,99 RON
+10/1/2020 10:03:07 AM 109,99 RON

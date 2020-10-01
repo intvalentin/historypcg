@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060010-ww
 471639
     Product link    
 https://www.pcgarage.ro/coolere/corsair/hydro-series-h55/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/471639/thumbnails/hydro-series-h55-a2d03a5
 9/21/2020 7:54:33 AM 408,96 RON
 9/24/2020 6:09:35 PM 412,24 RON
 9/26/2020 9:17:23 AM 415,75 RON
+10/1/2020 5:27:19 PM 413,12 RON

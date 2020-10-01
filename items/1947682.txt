@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1m3-00m1wn-00
 1947682
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/h200-tg-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947682/thumbnails/h200-tg-rgb-0a7d9a1a
 9/21/2020 7:48:37 AM 369,19 RON
 9/24/2020 2:09:21 PM 374,21 RON
 9/25/2020 10:56:08 PM 377,32 RON
+9/30/2020 9:41:03 PM 375,00 RON

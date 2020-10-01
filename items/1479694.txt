@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc-4002
 1479694
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/sc-4002/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1475542/1479694/thumbnails/sc-4002-e871cd6f2
 9/21/2020 7:49:17 AM 327,38 RON
 9/24/2020 2:50:25 PM 331,83 RON
 9/26/2020 8:18:14 AM 334,59 RON
+9/30/2020 10:36:08 PM 332,54 RON

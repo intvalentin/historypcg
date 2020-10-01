@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011183-ww
 1959758
     Product link    
 https://www.pcgarage.ro/carcase/corsair/110r/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1261/1959758/thumbnails/110r-3ecdc4f7d59aa2a
 9/21/2020 7:49:17 AM 301,38 RON
 9/24/2020 2:29:57 PM 306,98 RON
 9/26/2020 8:12:19 AM 307,43 RON
+9/30/2020 10:31:49 PM 305,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plb00077
 881858
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/plantronics/m70-r-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862960/881858/thumbnails/m70-r-black-8818351
 9/20/2020 11:46:46 PM 162,98 RON
 9/25/2020 9:18:41 AM 162,98 RON
 9/26/2020 1:48:19 PM 162,98 RON
+10/1/2020 9:43:34 AM 162,98 RON

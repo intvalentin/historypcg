@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |polarlgh-bk-nf
 1786720
     Product link    
 https://www.pcgarage.ro/carcase/segotep/polar-light-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862955/1786720/thumbnails/polar-light-negru-
 9/21/2020 7:50:13 AM 137,18 RON
 9/24/2020 3:15:17 PM 139,05 RON
 9/26/2020 8:27:11 AM 140,20 RON
+10/1/2020 8:49:44 AM 139,34 RON

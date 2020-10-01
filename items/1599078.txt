@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-h12l-ct120wa4
 1599078
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/captain-120-ex-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1052635/1599078/thumbnails/captain-120-ex-wh
 9/21/2020 7:54:33 AM 391,59 RON
 9/24/2020 6:01:20 PM 400,30 RON
 9/26/2020 9:08:48 AM 400,21 RON
+10/1/2020 5:25:21 PM 397,75 RON

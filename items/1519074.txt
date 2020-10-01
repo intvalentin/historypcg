@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w138-pl14re-a
 1519074
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/water-30-riing-red-280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1508470/1519074/thumbnails/water-30-riing-re
 9/21/2020 7:55:26 AM 695,39 RON
 9/24/2020 6:05:09 PM 710,85 RON
 9/26/2020 9:10:17 AM 710,70 RON
+10/1/2020 5:50:47 PM 704,32 RON

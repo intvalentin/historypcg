@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ver-onyx-nat
 2040738
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/vertex-onyx-plano/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2040738/thumbnails/ochelari-pentru-c
 9/21/2020 8:08:37 AM 270,51 RON
 9/25/2020 8:55:12 AM 270,51 RON
 9/26/2020 1:24:36 PM 270,51 RON
+9/30/2020 9:41:33 PM 270,51 RON

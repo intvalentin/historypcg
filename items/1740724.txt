@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asus twinview dock
 1740724
     Product link    
 https://www.pcgarage.ro/accesorii-gsm/asus/twinview-dock/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1740724/thumbnails/twinview-dock-11e
 9/20/2020 11:47:28 PM 1.163,98 RON
 9/25/2020 9:25:18 AM 1.167,98 RON
 9/26/2020 1:52:46 PM 1.168,98 RON
+10/1/2020 10:22:19 AM 1.166,98 RON

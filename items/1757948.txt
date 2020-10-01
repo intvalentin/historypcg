@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r10b00091
 1757948
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/orcus-rbw-280mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1153/1757948/thumbnails/orcus-rbw-280mm-27f5
 9/21/2020 7:54:16 AM 709,36 RON
 9/24/2020 5:30:30 PM 710,22 RON
 9/26/2020 8:59:54 AM 711,41 RON
+10/1/2020 3:44:21 PM 711,05 RON

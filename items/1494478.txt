@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1h2-00m1wn-01
 1494478
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/view-28-rgb-riing-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1187917/1494478/thumbnails/view-28-rgb-riing
 9/21/2020 7:49:51 AM 371,07 RON
 9/24/2020 2:50:25 PM 376,12 RON
 9/26/2020 8:18:14 AM 379,24 RON
+10/1/2020 7:35:39 AM 376,92 RON

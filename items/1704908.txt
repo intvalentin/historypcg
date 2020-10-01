@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011140-ww
 1704908
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-spec-omega-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1703884/1704908/thumbnails/carbide-spec-omeg
 9/21/2020 7:48:48 AM 828,60 RON
 9/24/2020 2:46:19 PM 839,85 RON
 9/26/2020 8:16:45 AM 847,02 RON
+10/1/2020 1:17:23 PM 805,73 RON

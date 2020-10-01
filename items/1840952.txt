@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |99hanw003-00
 1840952
     Product link    
 https://www.pcgarage.ro/headset-vr/htc/vive-pro-full-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1840952/thumbnails/htc-vive-pro-full-ki
 9/21/2020 8:08:42 AM 5.799,00 RON
 9/25/2020 8:57:23 AM 5.799,00 RON
 9/26/2020 1:26:47 PM 5.799,00 RON
+9/30/2020 9:52:37 PM 5.799,00 RON

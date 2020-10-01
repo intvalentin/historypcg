@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-204k
 1138953
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-204k/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1138953/thumbnails/se-204k-5fa8ede39b
 9/21/2020 7:54:58 AM 223,56 RON
 9/24/2020 6:06:38 PM 228,53 RON
 9/26/2020 9:15:10 AM 228,48 RON
+10/1/2020 4:47:32 PM 227,08 RON

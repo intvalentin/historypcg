@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-x7
 1988998
     Product link    
 https://www.pcgarage.ro/carcase/zalman/zm-x7/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1979534/1988998/thumbnails/x7-black-a7e3776d
 9/21/2020 7:52:57 AM 830,99 RON
 9/24/2020 3:04:54 PM 842,29 RON
 9/26/2020 8:23:27 AM 849,28 RON
+10/1/2020 1:21:31 PM 844,07 RON

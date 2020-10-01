@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rhd-125
 1841920
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/axagon/bracket-25-inch-hdd-ssd-la-35-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6599/1841920/thumbnails/adaptor-35-inch-la-2
 9/21/2020 7:53:27 AM 31,54 RON
 9/24/2020 4:35:48 PM 31,56 RON
 9/26/2020 8:52:33 AM 31,63 RON
+10/1/2020 2:20:57 PM 31,61 RON

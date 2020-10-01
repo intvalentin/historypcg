@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |btcarp
 1480514
     Product link    
 https://www.pcgarage.ro/handsfree/kit/car-kit-btcarp-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469770/1480514/thumbnails/bluetooth-hands-f
 9/20/2020 11:47:19 PM 123,57 RON
 9/25/2020 9:23:48 AM 123,93 RON
 9/26/2020 1:51:16 PM 124,00 RON
+10/1/2020 10:07:33 AM 123,87 RON

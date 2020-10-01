@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-es217xe_ag
 1634234
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/enthoo-evolv-shift-x-itx-tempered-glass-anthracite-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1634078/1634234/thumbnails/enthoo-evolv-shif
 9/21/2020 7:52:52 AM 759,99 RON
 9/24/2020 3:29:48 PM 759,99 RON
 9/26/2020 8:32:25 AM 759,99 RON
+10/1/2020 1:11:09 PM 759,99 RON

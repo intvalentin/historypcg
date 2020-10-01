@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-h8
 1991258
     Product link    
 https://www.pcgarage.ro/carcase/segotep/halo-8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1991258/thumbnails/halo-8-79062e73df
 9/21/2020 7:49:36 AM 169,46 RON
 9/24/2020 2:25:49 PM 171,77 RON
 9/25/2020 11:00:37 PM 173,20 RON
+9/30/2020 10:03:29 PM 172,13 RON

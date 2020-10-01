@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp300a1w2n
 486579
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/chaser-a31/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/486579/thumbnails/chaser-a31-629204e4e0867
 9/21/2020 7:52:19 AM 446,60 RON
 9/24/2020 4:23:25 PM 452,67 RON
 9/26/2020 8:48:07 AM 456,43 RON
+10/1/2020 12:02:32 PM 453,63 RON

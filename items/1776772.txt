@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chione-m1a-240r
 1776772
     Product link    
 https://www.pcgarage.ro/coolere/gamdias/chione-m1a-240-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1774300/1776772/thumbnails/chione-m1a-240-rg
 9/21/2020 7:55:22 AM 531,31 RON
 9/24/2020 5:55:07 PM 543,12 RON
 9/26/2020 9:06:34 AM 543,00 RON
+10/1/2020 5:39:08 PM 539,67 RON

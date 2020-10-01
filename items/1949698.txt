@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_gt018
 1949698
     Product link    
 https://www.pcgarage.ro/gamepad/marvo/gt-018-pc-ps3-android/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1949698/thumbnails/gt-018-a0ce7f0e15208
 9/21/2020 8:09:10 AM 77,98 RON
 9/25/2020 9:01:03 AM 77,98 RON
 9/26/2020 1:30:34 PM 77,98 RON
+9/30/2020 10:23:04 PM 77,98 RON

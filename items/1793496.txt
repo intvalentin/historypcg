@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1l3-00m9wn-00
 1793496
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/a500-aluminum-tempered-glass/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3049/1793496/thumbnails/a500-tempered-glass-
 9/21/2020 7:53:06 AM 1.153,78 RON
 9/24/2020 3:15:17 PM 1.169,46 RON
 9/26/2020 8:27:11 AM 1.179,18 RON
+10/1/2020 1:50:47 PM 1.171,94 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cacgpanzermax
 1500758
     Product link    
 https://www.pcgarage.ro/carcase/cougar/panzer-max/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469694/1500758/thumbnails/panzer-max-fc9960
 9/21/2020 7:52:52 AM 785,30 RON
 9/24/2020 3:38:07 PM 785,30 RON
 9/26/2020 8:35:26 AM 785,30 RON
+10/1/2020 1:14:28 PM 785,30 RON

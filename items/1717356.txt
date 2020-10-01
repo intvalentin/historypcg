@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r100017
 1717356
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/tisis-core/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691840/1717356/thumbnails/tisis-core-3bb9b6
 9/21/2020 7:55:14 AM 379,80 RON
 9/24/2020 5:57:11 PM 380,28 RON
 9/26/2020 9:07:18 AM 380,91 RON
+10/1/2020 5:23:24 PM 380,72 RON

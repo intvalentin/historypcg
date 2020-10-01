@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-genomebg
 1386749
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/genome-black-green/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/978807/1386749/thumbnails/genome-black-green
 9/21/2020 7:53:06 AM 1.168,70 RON
 9/24/2020 4:00:33 PM 1.184,59 RON
 9/26/2020 8:39:55 AM 1.194,43 RON
+10/1/2020 1:52:08 PM 1.187,10 RON

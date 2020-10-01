@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-matrexx50
 1858910
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/matrexx-50/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1858910/thumbnails/matrexx-50-85c1726f1
 9/21/2020 7:50:09 AM 186,57 RON
 9/24/2020 3:11:08 PM 189,11 RON
 9/26/2020 8:25:41 AM 190,68 RON
+10/1/2020 9:13:14 AM 189,51 RON

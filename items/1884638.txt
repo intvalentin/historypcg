@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr1280
 1884638
     Product link    
 https://www.pcgarage.ro/carcase/riotoro/cr1280/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1884638/thumbnails/cr1280-b5b470414e3e1
 9/21/2020 7:52:29 AM 531,36 RON
 9/24/2020 3:09:03 PM 538,59 RON
 9/26/2020 8:25:41 AM 543,06 RON
+10/1/2020 12:36:45 PM 539,73 RON

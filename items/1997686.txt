@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-d500d-wgnn-s01
 1997686
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-td500-mesh-white-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/1997686/thumbnails/masterbox-td500-m
 9/21/2020 7:52:29 AM 563,84 RON
 9/24/2020 3:02:49 PM 571,51 RON
 9/26/2020 8:22:42 AM 576,25 RON
+10/1/2020 12:41:51 PM 572,72 RON

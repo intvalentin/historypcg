@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-912i-r
 1750832
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-912i-r-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1749840/1750832/thumbnails/se-912i-r-red-bf4
 9/21/2020 7:54:45 AM 64,66 RON
 9/24/2020 5:55:07 PM 66,09 RON
 9/26/2020 9:06:34 AM 66,08 RON
+10/1/2020 4:15:37 PM 65,67 RON

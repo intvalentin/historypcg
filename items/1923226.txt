@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc240
 1923226
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/navis-evo-argb-240/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8629/1923226/thumbnails/navis-evo-argb-240-7
 9/21/2020 7:53:39 AM 427,45 RON
 9/24/2020 4:52:17 PM 427,97 RON
 9/26/2020 8:55:28 AM 428,68 RON
+10/1/2020 2:44:37 PM 428,48 RON

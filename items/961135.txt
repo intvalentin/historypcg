@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-s340w-w1
 961135
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/source-340-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/961135/thumbnails/source-340-white-86
 9/21/2020 7:52:10 AM 397,88 RON
 9/24/2020 4:13:01 PM 403,29 RON
 9/26/2020 8:44:23 AM 406,64 RON
+10/1/2020 11:50:31 AM 404,15 RON

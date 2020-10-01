@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-301
 1804612
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/nokia/ac-301-4x-usb-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1804216/1804612/thumbnails/ac-301-4x-usb-bla
 9/20/2020 11:48:39 PM 128,98 RON
 9/25/2020 9:36:23 AM 128,98 RON
 9/26/2020 2:04:30 PM 128,98 RON
+10/1/2020 12:44:22 PM 128,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00098
 1747708
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/ophion-evo/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1737700/1747708/thumbnails/ophion-evo-579a17
 9/21/2020 7:49:22 AM 686,47 RON
 9/24/2020 2:44:15 PM 687,31 RON
 9/26/2020 8:16:01 AM 688,46 RON
+10/1/2020 8:06:07 AM 688,69 RON

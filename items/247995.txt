@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-tht9pwm
 247995
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/theta-9-pwm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/247995/thumbnails/theta-9-pwm-ebc9d0c892aa
 9/21/2020 7:54:41 AM 38,76 RON
 9/24/2020 6:10:20 PM 39,62 RON
 9/26/2020 9:18:08 AM 39,61 RON
+10/1/2020 4:09:10 PM 39,37 RON

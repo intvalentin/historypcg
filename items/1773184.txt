@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scktn-5000
 1773184
     Product link    
 https://www.pcgarage.ro/coolere/scythe/katana-5/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5015/1773184/thumbnails/katana-5-767c969b495
 9/21/2020 7:54:28 AM 169,36 RON
 9/24/2020 5:55:07 PM 169,57 RON
 9/26/2020 9:06:34 AM 169,85 RON
+10/1/2020 4:33:16 PM 169,76 RON

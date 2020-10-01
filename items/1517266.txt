@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scmg-5100
 1517266
     Product link    
 https://www.pcgarage.ro/coolere/scythe/mugen-5-revb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1415042/1517266/thumbnails/mugen-5-revb-6799
 9/21/2020 7:53:48 AM 363,35 RON
 9/24/2020 4:44:02 PM 308,90 RON
 9/26/2020 8:55:28 AM 308,90 RON
+10/1/2020 5:18:41 PM 364,22 RON

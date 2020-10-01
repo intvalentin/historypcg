@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-m1
 874376
     Product link    
 https://www.pcgarage.ro/carcase/zalman/m1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/874376/thumbnails/m1-8dff193cf370b557
 9/21/2020 7:51:51 AM 323,39 RON
 9/24/2020 4:13:01 PM 327,79 RON
 9/26/2020 8:44:23 AM 330,51 RON
+10/1/2020 10:35:17 AM 328,48 RON

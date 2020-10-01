@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad0009
 1098888
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/logilink/adaptor-2x-hdd-ssd-35-inch-la-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025741/1098888/thumbnails/adaptor-2x-hdd-ss
 9/21/2020 7:53:19 AM 25,32 RON
 9/24/2020 4:33:43 PM 25,35 RON
 9/26/2020 8:51:49 AM 25,41 RON
+10/1/2020 2:09:29 PM 25,38 RON

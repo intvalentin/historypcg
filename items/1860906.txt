@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix lc 240
 1860906
     Product link    
 https://www.pcgarage.ro/coolere/asus/rog-strix-lc-240/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1236/1860906/thumbnails/rog-strix-lc-240-f20
 9/21/2020 7:53:56 AM 713,00 RON
 9/24/2020 5:28:26 PM 726,28 RON
 9/26/2020 8:59:09 AM 727,19 RON
+10/1/2020 3:46:15 PM 771,61 RON

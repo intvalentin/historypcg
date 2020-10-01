@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-hfrm
 723381
     Product link    
 https://www.pcgarage.ro/carcase/in-win/h-frame/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/723381/thumbnails/h-frame-af182341f16
 9/21/2020 7:53:11 AM 2.000,97 RON
 9/24/2020 4:21:20 PM 2.028,18 RON
 9/26/2020 8:47:22 AM 2.045,03 RON
+10/1/2020 2:01:20 PM 2.032,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a80s
 1981810
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/carcasa-inter-tech-a80s-itx-cu-sursa-de-60w-neagra/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1981810/thumbnails/itx-a80s-black-68448
 9/21/2020 7:49:46 AM 349,39 RON
 9/24/2020 2:27:53 PM 354,14 RON
 9/26/2020 8:11:35 AM 357,08 RON
+10/1/2020 7:29:54 AM 354,89 RON

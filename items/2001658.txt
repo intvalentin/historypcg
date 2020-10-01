@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-l3w
 2001658
     Product link    
 https://www.pcgarage.ro/carcase/segotep/lux-ii-v2-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8078/2001658/thumbnails/lux-ii-v2-white-ac6a
 9/21/2020 7:51:37 AM 269,40 RON
 9/24/2020 3:02:49 PM 273,06 RON
 9/26/2020 8:22:42 AM 275,33 RON
+10/1/2020 10:12:30 AM 273,64 RON

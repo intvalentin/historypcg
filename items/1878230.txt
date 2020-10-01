@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bk024
 1878230
     Product link    
 https://www.pcgarage.ro/coolere/be-quiet/dark-rock-slim/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1868718/1878230/thumbnails/dark-rock-slim-40
 9/21/2020 7:54:24 AM 347,67 RON
 9/24/2020 5:50:59 PM 347,52 RON
 9/26/2020 9:05:04 AM 347,96 RON
+10/1/2020 5:17:19 PM 348,40 RON

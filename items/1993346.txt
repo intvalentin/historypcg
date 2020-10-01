@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1p8-00m1wn-00
 1993346
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/carcasa-thermaltake-level-20-rs-tempered-glass-neagra-iluminare-argb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/1993346/thumbnails/level-20-rs-argb-
 9/21/2020 7:50:00 AM 616,89 RON
 9/24/2020 2:25:49 PM 625,27 RON
 9/25/2020 11:00:37 PM 630,47 RON
+10/1/2020 8:03:07 AM 626,60 RON

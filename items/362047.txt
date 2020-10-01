@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alpine 64 plus
 362047
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-64-plus/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/362047/thumbnails/alpine-64-plus-9dced4ea2
 9/21/2020 7:54:45 AM 50,94 RON
 9/24/2020 6:09:35 PM 50,94 RON
 9/26/2020 9:18:08 AM 50,94 RON
+10/1/2020 4:13:11 PM 50,94 RON

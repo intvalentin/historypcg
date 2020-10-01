@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpntd9l
 969482
     Product link    
 https://www.pcgarage.ro/coolere/noctua/nh-d9l/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/853128/969482/thumbnails/nh-d9l-cf5c806fa9d9
 9/21/2020 7:53:45 AM 312,93 RON
 9/24/2020 5:36:43 PM 312,93 RON
 9/26/2020 9:02:06 AM 312,93 RON
+10/1/2020 3:25:29 PM 312,93 RON

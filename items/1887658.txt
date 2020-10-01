@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gnsis_irid400rgb
 1887658
     Product link    
 https://www.pcgarage.ro/carcase/genesis/irid-400-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1887658/thumbnails/irid-400-rgb-9627906
 9/21/2020 7:48:52 AM 396,95 RON
 9/24/2020 2:36:07 PM 396,95 RON
 9/26/2020 8:14:32 AM 396,95 RON
+10/1/2020 7:39:40 AM 396,95 RON

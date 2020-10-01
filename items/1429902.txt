@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-k5-bk
 1429902
     Product link    
 https://www.pcgarage.ro/carcase/segotep/sg-k5-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175596/1429902/thumbnails/sg-k5-black-06e6d
 9/21/2020 7:51:42 AM 284,34 RON
 9/24/2020 3:56:24 PM 288,20 RON
 9/26/2020 8:38:25 AM 290,59 RON
+10/1/2020 10:21:43 AM 288,81 RON

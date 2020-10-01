@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200053
 1526414
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/thetis-black-window/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1408706/1526414/thumbnails/thetis-black-wind
 9/21/2020 7:52:33 AM 603,08 RON
 9/24/2020 3:36:02 PM 603,82 RON
 9/26/2020 8:34:40 AM 604,82 RON
+10/1/2020 12:46:48 PM 605,02 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zq9-00012
 1480154
     Product link    
 https://www.pcgarage.ro/console-jocuri/microsoft/xbox-one-s-500gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/1480154/thumbnails/xbox-one-s-500gb-p
 9/21/2020 8:08:48 AM 1.063,98 RON
 9/25/2020 8:58:50 AM 1.063,98 RON
 9/26/2020 1:28:18 PM 1.063,98 RON
+9/30/2020 9:55:48 PM 1.063,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l-01-500
 1777080
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/l-01-500w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1777080/thumbnails/l-01-500w-11c3ae7da3
 9/21/2020 7:50:43 AM 125,82 RON
 9/24/2020 3:17:21 PM 127,53 RON
 9/26/2020 8:27:56 AM 128,59 RON
+10/1/2020 8:46:15 AM 127,80 RON

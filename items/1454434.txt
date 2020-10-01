@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ci-01b-op
 1454434
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/cube-ci-01b-op/
@@ -8,3 +8,4 @@ Chieftec CUBE CI-01B-OP
 https://3.grgs.ro/images/products/1/1443558/1454434/thumbnails/cube-ci-01b-op-b687c86e4e81c8b6594751cf1dfab3e1.jpg
     Pret    
 9/26/2020 8:36:56 AM 231,03 RON
+10/1/2020 9:47:24 AM 229,61 RON

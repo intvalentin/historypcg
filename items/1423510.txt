@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1g5-00m1wn-00
 1423510
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-u21/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1192525/1423510/thumbnails/versa-u21-01b47f9
 9/21/2020 7:51:56 AM 339,47 RON
 9/24/2020 3:58:29 PM 344,09 RON
 9/26/2020 8:39:10 AM 346,95 RON
+10/1/2020 11:20:34 AM 344,82 RON

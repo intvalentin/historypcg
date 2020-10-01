@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scior-1000
 822412
     Product link    
 https://www.pcgarage.ro/coolere/scythe/iori/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/634551/822412/thumbnails/iori-37cad320ca1122
 9/21/2020 7:54:53 AM 182,91 RON
 9/24/2020 6:08:51 PM 183,14 RON
 9/26/2020 9:16:39 AM 183,44 RON
+10/1/2020 4:36:16 PM 183,35 RON

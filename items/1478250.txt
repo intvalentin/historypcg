@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |freezer 12
 1478250
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-12/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1146523/1478250/thumbnails/freezer-12-ced904
 9/21/2020 7:54:20 AM 123,55 RON
 9/24/2020 6:05:10 PM 122,18 RON
 9/26/2020 9:10:17 AM 121,41 RON
+10/1/2020 4:22:23 PM 121,87 RON

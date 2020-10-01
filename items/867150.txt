@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-8930026
 867150
     Product link    
 https://www.pcgarage.ro/detalii-produs/867150/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/480523/867150/thumbnails/carbide-accessory-b
 9/21/2020 7:53:31 AM 35,08 RON
 9/24/2020 4:39:57 PM 35,08 RON
 9/26/2020 8:54:02 AM 35,08 RON
+10/1/2020 2:22:38 PM 35,08 RON

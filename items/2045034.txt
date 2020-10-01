@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w285-pl12sw-a
 2045034
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/th120-argb-sync/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2045034/thumbnails/th120-argb-sync-64f8
 9/21/2020 7:54:12 AM 370,40 RON
 9/24/2020 4:48:10 PM 375,44 RON
 9/26/2020 8:56:57 AM 378,56 RON
+10/1/2020 3:30:19 PM 376,23 RON

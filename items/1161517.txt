@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-607
 1161517
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/it-607-300w-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1052635/1161517/thumbnails/it-607-300w-black
 9/21/2020 7:51:28 AM 250,36 RON
 9/24/2020 4:02:38 PM 253,76 RON
 9/26/2020 8:41:24 AM 255,87 RON
+10/1/2020 10:01:09 AM 254,30 RON

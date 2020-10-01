@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-53-01000-188
 2038242
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/taotronics/taotronics-soundliberty-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2038242/thumbnails/taotronics-soundlibe
 9/20/2020 11:46:46 PM 194,98 RON
 9/25/2020 9:17:57 AM 194,98 RON
 9/26/2020 1:47:34 PM 194,98 RON
+10/1/2020 9:44:39 AM 194,98 RON

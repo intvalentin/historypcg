@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fenix-bk
 1767080
     Product link    
 https://www.pcgarage.ro/carcase/segotep/fenix/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1767080/thumbnails/fenix-73d50c65dea3daf
 9/21/2020 7:50:18 AM 341,77 RON
 9/24/2020 3:17:21 PM 346,42 RON
 9/26/2020 8:27:56 AM 349,29 RON
+10/1/2020 11:21:08 AM 347,15 RON

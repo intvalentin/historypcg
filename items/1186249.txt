@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a1252011, a1252h11
 1186249
     Product link    
 https://www.pcgarage.ro/baterii-externe/anker/powercore-15600-mah-3a-2x-usb-black-tehnologia-poweriq/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/1186249/thumbnails/powercore-15600-ma
 9/20/2020 11:46:55 PM 159,28 RON
 9/25/2020 9:20:10 AM 159,28 RON
 9/26/2020 1:49:45 PM 159,28 RON
+10/1/2020 9:58:44 AM 159,28 RON

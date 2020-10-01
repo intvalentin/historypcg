@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z9
 261901
     Product link    
 https://www.pcgarage.ro/carcase/zalman/z9/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/261901/thumbnails/z9-4424563346a3c8ff62243
 9/21/2020 7:51:33 AM 252,72 RON
 9/24/2020 4:27:33 PM 256,15 RON
 9/26/2020 8:49:36 AM 258,28 RON
+10/1/2020 10:03:06 AM 256,69 RON

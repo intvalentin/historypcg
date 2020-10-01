@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mag coreliquid 240r
 2048870
     Product link    
 https://www.pcgarage.ro/coolere/msi/mag-coreliquid-240r-argb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2048870/thumbnails/mag-coreliquid-24
 9/21/2020 7:54:03 AM 561,29 RON
 9/24/2020 4:48:10 PM 571,75 RON
 9/26/2020 8:56:57 AM 572,47 RON
+10/1/2020 5:44:34 PM 598,50 RON

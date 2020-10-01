@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-608pro-bk
 1955038
     Product link    
 https://www.pcgarage.ro/carcase/redragon/steeljaw-pro/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1955038/thumbnails/steeljaw-pro-b44d
 9/21/2020 7:48:56 AM 392,77 RON
 9/24/2020 2:29:57 PM 398,11 RON
 9/26/2020 8:12:20 AM 401,41 RON
+10/1/2020 7:40:14 AM 398,95 RON

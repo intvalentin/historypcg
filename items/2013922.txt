@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc273
 2013922
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/spartan-4-max-evo-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2013922/thumbnails/spartan-4-max-evo-ar
 9/21/2020 7:53:39 AM 124,20 RON
 9/24/2020 4:42:00 PM 124,36 RON
 9/26/2020 8:54:45 AM 124,56 RON
+10/1/2020 2:37:21 PM 124,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-303-bk
 1411426
     Product link    
 https://www.pcgarage.ro/carcase/in-win/303-black-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1112123/1411426/thumbnails/303-black-ff511e9
 9/21/2020 7:52:33 AM 573,60 RON
 9/24/2020 3:58:29 PM 581,39 RON
 9/26/2020 8:39:55 AM 586,22 RON
+10/1/2020 12:43:14 PM 582,63 RON

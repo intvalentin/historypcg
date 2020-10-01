@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lancool one
 1786832
     Product link    
 https://www.pcgarage.ro/carcase/lian-li/lancool-one-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1779504/1786832/thumbnails/lancool-one-black
 9/21/2020 7:52:15 AM 434,33 RON
 9/24/2020 3:15:17 PM 434,86 RON
 9/26/2020 8:27:11 AM 435,83 RON
+10/1/2020 11:59:02 AM 435,37 RON

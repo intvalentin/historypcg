@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j1-00s1nn-00
 1701144
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-h17-no-window-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1701144/thumbnails/versa-h17-no-wind
 9/21/2020 7:50:38 AM 184,34 RON
 9/24/2020 3:21:30 PM 186,84 RON
 9/26/2020 8:30:10 AM 188,40 RON
+10/1/2020 9:12:09 AM 187,24 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr500
 1884634
     Product link    
 https://www.pcgarage.ro/carcase/riotoro/cr500/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1884634/thumbnails/cr500-3d4faa2012cbbd
 9/21/2020 7:50:23 AM 371,95 RON
 9/24/2020 3:11:08 PM 377,00 RON
 9/26/2020 8:25:41 AM 380,14 RON
+10/1/2020 11:36:38 AM 377,80 RON

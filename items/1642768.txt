@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j4-00s1wn-00
 1642768
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-h18-window/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1642372/1642768/thumbnails/versa-h18-window-
 9/21/2020 7:50:28 AM 217,35 RON
 9/24/2020 3:27:44 PM 220,30 RON
 9/26/2020 8:32:25 AM 222,13 RON
+10/1/2020 9:27:07 AM 220,77 RON

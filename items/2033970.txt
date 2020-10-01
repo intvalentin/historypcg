@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s30350-s212-r102
 2033970
     Product link    
 https://www.pcgarage.ro/telefoane-fixe/gigaset/da610-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033970/thumbnails/da610-white-3aa86038
 9/20/2020 11:46:25 PM 167,98 RON
 9/25/2020 9:12:03 AM 168,98 RON
 9/26/2020 1:41:40 PM 168,98 RON
+10/1/2020 8:41:37 AM 168,98 RON

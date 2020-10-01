@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00052a
 1835072
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-34/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5631/1835072/thumbnails/freezer-34-8912872c2
 9/21/2020 7:53:43 AM 151,26 RON
 9/24/2020 5:28:26 PM 151,44 RON
 9/26/2020 8:59:09 AM 151,78 RON
+10/1/2020 3:10:07 PM 151,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-focus-bk-w
 1512606
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/focus-g-black-window/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1512606/thumbnails/focus-g-black-win
 9/21/2020 7:48:56 AM 295,02 RON
 9/24/2020 2:15:28 PM 274,37 RON
 9/25/2020 10:56:51 PM 274,37 RON
+9/30/2020 10:27:24 PM 274,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gammex-rd
 1541314
     Product link    
 https://www.pcgarage.ro/carcase/segotep/gammex-black-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1508470/1541314/thumbnails/gammex-black-red-
 9/21/2020 7:51:23 AM 228,53 RON
 9/24/2020 3:36:02 PM 231,64 RON
 9/26/2020 8:34:40 AM 233,56 RON
+10/1/2020 9:51:25 AM 232,13 RON

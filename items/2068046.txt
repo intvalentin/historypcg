@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531095002
 2068046
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/hoco/c62a-victoria-2x-usb-21a-white-plus-cablu-lightning/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2068046/thumbnails/c62a-victoria-2x-usb
 9/20/2020 11:48:32 PM 56,98 RON
 9/25/2020 9:35:38 AM 56,98 RON
 9/26/2020 2:03:46 PM 56,98 RON
+10/1/2020 12:37:52 PM 56,98 RON

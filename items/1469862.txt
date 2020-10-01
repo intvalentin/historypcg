@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frostflow-240lb
 1469862
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/frostflow-240l-b/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1469862/thumbnails/frostflow-240l-b-
 9/21/2020 7:55:13 AM 363,60 RON
 9/24/2020 6:05:54 PM 371,68 RON
 9/26/2020 9:11:02 AM 371,60 RON
+10/1/2020 5:20:03 PM 369,32 RON

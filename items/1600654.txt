@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1i7-00f1wn-01
 1600654
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/view71-tempered-glass-rgb-edition/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1505170/1600654/thumbnails/view71-tempered-g
 9/21/2020 7:53:02 AM 925,36 RON
 9/24/2020 3:31:53 PM 937,94 RON
 9/26/2020 8:33:55 AM 945,73 RON
+10/1/2020 1:29:56 PM 939,93 RON

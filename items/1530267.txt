@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-h12l-ct120rgb
 1530267
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/captain-120-ex-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/953558/1530267/thumbnails/captain-120-ex-rgb
 9/21/2020 7:54:00 AM 445,03 RON
 9/24/2020 5:34:38 PM 451,08 RON
 9/26/2020 9:01:22 AM 454,83 RON
+10/1/2020 3:34:09 PM 452,04 RON

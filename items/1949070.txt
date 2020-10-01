@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h-606
 1949070
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/carcasa-inter-tech-case-h606-neagra/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1949070/thumbnails/h606-8852c7279fb6dea
 9/21/2020 7:50:38 AM 147,56 RON
 9/24/2020 3:06:59 PM 149,57 RON
 9/26/2020 8:24:12 AM 150,81 RON
+10/1/2020 8:53:01 AM 149,89 RON

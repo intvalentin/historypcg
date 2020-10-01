@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060042-ww
 1881066
     Product link    
 https://www.pcgarage.ro/coolere/corsair/hydro-series-h100i-rgb-platinum-se-v2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1821372/1881066/thumbnails/hydro-series-h100
 9/21/2020 7:53:45 AM 817,10 RON
 9/24/2020 5:28:26 PM 826,06 RON
 9/26/2020 8:58:25 AM 833,09 RON
+10/1/2020 3:46:47 PM 827,19 RON

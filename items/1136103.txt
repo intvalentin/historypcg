@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frostflow 120
 1136103
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/frostflow-120/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/1136103/thumbnails/frostflow-120-b0e2
 9/21/2020 7:55:03 AM 242,78 RON
 9/24/2020 6:07:22 PM 248,18 RON
 9/26/2020 9:15:10 AM 248,13 RON
+10/1/2020 4:54:03 PM 246,61 RON

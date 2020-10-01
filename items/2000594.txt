@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx-cpdux-c
 2000594
     Product link    
 https://www.pcgarage.ro/accesorii-console/hyperx/chargeplay-duo-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/2000594/thumbnails/chargeplay-duo-pe
 9/21/2020 8:08:56 AM 179,99 RON
 9/25/2020 8:59:35 AM 179,99 RON
 9/26/2020 1:29:02 PM 179,99 RON
+9/30/2020 10:06:58 PM 179,99 RON

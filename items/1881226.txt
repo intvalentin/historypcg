@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bolt-a-bk-v1
 1881226
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/bolt-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881226/thumbnails/bolt-rgb-733e00046e4
 9/21/2020 7:50:13 AM 206,22 RON
 9/24/2020 3:11:08 PM 209,03 RON
 9/26/2020 8:25:41 AM 210,76 RON
+10/1/2020 9:23:23 AM 209,47 RON

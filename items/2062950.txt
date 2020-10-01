@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |phoenix-g5-bk
 2062950
     Product link    
 https://www.pcgarage.ro/carcase/segotep/phoenix-g5/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2062950/thumbnails/phoenix-g5-2807877f0
 9/21/2020 7:49:41 AM 295,82 RON
 9/24/2020 2:17:33 PM 299,84 RON
 9/25/2020 10:58:23 PM 302,33 RON
+9/30/2020 10:30:58 PM 300,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |visor-g-bk-v1
 2067994
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/visor-argb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2067994/thumbnails/visor-argb-3eadf0dba
 9/21/2020 7:49:51 AM 424,95 RON
 9/24/2020 2:17:33 PM 430,72 RON
 9/25/2020 10:57:38 PM 434,30 RON
+10/1/2020 7:42:59 AM 431,64 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1a3-00m1wn-00
 785392
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/chaser-a21/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/785392/thumbnails/chaser-a21-52f85e3a
 9/21/2020 7:51:47 AM 310,88 RON
 9/24/2020 4:19:16 PM 315,10 RON
 9/26/2020 8:46:37 AM 317,72 RON
+10/1/2020 10:32:34 AM 315,77 RON

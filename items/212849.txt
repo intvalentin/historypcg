@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clp0534
 212849
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/slim-x3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/212849/thumbnails/slim-x3-2a9fae8f0ee56a2b
 9/21/2020 7:54:49 AM 113,58 RON
 9/24/2020 6:11:05 PM 116,11 RON
 9/26/2020 9:18:52 AM 116,08 RON
+10/1/2020 4:21:51 PM 115,37 RON

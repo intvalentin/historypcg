@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bgw29
 1745100
     Product link    
 https://www.pcgarage.ro/carcase/be-quiet/silent-base-801-black-window/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1736364/1745100/thumbnails/silent-base-801-b
 9/21/2020 7:50:05 AM 875,71 RON
 9/24/2020 2:44:15 PM 875,71 RON
 9/26/2020 8:16:01 AM 875,71 RON
+10/1/2020 1:23:39 PM 875,71 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aeropgsklaw-bg-rgb
 1867786
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/klaw-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1867786/thumbnails/klaw-rgb-3dc96984542
 9/21/2020 7:49:22 AM 415,91 RON
 9/24/2020 2:36:07 PM 421,56 RON
 9/26/2020 8:14:32 AM 425,06 RON
+10/1/2020 7:42:43 AM 422,45 RON

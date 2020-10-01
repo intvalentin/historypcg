@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc262
 1994162
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/regnum-rg6v-evo-tg-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1979534/1994162/thumbnails/regnum-rg6v-evo-t
 9/21/2020 7:48:30 AM 360,07 RON
 9/24/2020 2:25:49 PM 360,51 RON
 9/25/2020 11:00:37 PM 361,11 RON
+9/30/2020 9:40:30 PM 361,22 RON

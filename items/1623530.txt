@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-b600l-ka5n-s01
 1623530
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-mb600l-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5633/1623530/thumbnails/masterbox-mb600l-blu
 9/21/2020 7:51:28 AM 244,57 RON
 9/24/2020 3:29:48 PM 241,91 RON
 9/26/2020 8:32:25 AM 240,43 RON
+10/1/2020 9:55:10 AM 241,47 RON

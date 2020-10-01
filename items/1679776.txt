@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-212tr-16pr-r1
 1679776
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/hyper-212-led-turbo-red-cover/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1679776/thumbnails/hyper-212-led-tur
 9/21/2020 7:53:51 AM 260,31 RON
 9/24/2020 5:32:34 PM 257,46 RON
 9/26/2020 9:00:38 AM 255,96 RON
+10/1/2020 3:18:44 PM 256,86 RON

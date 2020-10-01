@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s5v-00012
 1640084
     Product link    
 https://www.pcgarage.ro/accesorii-console/microsoft/xbox-one-chat/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1634078/1640084/thumbnails/xbox-one-chat-e16
 9/21/2020 8:09:01 AM 213,98 RON
 9/25/2020 8:59:36 AM 213,98 RON
 9/26/2020 1:29:02 PM 213,98 RON
+9/30/2020 10:12:51 PM 213,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-h12l-csl280rgb
 1704376
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/castle-280-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1704376/thumbnails/castle-280-rgb-6a
 9/21/2020 7:53:51 AM 688,74 RON
 9/24/2020 5:32:34 PM 698,10 RON
 9/26/2020 9:00:38 AM 703,90 RON
+10/1/2020 3:43:49 PM 699,58 RON

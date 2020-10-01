@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc263
 2004150
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/astrum-at6v-tg/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2004150/thumbnails/astrum-at6v-tg-pu
 9/21/2020 7:48:34 AM 360,07 RON
 9/24/2020 2:07:19 PM 360,51 RON
 9/25/2020 10:54:39 PM 361,11 RON
+10/1/2020 11:26:35 AM 360,93 RON

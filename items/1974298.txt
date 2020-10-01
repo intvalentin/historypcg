@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-n2
 1974298
     Product link    
 https://www.pcgarage.ro/carcase/zalman/n2-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1974298/thumbnails/n2-black-ecc3b7fc67e
 9/21/2020 7:49:00 AM 205,62 RON
 9/24/2020 2:27:53 PM 208,41 RON
 9/26/2020 8:11:35 AM 210,15 RON
+9/30/2020 10:11:17 PM 208,86 RON

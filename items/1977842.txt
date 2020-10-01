@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nlr-a015
 1977842
     Product link    
 https://www.pcgarage.ro/accesorii-volane/next-level-racing/challenger-monitor-stand/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1977842/thumbnails/challenger-monitor-s
 9/21/2020 8:09:39 AM 511,22 RON
 9/25/2020 9:06:57 AM 511,22 RON
 9/26/2020 1:36:30 PM 511,22 RON
+10/1/2020 7:48:26 AM 511,22 RON

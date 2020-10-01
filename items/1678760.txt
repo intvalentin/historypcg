@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-305-bk
 1678760
     Product link    
 https://www.pcgarage.ro/carcase/in-win/305-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664860/1678760/thumbnails/305-black-fcde47f
 9/21/2020 7:52:43 AM 673,59 RON
 9/24/2020 3:25:39 PM 682,74 RON
 9/26/2020 8:30:55 AM 688,42 RON
+10/1/2020 1:00:38 PM 684,19 RON

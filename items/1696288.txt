@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-e500l-kn5n-s00
 1696288
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-e500l-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691852/1696288/thumbnails/masterbox-e500l-b
 9/21/2020 7:51:28 AM 235,56 RON
 9/24/2020 3:23:34 PM 232,91 RON
 9/26/2020 8:30:10 AM 231,58 RON
+10/1/2020 9:52:15 AM 232,61 RON

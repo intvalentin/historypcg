@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-sl600m-kgnn-s00
 2005398
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mcm-sl600m-kgnn-s00/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2005398/thumbnails/mastercase-sl600m-bl
 9/21/2020 7:50:05 AM 1.058,94 RON
 9/24/2020 2:23:44 PM 1.073,33 RON
 9/25/2020 10:59:52 PM 1.082,25 RON
+10/1/2020 8:22:01 AM 1.075,61 RON

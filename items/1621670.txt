@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-301c-bk
 1621670
     Product link    
 https://www.pcgarage.ro/carcase/in-win/301c-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1605610/1621670/thumbnails/301c-black-usb-30
 9/21/2020 7:49:55 AM 495,61 RON
 9/24/2020 2:50:25 PM 502,35 RON
 9/26/2020 8:18:14 AM 506,52 RON
+10/1/2020 7:53:40 AM 503,42 RON

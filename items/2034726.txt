@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s30852-h2525-r601
 2034726
     Product link    
 https://www.pcgarage.ro/telefoane-fixe/gigaset/a415a-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2034726/thumbnails/a415a-black-5eef7
 9/20/2020 11:46:25 PM 247,98 RON
 9/25/2020 9:12:03 AM 248,98 RON
 9/26/2020 1:41:40 PM 248,98 RON
+10/1/2020 8:44:54 AM 248,98 RON

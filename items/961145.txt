@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-ph240-w1
 961145
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/phantom-240-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/961145/thumbnails/phantom-240-white-2
 9/21/2020 7:52:15 AM 416,80 RON
 9/24/2020 4:13:01 PM 422,46 RON
 9/26/2020 8:44:23 AM 425,97 RON
+10/1/2020 11:55:26 AM 423,36 RON

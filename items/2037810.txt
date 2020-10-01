@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-h410-20pc-r1
 2037810
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/hyper-h410r-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2037810/thumbnails/hyper-h410r-rgb-f
 9/21/2020 7:53:56 AM 138,11 RON
 9/24/2020 4:48:10 PM 139,99 RON
 9/26/2020 8:56:57 AM 141,15 RON
+10/1/2020 3:08:42 PM 140,28 RON

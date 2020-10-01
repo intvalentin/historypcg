@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t2
 2007810
     Product link    
 https://www.pcgarage.ro/coolere/segotep/frozen-t2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8078/2007810/thumbnails/cooler-procesor-sego
 9/21/2020 7:53:39 AM 32,99 RON
 9/24/2020 4:48:10 PM 32,99 RON
 9/26/2020 8:57:41 AM 32,99 RON
+10/1/2020 2:55:30 PM 32,99 RON

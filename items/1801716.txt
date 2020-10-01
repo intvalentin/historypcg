@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec600pstg_wt01
 1801716
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p600s-glacier-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4338/1801716/thumbnails/eclipse-p600s-glacie
 9/21/2020 7:53:02 AM 959,99 RON
 9/24/2020 3:15:17 PM 959,99 RON
 9/26/2020 8:27:11 AM 959,99 RON
+10/1/2020 1:30:46 PM 959,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-mesh-s2-bko
 1858690
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/meshify-s2-solid/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1858690/thumbnails/meshify-s2-solid-64b
 9/21/2020 7:49:04 AM 775,10 RON
 9/24/2020 2:36:07 PM 775,10 RON
 9/26/2020 8:14:32 AM 775,10 RON
+10/1/2020 8:10:40 AM 775,10 RON

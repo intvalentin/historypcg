@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dk-03-rgb-pwm
 1949022
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/dk-03-pwm-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1949022/thumbnails/dk-03-pwm-rgb-245376
 9/21/2020 7:53:56 AM 68,21 RON
 9/24/2020 4:52:17 PM 69,14 RON
 9/26/2020 8:58:25 AM 69,71 RON
+10/1/2020 3:01:29 PM 69,29 RON

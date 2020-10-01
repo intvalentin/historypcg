@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acalp00027a
 1775148
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-12/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1774300/1775148/thumbnails/alpine-12-b540670
 9/21/2020 7:53:43 AM 32,78 RON
 9/24/2020 5:30:30 PM 32,82 RON
 9/26/2020 8:59:54 AM 32,90 RON
+10/1/2020 2:55:13 PM 32,86 RON

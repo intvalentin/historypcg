@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-brkt2
 1133983
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/corsair/2x-hdd-ssd-25-inch-la-35-inch-cssd-brkt2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/498497/1133983/thumbnails/2x-hdd-ssd-25-inch
 9/21/2020 7:53:19 AM 33,87 RON
 9/24/2020 4:33:43 PM 34,32 RON
 9/26/2020 8:51:49 AM 34,61 RON
+10/1/2020 2:22:22 PM 34,39 RON

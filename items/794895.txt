@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fi-vc
 794895
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/fi-vc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/714621/794895/thumbnails/fi-vc-224e86c27e60a
 9/21/2020 7:55:10 AM 338,87 RON
 9/24/2020 6:08:51 PM 346,40 RON
 9/26/2020 9:16:39 AM 346,33 RON
+10/1/2020 5:14:24 PM 344,20 RON

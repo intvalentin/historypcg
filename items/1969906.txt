@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca903-bk
 1969906
     Product link    
 https://www.pcgarage.ro/carcase/redragon/diamond-storm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1969906/thumbnails/diamond-storm-f0856b
 9/21/2020 7:49:46 AM 336,03 RON
 9/24/2020 2:27:53 PM 340,60 RON
 9/26/2020 8:11:35 AM 343,42 RON
+10/1/2020 7:26:13 AM 341,32 RON

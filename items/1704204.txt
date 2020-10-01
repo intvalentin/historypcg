@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pjg00056
 1704204
     Product link    
 https://www.pcgarage.ro/gamepad/white-shark/red-dragon/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1703884/1704204/thumbnails/red-dragon-c5b2a8
 9/21/2020 8:09:10 AM 55,98 RON
 9/25/2020 9:01:47 AM 55,98 RON
 9/26/2020 1:31:18 PM 57,98 RON
+9/30/2020 10:21:32 PM 55,98 RON

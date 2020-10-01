@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a1214011, ea-a1214h11, a1214g11
 1186279
     Product link    
 https://www.pcgarage.ro/baterii-externe/anker/powercore-10400-mah-3a-2x-usb-black-tehnologia-poweriq/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175151/1186279/thumbnails/powercore-10400-m
 9/20/2020 11:46:55 PM 118,78 RON
 9/25/2020 9:20:10 AM 118,78 RON
 9/26/2020 1:49:45 PM 118,78 RON
+10/1/2020 9:56:52 AM 118,78 RON

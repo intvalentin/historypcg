@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cxc2-bl
 1684888
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/cxc2-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8968/1684888/thumbnails/cxc2-black-7642c6190
 9/21/2020 7:49:36 AM 233,85 RON
 9/24/2020 2:48:22 PM 237,03 RON
 9/26/2020 8:17:30 AM 239,00 RON
+9/30/2020 10:16:08 PM 237,53 RON

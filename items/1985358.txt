@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00162
 1985358
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/metis-evo-tgs-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1985358/thumbnails/metis-evo-tgs-whi
 9/21/2020 7:50:00 AM 712,88 RON
 9/24/2020 2:27:53 PM 713,75 RON
 9/25/2020 11:00:37 PM 714,94 RON
+10/1/2020 8:06:55 AM 715,17 RON

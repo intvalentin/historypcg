@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j7-00m1wn-01
 1695752
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/view-37-rgb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1690716/1695752/thumbnails/view-37-window-a7
 9/21/2020 7:52:57 AM 794,89 RON
 9/24/2020 3:23:34 PM 805,70 RON
 9/26/2020 8:30:10 AM 812,39 RON
+10/1/2020 1:17:56 PM 807,40 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-h12-csl240ex
 1934946
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/castle-240ex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2554/1934946/thumbnails/castle-240ex-6308f59
 9/21/2020 7:53:48 AM 569,82 RON
 9/24/2020 4:52:17 PM 577,57 RON
 9/26/2020 8:58:25 AM 582,36 RON
+10/1/2020 3:42:11 PM 578,79 RON

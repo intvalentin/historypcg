@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |156-f1-2022-kr
 1696336
     Product link    
 https://www.pcgarage.ro/carcase/evga/dg-75-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1690716/1696336/thumbnails/dg-75-white-65e03
 9/21/2020 7:50:38 AM 464,49 RON
 9/24/2020 3:23:34 PM 473,20 RON
 9/26/2020 8:30:10 AM 473,78 RON
+10/1/2020 12:05:53 PM 470,88 RON

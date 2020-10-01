@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-3411-creek
 2068130
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/a-3411-creek/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2068130/thumbnails/creek-a20680770fef64
 9/21/2020 7:49:36 AM 190,93 RON
 9/24/2020 2:17:33 PM 193,52 RON
 9/25/2020 10:57:38 PM 195,13 RON
+9/30/2020 10:06:28 PM 193,93 RON

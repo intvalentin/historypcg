@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-wcu-celsius-s24-bk
 1512630
     Product link    
 https://www.pcgarage.ro/coolere/fractal-design/celsius-s24-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475558/1512630/thumbnails/celsius-s24-black
 9/21/2020 7:54:00 AM 684,99 RON
 9/24/2020 5:34:38 PM 684,99 RON
 9/26/2020 9:01:22 AM 684,99 RON
+10/1/2020 3:43:17 PM 684,99 RON

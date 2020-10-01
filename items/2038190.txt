@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc258
 2038190
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/armis-ar6x-tg-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2038190/thumbnails/armis-ar6x-tg-rgb-b0
 9/21/2020 7:48:36 AM 436,32 RON
 9/24/2020 2:05:16 PM 436,84 RON
 9/25/2020 10:53:56 PM 437,57 RON
+9/30/2020 9:43:59 PM 437,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |941-000123
 1136628
     Product link    
 https://www.pcgarage.ro/volane/logitech/driving-force-g920/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929094/1136628/thumbnails/driving-force-g920
 9/21/2020 8:09:30 AM 1.679,99 RON
 9/25/2020 9:05:29 AM 1.679,99 RON
 9/26/2020 1:34:57 PM 1.679,99 RON
+10/1/2020 7:37:38 AM 1.679,99 RON

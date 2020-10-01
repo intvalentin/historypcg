@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-h500p-wgnn-s00
 1682112
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mastercase-h500p-mesh-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664836/1682112/thumbnails/h500p-mesh-white-
 9/21/2020 7:50:33 AM 913,55 RON
 9/24/2020 3:23:35 PM 903,55 RON
 9/26/2020 8:30:55 AM 897,98 RON
+10/1/2020 1:27:16 PM 901,13 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-303bk-nv
 1429966
     Product link    
 https://www.pcgarage.ro/carcase/in-win/303-nvidia-edition-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1052635/1429966/thumbnails/303-nvidia-editio
 9/21/2020 7:52:38 AM 626,12 RON
 9/24/2020 3:56:24 PM 634,63 RON
 9/26/2020 8:38:25 AM 639,90 RON
+10/1/2020 12:52:28 PM 635,98 RON

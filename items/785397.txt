@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1a4-00m1wn-00
 785397
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/urban-t21/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/785397/thumbnails/urban-t21-47ae50db3
 9/21/2020 7:52:06 AM 389,73 RON
 9/24/2020 4:19:16 PM 395,03 RON
 9/26/2020 8:46:37 AM 398,31 RON
+10/1/2020 11:46:44 AM 395,87 RON

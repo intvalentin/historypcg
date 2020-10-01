@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a00027956
 1446598
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/nokia/150-dual-sim-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1409094/1446598/thumbnails/150-dual-sim-blac
 9/20/2020 11:46:10 PM 148,98 RON
 9/25/2020 9:10:34 AM 148,98 RON
 9/26/2020 1:40:08 PM 148,98 RON
+10/1/2020 8:20:09 AM 148,98 RON

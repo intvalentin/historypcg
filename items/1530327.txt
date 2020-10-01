@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-h12l-ct240rgb
 1530327
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/captain-240-ex-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427582/1530327/thumbnails/deepcool-captain-
 9/21/2020 7:55:22 AM 564,80 RON
 9/24/2020 6:03:43 PM 577,36 RON
 9/26/2020 9:09:33 AM 577,24 RON
+10/1/2020 5:42:56 PM 572,05 RON

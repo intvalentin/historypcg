@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011078-ww
 1144433
     Product link    
 https://www.pcgarage.ro/carcase/corsair/obsidian-750d-airflow-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/1144433/thumbnails/obsidian-750d-airf
 9/21/2020 7:50:53 AM 773,32 RON
 9/24/2020 4:04:42 PM 787,74 RON
 9/26/2020 8:41:24 AM 788,74 RON
+10/1/2020 1:14:11 PM 784,17 RON

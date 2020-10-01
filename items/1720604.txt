@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rl-krm22-01
 1720604
     Product link    
 https://www.pcgarage.ro/coolere/nzxt/kraken-m22/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1720604/thumbnails/kraken-m22-b617d2
 9/21/2020 7:55:18 AM 428,10 RON
 9/24/2020 5:57:11 PM 433,93 RON
 9/26/2020 9:07:18 AM 437,62 RON
+10/1/2020 5:31:53 PM 434,84 RON

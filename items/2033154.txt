@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s30054-s6527-r102
 2033154
     Product link    
 https://www.pcgarage.ro/telefoane-fixe/gigaset/da210-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033154/thumbnails/da210-white-2240b545
 9/20/2020 11:46:20 PM 79,98 RON
 9/25/2020 9:12:03 AM 79,98 RON
 9/26/2020 1:41:40 PM 79,98 RON
+10/1/2020 8:35:36 AM 79,98 RON

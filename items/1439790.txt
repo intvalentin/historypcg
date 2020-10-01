@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-s340w-w2
 1439790
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/s340-elite-matte-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1178653/1439790/thumbnails/s340-elite-matte-
 9/21/2020 7:52:29 AM 524,52 RON
 9/24/2020 3:54:19 PM 531,65 RON
 9/26/2020 8:37:41 AM 536,07 RON
+10/1/2020 12:35:56 PM 532,78 RON

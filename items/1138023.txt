@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |941-000130, 941-000119
 1138023
     Product link    
 https://www.pcgarage.ro/accesorii-volane/logitech/driving-force-shifter/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/746930/1138023/thumbnails/driving-force-shif
 9/21/2020 8:09:39 AM 246,49 RON
 9/25/2020 9:06:57 AM 246,49 RON
 9/26/2020 1:36:30 PM 246,49 RON
+10/1/2020 7:45:27 AM 246,49 RON

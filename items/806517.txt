@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fx70
 806517
     Product link    
 https://www.pcgarage.ro/coolere/zalman/fx70/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/782584/806517/thumbnails/fx70-0ef2a5236105b2
 9/21/2020 7:54:58 AM 218,89 RON
 9/24/2020 6:08:51 PM 223,75 RON
 9/26/2020 9:16:39 AM 223,71 RON
+10/1/2020 4:46:11 PM 222,33 RON

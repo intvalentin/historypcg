@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alta 7
 369861
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/alta-7/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/369861/thumbnails/alta-7-020926d45b564ea0d
 9/21/2020 7:54:00 AM 39,88 RON
 9/24/2020 5:38:47 PM 40,77 RON
 9/26/2020 9:02:50 AM 40,76 RON
+10/1/2020 2:57:43 PM 40,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wl3-00096
 1862914
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-wireless-controller-armed-forces-ii-special-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7399/1862914/thumbnails/xbox-one-wireless-co
 9/21/2020 8:09:24 AM 349,99 RON
 9/25/2020 9:02:32 AM 349,99 RON
 9/26/2020 1:32:03 PM 349,99 RON
+10/1/2020 7:28:03 AM 349,99 RON

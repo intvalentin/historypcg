@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00056a
 1838564
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/cooler-procesor-arctic-freezer-34-esports-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2863/1838564/thumbnails/cooler-procesor-arct
 9/21/2020 7:54:24 AM 194,06 RON
 9/24/2020 5:53:03 PM 194,62 RON
 9/26/2020 9:05:49 AM 194,73 RON
+10/1/2020 4:40:02 PM 194,52 RON

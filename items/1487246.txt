@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnd-gp5
 1487246
     Product link    
 https://www.pcgarage.ro/gamepad/canyon/cnd-gp5-ps4-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457254/1487246/thumbnails/cnd-gp5-ps4-black
 9/21/2020 8:09:15 AM 124,99 RON
 9/25/2020 9:04:01 AM 124,99 RON
 9/26/2020 1:33:32 PM 124,99 RON
+9/30/2020 10:33:27 PM 124,99 RON

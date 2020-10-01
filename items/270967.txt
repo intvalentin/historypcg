@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |freezer 11 lp
 270967
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-11-lp/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/270967/thumbnails/freezer-11-lp-a6b287d5ff
 9/21/2020 7:53:48 AM 87,69 RON
 9/24/2020 5:38:47 PM 87,94 RON
 9/26/2020 9:02:50 AM 87,99 RON
+10/1/2020 3:02:52 PM 87,90 RON

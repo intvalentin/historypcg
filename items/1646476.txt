@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |titan 800 red
 1646476
     Product link    
 https://www.pcgarage.ro/carcase/genesis/titan-800-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/922/1646476/thumbnails/titan-800-red-3dce49d
 9/21/2020 7:48:48 AM 199,99 RON
 9/24/2020 2:48:22 PM 199,99 RON
 9/26/2020 8:17:30 AM 199,99 RON
+9/30/2020 10:09:23 PM 199,99 RON

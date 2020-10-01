@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pen-slt-amb
 2063066
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/pendleton-slate-amber/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2063066/thumbnails/pendleton-slate-ambe
 9/21/2020 8:08:33 AM 323,99 RON
 9/25/2020 8:55:12 AM 323,99 RON
 9/26/2020 1:24:36 PM 323,99 RON
+9/30/2020 9:42:56 PM 323,99 RON

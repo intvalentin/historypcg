@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1i4-00m1wn-00
 1518990
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-g21-tempered-glass-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469770/1518990/thumbnails/core-g21-tempered
 9/21/2020 7:49:17 AM 325,82 RON
 9/24/2020 2:50:25 PM 324,92 RON
 9/26/2020 8:18:14 AM 327,62 RON
+9/30/2020 10:34:11 PM 325,61 RON

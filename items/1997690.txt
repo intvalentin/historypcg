@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-b311l-kgnn-s01
 1997690
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-mb311l-argb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/1997690/thumbnails/masterbox-mb311l-
 9/21/2020 7:52:01 AM 362,75 RON
 9/24/2020 3:02:49 PM 367,68 RON
 9/26/2020 8:22:42 AM 370,74 RON
+10/1/2020 11:30:54 AM 368,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |inz-bereta
 2049082
     Product link    
 https://www.pcgarage.ro/carcase/inaza/bereta-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2049082/thumbnails/bereta-rgb-98ec8a
 9/21/2020 7:49:32 AM 122,01 RON
 9/24/2020 2:19:37 PM 123,67 RON
 9/25/2020 10:58:23 PM 124,69 RON
+9/30/2020 9:53:30 PM 123,93 RON

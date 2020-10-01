@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-cpt360
 1387424
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/captain-360/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1301253/1387424/thumbnails/captain-360-38e55
 9/21/2020 7:55:22 AM 544,73 RON
 9/24/2020 6:06:38 PM 556,84 RON
 9/26/2020 9:14:25 AM 556,72 RON
+10/1/2020 5:41:50 PM 551,72 RON

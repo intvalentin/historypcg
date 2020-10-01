@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1035613
 2038058
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/urbanista/paris-rose-gold/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2038058/thumbnails/paris-rose-gold-0
 9/20/2020 11:46:31 PM 343,98 RON
 9/25/2020 9:15:44 AM 343,98 RON
 9/26/2020 1:45:21 PM 343,98 RON
+10/1/2020 9:07:15 AM 343,98 RON

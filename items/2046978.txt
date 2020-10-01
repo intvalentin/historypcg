@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pulse-l240f
 2046978
     Product link    
 https://www.pcgarage.ro/coolere/aerocool/pulse-l240f-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046978/thumbnails/pulse-l240f-argb-
 9/21/2020 7:54:12 AM 440,56 RON
 9/24/2020 4:48:10 PM 446,55 RON
 9/26/2020 8:56:57 AM 450,26 RON
+10/1/2020 3:33:19 PM 447,49 RON

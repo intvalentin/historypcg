@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bk023
 1771996
     Product link    
 https://www.pcgarage.ro/coolere/be-quiet/dark-rock-pro-tr4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1771996/thumbnails/dark-rock-pro-tr4-34
 9/21/2020 7:53:41 AM 508,95 RON
 9/24/2020 5:55:07 PM 509,39 RON
 9/26/2020 8:55:28 AM 458,04 RON
+10/1/2020 5:38:35 PM 509,98 RON

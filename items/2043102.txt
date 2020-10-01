@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmdiamondbk
 2043102
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/diamont-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1034/2043102/thumbnails/black-diamond-5ad4e8
 9/21/2020 7:49:04 AM 228,67 RON
 9/24/2020 2:21:41 PM 228,67 RON
 9/25/2020 10:59:07 PM 228,67 RON
+9/30/2020 10:14:46 PM 228,67 RON

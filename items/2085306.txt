@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-a-tray-001
 2085306
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/fractal-design/hdd-drive-tray-kit-type-b-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3354/2085306/thumbnails/hdd-drive-tray-kit-t
 9/21/2020 7:53:23 AM 67,72 RON
 9/24/2020 4:31:40 PM 67,72 RON
 9/26/2020 8:51:05 AM 67,72 RON
+10/1/2020 2:13:49 PM 67,72 RON

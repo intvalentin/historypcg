@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vn400a1w2n
 268029
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/commander-ms-i-usb-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/268029/thumbnails/commander-ms-i-usb-30-4f
 9/21/2020 7:51:42 AM 286,09 RON
 9/24/2020 4:27:33 PM 289,98 RON
 9/26/2020 8:49:36 AM 292,39 RON
+10/1/2020 10:22:48 AM 290,59 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gsm0551
 1752576
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/krugermatz/auto-gsm0551-universal-4x-lighter-car-socket-2x-usb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6763/1752576/thumbnails/auto-gsm0551-univers
 9/20/2020 11:48:45 PM 35,18 RON
 9/25/2020 9:37:51 AM 35,18 RON
 9/26/2020 2:05:58 PM 28,59 RON
+10/1/2020 12:50:01 PM 28,59 RON

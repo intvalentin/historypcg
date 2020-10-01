@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00039a
 1656444
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-33-tr-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1649828/1656444/thumbnails/freezer-33-tr-whi
 9/21/2020 7:55:03 AM 245,15 RON
 9/24/2020 6:01:20 PM 245,15 RON
 9/26/2020 9:08:48 AM 245,15 RON
+10/1/2020 4:53:29 PM 245,15 RON

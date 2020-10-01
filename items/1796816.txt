@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |slps052
 1796816
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/slps052-extender-card-pcie-x16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6361/1796816/thumbnails/slps052-extender-car
 9/21/2020 7:53:19 AM 32,62 RON
 9/24/2020 4:31:40 PM 33,06 RON
 9/26/2020 8:51:05 AM 33,34 RON
+10/1/2020 2:10:19 PM 33,13 RON

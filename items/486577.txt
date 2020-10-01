@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp200a1w2n
 486577
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/chaser-a41/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/486577/thumbnails/chaser-a41-f689edeca1c93
 9/21/2020 7:52:29 AM 525,06 RON
 9/24/2020 4:23:25 PM 532,20 RON
 9/26/2020 8:48:07 AM 536,62 RON
+10/1/2020 12:36:13 PM 533,32 RON

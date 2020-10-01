@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc233
 1847772
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/signum-sg1x-tg-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1054/1847772/thumbnails/signum-sg1x-tg-rgb-9
 9/21/2020 7:48:39 AM 348,91 RON
 9/24/2020 2:13:25 PM 348,91 RON
 9/25/2020 10:56:08 PM 348,91 RON
+9/30/2020 9:39:58 PM 351,31 RON

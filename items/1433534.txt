@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q2-bl
 1433534
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/q2-illuminator-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/367655/1433534/thumbnails/q2-illuminator-blu
 9/21/2020 7:49:14 AM 217,89 RON
 9/24/2020 2:52:29 PM 220,85 RON
 9/26/2020 8:18:58 AM 222,69 RON
+9/30/2020 10:12:22 PM 221,32 RON

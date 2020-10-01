@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-h200b-bl
 1697952
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h200-matte-black-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692296/1697952/thumbnails/h200-matte-black-
 9/21/2020 7:52:15 AM 423,69 RON
 9/24/2020 3:23:34 PM 431,68 RON
 9/26/2020 8:30:10 AM 432,11 RON
+10/1/2020 11:56:49 AM 429,50 RON

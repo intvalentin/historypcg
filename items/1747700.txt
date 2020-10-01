@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00097
 1747700
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/ophion/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1747700/thumbnails/ophion-771f9b8d8e
 9/21/2020 7:48:40 AM 660,00 RON
 9/24/2020 2:13:25 PM 660,80 RON
 9/25/2020 10:56:51 PM 661,91 RON
+9/30/2020 9:45:04 PM 662,12 RON

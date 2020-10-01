@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |veng01-br
 1498402
     Product link    
 https://www.pcgarage.ro/carcase/inaza/vengeance-black-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1415042/1498402/thumbnails/vengeance-black-6
 9/21/2020 7:51:56 AM 353,26 RON
 9/24/2020 3:38:07 PM 358,06 RON
 9/26/2020 8:35:26 AM 361,03 RON
+10/1/2020 11:26:02 AM 358,82 RON

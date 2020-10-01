@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps80f
 1107328
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps80f/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/853128/1107328/thumbnails/cnps80f-894d8f0361
 9/21/2020 7:53:56 AM 32,64 RON
 9/24/2020 5:36:43 PM 33,37 RON
 9/26/2020 9:02:06 AM 33,36 RON
+10/1/2020 2:55:47 PM 33,15 RON

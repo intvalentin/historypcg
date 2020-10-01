@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2452499
 1880622
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/huawei/am61-sport-lite-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1867706/1880622/thumbnails/am61-sport-lite-r
 9/20/2020 11:46:33 PM 190,98 RON
 9/25/2020 9:17:13 AM 190,98 RON
 9/26/2020 1:46:50 PM 190,98 RON
+10/1/2020 9:01:19 AM 190,98 RON

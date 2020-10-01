@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a00027066
 1263543
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/nokia/230-dual-sim-dark-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/959008/1263543/thumbnails/230-single-sim-dar
 9/20/2020 11:46:11 PM 285,98 RON
 9/25/2020 9:11:18 AM 285,98 RON
 9/26/2020 1:40:55 PM 285,98 RON
+10/1/2020 8:31:16 AM 285,98 RON

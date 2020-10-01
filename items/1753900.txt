@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elc-lttrto280-tbp
 1753900
     Product link    
 https://www.pcgarage.ro/coolere/enermax/liqtech-tr4-ii-rgb-280/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1753900/thumbnails/liqtech-tr4-ii-rg
 9/21/2020 7:54:16 AM 733,83 RON
 9/24/2020 5:32:34 PM 735,90 RON
 9/26/2020 8:59:54 AM 736,78 RON
+10/1/2020 3:44:37 PM 736,34 RON

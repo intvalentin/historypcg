@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1b7-00f1wn-00
 815634
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/urban-t81/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/750014/815634/thumbnails/urban-t81-01e589e49
 9/21/2020 7:53:06 AM 1.064,85 RON
 9/24/2020 4:17:11 PM 1.079,32 RON
 9/26/2020 8:45:52 AM 1.088,29 RON
+10/1/2020 1:50:14 PM 1.081,61 RON

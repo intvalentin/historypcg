@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps9x-opt
 1881430
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps9x-optima-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5634/1881430/thumbnails/cnps9x-optima-white-
 9/21/2020 7:53:45 AM 129,25 RON
 9/24/2020 5:28:26 PM 131,01 RON
 9/26/2020 8:59:09 AM 132,09 RON
+10/1/2020 4:19:22 PM 92,17 RON

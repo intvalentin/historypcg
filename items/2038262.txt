@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc274
 2038262
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/grandis-3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2038262/thumbnails/grandis-3-7e9cbc5102
 9/21/2020 7:53:43 AM 253,00 RON
 9/24/2020 5:46:50 PM 253,30 RON
 9/26/2020 9:03:35 AM 288,32 RON
+10/1/2020 2:40:07 PM 253,59 RON

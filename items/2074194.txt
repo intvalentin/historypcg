@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc281
 2074194
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/fera-3-evo-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2074194/thumbnails/fera-3-evo-argb-7ac4
 9/21/2020 7:53:42 AM 188,22 RON
 9/24/2020 4:42:00 PM 188,22 RON
 9/26/2020 8:54:45 AM 188,22 RON
+10/1/2020 2:39:15 PM 194,42 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg385qm200001
 1906602
     Product link    
 https://www.pcgarage.ro/carcase/cougar/turretmesh/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1906602/thumbnails/turretmesh-37ae4f
 9/21/2020 7:51:33 AM 262,88 RON
 9/24/2020 3:06:59 PM 263,20 RON
 9/26/2020 8:24:12 AM 263,79 RON
+10/1/2020 10:06:06 AM 263,51 RON

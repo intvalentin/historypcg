@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20165
 2057490
     Product link    
 https://www.pcgarage.ro/accesorii-console/trust/trust-gxt-222-duo-chargeplay-cable-ps4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2057490/thumbnails/gxt-222-duo-charge-p
 9/21/2020 8:08:56 AM 39,98 RON
 9/25/2020 8:59:35 AM 39,98 RON
 9/26/2020 1:29:02 PM 39,98 RON
+9/30/2020 10:05:21 PM 39,98 RON

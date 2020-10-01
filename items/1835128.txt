@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r400047
 1835128
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/raijintek/pcie-x16-riser-card-plus-pci-slot-cover/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5631/1835128/thumbnails/pcie-x16-riser-card-
 9/21/2020 7:53:36 AM 394,17 RON
 9/24/2020 4:35:48 PM 394,66 RON
 9/26/2020 8:52:33 AM 395,31 RON
+10/1/2020 2:33:41 PM 395,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060028-ww
 1355133
     Product link    
 https://www.pcgarage.ro/coolere/corsair/hydro-series-h45-performance/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/929099/1355133/thumbnails/corsair-hyrdo-seri
 9/21/2020 7:54:24 AM 287,17 RON
 9/24/2020 6:06:38 PM 291,06 RON
 9/26/2020 9:01:22 AM 293,55 RON
+10/1/2020 5:04:34 PM 291,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |su-260
 2068242
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/su-260/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068242/thumbnails/su-260-d3ec748f53c7b
 9/21/2020 7:54:07 AM 133,49 RON
 9/24/2020 4:46:06 PM 135,31 RON
 9/26/2020 8:56:13 AM 136,43 RON
+10/1/2020 3:07:37 PM 135,59 RON

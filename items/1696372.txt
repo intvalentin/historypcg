@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |166-w1-2232-kr
 1696372
     Product link    
 https://www.pcgarage.ro/carcase/evga/dg-76-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692136/1696372/thumbnails/dg-76-white-bdc3c
 9/21/2020 7:52:33 AM 586,44 RON
 9/24/2020 3:23:34 PM 597,33 RON
 9/26/2020 8:30:10 AM 598,20 RON
+10/1/2020 12:44:42 PM 594,57 RON

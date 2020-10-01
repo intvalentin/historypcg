@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |streak
 2046746
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/streak/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046746/thumbnails/streak-3dd0d23646
 9/21/2020 7:48:48 AM 129,99 RON
 9/24/2020 2:19:38 PM 129,99 RON
 9/25/2020 10:59:07 PM 129,99 RON
+10/1/2020 8:46:32 AM 129,99 RON

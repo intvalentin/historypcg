@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474718105
 2045926
     Product link    
 https://www.pcgarage.ro/baterii-externe/borofone/bt28-10000-mah-2x-usb-2a-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2045926/thumbnails/bt28-10000-mah-2x-us
 9/20/2020 11:46:59 PM 71,99 RON
 9/25/2020 9:19:25 AM 71,99 RON
 9/26/2020 1:49:02 PM 71,99 RON
+10/1/2020 9:52:43 AM 39,99 RON

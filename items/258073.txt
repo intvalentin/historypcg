@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alpine 11 rev. 2
 258073
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-11-rev-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/258073/thumbnails/alpine-11-rev-2-96a772bd
 9/21/2020 7:54:41 AM 45,85 RON
 9/24/2020 6:10:20 PM 45,85 RON
 9/26/2020 9:18:08 AM 45,85 RON
+10/1/2020 4:10:32 PM 45,85 RON

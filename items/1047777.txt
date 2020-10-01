@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aa0047
 1047777
     Product link    
 https://www.pcgarage.ro/accesorii-gsm/logilink/kit-adaptoare-sim-de-la-nano-la-micro-nano-la-mini-si-micro-la-mini/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/255443/1047777/thumbnails/kit-adaptoare-sim-
 9/20/2020 11:47:23 PM 17,98 RON
 9/25/2020 9:24:34 AM 17,98 RON
 9/26/2020 1:52:02 PM 17,98 RON
+10/1/2020 10:11:01 AM 17,98 RON

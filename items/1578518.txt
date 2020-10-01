@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc178
 1578518
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/regnum-rg4t-pure-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1541210/1578518/thumbnails/regnum-rg4t-pure-
 9/21/2020 7:50:23 AM 266,89 RON
 9/24/2020 3:33:57 PM 266,89 RON
 9/26/2020 8:33:55 AM 266,89 RON
+9/30/2020 10:24:12 PM 266,89 RON

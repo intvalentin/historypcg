@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcs-s400-kg5n-s00
 1964570
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/silencio-s400-tg/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1960570/1964570/thumbnails/silencio-s400-536
 9/21/2020 7:49:22 AM 458,02 RON
 9/24/2020 2:29:57 PM 464,25 RON
 9/26/2020 8:12:19 AM 468,10 RON
+10/1/2020 7:48:48 AM 465,23 RON

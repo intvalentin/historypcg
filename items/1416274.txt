@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-212l-16pr-r1
 1416274
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/hyper-212-led/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1053670/1416274/thumbnails/hyper-212-led-84a
 9/21/2020 7:54:28 AM 170,65 RON
 9/24/2020 6:05:54 PM 168,70 RON
 9/26/2020 9:14:25 AM 167,65 RON
+10/1/2020 4:32:43 PM 168,25 RON

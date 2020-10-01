@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1n6-00m1wn-00
 1828968
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/commander-c35-tg-argb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5664/1828968/thumbnails/commander-c35-tg-arg
 9/21/2020 7:48:56 AM 446,35 RON
 9/24/2020 2:36:07 PM 452,42 RON
 9/26/2020 8:14:32 AM 456,17 RON
+10/1/2020 7:46:02 AM 453,37 RON

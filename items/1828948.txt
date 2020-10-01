@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1h9-00t1wn-00
 1828948
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p1-tempered-glass/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1828948/thumbnails/core-p1-tempered-gla
 9/21/2020 7:50:43 AM 501,80 RON
 9/24/2020 3:13:12 PM 508,62 RON
 9/26/2020 8:26:26 AM 512,85 RON
+10/1/2020 12:16:47 PM 509,70 RON

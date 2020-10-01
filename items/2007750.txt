@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00068a
 2007750
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/liquid-freezer-ii-360/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2007750/thumbnails/liquid-freezer-ii-36
 9/21/2020 7:54:24 AM 581,67 RON
 9/24/2020 4:48:10 PM 582,38 RON
 9/26/2020 8:57:41 AM 583,68 RON
+10/1/2020 3:42:27 PM 583,06 RON

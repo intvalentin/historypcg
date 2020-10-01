@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-909-bk
 1678608
     Product link    
 https://www.pcgarage.ro/carcase/in-win/909-black-case/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1678608/thumbnails/909-black-case-c9
 9/21/2020 7:53:11 AM 2.042,69 RON
 9/24/2020 3:25:39 PM 2.070,46 RON
 9/26/2020 8:30:55 AM 2.087,66 RON
+10/1/2020 2:01:37 PM 2.074,85 RON

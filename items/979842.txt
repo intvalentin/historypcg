@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-802
 979842
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-802/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/979842/thumbnails/se-802-84cf1dbbadaf
 9/21/2020 7:54:07 AM 50,39 RON
 9/24/2020 5:36:43 PM 51,52 RON
 9/26/2020 9:02:06 AM 51,50 RON
+10/1/2020 2:58:59 PM 51,19 RON

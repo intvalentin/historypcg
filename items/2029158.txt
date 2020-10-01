@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gm-01b-op
 2029158
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/chieftronic-m1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2029158/thumbnails/chieftronic-m1-ccf81
 9/21/2020 7:49:22 AM 493,61 RON
 9/24/2020 3:00:45 PM 497,10 RON
 9/26/2020 8:21:57 AM 497,82 RON
+10/1/2020 12:12:26 PM 494,77 RON

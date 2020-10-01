@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r1 usb 3.0
 958488
     Product link    
 https://www.pcgarage.ro/carcase/zalman/r1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/843505/958488/thumbnails/r1-448cc980aab82072
 9/21/2020 7:50:43 AM 284,34 RON
 9/24/2020 4:13:01 PM 288,20 RON
 9/26/2020 8:44:23 AM 290,59 RON
+10/1/2020 10:21:27 AM 288,81 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011074-ww
 974277
     Product link    
 https://www.pcgarage.ro/carcase/corsair/graphite-760t-arctic-white-windowed-new/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/974277/thumbnails/graphite-760t-arcti
 9/21/2020 7:53:02 AM 958,82 RON
 9/24/2020 4:08:52 PM 976,67 RON
 9/26/2020 8:42:54 AM 977,81 RON
+10/1/2020 1:32:09 PM 972,24 RON

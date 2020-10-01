@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-pec250
 1386774
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/deepcool/cablu-de-extensie-slot-pci-e-x16-pec-250/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1386774/thumbnails/cablu-de-extensie
 9/21/2020 7:53:36 AM 82,68 RON
 9/24/2020 4:39:57 PM 83,80 RON
 9/26/2020 8:54:02 AM 84,50 RON
+10/1/2020 2:30:08 PM 83,98 RON

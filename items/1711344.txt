@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cw-9060033-ww
 1711344
     Product link    
 https://www.pcgarage.ro/coolere/corsair/hydro-series-h100i-pro-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691852/1711344/thumbnails/hydro-series-h100
 9/21/2020 7:54:24 AM 698,00 RON
 9/24/2020 5:57:11 PM 703,61 RON
 9/26/2020 9:07:18 AM 709,60 RON
+10/1/2020 5:50:13 PM 705,10 RON

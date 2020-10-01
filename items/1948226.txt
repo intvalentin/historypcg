@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |auraflow-x-240
 1948226
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/auraflow-x-240-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1948226/thumbnails/auraflow-x-240-rgb-b
 9/21/2020 7:53:39 AM 338,01 RON
 9/24/2020 4:44:02 PM 338,01 RON
 9/26/2020 8:55:28 AM 338,01 RON
+10/1/2020 2:41:38 PM 287,03 RON

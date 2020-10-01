@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clp0607
 638399
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/nic-c4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/638399/thumbnails/nic-c4-751842eef5a1e6571
 9/21/2020 7:54:00 AM 275,97 RON
 9/24/2020 5:38:47 PM 282,10 RON
 9/26/2020 9:02:50 AM 282,04 RON
+10/1/2020 3:20:56 PM 280,31 RON

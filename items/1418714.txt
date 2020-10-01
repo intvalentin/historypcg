@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n21-02
 1418714
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/n21-02-arthurus/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1358815/1418714/thumbnails/n21-02-arthurus-6
 9/21/2020 7:51:03 AM 153,46 RON
 9/24/2020 3:58:29 PM 155,55 RON
 9/26/2020 8:39:10 AM 156,84 RON
+10/1/2020 8:58:06 AM 155,88 RON

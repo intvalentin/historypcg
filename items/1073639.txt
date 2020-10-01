@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ho-mhs-pcccbk-00
 1073639
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/thermaltake/auto-usb-universal-45-6-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929099/1073639/thumbnails/auto-cu-incarcare-
 9/20/2020 11:49:04 PM 71,98 RON
 9/25/2020 9:41:32 AM 73,98 RON
 9/26/2020 2:09:39 PM 73,98 RON
+10/1/2020 1:19:05 PM 73,98 RON

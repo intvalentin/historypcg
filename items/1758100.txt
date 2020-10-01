@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011137-ww
 1758100
     Product link    
 https://www.pcgarage.ro/carcase/corsair/crystal-series-280x-rgb-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1153/1758100/thumbnails/crystal-series-280x-
 9/21/2020 7:52:57 AM 842,15 RON
 9/24/2020 3:17:22 PM 857,71 RON
 9/26/2020 8:28:41 AM 858,86 RON
+10/1/2020 1:21:48 PM 854,00 RON

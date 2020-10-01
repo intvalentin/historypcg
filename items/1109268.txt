@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxts15a 944216
 1109268
     Product link    
 https://www.pcgarage.ro/coolere/intel/ts15a-socket-1151/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1094679/1109268/thumbnails/ts15a-socket-1151
 9/21/2020 7:54:37 AM 158,68 RON
 9/24/2020 6:07:22 PM 160,84 RON
 9/26/2020 9:15:10 AM 162,21 RON
+10/1/2020 4:28:56 PM 161,19 RON

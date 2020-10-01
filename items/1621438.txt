@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011129-ww
 1621438
     Product link    
 https://www.pcgarage.ro/carcase/corsair/crystal-series-460x-rgb-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1605610/1621438/thumbnails/crystal-series-46
 9/21/2020 7:50:53 AM 727,12 RON
 9/24/2020 3:31:53 PM 728,48 RON
 9/26/2020 8:33:10 AM 729,48 RON
+10/1/2020 1:05:11 PM 725,34 RON

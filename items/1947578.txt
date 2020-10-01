@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-p064-al12sw-a
 1947578
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/ux100-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1947578/thumbnails/ux100-argb-5edf055f3
 9/21/2020 7:53:41 AM 84,47 RON
 9/24/2020 5:50:59 PM 86,34 RON
 9/26/2020 9:05:04 AM 86,33 RON
+10/1/2020 4:18:05 PM 85,80 RON

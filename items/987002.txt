@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-def-r5-ti-w
 987002
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/define-r5-titanium-window/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/987002/thumbnails/define-r5-titanium-
 9/21/2020 7:52:52 AM 774,08 RON
 9/24/2020 4:10:57 PM 774,08 RON
 9/26/2020 8:43:39 AM 774,08 RON
+10/1/2020 1:12:32 PM 774,08 RON

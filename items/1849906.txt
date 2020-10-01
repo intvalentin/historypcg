@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |polarlgh2-wh
 1849906
     Product link    
 https://www.pcgarage.ro/carcase/segotep/polar-light-v3-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1848774/1849906/thumbnails/polar-light-v3-wh
 9/21/2020 7:50:58 AM 143,02 RON
 9/24/2020 3:13:12 PM 144,96 RON
 9/26/2020 8:26:26 AM 146,17 RON
+10/1/2020 8:50:50 AM 145,27 RON

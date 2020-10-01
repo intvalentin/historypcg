@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmt 260
 1993318
     Product link    
 https://www.pcgarage.ro/carcase/fortron/cmt260/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/1993318/thumbnails/cmt260-0df4f86a23
 9/21/2020 7:50:23 AM 211,69 RON
 9/24/2020 2:25:49 PM 213,39 RON
 9/25/2020 11:00:37 PM 215,20 RON
+9/30/2020 10:11:33 PM 212,50 RON

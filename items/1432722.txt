@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ace-126
 1432722
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/itb/adaptor-hdd-1x-35-inch-la-2x-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/931142/1432722/thumbnails/adaptor-hdd-1x-35-
 9/21/2020 7:53:23 AM 43,88 RON
 9/24/2020 4:33:43 PM 44,48 RON
 9/26/2020 8:51:49 AM 44,85 RON
+10/1/2020 2:12:10 PM 44,57 RON

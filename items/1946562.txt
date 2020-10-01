@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |glace120
 1946562
     Product link    
 https://www.pcgarage.ro/coolere/xigmatek/glace-120-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1946562/thumbnails/glace-120-rgb-47eea3
 9/21/2020 7:54:58 AM 216,35 RON
 9/24/2020 5:50:59 PM 216,97 RON
 9/26/2020 9:05:04 AM 217,09 RON
+10/1/2020 4:45:06 PM 216,86 RON

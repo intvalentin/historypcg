@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |al-02b-tg-op
 2073974
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/al-02b-hawk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2073974/thumbnails/al-02b-tg-op-6b61c13
 9/21/2020 7:49:41 AM 262,87 RON
 9/24/2020 2:17:33 PM 266,45 RON
 9/25/2020 10:57:38 PM 268,66 RON
+9/30/2020 10:24:28 PM 267,01 RON

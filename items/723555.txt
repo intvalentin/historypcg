@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nse-200-kkn1
 723555
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/n200-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/723555/thumbnails/n200-146f2e25117e96
 9/21/2020 7:48:48 AM 253,57 RON
 9/24/2020 2:58:40 PM 250,76 RON
 9/26/2020 8:21:12 AM 249,29 RON
+9/30/2020 10:20:23 PM 250,47 RON

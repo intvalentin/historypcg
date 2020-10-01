@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |therm_macho120sbm
 1393399
     Product link    
 https://www.pcgarage.ro/coolere/thermalright/macho-120-sbm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/367655/1393399/thumbnails/macho-120-sbm-d072
 9/21/2020 7:55:03 AM 257,01 RON
 9/24/2020 6:06:38 PM 257,01 RON
 9/26/2020 9:14:25 AM 257,01 RON
+10/1/2020 4:55:25 PM 257,01 RON

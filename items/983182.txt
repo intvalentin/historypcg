@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smarter led
 983182
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/smarter-led/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/960827/983182/thumbnails/smarter-led-15898ee
 9/21/2020 7:49:04 AM 144,25 RON
 9/24/2020 2:56:35 PM 146,21 RON
 9/26/2020 8:20:28 AM 147,42 RON
+9/30/2020 9:58:39 PM 146,52 RON

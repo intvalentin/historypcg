@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |irid 300 red
 1646568
     Product link    
 https://www.pcgarage.ro/carcase/genesis/irid-300-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/922/1646568/thumbnails/irid-300-red-99c2d80f
 9/21/2020 7:50:13 AM 268,35 RON
 9/24/2020 3:27:44 PM 268,35 RON
 9/26/2020 8:31:40 AM 268,35 RON
+10/1/2020 10:11:04 AM 268,35 RON

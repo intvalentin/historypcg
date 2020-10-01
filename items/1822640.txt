@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc229
 1822640
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/signum-sg1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/1822640/thumbnails/signum-sg1-848852
 9/21/2020 7:48:30 AM 182,27 RON
 9/24/2020 2:13:25 PM 182,50 RON
 9/25/2020 10:56:08 PM 182,79 RON
+9/30/2020 10:05:07 PM 182,86 RON

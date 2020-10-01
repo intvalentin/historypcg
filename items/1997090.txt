@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-c-def7a-07
 1997090
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/define-7-gray-solid/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/1997090/thumbnails/define-7-gray-sol
 9/21/2020 7:50:05 AM 836,29 RON
 9/24/2020 2:23:44 PM 752,66 RON
 9/25/2020 10:54:39 PM 664,11 RON
+9/30/2020 9:46:10 PM 664,11 RON

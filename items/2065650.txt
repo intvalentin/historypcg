@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wl3-00142
 2065650
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-wireless-controller-cyberpunk-2077-limited-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2065650/thumbnails/controller-wireless-
 9/21/2020 8:09:10 AM 501,98 RON
 9/25/2020 9:01:03 AM 501,98 RON
 9/26/2020 1:30:34 PM 501,98 RON
+9/30/2020 10:26:04 PM 501,98 RON

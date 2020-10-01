@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-tsrbkrd
 1443114
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/tesseract-sw-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1000151/1443114/thumbnails/tesseract-sw-red-
 9/21/2020 7:48:48 AM 220,79 RON
 9/24/2020 2:52:29 PM 223,80 RON
 9/26/2020 8:18:58 AM 225,65 RON
+9/30/2020 10:14:29 PM 224,27 RON

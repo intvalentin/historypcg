@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-p032-ca06sl-a
 1456666
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/engine-27/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1431858/1456666/thumbnails/engine-27-6848438
 9/21/2020 7:55:03 AM 258,27 RON
 9/24/2020 6:05:54 PM 264,01 RON
 9/26/2020 9:11:02 AM 263,95 RON
+10/1/2020 4:58:19 PM 262,33 RON

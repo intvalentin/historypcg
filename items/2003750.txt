@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |99hrt002-00
 2003750
     Product link    
 https://www.pcgarage.ro/headset-vr/htc/vive-cosmos-elite/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2003606/2003750/thumbnails/vive-cosmos-elite
 9/21/2020 8:08:42 AM 6.718,08 RON
 9/25/2020 8:57:23 AM 6.724,43 RON
 9/26/2020 1:26:47 PM 6.735,62 RON
+9/30/2020 9:53:26 PM 6.737,82 RON

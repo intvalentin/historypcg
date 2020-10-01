@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chione-e1a-120
 1776816
     Product link    
 https://www.pcgarage.ro/coolere/gamdias/chione-e1a-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1774300/1776816/thumbnails/chione-e1a-rgb-40
 9/21/2020 7:55:07 AM 294,76 RON
 9/24/2020 5:55:07 PM 301,31 RON
 9/26/2020 9:06:34 AM 301,25 RON
+10/1/2020 5:05:39 PM 299,40 RON

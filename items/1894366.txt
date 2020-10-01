@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmpalaeco
 1894366
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/paladin-eco/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3944/1894366/thumbnails/paladin-eco-3d87bc82
 9/21/2020 7:50:28 AM 274,89 RON
 9/24/2020 3:09:03 PM 274,89 RON
 9/26/2020 8:24:56 AM 274,89 RON
+10/1/2020 10:14:04 AM 274,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1f8-00m1wn-00
 1360054
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-x71/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1360054/thumbnails/core-x71-e2aa299d
 9/21/2020 7:52:47 AM 723,20 RON
 9/24/2020 4:00:33 PM 721,01 RON
 9/26/2020 8:39:55 AM 727,00 RON
+10/1/2020 1:04:22 PM 722,54 RON

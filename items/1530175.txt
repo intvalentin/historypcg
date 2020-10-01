@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s2-bk
 1530175
     Product link    
 https://www.pcgarage.ro/carcase/segotep/s2-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/978807/1530175/thumbnails/s2-black-343739551
 9/21/2020 7:50:53 AM 90,49 RON
 9/24/2020 3:36:02 PM 91,72 RON
 9/26/2020 8:34:40 AM 92,48 RON
+10/1/2020 8:38:40 AM 91,92 RON

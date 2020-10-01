@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em169492
 1600190
     Product link    
 https://www.pcgarage.ro/carduri-memorie/sandisk/micro-sdhc-32gb-class-10-uhs-i-bulk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1535667/1600190/thumbnails/micro-sdhc-32gb-c
 9/20/2020 11:48:02 PM 101,63 RON
 9/25/2020 9:31:10 AM 101,63 RON
 9/26/2020 1:58:38 PM 101,63 RON
+10/1/2020 11:44:36 AM 101,63 RON

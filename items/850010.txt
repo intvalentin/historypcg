@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011050-ww
 850010
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-spec-01-red-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/850010/thumbnails/carbide-spec-01-red-led-
 9/21/2020 7:50:43 AM 280,72 RON
 9/24/2020 4:13:01 PM 285,88 RON
 9/26/2020 8:44:23 AM 286,18 RON
+10/1/2020 10:18:47 AM 284,55 RON

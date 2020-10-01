@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smc00732
 1448398
     Product link    
 https://www.pcgarage.ro/carduri-memorie/goodram/sdhc-s400-16gb-clasa-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1190677/1448398/thumbnails/sdhc-s400-8gb-cla
 9/20/2020 11:47:53 PM 22,92 RON
 9/25/2020 9:28:58 AM 22,99 RON
 9/26/2020 1:56:25 PM 23,00 RON
+10/1/2020 10:36:38 AM 22,98 RON

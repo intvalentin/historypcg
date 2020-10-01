@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-dshield-v2
 1637104
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/d-shield-v2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1637104/thumbnails/d-shield-v2-d6869
 9/21/2020 7:48:56 AM 157,70 RON
 9/24/2020 2:48:22 PM 159,84 RON
 9/26/2020 8:17:30 AM 161,17 RON
+9/30/2020 10:00:34 PM 160,18 RON

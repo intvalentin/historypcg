@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200068
 1717632
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/paean-m-black-window/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1703884/1717632/thumbnails/paean-m-black-win
 9/21/2020 7:52:29 AM 542,67 RON
 9/24/2020 3:19:26 PM 543,34 RON
 9/26/2020 8:29:25 AM 544,24 RON
+10/1/2020 12:37:35 PM 544,41 RON

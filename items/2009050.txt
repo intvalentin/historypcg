@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-234-argb
 2009050
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-234-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2003606/2009050/thumbnails/se-234-argb-argb-
 9/21/2020 7:54:19 AM 220,05 RON
 9/24/2020 5:46:50 PM 224,95 RON
 9/26/2020 9:03:35 AM 224,90 RON
+10/1/2020 4:46:27 PM 223,52 RON

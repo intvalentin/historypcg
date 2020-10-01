@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m-908
 1642992
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/m-908/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1642992/thumbnails/m-908-df058d3cbfd
 9/21/2020 7:49:55 AM 461,17 RON
 9/24/2020 2:48:22 PM 467,44 RON
 9/26/2020 8:17:30 AM 471,33 RON
+10/1/2020 7:50:40 AM 468,43 RON

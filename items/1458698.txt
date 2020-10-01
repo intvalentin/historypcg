@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn9010023
 1458698
     Product link    
 https://www.pcgarage.ro/accesorii-console/nintendo/switch-joy-con-right/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1152773/1458698/thumbnails/switch-joy-con-ri
 9/21/2020 8:09:01 AM 293,98 RON
 9/25/2020 9:00:20 AM 293,98 RON
 9/26/2020 1:29:46 PM 293,98 RON
+9/30/2020 10:13:39 PM 293,98 RON

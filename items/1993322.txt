@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cst311
 1993322
     Product link    
 https://www.pcgarage.ro/carcase/fortron/cst311/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/1993322/thumbnails/cst311-d81d3cb051
 9/21/2020 7:51:37 AM 270,85 RON
 9/24/2020 3:04:54 PM 273,03 RON
 9/26/2020 8:22:42 AM 275,36 RON
+10/1/2020 10:13:47 AM 274,00 RON

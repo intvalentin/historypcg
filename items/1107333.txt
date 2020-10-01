@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |po-wpc-pct1bk-00
 1107333
     Product link    
 https://www.pcgarage.ro/incarcatoare-wireless-gsm/thermaltake/luxa2-tx-100-portable-wireless-charging-pad/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/1107333/thumbnails/luxa2-tx-100-porta
 9/20/2020 11:49:17 PM 158,41 RON
 9/25/2020 9:43:00 AM 161,93 RON
 9/26/2020 2:11:08 PM 161,90 RON
+10/1/2020 1:27:44 PM 160,90 RON

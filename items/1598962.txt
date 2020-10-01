@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz06-01150100-r3m1
 1598962
     Product link    
 https://www.pcgarage.ro/gamepad/razer/atrox-arcade-stick-pentru-xbox-one/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1520902/1598962/thumbnails/atrox-arcade-stic
 9/21/2020 8:09:24 AM 1.267,98 RON
 9/25/2020 9:03:17 AM 1.269,98 RON
 9/26/2020 1:32:47 PM 1.271,98 RON
+10/1/2020 7:32:58 AM 1.271,98 RON

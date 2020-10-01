@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scktn-3000i
 91129
     Product link    
 https://www.pcgarage.ro/coolere/scythe/katana-3-intel/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/91129/thumbnails/katana-3-intel-7c378e34ff
 9/21/2020 7:54:03 AM 137,64 RON
 9/24/2020 5:38:47 PM 137,80 RON
 9/26/2020 9:02:50 AM 138,03 RON
+10/1/2020 3:08:26 PM 137,97 RON

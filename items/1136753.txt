@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hunter-duet
 1136753
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/hunter-duet/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/367655/1136753/thumbnails/hunter-duet-2c74b9
 9/21/2020 7:55:22 AM 549,69 RON
 9/24/2020 6:07:22 PM 561,91 RON
 9/26/2020 9:15:10 AM 561,79 RON
+10/1/2020 5:42:23 PM 556,74 RON

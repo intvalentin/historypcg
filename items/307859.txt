@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps11x performa
 307859
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps11x-performa/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/307859/thumbnails/cnps11x-performa-ba9a6e4
 9/21/2020 7:54:53 AM 183,87 RON
 9/24/2020 6:10:20 PM 187,96 RON
 9/26/2020 9:18:08 AM 187,92 RON
+10/1/2020 4:38:06 PM 186,76 RON

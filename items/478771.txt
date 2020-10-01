@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpntl9i
 478771
     Product link    
 https://www.pcgarage.ro/coolere/noctua/nh-l9i/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/478771/thumbnails/nh-l9i-cfc75f81808cc6c7e
 9/21/2020 7:55:03 AM 259,08 RON
 9/24/2020 6:09:35 PM 259,08 RON
 9/26/2020 9:17:23 AM 259,08 RON
+10/1/2020 4:57:13 PM 259,08 RON

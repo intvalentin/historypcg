@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |is-40x
 1740608
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/is-40x/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1736364/1740608/thumbnails/is-40x-4d16155067
 9/21/2020 7:53:48 AM 80,15 RON
 9/24/2020 5:32:34 PM 81,24 RON
 9/26/2020 9:00:38 AM 81,92 RON
+10/1/2020 3:02:02 PM 81,42 RON

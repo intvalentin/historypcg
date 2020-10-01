@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |legend-c2
 1582174
     Product link    
 https://www.pcgarage.ro/carcase/segotep/legend-c2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1541210/1582174/thumbnails/legend-c2-9128187
 9/21/2020 7:51:03 AM 154,69 RON
 9/24/2020 3:33:57 PM 156,79 RON
 9/26/2020 8:33:55 AM 158,09 RON
+10/1/2020 8:58:22 AM 157,12 RON

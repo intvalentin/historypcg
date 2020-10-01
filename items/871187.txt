@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bt-04b-u3-350bs
 871187
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/elox-series-bt-04b-u3-350w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/871187/thumbnails/elox-series-bt-04b-u3-35
 9/21/2020 7:49:51 AM 368,67 RON
 9/24/2020 2:56:35 PM 375,64 RON
 9/26/2020 8:20:28 AM 376,07 RON
+10/1/2020 7:34:15 AM 372,88 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sst-rl06br-pro
 1756124
     Product link    
 https://www.pcgarage.ro/carcase/silverstone/redline-series-rl06-pro-black-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1756124/thumbnails/redline-series-rl
 9/21/2020 7:49:51 AM 455,78 RON
 9/24/2020 2:44:15 PM 456,94 RON
 9/26/2020 8:16:01 AM 457,67 RON
+10/1/2020 7:47:41 AM 456,79 RON

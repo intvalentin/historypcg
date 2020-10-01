@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mch4-gmx-c40p
 1783248
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/gammaxx-c40/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1779504/1783248/thumbnails/gammaxx-c40-915fb
 9/21/2020 7:53:45 AM 130,43 RON
 9/24/2020 5:30:30 PM 132,21 RON
 9/26/2020 8:59:54 AM 133,31 RON
+10/1/2020 3:07:21 PM 134,71 RON

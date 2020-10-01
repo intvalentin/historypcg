@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-beta10
 220049
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/beta-10/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/220049/thumbnails/dp-beta10-124d5a83cfeeed
 9/21/2020 7:54:41 AM 31,83 RON
 9/24/2020 6:11:05 PM 32,54 RON
 9/26/2020 9:18:52 AM 32,53 RON
+10/1/2020 4:05:26 PM 32,33 RON

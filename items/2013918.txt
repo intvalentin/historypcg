@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc272
 2013918
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/spartan-4-max/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8840/2013918/thumbnails/spartan-4-max-9ac246
 9/21/2020 7:53:39 AM 111,40 RON
 9/24/2020 4:42:00 PM 111,55 RON
 9/26/2020 8:54:45 AM 111,72 RON
+10/1/2020 2:37:05 PM 111,67 RON

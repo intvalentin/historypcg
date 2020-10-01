@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1d9-00m1wn-00
 1107173
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-n21/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/498497/1107173/thumbnails/versa-n21-3f362c64
 9/21/2020 7:49:04 AM 215,47 RON
 9/24/2020 2:56:35 PM 218,40 RON
 9/26/2020 8:20:28 AM 220,22 RON
+9/30/2020 10:11:50 PM 218,87 RON

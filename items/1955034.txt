@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc-608-bk
 1955034
     Product link    
 https://www.pcgarage.ro/carcase/redragon/steeljaw/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1953966/1955034/thumbnails/steeljaw-d4576ef2
 9/21/2020 7:49:17 AM 336,03 RON
 9/24/2020 2:29:57 PM 340,60 RON
 9/26/2020 8:12:20 AM 343,42 RON
+10/1/2020 7:25:57 AM 341,32 RON

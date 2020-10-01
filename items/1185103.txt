@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-mantw-m2
 1185103
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/manta-black-red-window/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/1185103/thumbnails/manta-black-red-wi
 9/21/2020 7:52:47 AM 690,18 RON
 9/24/2020 4:02:37 PM 699,57 RON
 9/26/2020 8:40:40 AM 705,38 RON
+10/1/2020 1:02:15 PM 701,05 RON

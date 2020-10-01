@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-ieminfs2
 880933
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/iceedge-mini-fs-v20/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862960/880933/thumbnails/iceedge-mini-fs-v20
 9/21/2020 7:53:43 AM 58,04 RON
 9/24/2020 5:36:43 PM 59,33 RON
 9/26/2020 9:02:06 AM 59,32 RON
+10/1/2020 3:00:23 PM 58,95 RON

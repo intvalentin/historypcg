@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n21
 1418690
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/n21-crusader/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1169071/1418690/thumbnails/n21-crusader-8bac
 9/21/2020 7:51:23 AM 228,35 RON
 9/24/2020 3:58:29 PM 231,46 RON
 9/26/2020 8:39:10 AM 233,38 RON
+10/1/2020 9:50:52 AM 231,95 RON

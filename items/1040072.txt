@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps10x performa+
 1040072
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps10x-performa-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/1040072/thumbnails/cnps10x-performa-p
 9/21/2020 7:54:37 AM 195,54 RON
 9/24/2020 6:07:22 PM 199,89 RON
 9/26/2020 9:15:54 AM 199,85 RON
+10/1/2020 4:40:34 PM 198,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kb03-bl
 1477970
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/kp03-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/367655/1477970/thumbnails/kp001a-carrying-ca
 9/21/2020 7:53:23 AM 35,49 RON
 9/24/2020 4:33:43 PM 35,98 RON
 9/26/2020 8:51:49 AM 36,28 RON
+10/1/2020 2:11:37 PM 36,05 RON

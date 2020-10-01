@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rmini350-gd
 838463
     Product link    
 https://www.pcgarage.ro/carcase/segotep/raynor-tower-mini-gold-350w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/800612/838463/thumbnails/raynor-tower-mini-g
 9/21/2020 7:51:14 AM 179,80 RON
 9/24/2020 4:13:01 PM 182,25 RON
 9/26/2020 8:45:07 AM 183,76 RON
+10/1/2020 9:10:31 AM 182,63 RON

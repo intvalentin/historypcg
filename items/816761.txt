@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cssd-brkt1
 816761
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/corsair/adaptor-ssd-25-35/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/816761/thumbnails/adaptor-ssd-25-35-7
 9/21/2020 7:53:18 AM 24,97 RON
 9/24/2020 4:33:43 PM 25,20 RON
 9/26/2020 8:51:49 AM 25,42 RON
+10/1/2020 2:08:56 PM 25,25 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |150-b0-2020-kr
 1696332
     Product link    
 https://www.pcgarage.ro/carcase/evga/dg-75-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1684696/1696332/thumbnails/dg-75-black-b6911
 9/21/2020 7:49:51 AM 417,89 RON
 9/24/2020 2:46:19 PM 375,93 RON
 9/26/2020 8:16:45 AM 376,36 RON
+10/1/2020 7:34:49 AM 374,04 RON

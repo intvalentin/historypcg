@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-sl600m-sgnn-s00
 1775280
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/cooler-master-mastercase-sl600m-midi-tower-side-window/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1774300/1775280/thumbnails/mastercase-sl600m
 9/21/2020 7:50:53 AM 1.004,37 RON
 9/24/2020 3:17:21 PM 993,23 RON
 9/26/2020 8:27:56 AM 987,23 RON
+10/1/2020 1:46:37 PM 990,66 RON

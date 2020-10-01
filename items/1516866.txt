@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9870050
 1516866
     Product link    
 https://www.pcgarage.ro/gamepad/sony/dualshock-4-black-v2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1443558/1516866/thumbnails/dualshock-4-black
 9/21/2020 8:09:05 AM 279,99 RON
 9/25/2020 9:04:01 AM 279,99 RON
 9/26/2020 1:31:18 PM 279,99 RON
+9/30/2020 10:25:00 PM 279,99 RON

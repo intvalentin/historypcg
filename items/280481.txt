@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clp0598
 280481
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/contac-16/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/280481/thumbnails/contac-16-56942de3d5def4
 9/21/2020 7:54:45 AM 104,47 RON
 9/24/2020 6:10:20 PM 106,79 RON
 9/26/2020 9:18:08 AM 106,77 RON
+10/1/2020 4:19:55 PM 106,12 RON

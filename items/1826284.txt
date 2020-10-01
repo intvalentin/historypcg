@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |carxzetargb
 1826284
     Product link    
 https://www.pcgarage.ro/carcase/raidmax/zeta-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/1826284/thumbnails/zeta-rgb-f5850b55
 9/21/2020 7:51:51 AM 324,53 RON
 9/24/2020 3:13:12 PM 324,53 RON
 9/26/2020 8:26:26 AM 324,53 RON
+10/1/2020 10:34:28 AM 324,53 RON

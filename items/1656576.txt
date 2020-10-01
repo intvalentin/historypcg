@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011133-ww
 1656576
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-series-275r-tempered-glass-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/530/1656576/thumbnails/carbide-series-275r-t
 9/21/2020 7:49:51 AM 433,13 RON
 9/24/2020 2:48:22 PM 441,26 RON
 9/26/2020 8:17:30 AM 441,84 RON
+10/1/2020 11:59:35 AM 439,08 RON

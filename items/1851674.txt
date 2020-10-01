@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc221
 1851674
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/armis-ar7-tg/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848774/1851674/thumbnails/armis-ar7-tg-d787
 9/21/2020 7:50:13 AM 466,94 RON
 9/24/2020 3:11:08 PM 467,51 RON
 9/26/2020 8:26:26 AM 468,28 RON
+10/1/2020 7:41:52 AM 412,23 RON

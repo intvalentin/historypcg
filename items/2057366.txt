@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-224-xt-argb
 2057366
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/cooler-procesor-id-cooling-se-224-xt-iluminare-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057366/thumbnails/se-224-xt-argb-b8081
 9/21/2020 7:53:41 AM 173,16 RON
 9/24/2020 4:46:06 PM 175,51 RON
 9/26/2020 8:56:13 AM 176,97 RON
+10/1/2020 2:38:42 PM 175,88 RON

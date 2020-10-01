@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr488
 1884630
     Product link    
 https://www.pcgarage.ro/carcase/riotoro/cr488/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1884630/thumbnails/cr488-84f96bf84927f6
 9/21/2020 7:49:17 AM 264,63 RON
 9/24/2020 2:36:07 PM 268,22 RON
 9/26/2020 8:14:32 AM 270,45 RON
+9/30/2020 10:25:35 PM 268,79 RON

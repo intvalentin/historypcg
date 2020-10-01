@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |int-div-amb
 1984994
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/tom-clancys-the-division-2-intercept/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/370411/1984994/thumbnails/tom-clancys-the-di
 9/21/2020 8:08:37 AM 343,88 RON
 9/25/2020 8:55:12 AM 343,88 RON
 9/26/2020 1:24:36 PM 343,88 RON
+9/30/2020 9:45:02 PM 343,88 RON

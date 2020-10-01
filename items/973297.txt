@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rl-n24m-24pk-r1
 973297
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/nepton-240m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/973297/thumbnails/nepton-240m-cfd7e41
 9/21/2020 7:55:26 AM 672,34 RON
 9/24/2020 6:08:07 PM 672,34 RON
 9/26/2020 9:15:54 AM 672,34 RON
+10/1/2020 5:46:28 PM 672,34 RON

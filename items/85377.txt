@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-beta40
 85377
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/beta-40/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/85377/thumbnails/beta-40-aaff7e8984c052487
 9/21/2020 7:54:41 AM 48,30 RON
 9/24/2020 6:11:05 PM 49,38 RON
 9/26/2020 9:18:53 AM 49,37 RON
+10/1/2020 4:11:55 PM 49,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011035-ww
 801174
     Product link    
 https://www.pcgarage.ro/carcase/corsair/obsidian-750d/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/798262/801174/thumbnails/obsidian-750d-12c9d
 9/21/2020 7:50:00 AM 742,47 RON
 9/24/2020 2:56:35 PM 756,33 RON
 9/26/2020 8:20:28 AM 757,18 RON
+10/1/2020 8:10:06 AM 752,61 RON

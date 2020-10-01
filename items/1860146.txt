@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cha05w
 1860146
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/canyon/multi-usb-3x-usb-42a-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1860146/thumbnails/multi-usb-3x-usb-42a
 9/20/2020 11:48:32 PM 52,98 RON
 9/25/2020 9:35:38 AM 53,98 RON
 9/26/2020 2:03:46 PM 53,98 RON
+10/1/2020 12:35:01 PM 52,98 RON

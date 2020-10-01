@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-tht15
 247993
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/theta-15/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/247993/thumbnails/theta-15-b7f7b62c76f3a4c
 9/21/2020 7:54:41 AM 30,77 RON
 9/24/2020 6:11:05 PM 31,45 RON
 9/26/2020 9:18:52 AM 31,44 RON
+10/1/2020 4:05:10 PM 31,25 RON

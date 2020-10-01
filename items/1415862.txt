@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ucm-2u-sv
 1415862
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/orico/ucm-2u-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1109408/1415862/thumbnails/ucm-2u-silver-b82
 9/20/2020 11:48:59 PM 41,98 RON
 9/25/2020 9:40:49 AM 41,98 RON
 9/26/2020 2:08:56 PM 41,98 RON
+10/1/2020 1:11:44 PM 41,98 RON

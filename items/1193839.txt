@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rmink350-sv
 1193839
     Product link    
 https://www.pcgarage.ro/carcase/segotep/raynor-tower-mini-k-black-silver-350w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/1193839/thumbnails/raynor-tower-mini-
 9/21/2020 7:51:28 AM 244,13 RON
 9/24/2020 4:02:37 PM 247,45 RON
 9/26/2020 8:40:40 AM 249,51 RON
+10/1/2020 9:58:11 AM 247,97 RON

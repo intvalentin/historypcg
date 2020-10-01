@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531067429
 2068054
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/hoco/c22a-victoria-1x-usb-24a-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2068054/thumbnails/c22a-victoria-1x-usb
 9/20/2020 11:48:22 PM 54,98 RON
 9/25/2020 9:32:40 AM 54,98 RON
 9/26/2020 2:00:07 PM 54,98 RON
+10/1/2020 12:00:39 PM 54,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc-new galaxy
 1459330
     Product link    
 https://www.pcgarage.ro/carcase/spacer/new-galaxy-250w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472773/1459330/thumbnails/new-galaxy-500w-13
 9/21/2020 7:49:14 AM 135,46 RON
 9/24/2020 2:52:29 PM 137,30 RON
 9/26/2020 8:18:58 AM 138,44 RON
+9/30/2020 9:56:59 PM 137,59 RON

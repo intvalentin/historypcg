@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-matrexx55v3-ar-3f
 1970450
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/matrexx-55-v3-add-rgb-3f/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1970450/thumbnails/matrexx-55-v3-add-rg
 9/21/2020 7:50:09 AM 338,14 RON
 9/24/2020 3:04:54 PM 342,74 RON
 9/26/2020 8:23:27 AM 345,59 RON
+10/1/2020 10:41:31 AM 343,47 RON

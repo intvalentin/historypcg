@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1035813
 2060738
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/urbanista/london-gold/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2060738/thumbnails/london-gold-cdff0af4
 9/20/2020 11:46:37 PM 565,98 RON
 9/25/2020 9:14:15 AM 565,98 RON
 9/26/2020 1:43:52 PM 565,98 RON
+10/1/2020 9:16:41 AM 565,98 RON

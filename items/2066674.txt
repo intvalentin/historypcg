@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474721822
 2066674
     Product link    
 https://www.pcgarage.ro/baterii-externe/hoco/j59-10000-mah-2x-usb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2066674/thumbnails/j59-10000-mah-2x-usb
 9/20/2020 11:46:59 PM 84,99 RON
 9/25/2020 9:19:25 AM 84,99 RON
 9/26/2020 1:49:02 PM 84,99 RON
+10/1/2020 9:52:59 AM 48,99 RON

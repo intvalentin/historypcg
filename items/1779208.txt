@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lux-ii-wh
 1779208
     Product link    
 https://www.pcgarage.ro/carcase/segotep/lux-ii-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1779208/thumbnails/lux-ii-white-b3b57b8
 9/21/2020 7:51:33 AM 252,17 RON
 9/24/2020 3:15:17 PM 255,60 RON
 9/26/2020 8:27:56 AM 257,72 RON
+10/1/2020 10:02:48 AM 256,14 RON

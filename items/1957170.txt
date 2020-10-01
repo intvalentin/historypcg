@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00055a
 1957170
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-50-tr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1953966/1957170/thumbnails/freezer-50-tr-8b8
 9/21/2020 7:54:12 AM 352,85 RON
 9/24/2020 4:52:17 PM 353,27 RON
 9/26/2020 8:58:25 AM 354,07 RON
+10/1/2020 3:28:47 PM 353,69 RON

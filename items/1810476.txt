@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011168-ww
 1810476
     Product link    
 https://www.pcgarage.ro/carcase/corsair/crystal-series-680x-rgb-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1804216/1810476/thumbnails/crystal-series-68
 9/21/2020 7:53:11 AM 1.245,73 RON
 9/24/2020 3:13:12 PM 1.262,65 RON
 9/26/2020 8:26:26 AM 1.273,42 RON
+10/1/2020 1:54:08 PM 1.265,34 RON

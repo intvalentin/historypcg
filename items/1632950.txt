@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dro01-bk
 1632950
     Product link    
 https://www.pcgarage.ro/carcase/inaza/drone-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1630882/1632950/thumbnails/drone-black-bb1de
 9/21/2020 7:51:51 AM 317,04 RON
 9/24/2020 3:29:48 PM 321,35 RON
 9/26/2020 8:32:25 AM 324,02 RON
+10/1/2020 10:33:56 AM 322,03 RON

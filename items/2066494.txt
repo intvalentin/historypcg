@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531047759
 2066494
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/hoco/c12-smart-2x-usb-24a-alb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2066494/thumbnails/c12-smart-2x-usb-24a
 9/20/2020 11:48:18 PM 45,98 RON
 9/25/2020 9:32:40 AM 45,98 RON
 9/26/2020 2:00:07 PM 45,98 RON
+10/1/2020 11:56:51 AM 45,98 RON

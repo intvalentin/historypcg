@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000lm015
 1421078
     Product link    
 https://www.pcgarage.ro/hdd-notebook/seagate/barracuda-guardian-2tb-sata-iii-5400rpm-cache-128mb-7-mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175151/1421078/thumbnails/barracuda-guardia
 9/20/2020 11:11:12 PM 409,49 RON
 9/25/2020 9:09:49 AM 409,49 RON
 9/26/2020 1:39:26 PM 409,49 RON
+10/1/2020 8:15:35 AM 409,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pa-t16
 1951330
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/aukey/pa-t16-2x-usb-tehnologia-quick-charge-30-si-aipower/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1951330/thumbnails/pa-t16-2x-usb-tehnol
 9/20/2020 11:48:36 PM 104,98 RON
 9/25/2020 9:35:38 AM 188,98 RON
 9/26/2020 2:03:46 PM 188,98 RON
+10/1/2020 12:47:55 PM 188,98 RON

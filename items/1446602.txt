@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a00027955
 1446602
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/nokia/150-dual-sim-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1446602/thumbnails/150-dual-sim-whit
 9/20/2020 11:46:11 PM 134,99 RON
 9/25/2020 9:10:34 AM 134,99 RON
 9/26/2020 1:40:08 PM 134,99 RON
+10/1/2020 8:19:35 AM 134,99 RON

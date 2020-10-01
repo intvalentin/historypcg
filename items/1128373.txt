@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-t50
 1128373
     Product link    
 https://www.pcgarage.ro/carcase/segotep/t50/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929094/1128373/thumbnails/t50-be2014570b8a99
 9/21/2020 7:51:52 AM 336,03 RON
 9/24/2020 4:06:47 PM 340,60 RON
 9/26/2020 8:42:11 AM 343,42 RON
+10/1/2020 10:40:41 AM 341,32 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc219
 1788996
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/navis-rgb-240/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6440/1788996/thumbnails/navis-rgb-240-0eddbb
 9/21/2020 7:53:43 AM 369,35 RON
 9/24/2020 4:44:02 PM 369,81 RON
 9/26/2020 8:55:28 AM 370,42 RON
+10/1/2020 2:43:31 PM 370,24 RON

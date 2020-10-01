@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e9-00m1wn-00
 1192453
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-x31/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/634551/1192453/thumbnails/core-x31-de34f5650
 9/21/2020 7:52:24 AM 511,56 RON
 9/24/2020 4:02:37 PM 518,51 RON
 9/26/2020 8:40:40 AM 522,82 RON
+10/1/2020 12:33:26 PM 519,61 RON

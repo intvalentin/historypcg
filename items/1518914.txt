@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e8-00m1wn-02
 1518914
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-x5-tempered-glass-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1518914/thumbnails/core-x5-tempered-
 9/21/2020 7:52:57 AM 871,59 RON
 9/24/2020 3:38:07 PM 883,44 RON
 9/26/2020 8:35:26 AM 890,78 RON
+10/1/2020 1:24:28 PM 885,31 RON

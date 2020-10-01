@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-wave-led
 1113508
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/wave-led/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1000151/1113508/thumbnails/wave-led-14e84887
 9/21/2020 7:50:58 AM 113,84 RON
 9/24/2020 4:06:47 PM 115,38 RON
 9/26/2020 8:42:11 AM 116,34 RON
+10/1/2020 8:41:42 AM 115,63 RON

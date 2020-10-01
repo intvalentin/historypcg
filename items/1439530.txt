@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tel000349
 1439530
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/myphone/6310-white/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1431858/1439530/thumbnails/6310-white-6616ac
     Pret    
 9/20/2020 11:46:15 PM 103,98 RON
 9/26/2020 1:40:55 PM 103,98 RON
+10/1/2020 8:22:23 AM 103,98 RON

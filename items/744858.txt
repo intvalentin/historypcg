@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc-k380-kwn1
 744858
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/k380/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/714621/744858/thumbnails/k380-5b9b5dc0b81b28
 9/21/2020 7:51:37 AM 266,55 RON
 9/24/2020 4:19:16 PM 266,55 RON
 9/26/2020 8:46:37 AM 266,55 RON
+10/1/2020 10:07:58 AM 266,55 RON

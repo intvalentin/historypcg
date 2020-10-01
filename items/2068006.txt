@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hive-g-bk-v1
 2068006
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/hive-argb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2068006/thumbnails/hive-argb-5384511ea2
 9/21/2020 7:49:41 AM 267,10 RON
 9/24/2020 2:17:33 PM 270,74 RON
 9/25/2020 10:57:38 PM 272,99 RON
+9/30/2020 10:26:34 PM 271,31 RON

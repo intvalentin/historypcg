@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00183
 2014242
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/nyx-pro-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2014242/thumbnails/nyx-pro-white-a617a8
 9/21/2020 7:53:11 AM 2.072,24 RON
 9/24/2020 3:02:49 PM 2.074,77 RON
 9/26/2020 8:22:42 AM 2.078,21 RON
+10/1/2020 2:01:53 PM 2.077,20 RON

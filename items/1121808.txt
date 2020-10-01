@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_gt006bk
 1121808
     Product link    
 https://www.pcgarage.ro/gamepad/marvo/gt-006-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/367655/1121808/thumbnails/gt-006-black-ed17b
 9/21/2020 8:09:10 AM 29,98 RON
 9/25/2020 9:01:48 AM 29,98 RON
 9/26/2020 1:31:18 PM 29,98 RON
+9/30/2020 10:20:42 PM 29,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90ai0010-p00100
 1968242
     Product link    
 https://www.pcgarage.ro/accesorii-gsm/asus/mobile-desktop-dock-revised/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1968242/thumbnails/mobile-desktop-dock-
 9/20/2020 11:47:28 PM 830,98 RON
 9/25/2020 9:24:34 AM 832,98 RON
 9/26/2020 1:52:02 PM 833,98 RON
+10/1/2020 10:21:45 AM 832,98 RON

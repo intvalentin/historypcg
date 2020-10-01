@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bga04
 1716228
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/be-quiet/psu-shroud-dark-base-pro-900/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691852/1716228/thumbnails/psu-shroud-dark-b
 9/21/2020 7:53:36 AM 127,00 RON
 9/24/2020 4:37:52 PM 125,57 RON
 9/26/2020 8:53:18 AM 124,78 RON
+10/1/2020 2:31:14 PM 125,25 RON

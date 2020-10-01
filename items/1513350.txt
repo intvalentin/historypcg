@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-053-cn1otn-c1
 1513350
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/thermaltake/gaming-pci-e-30-x16-riser-cable/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469686/1513350/thumbnails/gaming-pci-e-30-x
 9/21/2020 7:53:36 AM 140,46 RON
 9/24/2020 4:37:52 PM 142,37 RON
 9/26/2020 8:53:18 AM 143,55 RON
+10/1/2020 2:31:47 PM 142,67 RON

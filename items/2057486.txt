@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21681
 2057486
     Product link    
 https://www.pcgarage.ro/accesorii-console/trust/trust-gxt-235-duo-charging-dock-for-ps4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2057486/thumbnails/gxt-235-duo-charging
 9/21/2020 8:08:56 AM 59,98 RON
 9/25/2020 8:59:35 AM 59,98 RON
 9/26/2020 1:29:02 PM 59,98 RON
+9/30/2020 10:05:37 PM 59,98 RON

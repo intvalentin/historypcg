@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w063-ca00bl-a
 1091259
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/pacific-rl240/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/1091259/thumbnails/cl-w063-ca00bl-a-3
 9/21/2020 7:54:16 AM 1.843,07 RON
 9/24/2020 5:36:43 PM 1.884,05 RON
 9/26/2020 9:02:06 AM 1.883,65 RON
+10/1/2020 4:02:57 PM 1.872,09 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f900-bk
 2066266
     Product link    
 https://www.pcgarage.ro/carcase/delux/f900-iron/
@@ -8,3 +8,4 @@ Delux F900 Iron
 https://3.grgs.ro/images/products/1/4917/2066266/thumbnails/f900-iron-71c1196177c690817314b0a4d7b2cc93.jpg
     Pret    
 9/25/2020 10:57:38 PM 124,69 RON
+9/30/2020 9:53:46 PM 123,93 RON

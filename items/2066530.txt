@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r-cl500-bknma1n-g-1
 2066530
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/cl500/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2066530/thumbnails/cl500-3972becd32f453
 9/21/2020 7:52:01 AM 368,01 RON
 9/24/2020 2:58:40 PM 367,00 RON
 9/26/2020 8:21:12 AM 370,05 RON
+10/1/2020 11:30:21 AM 367,77 RON

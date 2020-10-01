@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00152
 1985494
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/ophion-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1985494/thumbnails/ophion-white-abd91
 9/21/2020 7:50:00 AM 660,00 RON
 9/24/2020 2:25:49 PM 660,80 RON
 9/25/2020 11:00:37 PM 661,91 RON
+10/1/2020 8:05:01 AM 662,12 RON

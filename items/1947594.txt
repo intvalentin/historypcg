@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w233-pl12sw-a
 1947594
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/water-30-240-argb-sync-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947594/thumbnails/water-30-240-argb-sy
 9/21/2020 7:55:26 AM 633,78 RON
 9/24/2020 5:48:55 PM 647,88 RON
 9/26/2020 9:04:20 AM 647,74 RON
+10/1/2020 5:46:11 PM 641,92 RON

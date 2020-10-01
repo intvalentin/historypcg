@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-h1b-nf
 2001770
     Product link    
 https://www.pcgarage.ro/carcase/segotep/halo-blacknf/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/2001770/thumbnails/segotep-halo-blac
 9/21/2020 7:50:18 AM 157,02 RON
 9/24/2020 3:02:49 PM 159,16 RON
 9/26/2020 8:22:42 AM 160,48 RON
+10/1/2020 8:59:44 AM 159,50 RON

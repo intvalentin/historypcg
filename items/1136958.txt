@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-913x
 1136958
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-913x/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/1136958/thumbnails/se-913x-3f1e205e82
 9/21/2020 7:53:51 AM 82,65 RON
 9/24/2020 5:36:43 PM 84,49 RON
 9/26/2020 9:01:22 AM 84,47 RON
+10/1/2020 3:02:19 PM 83,95 RON

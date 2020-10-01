@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20151
 1737988
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/trust/1x-usb-1a-black-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1737988/thumbnails/1x-usb-1a-black-8
 9/20/2020 11:48:50 PM 44,99 RON
 9/25/2020 9:39:20 AM 44,99 RON
 9/26/2020 2:07:27 PM 44,99 RON
+10/1/2020 12:57:19 PM 44,99 RON

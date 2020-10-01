@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-214-rgb
 1642420
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-214-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/922/1642420/thumbnails/se-214-rgb-643fa9db9c
 9/21/2020 7:54:58 AM 207,03 RON
 9/24/2020 6:01:20 PM 207,03 RON
 9/26/2020 9:08:48 AM 207,03 RON
+10/1/2020 4:41:54 PM 207,03 RON

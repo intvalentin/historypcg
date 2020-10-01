@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dashflow-240
 1740432
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/dashflow-240-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1740432/thumbnails/dashflow-240-rgb-
 9/21/2020 7:54:16 AM 528,23 RON
 9/24/2020 5:32:34 PM 535,41 RON
 9/26/2020 9:00:38 AM 539,86 RON
+10/1/2020 3:39:46 PM 536,55 RON

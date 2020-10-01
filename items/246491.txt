@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-mael-bk
 246491
     Product link    
 https://www.pcgarage.ro/carcase/in-win/maelstrom-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/246491/thumbnails/maelstrom-black-26099f78
 9/21/2020 7:52:33 AM 610,30 RON
 9/24/2020 4:27:33 PM 618,59 RON
 9/26/2020 8:50:20 AM 623,73 RON
+10/1/2020 12:48:58 PM 619,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-buc
 256555
     Product link    
 https://www.pcgarage.ro/carcase/in-win/buc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/256555/thumbnails/buc-3acaa3be952f9d8d2d2c
 9/21/2020 7:52:15 AM 443,63 RON
 9/24/2020 4:27:33 PM 449,66 RON
 9/26/2020 8:49:36 AM 453,39 RON
+10/1/2020 12:01:43 PM 450,61 RON

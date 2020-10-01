@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pandora se rgb
 1711720
     Product link    
 https://www.pcgarage.ro/carcase/floston/pandora-se-rgb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1711720/thumbnails/pandora-se-rgb-97
 9/21/2020 7:51:09 AM 171,90 RON
 9/24/2020 3:21:30 PM 174,24 RON
 9/26/2020 8:29:25 AM 175,72 RON
+10/1/2020 9:05:42 AM 174,86 RON

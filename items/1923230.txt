@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc241
 1923230
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/navis-evo-argb-280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8629/1923230/thumbnails/navis-evo-argb-280-b
 9/21/2020 7:53:39 AM 506,27 RON
 9/24/2020 4:44:02 PM 506,89 RON
 9/26/2020 8:55:28 AM 507,74 RON
+10/1/2020 2:50:39 PM 507,49 RON

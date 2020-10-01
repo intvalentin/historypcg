@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pulse-l120f
 2046974
     Product link    
 https://www.pcgarage.ro/coolere/aerocool/pulse-l120f-argb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2046974/thumbnails/pulse-l120f-argb-
 9/21/2020 7:54:12 AM 376,23 RON
 9/24/2020 4:48:10 PM 381,35 RON
 9/26/2020 8:56:57 AM 384,51 RON
+10/1/2020 3:30:52 PM 382,15 RON

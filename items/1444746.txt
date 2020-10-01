@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aero-p7-c1bg
 1444746
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/p7-c1-black-tempered-glass/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1109408/1444746/thumbnails/p7-c1-black-tempe
 9/21/2020 7:50:18 AM 525,98 RON
 9/24/2020 3:42:16 PM 525,98 RON
 9/26/2020 8:36:56 AM 525,98 RON
+10/1/2020 12:34:33 PM 525,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |map-t4pn-220pc-r1
 1619182
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/masterair-ma410p/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1594546/1619182/thumbnails/masterair-ma410p-
 9/21/2020 7:53:45 AM 197,51 RON
 9/24/2020 5:34:38 PM 200,19 RON
 9/26/2020 9:01:22 AM 201,86 RON
+10/1/2020 4:40:50 PM 200,62 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmexpedbl
 1899262
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/expedition-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1202/1899262/thumbnails/expedition-blue-badb
 9/21/2020 7:51:23 AM 223,60 RON
 9/24/2020 3:09:03 PM 223,60 RON
 9/26/2020 8:24:56 AM 223,60 RON
+10/1/2020 9:44:36 AM 223,60 RON

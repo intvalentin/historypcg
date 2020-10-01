@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-303-wh
 1429958
     Product link    
 https://www.pcgarage.ro/carcase/in-win/303-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/991247/1429958/thumbnails/in-win-303-white-9
 9/21/2020 7:52:33 AM 573,60 RON
 9/24/2020 3:56:24 PM 581,39 RON
 9/26/2020 8:38:25 AM 586,22 RON
+10/1/2020 12:43:35 PM 582,63 RON

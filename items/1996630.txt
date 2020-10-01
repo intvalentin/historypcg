@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r20b00180
 1996630
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/silenos-pro/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/1996630/thumbnails/silenos-pro-541bc
 9/21/2020 7:50:48 AM 421,98 RON
 9/24/2020 3:02:49 PM 422,50 RON
 9/26/2020 8:22:42 AM 423,20 RON
+10/1/2020 11:55:09 AM 423,34 RON

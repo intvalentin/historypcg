@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gptrgreenarrow
 1626590
     Product link    
 https://www.pcgarage.ro/gamepad/tracer/green-arrow-pc-ps2-ps3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5633/1626590/thumbnails/green-arrow-pc-ps2-p
 9/21/2020 8:09:15 AM 51,98 RON
 9/25/2020 9:03:17 AM 51,98 RON
 9/26/2020 1:32:47 PM 51,98 RON
+9/30/2020 10:28:00 PM 51,98 RON

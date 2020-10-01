@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn9010034
 1510130
     Product link    
 https://www.pcgarage.ro/accesorii-console/nintendo/nintendo-switch-joy-con-pair-neon-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1475490/1510130/thumbnails/nintendo-switch-j
 9/21/2020 8:09:01 AM 439,98 RON
 9/25/2020 9:00:20 AM 439,98 RON
 9/26/2020 1:29:46 PM 439,98 RON
+9/30/2020 10:14:47 PM 439,98 RON

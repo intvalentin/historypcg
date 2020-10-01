@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011166-ww
 1793016
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-spec-delta-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3049/1793016/thumbnails/carbide-spec-delta-r
 9/21/2020 7:52:06 AM 377,93 RON
 9/24/2020 3:15:17 PM 383,06 RON
 9/26/2020 8:27:11 AM 386,32 RON
+10/1/2020 11:39:23 AM 384,44 RON

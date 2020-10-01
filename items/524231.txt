@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-2hdd
 524231
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/adaptor-hdd-ssd-35-inch-la-2x-25-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/524231/thumbnails/adaptor-hdd-ssd-35-inch-
 9/21/2020 7:53:19 AM 21,26 RON
 9/24/2020 4:35:48 PM 21,55 RON
 9/26/2020 8:51:49 AM 21,73 RON
+10/1/2020 2:07:33 PM 21,59 RON

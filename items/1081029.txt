@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpntc14s
 1081029
     Product link    
 https://www.pcgarage.ro/coolere/noctua/nh-c14s/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/1081029/thumbnails/nh-c14s-ac8ef6daed
 9/21/2020 7:53:48 AM 463,65 RON
 9/24/2020 5:36:43 PM 463,65 RON
 9/26/2020 9:02:06 AM 463,65 RON
+10/1/2020 3:34:42 PM 463,65 RON

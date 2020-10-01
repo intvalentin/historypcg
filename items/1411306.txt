@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-703-wh
 1411306
     Product link    
 https://www.pcgarage.ro/carcase/in-win/703-white-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/959008/1411306/thumbnails/703-white-silver-e
 9/21/2020 7:51:56 AM 356,10 RON
 9/24/2020 4:00:33 PM 360,94 RON
 9/26/2020 8:39:55 AM 363,94 RON
+10/1/2020 11:27:08 AM 361,71 RON

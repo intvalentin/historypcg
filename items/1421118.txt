@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st5000lm000
 1421118
     Product link    
 https://www.pcgarage.ro/hdd-notebook/seagate/barracuda-guardian-5tb-sata-iii-5400rpm-cache-128mb-15-mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175151/1421118/thumbnails/barracuda-guardia
 9/20/2020 11:11:12 PM 1.049,98 RON
 9/25/2020 9:09:49 AM 1.069,98 RON
 9/26/2020 1:39:26 PM 1.069,98 RON
+10/1/2020 8:16:07 AM 1.063,98 RON

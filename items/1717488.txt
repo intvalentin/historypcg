@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-k500l-kann-s00
 1717488
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-k500l/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1703884/1717488/thumbnails/masterbox-k500l-l
 9/21/2020 7:51:47 AM 310,21 RON
 9/24/2020 3:21:30 PM 314,43 RON
 9/26/2020 8:29:25 AM 317,04 RON
+10/1/2020 10:31:17 AM 315,09 RON

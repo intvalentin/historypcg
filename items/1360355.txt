@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1f1-00d1nn-00
 1360355
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/thermaltake/core-p100/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1192525/1360355/thumbnails/core-p100-e904923
 9/21/2020 7:53:36 AM 619,61 RON
 9/24/2020 4:39:57 PM 628,03 RON
 9/26/2020 8:54:02 AM 633,25 RON
+10/1/2020 2:34:13 PM 629,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-ie400fs
 241833
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/iceedge-400-fs/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/241833/thumbnails/iceedge-400-fs-08aed03d3
 9/21/2020 7:54:49 AM 128,94 RON
 9/24/2020 6:11:05 PM 131,80 RON
 9/26/2020 9:18:52 AM 131,77 RON
+10/1/2020 4:22:39 PM 130,97 RON

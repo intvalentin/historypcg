@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200055
 1525962
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/metis-plus-black-window/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1525962/thumbnails/metis-plus-black-
 9/21/2020 7:50:48 AM 391,75 RON
 9/24/2020 3:36:02 PM 392,22 RON
 9/26/2020 8:34:40 AM 392,87 RON
+10/1/2020 11:45:05 AM 393,00 RON

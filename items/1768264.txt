@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cca05b
 1768264
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/canyon/cne-cca05b-2x-usb-24a-black-orange/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1765416/1768264/thumbnails/cne-cca05b-2x-usb
 9/20/2020 11:48:59 PM 35,98 RON
 9/25/2020 9:40:49 AM 37,98 RON
 9/26/2020 2:08:56 PM 37,98 RON
+10/1/2020 1:11:11 PM 37,98 RON

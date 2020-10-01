@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |argus-e3
 2060654
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/carcasa-gamdias-argus-e3-neagra/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2060654/thumbnails/argus-e3-8a3c83fd8ab
 9/21/2020 7:49:04 AM 195,56 RON
 9/24/2020 2:19:37 PM 198,21 RON
 9/25/2020 10:58:23 PM 199,86 RON
+9/30/2020 10:09:06 PM 198,63 RON

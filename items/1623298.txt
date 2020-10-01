@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j8-00m1wn-00
 1623298
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p90-tempered-glass-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5633/1623298/thumbnails/core-p90-tempered-gl
 9/21/2020 7:52:57 AM 850,30 RON
 9/24/2020 3:29:48 PM 861,86 RON
 9/26/2020 8:32:25 AM 869,02 RON
+10/1/2020 1:22:04 PM 863,68 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-502
 1161501
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/it-502-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/750014/1161501/thumbnails/it-502-black-af0ee
 9/21/2020 7:48:56 AM 182,64 RON
 9/24/2020 2:54:32 PM 185,13 RON
 9/26/2020 8:19:43 AM 186,67 RON
+9/30/2020 10:05:23 PM 185,52 RON

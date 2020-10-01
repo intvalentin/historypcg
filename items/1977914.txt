@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nlr-a004
 1977914
     Product link    
 https://www.pcgarage.ro/accesorii-volane/next-level-racing/next-level-racing-gaming-desktop-gtu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1977914/thumbnails/gaming-desktop-nlr-a
 9/21/2020 8:09:39 AM 406,98 RON
 9/25/2020 9:06:57 AM 406,98 RON
 9/26/2020 1:36:30 PM 406,98 RON
+10/1/2020 7:48:10 AM 406,98 RON

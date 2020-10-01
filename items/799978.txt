@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t2 plus
 799978
     Product link    
 https://www.pcgarage.ro/carcase/zalman/t2-plus/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/782584/799978/thumbnails/t2-plus-77b2c07830a
 9/21/2020 7:50:58 AM 128,40 RON
 9/24/2020 4:17:11 PM 130,14 RON
 9/26/2020 8:45:52 AM 131,22 RON
+10/1/2020 8:46:48 AM 130,42 RON

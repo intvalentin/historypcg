@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gp-02b-op
 2050570
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/stallion-ii/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2050570/thumbnails/stallion-ii-82483a31
 9/21/2020 7:49:55 AM 556,82 RON
 9/24/2020 2:19:37 PM 567,28 RON
 9/25/2020 10:58:23 PM 597,35 RON
+10/1/2020 7:57:58 AM 564,52 RON

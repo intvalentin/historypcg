@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec416psc_ag
 1190911
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400s-anthracite-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/851375/1190911/thumbnails/eclipse-p400s-anth
 9/21/2020 7:52:06 AM 389,99 RON
 9/24/2020 4:02:37 PM 389,99 RON
 9/26/2020 8:40:40 AM 389,99 RON
+10/1/2020 11:40:46 AM 389,99 RON

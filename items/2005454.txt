@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-matrexx55-mesh-ar-4f
 2005454
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/matrexx-55-mesh-add-rgb-4f/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2005454/thumbnails/matrexx-55-mesh-add-
 9/21/2020 7:50:13 AM 346,37 RON
 9/24/2020 3:02:49 PM 351,07 RON
 9/26/2020 8:22:42 AM 353,99 RON
+10/1/2020 11:24:56 AM 351,82 RON

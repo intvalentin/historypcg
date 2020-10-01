@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gm-c12
 1183477
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/gm-c12/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/1183477/thumbnails/inter-tech-gm-c12-37f1e
 9/21/2020 7:50:58 AM 110,58 RON
 9/24/2020 4:02:38 PM 112,08 RON
 9/26/2020 8:40:40 AM 113,01 RON
+10/1/2020 8:41:09 AM 112,32 RON

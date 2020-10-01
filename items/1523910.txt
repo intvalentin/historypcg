@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac52535-1s-v1-bk
 1523910
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/orico/adaptor-hdd-ssd-25-35-inch-la-525-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427502/1523910/thumbnails/orico-ac52535-1s-
 9/21/2020 7:53:31 AM 36,18 RON
 9/24/2020 4:37:52 PM 36,67 RON
 9/26/2020 8:53:18 AM 36,97 RON
+10/1/2020 2:22:54 PM 36,75 RON

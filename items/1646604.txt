@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3ar-00002
 1646604
     Product link    
 https://www.pcgarage.ro/accesorii-console/microsoft/xbox-one-s-vertical-stand/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1646604/thumbnails/xbox-one-s-vertic
 9/21/2020 8:09:01 AM 89,98 RON
 9/25/2020 8:59:36 AM 89,98 RON
 9/26/2020 1:29:02 PM 89,98 RON
+9/30/2020 10:10:24 PM 89,98 RON

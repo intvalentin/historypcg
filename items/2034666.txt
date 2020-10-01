@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s30852-h2812-r601
 2034666
     Product link    
 https://www.pcgarage.ro/telefoane-fixe/gigaset/a270-black-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2034666/thumbnails/a270-black-c1cc17
 9/20/2020 11:46:25 PM 161,98 RON
 9/25/2020 9:12:03 AM 161,98 RON
 9/26/2020 1:41:40 PM 161,98 RON
+10/1/2020 8:40:22 AM 161,98 RON

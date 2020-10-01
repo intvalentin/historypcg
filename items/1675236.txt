@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-q300p-kann-s02
 1675236
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-q300p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664860/1675236/thumbnails/masterbox-q300p-c
 9/21/2020 7:52:06 AM 383,79 RON
 9/24/2020 3:25:39 PM 389,00 RON
 9/26/2020 8:30:55 AM 392,23 RON
+10/1/2020 11:40:29 AM 389,83 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chromaflow-240
 1740472
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/chromaflow-240-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6748/1740472/thumbnails/chromaflow-240-rgb-0
 9/21/2020 7:55:22 AM 487,66 RON
 9/24/2020 5:57:11 PM 498,50 RON
 9/26/2020 9:07:18 AM 498,39 RON
+10/1/2020 5:38:19 PM 495,33 RON

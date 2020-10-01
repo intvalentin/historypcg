@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mch4-ft-ledv2
 1783312
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/frostwin-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1779504/1783312/thumbnails/frostwin-led-b8ad
 9/21/2020 7:54:33 AM 258,51 RON
 9/24/2020 5:53:03 PM 264,26 RON
 9/26/2020 9:05:49 AM 264,20 RON
+10/1/2020 4:58:34 PM 262,58 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20153
 985857
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/trust/auto-20153-usb-rosu-universal/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/985857/thumbnails/auto-20153-rosu-uni
 9/20/2020 11:48:50 PM 39,98 RON
 9/25/2020 9:40:04 AM 39,98 RON
 9/26/2020 2:08:11 PM 39,98 RON
+10/1/2020 12:53:19 PM 39,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-h1b
 1429754
     Product link    
 https://www.pcgarage.ro/carcase/segotep/halo-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/1429754/thumbnails/segotep-halo-blac
 9/21/2020 7:51:14 AM 178,05 RON
 9/24/2020 3:56:24 PM 180,47 RON
 9/26/2020 8:39:10 AM 181,97 RON
+10/1/2020 9:09:26 AM 180,85 RON

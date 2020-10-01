@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpntd15s
 1081034
     Product link    
 https://www.pcgarage.ro/coolere/noctua/nh-d15s/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025741/1081034/thumbnails/nh-d15s-ca9f3353a
 9/21/2020 7:53:43 AM 483,23 RON
 9/24/2020 4:44:02 PM 483,23 RON
 9/26/2020 8:55:28 AM 483,23 RON
+10/1/2020 2:45:25 PM 483,23 RON

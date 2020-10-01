@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00035a
 1536426
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-33-esport-edition-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427586/1536426/thumbnails/freezer-33-esport
 9/21/2020 7:55:06 AM 273,21 RON
 9/24/2020 6:03:43 PM 270,21 RON
 9/26/2020 9:09:33 AM 268,56 RON
+10/1/2020 4:59:08 PM 269,46 RON

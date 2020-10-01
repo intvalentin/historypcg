@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-303c-bk
 1509082
     Product link    
 https://www.pcgarage.ro/carcase/in-win/303c-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1355324/1509082/thumbnails/303c-black-047e20
 9/21/2020 7:52:38 AM 626,12 RON
 9/24/2020 3:38:07 PM 634,63 RON
 9/26/2020 8:35:26 AM 639,90 RON
+10/1/2020 12:52:44 PM 635,98 RON

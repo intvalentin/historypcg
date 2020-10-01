@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll622021
 1832300
     Product link    
 https://www.pcgarage.ro/handsfree/tellur/fmt-b3-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5664/1832300/thumbnails/31a-2x-usb-aux-micro
 9/20/2020 11:47:19 PM 86,00 RON
 9/25/2020 9:23:48 AM 86,24 RON
 9/26/2020 1:51:16 PM 86,29 RON
+10/1/2020 10:08:37 AM 86,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cacgchlbk
 501213
     Product link    
 https://www.pcgarage.ro/carcase/cougar/challenger-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/501213/thumbnails/challenger-black-8d0ed53
 9/21/2020 7:51:56 AM 342,44 RON
 9/24/2020 4:23:25 PM 342,44 RON
 9/26/2020 8:48:07 AM 342,44 RON
+10/1/2020 10:40:58 AM 342,44 RON

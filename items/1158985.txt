@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |strt-4wopsu
 1158985
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/starter-4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1053670/1158985/thumbnails/starter-4-6ac13f7
 9/21/2020 7:51:03 AM 152,60 RON
 9/24/2020 4:04:42 PM 154,68 RON
 9/26/2020 8:41:24 AM 155,96 RON
+10/1/2020 8:57:34 AM 155,00 RON

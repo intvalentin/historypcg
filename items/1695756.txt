@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1k1-00m1wn-00
 1695756
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-j21-tempered-glass/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1695756/thumbnails/versa-j21-tempere
 9/21/2020 7:49:41 AM 248,35 RON
 9/24/2020 2:48:22 PM 251,73 RON
 9/26/2020 8:16:45 AM 253,82 RON
+9/30/2020 10:21:12 PM 252,26 RON

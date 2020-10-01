@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc-g02
 1458778
     Product link    
 https://www.pcgarage.ro/accesorii-gsm/vr-shinecon/g02-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1431858/1458778/thumbnails/g02-black-9f8bcb0
 9/20/2020 11:47:28 PM 100,98 RON
 9/25/2020 9:25:18 AM 103,98 RON
 9/26/2020 1:52:46 PM 103,98 RON
+10/1/2020 10:18:40 AM 102,98 RON

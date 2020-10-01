@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sentinel-g-bk-v1
 1954966
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/sentinel-tg-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1953966/1954966/thumbnails/sentinel-tg-rgb-d
 9/21/2020 7:51:56 AM 338,32 RON
 9/24/2020 3:04:54 PM 342,92 RON
 9/26/2020 8:23:27 AM 345,77 RON
+10/1/2020 11:20:18 AM 343,65 RON

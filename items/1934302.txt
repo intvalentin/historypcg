@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011188-ww
 1934302
     Product link    
 https://www.pcgarage.ro/carcase/corsair/corsair-computer-case-icue-465x-rgb-mid-tower-atx-smart-case-3xll120-rgb-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1934302/thumbnails/icue-465x-rgb-a9ad22
 9/21/2020 7:49:22 AM 600,46 RON
 9/24/2020 2:32:00 PM 611,64 RON
 9/26/2020 8:24:12 AM 612,37 RON
+10/1/2020 12:47:53 PM 608,74 RON

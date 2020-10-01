@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_tmxpro
 1454078
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/tmx-pro-force-feedback-pc-xone/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1454078/thumbnails/tmx-pro-force-fee
 9/21/2020 8:09:30 AM 1.599,99 RON
 9/25/2020 9:05:29 AM 1.599,99 RON
 9/26/2020 1:34:57 PM 1.599,99 RON
+10/1/2020 7:42:31 AM 1.599,99 RON

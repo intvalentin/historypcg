@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lg-01b-op
 968537
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/libra-series-lg-01b-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/968537/thumbnails/libra-series-lg-01b
 9/21/2020 7:49:36 AM 200,89 RON
 9/24/2020 2:56:35 PM 204,58 RON
 9/26/2020 8:20:28 AM 204,87 RON
+9/30/2020 10:09:55 PM 203,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frostflow-x-240
 1948878
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/frostflow-x-240/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1948878/thumbnails/frostflow-x-240-665b
 9/21/2020 7:54:20 AM 312,27 RON
 9/24/2020 5:48:55 PM 314,14 RON
 9/26/2020 9:04:20 AM 314,07 RON
+10/1/2020 5:08:24 PM 312,15 RON

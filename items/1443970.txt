@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bg022
 1443970
     Product link    
 https://www.pcgarage.ro/carcase/be-quiet/pure-base-600-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1431858/1443970/thumbnails/pure-base-600-sil
 9/21/2020 7:50:28 AM 490,33 RON
 9/24/2020 3:42:16 PM 490,19 RON
 9/26/2020 8:36:56 AM 490,77 RON
+10/1/2020 12:11:02 PM 491,49 RON

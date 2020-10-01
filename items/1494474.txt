@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1h2-00m1wn-00
 1494474
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/view-28-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355324/1494474/thumbnails/view-28-rgb-bafdc
 9/21/2020 7:49:09 AM 331,08 RON
 9/24/2020 2:50:25 PM 335,58 RON
 9/26/2020 8:18:14 AM 338,37 RON
+9/30/2020 10:38:03 PM 336,30 RON

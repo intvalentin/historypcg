@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cylon-4f-argb-pwm-4p
 2068230
     Product link    
 https://www.pcgarage.ro/coolere/aerocool/cylon-4f-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068230/thumbnails/cylon-4f-argb-a79d12
 9/21/2020 7:54:07 AM 180,37 RON
 9/24/2020 4:46:06 PM 182,82 RON
 9/26/2020 8:56:13 AM 184,34 RON
+10/1/2020 3:13:18 PM 183,21 RON

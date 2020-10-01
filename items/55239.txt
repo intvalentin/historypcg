@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alpine 64 gt
 55239
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-64-gt/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/55239/thumbnails/alpine64gt00l.jpg
 9/21/2020 7:54:07 AM 36,72 RON
 9/24/2020 5:38:47 PM 36,27 RON
 9/26/2020 9:02:50 AM 36,12 RON
+10/1/2020 4:07:16 PM 33,69 RON

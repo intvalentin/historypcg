@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |val-onx-amb
 1703200
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/valve-onyx/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1703200/thumbnails/valve-onyx-30180a
 9/21/2020 8:08:37 AM 323,99 RON
 9/25/2020 8:55:57 AM 323,99 RON
 9/26/2020 1:25:19 PM 323,99 RON
+9/30/2020 9:41:50 PM 323,99 RON

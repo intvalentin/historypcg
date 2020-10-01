@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4044951019304, casks25w
 1443646
     Product link    
 https://www.pcgarage.ro/carcase/sharkoon/s25-w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1443646/thumbnails/s25-w-498bad25f3a8
 9/21/2020 7:51:47 AM 301,33 RON
 9/24/2020 3:42:16 PM 301,33 RON
 9/26/2020 8:36:56 AM 301,33 RON
+10/1/2020 10:26:53 AM 301,33 RON

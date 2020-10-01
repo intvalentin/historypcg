@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a1371012, a1371h12, a1371g11
 1587902
     Product link    
 https://www.pcgarage.ro/baterii-externe/anker/powercore-plus-20100-mah-6a-2x-usb-1x-usb-c-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1535667/1587902/thumbnails/powercore-plus-20
 9/20/2020 11:46:55 PM 247,18 RON
 9/25/2020 9:19:26 AM 247,18 RON
 9/26/2020 1:49:45 PM 247,18 RON
+10/1/2020 9:59:50 AM 247,18 RON

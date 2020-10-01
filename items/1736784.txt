@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-h1b-rled
 1736784
     Product link    
 https://www.pcgarage.ro/carcase/segotep/halo-black-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6748/1736784/thumbnails/halo-black-red-98f40
 9/21/2020 7:51:14 AM 178,05 RON
 9/24/2020 3:19:26 PM 180,47 RON
 9/26/2020 8:28:41 AM 181,97 RON
+10/1/2020 9:09:42 AM 180,85 RON

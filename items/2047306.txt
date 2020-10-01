@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cpb010b
 2047306
     Product link    
 https://www.pcgarage.ro/baterii-externe/canyon/cne-cpb010b-1x-usb-10000-mah-2a-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2047306/thumbnails/cne-cpb010b-1x-us
 9/20/2020 11:46:55 PM 44,99 RON
 9/25/2020 9:20:10 AM 44,99 RON
 9/26/2020 1:49:46 PM 44,99 RON
+10/1/2020 10:00:40 AM 88,98 RON

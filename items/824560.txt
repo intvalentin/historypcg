@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-ph820-m1
 824560
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/phantom-820-matte-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/782584/824560/thumbnails/phantom-820-matte-b
 9/21/2020 7:53:06 AM 1.166,53 RON
 9/24/2020 4:15:06 PM 1.182,39 RON
 9/26/2020 8:45:07 AM 1.192,21 RON
+10/1/2020 1:51:20 PM 1.184,90 RON

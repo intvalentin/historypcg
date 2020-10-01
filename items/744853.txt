@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc-k350-kwn2-en, cacmk350kwn2
 744853
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/k350/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/744853/thumbnails/k350-131fb073f2aa7b
 9/21/2020 7:51:37 AM 266,55 RON
 9/24/2020 4:19:16 PM 266,55 RON
 9/26/2020 8:46:37 AM 266,55 RON
+10/1/2020 10:07:41 AM 266,55 RON

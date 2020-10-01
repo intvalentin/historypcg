@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-904-sl
 804733
     Product link    
 https://www.pcgarage.ro/carcase/in-win/904-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/804733/thumbnails/904-silver-3eb60470e51c4
 9/21/2020 7:53:11 AM 1.326,20 RON
 9/24/2020 4:17:11 PM 1.344,23 RON
 9/26/2020 8:45:52 AM 1.355,40 RON
+10/1/2020 1:55:58 PM 1.347,08 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-903
 794915
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-903/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1516422/794915/thumbnails/se-903-d7a19bc61ae
 9/21/2020 7:54:45 AM 103,16 RON
 9/24/2020 6:08:51 PM 105,46 RON
 9/26/2020 9:16:39 AM 105,43 RON
+10/1/2020 4:19:39 PM 104,79 RON

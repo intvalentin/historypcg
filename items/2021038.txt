@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xbox one x
 2021038
     Product link    
 https://www.pcgarage.ro/console-jocuri/microsoft/xbox-one-x-1tb-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6440/2021038/thumbnails/xbox-one-x-1tb-black
 9/21/2020 8:08:48 AM 1.727,98 RON
 9/25/2020 8:58:08 AM 1.729,98 RON
 9/26/2020 1:27:36 PM 1.733,98 RON
+9/30/2020 10:02:26 PM 1.733,98 RON

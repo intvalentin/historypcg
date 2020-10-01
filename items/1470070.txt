@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-214c-r
 1470070
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-214c-r/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457334/1470070/thumbnails/se-214c-r-5d58555
 9/21/2020 7:54:53 AM 162,86 RON
 9/24/2020 6:05:10 PM 166,48 RON
 9/26/2020 9:11:02 AM 166,45 RON
+10/1/2020 4:31:37 PM 165,42 RON

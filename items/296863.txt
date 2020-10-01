@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps5x performa
 296863
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps5x-performa/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/296863/thumbnails/cnps5x-performa-8393f8ab
 9/21/2020 7:54:07 AM 100,23 RON
 9/24/2020 5:38:47 PM 102,46 RON
 9/26/2020 9:02:50 AM 102,43 RON
+10/1/2020 3:04:54 PM 101,81 RON

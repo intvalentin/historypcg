@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stream2r
 1523506
     Product link    
 https://www.pcgarage.ro/carcase/id-cooling/stream-2-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1420862/1523506/thumbnails/id-cooling-stream
 9/21/2020 7:50:05 AM 986,62 RON
 9/24/2020 2:50:25 PM 1.000,03 RON
 9/26/2020 8:18:14 AM 1.008,34 RON
+10/1/2020 8:19:05 AM 1.002,15 RON

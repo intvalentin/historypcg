@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xt-01b-350gpb
 1427706
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/mesh-series-xt-01b-350gpb-350w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427586/1427706/thumbnails/mesh-series-xt-01
 9/21/2020 7:51:51 AM 324,99 RON
 9/24/2020 3:56:24 PM 330,89 RON
 9/26/2020 8:39:10 AM 331,33 RON
+9/30/2020 10:35:19 PM 329,41 RON

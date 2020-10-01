@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1a5-00m1nn-00
 964171
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/urban-t31/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/964171/thumbnails/urban-t31-3fb950adc
 9/21/2020 7:52:24 AM 497,99 RON
 9/24/2020 4:13:01 PM 504,76 RON
 9/26/2020 8:44:23 AM 508,96 RON
+10/1/2020 12:16:30 PM 505,83 RON

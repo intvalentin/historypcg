@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_stratxlwin
 1152268
     Product link    
 https://www.pcgarage.ro/gamepad/steelseries/stratus-xl-wireless-pentru-windows-android/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/853128/1152268/thumbnails/stratus-xl-wireles
 9/21/2020 8:09:19 AM 262,78 RON
 9/25/2020 9:04:01 AM 262,78 RON
 9/26/2020 1:33:32 PM 262,78 RON
+9/30/2020 10:37:12 PM 262,78 RON

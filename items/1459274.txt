@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc-pirate
 1459274
     Product link    
 https://www.pcgarage.ro/carcase/spacer/pirate-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1155213/1459274/thumbnails/pirate-500w-a9fa0
 9/21/2020 7:50:58 AM 140,99 RON
 9/24/2020 3:42:16 PM 142,91 RON
 9/26/2020 8:36:56 AM 144,09 RON
+10/1/2020 8:50:33 AM 143,21 RON

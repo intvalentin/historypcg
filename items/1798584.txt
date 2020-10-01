@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b-42
 1798584
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/b-42/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6361/1798584/thumbnails/b-42-b8aa8c51dc58a3b
 9/21/2020 7:49:14 AM 86,68 RON
 9/24/2020 2:38:11 PM 87,86 RON
 9/26/2020 8:15:17 AM 88,59 RON
+9/30/2020 9:49:54 PM 88,05 RON

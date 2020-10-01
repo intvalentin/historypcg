@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec416psc_wt, geph-043
 1191001
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400s-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088254/1191001/thumbnails/eclipse-p400s-whi
 9/21/2020 7:52:10 AM 409,99 RON
 9/24/2020 4:02:37 PM 409,99 RON
 9/26/2020 8:40:40 AM 409,99 RON
+10/1/2020 11:51:37 AM 409,99 RON

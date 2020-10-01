@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1g4-00m1wn-06
 1761672
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p3-tempered-glass/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1153/1761672/thumbnails/core-p3-tempered-gla
 9/21/2020 7:52:38 AM 645,75 RON
 9/24/2020 3:17:21 PM 654,53 RON
 9/26/2020 8:27:56 AM 659,97 RON
+10/1/2020 12:55:46 PM 655,91 RON

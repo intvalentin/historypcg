@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stream1b
 1523450
     Product link    
 https://www.pcgarage.ro/carcase/id-cooling/stream-1-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457254/1523450/thumbnails/id-cooling-stream
 9/21/2020 7:52:52 AM 775,41 RON
 9/24/2020 3:38:07 PM 785,95 RON
 9/26/2020 8:35:26 AM 792,48 RON
+10/1/2020 1:15:00 PM 787,61 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e7-00m1wn-03
 1456634
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p5-tempered-glass-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301253/1456634/thumbnails/core-p5-tempered-
 9/21/2020 7:53:11 AM 1.233,64 RON
 9/24/2020 3:42:16 PM 1.250,41 RON
 9/26/2020 8:36:56 AM 1.260,80 RON
+10/1/2020 1:53:52 PM 1.253,06 RON

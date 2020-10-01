@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011181-ww
 1964554
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-series-275r-airflow-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1964554/thumbnails/carbide-series-27
 9/21/2020 7:50:38 AM 377,09 RON
 9/24/2020 3:04:54 PM 384,06 RON
 9/26/2020 8:23:27 AM 384,64 RON
+10/1/2020 7:36:29 AM 382,17 RON

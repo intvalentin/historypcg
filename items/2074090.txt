@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5481100012
 2074090
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/one-plus/bullets-wireless-z-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4525/2074090/thumbnails/bullets-wireless-z-b
 9/20/2020 11:46:28 PM 269,99 RON
 9/25/2020 9:13:31 AM 269,99 RON
 9/26/2020 1:43:07 PM 269,99 RON
+10/1/2020 8:51:09 AM 269,99 RON

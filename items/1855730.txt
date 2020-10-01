@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-gs-mch6n-fzn-a
 1855730
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/fryzen/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848774/1855730/thumbnails/fryzen-e9b95c322e
 9/21/2020 7:53:45 AM 509,32 RON
 9/24/2020 5:28:26 PM 509,32 RON
 9/26/2020 8:59:09 AM 509,32 RON
+10/1/2020 3:38:42 PM 509,32 RON

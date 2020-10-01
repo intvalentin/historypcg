@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec400atg_dwt01
 2048110
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400a-digital-rgb-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2048110/thumbnails/eclipse-p400a-whi
 9/21/2020 7:50:18 AM 449,99 RON
 9/24/2020 2:05:16 PM 449,99 RON
 9/25/2020 10:53:56 PM 449,99 RON
+10/1/2020 12:01:26 PM 449,99 RON

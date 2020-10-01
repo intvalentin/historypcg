@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcb-b511d-kann-s01
 1720156
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-mb511-black-window/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1703884/1720156/thumbnails/masterbox-mb511-b
 9/21/2020 7:51:42 AM 278,65 RON
 9/24/2020 3:19:26 PM 282,44 RON
 9/26/2020 8:29:25 AM 284,79 RON
+10/1/2020 10:17:57 AM 283,04 RON

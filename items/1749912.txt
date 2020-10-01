@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-212s-20pk-r1
 1749912
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/master-hyper-212-black-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1749840/1749912/thumbnails/master-hyper-212-
 9/21/2020 7:53:45 AM 214,58 RON
 9/24/2020 5:32:34 PM 212,18 RON
 9/26/2020 9:00:38 AM 210,98 RON
+10/1/2020 4:42:59 PM 211,58 RON

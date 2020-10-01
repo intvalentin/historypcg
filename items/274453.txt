@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc-550-kkn1
 274453
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/silencio-550/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/274453/thumbnails/silencio-550-7af0807392f
 9/21/2020 7:50:38 AM 456,17 RON
 9/24/2020 4:27:33 PM 456,17 RON
 9/26/2020 8:49:36 AM 456,17 RON
+10/1/2020 12:03:06 PM 456,17 RON

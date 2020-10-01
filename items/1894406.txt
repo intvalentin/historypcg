@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmvisionrc
 1894406
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/vision-rc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1275/1894406/thumbnails/vision-rc-c822e28b5a
 9/21/2020 7:49:51 AM 449,23 RON
 9/24/2020 2:34:04 PM 449,23 RON
 9/26/2020 8:13:49 AM 449,23 RON
+10/1/2020 7:44:34 AM 449,23 RON

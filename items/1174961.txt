@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |seat slider
 1174961
     Product link    
 https://www.pcgarage.ro/accesorii-volane/playseat/seat-slider/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1053670/1174961/thumbnails/seat-slider-f52cf
 9/21/2020 8:09:39 AM 246,52 RON
 9/25/2020 9:06:57 AM 246,52 RON
 9/26/2020 1:37:12 PM 246,52 RON
+10/1/2020 7:47:54 AM 246,52 RON

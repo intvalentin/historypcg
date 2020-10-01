@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200025
 1526242
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/styx-black-window/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1408706/1526242/thumbnails/styx-black-window
 9/21/2020 7:52:29 AM 542,67 RON
 9/24/2020 3:36:02 PM 543,34 RON
 9/26/2020 8:34:40 AM 544,24 RON
+10/1/2020 12:37:18 PM 544,41 RON

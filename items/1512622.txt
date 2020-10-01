@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-focus-wt-w
 1512622
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/focus-g-white-window/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469770/1512622/thumbnails/focus-g-white-win
 9/21/2020 7:49:41 AM 295,02 RON
 9/24/2020 2:50:25 PM 295,02 RON
 9/26/2020 8:18:14 AM 295,02 RON
+9/30/2020 10:29:36 PM 295,02 RON

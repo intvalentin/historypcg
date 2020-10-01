@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scylla120
 1946566
     Product link    
 https://www.pcgarage.ro/coolere/xigmatek/scylla-120/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1946566/thumbnails/scylla-120-fa2bb4841
 9/21/2020 7:54:58 AM 206,73 RON
 9/24/2020 5:50:59 PM 207,33 RON
 9/26/2020 9:05:04 AM 207,45 RON
+10/1/2020 4:42:11 PM 207,22 RON

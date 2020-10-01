@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sgc-5000-kkn1
 292253
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/trooper/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/292253/thumbnails/trooper-5914d99b9d8e9536
 9/21/2020 7:53:02 AM 931,16 RON
 9/24/2020 4:25:28 PM 931,16 RON
 9/26/2020 8:49:36 AM 931,16 RON
+10/1/2020 1:29:40 PM 931,16 RON

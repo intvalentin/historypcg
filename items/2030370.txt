@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mlpr2+-+32gb
 2030370
     Product link    
 https://www.pcgarage.ro/carduri-memorie/kingston/sdhc-uhs-ii-u3-canvas-react-plus-32gb-clasa-10-plus-cititor-usb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2030370/thumbnails/sdhc-uhs-ii-u3-canva
 9/20/2020 11:47:53 PM 145,12 RON
 9/25/2020 9:28:14 AM 146,30 RON
 9/26/2020 1:55:41 PM 147,53 RON
+10/1/2020 11:26:29 AM 146,82 RON

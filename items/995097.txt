@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ix-03b-op
 995097
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/compact-series-ix-03b/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/995097/thumbnails/ix-03b-90w-90w-52fa
 9/21/2020 7:49:32 AM 141,15 RON
 9/24/2020 2:56:35 PM 143,70 RON
 9/26/2020 8:20:28 AM 144,00 RON
+9/30/2020 9:57:48 PM 143,10 RON

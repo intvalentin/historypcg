@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1g4-00m1wn-00
 1430086
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1420862/1430086/thumbnails/core-p3-d4c7b9e4f
 9/21/2020 7:52:38 AM 618,15 RON
 9/24/2020 3:56:24 PM 626,55 RON
 9/26/2020 8:38:25 AM 631,76 RON
+10/1/2020 12:50:04 PM 627,88 RON

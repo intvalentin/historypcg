@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcc-c700m-mg5n-s00
 1754436
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/cosmos-c700m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1749840/1754436/thumbnails/cosmos-c700m-072a
 9/21/2020 7:49:00 AM 2.334,35 RON
 9/24/2020 2:44:15 PM 2.366,09 RON
 9/26/2020 8:16:01 AM 2.385,74 RON
+10/1/2020 8:35:06 AM 2.371,10 RON

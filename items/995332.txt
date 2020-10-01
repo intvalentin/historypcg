@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_gpxlbackbk
 995332
     Product link    
 https://www.pcgarage.ro/gamepad/thrustmaster/gpx-lightback-black-edition-pentru-pc-xbox-360/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/995332/thumbnails/gpx-lightback-black-edit
 9/21/2020 8:09:19 AM 150,72 RON
 9/25/2020 9:04:01 AM 150,72 RON
 9/26/2020 1:33:32 PM 150,72 RON
+9/30/2020 10:35:33 PM 150,72 RON

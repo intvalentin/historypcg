@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1i9-00f1wn-00
 1695696
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/view-91-tempered-glass-rgb-edition/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691852/1695696/thumbnails/view-91-tempered-
 9/21/2020 7:53:11 AM 1.947,61 RON
 9/24/2020 3:23:34 PM 1.974,09 RON
 9/26/2020 8:30:10 AM 1.990,49 RON
+10/1/2020 1:59:32 PM 1.978,28 RON

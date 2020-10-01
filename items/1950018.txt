@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bg034
 1950018
     Product link    
 https://www.pcgarage.ro/carcase/be-quiet/pure-base-500-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1950018/thumbnails/pure-base-500-black-
 9/21/2020 7:49:17 AM 375,49 RON
 9/24/2020 2:29:57 PM 371,57 RON
 9/26/2020 8:12:20 AM 369,40 RON
+10/1/2020 7:33:41 AM 371,14 RON

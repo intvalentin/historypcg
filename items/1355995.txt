@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s2-500-bk
 1355995
     Product link    
 https://www.pcgarage.ro/carcase/segotep/s2-500w-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/1355995/thumbnails/s2-500w-negru-52c0
 9/21/2020 7:51:09 AM 156,41 RON
 9/24/2020 4:00:33 PM 158,54 RON
 9/26/2020 8:39:55 AM 159,85 RON
+10/1/2020 8:59:11 AM 158,87 RON

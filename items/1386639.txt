@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mae120tr
 1386639
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/maelstrom-120t-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/1386639/thumbnails/maelstrom-120t-red
 9/21/2020 7:55:07 AM 274,18 RON
 9/24/2020 6:06:38 PM 280,27 RON
 9/26/2020 9:14:25 AM 280,21 RON
+10/1/2020 5:01:01 PM 278,49 RON

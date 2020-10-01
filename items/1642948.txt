@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k1-bk
 1642948
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/k1-black-case/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/922/1642948/thumbnails/inter-tech-k1-black-c
 9/21/2020 7:50:43 AM 208,52 RON
 9/24/2020 3:27:44 PM 211,36 RON
 9/26/2020 8:31:40 AM 213,11 RON
+10/1/2020 9:23:56 AM 211,80 RON

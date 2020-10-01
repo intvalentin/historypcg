@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpcs-a000uvn-bl01b
 1660612
     Product link    
 https://www.pcgarage.ro/carcase/njoy/vanguard/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5286/1660612/thumbnails/vanguard-099f13b1f9c
 9/21/2020 7:49:04 AM 229,06 RON
 9/24/2020 3:25:39 PM 230,90 RON
 9/26/2020 8:30:55 AM 232,88 RON
+10/1/2020 9:48:57 AM 231,73 RON

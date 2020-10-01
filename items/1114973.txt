@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |baymini-bk
 1114973
     Product link    
 https://www.pcgarage.ro/carcase/segotep/baymini-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862960/1114973/thumbnails/baymini-black-3afb
 9/21/2020 7:50:58 AM 119,67 RON
 9/24/2020 4:06:47 PM 121,30 RON
 9/26/2020 8:42:11 AM 122,31 RON
+10/1/2020 8:44:05 AM 121,56 RON

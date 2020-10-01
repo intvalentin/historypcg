@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wl3-00061
 1582442
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-s-wireless-controller-grey-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1500686/1582442/thumbnails/xbox-one-s-wirele
 9/21/2020 8:09:19 AM 349,99 RON
 9/25/2020 9:03:17 AM 349,99 RON
 9/26/2020 1:33:32 PM 349,99 RON
+9/30/2020 10:38:02 PM 349,99 RON

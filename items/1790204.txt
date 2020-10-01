@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |55030353
 1790204
     Product link    
 https://www.pcgarage.ro/incarcatoare-wireless-gsm/huawei/cp60-wireless-qi-quick-charge-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6440/1790204/thumbnails/cp60-wireless-qi-qui
 9/20/2020 11:49:12 PM 261,06 RON
 9/25/2020 9:42:16 AM 261,06 RON
 9/26/2020 2:10:24 PM 261,06 RON
+10/1/2020 1:31:50 PM 261,06 RON

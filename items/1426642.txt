@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011086-ww
 1426642
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-88r/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1416562/1426642/thumbnails/carbide-88r-48afc
 9/21/2020 7:49:41 AM 262,13 RON
 9/24/2020 2:52:29 PM 267,00 RON
 9/26/2020 8:18:58 AM 267,29 RON
+9/30/2020 10:23:56 PM 265,67 RON

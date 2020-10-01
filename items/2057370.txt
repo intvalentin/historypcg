@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dk-03i-pwm-red
 2057370
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/dk-03i-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2057370/thumbnails/dk-03i-red-56ccfc761
 9/21/2020 7:53:56 AM 39,31 RON
 9/24/2020 4:46:06 PM 39,84 RON
 9/26/2020 8:56:13 AM 40,17 RON
+10/1/2020 2:57:10 PM 39,93 RON

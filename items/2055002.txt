@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217463271
 2055002
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/swissten/slim-2x-usb-3a-black-cu-tehnologia-smart-ic-plus-cablu-microusb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2055002/thumbnails/slim-2x-usb-3a-black
 9/20/2020 11:48:27 PM 83,98 RON
 9/25/2020 9:33:25 AM 83,98 RON
 9/26/2020 2:00:52 PM 83,98 RON
+10/1/2020 12:08:02 PM 83,98 RON

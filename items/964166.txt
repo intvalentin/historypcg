@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1b8-00s1wn-00
 964166
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-v1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/929099/964166/thumbnails/core-v1-c789b6c6b28
 9/21/2020 7:51:28 AM 243,16 RON
 9/24/2020 4:13:01 PM 246,47 RON
 9/26/2020 8:44:23 AM 248,52 RON
+10/1/2020 9:57:38 AM 246,99 RON

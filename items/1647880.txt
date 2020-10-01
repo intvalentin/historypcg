@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcy-b5p2-kwgn-02
 1647880
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/masterbox-pro-5-rgb-w-controller/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5633/1647880/thumbnails/cooler-master-comput
 9/21/2020 7:52:15 AM 437,20 RON
 9/24/2020 3:27:44 PM 443,14 RON
 9/26/2020 8:31:40 AM 446,83 RON
+10/1/2020 12:00:53 PM 444,08 RON

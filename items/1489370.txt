@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rtowert3-bk
 1489370
     Product link    
 https://www.pcgarage.ro/carcase/segotep/raynor-tower-t3-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1355434/1489370/thumbnails/raynor-tower-t3-b
 9/21/2020 7:49:51 AM 450,41 RON
 9/24/2020 2:50:25 PM 456,53 RON
 9/26/2020 8:18:14 AM 460,32 RON
+10/1/2020 7:48:15 AM 457,50 RON

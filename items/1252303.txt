@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a2310021, ea-a2310h21, a2310022
 1252303
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/anker/auto-powerdrive-2-21a-white-2x-usb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/746930/1252303/thumbnails/auto-powerdrive-2-
 9/20/2020 11:48:45 PM 49,98 RON
 9/25/2020 9:40:04 AM 49,98 RON
 9/26/2020 2:08:11 PM 49,98 RON
+10/1/2020 12:57:55 PM 49,98 RON

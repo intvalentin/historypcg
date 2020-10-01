@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h120
 1969182
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/alseye-h120-rainbow/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/8977/1969182/thumbnails/alseye-h120-halo-rgb
 9/24/2020 4:50:14 PM 259,72 RON
 9/24/2020 4:52:17 PM 259,72 RON
 9/26/2020 8:58:25 AM 261,88 RON
+10/1/2020 3:19:00 PM 260,27 RON

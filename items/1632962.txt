@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dev01-bo
 1632962
     Product link    
 https://www.pcgarage.ro/carcase/inaza/devastator-black-orange/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1632962/thumbnails/devastator-black-
 9/21/2020 7:52:01 AM 364,99 RON
 9/24/2020 3:29:48 PM 364,99 RON
 9/26/2020 8:32:25 AM 364,99 RON
+10/1/2020 11:28:30 AM 364,99 RON

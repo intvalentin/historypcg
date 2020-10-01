@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200057
 1525970
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/metis-plus-silver-window/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355324/1525970/thumbnails/metis-plus-silver
 9/21/2020 7:52:10 AM 391,75 RON
 9/24/2020 3:36:02 PM 392,22 RON
 9/26/2020 8:34:40 AM 392,87 RON
+10/1/2020 11:45:22 AM 393,00 RON

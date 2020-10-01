@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pa-t15
 1951462
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/aukey/pa-t15-5x-usb-3a-black-tehnologia-quick-charge-30-si-aipower/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1951462/thumbnails/pa-t15-5x-usb-3a-bla
 9/20/2020 11:48:32 PM 173,98 RON
 9/25/2020 9:34:10 AM 232,98 RON
 9/26/2020 2:02:16 PM 232,98 RON
+10/1/2020 12:17:50 PM 232,98 RON

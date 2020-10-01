@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1645308
 1864838
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/bang-amp-olufsen/beoplay-e6-motion-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1864838/thumbnails/beoplay-e6-motion-wh
 9/20/2020 11:46:42 PM 1.060,98 RON
 9/25/2020 9:17:13 AM 1.060,98 RON
 9/26/2020 1:46:50 PM 1.060,98 RON
+10/1/2020 9:23:41 AM 1.060,98 RON

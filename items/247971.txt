@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-ie400xt
 247971
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/iceedge-400-xt/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/247971/thumbnails/iceedge-400-xt-5c4a36798
 9/21/2020 7:54:53 AM 168,14 RON
 9/24/2020 6:11:05 PM 171,88 RON
 9/26/2020 9:18:52 AM 171,84 RON
+10/1/2020 4:33:33 PM 170,79 RON

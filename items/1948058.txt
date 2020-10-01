@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |talos-m1a
 1948058
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/carcasa-gamdias-talos-m1a-neagra/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1948058/thumbnails/m1a-e4c13f7b6e767678
 9/21/2020 7:48:43 AM 314,21 RON
 9/24/2020 2:09:21 PM 318,49 RON
 9/26/2020 8:24:12 AM 401,41 RON
+10/1/2020 11:48:51 AM 398,95 RON

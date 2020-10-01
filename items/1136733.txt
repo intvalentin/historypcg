@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_t500rsgt
 1136733
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/t500rs-gt-pentru-pc-ps3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862955/1136733/thumbnails/t500rs-gt-pentru-p
 9/21/2020 8:09:33 AM 2.314,54 RON
 9/25/2020 9:06:12 AM 2.314,54 RON
 9/26/2020 1:35:42 PM 2.314,54 RON
+10/1/2020 7:43:52 AM 2.314,54 RON

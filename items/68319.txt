@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-005039
 68319
     Product link    
 https://www.pcgarage.ro/gamepad/logitech/g13-advanced-gameboard/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/68319/thumbnails/logitechg135610x494.jpg
 9/21/2020 8:09:24 AM 417,98 RON
 9/25/2020 9:04:43 AM 423,98 RON
 9/26/2020 1:34:15 PM 421,98 RON
+10/1/2020 7:29:10 AM 421,98 RON

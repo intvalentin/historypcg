@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-050-co1otn-c1
 1513358
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/thermaltake/tt-premium-pci-e-30-extender-600mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427586/1513358/thumbnails/tt-premium-pci-e-
 9/21/2020 7:53:36 AM 403,60 RON
 9/24/2020 4:37:52 PM 409,09 RON
 9/26/2020 8:53:18 AM 412,49 RON
+10/1/2020 2:33:57 PM 409,96 RON

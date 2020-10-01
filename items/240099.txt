@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-2000b-bk
 240099
     Product link    
 https://www.pcgarage.ro/carcase/super-flower/sf-2000b-bk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/240099/thumbnails/sf-2000b-black-d8b24eaf1
 9/21/2020 7:52:38 AM 627,90 RON
 9/24/2020 4:29:35 PM 636,44 RON
 9/26/2020 8:50:20 AM 641,73 RON
+10/1/2020 12:53:01 PM 637,79 RON

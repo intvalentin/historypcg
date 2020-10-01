@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |airhawk-g-bk-v1
 2062954
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/air-hawk/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2062954/thumbnails/air-hawk-42a4a1005bc
 9/21/2020 7:49:41 AM 286,63 RON
 9/24/2020 2:17:33 PM 290,53 RON
 9/25/2020 10:58:23 PM 292,94 RON
+9/30/2020 10:28:46 PM 291,15 RON

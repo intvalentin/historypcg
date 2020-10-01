@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mecha-g-bk-v2
 2068014
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/mecha-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068014/thumbnails/mecha-argb-f2a7a5d0c
 9/21/2020 7:49:36 AM 187,84 RON
 9/24/2020 2:17:33 PM 190,40 RON
 9/25/2020 10:57:38 PM 191,98 RON
+9/30/2020 10:06:12 PM 190,80 RON

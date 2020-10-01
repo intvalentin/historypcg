@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmraidx
 2043698
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/raider-x/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2043698/thumbnails/raider-x-a5423158
 9/21/2020 7:50:00 AM 742,96 RON
 9/24/2020 2:19:38 PM 742,96 RON
 9/25/2020 10:59:07 PM 742,96 RON
+10/1/2020 8:09:34 AM 742,96 RON

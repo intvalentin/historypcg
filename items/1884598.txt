@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2516h11, ea-a2516g11
 1884598
     Product link    
 https://www.pcgarage.ro/incarcatoare-wireless-gsm/anker/powertouch-universal-wireless-5w-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1798/1884598/thumbnails/powertouch-universal
 9/20/2020 11:49:12 PM 98,28 RON
 9/25/2020 9:42:16 AM 98,56 RON
 9/26/2020 2:10:24 PM 98,62 RON
+10/1/2020 1:26:56 PM 98,52 RON

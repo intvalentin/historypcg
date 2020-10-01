@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-631b
 260781
     Product link    
 https://www.pcgarage.ro/carcase/segotep/sg-631b-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/260781/thumbnails/sg-631b-blue-74e9d6b5f6a
 9/21/2020 7:50:53 AM 106,22 RON
 9/24/2020 4:27:33 PM 107,66 RON
 9/26/2020 8:49:36 AM 108,56 RON
+10/1/2020 8:39:47 AM 107,89 RON

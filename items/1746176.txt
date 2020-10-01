@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-h500m-ihnn-s00
 1746176
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mastercase-h500m-iron-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1746176/thumbnails/mastercase-h500m-
 9/21/2020 7:48:52 AM 1.082,40 RON
 9/24/2020 2:44:15 PM 1.097,11 RON
 9/26/2020 8:16:01 AM 1.106,23 RON
+10/1/2020 8:22:17 AM 1.099,44 RON

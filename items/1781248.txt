@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atxlcs-nark90mc
 1781248
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/new-ark-90mc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1781248/thumbnails/new-ark-90mc-4f4bfc3
 9/21/2020 7:50:09 AM 1.368,62 RON
 9/24/2020 2:38:11 PM 1.387,23 RON
 9/26/2020 8:15:17 AM 1.398,75 RON
+10/1/2020 8:33:58 AM 1.390,16 RON

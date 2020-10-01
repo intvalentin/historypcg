@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-and-rd
 1152398
     Product link    
 https://www.pcgarage.ro/carcase/segotep/and-black-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025741/1152398/thumbnails/and-black-red-897
 9/21/2020 7:50:53 AM 92,88 RON
 9/24/2020 4:04:42 PM 92,88 RON
 9/26/2020 8:41:24 AM 92,88 RON
+10/1/2020 8:38:56 AM 92,88 RON

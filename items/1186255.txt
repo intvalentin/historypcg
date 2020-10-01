@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a1271h11, ea-a1271011, a1271012, a1271g11
 1186255
     Product link    
 https://www.pcgarage.ro/baterii-externe/anker/powercore-20100-mah-48a-2x-usb-black-tehnologia-poweriq/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/1186255/thumbnails/powercore-20100-ma
 9/20/2020 11:46:55 PM 159,99 RON
 9/25/2020 9:20:10 AM 159,99 RON
 9/26/2020 1:49:45 PM 159,99 RON
+10/1/2020 9:59:16 AM 159,99 RON

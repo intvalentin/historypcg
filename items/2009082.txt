@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-913-b
 2009082
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-913-b-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2003606/2009082/thumbnails/se-913-b-blue-a40
 9/21/2020 7:54:00 AM 63,02 RON
 9/24/2020 4:48:10 PM 63,88 RON
 9/26/2020 8:56:57 AM 64,41 RON
+10/1/2020 3:00:56 PM 64,01 RON

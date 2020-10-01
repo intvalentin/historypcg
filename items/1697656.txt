@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap16gmcsh10u1-r
 1697656
     Product link    
 https://www.pcgarage.ro/carduri-memorie/apacer/micro-sdhc-16gb-class-10-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/1697656/thumbnails/micro-sdhc-16gb-cl
 9/20/2020 11:48:02 PM 20,23 RON
 9/25/2020 9:30:25 AM 20,54 RON
 9/26/2020 1:57:53 PM 20,54 RON
+10/1/2020 11:35:18 AM 20,39 RON

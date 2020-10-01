@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_frwhredlegend
 995327
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/ferrari-racing-wheel-red-legend-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/995327/thumbnails/ferrari-racing-whee
 9/21/2020 8:09:30 AM 319,99 RON
 9/25/2020 9:06:12 AM 319,99 RON
 9/26/2020 1:35:42 PM 319,99 RON
+10/1/2020 7:39:00 AM 319,99 RON

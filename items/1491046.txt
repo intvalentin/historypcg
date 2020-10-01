@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a00028096
 1491046
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/nokia/3310-dual-sim-dark-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1301183/1491046/thumbnails/3310-dual-sim-dar
 9/20/2020 11:46:10 PM 219,98 RON
 9/25/2020 9:11:18 AM 219,98 RON
 9/26/2020 1:40:55 PM 219,98 RON
+10/1/2020 8:20:43 AM 219,98 RON

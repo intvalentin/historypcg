@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac601
 1527518
     Product link    
 https://www.pcgarage.ro/coolere/fortron/windale-6-ac601/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1527518/thumbnails/cpu-cooler-fsp-wi
 9/21/2020 7:55:03 AM 253,16 RON
 9/24/2020 6:03:43 PM 255,20 RON
 9/26/2020 9:09:33 AM 257,36 RON
+10/1/2020 4:55:08 PM 255,72 RON

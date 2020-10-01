@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-p022-al12bu-a
 1360551
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/riing-silent-12-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1175596/1360551/thumbnails/riing-silent-12-b
 9/21/2020 7:54:28 AM 227,00 RON
 9/24/2020 6:06:38 PM 232,04 RON
 9/26/2020 9:14:25 AM 231,99 RON
+10/1/2020 4:48:38 PM 230,57 RON

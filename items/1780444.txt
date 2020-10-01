@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-h12rf-gl120rgb
 1780444
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/gammaxx-l120/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1780444/thumbnails/gammaxx-l120-f80719b4
 9/21/2020 7:55:07 AM 289,84 RON
 9/24/2020 5:55:07 PM 296,29 RON
 9/26/2020 9:06:34 AM 296,22 RON
+10/1/2020 5:05:07 PM 294,41 RON

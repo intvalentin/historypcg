@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |syps4ds4v2green
 1445838
     Product link    
 https://www.pcgarage.ro/gamepad/sony/dualshock-4-camouflage-v2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1169071/1445838/thumbnails/dualshock-4-camou
 9/21/2020 8:09:05 AM 279,99 RON
 9/25/2020 9:01:03 AM 279,99 RON
 9/26/2020 1:30:34 PM 279,99 RON
+9/30/2020 10:19:53 PM 279,99 RON

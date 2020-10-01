@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cagmares
 1887922
     Product link    
 https://www.pcgarage.ro/carcase/gamemax/ares/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1885090/1887922/thumbnails/ares-e4ed8852b50b
 9/21/2020 7:50:33 AM 201,23 RON
 9/24/2020 3:09:03 PM 201,23 RON
 9/26/2020 8:25:41 AM 201,23 RON
+10/1/2020 9:19:23 AM 201,23 RON

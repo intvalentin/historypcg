@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0045496890421
 455203
     Product link    
 https://www.pcgarage.ro/gamepad/nintendo/wii-classic-controller-pro-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/455203/thumbnails/wii-classic-controller-p
 9/21/2020 8:09:19 AM 143,98 RON
 9/25/2020 9:04:43 AM 143,98 RON
 9/26/2020 1:34:15 PM 143,98 RON
+9/30/2020 10:35:16 PM 143,98 RON

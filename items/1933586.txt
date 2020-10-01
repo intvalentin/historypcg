@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51ef0830aa001
 1933586
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/creative/outlier-air-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1933586/thumbnails/outlier-air-black-62
 9/20/2020 11:46:28 PM 349,00 RON
 9/25/2020 9:13:31 AM 349,00 RON
 9/26/2020 1:43:07 PM 349,00 RON
+10/1/2020 8:51:26 AM 349,00 RON

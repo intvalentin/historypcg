@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-acc-flex-vrc-25-bk
 1742504
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/fractal-design/flex-vrc-25-riser-card-cable-for-define-r6/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6748/1742504/thumbnails/flex-vrc-25-riser-ca
 9/21/2020 7:53:27 AM 248,59 RON
 9/24/2020 4:31:40 PM 248,59 RON
 9/26/2020 8:51:05 AM 248,59 RON
+10/1/2020 2:19:02 PM 248,59 RON

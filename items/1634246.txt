@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-es217e_ag
 1634246
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/enthoo-evolv-shift-mini-itx-glass-anthracite-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1634078/1634246/thumbnails/enthoo-evolv-shif
 9/21/2020 7:52:24 AM 519,99 RON
 9/24/2020 3:29:48 PM 519,99 RON
 9/26/2020 8:32:25 AM 519,99 RON
+10/1/2020 12:33:43 PM 519,99 RON

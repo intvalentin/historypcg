@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apollo-e2
 2060662
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/apollo-e2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2060662/thumbnails/apollo-e2-63b9929a93
 9/21/2020 7:48:39 AM 238,50 RON
 9/24/2020 2:17:33 PM 241,74 RON
 9/25/2020 10:58:23 PM 243,75 RON
+9/30/2020 10:16:56 PM 242,25 RON

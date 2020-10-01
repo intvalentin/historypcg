@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec416psc_bk
 1191019
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400s-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/800612/1191019/thumbnails/eclipse-p400s-blac
 9/21/2020 7:50:13 AM 389,99 RON
 9/24/2020 2:15:28 PM 389,99 RON
 9/25/2020 10:56:51 PM 389,99 RON
+9/30/2020 9:41:51 PM 389,99 RON

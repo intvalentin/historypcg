@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acc-iu2h00r-1
 1701184
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/thermaltake/h200-internal-usb-hub/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1701184/thumbnails/h200-internal-usb
 9/21/2020 7:53:27 AM 134,56 RON
 9/24/2020 4:37:52 PM 136,39 RON
 9/26/2020 8:53:18 AM 137,52 RON
+10/1/2020 2:31:30 PM 136,67 RON

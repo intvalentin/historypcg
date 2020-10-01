@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stbd2000103
 1600314
     Product link    
 https://www.pcgarage.ro/hdd-notebook/seagate/game-drive-for-ps4-2tb-sata-iii-5400rpm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469694/1600314/thumbnails/game-drive-for-ps
 9/20/2020 11:11:12 PM 617,98 RON
 9/25/2020 9:09:49 AM 625,98 RON
 9/26/2020 1:39:26 PM 629,98 RON
+10/1/2020 8:15:51 AM 627,98 RON

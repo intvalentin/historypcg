@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00074a
 2037870
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/freezer-34-esports-duo-grey-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2037870/thumbnails/freezer-34-esport
 9/21/2020 7:53:43 AM 244,76 RON
 9/24/2020 4:48:10 PM 245,05 RON
 9/26/2020 8:56:57 AM 245,60 RON
+10/1/2020 3:18:11 PM 245,34 RON

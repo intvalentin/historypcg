@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-x1-bk
 1658364
     Product link    
 https://www.pcgarage.ro/carcase/segotep/x1-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5286/1658364/thumbnails/x1-black-b21ebff8cb2
 9/21/2020 7:49:04 AM 164,87 RON
 9/24/2020 2:48:22 PM 167,11 RON
 9/26/2020 8:17:30 AM 168,50 RON
+9/30/2020 10:02:40 PM 167,47 RON

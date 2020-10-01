@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-sw810-m1
 824535
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/switch-810-matte-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/824535/thumbnails/switch-810-matte-bl
 9/21/2020 7:52:52 AM 772,01 RON
 9/24/2020 4:15:06 PM 782,51 RON
 9/26/2020 8:45:07 AM 789,01 RON
+10/1/2020 1:13:38 PM 784,17 RON

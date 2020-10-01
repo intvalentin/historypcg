@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474721846
 2066678
     Product link    
 https://www.pcgarage.ro/baterii-externe/hoco/j59a-20000-mah-2x-usb-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2066678/thumbnails/j59a-20000-mah-2x-us
 9/20/2020 11:46:59 PM 119,99 RON
 9/25/2020 9:19:25 AM 119,99 RON
 9/26/2020 1:49:02 PM 119,99 RON
+10/1/2020 9:55:13 AM 69,99 RON

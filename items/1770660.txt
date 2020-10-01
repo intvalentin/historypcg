@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm3-00012
 1770660
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-wireless-controller-elite-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1770660/thumbnails/xbox-one-wireless
 9/21/2020 8:09:24 AM 669,98 RON
 9/25/2020 9:02:32 AM 669,98 RON
 9/26/2020 1:32:03 PM 669,98 RON
+10/1/2020 7:30:47 AM 669,98 RON

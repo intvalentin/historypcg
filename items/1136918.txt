@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-214x
 1136918
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-214x/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1094679/1136918/thumbnails/se-214x-0e03e6fcb
 9/21/2020 7:54:53 AM 162,25 RON
 9/24/2020 6:07:22 PM 165,85 RON
 9/26/2020 9:15:10 AM 165,82 RON
+10/1/2020 4:30:19 PM 164,80 RON

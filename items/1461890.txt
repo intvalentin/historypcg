@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc-moon
 1461890
     Product link    
 https://www.pcgarage.ro/carcase/spacer/moon-230w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1152773/1461890/thumbnails/moon-450w-041cf12
 9/21/2020 7:50:38 AM 118,87 RON
 9/24/2020 3:40:11 PM 120,49 RON
 9/26/2020 8:36:11 AM 121,49 RON
+10/1/2020 8:43:33 AM 120,75 RON

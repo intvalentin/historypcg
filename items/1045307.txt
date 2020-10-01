@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_t80rw
 1045307
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/t80-racing-wheel-pentru-ps3-ps4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1045307/thumbnails/t80-racing-wheel-p
 9/21/2020 8:09:30 AM 449,98 RON
 9/25/2020 9:06:12 AM 449,98 RON
 9/26/2020 1:35:42 PM 449,98 RON
+10/1/2020 7:40:05 AM 449,98 RON

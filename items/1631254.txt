@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpntl12s
 1631254
     Product link    
 https://www.pcgarage.ro/coolere/noctua/nh-l12s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3207/1631254/thumbnails/nh-l12s-3cf84da2d341
 9/21/2020 7:53:48 AM 324,53 RON
 9/24/2020 5:34:38 PM 324,53 RON
 9/26/2020 9:00:38 AM 324,53 RON
+10/1/2020 3:25:46 PM 324,53 RON

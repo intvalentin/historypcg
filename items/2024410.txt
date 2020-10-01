@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22258
 2024410
     Product link    
 https://www.pcgarage.ro/gamepad/trust/gxt-590-bosi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2024410/thumbnails/gxt-590-bosi-41f49d4
 9/21/2020 8:09:15 AM 135,98 RON
 9/25/2020 9:01:48 AM 135,98 RON
 9/26/2020 1:31:18 PM 135,98 RON
+9/30/2020 10:34:00 PM 135,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blade-bk
 1097679
     Product link    
 https://www.pcgarage.ro/carcase/segotep/blade-black-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025741/1097679/thumbnails/blade-black-4e721
 9/21/2020 7:51:09 AM 161,69 RON
 9/24/2020 4:08:52 PM 161,29 RON
 9/26/2020 8:42:54 AM 162,63 RON
+10/1/2020 9:02:07 AM 161,63 RON

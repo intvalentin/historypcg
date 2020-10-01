@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-5916
 1989006
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/it-5916-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1989006/thumbnails/it-5916-black-beb
 9/21/2020 7:49:32 AM 161,57 RON
 9/24/2020 2:25:49 PM 163,77 RON
 9/25/2020 11:00:37 PM 162,51 RON
+9/30/2020 10:00:50 PM 161,51 RON

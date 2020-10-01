@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-101c-wh
 1621634
     Product link    
 https://www.pcgarage.ro/carcase/in-win/101c-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1594546/1621634/thumbnails/101-white-ceb2900
 9/21/2020 7:52:19 AM 467,36 RON
 9/24/2020 3:31:53 PM 473,71 RON
 9/26/2020 8:33:10 AM 477,65 RON
+10/1/2020 12:08:16 PM 474,72 RON

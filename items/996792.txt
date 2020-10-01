@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1c8-00m1wn-00
 996792
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-v31/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/812812/996792/thumbnails/core-v31-fa26e08b05
 9/21/2020 7:52:01 AM 370,22 RON
 9/24/2020 4:10:57 PM 375,26 RON
 9/26/2020 8:43:39 AM 378,37 RON
+10/1/2020 11:34:47 AM 376,05 RON

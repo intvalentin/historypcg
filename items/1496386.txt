@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011107-ww
 1496386
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-spec-04-black-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469686/1496386/thumbnails/pc-case-corsair-c
 9/21/2020 7:51:42 AM 292,82 RON
 9/24/2020 3:40:11 PM 298,28 RON
 9/26/2020 8:36:11 AM 298,57 RON
+10/1/2020 10:24:46 AM 296,80 RON

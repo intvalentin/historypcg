@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-h510i-b1
 1949522
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h510i-matte-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1949522/thumbnails/nzxt-h510i-bk-959652
 9/21/2020 7:48:48 AM 725,80 RON
 9/24/2020 2:32:00 PM 725,80 RON
 9/26/2020 8:12:20 AM 725,80 RON
+10/1/2020 8:07:44 AM 725,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-dukbk-liquid2
 1599030
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/dukase-liquid-cooling-edition/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469686/1599030/thumbnails/dukase-liquid-0e9
 9/21/2020 7:53:02 AM 903,13 RON
 9/24/2020 3:33:57 PM 915,41 RON
 9/26/2020 8:33:55 AM 923,01 RON
+10/1/2020 1:28:06 PM 917,35 RON

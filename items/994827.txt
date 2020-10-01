@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxts13a
 994827
     Product link    
 https://www.pcgarage.ro/coolere/intel/ts13a/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/994827/thumbnails/ts13a-a269845f37330
 9/21/2020 7:54:49 AM 110,97 RON
 9/24/2020 6:08:07 PM 112,47 RON
 9/26/2020 9:15:54 AM 113,43 RON
+10/1/2020 4:20:46 PM 112,72 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e1-00m1wn-02
 1415826
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/suppressor-f51-power-cover-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1190677/1415826/thumbnails/suppressor-f51-po
 9/21/2020 7:52:43 AM 663,12 RON
 9/24/2020 3:58:29 PM 672,13 RON
 9/26/2020 8:39:55 AM 677,72 RON
+10/1/2020 12:58:26 PM 673,56 RON

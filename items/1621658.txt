@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-101c-bk
 1621658
     Product link    
 https://www.pcgarage.ro/carcase/in-win/101c-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1605610/1621658/thumbnails/101c-black-5c96cd
 9/21/2020 7:49:55 AM 476,40 RON
 9/24/2020 2:50:25 PM 482,88 RON
 9/26/2020 8:18:14 AM 486,89 RON
+10/1/2020 7:51:46 AM 483,90 RON

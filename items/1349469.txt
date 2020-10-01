@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e2-00m1wn-00
 1349469
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-n23/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862960/1349469/thumbnails/versa-n23-27b86146
 9/21/2020 7:49:36 AM 218,83 RON
 9/24/2020 2:54:32 PM 221,80 RON
 9/26/2020 8:19:43 AM 223,64 RON
+9/30/2020 10:12:39 PM 222,27 RON

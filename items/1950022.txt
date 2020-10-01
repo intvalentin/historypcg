@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bg035
 1950022
     Product link    
 https://www.pcgarage.ro/carcase/be-quiet/pure-base-500-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1950022/thumbnails/pure-base-500-white-
 9/21/2020 7:52:10 AM 398,58 RON
 9/24/2020 3:04:54 PM 394,22 RON
 9/26/2020 8:23:27 AM 391,90 RON
+10/1/2020 7:40:30 AM 402,06 RON

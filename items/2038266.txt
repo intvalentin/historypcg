@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc275
 2038266
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/grandis-3-evo-argb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2038266/thumbnails/grandis-3-evo-argb-b
 9/21/2020 7:53:45 AM 286,35 RON
 9/24/2020 4:42:00 PM 286,70 RON
 9/26/2020 8:54:45 AM 287,17 RON
+10/1/2020 2:40:40 PM 287,03 RON

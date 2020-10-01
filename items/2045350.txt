@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474715326
 2045350
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/borofone/a35-21a-2x-usb-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2045350/thumbnails/a35-21a-2x-usb-white
 9/20/2020 11:48:18 PM 45,98 RON
 9/25/2020 9:34:09 AM 45,98 RON
 9/26/2020 2:02:16 PM 45,98 RON
+10/1/2020 11:56:34 AM 45,98 RON

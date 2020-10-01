@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1q4-00m6wn-00
 2051074
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/ah-t600-tempered-glass-snow-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2051074/thumbnails/ah-t600-tempered-gla
 9/21/2020 7:50:53 AM 1.280,51 RON
 9/24/2020 2:58:40 PM 1.297,91 RON
 9/26/2020 8:21:12 AM 1.308,70 RON
+10/1/2020 1:55:25 PM 1.300,66 RON

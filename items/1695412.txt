@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mch28015-h200
 1695412
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/htpc-200/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1689668/1695412/thumbnails/htpc-200-577741eb
 9/21/2020 7:54:45 AM 79,07 RON
 9/24/2020 5:59:15 PM 80,83 RON
 9/26/2020 9:08:03 AM 80,81 RON
+10/1/2020 4:17:32 PM 80,32 RON

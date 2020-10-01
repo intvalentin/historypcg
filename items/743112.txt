@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-701-bk
 743112
     Product link    
 https://www.pcgarage.ro/carcase/super-flower/sf-701-black-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/743112/thumbnails/sf-701-black-60961d
 9/21/2020 7:51:33 AM 253,08 RON
 9/24/2020 4:19:16 PM 256,52 RON
 9/26/2020 8:46:37 AM 258,65 RON
+10/1/2020 10:03:39 AM 257,06 RON

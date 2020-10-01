@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn9010089
 1458670
     Product link    
 https://www.pcgarage.ro/console-jocuri/nintendo/switch-neon-red-si-neon-blue-joy-con/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301253/1458670/thumbnails/switch-neon-red-s
 9/21/2020 8:08:48 AM 1.663,98 RON
 9/25/2020 8:58:50 AM 1.663,98 RON
 9/26/2020 1:28:18 PM 1.663,98 RON
+9/30/2020 10:01:15 PM 1.663,98 RON

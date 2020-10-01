@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1o3-00m1wn-00
 1947690
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/s500-tg/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947690/thumbnails/s500-tg-2a49a3699965
 9/21/2020 7:48:56 AM 473,99 RON
 9/24/2020 2:32:00 PM 480,43 RON
 9/26/2020 8:13:04 AM 484,42 RON
+10/1/2020 7:51:29 AM 481,45 RON

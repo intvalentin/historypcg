@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ue-02b
 1131643
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/uni-series-ue-02b-250w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/1131643/thumbnails/uni-series-ue-02b-4f6bb
 9/21/2020 7:49:41 AM 290,60 RON
 9/24/2020 2:54:32 PM 295,92 RON
 9/26/2020 8:20:28 AM 296,36 RON
+9/30/2020 10:29:19 PM 294,44 RON

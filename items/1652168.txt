@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-focus-bu-w
 1652168
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/focus-g-blue-window/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/530/1652168/thumbnails/focus-g-blue-window-c
 9/21/2020 7:51:47 AM 295,02 RON
 9/24/2020 3:25:39 PM 295,02 RON
 9/26/2020 8:30:55 AM 295,02 RON
+10/1/2020 10:24:13 AM 295,02 RON

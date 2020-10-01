@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s30350-s213-r601
 2033602
     Product link    
 https://www.pcgarage.ro/telefoane-fixe/gigaset/da710-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2033602/thumbnails/da710-black-e835a5e6
 9/20/2020 11:46:25 PM 232,98 RON
 9/25/2020 9:12:03 AM 233,98 RON
 9/26/2020 1:41:40 PM 233,98 RON
+10/1/2020 8:43:35 AM 233,98 RON

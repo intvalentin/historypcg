@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l-02-500
 1688340
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/l-02-500w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8968/1688340/thumbnails/l-02-500w-da180434e5
 9/21/2020 7:50:28 AM 125,82 RON
 9/24/2020 3:23:35 PM 127,53 RON
 9/26/2020 8:16:45 AM 128,59 RON
+9/30/2020 9:55:52 PM 127,80 RON

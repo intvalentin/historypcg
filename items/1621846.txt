@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-miner
 1621846
     Product link    
 https://www.pcgarage.ro/carcase/segotep/miner-case/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1605610/1621846/thumbnails/miner-case-6d99da
 9/21/2020 7:52:24 AM 511,44 RON
 9/24/2020 3:29:48 PM 518,39 RON
 9/26/2020 8:32:25 AM 522,70 RON
+10/1/2020 12:18:45 PM 519,49 RON

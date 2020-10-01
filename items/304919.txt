@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clp0597
 304919
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/contac-39/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/304919/thumbnails/contac-39-a09f6c4a98e8e2
 9/21/2020 7:54:58 AM 229,21 RON
 9/24/2020 6:10:20 PM 234,30 RON
 9/26/2020 9:18:08 AM 234,25 RON
+10/1/2020 4:50:45 PM 232,82 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s3-500-bk
 1619186
     Product link    
 https://www.pcgarage.ro/carcase/segotep/s3-black-500w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1605610/1619186/thumbnails/s3-black-500w-f6a
 9/21/2020 7:50:18 AM 150,02 RON
 9/24/2020 3:31:53 PM 152,06 RON
 9/26/2020 8:33:10 AM 153,32 RON
+10/1/2020 8:54:06 AM 152,38 RON

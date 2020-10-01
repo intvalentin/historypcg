@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200071
 1717568
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/coeus-evo-tc-black-tg/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691852/1717568/thumbnails/coeus-evo-tc-blac
 9/21/2020 7:52:57 AM 890,03 RON
 9/24/2020 3:21:30 PM 891,11 RON
 9/26/2020 8:29:25 AM 892,60 RON
+10/1/2020 1:25:18 PM 892,16 RON

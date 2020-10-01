@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prime-xl-bk
 1991246
     Product link    
 https://www.pcgarage.ro/carcase/segotep/prime-xl/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1977958/1991246/thumbnails/prime-xl-10c2721c
 9/21/2020 7:51:14 AM 192,44 RON
 9/24/2020 3:04:54 PM 195,05 RON
 9/26/2020 8:23:27 AM 196,68 RON
+10/1/2020 9:16:24 AM 195,47 RON

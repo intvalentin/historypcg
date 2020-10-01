@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-h442c-m8
 1135513
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h440-matte-black-closed-panel-new-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/1135513/thumbnails/h440-matte-black-closed
 9/21/2020 7:52:43 AM 671,21 RON
 9/24/2020 4:04:42 PM 680,33 RON
 9/26/2020 8:41:24 AM 685,98 RON
+10/1/2020 12:59:48 PM 681,77 RON

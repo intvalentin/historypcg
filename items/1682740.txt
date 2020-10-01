@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wl3-00090
 1682740
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-s-wireless-controller-combat-tech/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1682740/thumbnails/xbox-one-s-wirele
 9/21/2020 8:09:19 AM 349,99 RON
 9/25/2020 9:02:32 AM 349,99 RON
 9/26/2020 1:32:47 PM 349,99 RON
+10/1/2020 7:25:54 AM 349,99 RON

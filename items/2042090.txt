@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474702081
 2042090
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/borofone/ba20a-21a-1x-usb-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2042090/thumbnails/ba20a-21a-1x-usb-bla
 9/20/2020 11:48:22 PM 54,98 RON
 9/25/2020 9:34:09 AM 54,98 RON
 9/26/2020 2:02:16 PM 54,98 RON
+10/1/2020 11:59:30 AM 54,98 RON

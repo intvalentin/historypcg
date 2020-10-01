@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474724403
 2068118
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/hoco/z35-2x-usb-1x-usb-c-pd-48w-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068118/thumbnails/z35-2x-usb-1x-usb-c-
 9/20/2020 11:48:59 PM 101,98 RON
 9/25/2020 9:37:51 AM 101,98 RON
 9/26/2020 2:05:58 PM 101,98 RON
+10/1/2020 1:07:09 PM 101,98 RON

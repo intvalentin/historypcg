@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-m500t-rh5n-s00
 1651776
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mastercase-mc500mt/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/530/1651776/thumbnails/mastercase-mc500mt-f2
 9/21/2020 7:53:06 AM 987,80 RON
 9/24/2020 3:25:39 PM 976,81 RON
 9/26/2020 8:31:40 AM 970,95 RON
+10/1/2020 1:45:47 PM 974,24 RON

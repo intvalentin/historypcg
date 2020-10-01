@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sg-wc120
 1598566
     Product link    
 https://www.pcgarage.ro/coolere/segotep/water-cooler-120/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1496454/1598566/thumbnails/water-cooler-120-
 9/21/2020 7:55:07 AM 288,92 RON
 9/24/2020 6:03:43 PM 295,35 RON
 9/26/2020 9:09:33 AM 295,28 RON
+10/1/2020 5:04:50 PM 293,47 RON

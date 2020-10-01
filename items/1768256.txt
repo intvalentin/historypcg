@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |su-800
 1768256
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/argus-su-800-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1768256/thumbnails/argus-su-800-rgb-
 9/21/2020 7:54:24 AM 59,66 RON
 9/24/2020 5:55:07 PM 60,99 RON
 9/26/2020 9:06:34 AM 60,98 RON
+10/1/2020 4:14:16 PM 60,60 RON

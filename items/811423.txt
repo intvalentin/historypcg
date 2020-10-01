@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clp0608
 811423
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/nic-c5/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/811423/thumbnails/nic-c5-962f9ebacddd
 9/21/2020 7:55:13 AM 363,11 RON
 9/24/2020 6:08:51 PM 371,19 RON
 9/26/2020 9:16:39 AM 371,11 RON
+10/1/2020 5:19:47 PM 368,83 RON

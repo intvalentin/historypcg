@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc270
 2013910
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/spartan-4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8840/2013910/thumbnails/spartan-4-f7d24fa001
 9/21/2020 7:53:39 AM 81,36 RON
 9/24/2020 4:42:00 PM 81,46 RON
 9/26/2020 8:54:45 AM 81,59 RON
+10/1/2020 2:36:16 PM 81,55 RON

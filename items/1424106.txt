@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011099-ww
 1424106
     Product link    
 https://www.pcgarage.ro/carcase/corsair/crystal-series-460x/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1409094/1424106/thumbnails/crystal-series-46
 9/21/2020 7:52:29 AM 533,74 RON
 9/24/2020 3:58:29 PM 543,61 RON
 9/26/2020 8:39:10 AM 544,34 RON
+10/1/2020 12:37:02 PM 541,00 RON

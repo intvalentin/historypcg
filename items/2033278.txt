@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aero_one_frost-g-bk-v1
 2033278
     Product link    
 https://www.pcgarage.ro/carcase/aerocool/aero-one-frost-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033278/thumbnails/aero-one-frost-black
 9/21/2020 7:50:09 AM 272,85 RON
 9/24/2020 3:00:45 PM 276,56 RON
 9/26/2020 8:21:57 AM 278,85 RON
+10/1/2020 10:16:17 AM 277,14 RON

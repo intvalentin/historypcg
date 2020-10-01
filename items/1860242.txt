@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011171-ww
 1860242
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-series-175r-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1236/1860242/thumbnails/carbide-series-175r-
 9/21/2020 7:51:51 AM 325,43 RON
 9/24/2020 2:36:07 PM 331,48 RON
 9/26/2020 8:14:32 AM 331,92 RON
+9/30/2020 10:35:36 PM 329,86 RON

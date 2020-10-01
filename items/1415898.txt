@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1g8-00m1wn-00
 1415898
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-c21-rgb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1415898/thumbnails/versa-c21-rgb-d22
 9/21/2020 7:48:56 AM 319,06 RON
 9/24/2020 2:54:32 PM 323,40 RON
 9/26/2020 8:19:43 AM 326,08 RON
+9/30/2020 10:33:39 PM 324,08 RON

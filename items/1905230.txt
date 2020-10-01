@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srxc-kenan
 1905230
     Product link    
 https://www.pcgarage.ro/carcase/serioux/kenan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1202/1905230/thumbnails/kenan-5130de1d943555
 9/21/2020 7:50:33 AM 264,44 RON
 9/24/2020 3:06:59 PM 266,57 RON
 9/26/2020 8:24:56 AM 268,84 RON
+10/1/2020 10:10:31 AM 267,53 RON

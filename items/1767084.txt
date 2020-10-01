@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |talos-p1
 1767084
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/talos-p1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1767084/thumbnails/talos-p1-7f74143f
 9/21/2020 7:52:52 AM 787,63 RON
 9/24/2020 3:17:21 PM 798,34 RON
 9/26/2020 8:27:56 AM 804,97 RON
+10/1/2020 1:15:49 PM 800,03 RON

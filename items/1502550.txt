@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |slps121
 1502550
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/extender-slps121-pcie-x1-to-x16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301183/1502550/thumbnails/extender-slps121-
 9/21/2020 7:53:23 AM 61,21 RON
 9/24/2020 4:33:43 PM 62,05 RON
 9/26/2020 8:51:49 AM 62,56 RON
+10/1/2020 2:13:00 PM 62,18 RON

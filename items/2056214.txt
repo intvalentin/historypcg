@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zoomflow-240x-argb
 2056214
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/cooler-procesor-cu-lichid-id-cooling-zoomflow-240x-iluminare-argb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2056214/thumbnails/zoomflow-240x-argb-c
 9/21/2020 7:53:45 AM 329,56 RON
 9/24/2020 4:42:00 PM 334,04 RON
 9/26/2020 8:54:45 AM 336,82 RON
+10/1/2020 3:27:08 PM 334,75 RON

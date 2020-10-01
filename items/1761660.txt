@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j9-00f9wn-00
 1761660
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/level-20-tempered-glass/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1153/1761660/thumbnails/level-20-tempered-gl
 9/21/2020 7:53:14 AM 4.936,50 RON
 9/24/2020 3:17:21 PM 5.003,61 RON
 9/26/2020 8:27:56 AM 5.045,17 RON
+10/1/2020 2:03:49 PM 5.014,21 RON

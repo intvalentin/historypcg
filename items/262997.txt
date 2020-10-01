@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h2-001-wt
 262997
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h2-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/262997/thumbnails/h2-white-3b3945c7f11e9d4
 9/21/2020 7:52:24 AM 487,17 RON
 9/24/2020 4:27:33 PM 493,79 RON
 9/26/2020 8:49:36 AM 497,89 RON
+10/1/2020 12:13:42 PM 494,84 RON

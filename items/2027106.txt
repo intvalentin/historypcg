@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fst-00003
 2027106
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-elite-wireless-controller-series-2-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2027106/thumbnails/xbox-one-wireless-co
 9/21/2020 8:09:24 AM 773,98 RON
 9/25/2020 9:01:48 AM 775,98 RON
 9/26/2020 1:31:18 PM 777,98 RON
+10/1/2020 7:31:20 AM 775,98 RON

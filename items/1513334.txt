@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm00137
 1513334
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/thermaltake/suppressor-f31-power-cover/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1409094/1513334/thumbnails/suppressor-f31-po
 9/21/2020 7:53:36 AM 74,96 RON
 9/24/2020 4:37:52 PM 75,98 RON
 9/26/2020 8:53:18 AM 76,61 RON
+10/1/2020 2:28:34 PM 76,14 RON

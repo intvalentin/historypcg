@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r10b00102
 1863890
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/orcus-rbw-120mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1863890/thumbnails/orcus-rbw-120mm-f33e
 9/21/2020 7:55:22 AM 490,24 RON
 9/24/2020 5:50:59 PM 490,83 RON
 9/26/2020 9:05:04 AM 491,66 RON
+10/1/2020 5:37:30 PM 491,40 RON

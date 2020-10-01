@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wl3-00057
 1621642
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-s-wireless-controller-minecraft-creeper-limited-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5633/1621642/thumbnails/xbox-one-s-wireless-
 9/21/2020 8:09:19 AM 349,99 RON
 9/25/2020 9:03:17 AM 349,99 RON
 9/26/2020 1:32:47 PM 349,99 RON
+9/30/2020 10:38:19 PM 349,99 RON

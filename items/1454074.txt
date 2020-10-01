@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_t150pro
 1454074
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/t150-pro-force-feedback-pc-ps3-ps4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1052635/1454074/thumbnails/t150-pro-force-fe
 9/21/2020 8:09:33 AM 1.349,99 RON
 9/25/2020 9:06:12 AM 1.349,99 RON
 9/26/2020 1:35:42 PM 1.349,99 RON
+10/1/2020 7:42:14 AM 1.349,99 RON

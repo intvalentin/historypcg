@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc130
 1254807
     Product link    
 https://www.pcgarage.ro/coolere/SilentiumPC/fortis-3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/851375/1254807/thumbnails/fortis-3-761e931dd
 9/21/2020 7:54:19 AM 211,66 RON
 9/24/2020 6:06:38 PM 211,91 RON
 9/26/2020 9:14:25 AM 212,27 RON
+10/1/2020 2:38:58 PM 186,71 RON

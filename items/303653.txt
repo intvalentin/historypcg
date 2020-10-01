@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-ph410-w1
 303653
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/phantom-410-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/303653/thumbnails/phantom-410-white-54135f
 9/21/2020 7:52:24 AM 492,58 RON
 9/24/2020 4:25:28 PM 499,28 RON
 9/26/2020 8:48:52 AM 503,42 RON
+10/1/2020 12:14:51 PM 500,33 RON

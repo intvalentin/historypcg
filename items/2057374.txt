@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dk-03i-pwm-blue
 2057374
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/dk-03i-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2057374/thumbnails/dk-03i-blue-ef9a2438
 9/21/2020 7:54:00 AM 39,31 RON
 9/24/2020 4:46:06 PM 39,84 RON
 9/26/2020 8:56:13 AM 40,17 RON
+10/1/2020 2:57:26 PM 39,93 RON

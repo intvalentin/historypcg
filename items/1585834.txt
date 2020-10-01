@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |storm2
 1585834
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/argus-storm-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/953558/1585834/thumbnails/argus-storm-2-9a83
 9/21/2020 7:54:12 AM 318,55 RON
 9/24/2020 4:44:02 PM 322,89 RON
 9/26/2020 8:55:28 AM 276,73 RON
+10/1/2020 2:40:23 PM 276,73 RON

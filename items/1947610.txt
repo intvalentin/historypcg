@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnweigoe2wei
 1947610
     Product link    
 https://www.pcgarage.ro/headset-vr/oculus/oculus-rift-s/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1947610/thumbnails/rift-s-342c4a784a1a0
 9/21/2020 8:08:42 AM 2.999,99 RON
 9/25/2020 8:57:23 AM 2.999,99 RON
 9/26/2020 1:26:47 PM 2.999,99 RON
+9/30/2020 9:52:21 PM 2.999,99 RON

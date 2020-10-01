@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc-902xb-kkn2
 795660
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/haf-xb-evo/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/795660/thumbnails/haf-xb-evo-21b0fa77
 9/21/2020 7:49:04 AM 582,81 RON
 9/24/2020 2:56:35 PM 576,28 RON
 9/26/2020 8:20:28 AM 572,79 RON
+10/1/2020 7:59:37 AM 575,55 RON

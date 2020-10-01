@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg385nm200001
 1946554
     Product link    
 https://www.pcgarage.ro/carcase/cougar/mx350-mesh/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1946554/thumbnails/mx350-mesh-521c72a66
 9/21/2020 7:51:42 AM 282,74 RON
 9/24/2020 3:06:59 PM 283,08 RON
 9/26/2020 8:24:12 AM 283,71 RON
+10/1/2020 10:18:13 AM 283,41 RON

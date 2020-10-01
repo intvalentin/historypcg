@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct-01b-350gpb
 1387484
     Product link    
 https://www.pcgarage.ro/carcase/chieftec/mesh-series-ct-01b-350gpb-350w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/1387484/thumbnails/mesh-series-ct-01b
 9/21/2020 7:49:04 AM 324,99 RON
 9/24/2020 2:54:32 PM 330,89 RON
 9/26/2020 8:19:43 AM 331,33 RON
+9/30/2020 10:35:03 PM 329,41 RON

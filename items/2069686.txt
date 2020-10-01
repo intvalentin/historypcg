@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-h16wr-w1-eu
 2069686
     Product link    
 https://www.pcgarage.ro/carcase/nzxt/h1-matte-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2069686/thumbnails/h1-matte-white-9aa2d
 9/21/2020 7:53:11 AM 1.986,35 RON
 9/24/2020 2:58:40 PM 2.013,35 RON
 9/26/2020 8:21:12 AM 2.030,52 RON
+10/1/2020 2:00:21 PM 2.017,62 RON

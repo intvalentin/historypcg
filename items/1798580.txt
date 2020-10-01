@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b-30
 1798580
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/b-30/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6361/1798580/thumbnails/b-30-879d779299a6e72
 9/21/2020 7:49:27 AM 86,68 RON
 9/24/2020 2:38:11 PM 87,86 RON
 9/26/2020 8:15:17 AM 88,59 RON
+9/30/2020 9:49:37 PM 88,05 RON

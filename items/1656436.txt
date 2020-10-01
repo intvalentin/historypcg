@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4n7-00002
 1656436
     Product link    
 https://www.pcgarage.ro/gamepad/microsoft/xbox-one-wireless-controller-black-plus-wireless-adapter-v2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1649828/1656436/thumbnails/xbox-one-wireless
 9/21/2020 8:09:05 AM 255,99 RON
 9/25/2020 9:01:03 AM 255,99 RON
 9/26/2020 1:30:34 PM 255,99 RON
+9/30/2020 10:19:36 PM 255,99 RON

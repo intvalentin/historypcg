@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg385bmb00001
 1970546
     Product link    
 https://www.pcgarage.ro/carcase/cougar/gemini-s-iron-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1970546/thumbnails/gemini-s-iron-gray-c
 9/21/2020 7:48:37 AM 283,86 RON
 9/24/2020 2:09:21 PM 283,86 RON
 9/25/2020 10:55:22 PM 283,86 RON
+9/30/2020 9:41:19 PM 376,48 RON

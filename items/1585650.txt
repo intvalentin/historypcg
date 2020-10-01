@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp40031w2n
 1585650
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/chaser-a71-lcs-black-window/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1496454/1585650/thumbnails/chaser-a71-lcs-bl
 9/21/2020 7:53:11 AM 1.482,83 RON
 9/24/2020 3:33:57 PM 1.502,99 RON
 9/26/2020 8:33:55 AM 1.515,47 RON
+10/1/2020 1:57:38 PM 1.506,17 RON

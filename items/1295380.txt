@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dukase v2
 1295380
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/dukase-v2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1126098/1295380/thumbnails/dukase-v2-19ead6d
 9/21/2020 7:48:52 AM 233,85 RON
 9/24/2020 2:54:32 PM 237,03 RON
 9/26/2020 8:19:43 AM 239,00 RON
+9/30/2020 10:15:52 PM 237,53 RON

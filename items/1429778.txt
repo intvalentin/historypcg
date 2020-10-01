@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-trist-sw
 1429778
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/gamer-storm-tristellar-sw/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/986897/1429778/thumbnails/gamer-storm-triste
 9/21/2020 7:50:09 AM 1.521,27 RON
 9/24/2020 2:52:29 PM 1.541,95 RON
 9/26/2020 8:18:58 AM 1.554,76 RON
+10/1/2020 8:34:49 AM 2.015,54 RON

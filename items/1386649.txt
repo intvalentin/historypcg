@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wind-wh
 1386649
     Product link    
 https://www.pcgarage.ro/carcase/segotep/the-wind-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1169071/1386649/thumbnails/the-wind-white-41
 9/21/2020 7:51:14 AM 178,05 RON
 9/24/2020 4:00:33 PM 180,47 RON
 9/26/2020 8:39:55 AM 181,97 RON
+10/1/2020 9:09:10 AM 180,85 RON

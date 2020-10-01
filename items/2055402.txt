@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217495265
 2055402
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/swissten/2x-usb-c-pd-30-2x-usb-cu-tehnologia-quick-charge-30-87w-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2055402/thumbnails/2x-usb-c-pd-30-2x-us
 9/20/2020 11:48:18 PM 269,98 RON
 9/25/2020 9:33:25 AM 270,98 RON
 9/26/2020 2:00:52 PM 270,98 RON
+10/1/2020 12:18:06 PM 270,98 RON

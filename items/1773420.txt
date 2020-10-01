@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdcr+-+256gbsp
 1773420
     Product link    
 https://www.pcgarage.ro/carduri-memorie/kingston/micro-sdxc-canvas-react-256gb-clasa-10-uhs-i-u3-v30/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5015/1773420/thumbnails/micro-sdxc-canvas-re
 9/20/2020 11:48:07 PM 343,42 RON
 9/25/2020 9:31:10 AM 349,82 RON
 9/26/2020 1:58:38 PM 350,26 RON
+10/1/2020 11:49:58 AM 348,22 RON

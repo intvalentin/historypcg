@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k2
 1727192
     Product link    
 https://www.pcgarage.ro/coolere/dynatron/k2-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/1727192/thumbnails/k2-cpu-cooler-b70250
 9/21/2020 7:54:53 AM 178,03 RON
 9/24/2020 5:57:11 PM 181,99 RON
 9/26/2020 9:07:18 AM 181,95 RON
+10/1/2020 4:34:54 PM 180,84 RON

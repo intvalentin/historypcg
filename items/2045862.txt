@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474708694
 2045862
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/borofone/bz12a-36a-1x-usb-white-plus-cablu-microusb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2045862/thumbnails/bz12a-36a-1x-usb-
 9/20/2020 11:48:50 PM 43,98 RON
 9/25/2020 9:37:51 AM 43,98 RON
 9/26/2020 2:05:58 PM 43,98 RON
+10/1/2020 12:56:47 PM 43,98 RON

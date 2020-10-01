@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdr+-+64gb
 1773812
     Product link    
 https://www.pcgarage.ro/carduri-memorie/kingston/sdxc-canvas-react-64gb-clasa-10-uhs-i-u3-v30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1773812/thumbnails/sdxc-canvas-react-64
 9/20/2020 11:48:02 PM 78,87 RON
 9/25/2020 9:30:25 AM 79,49 RON
 9/26/2020 1:57:53 PM 80,18 RON
+10/1/2020 11:43:29 AM 79,77 RON

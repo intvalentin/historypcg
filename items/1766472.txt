@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |polarlgh2-bk
 1766472
     Product link    
 https://www.pcgarage.ro/carcase/segotep/polar-light-v3-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1766472/thumbnails/polar-light-v3-bl
 9/21/2020 7:51:14 AM 180,95 RON
 9/24/2020 3:17:21 PM 183,41 RON
 9/26/2020 8:27:56 AM 184,94 RON
+10/1/2020 9:10:48 AM 183,80 RON

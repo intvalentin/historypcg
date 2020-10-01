@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |marvo_gt004
 1397544
     Product link    
 https://www.pcgarage.ro/gamepad/marvo/gt-004-pc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1088254/1397544/thumbnails/gt-004-pc-612fe90
 9/21/2020 8:09:15 AM 41,98 RON
 9/25/2020 9:04:01 AM 41,98 RON
 9/26/2020 1:33:32 PM 41,98 RON
+9/30/2020 10:27:27 PM 41,98 RON

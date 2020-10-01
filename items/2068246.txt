@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m120-t
 2068246
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/alseye-max-120/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068246/thumbnails/alseye-max-120-0921e
 9/21/2020 7:54:12 AM 283,09 RON
 9/24/2020 4:46:06 PM 286,93 RON
 9/26/2020 8:56:13 AM 289,32 RON
+10/1/2020 3:21:45 PM 287,54 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1j6-00m1wn-00
 1701164
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/versa-h27-tempered-glass-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1690716/1701164/thumbnails/versa-h27-tempere
 9/21/2020 7:50:43 AM 270,65 RON
 9/24/2020 3:21:30 PM 274,32 RON
 9/26/2020 8:30:10 AM 276,60 RON
+10/1/2020 10:14:20 AM 274,91 RON

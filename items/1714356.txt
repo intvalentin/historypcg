@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011146-ww
 1714356
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-series-spec-06-rgb-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1703884/1714356/thumbnails/carbide-series-sp
 9/21/2020 7:48:48 AM 505,57 RON
 9/24/2020 2:46:19 PM 505,57 RON
 9/26/2020 8:16:45 AM 505,57 RON
+10/1/2020 7:53:58 AM 505,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474715968
 2042106
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/borofone/ba36a-1x-usb-black-cu-tehnologia-quick-charge-30/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2042106/thumbnails/ba36a-1x-usb-black-c
 9/20/2020 11:48:13 PM 31,49 RON
 9/25/2020 9:32:40 AM 31,49 RON
 9/26/2020 2:00:07 PM 31,49 RON
+10/1/2020 11:52:56 AM 31,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-c-def7a-01
 1997042
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/define-7-black-solid/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/1997042/thumbnails/define-7-black-so
 9/21/2020 7:48:52 AM 836,29 RON
 9/24/2020 2:25:49 PM 752,66 RON
 9/25/2020 10:55:22 PM 664,11 RON
+9/30/2020 9:45:21 PM 664,11 RON

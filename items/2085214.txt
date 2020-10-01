@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-w-2-s3602
 2085214
     Product link    
 https://www.pcgarage.ro/coolere/fractal-design/celsius-plus-s36-prisma/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3354/2085214/thumbnails/celsius-plus-s36-pri
 9/21/2020 7:54:16 AM 1.201,45 RON
 9/24/2020 4:46:06 PM 1.201,45 RON
 9/26/2020 8:56:13 AM 1.201,45 RON
+10/1/2020 4:02:07 PM 1.201,45 RON

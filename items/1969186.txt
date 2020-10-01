@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h240
 1969186
     Product link    
 https://www.pcgarage.ro/coolere/inter-tech/alseye-h240-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1969186/thumbnails/alseye-h240-rgb-9bf5
 9/21/2020 7:54:33 AM 352,11 RON
 9/24/2020 5:48:55 PM 359,94 RON
 9/26/2020 9:04:20 AM 359,86 RON
+10/1/2020 5:18:09 PM 357,65 RON

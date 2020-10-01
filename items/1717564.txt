@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r200070
 1717564
     Product link    
 https://www.pcgarage.ro/carcase/raijintek/coeus-elite-tc-black-tg/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1717564/thumbnails/coeus-elite-tc-bl
 9/21/2020 7:50:00 AM 739,31 RON
 9/24/2020 2:46:19 PM 740,20 RON
 9/26/2020 8:16:45 AM 741,43 RON
+10/1/2020 8:09:18 AM 741,67 RON

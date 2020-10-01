@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec416pstg_br
 2048114
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400s-silent-edition-tempered-glass-black-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2048114/thumbnails/eclipse-p400s-sil
 9/21/2020 7:50:28 AM 429,99 RON
 9/24/2020 2:05:16 PM 429,99 RON
 9/25/2020 10:53:56 PM 429,99 RON
+9/30/2020 9:43:24 PM 429,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |true spirit 90 m rev.a
 804360
     Product link    
 https://www.pcgarage.ro/coolere/thermalright/true-spirit-90-m-reva/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/804360/thumbnails/true-spirit-90-m-re
 9/21/2020 7:54:49 AM 161,19 RON
 9/24/2020 6:08:51 PM 161,19 RON
 9/26/2020 9:16:39 AM 161,19 RON
+10/1/2020 4:28:40 PM 161,19 RON

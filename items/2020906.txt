@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rmini-rd
 2020906
     Product link    
 https://www.pcgarage.ro/carcase/segotep/raynor-tower-mini-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691852/2020906/thumbnails/raynor-tower-mini
 9/21/2020 7:50:23 AM 84,66 RON
 9/24/2020 3:00:45 PM 85,81 RON
 9/26/2020 8:21:57 AM 86,52 RON
+10/1/2020 8:37:18 AM 85,99 RON

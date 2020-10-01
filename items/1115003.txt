@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwnblade-bk
 1115003
     Product link    
 https://www.pcgarage.ro/carcase/segotep/dawning-blade-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/859765/1115003/thumbnails/dawning-blade-blac
 9/21/2020 7:50:58 AM 131,34 RON
 9/24/2020 4:06:47 PM 133,13 RON
 9/26/2020 8:42:11 AM 134,24 RON
+10/1/2020 8:47:21 AM 133,41 RON

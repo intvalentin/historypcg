@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r10b00095
 1780732
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/pallas-120/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1780732/thumbnails/pallas-120-7035bbc819
 9/21/2020 7:55:03 AM 248,72 RON
 9/24/2020 5:53:03 PM 249,02 RON
 9/26/2020 9:06:34 AM 249,44 RON
+10/1/2020 4:54:36 PM 249,31 RON

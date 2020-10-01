@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-214
 979867
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-214/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/853128/979867/thumbnails/se-214-rev2-d7fc1a9
 9/21/2020 7:54:03 AM 113,42 RON
 9/24/2020 5:36:43 PM 115,94 RON
 9/26/2020 9:02:06 AM 115,91 RON
+10/1/2020 3:05:43 PM 115,20 RON

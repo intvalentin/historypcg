@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |csmd-a000uor-cq01b
 2010910
     Product link    
 https://www.pcgarage.ro/carcase/njoy/oryn-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9943/2010910/thumbnails/oryn-rgb-cb88fefe577
 9/21/2020 7:49:00 AM 273,56 RON
 9/24/2020 3:02:49 PM 272,33 RON
 9/25/2020 10:59:52 PM 274,59 RON
+9/30/2020 10:26:51 PM 272,91 RON

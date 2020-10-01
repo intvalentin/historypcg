@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn9010022
 1458854
     Product link    
 https://www.pcgarage.ro/accesorii-console/nintendo/switch-joy-con-pereche-neon-red-si-neon-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1458854/thumbnails/switch-joy-con-per
 9/21/2020 8:09:01 AM 439,98 RON
 9/25/2020 9:00:20 AM 439,98 RON
 9/26/2020 1:29:46 PM 439,98 RON
+9/30/2020 10:14:31 PM 439,98 RON

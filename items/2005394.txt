@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-h500-ignn-s01
 2005394
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mastercase-h500-argb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2005394/thumbnails/mastercase-h500-a
 9/21/2020 7:50:13 AM 624,63 RON
 9/24/2020 3:02:49 PM 633,12 RON
 9/26/2020 8:22:42 AM 638,38 RON
+10/1/2020 12:52:11 PM 634,47 RON

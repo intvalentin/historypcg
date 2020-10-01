@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-luciferk2
 1135683
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/gamer-storm-lucifer-k2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/1135683/thumbnails/gamer-storm-lucife
 9/21/2020 7:54:33 AM 182,76 RON
 9/24/2020 6:07:22 PM 186,83 RON
 9/26/2020 9:15:10 AM 186,79 RON
+10/1/2020 4:37:50 PM 185,64 RON

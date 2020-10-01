@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs-atx-macube310-bkg0p
 1949166
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/macube-310/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1949166/thumbnails/macube-310-de650a696
 9/21/2020 7:48:37 AM 273,55 RON
 9/24/2020 2:09:21 PM 273,55 RON
 9/26/2020 8:13:04 AM 305,67 RON
+9/30/2020 10:31:32 PM 303,80 RON

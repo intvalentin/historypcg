@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct-9010003-ww
 1991138
     Product link    
 https://www.pcgarage.ro/coolere/corsair/a500/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1991138/thumbnails/a500-5408ba39cdaa
 9/21/2020 7:54:16 AM 519,94 RON
 9/24/2020 4:50:14 PM 527,01 RON
 9/26/2020 8:57:41 AM 531,50 RON
+10/1/2020 3:38:58 PM 528,13 RON

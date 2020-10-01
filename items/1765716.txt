@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alpine 12 passive
 1765716
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-12-passive/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1765416/1765716/thumbnails/alpine-12-passive
 9/21/2020 7:54:07 AM 58,51 RON
 9/24/2020 5:30:30 PM 58,51 RON
 9/26/2020 8:59:54 AM 58,51 RON
+10/1/2020 2:59:50 PM 58,51 RON

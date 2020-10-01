@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-hdd
 477669
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/adaptor-hdd-ssd-525-inch-la-35-25-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/477669/thumbnails/adaptor-hdd-ssd-525-inch
 9/21/2020 7:53:18 AM 12,38 RON
 9/24/2020 4:35:48 PM 12,55 RON
 9/26/2020 8:52:33 AM 12,66 RON
+10/1/2020 2:06:27 PM 12,58 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0061
 976857
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/krugermatz/km0061-microusb-universal/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/843505/976857/thumbnails/retea-km0061-microu
 9/20/2020 11:48:32 PM 49,57 RON
 9/25/2020 9:37:05 AM 49,57 RON
 9/26/2020 2:05:13 PM 49,57 RON
+10/1/2020 12:34:28 PM 49,57 RON

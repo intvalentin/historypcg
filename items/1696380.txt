@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |176-w1-3542-kr
 1696380
     Product link    
 https://www.pcgarage.ro/carcase/evga/dg-77-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691840/1696380/thumbnails/dg-77-white-100e4
 9/21/2020 7:53:02 AM 906,92 RON
 9/24/2020 3:23:34 PM 923,77 RON
 9/26/2020 8:30:10 AM 924,92 RON
+10/1/2020 1:28:22 PM 919,63 RON

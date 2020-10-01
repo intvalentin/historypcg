@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r100075
 1717320
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/leto-rgb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1717320/thumbnails/leto-pro-rgb-8020
 9/21/2020 7:54:58 AM 211,42 RON
 9/24/2020 5:57:11 PM 211,67 RON
 9/26/2020 9:07:18 AM 212,02 RON
+10/1/2020 4:44:00 PM 211,91 RON

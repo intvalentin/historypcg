@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mch4-gmx400
 369871
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/gammaxx400/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/369871/thumbnails/gammaxx400-bed685c864aac
 9/21/2020 7:54:19 AM 158,37 RON
 9/24/2020 6:09:35 PM 158,37 RON
 9/26/2020 9:17:23 AM 158,37 RON
+10/1/2020 4:28:08 PM 158,37 RON

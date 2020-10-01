@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-p039-al12bl-a
 1479770
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/contac-silent-12/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1443558/1479770/thumbnails/contac-silent-12-
 9/21/2020 7:54:28 AM 156,45 RON
 9/24/2020 6:05:10 PM 159,93 RON
 9/26/2020 9:10:17 AM 159,90 RON
+10/1/2020 4:28:24 PM 158,92 RON

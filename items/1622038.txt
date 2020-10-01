@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-matx-bnksbk-lqd
 1622038
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/baronkase-liquid/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1605610/1622038/thumbnails/baronkase-liquid-
 9/21/2020 7:49:27 AM 790,74 RON
 9/24/2020 2:50:25 PM 801,49 RON
 9/26/2020 8:18:14 AM 808,14 RON
+10/1/2020 8:11:29 AM 803,18 RON

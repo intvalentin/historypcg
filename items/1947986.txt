@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rog strix helios gx601
 1947986
     Product link    
 https://www.pcgarage.ro/carcase/asus/rog-strix-helios-gx601/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1947986/thumbnails/rog-strix-helios-gx6
 9/21/2020 7:50:43 AM 1.609,50 RON
 9/24/2020 3:06:59 PM 1.639,49 RON
 9/26/2020 8:24:12 AM 1.640,91 RON
+10/1/2020 1:58:10 PM 1.630,92 RON

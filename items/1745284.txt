@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |glossy tempered rgb
 1745284
     Product link    
 https://www.pcgarage.ro/carcase/floston/glossy-tempered-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1745284/thumbnails/glossy-tempered-r
 9/21/2020 7:50:38 AM 253,30 RON
 9/24/2020 3:19:26 PM 256,74 RON
 9/26/2020 8:28:41 AM 258,94 RON
+10/1/2020 10:04:11 AM 257,67 RON

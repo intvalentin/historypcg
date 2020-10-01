@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sgc-5000-kwn2
 1651760
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/trooper-special-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/530/1651760/thumbnails/pc-case-w-o-psu-coole
 9/21/2020 7:53:02 AM 906,69 RON
 9/24/2020 3:25:39 PM 896,56 RON
 9/26/2020 8:31:40 AM 891,13 RON
+10/1/2020 1:25:35 PM 894,27 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |thrms_tmxff
 1296199
     Product link    
 https://www.pcgarage.ro/volane/thrustmaster/tmx-force-feedback-pentru-pc-xbox-one/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1000151/1296199/thumbnails/tmx-force-feedbac
 9/21/2020 8:09:33 AM 845,98 RON
 9/25/2020 9:06:12 AM 845,98 RON
 9/26/2020 1:35:42 PM 845,98 RON
+10/1/2020 7:41:41 AM 845,98 RON

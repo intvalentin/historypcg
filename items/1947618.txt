@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w255-pl12sw-a
 1947618
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/floe-dx-rgb-240-tt-premium-edition/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947618/thumbnails/floe-dx-rgb-240-tt-p
 9/21/2020 7:54:16 AM 733,51 RON
 9/24/2020 4:52:17 PM 743,49 RON
 9/26/2020 8:58:25 AM 749,66 RON
+10/1/2020 3:45:42 PM 745,06 RON

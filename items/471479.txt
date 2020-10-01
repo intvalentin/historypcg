@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |int3403450
 471479
     Product link    
 https://www.pcgarage.ro/carduri-memorie/intenso/micro-sdhc-4gb-clasa-4-plus-adaptor-sd-5/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/471479/thumbnails/micro-sd-4gb-clasa-4-plu
 9/20/2020 11:47:48 PM 22,92 RON
 9/25/2020 9:29:41 AM 22,99 RON
 9/26/2020 1:57:09 PM 23,00 RON
+10/1/2020 10:36:21 AM 22,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1q9-00s6wn-00
 2051070
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/s100-tempered-glass-snow-edition/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2051070/thumbnails/s100-tempered-glass-
 9/21/2020 7:50:23 AM 289,96 RON
 9/24/2020 3:00:45 PM 293,90 RON
 9/26/2020 8:21:12 AM 296,34 RON
+10/1/2020 10:23:23 AM 294,52 RON

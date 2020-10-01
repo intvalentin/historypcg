@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mlx-d24m-a20pc-t1
 1802304
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/masterliquid-ml240-rgb-tr4/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1802236/1802304/thumbnails/masterliquid-ml24
     Pret    
 9/24/2020 5:30:30 PM 381,75 RON
 9/26/2020 8:59:54 AM 379,39 RON
+10/1/2020 2:43:48 PM 380,72 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll171082
 1832136
     Product link    
 https://www.pcgarage.ro/incarcatoare-gsm/tellur/34a-2x-usb-microsd-slot-bluetooth-handsfree-suport-magnetic-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5664/1832136/thumbnails/34a-2x-usb-microsd-s
 9/20/2020 11:49:07 PM 119,98 RON
 9/25/2020 9:40:04 AM 119,98 RON
 9/26/2020 2:08:11 PM 121,98 RON
+10/1/2020 1:21:59 PM 119,98 RON

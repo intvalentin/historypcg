@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mlx-d12m-a20pw-r1
 1618946
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/masterliquid-120/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1578330/1618946/thumbnails/masterliquid-120-
 9/21/2020 7:55:14 AM 369,80 RON
 9/24/2020 6:01:20 PM 365,67 RON
 9/26/2020 9:08:48 AM 363,46 RON
+10/1/2020 5:18:58 PM 364,78 RON

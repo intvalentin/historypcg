@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-h24rf-gl240rgb
 1780448
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/gammaxx-l240/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1780448/thumbnails/gammaxx-l240-4139849
 9/21/2020 7:55:14 AM 385,42 RON
 9/24/2020 5:55:07 PM 393,99 RON
 9/26/2020 9:06:34 AM 393,91 RON
+10/1/2020 5:23:41 PM 391,49 RON

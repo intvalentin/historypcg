@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011098-ww
 1424082
     Product link    
 https://www.pcgarage.ro/carcase/corsair/crystal-series-570x-rgb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1000151/1424082/thumbnails/crystal-series-57
 9/21/2020 7:53:02 AM 978,95 RON
 9/24/2020 3:58:29 PM 997,23 RON
 9/26/2020 8:39:10 AM 998,51 RON
+10/1/2020 1:47:10 PM 992,66 RON

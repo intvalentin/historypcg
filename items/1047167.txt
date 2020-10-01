@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steel_stratusxlios
 1047167
     Product link    
 https://www.pcgarage.ro/gamepad/steelseries/stratus-xl-wireless-pentru-ios/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/1047167/thumbnails/stratus-xl-wireles
 9/21/2020 8:09:19 AM 203,98 RON
 9/25/2020 9:04:01 AM 203,98 RON
 9/26/2020 1:33:32 PM 203,98 RON
+9/30/2020 10:36:55 PM 203,98 RON

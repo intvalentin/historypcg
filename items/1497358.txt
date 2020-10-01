@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tra00162
 1497358
     Product link    
 https://www.pcgarage.ro/gamepad/tracer/recon-pc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1420862/1497358/thumbnails/recon-pc-080da5a4
 9/21/2020 8:09:10 AM 23,98 RON
 9/25/2020 9:04:01 AM 23,98 RON
 9/26/2020 1:33:32 PM 23,98 RON
+9/30/2020 10:26:54 PM 23,98 RON

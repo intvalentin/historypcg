@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ntn9010036
 1514002
     Product link    
 https://www.pcgarage.ro/accesorii-console/nintendo/switch-joy-con-aa-battery-pack-pair/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1190677/1514002/thumbnails/switch-joy-con-aa
 9/21/2020 8:09:01 AM 219,98 RON
 9/25/2020 9:00:20 AM 219,98 RON
 9/26/2020 1:29:46 PM 219,98 RON
+9/30/2020 10:13:07 PM 219,98 RON

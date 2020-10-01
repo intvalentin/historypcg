@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcm-m600p-kg5n-s00
 1647972
     Product link    
 https://www.pcgarage.ro/carcase/cooler-master/mastercase-mc600p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1642372/1647972/thumbnails/mastercase-mc600p
 9/21/2020 7:50:05 AM 742,99 RON
 9/24/2020 2:15:28 PM 629,67 RON
 9/25/2020 10:56:51 PM 629,67 RON
+10/1/2020 12:45:42 PM 596,75 RON

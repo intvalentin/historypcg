@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |turbo red
 1698192
     Product link    
 https://www.pcgarage.ro/carcase/floston/turbo-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1698192/thumbnails/turbo-red-3c04387
 9/21/2020 7:50:13 AM 121,64 RON
 9/24/2020 3:21:30 PM 123,29 RON
 9/26/2020 8:30:10 AM 124,35 RON
+10/1/2020 8:44:21 AM 123,74 RON

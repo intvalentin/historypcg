@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc181
 1692968
     Product link    
 https://www.pcgarage.ro/carcase/SilentiumPC/armis-ar7/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1684696/1692968/thumbnails/armis-ar7-b2a8ca9
 9/21/2020 7:48:33 AM 366,56 RON
 9/24/2020 2:15:28 PM 367,01 RON
 9/25/2020 10:56:51 PM 367,62 RON
+9/30/2020 9:40:47 PM 367,74 RON

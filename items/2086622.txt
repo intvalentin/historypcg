@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508901
 2086622
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/sennheiser/cx-400bt-true-wireless-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7008/2086622/thumbnails/cx-400bt-true-wirele
 9/20/2020 11:46:50 PM 998,98 RON
 9/25/2020 9:14:15 AM 998,98 RON
 9/26/2020 1:43:52 PM 998,98 RON
+10/1/2020 9:23:24 AM 998,98 RON

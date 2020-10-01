@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c-701-panorama
 2068142
     Product link    
 https://www.pcgarage.ro/carcase/inter-tech/c-701-panorama/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2068142/thumbnails/c-701-panorama-5be08
 9/21/2020 7:50:48 AM 359,24 RON
 9/24/2020 2:58:40 PM 364,13 RON
 9/26/2020 8:21:12 AM 367,15 RON
+10/1/2020 11:28:13 AM 364,90 RON

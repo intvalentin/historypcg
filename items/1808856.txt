@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |carxdeltap
 1808856
     Product link    
 https://www.pcgarage.ro/carcase/raidmax/delta-prime/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1802236/1808856/thumbnails/delta-prime-ba815
 9/21/2020 7:49:46 AM 347,71 RON
 9/24/2020 2:38:11 PM 347,71 RON
 9/26/2020 8:15:17 AM 347,71 RON
+10/1/2020 7:28:31 AM 347,71 RON

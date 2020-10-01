@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a1272011, a1272h11, a1272g11
 1430610
     Product link    
 https://www.pcgarage.ro/baterii-externe/anker/powercore-20000-mah-2x-usb-black-tehnologia-quick-charge-30/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/986897/1430610/thumbnails/powercore-20000-ma
 9/20/2020 11:46:55 PM 187,18 RON
 9/25/2020 9:20:10 AM 187,18 RON
 9/26/2020 1:49:45 PM 187,18 RON
+10/1/2020 9:59:33 AM 187,18 RON

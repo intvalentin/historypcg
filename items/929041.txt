@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-mael120k
 929041
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/maelstrom-120k/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862960/929041/thumbnails/maelstrom-120k-80ee
 9/21/2020 7:55:07 AM 283,58 RON
 9/24/2020 6:08:07 PM 289,88 RON
 9/26/2020 9:16:39 AM 289,82 RON
+10/1/2020 5:04:01 PM 288,04 RON

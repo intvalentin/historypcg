@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0p105255
 1526474
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/themis/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1434070/1526474/thumbnails/themis-5963b08de0
 9/21/2020 7:54:53 AM 167,68 RON
 9/24/2020 6:03:43 PM 167,87 RON
 9/26/2020 9:09:33 AM 168,16 RON
+10/1/2020 4:32:27 PM 168,07 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr-h412-20pk-r2
 1656632
     Product link    
 https://www.pcgarage.ro/coolere/cooler-master/hyper-h412r/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/530/1656632/thumbnails/hyper-h412r-69f41948b
 9/21/2020 7:53:51 AM 143,50 RON
 9/24/2020 5:32:34 PM 141,98 RON
 9/26/2020 9:00:38 AM 141,06 RON
+10/1/2020 3:09:00 PM 141,52 RON

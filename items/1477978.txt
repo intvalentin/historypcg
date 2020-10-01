@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kp004-bl
 1477978
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/kp004-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469694/1477978/thumbnails/kp004-blue-26752b
 9/21/2020 7:53:31 AM 28,38 RON
 9/24/2020 4:37:52 PM 28,76 RON
 9/26/2020 8:53:18 AM 29,00 RON
+10/1/2020 2:20:08 PM 28,82 RON

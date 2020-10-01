@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011170-ww
 1843968
     Product link    
 https://www.pcgarage.ro/carcase/corsair/carbide-series-678c-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1054/1843968/thumbnails/carbide-series-678c-
 9/21/2020 7:49:00 AM 975,24 RON
 9/24/2020 2:36:07 PM 993,37 RON
 9/26/2020 8:26:26 AM 994,52 RON
+10/1/2020 1:46:20 PM 988,80 RON

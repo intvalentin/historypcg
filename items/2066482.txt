@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474716286
 2066482
     Product link    
 https://www.pcgarage.ro/incarcatoare-retea-gsm/hoco/c12q-1x-usb-3a-alb-tehnologia-quick-charge-30-plus-cablu-microusb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2066482/thumbnails/c12q-1x-usb-3a-alb-t
 9/20/2020 11:48:23 PM 62,98 RON
 9/25/2020 9:33:25 AM 62,98 RON
 9/26/2020 2:00:52 PM 62,98 RON
+10/1/2020 12:03:41 PM 62,98 RON

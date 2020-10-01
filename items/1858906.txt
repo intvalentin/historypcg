@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atx-matrexx55-ar-wh
 1858906
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/matrexx-55-add-rgb-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1236/1858906/thumbnails/matrexx-55-add-rgb-w
 9/21/2020 7:51:28 AM 235,36 RON
 9/24/2020 3:11:08 PM 238,56 RON
 9/26/2020 8:25:41 AM 240,55 RON
+10/1/2020 9:54:53 AM 239,07 RON

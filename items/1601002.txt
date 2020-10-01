@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e1-00m1wn-03
 1601002
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/suppressor-f51-black-tempered-glass/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1535667/1601002/thumbnails/suppressor-f51-bl
 9/21/2020 7:52:43 AM 646,88 RON
 9/24/2020 3:31:53 PM 655,67 RON
 9/26/2020 8:33:10 AM 661,12 RON
+10/1/2020 12:56:02 PM 657,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bk013
 803607
     Product link    
 https://www.pcgarage.ro/coolere/be-quiet/shadow-rock-2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/803607/thumbnails/shadow-rock-2-a8480
 9/21/2020 7:55:03 AM 237,37 RON
 9/24/2020 6:08:51 PM 234,67 RON
 9/26/2020 9:16:39 AM 233,32 RON
+10/1/2020 4:51:34 PM 234,07 RON

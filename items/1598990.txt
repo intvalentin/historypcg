@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-atxlcs-gen-rog2
 1598990
     Product link    
 https://www.pcgarage.ro/carcase/deepcool/gamer-storm-genome-rog/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1516422/1598990/thumbnails/gamer-storm-genom
 9/21/2020 7:53:11 AM 1.339,31 RON
 9/24/2020 3:33:57 PM 1.357,51 RON
 9/26/2020 8:33:55 AM 1.368,79 RON
+10/1/2020 1:56:14 PM 1.360,39 RON

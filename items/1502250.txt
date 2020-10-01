@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gravity black
 1502250
     Product link    
 https://www.pcgarage.ro/carcase/floston/gravity-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1408706/1502250/thumbnails/gravity-black-a17
 9/21/2020 7:48:30 AM 111,42 RON
 9/24/2020 2:15:28 PM 112,93 RON
 9/25/2020 10:56:51 PM 113,90 RON
+9/30/2020 9:52:07 PM 113,34 RON

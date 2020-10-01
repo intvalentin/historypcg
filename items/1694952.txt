@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011148-ww
 1694952
     Product link    
 https://www.pcgarage.ro/carcase/corsair/obsidian-1000d-tempered-glass/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691840/1694952/thumbnails/obsidian-1000d-te
 9/21/2020 7:50:09 AM 2.550,04 RON
 9/24/2020 3:23:35 PM 2.575,83 RON
 9/26/2020 8:30:10 AM 2.597,77 RON
+10/1/2020 2:03:33 PM 2.581,28 RON

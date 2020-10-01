@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |oem-ca-def-r5-gld-wt-w
 1512574
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/define-r5-white-gold-edition-window/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472773/1512574/thumbnails/define-r5-white-go
 9/21/2020 7:52:52 AM 785,30 RON
 9/24/2020 3:38:07 PM 785,30 RON
 9/26/2020 8:35:26 AM 785,30 RON
+10/1/2020 1:14:44 PM 785,30 RON

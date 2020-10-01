@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnps14x
 462707
     Product link    
 https://www.pcgarage.ro/coolere/zalman/cnps14x/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/462707/thumbnails/cnps14x-b2722eec27dbe855
 9/21/2020 7:54:58 AM 204,27 RON
 9/24/2020 6:09:35 PM 208,81 RON
 9/26/2020 9:17:23 AM 208,76 RON
+10/1/2020 4:42:43 PM 207,48 RON

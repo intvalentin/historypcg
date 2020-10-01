@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-neptwnv2
 1113553
     Product link    
 https://www.pcgarage.ro/coolere/deepcool/neptwin-v2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/843505/1113553/thumbnails/neptwin-v2-ba1f3c4
 9/21/2020 7:53:48 AM 239,65 RON
 9/24/2020 5:36:43 PM 244,98 RON
 9/26/2020 9:02:06 AM 244,93 RON
+10/1/2020 3:17:38 PM 243,42 RON

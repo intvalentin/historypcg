@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cpb010w
 2047302
     Product link    
 https://www.pcgarage.ro/baterii-externe/canyon/cne-cpb010w-1x-usb-10000-mah-2a-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2047302/thumbnails/cne-cpb010w-1x-us
 9/20/2020 11:47:04 PM 87,98 RON
 9/25/2020 9:20:10 AM 89,98 RON
 9/26/2020 1:49:46 PM 89,98 RON
+10/1/2020 10:00:23 AM 88,98 RON

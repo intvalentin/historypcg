@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph-ec416ptg_bw
 1616158
     Product link    
 https://www.pcgarage.ro/carcase/phanteks/eclipse-p400-tempered-glass-black-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1605610/1616158/thumbnails/eclipse-p400-temp
 9/21/2020 7:50:28 AM 389,99 RON
 9/24/2020 3:31:53 PM 389,99 RON
 9/26/2020 8:33:10 AM 389,99 RON
+10/1/2020 11:42:19 AM 389,99 RON

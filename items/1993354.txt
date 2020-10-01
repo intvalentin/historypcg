@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1p5-00m1wn-00
 1993354
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/carcasa-thermaltake-s300-tempered-glass-neagra/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990366/1993354/thumbnails/carcasa-thermalta
 9/21/2020 7:48:56 AM 351,08 RON
 9/24/2020 2:25:49 PM 355,85 RON
 9/25/2020 11:00:37 PM 358,81 RON
+10/1/2020 7:30:28 AM 356,61 RON

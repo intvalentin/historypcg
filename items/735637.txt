@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |reserator 3 max
 735637
     Product link    
 https://www.pcgarage.ro/coolere/zalman/reserator-3-max/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/735637/thumbnails/reserator-3-max-e8d
 9/21/2020 7:55:18 AM 416,44 RON
 9/24/2020 6:09:35 PM 425,70 RON
 9/26/2020 9:17:23 AM 425,60 RON
+10/1/2020 5:29:59 PM 422,99 RON

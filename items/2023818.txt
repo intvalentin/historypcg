@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |athena-m2
 2023818
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/athena-m2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2023818/thumbnails/athena-m2-3224fe1dfb
 9/21/2020 7:50:48 AM 425,54 RON
 9/24/2020 3:00:45 PM 431,33 RON
 9/26/2020 8:21:57 AM 434,91 RON
+10/1/2020 11:58:12 AM 432,24 RON

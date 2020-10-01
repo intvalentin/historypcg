@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp1071b-420w-e1
 972097
     Product link    
 https://www.pcgarage.ro/carcase/spire/sp1071b-420w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929099/972097/thumbnails/sp1071b-420w-c164a0
 9/21/2020 7:50:58 AM 122,31 RON
 9/24/2020 4:10:57 PM 123,98 RON
 9/26/2020 8:44:23 AM 125,01 RON
+10/1/2020 8:44:37 AM 124,24 RON

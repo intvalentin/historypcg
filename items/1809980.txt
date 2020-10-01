@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |carxneonrgb
 1809980
     Product link    
 https://www.pcgarage.ro/carcase/raidmax/neon-g21-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1802236/1809980/thumbnails/neon-g21-rgb-8fc3
 9/21/2020 7:51:37 AM 266,55 RON
 9/24/2020 3:13:12 PM 266,55 RON
 9/26/2020 8:26:26 AM 266,55 RON
+10/1/2020 10:09:19 AM 266,55 RON

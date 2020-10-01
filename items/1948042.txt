@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |talos-e1
 1948042
     Product link    
 https://www.pcgarage.ro/carcase/gamdias/talos-e1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1948042/thumbnails/talos-e1-40028156aa2
 9/21/2020 7:51:37 AM 272,85 RON
 9/24/2020 3:06:59 PM 276,56 RON
 9/26/2020 8:24:12 AM 278,85 RON
+10/1/2020 10:15:44 AM 277,14 RON

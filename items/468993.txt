@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vn10008w2n
 468993
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/level-10-gt-battle-edition/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/468993/thumbnails/level-10-gt-battle-editi
 9/21/2020 7:53:11 AM 1.485,46 RON
 9/24/2020 4:23:25 PM 1.505,65 RON
 9/26/2020 8:48:07 AM 1.518,16 RON
+10/1/2020 1:57:54 PM 1.508,84 RON

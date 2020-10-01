@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kp003-bl
 1477974
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/kp003-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1126098/1477974/thumbnails/kp003-blue-146ed6
 9/21/2020 7:53:27 AM 23,11 RON
 9/24/2020 4:37:52 PM 23,42 RON
 9/26/2020 8:53:18 AM 23,62 RON
+10/1/2020 2:19:35 PM 23,47 RON

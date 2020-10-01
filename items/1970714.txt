@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km-ps04-32gb-pro
 1970714
     Product link    
 https://www.pcgarage.ro/carduri-memorie/kingmax/pro-micro-sdhc-32gb-clasa-10-uhs-i-plus-adaptor-sd/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970714/thumbnails/pro-micro-sdhc-32gb-
 9/20/2020 11:47:44 PM 20,16 RON
 9/25/2020 9:30:25 AM 20,60 RON
 9/26/2020 1:57:53 PM 20,60 RON
+10/1/2020 11:35:35 AM 20,47 RON

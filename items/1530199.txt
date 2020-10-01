@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iw-503-br
 1530199
     Product link    
 https://www.pcgarage.ro/carcase/in-win/503-black-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1530199/thumbnails/in-win-503-black-
 9/21/2020 7:52:15 AM 421,80 RON
 9/24/2020 3:36:02 PM 427,53 RON
 9/26/2020 8:34:40 AM 431,08 RON
+10/1/2020 11:56:33 AM 428,44 RON

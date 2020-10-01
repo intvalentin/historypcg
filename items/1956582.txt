@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acfre00066a
 1956582
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/liquid-freezer-ii-280/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1956582/thumbnails/liquid-freezer-ii
 9/21/2020 7:53:43 AM 502,53 RON
 9/24/2020 4:52:17 PM 503,14 RON
 9/26/2020 8:58:25 AM 550,99 RON
+10/1/2020 3:40:54 PM 552,91 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |slps053
 1796824
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/slps053-riser-card-pcie-x16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6361/1796824/thumbnails/slps053-riser-card-p
 9/21/2020 7:53:23 AM 67,21 RON
 9/24/2020 4:31:40 PM 68,12 RON
 9/26/2020 8:51:05 AM 68,69 RON
+10/1/2020 2:14:22 PM 68,27 RON

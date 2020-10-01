@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se-213v2
 1136948
     Product link    
 https://www.pcgarage.ro/coolere/id-cooling/se-213v2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088254/1136948/thumbnails/se-213v2-c268f602
 9/21/2020 7:53:45 AM 78,14 RON
 9/24/2020 5:36:43 PM 79,88 RON
 9/26/2020 9:02:06 AM 79,86 RON
+10/1/2020 3:01:46 PM 79,37 RON

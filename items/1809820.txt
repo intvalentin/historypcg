@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |carxghost
 1809820
     Product link    
 https://www.pcgarage.ro/carcase/raidmax/ghost-t11-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1802236/1809820/thumbnails/ghost-9b35434944a
 9/21/2020 7:49:36 AM 196,99 RON
 9/24/2020 2:38:11 PM 196,99 RON
 9/26/2020 8:15:17 AM 196,99 RON
+9/30/2020 10:08:50 PM 196,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-9011063-ww
 875832
     Product link    
 https://www.pcgarage.ro/carcase/corsair/graphire-780t-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/875832/thumbnails/graphire-780t-black
 9/21/2020 7:50:38 AM 933,40 RON
 9/24/2020 4:13:01 PM 950,82 RON
 9/26/2020 8:44:23 AM 952,10 RON
+10/1/2020 1:30:13 PM 946,54 RON

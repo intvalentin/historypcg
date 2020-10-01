@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acalp00025a
 2010798
     Product link    
 https://www.pcgarage.ro/coolere/arctic-cooling/alpine-am4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2010798/thumbnails/alpine-am4-bb1f12e4d
 9/21/2020 7:54:00 AM 45,64 RON
 9/24/2020 4:48:10 PM 45,64 RON
 9/26/2020 8:56:57 AM 45,64 RON
+10/1/2020 2:58:42 PM 45,64 RON

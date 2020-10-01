@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps-111d-nf
 880661
     Product link    
 https://www.pcgarage.ro/carcase/segotep/ps-111d-nf/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/812812/880661/thumbnails/ps-111d-nf-e9c90c3c
 9/21/2020 7:50:53 AM 87,54 RON
 9/24/2020 4:13:01 PM 88,73 RON
 9/26/2020 8:44:23 AM 89,47 RON
+10/1/2020 8:37:50 AM 88,92 RON

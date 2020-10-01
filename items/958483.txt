@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z11 neo
 958483
     Product link    
 https://www.pcgarage.ro/carcase/zalman/z11-neo/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/800612/958483/thumbnails/z11-neo-ae4adaf9bb8
 9/21/2020 7:52:10 AM 393,90 RON
 9/24/2020 4:13:01 PM 399,25 RON
 9/26/2020 8:44:23 AM 402,57 RON
+10/1/2020 11:49:24 AM 400,10 RON

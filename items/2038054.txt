@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1035603
 2038054
     Product link    
 https://www.pcgarage.ro/casti-bluetooth/urbanista/paris-fluffy-cloud/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2038054/thumbnails/paris-fluffy-clou
 9/20/2020 11:46:30 PM 343,98 RON
 9/25/2020 9:15:44 AM 343,98 RON
 9/26/2020 1:45:21 PM 343,98 RON
+10/1/2020 9:06:59 AM 343,98 RON

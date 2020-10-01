@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-ca-mesh-c-bko-tgl
 1645072
     Product link    
 https://www.pcgarage.ro/carcase/fractal-design/meshify-c-tempered-glass/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1642372/1645072/thumbnails/meshify-c-tempere
 9/21/2020 7:48:48 AM 518,39 RON
 9/24/2020 2:48:22 PM 518,39 RON
 9/26/2020 8:17:30 AM 518,39 RON
+10/1/2020 7:55:20 AM 518,39 RON

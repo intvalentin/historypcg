@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vm700a1w2n
 1586014
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/armor-a30i-window/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469758/1586014/thumbnails/armor-a30i-window
 9/21/2020 7:52:06 AM 375,10 RON
 9/24/2020 3:33:57 PM 380,20 RON
 9/26/2020 8:33:55 AM 383,36 RON
+10/1/2020 11:38:00 AM 381,01 RON

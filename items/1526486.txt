@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0p105245
 1526486
     Product link    
 https://www.pcgarage.ro/coolere/raijintek/themis-evo-professional/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469694/1526486/thumbnails/themis-evo-profes
 9/21/2020 7:54:37 AM 230,07 RON
 9/24/2020 6:03:43 PM 230,34 RON
 9/26/2020 9:09:33 AM 230,73 RON
+10/1/2020 4:49:12 PM 230,61 RON

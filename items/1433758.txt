@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kp001a-rd
 1433758
     Product link    
 https://www.pcgarage.ro/accesorii-carcase/inter-tech/kp001a-carrying-case-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1416578/1433758/thumbnails/kp001a-carrying-c
 9/21/2020 7:53:23 AM 23,11 RON
 9/24/2020 4:33:43 PM 23,42 RON
 9/26/2020 8:51:49 AM 23,62 RON
+10/1/2020 2:08:23 PM 23,47 RON

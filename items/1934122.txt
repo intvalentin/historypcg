@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tel000502
 1934122
     Product link    
 https://www.pcgarage.ro/telefoane-mobile/myphone/maestro-plus-dual-sim-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1934122/thumbnails/maestro-plus-dual-si
 9/20/2020 11:46:15 PM 215,98 RON
 9/25/2020 9:11:18 AM 215,98 RON
 9/26/2020 1:40:55 PM 217,98 RON
+10/1/2020 8:34:03 AM 215,98 RON

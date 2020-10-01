@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-p065-al12sw-a
 1947582
     Product link    
 https://www.pcgarage.ro/coolere/thermaltake/ux200-argb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947582/thumbnails/ux200-argb-19b540ecc
 9/21/2020 7:54:20 AM 187,31 RON
 9/24/2020 5:48:55 PM 191,48 RON
 9/26/2020 9:05:04 AM 191,43 RON
+10/1/2020 4:38:56 PM 190,26 RON

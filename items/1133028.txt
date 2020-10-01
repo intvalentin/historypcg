@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca-1e7-00m1wn-00
 1133028
     Product link    
 https://www.pcgarage.ro/carcase/thermaltake/core-p5/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/929099/1133028/thumbnails/core-p5-675db038d6
 9/21/2020 7:52:47 AM 697,74 RON
 9/24/2020 4:06:47 PM 707,22 RON
 9/26/2020 8:42:11 AM 713,10 RON
+10/1/2020 1:03:04 PM 708,72 RON
