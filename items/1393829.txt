@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f038-pl12re-a
 1393829
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-12-red-led-120mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1113903/1393829/thumbnails/riing-12-red-led-
 9/21/2020 7:58:04 AM 59,39 RON
 9/24/2020 6:40:45 PM 60,71 RON
 9/26/2020 9:42:18 AM 60,70 RON
+10/1/2020 10:49:25 PM 60,15 RON

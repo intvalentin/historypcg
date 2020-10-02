@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventf12pwm
 292101
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-f12-pwm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/292101/thumbnails/nf-f12-pwm-7a419f154d077
 9/21/2020 7:56:02 AM 111,27 RON
 9/24/2020 6:45:57 PM 111,27 RON
 9/26/2020 9:47:31 AM 111,27 RON
+10/1/2020 11:13:25 PM 111,27 RON

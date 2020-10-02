@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-002-on1nan-a1
 930307
     Product link    
 https://www.pcgarage.ro/filtre-de-praf/thermaltake/matrix-d12-magnetic-pentru-ventilatoarele-de-120-mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/930307/thumbnails/matrix-d12-magnetic
 9/21/2020 7:58:27 AM 50,61 RON
 9/24/2020 6:48:07 PM 51,73 RON
 9/26/2020 9:49:41 AM 51,72 RON
+10/1/2020 11:31:38 PM 51,26 RON

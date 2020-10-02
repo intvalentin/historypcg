@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf-12025-r
 1407754
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/cf-12025-r-120mm-red-led/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1173769/1407754/thumbnails/cf-12025-r-120mm-
 9/21/2020 7:57:50 AM 41,58 RON
 9/24/2020 6:40:45 PM 42,50 RON
 9/26/2020 9:42:18 AM 42,50 RON
+10/1/2020 10:23:38 PM 42,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f016-pl20bu-a
 815628
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/pure-20-led/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/815628/thumbnails/pure-20-led-0b7e76a
 9/21/2020 7:58:08 AM 61,17 RON
 9/24/2020 6:43:44 PM 62,53 RON
 9/26/2020 9:45:17 AM 62,51 RON
+10/1/2020 10:52:06 PM 61,95 RON

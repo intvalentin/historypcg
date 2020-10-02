@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-lus-07ab-gp
 93653
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/megaflow-200-blue-led-silent-fan/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/93653/thumbnails/megaflow-200-blue-led-sil
 9/21/2020 7:58:08 AM 69,66 RON
 9/24/2020 6:46:42 PM 71,21 RON
 9/26/2020 9:48:16 AM 71,19 RON
+10/1/2020 10:57:34 PM 70,55 RON

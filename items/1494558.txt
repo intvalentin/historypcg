@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f055-pl12gr-a
 1494558
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-12-high-static-pressure-120mm-green-led-3-fan-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929099/1494558/thumbnails/riing-12-green-led
 9/21/2020 7:58:22 AM 159,91 RON
 9/24/2020 6:40:01 PM 163,47 RON
 9/26/2020 9:41:33 AM 163,43 RON
+10/1/2020 11:20:00 PM 161,96 RON

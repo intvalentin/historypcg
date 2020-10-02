@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz02-01820200-r3m1
 1503534
     Product link    
 https://www.pcgarage.ro/mouse-pad/razer/goliathus-mobile/
@@ -8,3 +8,4 @@ Razer Goliathus Mobile
 https://2.grgs.ro/images/products/1/1363661/1503534/thumbnails/goliathus-mobile-6c0a99dfcc01c3cd16bd961d06d591dd.jpg
     Pret    
 9/21/2020 8:00:31 AM 49,99 RON
+10/2/2020 8:15:18 AM 44,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050015-wled
 802767
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-af120-led-white-quiet-edition-high-airflow-120mm-fan/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/802767/thumbnails/air-series-af120-le
 9/21/2020 7:58:08 AM 71,44 RON
 9/24/2020 6:43:44 PM 72,42 RON
 9/26/2020 9:45:17 AM 73,03 RON
+10/1/2020 10:59:14 PM 72,57 RON

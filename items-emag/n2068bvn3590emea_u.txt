@@ -10,3 +10,4 @@ Laptop Dell Vostro 3590 cu procesor Intel® Core™ i7-10510U pana la 4.90 GHz C
 9/29/2020 10:07:25 PM 3599
 9/29/2020 10:53:45 PM 3568
 9/30/2020 9:43:57 AM 3349
+10/1/2020 10:32:30 PM 3806

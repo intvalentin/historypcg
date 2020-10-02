@@ -8,3 +8,4 @@ Laptop HP 15s-fq1022nq cu procesor Intel® Core™ i3-1005G1 pana la 3.40 GHz, 1
 9/26/2020 2:34:59 PM 3999
 9/26/2020 3:17:35 PM 3999
 9/29/2020 9:20:10 PM 3699
+10/1/2020 10:42:05 PM 3699

@@ -7,3 +7,5 @@ Monitor WLED VA Lenovo ThinkVision 43.4'', 3840x1200, Display Port, USB Type-C, 
     Pret    
 9/30/2020 12:28:11 PM 4799
 9/30/2020 1:59:28 PM 8596
+10/1/2020 11:38:12 PM 4799
+10/1/2020 11:43:19 PM 8626

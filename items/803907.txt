@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl047
 803907
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/pure-wings-2-140-mm-1000-rpm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/498497/803907/thumbnails/be-quiet-pure-wings
 9/21/2020 7:57:17 AM 62,33 RON
 9/24/2020 6:43:44 PM 62,33 RON
 9/26/2020 9:45:17 AM 62,33 RON
+10/1/2020 10:52:39 PM 62,48 RON

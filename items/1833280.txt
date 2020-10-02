@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f081-pl20sw-a
 1833280
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/pure-20-argb-200mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5631/1833280/thumbnails/pure-20-argb-4580e1d
 9/21/2020 7:57:22 AM 220,37 RON
 9/24/2020 6:36:59 PM 220,37 RON
 9/26/2020 9:38:36 AM 220,37 RON
+10/1/2020 11:24:20 PM 220,37 RON

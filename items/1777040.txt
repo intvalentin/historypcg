@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aeolus-m1a-1201
 1777040
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/gamdias/aeolus-m1-1201-rgb-fan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1777040/thumbnails/aeolus-m1-1201-rgb-f
 9/21/2020 7:58:08 AM 71,69 RON
 9/24/2020 6:37:00 PM 73,28 RON
 9/26/2020 9:39:20 AM 73,27 RON
+10/1/2020 10:59:30 PM 72,61 RON

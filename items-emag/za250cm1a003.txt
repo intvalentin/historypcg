@@ -7,3 +7,5 @@ Solid State Drive(SSD) Seagate BarraCuda 120, 250GB, SATA III, 2.5''
     Pret    
 10/1/2020 8:25:54 AM 235
 10/1/2020 10:35:00 AM 270
+10/2/2020 8:44:03 AM 235
+10/2/2020 8:48:11 AM 271

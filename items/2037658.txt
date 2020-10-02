@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl080
 2037658
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/pure-wings-2-high-speed-120mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2037658/thumbnails/pure-wings-2-high-sp
 9/21/2020 7:57:17 AM 55,69 RON
 9/24/2020 6:35:30 PM 55,69 RON
 9/26/2020 9:37:07 AM 55,69 RON
+10/1/2020 10:45:49 PM 55,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rf-fn122-rb
 961309
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/fn-v2-120mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/961309/thumbnails/fn-v2-120mm-37e68dc
 9/21/2020 7:57:54 AM 43,29 RON
 9/24/2020 6:43:00 PM 44,25 RON
 9/26/2020 9:43:47 AM 44,24 RON
+10/1/2020 10:26:03 PM 43,85 RON

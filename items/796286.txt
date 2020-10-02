@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nf-a14 pwm
 796286
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a14-pwm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/750014/796286/thumbnails/nf-a14-pwm-450da219
 9/21/2020 7:55:58 AM 117,70 RON
 9/24/2020 6:34:01 PM 117,70 RON
 9/26/2020 9:46:02 AM 117,70 RON
+10/1/2020 11:15:33 PM 117,70 RON

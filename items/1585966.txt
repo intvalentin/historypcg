@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f053-pl12sw-a
 1585966
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-plus-12-rgb-radiator-fan-tt-premium-edition-3-fan-pack/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1457334/1585966/thumbnails/riing-plus-12-rgb
 9/21/2020 7:58:25 AM 435,51 RON
 9/24/2020 6:38:29 PM 445,19 RON
 9/26/2020 9:40:05 AM 445,10 RON
+10/1/2020 11:28:39 PM 441,10 RON

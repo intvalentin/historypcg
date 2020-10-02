@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl065
 1404339
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/silent-wings-3-140mm-1000-rpm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/960827/1404339/thumbnails/silent-wings-3-140
 9/21/2020 7:57:26 AM 115,89 RON
 9/24/2020 6:40:45 PM 114,54 RON
 9/26/2020 9:42:18 AM 113,79 RON
+10/1/2020 11:13:42 PM 114,24 RON

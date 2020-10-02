@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r400037
 1527502
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/raijintek/aura-12-rgb-led-with-controller-2-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475558/1527502/thumbnails/aura-12-rgb-led-f
 9/21/2020 7:57:31 AM 155,23 RON
 9/24/2020 6:38:29 PM 155,43 RON
 9/26/2020 9:40:05 AM 155,68 RON
+10/1/2020 11:19:26 PM 155,61 RON

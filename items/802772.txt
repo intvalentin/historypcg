@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050017-bled
 802772
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-af140-led-blue-quiet-edition-high-airflow-140mm-fan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/802687/802772/thumbnails/air-series-af140-le
 9/21/2020 7:58:13 AM 85,92 RON
 9/24/2020 6:44:29 PM 86,61 RON
 9/26/2020 9:45:17 AM 87,34 RON
+10/1/2020 11:06:19 PM 86,79 RON

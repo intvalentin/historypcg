@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-200rb
 961304
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/fn-200rb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/960827/961304/thumbnails/fn-200rb-5dd192b064
 9/21/2020 7:58:08 AM 69,79 RON
 9/24/2020 6:43:00 PM 71,34 RON
 9/26/2020 9:43:47 AM 71,32 RON
+10/1/2020 10:57:50 PM 70,68 RON

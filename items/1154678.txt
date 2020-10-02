@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f042-pl12sw-a
 1154678
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-12-rgb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/1154678/thumbnails/riing-12-rgb-5e19f5b2a7
 9/21/2020 7:58:18 AM 112,91 RON
 9/24/2020 6:41:30 PM 115,43 RON
 9/26/2020 9:43:03 AM 115,40 RON
+10/1/2020 11:13:58 PM 114,36 RON

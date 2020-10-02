@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hf-2812c-d1
 1773860
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/aer-rgb-2-series-starter-kit-120mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5015/1773860/thumbnails/aer-rgb-2-series-sta
 9/21/2020 7:58:25 AM 414,94 RON
 9/24/2020 6:37:44 PM 422,70 RON
 9/26/2020 9:39:20 AM 423,14 RON
+10/1/2020 11:28:22 PM 420,80 RON

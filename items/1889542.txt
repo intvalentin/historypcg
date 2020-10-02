@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fd-fan-dyn-x2-gp14-pwm-bk
 1889542
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/fractal-design/dynamic-x2-gp-14-pwm-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1885090/1889542/thumbnails/dynamic-x2-gp-14-
 9/21/2020 7:56:17 AM 77,24 RON
 9/24/2020 6:20:37 PM 77,24 RON
 9/26/2020 9:28:22 AM 77,24 RON
+10/1/2020 11:02:59 PM 77,24 RON

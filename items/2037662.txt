@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl082
 2037662
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/pure-wings-2-high-speed-140mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2037662/thumbnails/pure-wings-2-high
 9/21/2020 7:57:17 AM 62,03 RON
 9/24/2020 6:35:30 PM 62,03 RON
 9/26/2020 9:37:07 AM 62,03 RON
+10/1/2020 10:52:23 PM 62,19 RON

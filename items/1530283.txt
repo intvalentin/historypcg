@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-xf200rd
 1530283
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/xfan-200-red-led/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1434070/1530283/thumbnails/xfan-200-red-led-
 9/21/2020 7:57:17 AM 51,21 RON
 9/24/2020 6:38:29 PM 52,35 RON
 9/26/2020 9:40:05 AM 52,34 RON
+10/1/2020 10:40:39 PM 51,87 RON

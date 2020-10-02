@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0r40b00122
 1814880
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/raijintek/aeolus-rgb-120mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3645/1814880/thumbnails/aeolus-beta-low-prof
 9/21/2020 7:58:08 AM 70,13 RON
 9/24/2020 6:36:59 PM 70,22 RON
 9/26/2020 9:38:36 AM 70,33 RON
+10/1/2020 10:57:17 PM 70,30 RON

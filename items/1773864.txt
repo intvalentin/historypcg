@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hf-2812c-t1
 1773864
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/aer-rgb-2-series-triple-pack-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5015/1773864/thumbnails/aer-rgb-2-series-tri
 9/21/2020 7:57:31 AM 494,45 RON
 9/24/2020 6:37:44 PM 501,19 RON
 9/26/2020 9:39:20 AM 505,46 RON
+10/1/2020 11:29:45 PM 502,24 RON

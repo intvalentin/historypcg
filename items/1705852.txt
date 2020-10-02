@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventp121300rdx
 1705852
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-p12-redux-1300/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1690716/1705852/thumbnails/nf-p12-redux-1300
 9/21/2020 7:57:26 AM 82,36 RON
 9/24/2020 6:37:44 PM 82,36 RON
 9/26/2020 9:39:20 AM 82,36 RON
+10/1/2020 11:05:12 PM 82,36 RON

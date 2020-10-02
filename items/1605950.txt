@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-12025-rgb
 1605950
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/sf-12025-rgb-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1541210/1605950/thumbnails/sf-12025-rgb-5ec6
 9/21/2020 7:58:04 AM 58,78 RON
 9/24/2020 6:38:29 PM 58,78 RON
 9/26/2020 9:40:04 AM 58,78 RON
+10/1/2020 10:48:34 PM 58,78 RON

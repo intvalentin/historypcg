@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fn-140rb
 961299
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/nzxt/fn-140rb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/961299/thumbnails/fn-140rb-c2e668d541
 9/21/2020 7:57:54 AM 45,57 RON
 9/24/2020 6:43:00 PM 46,59 RON
 9/26/2020 9:44:32 AM 46,58 RON
+10/1/2020 10:28:49 PM 46,16 RON

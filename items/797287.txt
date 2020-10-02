@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050015-bled
 797287
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-af120-led-blue-quiet-edition-high-airflow-120mm-fan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/797287/thumbnails/air-series-af120-led-blu
 9/21/2020 7:58:13 AM 72,43 RON
 9/24/2020 6:44:29 PM 73,00 RON
 9/26/2020 9:46:02 AM 73,62 RON
+10/1/2020 11:00:20 PM 73,16 RON

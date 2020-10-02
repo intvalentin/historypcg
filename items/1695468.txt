@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-frgb-rf140-2c
 1695468
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/rf140-140mm-rgb-led-2in1-fan-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1695468/thumbnails/rf140-140mm-rgb-l
 9/21/2020 7:57:22 AM 166,05 RON
 9/24/2020 6:38:29 PM 169,75 RON
 9/26/2020 9:40:04 AM 169,71 RON
+10/1/2020 11:20:34 PM 168,19 RON

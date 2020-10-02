@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventf12ippc24v2000ip67q100pwm
 2053890
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-f12-industrialppc-24v-2000-q100-ip67-pwm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053890/thumbnails/nf-f12-industrialppc
 9/21/2020 7:58:23 AM 176,61 RON
 9/24/2020 6:35:30 PM 176,61 RON
 9/26/2020 9:37:07 AM 176,61 RON
+10/1/2020 11:22:41 PM 176,61 RON

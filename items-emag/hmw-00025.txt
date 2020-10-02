@@ -9,3 +9,5 @@ Laptop 2 in 1 Microsoft Surface Book 2 HMW-00025 cu procesor Intel® Core™ i5-
 9/26/2020 8:01:08 PM 8899
 9/30/2020 9:27:20 AM 8899
 9/30/2020 9:53:58 AM 8899
+10/1/2020 11:23:55 PM 8899
+10/1/2020 11:27:42 PM 8899

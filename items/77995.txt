@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vecmlus07ar
 77995
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/megaflow-200-red-led-silent-fan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/77995/thumbnails/megaflow-200-red-led-sile
 9/21/2020 7:58:18 AM 101,64 RON
 9/24/2020 6:47:25 PM 101,64 RON
 9/26/2020 9:48:16 AM 101,64 RON
+10/1/2020 11:11:12 PM 101,64 RON

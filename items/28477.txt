@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ventb91600
 28477
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-b9-1600/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/28477/thumbnails/noctuanfb91.jpg
 9/21/2020 7:58:13 AM 82,36 RON
 9/24/2020 6:47:25 PM 82,36 RON
 9/26/2020 9:48:59 AM 82,36 RON
+10/1/2020 11:04:22 PM 82,36 RON

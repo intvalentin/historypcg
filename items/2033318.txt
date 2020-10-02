@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |duo12-pro
 2033318
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/aerocool/duo-12-pro-120mm-argb-three-fan-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2033318/thumbnails/duo-12-pro-argb-120m
 9/21/2020 7:57:26 AM 168,70 RON
 9/24/2020 6:35:30 PM 172,45 RON
 9/26/2020 9:37:07 AM 172,41 RON
+10/1/2020 11:21:52 PM 170,86 RON

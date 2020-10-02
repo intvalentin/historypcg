@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050032-ww
 881960
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-sp120-led-green-high-static-pressure-120mm-fan-twin-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/881960/thumbnails/air-series-sp120-le
 9/21/2020 7:58:08 AM 72,18 RON
 9/24/2020 6:43:00 PM 73,16 RON
 9/26/2020 9:44:32 AM 73,79 RON
+10/1/2020 11:00:37 PM 73,31 RON

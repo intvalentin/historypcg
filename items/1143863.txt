@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f042-pl12sw-b
 1143863
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-12-led-rgb-3-fan-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088099/1143863/thumbnails/riing-12-led-rgb-
 9/21/2020 7:58:23 AM 248,81 RON
 9/24/2020 6:41:30 PM 248,28 RON
 9/26/2020 9:43:03 AM 248,23 RON
+10/1/2020 11:25:09 PM 252,00 RON

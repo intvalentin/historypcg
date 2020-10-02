@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f073-pl12sw-a
 1833272
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-duo-12-led-rgb-tt-premium-edition-120mm-3-fan-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1833272/thumbnails/riing-duo-12-led-rgb
 9/21/2020 7:57:31 AM 474,25 RON
 9/24/2020 6:36:59 PM 484,79 RON
 9/26/2020 9:38:36 AM 484,69 RON
+10/1/2020 11:29:28 PM 480,34 RON

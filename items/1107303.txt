@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-f039-pl14bu-a
 1107303
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/thermaltake/riing-14-blue-led/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/1107303/thumbnails/riing-12-blue-led-
 9/21/2020 7:57:26 AM 73,27 RON
 9/24/2020 6:42:15 PM 74,90 RON
 9/26/2020 9:43:47 AM 74,88 RON
+10/1/2020 11:01:09 PM 74,21 RON

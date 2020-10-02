@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r4-jfdp-20pr-r1
 823978
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/cooler-master/jetflo-120-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/823978/thumbnails/jetflo-120-red-3bed
 9/21/2020 7:58:13 AM 82,36 RON
 9/24/2020 6:43:00 PM 82,36 RON
 9/26/2020 9:44:32 AM 82,36 RON
+10/1/2020 11:04:55 PM 82,36 RON

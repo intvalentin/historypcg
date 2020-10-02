@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-tf120bg
 1189501
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/deepcool/tf120-120mm-blue-led/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/859765/1189501/thumbnails/tf120-120mm-blue-l
 9/21/2020 7:57:17 AM 63,38 RON
 9/24/2020 6:41:30 PM 64,79 RON
 9/26/2020 9:43:03 AM 64,78 RON
+10/1/2020 10:54:02 PM 64,20 RON

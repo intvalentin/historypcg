@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |venta20flx
 1496586
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/noctua/nf-a20-flx/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1489074/1496586/thumbnails/nf-a20-flx-e8c4f6
 9/21/2020 7:58:23 AM 176,61 RON
 9/24/2020 6:39:16 PM 176,61 RON
 9/26/2020 9:40:49 AM 176,61 RON
+10/1/2020 11:22:09 PM 176,61 RON

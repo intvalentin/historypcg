@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf-12025-rgb3
 1642448
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/id-cooling/sf-12025-rgb-3-fan-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1541210/1642448/thumbnails/sf-12025-rgb-3-fa
 9/21/2020 7:58:22 AM 164,58 RON
 9/24/2020 6:38:29 PM 168,24 RON
 9/26/2020 9:40:04 AM 168,20 RON
+10/1/2020 11:20:17 PM 166,69 RON

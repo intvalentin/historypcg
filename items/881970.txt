@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |co-9050034-ww
 881970
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/corsair/air-series-sp140-led-red-high-static-pressure-140mm-fan-twin-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/746930/881970/thumbnails/air-series-sp140-le
 9/21/2020 7:58:22 AM 144,27 RON
 9/24/2020 6:43:00 PM 146,24 RON
 9/26/2020 9:44:32 AM 147,48 RON
+10/1/2020 11:18:20 PM 146,54 RON

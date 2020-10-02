@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bl069
 1404323
     Product link    
 https://www.pcgarage.ro/ventilatoare-radiatoare/be-quiet/silent-wings-3-140-mm-1600-rpm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1404323/thumbnails/silent-wings-3-140
 9/21/2020 7:56:45 AM 119,49 RON
 9/24/2020 6:40:45 PM 118,14 RON
 9/26/2020 9:42:18 AM 117,39 RON
+10/1/2020 11:16:23 PM 117,84 RON
