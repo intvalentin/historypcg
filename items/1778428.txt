@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0038
 1778428
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0038-37-70-inch-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1778428/thumbnails/bp0038-37-70-inch-ne
 9/21/2020 8:13:51 AM 78,05 RON
 9/25/2020 9:21:18 PM 78,32 RON
 9/27/2020 9:20:00 AM 78,32 RON
+10/2/2020 11:51:51 AM 78,27 RON

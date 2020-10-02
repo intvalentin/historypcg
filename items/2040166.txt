@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg27bq.
 2040166
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/tuf-gaming-vg27bq-27-inch-negru-04ms-g-sync-compatible-165-hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2040166/thumbnails/tuf-gaming-vg27bq
 9/21/2020 8:16:01 AM 2.219,98 RON
 9/25/2020 9:44:58 PM 2.225,98 RON
 9/27/2020 9:40:54 AM 2.225,98 RON
+10/2/2020 6:12:38 PM 2.277,98 RON

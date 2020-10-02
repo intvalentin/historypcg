@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tv32
 2005310
     Product link    
 https://www.pcgarage.ro/televizoare-led/xiaomi/smart-tv-android-tv32-seria-32-81cm-negru-hd-ready/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2003606/2005310/thumbnails/smart-tv-android-
 9/21/2020 8:13:20 AM 932,98 RON
 9/25/2020 9:14:43 PM 952,98 RON
 9/27/2020 9:12:43 AM 952,98 RON
+10/2/2020 11:04:25 AM 944,98 RON

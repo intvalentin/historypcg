@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za090082bg
 1429914
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/yoga-tab-3-yt3-850f-8-inch-ips-multitouch-qualcomm-apq8009-130ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-android-51-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/851375/1429914/thumbnails/yoga-tab-3-yt3-850
 9/21/2020 12:00:21 AM 852,16 RON
 9/25/2020 1:39:17 PM 853,19 RON
 9/26/2020 3:58:10 PM 854,61 RON
+10/2/2020 1:57:32 PM 854,59 RON

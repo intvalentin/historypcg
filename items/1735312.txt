@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |causbdat2
 1735312
     Product link    
 https://www.pcgarage.ro/cabluri-date/kit/usb-male-la-usb-c-male-1-m-black-3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1728700/1735312/thumbnails/usb-male-la-usb-c
 9/20/2020 11:59:36 PM 45,98 RON
 9/25/2020 1:23:45 PM 45,98 RON
 9/26/2020 3:42:45 PM 45,98 RON
+10/2/2020 10:58:37 AM 45,98 RON

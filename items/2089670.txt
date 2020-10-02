@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb16ace
 2089670
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/zenscreen-mb16ace-156-inch-5-ms-argintiu-60-hz/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7008/2089670/thumbnails/zenscreen-mb16amt-to
     Pret    
 9/25/2020 9:42:48 PM 1.259,98 RON
 9/27/2020 9:38:27 AM 1.259,98 RON
+10/2/2020 5:59:01 PM 1.259,98 RON

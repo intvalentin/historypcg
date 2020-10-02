@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531095286
 2044230
     Product link    
 https://www.pcgarage.ro/suport-gsm/borofone/bh6-platinum-magnetic-pentru-bord-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2044230/thumbnails/bh6-platinum-magneti
 9/20/2020 11:58:01 PM 31,98 RON
 9/25/2020 1:12:37 PM 31,98 RON
 9/26/2020 3:31:35 PM 31,98 RON
+10/2/2020 10:09:59 AM 31,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90083
 1508838
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/plb-1348-37-63-inch-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475542/1508838/thumbnails/plb-1348-37-63-in
 9/21/2020 8:13:56 AM 428,39 RON
 9/25/2020 9:24:16 PM 429,87 RON
 9/27/2020 9:23:13 AM 429,87 RON
+10/2/2020 12:22:35 PM 429,62 RON

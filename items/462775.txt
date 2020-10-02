@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z2 black
 462775
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/arctic-cooling/z2-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/462775/thumbnails/z2-black-6e19dc125ffa76a
 9/21/2020 8:14:31 AM 411,75 RON
 9/25/2020 9:28:00 PM 411,75 RON
 9/27/2020 9:27:15 AM 411,75 RON
+10/2/2020 12:48:03 PM 411,75 RON

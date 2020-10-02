@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xoom
 249199
     Product link    
 https://www.pcgarage.ro/tablete/motorola/xoom/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/249199/thumbnails/xoom-c729be6a9c959030fbd
 9/21/2020 12:00:25 AM 2.398,23 RON
 9/25/2020 1:40:01 PM 2.398,23 RON
 9/26/2020 3:58:52 PM 2.398,23 RON
+10/2/2020 2:09:16 PM 2.398,23 RON

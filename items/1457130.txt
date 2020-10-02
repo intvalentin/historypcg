@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v5j61aa
 1457130
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/v197-185-inch-5-ms-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1358815/1457130/thumbnails/v197-185-inch-5-m
 9/21/2020 8:16:35 AM 555,98 RON
 9/25/2020 10:06:25 PM 557,98 RON
 9/27/2020 10:07:28 AM 555,98 RON
+10/2/2020 6:50:37 PM 557,98 RON

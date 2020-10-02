@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-t515nzddrom
 1860174
     Product link    
 https://www.pcgarage.ro/tablete/samsung/sm-t515-galaxy-tab-a-101-2019-101-inch-multi-touch-exynos-7904-18ghz-octa-core-2gb-ram-32gb-flash-wi-fi-bluetooth-4g-gps-android-90-gold/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1860174/thumbnails/sm-t515-galaxy-tab-a
 9/21/2020 12:00:09 AM 1.280,07 RON
 9/25/2020 1:34:50 PM 1.280,07 RON
 9/26/2020 3:53:45 PM 1.280,07 RON
+10/2/2020 1:25:46 PM 1.280,06 RON

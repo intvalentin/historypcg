@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bj503533
 1580490
     Product link    
 https://www.pcgarage.ro/tablete/archos/access-101-101-inch-tn-multitouch-cortex-a7-13ghz-quad-core-1gb-ram-8gb-flash-wi-fi-bluetooth-3g-gps-android-70-white-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1516422/1580490/thumbnails/access-101-101-in
 9/21/2020 12:00:17 AM 286,17 RON
 9/25/2020 1:39:17 PM 287,00 RON
 9/26/2020 3:58:10 PM 287,16 RON
+10/2/2020 1:49:33 PM 286,99 RON

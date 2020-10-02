@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km1066-b
 1663756
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-1066-101-inch-multitouch-ips-cortex-a7-133ghz-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-gps-3g-android-60-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1573/1663756/thumbnails/eagle-1066-101-inch-
 9/21/2020 12:00:17 AM 462,99 RON
 9/25/2020 1:38:33 PM 462,99 RON
 9/26/2020 3:57:26 PM 462,99 RON
+10/2/2020 1:52:05 PM 462,99 RON

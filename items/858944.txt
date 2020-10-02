@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm108764
 858944
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/hama/tv-si-2-rafturi-32-55-inch-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/858944/thumbnails/tv-si-2-rafturi-32-55-in
 9/21/2020 8:13:56 AM 1.008,38 RON
 9/25/2020 9:25:01 PM 1.008,38 RON
 9/27/2020 9:24:02 AM 1.008,38 RON
+10/2/2020 12:25:34 PM 1.008,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6983980140222
 2073378
     Product link    
 https://www.pcgarage.ro/cabluri-date/goui/fashion-usb-male-la-lightning-male-1-m-green-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2073378/thumbnails/fashion-usb-male-la-
 9/20/2020 11:59:12 PM 99,98 RON
 9/25/2020 1:14:51 PM 99,98 RON
 9/26/2020 3:33:50 PM 99,98 RON
+10/2/2020 12:03:14 PM 99,98 RON

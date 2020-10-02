@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |32gk650f-b
 1740492
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-32gk650f-32-inch-2k-1-ms-black-freesync-144-hz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1736364/1740492/thumbnails/gaming-32gk650f-3
 9/21/2020 8:17:19 AM 1.611,98 RON
 9/25/2020 10:01:56 PM 1.585,98 RON
 9/27/2020 10:02:42 AM 1.585,98 RON
+10/2/2020 6:06:57 PM 1.609,98 RON

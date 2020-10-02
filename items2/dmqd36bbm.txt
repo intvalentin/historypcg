@@ -1,0 +1,1 @@
+core gold gc 500 (ssr-500lc)

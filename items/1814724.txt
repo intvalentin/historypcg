@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za450102bg
 1814724
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-p10-tb-x705l-10-inch-ips-multi-touch-cortex-a53-18ghz-octa-core-3gb-ram-32gb-flash-wi-fi-bluetooth-4g-gps-android-81-sparkling-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3645/1814724/thumbnails/tab-p10-tb-x705l-10-
 9/21/2020 12:00:13 AM 1.408,67 RON
 9/25/2020 1:38:33 PM 1.410,38 RON
 9/26/2020 3:57:26 PM 1.412,73 RON
+10/2/2020 2:02:43 PM 1.412,70 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za300140bg
 1644080
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab4-tb-7304f-7-inch-ips-multitouch-cortex-a53-11-ghz-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-android-70-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/922/1644080/thumbnails/tab-4-tb-7304x-7-inch
 9/21/2020 12:00:17 AM 413,36 RON
 9/25/2020 1:39:17 PM 413,87 RON
 9/26/2020 3:58:10 PM 414,55 RON
+10/2/2020 1:50:58 PM 414,35 RON

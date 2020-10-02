@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t32-dled black
 1128393
     Product link    
 https://www.pcgarage.ro/televizoare-led/orion/t32-dled-seria-dled-81cm-negru-hd-ready/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/1128393/thumbnails/t32-dled-seria-dle
 9/21/2020 8:13:20 AM 1.033,98 RON
 9/25/2020 9:17:39 PM 1.033,98 RON
 9/27/2020 9:15:55 AM 1.033,98 RON
+10/2/2020 11:04:58 AM 1.033,98 RON

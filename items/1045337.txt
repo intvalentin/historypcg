@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90016
 1045337
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/cplb-28s-23-42-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/1045337/thumbnails/cplb-28s-eaed6cf9d
 9/21/2020 8:14:23 AM 206,39 RON
 9/25/2020 9:27:15 PM 207,10 RON
 9/27/2020 9:26:26 AM 207,10 RON
+10/2/2020 12:39:13 PM 206,98 RON

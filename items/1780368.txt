@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dth-1620a-eu
 1780368
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/cintiq-pro-16-inch-uhd-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1779504/1780368/thumbnails/cintiq-pro-16-inc
 9/21/2020 12:01:37 AM 8.338,81 RON
 9/25/2020 1:49:34 PM 8.338,81 RON
 9/26/2020 4:17:51 PM 8.338,81 RON
+10/2/2020 6:56:25 PM 8.338,81 RON

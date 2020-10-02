@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pht14277
 2055518
     Product link    
 https://www.pcgarage.ro/e-book-reader/amazon/kindle-2019-6-inch-8gb-wi-fi-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2055518/thumbnails/kindle-2019-6-inch-8
 9/21/2020 12:01:23 AM 516,73 RON
 9/25/2020 1:47:21 PM 508,99 RON
 9/26/2020 4:15:39 PM 508,99 RON
+10/2/2020 6:31:10 PM 508,99 RON

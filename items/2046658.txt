@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531061182
 2046658
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x13-usb-male-la-usb-c-male-1-m-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2046658/thumbnails/x13-usb-male-la-u
 9/20/2020 11:58:25 PM 41,98 RON
 9/25/2020 1:20:03 PM 41,98 RON
 9/26/2020 3:39:02 PM 41,98 RON
+10/2/2020 10:49:47 AM 41,98 RON

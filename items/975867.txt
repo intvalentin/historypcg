@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0026
 975867
     Product link    
 https://www.pcgarage.ro/incarcatoare-tablete/krugermatz/incarcator-retea-km0026-universal/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/800612/975867/thumbnails/incarcator-retea-km
 9/21/2020 12:01:06 AM 43,38 RON
 9/25/2020 1:43:43 PM 43,38 RON
 9/26/2020 4:02:34 PM 43,38 RON
+10/2/2020 6:15:19 PM 43,38 RON

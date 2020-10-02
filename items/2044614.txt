@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |220v8+-+00
 2044614
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/220v8-215-inch-4-ms-negru-60-hz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1034/2044614/thumbnails/220v8-215-inch-4-ms-
 9/21/2020 8:16:17 AM 393,98 RON
 9/25/2020 9:55:16 PM 395,98 RON
 9/27/2020 9:55:29 AM 395,98 RON
+10/2/2020 6:29:30 PM 439,98 RON
+10/2/2020 6:36:40 PM 439,98 RON

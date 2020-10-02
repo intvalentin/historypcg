@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mxdd2
 2023302
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-pro-11-2020-256gb-wi-fi-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8491/2023302/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:35 AM 5.261,76 RON
 9/25/2020 1:35:35 PM 5.268,14 RON
 9/26/2020 3:54:28 PM 5.276,91 RON
+10/2/2020 5:42:02 PM 5.276,81 RON

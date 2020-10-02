@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smart charger 8000 (eu)
 1101378
     Product link    
 https://www.pcgarage.ro/incarcatoare-tablete/arctic-cooling/smart-charger-8000/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/1101378/thumbnails/smart-charger-8000
 9/21/2020 12:01:08 AM 120,09 RON
 9/25/2020 1:43:43 PM 120,09 RON
 9/26/2020 4:02:34 PM 120,09 RON
+10/2/2020 6:17:24 PM 120,09 RON

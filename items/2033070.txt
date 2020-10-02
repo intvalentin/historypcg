@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |qsw-00007
 2033070
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-black-pentru-surface-pro-x-cu-pen/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033070/thumbnails/tastatura-wireless-b
 9/21/2020 12:00:48 AM 1.162,90 RON
 9/25/2020 1:40:45 PM 1.166,04 RON
 9/26/2020 3:59:37 PM 1.167,55 RON
+10/2/2020 5:55:50 PM 1.166,87 RON

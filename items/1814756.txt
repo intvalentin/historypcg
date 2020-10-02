@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za400077bg
 1814756
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-e7-tb-7104f-7-inch-multi-touch-cortex-a7-13-ghz-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-android-80-slate-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3645/1814756/thumbnails/tab-e7-tb-7104i-7-in
 9/21/2020 12:00:13 AM 376,09 RON
 9/25/2020 1:38:33 PM 376,55 RON
 9/26/2020 3:57:26 PM 377,18 RON
+10/2/2020 1:50:07 PM 376,99 RON

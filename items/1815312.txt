@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ag273qcx
 1815312
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/gaming-ag273qcx-27-inch-curbat-2k-1-ms-black-grey-freesync-144hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3645/1815312/thumbnails/gaming-ag273qcx-27-i
 9/21/2020 8:15:18 AM 2.109,98 RON
 9/25/2020 9:48:39 PM 2.117,98 RON
 9/27/2020 9:44:55 AM 2.117,98 RON
+10/2/2020 6:12:04 PM 2.115,98 RON

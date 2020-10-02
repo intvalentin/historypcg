@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531072850
 2057526
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x23-usb-male-la-microusb-male-1-m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2057526/thumbnails/x23-usb-male-la-micr
 9/20/2020 11:58:39 PM 45,98 RON
 9/25/2020 1:16:21 PM 45,98 RON
 9/26/2020 3:35:19 PM 45,98 RON
+10/2/2020 11:08:20 AM 45,98 RON

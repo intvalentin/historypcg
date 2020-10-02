@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k60900us
 1965062
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/kensington/smartfit-k60900us-24-inch-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1960570/1965062/thumbnails/smartfit-k60900us
 9/21/2020 8:14:31 AM 1.335,47 RON
 9/25/2020 9:25:46 PM 1.400,74 RON
 9/27/2020 9:24:49 AM 1.400,74 RON
+10/2/2020 12:51:37 PM 1.400,74 RON

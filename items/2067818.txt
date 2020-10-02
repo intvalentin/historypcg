@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531064121
 2067818
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/adaptor-ua5-usb-c-male-la-usb-female-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2067818/thumbnails/adaptor-ua5-usb-c-ma
 9/20/2020 11:59:31 PM 39,98 RON
 9/25/2020 1:25:14 PM 39,98 RON
 9/26/2020 3:44:14 PM 39,98 RON
+10/2/2020 12:20:31 PM 39,98 RON

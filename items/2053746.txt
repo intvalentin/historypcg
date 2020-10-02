@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217466210
 2053746
     Product link    
 https://www.pcgarage.ro/cabluri-date/swissten/usb-male-la-usb-c-male-1-m-white-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053746/thumbnails/usb-male-la-usb-c-ma
 9/20/2020 11:58:39 PM 45,98 RON
 9/25/2020 1:17:05 PM 45,98 RON
 9/26/2020 3:36:04 PM 45,98 RON
+10/2/2020 11:07:13 AM 45,98 RON

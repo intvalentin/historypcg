@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e719sda
 823588
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/e719sda-17-inch-5ms-silver/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/480523/823588/thumbnails/e719sda-17-inch-5ms
 9/21/2020 8:16:39 AM 587,98 RON
 9/25/2020 10:10:09 PM 589,98 RON
 9/27/2020 10:11:29 AM 589,98 RON
+10/2/2020 6:55:59 PM 589,98 RON
+10/2/2020 6:56:42 PM 589,98 RON

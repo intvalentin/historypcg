@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31100060101
 302293
     Product link    
 https://www.pcgarage.ro/tablete-grafice/genius/i608x/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/302293/thumbnails/i608x-051c54eb1c1197e16e
 9/21/2020 12:01:35 AM 218,03 RON
 9/25/2020 1:50:16 PM 219,78 RON
 9/26/2020 4:18:33 PM 221,66 RON
+10/2/2020 6:53:41 PM 219,63 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |210-argk
 1974942
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/u4919dw-curbat-49-inch-8-ms-negru-60-hz/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1974942/thumbnails/u4919dw-curbat-49-in
 9/21/2020 8:16:04 AM 6.127,98 RON
 9/25/2020 9:57:29 PM 6.145,98 RON
 9/27/2020 9:57:54 AM 6.149,98 RON
+10/2/2020 6:22:54 PM 6.143,98 RON

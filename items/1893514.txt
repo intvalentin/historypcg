@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65earac1eu
 1893514
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/legion-y44w-10-curbat-434-inch-6ms-144hz-freesync/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1893514/thumbnails/legion-y44w-10-curba
 9/21/2020 8:15:22 AM 4.775,98 RON
 9/25/2020 9:47:55 PM 4.787,98 RON
 9/27/2020 9:44:06 AM 4.791,98 RON
+10/2/2020 6:21:16 PM 4.787,98 RON

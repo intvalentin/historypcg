@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |328b6qjeb+-+00
 1900754
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/328b6qjeb-315-inch-2k-5ms-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1900754/thumbnails/328b6qjeb-315-inc
 9/21/2020 8:15:18 AM 1.465,98 RON
 9/25/2020 9:47:55 PM 1.467,98 RON
 9/27/2020 9:44:06 AM 1.467,98 RON
+10/2/2020 6:03:05 PM 1.431,98 RON

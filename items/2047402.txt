@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pmt4138_4g_d
 2047402
     Product link    
 https://www.pcgarage.ro/tablete/prestigio/wize-4138-8-inch-multi-touch-ips-quad-core-14ghz-1gb-ram-16gb-flash-wi-fi-bluetooth-4g-android-81-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2047402/thumbnails/wize-4138-8-inch-
 9/21/2020 12:00:17 AM 418,33 RON
 9/25/2020 1:35:35 PM 427,63 RON
 9/26/2020 3:53:45 PM 427,54 RON
+10/2/2020 1:51:14 PM 423,70 RON

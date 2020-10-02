@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000026203
 1580970
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/e2418hn-238-inch-5ms-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457254/1580970/thumbnails/e2418hn-238-inch-
 9/21/2020 8:16:48 AM 699,99 RON
 9/25/2020 10:04:10 PM 699,99 RON
 9/27/2020 10:05:06 AM 699,99 RON
+10/2/2020 7:13:34 PM 699,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pmbst02
 2044662
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/prestigio/pmbst02/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2044662/thumbnails/pmbst02-eb849584ed85
 9/21/2020 8:14:31 AM 1.696,73 RON
 9/25/2020 9:25:01 PM 1.734,09 RON
 9/27/2020 9:24:02 AM 1.734,09 RON
+10/2/2020 12:51:53 PM 1.718,52 RON

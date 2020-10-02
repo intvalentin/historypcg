@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65efgac1eu
 1963382
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/gaming-legion-y27gq-20-27-inch-2k-1ms-g-sync-165hz-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1963382/thumbnails/gaming-legion-y27gq-
 9/21/2020 8:16:01 AM 2.865,98 RON
 9/25/2020 9:47:55 PM 2.873,98 RON
 9/27/2020 9:44:06 AM 2.873,98 RON
+10/2/2020 6:16:40 PM 2.873,98 RON

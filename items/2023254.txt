@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mxau2
 2023254
     Product link    
 https://www.pcgarage.ro/detalii-produs/2023254/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/8491/2023254/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:39 AM 6.457,00 RON
 9/25/2020 1:36:19 PM 6.464,84 RON
 9/26/2020 3:55:12 PM 6.475,61 RON
+10/2/2020 1:49:00 PM 6.192,18 RON
+10/2/2020 5:43:41 PM 6.192,18 RON

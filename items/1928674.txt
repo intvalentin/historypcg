@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0118
 1928674
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-male-la-microusb-male-15-m-blue-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6622/1928674/thumbnails/usb-male-la-microusb
 9/20/2020 11:59:26 PM 35,98 RON
 9/25/2020 1:28:57 PM 35,98 RON
 9/26/2020 3:47:57 PM 35,98 RON
+10/2/2020 12:16:11 PM 35,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z1 black
 374573
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/arctic-cooling/z1-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/374573/thumbnails/z1-black-9cf1493e5f85b63
 9/21/2020 8:14:27 AM 249,99 RON
 9/25/2020 9:28:00 PM 249,99 RON
 9/27/2020 9:27:16 AM 249,99 RON
+10/2/2020 12:41:52 PM 249,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2pd30aa
 1974970
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/elitedisplay-e233-ho-23-inch-5-ms-argintiu-60-hz/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6472/1974970/thumbnails/elitedisplay-e233-23
 9/21/2020 8:16:26 AM 361,98 RON
 9/25/2020 9:57:29 PM 363,98 RON
 9/27/2020 9:57:54 AM 363,98 RON
+10/2/2020 6:25:24 PM 363,98 RON
+10/2/2020 6:26:25 PM 363,98 RON

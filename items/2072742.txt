@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6939801428192
 2072742
     Product link    
 https://www.pcgarage.ro/cabluri-date/goui/metallic-usb-c-male-la-lightning-male-1-m-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2072742/thumbnails/metallic-usb-c-male-
 9/20/2020 11:59:17 PM 113,98 RON
 9/25/2020 1:15:36 PM 113,98 RON
 9/26/2020 3:33:50 PM 113,98 RON
+10/2/2020 12:09:23 PM 113,98 RON

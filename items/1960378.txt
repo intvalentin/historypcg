@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0289
 1960378
     Product link    
 https://www.pcgarage.ro/e-book-reader/krugermatz/library-3s-carta-plus/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1261/1960378/thumbnails/library-3s-carta-plu
 9/21/2020 12:01:23 AM 551,23 RON
 9/25/2020 1:47:21 PM 548,47 RON
 9/26/2020 4:15:39 PM 548,47 RON
+10/2/2020 6:37:56 PM 548,47 RON

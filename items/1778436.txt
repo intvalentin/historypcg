@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0047
 1778436
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0047-37-70-inch-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1778436/thumbnails/bp0047-37-70-inch-ne
 9/21/2020 8:14:27 AM 315,43 RON
 9/25/2020 9:25:46 PM 316,52 RON
 9/27/2020 9:24:49 AM 316,52 RON
+10/2/2020 12:44:02 PM 316,33 RON

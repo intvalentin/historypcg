@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0017
 975857
     Product link    
 https://www.pcgarage.ro/incarcatoare-tablete/krugermatz/incarcator-retea-km0017-dual-universal/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/975857/thumbnails/incarcator-retea-km
 9/21/2020 12:01:06 AM 24,60 RON
 9/25/2020 1:43:43 PM 24,60 RON
 9/26/2020 4:02:34 PM 24,60 RON
+10/2/2020 6:13:56 PM 24,60 RON

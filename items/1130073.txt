@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i960prda
 1130073
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/i960prda-19-inch-5ms-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986422/1130073/thumbnails/i960prda-19-inch-5
 9/21/2020 8:16:53 AM 745,98 RON
 9/25/2020 10:09:24 PM 749,98 RON
 9/27/2020 10:10:42 AM 749,98 RON
+10/2/2020 5:40:14 PM 747,98 RON

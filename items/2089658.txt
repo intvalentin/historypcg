@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb16amt
 2089658
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/zenscreen-mb16amt-touchscreen-156-inch-argintiu-60-hz/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/7008/2089658/thumbnails/zenscreen-mb16amt-to
     Pret    
 9/25/2020 9:42:48 PM 1.999,98 RON
 9/27/2020 9:38:27 AM 2.001,98 RON
+10/2/2020 6:11:48 PM 2.091,98 RON

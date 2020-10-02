@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65fagac2eu
 2030442
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/l28u-30-28-inch-4k-4-ms-black-freesync-60hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2030442/thumbnails/monitor-lcd-30-quot-
 9/21/2020 8:15:22 AM 1.379,98 RON
 9/25/2020 9:45:42 PM 1.383,98 RON
 9/27/2020 9:41:41 AM 1.383,98 RON
+10/2/2020 6:01:59 PM 1.383,98 RON

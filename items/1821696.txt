@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-ms-mdf3-bkd2
 1821696
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/deepcool/m-desk-f3-27-inch-usb-port-audio-port-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/1821696/thumbnails/m-desk-f3-27-inch
 9/21/2020 8:14:27 AM 217,74 RON
 9/25/2020 9:25:46 PM 222,54 RON
 9/27/2020 9:24:49 AM 222,54 RON
+10/2/2020 12:40:18 PM 220,54 RON

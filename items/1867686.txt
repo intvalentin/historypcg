@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0961-b
 1867686
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-961-96-inch-multi-touch-ips-cortex-a7-13ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-3g-android-81-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7399/1867686/thumbnails/eagle-961-96-inch-mu
 9/21/2020 12:00:17 AM 484,59 RON
 9/25/2020 1:37:48 PM 484,59 RON
 9/26/2020 3:56:41 PM 484,59 RON
+10/2/2020 1:53:06 PM 484,59 RON

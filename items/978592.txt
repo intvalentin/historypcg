@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p2415q
 978592
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/p2415q-238-inch-8ms-gtg-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/978592/thumbnails/p2415q-238-inch-8ms
 9/21/2020 8:15:12 AM 1.699,99 RON
 9/25/2020 9:42:03 PM 1.699,99 RON
 9/27/2020 9:37:38 AM 1.699,99 RON
+10/2/2020 1:59:59 PM 1.699,99 RON

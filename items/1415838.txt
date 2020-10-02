@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psi-a023
 1415838
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/refill-ink-gp-xp-zp-black-5-buc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1126098/1415838/thumbnails/refill-ink-gp-xp-
 9/21/2020 12:01:47 AM 145,78 RON
 9/25/2020 1:51:45 PM 145,78 RON
 9/26/2020 4:20:03 PM 145,78 RON
+10/2/2020 7:08:08 PM 145,78 RON

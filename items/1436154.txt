@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za0h0050bg
 1436154
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/yoga-tab-3-10-inch-ips-multitouch-qualcomm-snapdragon-210-130ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-android-51-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1175151/1436154/thumbnails/yoga-tab-3-10-inc
 9/21/2020 12:00:21 AM 1.030,22 RON
 9/25/2020 1:39:17 PM 1.031,47 RON
 9/26/2020 3:58:10 PM 1.033,19 RON
+10/2/2020 1:59:40 PM 1.033,17 RON

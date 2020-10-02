@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pb633-n-ww
 2062010
     Product link    
 https://www.pcgarage.ro/e-book-reader/pocketbook/color-moon-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2062010/thumbnails/color-moon-silver-00
 9/21/2020 12:01:23 AM 1.243,38 RON
 9/25/2020 1:47:21 PM 1.243,38 RON
 9/26/2020 4:15:39 PM 1.243,38 RON
+10/2/2020 6:38:28 PM 1.243,38 RON

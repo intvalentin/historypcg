@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217456013
 2053742
     Product link    
 https://www.pcgarage.ro/cabluri-date/swissten/usb-c-male-la-usb-c-male-12-m-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2053742/thumbnails/usb-c-male-la-usb-c-
 9/20/2020 11:59:03 PM 63,98 RON
 9/25/2020 1:17:05 PM 63,98 RON
 9/26/2020 3:36:04 PM 63,98 RON
+10/2/2020 11:45:35 AM 63,98 RON

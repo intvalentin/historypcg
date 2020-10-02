@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20bq000lri
 817223
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/thinkpad-8-83-inch-ips-multitouch-atom-z3770-239ghz-quad-core-2gb-ram-128gb-flash-wi-fi-bluetooth-win-81-plus-office-home-student/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/817223/thumbnails/thinkpad-8-83-inch-
 9/21/2020 12:00:25 AM 2.697,65 RON
 9/25/2020 1:40:01 PM 2.705,42 RON
 9/26/2020 3:58:52 PM 2.706,98 RON
+10/2/2020 2:13:53 PM 2.705,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kcs-00033
 2033106
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-cobalt-blue-pentru-surface-go/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2033106/thumbnails/tastatura-wireless-c
 9/21/2020 12:00:48 AM 554,52 RON
 9/25/2020 1:40:45 PM 556,02 RON
 9/26/2020 3:59:37 PM 556,71 RON
+10/2/2020 5:54:14 PM 556,43 RON

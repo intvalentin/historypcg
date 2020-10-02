@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upq500
 1389129
     Product link    
 https://www.pcgarage.ro/navigatoare/serioux/urban-pilot-upq500-50-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1178653/1389129/thumbnails/urban-pilot-upq50
 9/21/2020 8:14:40 AM 209,98 RON
 9/25/2020 9:29:25 PM 209,98 RON
 9/27/2020 9:28:52 AM 209,98 RON
+10/2/2020 12:56:03 PM 209,98 RON

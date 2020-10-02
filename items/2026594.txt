@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |oled55b9sla
 2026594
     Product link    
 https://www.pcgarage.ro/televizoare-led/lg/smart-tv-oled55b9sla-seria-b9sla-139cm-negru-gri-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2026594/thumbnails/smart-tv-oled55b9sla
 9/21/2020 8:13:20 AM 5.498,99 RON
 9/25/2020 9:14:43 PM 5.498,99 RON
 9/27/2020 9:12:43 AM 5.498,99 RON
+10/2/2020 11:24:10 AM 5.498,99 RON

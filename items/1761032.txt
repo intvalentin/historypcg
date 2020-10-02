@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sw240
 1761032
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/sw240-241-inch-5-ms-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1761032/thumbnails/sw240-241-inch-5-ms-
 9/21/2020 8:17:27 AM 2.353,98 RON
 9/25/2020 10:01:12 PM 2.361,98 RON
 9/27/2020 10:01:55 AM 2.361,98 RON
+10/2/2020 6:13:27 PM 2.359,98 RON

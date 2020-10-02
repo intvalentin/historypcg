@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mxe92
 2023266
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-pro-11-2020-1tb-wi-fi-plus-cellular-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8491/2023266/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:43 AM 8.607,11 RON
 9/25/2020 1:36:19 PM 8.617,56 RON
 9/26/2020 3:55:12 PM 8.631,91 RON
+10/2/2020 5:50:14 PM 8.631,73 RON

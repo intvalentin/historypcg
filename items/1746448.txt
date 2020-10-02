@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |navitel t500
 1746448
     Product link    
 https://www.pcgarage.ro/navigatoare/navitel/t500-3g-gps-dual-sim-7-inch-plus-harta-full-europe-cu-android/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1746448/thumbnails/t500-3g-gps-7-inc
 9/21/2020 8:14:40 AM 269,98 RON
 9/25/2020 9:29:25 PM 269,98 RON
 9/27/2020 9:28:52 AM 269,98 RON
+10/2/2020 12:59:35 PM 269,98 RON

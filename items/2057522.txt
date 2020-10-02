@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531045236
 2057522
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x6-usb-male-la-microusb-male-1-m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057522/thumbnails/x6-usb-male-la-micro
 9/20/2020 11:58:29 PM 41,98 RON
 9/25/2020 1:16:21 PM 41,98 RON
 9/26/2020 3:35:19 PM 41,98 RON
+10/2/2020 10:54:04 AM 41,98 RON

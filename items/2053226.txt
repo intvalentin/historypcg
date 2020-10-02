@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474708823
 2053226
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u64-superior-lightning-male-la-usb-c-male-12-m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053226/thumbnails/u64-superior-lightni
 9/20/2020 11:59:03 PM 63,98 RON
 9/25/2020 1:17:50 PM 63,98 RON
 9/26/2020 3:36:48 PM 63,98 RON
+10/2/2020 11:42:48 AM 63,98 RON

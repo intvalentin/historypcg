@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0045
 1778148
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0045-13-32-inch-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1778148/thumbnails/bp0045-13-32-inch-ne
 9/21/2020 8:13:56 AM 213,37 RON
 9/25/2020 9:21:18 PM 212,19 RON
 9/27/2020 9:20:00 AM 212,19 RON
+10/2/2020 12:11:00 PM 213,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |22p1d
 1798388
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/22p1d-215-inch-2-ms-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6361/1798388/thumbnails/22p1d-215-inch-2-ms-
 9/21/2020 8:15:38 AM 577,98 RON
 9/25/2020 9:48:39 PM 577,98 RON
 9/27/2020 9:44:55 AM 577,98 RON
+10/2/2020 5:32:21 PM 593,98 RON

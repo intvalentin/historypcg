@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90085
 1793920
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/drs-301-argintiu/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3049/1793920/thumbnails/drs-301-black-8375be
 9/21/2020 8:14:04 AM 175,92 RON
 9/25/2020 9:21:18 PM 176,53 RON
 9/27/2020 9:20:00 AM 176,53 RON
+10/2/2020 12:06:25 PM 176,43 RON

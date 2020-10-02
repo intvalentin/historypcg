@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-20101k
 1415458
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/nib-pen-bamboo-pentru-cth-460-si-ctl-460-5-buc/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025736/1415458/thumbnails/nib-pen-bamboo-pe
 9/21/2020 12:01:47 AM 41,77 RON
 9/25/2020 1:51:45 PM 41,77 RON
 9/26/2020 4:20:03 PM 41,77 RON
+10/2/2020 7:05:53 PM 41,77 RON

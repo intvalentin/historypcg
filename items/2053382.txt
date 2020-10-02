@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217455511
 2053382
     Product link    
 https://www.pcgarage.ro/cabluri-date/swissten/usb-male-la-microusb-male-2-m-black-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2053382/thumbnails/usb-male-la-microusb
 9/20/2020 11:59:55 PM 63,98 RON
 9/25/2020 1:26:43 PM 63,98 RON
 9/26/2020 3:45:43 PM 63,98 RON
+10/2/2020 1:05:08 PM 63,98 RON

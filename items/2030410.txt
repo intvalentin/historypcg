@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65fbgac1eu
 2030410
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/l24q-30-238-inch-2k-4-ms-black-freesync-75hz/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2030410/thumbnails/monitor-lcd-24-quot-
 9/21/2020 8:15:09 AM 859,99 RON
 9/25/2020 9:45:42 PM 859,99 RON
 9/27/2020 9:41:41 AM 859,99 RON
+10/2/2020 5:46:31 PM 859,99 RON

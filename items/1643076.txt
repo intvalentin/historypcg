@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pgps705900004gb00
 1643076
     Product link    
 https://www.pcgarage.ro/navigatoare/prestigio/geovision-7059/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1642372/1643076/thumbnails/geovision-7059-0f
 9/21/2020 8:14:40 AM 259,98 RON
 9/25/2020 9:29:25 PM 269,98 RON
 9/27/2020 9:28:52 AM 269,98 RON
+10/2/2020 12:59:18 PM 269,98 RON

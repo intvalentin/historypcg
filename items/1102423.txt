@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-mficab01b
 1102423
     Product link    
 https://www.pcgarage.ro/cabluri-date/canyon/lightning-usb-black-1m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1102423/thumbnails/lightning-usb-blac
 9/20/2020 11:59:45 PM 53,98 RON
 9/25/2020 1:31:55 PM 55,98 RON
 9/26/2020 3:50:55 PM 55,98 RON
+10/2/2020 1:00:04 PM 55,98 RON

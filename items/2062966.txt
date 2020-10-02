@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-t870nzsaeue
 2062966
     Product link    
 https://www.pcgarage.ro/tablete/samsung/galaxy-tab-s7-11-inch-multi-touch-snapdragon-865-plus-octa-core-309ghz-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-mystic-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6954/2062966/thumbnails/galaxy-tab-s7-11-inc
 9/21/2020 12:00:30 AM 3.299,00 RON
 9/25/2020 1:34:50 PM 3.299,00 RON
 9/26/2020 3:53:45 PM 3.299,00 RON
+10/2/2020 2:19:55 PM 3.299,00 RON

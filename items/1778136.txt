@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0042
 1778136
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0042-13-32-inch-argintiu/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778136/thumbnails/bp0042-13-32-inch-arg
 9/21/2020 8:14:18 AM 326,83 RON
 9/25/2020 9:25:46 PM 327,96 RON
 9/27/2020 9:24:49 AM 327,96 RON
+10/2/2020 12:44:19 PM 327,76 RON

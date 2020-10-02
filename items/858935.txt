@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm84427
 858935
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/hama/motion-xl-37-63-inch-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/843505/858935/thumbnails/motion-xl-37-63-inc
 9/21/2020 8:14:14 AM 353,53 RON
 9/25/2020 9:25:01 PM 353,53 RON
 9/27/2020 9:24:02 AM 353,53 RON
+10/2/2020 12:19:22 PM 353,53 RON

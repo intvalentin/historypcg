@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1u0014bg
 1529030
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-a-tb-x103f-101-inch-ips-multitouch-cortex-a7-13-ghz-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-gps-android-60-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1500686/1529030/thumbnails/tab-a-tb-x103f-10
 9/21/2020 12:00:21 AM 705,89 RON
 9/25/2020 1:39:17 PM 706,76 RON
 9/26/2020 3:58:10 PM 707,92 RON
+10/2/2020 1:55:35 PM 707,91 RON

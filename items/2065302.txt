@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531077084
 2065302
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x24-usb-male-la-usb-c-male-1-m-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2065302/thumbnails/x24-usb-male-la-usb-
 9/20/2020 11:58:39 PM 45,98 RON
 9/25/2020 1:15:36 PM 45,98 RON
 9/26/2020 3:34:34 PM 45,98 RON
+10/2/2020 12:45:10 PM 45,98 RON

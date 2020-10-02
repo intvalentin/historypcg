@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |int-09101
 1984998
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/6-siege-intercept/
@@ -8,3 +8,4 @@ Gunnar 6-Siege Intercept
 https://1.grgs.ro/images/products/1/370411/1984998/thumbnails/6-siege-intercept-085ebe9623e4303fe4e207bd16831ec3.jpg
     Pret    
 9/21/2020 8:08:37 AM 499,99 RON
+10/2/2020 9:51:49 AM 499,99 RON

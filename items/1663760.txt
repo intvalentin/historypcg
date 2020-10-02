@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km1067-b
 1663760
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-1067-101-inch-multitouch-ips-cortex-a53-130ghz-quad-core-1gb-ram-8gb-flash-wi-fi-bluetooth-gps-4g-android-70-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1573/1663760/thumbnails/eagle-1067-101-inch-
 9/21/2020 12:00:17 AM 588,79 RON
 9/25/2020 1:38:33 PM 588,79 RON
 9/26/2020 3:57:26 PM 588,79 RON
+10/2/2020 1:54:46 PM 588,79 RON

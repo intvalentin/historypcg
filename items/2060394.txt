@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |office start i3m16hs
 2060394
     Product link    
 https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/office-start-i3m16hs/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2060394/thumbnails/office-start-i3m16hs
 9/21/2020 12:01:50 AM 1.598,99 RON
 9/25/2020 1:52:28 PM 1.598,99 RON
 9/26/2020 4:20:46 PM 1.598,99 RON
+10/2/2020 7:12:14 PM 1.698,99 RON

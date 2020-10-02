@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474720276
 2053178
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/s24-usb-male-la-lightning-male-12-m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2053178/thumbnails/s24-usb-male-la-ligh
 9/20/2020 11:58:34 PM 45,98 RON
 9/25/2020 1:17:50 PM 45,98 RON
 9/26/2020 3:36:48 PM 45,98 RON
+10/2/2020 11:05:50 AM 45,98 RON

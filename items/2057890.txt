@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474722867
 2057890
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u82-cool-usb-male-la-microusb-male-12-m-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2057890/thumbnails/u82-cool-usb-male-la
 9/20/2020 11:59:03 PM 63,98 RON
 9/25/2020 1:16:21 PM 63,98 RON
 9/26/2020 3:35:19 PM 63,98 RON
+10/2/2020 11:47:48 AM 63,98 RON

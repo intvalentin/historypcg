@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474723758
 2045282
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x46-usb-male-la-usb-c-male-1-m-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2045282/thumbnails/x46-usb-male-la-usb-
 9/20/2020 11:58:49 PM 53,98 RON
 9/25/2020 1:20:03 PM 53,98 RON
 9/26/2020 3:39:02 PM 53,98 RON
+10/2/2020 11:19:17 AM 53,98 RON

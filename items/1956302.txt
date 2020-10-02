@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0140
 1956302
     Product link    
 https://www.pcgarage.ro/cabluri-date/logilink/usb-male-la-usb-c-male-1-m-black-9/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1953966/1956302/thumbnails/usb-male-la-usb-c
 9/20/2020 11:58:44 PM 49,98 RON
 9/25/2020 1:28:57 PM 49,98 RON
 9/26/2020 3:47:57 PM 49,98 RON
+10/2/2020 12:50:01 PM 49,98 RON

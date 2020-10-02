@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za2j0041bg
 1522894
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-4-10-inch-ips-multitouch-snapdragon-425-14ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-android-70-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1457254/1522894/thumbnails/tab-4-10-inch-ips
 9/21/2020 12:00:21 AM 871,23 RON
 9/25/2020 1:39:17 PM 872,29 RON
 9/26/2020 3:58:10 PM 873,74 RON
+10/2/2020 1:58:05 PM 873,73 RON

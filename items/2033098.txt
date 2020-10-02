@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ffp-00153
 2033098
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-ffp-00153-charcoal-pentru-surface-pro/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033098/thumbnails/tastatura-wireless-s
 9/21/2020 12:00:48 AM 709,58 RON
 9/25/2020 1:40:45 PM 711,50 RON
 9/26/2020 3:59:37 PM 712,45 RON
+10/2/2020 5:55:02 PM 712,04 RON

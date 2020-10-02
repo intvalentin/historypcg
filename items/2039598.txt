@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |55sm8050plc
 2039598
     Product link    
 https://www.pcgarage.ro/televizoare-led/lg/smart-tv-nanocell-55sm8050-seria-sm8050-139cm-argintiu-negru-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2039598/thumbnails/smart-tv-nanocell
 9/21/2020 8:12:22 AM 2.798,99 RON
 9/25/2020 9:14:43 PM 2.798,99 RON
 9/27/2020 9:12:43 AM 2.798,99 RON
+10/2/2020 10:52:41 AM 2.798,99 RON

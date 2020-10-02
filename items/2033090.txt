@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ffp-00113
 2033090
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-ffp-00113-poppy-red-pentru-surface-pro/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2033090/thumbnails/tastatura-wireless-s
 9/21/2020 12:00:48 AM 710,47 RON
 9/25/2020 1:40:45 PM 712,39 RON
 9/26/2020 3:59:37 PM 713,34 RON
+10/2/2020 5:55:18 PM 712,93 RON

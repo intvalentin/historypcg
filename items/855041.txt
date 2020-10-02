@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |per5664bc
 855041
     Product link    
 https://www.pcgarage.ro/e-book-reader/prestigio/multireader-supreme-5664/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/855041/thumbnails/multireader-supreme
 9/21/2020 12:01:26 AM 582,02 RON
 9/25/2020 1:48:03 PM 594,96 RON
 9/26/2020 4:16:21 PM 594,83 RON
+10/2/2020 6:41:11 PM 590,24 RON

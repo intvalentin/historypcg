@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tcw-10-rd
 2050734
     Product link    
 https://www.pcgarage.ro/cabluri-date/orico/tcw-10-usb-male-la-usb-c-male-1-m-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2050734/thumbnails/tcw-10-usb-male-la-u
 9/20/2020 11:58:39 PM 47,98 RON
 9/25/2020 1:19:19 PM 39,98 RON
 9/26/2020 3:38:17 PM 39,98 RON
+10/2/2020 10:45:55 AM 39,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |frf000002
 1933954
     Product link    
 https://www.pcgarage.ro/cabluri-date/tellur/usb-male-la-microusb-male-1-m-tricolor/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6811/1933954/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:29 PM 43,98 RON
 9/25/2020 1:22:17 PM 43,98 RON
 9/26/2020 3:41:16 PM 43,98 RON
+10/2/2020 10:54:53 AM 43,98 RON

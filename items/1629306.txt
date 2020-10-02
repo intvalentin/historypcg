@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za2k0022bg
 1629306
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-4-tb-x304l-10-inch-ips-multi-touch-snapdragon-425-14ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-lte-android-70-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3207/1629306/thumbnails/tab-4-tb-x304l-10-in
 9/21/2020 12:00:21 AM 909,39 RON
 9/25/2020 1:39:17 PM 910,50 RON
 9/26/2020 3:58:10 PM 912,01 RON
+10/2/2020 1:58:22 PM 911,99 RON

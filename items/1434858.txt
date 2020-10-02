@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za0y0000bg
 1434858
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-3-10-business-101-inch-ips-multitouch-mediatek-130ghz-quad-core-2gb-ram-32gb-flash-wi-fi-bluetooth-gps-lte-android-60-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1434858/thumbnails/tab-3-10-business
 9/21/2020 12:00:21 AM 1.290,95 RON
 9/25/2020 1:39:17 PM 1.292,52 RON
 9/26/2020 3:58:10 PM 1.294,68 RON
+10/2/2020 2:02:10 PM 1.294,65 RON

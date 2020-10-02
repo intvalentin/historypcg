@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-20005
 1415466
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/nibs-flet-pentru-intuos-4-intuos-5-si-intuos-pro-5-buc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1169071/1415466/thumbnails/nibs-flet-pentru-
 9/21/2020 12:01:42 AM 74,38 RON
 9/25/2020 1:51:01 PM 74,38 RON
 9/26/2020 4:19:19 PM 74,38 RON
+10/2/2020 7:00:15 PM 74,38 RON

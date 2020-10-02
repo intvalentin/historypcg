@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm118668
 1398099
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/hama/fix-23-65-inch-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1398099/thumbnails/fix-23-65-inch-ne
 9/21/2020 8:13:51 AM 128,97 RON
 9/25/2020 9:24:17 PM 128,97 RON
 9/27/2020 9:23:13 AM 128,97 RON
+10/2/2020 12:01:39 PM 128,97 RON

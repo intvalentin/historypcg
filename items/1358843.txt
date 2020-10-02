@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-40303
 1358843
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/baterie-pentru-inkling/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/986897/1358843/thumbnails/baterie-pentru-ink
 9/21/2020 12:01:47 AM 51,66 RON
 9/25/2020 1:51:45 PM 51,66 RON
 9/26/2020 4:20:03 PM 51,66 RON
+10/2/2020 7:06:45 PM 51,66 RON

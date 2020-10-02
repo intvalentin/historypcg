@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tx-75hx940e
 2073898
     Product link    
 https://www.pcgarage.ro/televizoare-led/panasonic/smart-tv-tx-75hx940e-seria-hx940e-189cm-negru-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2073898/thumbnails/smart-tv-tx-75hx940e
 9/21/2020 8:13:32 AM 12.499,99 RON
 9/25/2020 9:13:58 PM 12.499,99 RON
 9/27/2020 9:11:56 AM 12.499,99 RON
+10/2/2020 11:31:33 AM 12.499,99 RON

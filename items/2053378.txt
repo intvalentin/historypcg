@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217455504
 2053378
     Product link    
 https://www.pcgarage.ro/cabluri-date/swissten/usb-male-la-microusb-male-12-m-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2053378/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:54 PM 59,98 RON
 9/25/2020 1:17:50 PM 59,98 RON
 9/26/2020 3:36:48 PM 59,98 RON
+10/2/2020 11:33:00 AM 59,98 RON

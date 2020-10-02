@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc-pm250ec-s
 1519298
     Product link    
 https://www.pcgarage.ro/mini-sisteme-audio/panasonic/sc-pm250ec-s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1510154/1519298/thumbnails/sc-pm250ec-s-f52c
 9/21/2020 8:14:56 AM 576,74 RON
 9/25/2020 9:37:06 PM 578,73 RON
 9/27/2020 9:32:03 AM 578,73 RON
+10/2/2020 1:14:10 PM 578,39 RON

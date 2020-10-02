@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474717269
 2050058
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u77-usb-male-la-usb-c-male-12-m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2050058/thumbnails/u77-usb-male-la-u
 9/20/2020 11:58:49 PM 53,98 RON
 9/25/2020 1:19:19 PM 53,98 RON
 9/26/2020 3:38:17 PM 53,98 RON
+10/2/2020 11:20:21 AM 53,98 RON

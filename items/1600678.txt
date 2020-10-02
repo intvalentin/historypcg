@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |adc-05-v2-bk
 1600678
     Product link    
 https://www.pcgarage.ro/cabluri-date/orico/adc-05-usb-male-la-microusb-male-05-m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1500686/1600678/thumbnails/adc-05-usb-male-l
 9/20/2020 11:58:29 PM 45,98 RON
 9/25/2020 1:24:30 PM 47,98 RON
 9/26/2020 3:43:29 PM 47,98 RON
+10/2/2020 10:57:31 AM 45,98 RON

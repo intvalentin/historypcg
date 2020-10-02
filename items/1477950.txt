@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc-musb-05
 1477950
     Product link    
 https://www.pcgarage.ro/cabluri-date/spacer/usb-20-tip-a-male-microusb-20-tip-b-male-05m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1263508/1477950/thumbnails/usb-20-tip-a-male
 9/20/2020 11:58:20 PM 29,98 RON
 9/25/2020 1:25:14 PM 29,98 RON
 9/26/2020 3:44:13 PM 29,98 RON
+10/2/2020 10:39:52 AM 29,98 RON

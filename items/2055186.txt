@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.we0ee.p01
 2055186
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-eg220qpbipx-215-inch-1-ms-black-144hz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2055186/thumbnails/monitor-eg220qpbipx-
 9/21/2020 8:16:08 AM 633,98 RON
 9/25/2020 9:54:32 PM 635,98 RON
 9/27/2020 9:54:42 AM 635,98 RON
+10/2/2020 7:03:13 PM 635,98 RON

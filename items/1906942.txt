@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00362
 1906942
     Product link    
 https://www.pcgarage.ro/mini-sisteme-audio/panasonic/sc-hc200eg-w-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1899326/1906942/thumbnails/sc-hc200eg-w-whit
 9/21/2020 8:14:56 AM 536,50 RON
 9/25/2020 9:37:06 PM 538,36 RON
 9/27/2020 9:32:03 AM 538,36 RON
+10/2/2020 1:17:40 PM 538,04 RON

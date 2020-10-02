@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0005
 1736248
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0005-23-42-inch-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6748/1736248/thumbnails/bp0005-23-42-inch-ne
 9/21/2020 8:13:51 AM 78,63 RON
 9/25/2020 9:22:03 PM 78,90 RON
 9/27/2020 9:20:48 AM 78,90 RON
+10/2/2020 11:52:24 AM 78,85 RON

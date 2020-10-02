@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u2721de-05
 2043258
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/ultrasharp-u2721de-05-27-inch-8-ms-argintiu-usb-c-60-hz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2043258/thumbnails/ultrasharp-u2721de-0
 9/21/2020 8:15:29 AM 2.239,98 RON
 9/25/2020 9:44:58 PM 2.257,98 RON
 9/27/2020 9:40:54 AM 2.257,98 RON
+10/2/2020 6:12:21 PM 2.257,98 RON

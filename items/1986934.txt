@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |276c8+-+00
 1986934
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/276c8-00-27-inch-4-ms-negru-freesync-75-hz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/370411/1986934/thumbnails/276c8-00-27-inch-4
 9/21/2020 8:15:54 AM 1.337,98 RON
 9/25/2020 9:45:42 PM 1.331,98 RON
 9/27/2020 9:41:41 AM 1.331,98 RON
+10/2/2020 6:06:08 PM 1.533,98 RON

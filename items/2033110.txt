@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kcs-00053
 2033110
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-burgundy-pentru-surface-go/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033110/thumbnails/tastatura-wireless-b
 9/21/2020 12:00:48 AM 554,09 RON
 9/25/2020 1:40:45 PM 555,60 RON
 9/26/2020 3:59:37 PM 556,28 RON
+10/2/2020 5:53:42 PM 556,01 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0100
 1928682
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-male-la-lightning-male-15-m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6622/1928682/thumbnails/usb-male-la-lightnin
 9/20/2020 11:59:36 PM 45,98 RON
 9/25/2020 1:29:41 PM 45,98 RON
 9/26/2020 3:48:41 PM 45,98 RON
+10/2/2020 12:35:26 PM 45,98 RON

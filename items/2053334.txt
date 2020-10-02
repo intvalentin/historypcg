@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hw-t450+-+en
 2053334
     Product link    
 https://www.pcgarage.ro/sisteme-home-cinema/samsung/hw-t450-21-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053334/thumbnails/hw-t450-21-black-5b5
 9/21/2020 8:14:49 AM 731,98 RON
 9/25/2020 9:30:53 PM 731,98 RON
 9/27/2020 9:30:28 AM 731,98 RON
+10/2/2020 1:07:45 PM 729,98 RON

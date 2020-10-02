@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-40401-n
 287233
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/wireless-kit-pentru-bamboo/
@@ -8,3 +8,4 @@ WACOM Wireless Kit pentru Bamboo
 https://1.grgs.ro/images/products/1/5/287233/thumbnails/wireless-kit-pentru-bamboo-89da6eb7caf83ca7aebdd5eed7871bdd.jpg
     Pret    
 9/21/2020 12:01:47 AM 217,47 RON
+10/2/2020 7:09:33 PM 217,47 RON

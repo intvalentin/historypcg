@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.qs0ee.a01
 2055210
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/sa240y-238-inch-4-ms-black-freesync-75-hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055210/thumbnails/monitor-sa240yabi-23
 9/21/2020 8:15:38 AM 603,98 RON
 9/25/2020 9:44:14 PM 605,98 RON
 9/27/2020 9:40:07 AM 605,98 RON
+10/2/2020 5:34:00 PM 611,98 RON

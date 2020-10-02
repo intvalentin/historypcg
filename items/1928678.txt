@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0119
 1928678
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-male-la-microusb-male-15-m-gold/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1928678/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:20 PM 35,98 RON
 9/25/2020 1:22:17 PM 35,98 RON
 9/26/2020 3:41:16 PM 35,98 RON
+10/2/2020 10:41:52 AM 35,98 RON

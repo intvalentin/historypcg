@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p2421dc
 2042162
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/p2421dc-238-inch-2k-8ms-black-usb-c-60hz/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2042162/thumbnails/p2421dc-238-inch-2k-
 9/21/2020 8:15:12 AM 1.279,99 RON
 9/25/2020 9:38:31 PM 1.279,99 RON
 9/27/2020 9:33:39 AM 1.279,99 RON
+10/2/2020 1:57:10 PM 1.279,99 RON

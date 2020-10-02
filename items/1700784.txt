@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90100
 1700784
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/pwm-3144-32-55-inch-argintiu-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1700784/thumbnails/pwm-3144-32-55-in
 9/21/2020 8:14:31 AM 398,33 RON
 9/25/2020 9:25:46 PM 399,71 RON
 9/27/2020 9:24:50 AM 399,71 RON
+10/2/2020 12:46:31 PM 399,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mxay2
 2023230
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-pro-129-2020-1tb-wi-fi-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8491/2023230/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:43 AM 8.847,50 RON
 9/25/2020 1:36:19 PM 8.858,24 RON
 9/26/2020 3:55:12 PM 8.872,99 RON
+10/2/2020 5:51:20 PM 8.872,81 RON

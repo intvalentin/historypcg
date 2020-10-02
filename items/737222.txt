@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |unitabmkt
 737222
     Product link    
 https://www.pcgarage.ro/suport-masina/kit/suport-tetiera-unitabmek-universal-7-10-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/737222/thumbnails/suport-tetiera-unit
 9/21/2020 12:01:11 AM 48,10 RON
 9/25/2020 1:45:08 PM 48,24 RON
 9/26/2020 4:03:59 PM 48,27 RON
+10/2/2020 6:18:41 PM 48,23 RON

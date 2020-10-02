@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pb628-r-ww
 2062002
     Product link    
 https://www.pcgarage.ro/e-book-reader/pocketbook/touch-lux-5-ruby-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2062002/thumbnails/touch-lux-5-ruby-red
 9/21/2020 12:01:26 AM 765,12 RON
 9/25/2020 1:47:21 PM 765,12 RON
 9/26/2020 4:15:39 PM 765,12 RON
+10/2/2020 6:42:42 PM 765,12 RON

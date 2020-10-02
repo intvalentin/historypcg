@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za160099ro
 1611874
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/yoga-book-yb1-x91l-101-inch-ips-multitouch-intel-atom-x5-z8550-144-ghz-quad-core-4gb-ram-64gb-flash-wi-fi-bluetooth-gps-lte-windows-10-pro-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1520902/1611874/thumbnails/tablet-yoga-book-
 9/21/2020 12:00:30 AM 3.306,87 RON
 9/25/2020 1:39:17 PM 3.310,89 RON
 9/26/2020 3:58:10 PM 3.316,40 RON
+10/2/2020 2:20:11 PM 3.316,34 RON

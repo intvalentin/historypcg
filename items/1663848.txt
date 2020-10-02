@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0805.1-b
 1663848
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-805-8-inch-multitouch-ips-cortex-a53-13ghz-quad-core-1gb-ram-8gb-flash-wi-fi-bluetooth-gps-4g-android-70-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1573/1663848/thumbnails/eagle-805-8-inch-mul
 9/21/2020 12:00:17 AM 425,43 RON
 9/25/2020 1:38:33 PM 425,43 RON
 9/26/2020 3:57:26 PM 425,43 RON
+10/2/2020 1:51:31 PM 425,43 RON

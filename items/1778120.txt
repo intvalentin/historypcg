@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0041
 1778120
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0041-13-27-inch-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1778120/thumbnails/bp0041-13-27-inch-neg
 9/21/2020 8:14:14 AM 355,96 RON
 9/25/2020 9:21:18 PM 357,19 RON
 9/27/2020 9:20:00 AM 357,19 RON
+10/2/2020 12:19:38 PM 356,98 RON

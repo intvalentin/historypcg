@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm11723
 864574
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/hama/tv-si-3-rafturi-1000-mm-23-42-inch-argintiu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/851375/864574/thumbnails/tv-si-3-rafturi-100
 9/21/2020 8:14:14 AM 581,12 RON
 9/25/2020 9:25:01 PM 581,12 RON
 9/27/2020 9:24:02 AM 581,12 RON
+10/2/2020 12:23:57 PM 581,12 RON

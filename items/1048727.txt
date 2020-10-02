@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-400021
 1048727
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/husa-pentru-intuos-pro-small/
@@ -8,3 +8,4 @@ WACOM Husa pentru Intuos Pro Small
 https://2.grgs.ro/images/products/1/498497/1048727/thumbnails/husa-pentru-intuos-pro-small-9b273a8c90bd85115c0fda0a04c04984.jpg
     Pret    
 9/21/2020 12:01:47 AM 96,69 RON
+10/2/2020 7:07:52 PM 96,69 RON

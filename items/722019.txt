@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.xv6ee.001
 722019
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/v196hqlb-185-inch-5ms-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/722019/thumbnails/v196hqlb-185-inch-5
 9/21/2020 8:16:26 AM 357,98 RON
 9/25/2020 10:10:53 PM 359,98 RON
 9/27/2020 10:12:18 AM 359,98 RON
+10/2/2020 6:25:07 PM 357,98 RON

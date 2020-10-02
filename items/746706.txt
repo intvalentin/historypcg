@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |201251
 746706
     Product link    
 https://www.pcgarage.ro/huse-stand-protectie/port-designs/husa-protectie-tip-stand-detroit-iv-black-universal-8-9-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/746706/thumbnails/husa-protectie-tip-
 9/21/2020 12:00:57 AM 55,21 RON
 9/25/2020 1:42:58 PM 55,29 RON
 9/26/2020 4:01:49 PM 55,38 RON
+10/2/2020 6:01:19 PM 55,38 RON

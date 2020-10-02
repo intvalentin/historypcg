@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474722591
 2044946
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x44-usb-male-la-lightning-male-1-m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2044946/thumbnails/x44-usb-male-la-ligh
 9/20/2020 11:58:44 PM 53,98 RON
 9/25/2020 1:20:47 PM 53,98 RON
 9/26/2020 3:39:46 PM 53,98 RON
+10/2/2020 11:17:57 AM 53,98 RON

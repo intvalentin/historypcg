@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fst-846
 2039810
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/fst-846-37-70-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2034042/2039810/thumbnails/fst-846-37-70-inc
 9/21/2020 8:14:14 AM 414,97 RON
 9/25/2020 9:20:33 PM 416,40 RON
 9/27/2020 9:19:14 AM 416,40 RON
+10/2/2020 12:22:18 PM 416,15 RON

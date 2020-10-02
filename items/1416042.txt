@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0199
 1416042
     Product link    
 https://www.pcgarage.ro/e-book-reader/krugermatz/library-6-inch-e-ink-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1416042/thumbnails/kruger-matz-6-inc
 9/21/2020 12:01:24 AM 310,36 RON
 9/25/2020 1:48:03 PM 310,36 RON
 9/26/2020 4:16:21 PM 310,36 RON
+10/2/2020 6:39:17 PM 310,36 RON

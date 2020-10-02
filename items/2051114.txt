@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474721532
 2051114
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u78-cotton-treasure-usb-male-la-usb-c-male-12-m-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2051114/thumbnails/u78-cotton-treasure-
 9/20/2020 11:58:49 PM 53,98 RON
 9/25/2020 1:18:34 PM 53,98 RON
 9/26/2020 3:37:33 PM 53,98 RON
+10/2/2020 11:20:37 AM 53,98 RON

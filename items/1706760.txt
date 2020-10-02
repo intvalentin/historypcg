@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65ccaac6eu
 1706760
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/li2215s-215-inch-5ms-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1706760/thumbnails/li2215s-215-inch-
 9/21/2020 8:16:12 AM 379,99 RON
 9/25/2020 10:02:41 PM 379,99 RON
 9/27/2020 10:03:29 AM 379,99 RON
+10/2/2020 2:09:30 PM 379,99 RON

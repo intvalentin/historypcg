@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.wx0ee.001
 1136313
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/ka220hqbid-215-inch-5ms-black-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025741/1136313/thumbnails/ka220hqbid-215-in
 9/21/2020 8:16:26 AM 409,98 RON
 9/25/2020 10:09:24 PM 411,98 RON
 9/27/2020 10:10:42 AM 411,98 RON
+10/2/2020 6:39:54 PM 485,98 RON

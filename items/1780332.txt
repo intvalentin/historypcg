@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dth-2420
 1780332
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/cintiq-pro-24-inch-touch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1780332/thumbnails/cintiq-pro-24-inch-6b
 9/21/2020 12:01:37 AM 14.075,14 RON
 9/25/2020 1:49:34 PM 14.075,14 RON
 9/26/2020 4:17:51 PM 14.075,14 RON
+10/2/2020 6:57:55 PM 14.075,14 RON

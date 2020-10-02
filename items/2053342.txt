@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hw-t430
 2053342
     Product link    
 https://www.pcgarage.ro/sisteme-home-cinema/samsung/hw-t430-21-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2053342/thumbnails/hw-t430-en-21-black-
 9/21/2020 8:14:49 AM 679,98 RON
 9/25/2020 9:30:53 PM 703,98 RON
 9/27/2020 9:30:28 AM 703,98 RON
+10/2/2020 1:07:29 PM 679,98 RON

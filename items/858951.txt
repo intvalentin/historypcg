@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm108771
 858951
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/hama/tv-xl-37-65-inch-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/858951/thumbnails/tv-xl-37-65-inch-ne
 9/21/2020 8:13:51 AM 179,38 RON
 9/25/2020 9:28:00 PM 179,38 RON
 9/27/2020 9:27:15 AM 179,38 RON
+10/2/2020 12:37:36 PM 179,38 RON

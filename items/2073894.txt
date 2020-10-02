@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tx-65hx940e
 2073894
     Product link    
 https://www.pcgarage.ro/televizoare-led/panasonic/smart-tv-tx-65hx940e-seria-hx940e-164cm-negru-4k-uhd-hdr/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4525/2073894/thumbnails/smart-tv-tx-49hx940e
 9/21/2020 8:13:30 AM 8.999,99 RON
 9/25/2020 9:13:58 PM 8.999,99 RON
 9/27/2020 9:11:56 AM 8.999,99 RON
+10/2/2020 11:30:10 AM 8.999,99 RON

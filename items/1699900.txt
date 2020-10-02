@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dtu1141-ch
 1699900
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/dtu1141-106-inch-pen-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692296/1699900/thumbnails/dtu1141-106-inch-
 9/21/2020 12:01:35 AM 2.990,80 RON
 9/25/2020 1:49:34 PM 2.990,80 RON
 9/26/2020 4:17:51 PM 2.990,80 RON
+10/2/2020 6:55:37 PM 2.990,80 RON

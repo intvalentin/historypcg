@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |55030216
 1868630
     Product link    
 https://www.pcgarage.ro/cabluri-date/huawei/usb-male-la-microusb-male-cp70-2a-1-m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1868630/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:39 PM 47,98 RON
 9/25/2020 1:23:01 PM 47,98 RON
 9/26/2020 3:42:00 PM 47,98 RON
+10/2/2020 11:10:59 AM 47,98 RON

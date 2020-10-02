@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217466197
 2053422
     Product link    
 https://www.pcgarage.ro/cabluri-date/swissten/usb-male-la-microusb-male-1-m-white-7/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2053422/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:39 PM 45,98 RON
 9/25/2020 1:17:50 PM 45,98 RON
 9/26/2020 3:36:48 PM 45,98 RON
+10/2/2020 11:06:06 AM 45,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.kx3ee.x01
 1974354
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/predator-xn253qxbmiprzx-245-inch-1-ms-negru-g-sync-240-hz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1974354/thumbnails/xn253qxbmiprzx-245-i
 9/21/2020 8:16:01 AM 2.777,98 RON
 9/25/2020 9:46:26 PM 2.785,98 RON
 9/27/2020 9:42:28 AM 2.787,98 RON
+10/2/2020 6:16:23 PM 2.785,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cabmicroblue
 1924250
     Product link    
 https://www.pcgarage.ro/cabluri-date/maxcom/acc-plus-usb-male-la-microusb-male-1-m-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1924250/thumbnails/acc-plus-usb-male-la
 9/20/2020 11:58:15 PM 37,98 RON
 9/25/2020 1:23:01 PM 37,98 RON
 9/26/2020 3:42:00 PM 37,98 RON
+10/2/2020 10:43:47 AM 37,98 RON

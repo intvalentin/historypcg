@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0007
 975842
     Product link    
 https://www.pcgarage.ro/incarcatoare-tablete/krugermatz/incarcator-auto-km0007-universal/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/975842/thumbnails/incarcator-auto-km0
 9/21/2020 12:01:06 AM 30,97 RON
 9/25/2020 1:43:43 PM 30,97 RON
 9/26/2020 4:02:34 PM 30,97 RON
+10/2/2020 6:12:01 PM 30,97 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0324
 977587
     Product link    
 https://www.pcgarage.ro/cabluri-date/krugermatz/usb-microusb-1m-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/977587/thumbnails/usb-microusb-1m-black-eb
 9/20/2020 11:58:44 PM 53,98 RON
 9/25/2020 1:25:14 PM 53,98 RON
 9/26/2020 3:44:13 PM 53,98 RON
+10/2/2020 11:16:05 AM 53,98 RON

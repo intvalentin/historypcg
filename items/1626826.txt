@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0281
 1626826
     Product link    
 https://www.pcgarage.ro/e-book-reader/krugermatz/library-2s-6-inch-e-ink-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3207/1626826/thumbnails/library-2s-6-inch-e-
 9/21/2020 12:01:24 AM 423,13 RON
 9/25/2020 1:48:03 PM 423,13 RON
 9/26/2020 4:16:21 PM 423,13 RON
+10/2/2020 6:39:50 PM 423,13 RON

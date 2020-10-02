@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stu-530-sp-set
 950744
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/signature-stu-530/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/782584/950744/thumbnails/signature-stu-530-1
 9/21/2020 12:01:35 AM 953,79 RON
 9/25/2020 1:50:16 PM 1.688,76 RON
 9/26/2020 4:17:51 PM 1.688,76 RON
+10/2/2020 6:52:34 PM 1.688,76 RON

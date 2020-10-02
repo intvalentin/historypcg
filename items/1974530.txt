@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |210-agur
 1974530
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/ultrasharp-up3216q-315-inch-8-ms-negru-60-hz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/1974530/thumbnails/ultrasharp-up3216q-3
 9/21/2020 8:17:46 AM 6.159,98 RON
 9/25/2020 9:46:26 PM 6.177,98 RON
 9/27/2020 9:42:28 AM 6.181,98 RON
+10/2/2020 6:23:11 PM 6.175,98 RON

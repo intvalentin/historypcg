@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dtk1660k0b
 1793692
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/cintiq-16-interactive-pen-display/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3049/1793692/thumbnails/cintiq-16-interactiv
 9/21/2020 12:01:35 AM 2.798,99 RON
 9/25/2020 1:49:34 PM 3.229,24 RON
 9/26/2020 4:17:51 PM 3.229,24 RON
+10/2/2020 6:55:53 PM 3.229,24 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.bv6ee.001
 737627
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/v176lb-17-inch-5ms-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/737627/thumbnails/v176lb-17-inch-5ms-black
 9/21/2020 8:16:30 AM 503,98 RON
 9/25/2020 10:10:53 PM 505,98 RON
 9/27/2020 10:12:18 AM 505,98 RON
+10/2/2020 6:42:57 PM 505,98 RON

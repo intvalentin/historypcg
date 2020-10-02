@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |24p1
 1781580
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/24p1-238-inch-5-ms-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1781580/thumbnails/24p1-238-inch-5-ms-b
 9/21/2020 8:15:26 AM 759,98 RON
 9/25/2020 9:48:39 PM 761,98 RON
 9/27/2020 9:44:55 AM 761,98 RON
+10/2/2020 5:44:35 PM 795,98 RON

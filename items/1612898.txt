@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap71
 1612898
     Product link    
 https://www.pcgarage.ro/cabluri-date/huawei/usb-male-la-usb-c-male-5a-1-m-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1612898/thumbnails/usb-male-la-usb-c-ma
 9/20/2020 11:59:22 PM 61,98 RON
 9/25/2020 1:30:26 PM 61,98 RON
 9/26/2020 3:49:26 PM 61,98 RON
+10/2/2020 11:34:54 AM 61,98 RON

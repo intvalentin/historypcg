@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0024
 1778096
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0024-37-65-inch-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1778096/thumbnails/bp0024-37-65-inch-neg
 9/21/2020 8:14:18 AM 365,03 RON
 9/25/2020 9:25:46 PM 366,29 RON
 9/27/2020 9:20:48 AM 382,16 RON
+10/2/2020 12:20:11 PM 366,07 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |21259
 1772384
     Product link    
 https://www.pcgarage.ro/tablete-grafice/trust/flex-design-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1772384/thumbnails/flex-design-negru-09
 9/21/2020 12:01:35 AM 158,99 RON
 9/25/2020 1:49:34 PM 174,68 RON
 9/26/2020 4:17:51 PM 174,68 RON
+10/2/2020 6:53:24 PM 174,68 RON

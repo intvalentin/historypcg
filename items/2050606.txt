@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tfz-00003
 2050606
     Product link    
 https://www.pcgarage.ro/tablete/microsoft/surface-go-2-105-inch-multi-touch-intel-pentium-gold-processor-4425y-8gb-ram-128gb-flash-wi-fi-bluetooth-gps-4g-windows-10-home-s-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2050606/thumbnails/surface-go-2-105-inc
 9/21/2020 12:00:13 AM 4.532,23 RON
 9/25/2020 1:34:06 PM 4.544,02 RON
 9/26/2020 3:53:02 PM 4.550,57 RON
+10/2/2020 1:48:09 PM 4.546,64 RON

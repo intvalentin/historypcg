@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dtk-2420
 1780104
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/cintiq-pro-24-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1780104/thumbnails/cintiq-pro-24-inch-6b
 9/21/2020 12:01:35 AM 11.418,17 RON
 9/25/2020 1:49:34 PM 11.418,17 RON
 9/26/2020 4:17:51 PM 11.418,17 RON
+10/2/2020 6:57:23 PM 11.418,17 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv00148
 1297025
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/cplb-9441-32-55-inch-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/1297025/thumbnails/etv00148-5d14e2a84
 9/21/2020 8:14:27 AM 307,56 RON
 9/25/2020 9:24:17 PM 308,63 RON
 9/27/2020 9:23:13 AM 308,63 RON
+10/2/2020 12:18:00 PM 308,44 RON

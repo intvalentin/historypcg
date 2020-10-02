@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |my2w2
 2023294
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-pro-11-2020-128gb-wi-fi-plus-cellular-silver/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8491/2023294/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:39 AM 5.615,65 RON
 9/25/2020 1:36:19 PM 5.622,48 RON
 9/26/2020 3:55:12 PM 5.631,83 RON
+10/2/2020 5:43:08 PM 5.631,72 RON

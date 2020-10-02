@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531062981
 2051430
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u29-display-usb-male-la-usb-c-male-12-m-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2051430/thumbnails/u29-display-usb-male
 9/20/2020 11:59:08 PM 81,98 RON
 9/25/2020 1:18:34 PM 81,98 RON
 9/26/2020 3:37:33 PM 81,98 RON
+10/2/2020 11:57:21 AM 81,98 RON

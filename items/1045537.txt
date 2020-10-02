@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90021
 1045537
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/plb-114m-23-55-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/1045537/thumbnails/plb-114m-23-55-inc
 9/21/2020 8:13:47 AM 44,99 RON
 9/25/2020 9:20:33 PM 44,99 RON
 9/27/2020 9:19:14 AM 44,99 RON
+10/2/2020 11:39:48 AM 44,99 RON

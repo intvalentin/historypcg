@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6983980140178
 2073978
     Product link    
 https://www.pcgarage.ro/cabluri-date/goui/waterproof-usb-male-la-lightning-male-15-m-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4525/2073978/thumbnails/waterproof-usb-male-
 9/20/2020 11:59:17 PM 113,98 RON
 9/25/2020 1:14:51 PM 113,98 RON
 9/26/2020 3:33:50 PM 113,98 RON
+10/2/2020 12:12:24 PM 113,98 RON

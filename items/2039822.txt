@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plb-5746f
 2039822
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/plb-5746f-37-70-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2039822/thumbnails/plb-5746f-37-70-i
 9/21/2020 8:14:09 AM 298,13 RON
 9/25/2020 9:20:33 PM 299,16 RON
 9/27/2020 9:19:14 AM 299,16 RON
+10/2/2020 12:17:11 PM 298,98 RON

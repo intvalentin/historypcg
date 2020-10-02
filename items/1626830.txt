@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0280
 1626830
     Product link    
 https://www.pcgarage.ro/e-book-reader/krugermatz/library-2-6-inch-e-ink-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3207/1626830/thumbnails/library-2s-6-inch-e-
 9/21/2020 12:01:24 AM 305,00 RON
 9/25/2020 1:48:03 PM 305,00 RON
 9/26/2020 4:16:21 PM 305,00 RON
+10/2/2020 6:39:01 PM 305,00 RON

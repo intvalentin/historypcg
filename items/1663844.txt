@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0804.1-b
 1663844
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-804-8-inch-multitouch-ips-cortex-a7-13ghz-quad-core-1gb-ram-8gb-flash-wi-fi-bluetooth-gps-3g-android-70-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1663772/1663844/thumbnails/eagle-804-8-inch-
 9/21/2020 12:00:17 AM 339,03 RON
 9/25/2020 1:38:33 PM 339,03 RON
 9/26/2020 3:57:26 PM 339,03 RON
+10/2/2020 1:49:50 PM 339,03 RON

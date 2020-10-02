@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |adc-10-v2-bk-pro-bp
 1824592
     Product link    
 https://www.pcgarage.ro/cabluri-date/orico/usb-male-la-microusb-male-1-m-black-8/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1824592/thumbnails/usb-male-la-microusb
 9/20/2020 11:59:22 PM 27,99 RON
 9/25/2020 1:29:41 PM 27,99 RON
 9/26/2020 3:48:41 PM 27,99 RON
+10/2/2020 12:14:15 PM 21,98 RON

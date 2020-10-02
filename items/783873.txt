@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md787
 783873
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-air-64gb-wi-fi-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/783873/thumbnails/ipad-air-64gb-wi-fi
 9/21/2020 12:00:34 AM 4.044,37 RON
 9/25/2020 1:40:01 PM 4.134,29 RON
 9/26/2020 3:58:52 PM 4.133,40 RON
+10/2/2020 5:35:12 PM 4.096,29 RON

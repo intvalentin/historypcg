@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010jau
 2028410
     Product link    
 https://www.pcgarage.ro/tablete/huawei/mediapad-t5-101-inch-ips-multitouch-kirin-659-octa-core-3gb-ram-32gb-flash-wi-fi-bluetooth-android-80-gold/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8840/2028410/thumbnails/mediapad-t5-101-inch
 9/21/2020 12:00:05 AM 849,00 RON
 9/25/2020 1:33:22 PM 818,99 RON
 9/26/2020 3:52:20 PM 818,99 RON
+10/2/2020 1:18:57 PM 818,99 RON

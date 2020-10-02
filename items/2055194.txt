@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.wx2ee.001
 2055194
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/ka222qbi-215-inch-1-ms-black-freesync-75hz/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2055194/thumbnails/monitor-ka222qbi-215
 9/21/2020 8:15:34 AM 469,98 RON
 9/25/2020 9:44:14 PM 469,98 RON
 9/27/2020 9:40:07 AM 469,98 RON
+10/2/2020 2:14:58 PM 475,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90035
 1045802
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/plb-3644-32-55-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862960/1045802/thumbnails/plb-3644-32-55-inc
 9/21/2020 8:13:43 AM 99,19 RON
 9/25/2020 9:20:33 PM 99,19 RON
 9/27/2020 9:19:14 AM 99,19 RON
+10/2/2020 11:44:27 AM 99,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-20004
 1097569
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/nib-flex-pentru-intuos-4-si-intuos-5-5-buc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1097569/thumbnails/nib-flex-pentru-in
 9/21/2020 12:01:47 AM 85,69 RON
 9/25/2020 1:51:45 PM 85,69 RON
 9/26/2020 4:20:03 PM 85,69 RON
+10/2/2020 7:07:36 PM 85,69 RON

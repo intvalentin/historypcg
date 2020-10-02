@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65fcgac1eu
 2030414
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/l27q-30-27-inch-2k-4-ms-black-freesync-75hz/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8840/2030414/thumbnails/monitor-lcd-27-quot-
 9/21/2020 8:15:18 AM 1.149,99 RON
 9/25/2020 9:45:42 PM 1.149,99 RON
 9/27/2020 9:41:41 AM 1.149,99 RON
+10/2/2020 5:56:48 PM 1.149,99 RON

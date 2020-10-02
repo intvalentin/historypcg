@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hr1ee.b01
 2055206
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/r271b-27-inch-1-ms-black-freesync-75-hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055206/thumbnails/monitor-r271bbmix-27
 9/21/2020 8:15:26 AM 897,98 RON
 9/25/2020 9:44:14 PM 899,98 RON
 9/27/2020 9:40:07 AM 899,98 RON
+10/2/2020 5:48:10 PM 899,98 RON

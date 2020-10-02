@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack22213
 1866982
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/pen-nibs-felt-10-bucati/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1866982/thumbnails/pen-nibs-felt-10-buc
 9/21/2020 12:01:42 AM 55,04 RON
 9/25/2020 1:51:01 PM 55,04 RON
 9/26/2020 4:19:19 PM 55,04 RON
+10/2/2020 6:59:59 PM 55,04 RON

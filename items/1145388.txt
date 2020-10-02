@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.wv6ee.015
 1145388
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/v226hql-215-inch-5ms-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/851375/1145388/thumbnails/v226hql-215-inch-5
 9/21/2020 8:16:26 AM 415,98 RON
 9/25/2020 10:09:24 PM 415,98 RON
 9/27/2020 10:10:42 AM 415,98 RON
+10/2/2020 2:12:33 PM 423,98 RON

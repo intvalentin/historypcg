@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-usbm1b
 1487178
     Product link    
 https://www.pcgarage.ro/cabluri-date/canyon/cne-usbm1b-usb-microusb-1m-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1416578/1487178/thumbnails/cne-usbm1b-usb-mi
 9/20/2020 11:59:31 PM 41,98 RON
 9/25/2020 1:31:55 PM 43,98 RON
 9/26/2020 3:50:55 PM 43,98 RON
+10/2/2020 12:29:23 PM 43,98 RON

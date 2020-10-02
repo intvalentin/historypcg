@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sw2700pt
 1147323
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/sw2700pt-27-inch-5ms-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1086319/1147323/thumbnails/sw2700pt-27-inch-
 9/21/2020 8:16:04 AM 3.567,98 RON
 9/25/2020 9:53:03 PM 3.577,98 RON
 9/27/2020 9:49:43 AM 3.579,98 RON
+10/2/2020 6:18:36 PM 3.649,98 RON

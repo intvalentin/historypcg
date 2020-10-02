@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |my2h2
 2023250
     Product link    
 https://www.pcgarage.ro/detalii-produs/2023250/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8491/2023250/thumbnails/ipad-pro-129-2020-1t
 9/21/2020 12:00:39 AM 5.856,04 RON
 9/25/2020 1:36:19 PM 5.863,15 RON
 9/26/2020 3:55:12 PM 5.872,91 RON
+10/2/2020 5:43:24 PM 5.872,79 RON

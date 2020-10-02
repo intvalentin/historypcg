@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |non-vesa
 2039826
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/adaptor-pentru-monitor-non-vesa-13-27-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039826/thumbnails/adaptor-pentru-mo
 9/21/2020 8:13:51 AM 96,84 RON
 9/25/2020 9:20:33 PM 97,17 RON
 9/27/2020 9:19:14 AM 97,17 RON
+10/2/2020 11:57:13 AM 97,11 RON

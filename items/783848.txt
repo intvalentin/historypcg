@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md788
 783848
     Product link    
 https://www.pcgarage.ro/tablete/apple/ipad-air-16gb-wi-fi-silver/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472405/783848/thumbnails/ipad-air-16gb-wi-fi
 9/21/2020 12:00:30 AM 2.774,74 RON
 9/25/2020 1:40:01 PM 2.836,44 RON
 9/26/2020 3:58:52 PM 2.835,83 RON
+10/2/2020 2:15:33 PM 2.810,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cca-uc3.5f-02-w
 1832476
     Product link    
 https://www.pcgarage.ro/cabluri-date/gembird/1x-usb-31-tip-c-male-1x-jack-35mm-female/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5631/1832476/thumbnails/1x-usb-31-tip-c-male
 9/20/2020 11:58:11 PM 43,98 RON
 9/25/2020 1:23:45 PM 43,98 RON
 9/26/2020 3:42:45 PM 43,98 RON
+10/2/2020 12:32:31 PM 43,98 RON

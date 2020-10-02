@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0156
 1956146
     Product link    
 https://www.pcgarage.ro/cabluri-date/logilink/usb-c-male-la-usb-c-male-1-m-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1953966/1956146/thumbnails/usb-c-male-la-usb
 9/20/2020 11:58:20 PM 41,98 RON
 9/25/2020 1:21:32 PM 43,98 RON
 9/26/2020 3:40:31 PM 43,98 RON
+10/2/2020 10:55:58 AM 43,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm20
 1612906
     Product link    
 https://www.pcgarage.ro/cabluri-date/huawei/usb-c-male-la-jack-35-mm-female-009-m-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1578330/1612906/thumbnails/usb-c-male-la-jac
 9/20/2020 11:59:22 PM 59,98 RON
 9/25/2020 1:30:26 PM 59,98 RON
 9/26/2020 3:49:26 PM 59,98 RON
+10/2/2020 11:32:12 AM 59,98 RON

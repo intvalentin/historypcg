@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sw271
 1676272
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/sw271-27-inch-4k-5-ms-gray/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1663772/1676272/thumbnails/sw271-27-inch-4k-
 9/21/2020 8:16:04 AM 6.021,98 RON
 9/25/2020 9:50:07 PM 5.979,98 RON
 9/27/2020 9:46:30 AM 5.983,98 RON
+10/2/2020 6:22:22 PM 5.979,98 RON

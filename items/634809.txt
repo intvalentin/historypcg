@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md820zm+-+a
 634809
     Product link    
 https://www.pcgarage.ro/cabluri-date/apple/lightning-to-micro-usb-adapter/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/634809/thumbnails/lightning-to-micro-usb-a
 9/20/2020 11:59:17 PM 137,98 RON
 9/25/2020 1:25:14 PM 149,98 RON
 9/26/2020 3:44:14 PM 149,98 RON
+10/2/2020 12:13:42 PM 149,98 RON

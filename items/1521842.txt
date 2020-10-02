@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0801
 1521842
     Product link    
 https://www.pcgarage.ro/tablete/kruger-matz/eagle-801-8-inch-multitouch-ips-intel-atom-z3735g-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-android-50-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1521842/thumbnails/eagle-801-8-inch-
 9/21/2020 12:00:17 AM 510,38 RON
 9/25/2020 1:39:17 PM 510,38 RON
 9/26/2020 3:58:10 PM 510,38 RON
+10/2/2020 1:53:22 PM 510,38 RON

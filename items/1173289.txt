@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90045
 1173289
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/lcd-352-4-13-27-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929099/1173289/thumbnails/lcd-352-4-13-27-in
 9/21/2020 8:13:51 AM 379,99 RON
 9/25/2020 9:24:17 PM 379,99 RON
 9/27/2020 9:23:13 AM 379,99 RON
+10/2/2020 12:20:28 PM 379,99 RON

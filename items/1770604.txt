@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bcu-10-wh-pro
 1770604
     Product link    
 https://www.pcgarage.ro/cabluri-date/orico/usb-c-male-la-usb-c-male-1-m-white-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1765416/1770604/thumbnails/usb-c-male-la-usb
 9/20/2020 11:58:44 PM 51,98 RON
 9/25/2020 1:23:45 PM 53,98 RON
 9/26/2020 3:42:45 PM 53,98 RON
+10/2/2020 11:13:42 AM 51,98 RON

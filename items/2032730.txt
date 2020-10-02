@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |qjx-00007
 2032730
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/surface-pro-x-english-international-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2032730/thumbnails/surface-pro-x-englis
 9/21/2020 12:00:48 AM 648,53 RON
 9/25/2020 1:40:45 PM 650,31 RON
 9/26/2020 3:59:37 PM 651,13 RON
+10/2/2020 5:54:46 PM 650,72 RON

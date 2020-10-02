@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za5v0041bg
 2034034
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-m10-plus-2nd-gen-tb-x606x-103-inch-multi-touch-helio-p22t-20-ghz-octa-core-4gb-ram-128-gb-flash-wi-fi-bluetooth-gps-4g-android-pie-iron-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2034034/thumbnails/tab-m10-plus-2nd-gen
 9/21/2020 12:00:13 AM 1.162,50 RON
 9/25/2020 1:35:35 PM 1.163,91 RON
 9/26/2020 3:54:28 PM 1.165,85 RON
+10/2/2020 2:01:19 PM 1.165,27 RON

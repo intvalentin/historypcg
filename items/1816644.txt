@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg279q
 1816644
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-vg279q-27-inch-3-ms-black-freesync-144hz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/753/1816644/thumbnails/gaming-vg279q-27-inch
 9/21/2020 8:15:18 AM 1.449,98 RON
 9/25/2020 9:48:39 PM 1.453,98 RON
 9/27/2020 9:44:55 AM 1.453,98 RON
+10/2/2020 6:05:34 PM 1.499,98 RON

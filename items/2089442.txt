@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g27f
 2089442
     Product link    
 https://www.pcgarage.ro/monitoare-led/gigabyte/gaming-g27f-27-inch-1-ms-black-144hz/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/7008/2089442/thumbnails/gaming-g27f-27-inch-
     Pret    
 9/25/2020 9:38:31 PM 1.103,38 RON
 9/27/2020 9:33:39 AM 1.103,38 RON
+10/2/2020 1:55:30 PM 1.103,38 RON

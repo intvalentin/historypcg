@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0043
 1778144
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0043-13-27-inch-argintiu/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1778144/thumbnails/bp0043-13-27-inch-arg
 9/21/2020 8:14:18 AM 504,15 RON
 9/25/2020 9:25:46 PM 505,89 RON
 9/27/2020 9:24:49 AM 505,89 RON
+10/2/2020 12:49:10 PM 505,59 RON

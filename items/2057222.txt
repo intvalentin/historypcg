@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474719232
 2057222
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x42-usb-male-la-microusb-male-1-m-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2057222/thumbnails/x42-usb-male-la-micr
 9/20/2020 11:58:49 PM 53,98 RON
 9/25/2020 1:17:05 PM 53,98 RON
 9/26/2020 3:36:04 PM 53,98 RON
+10/2/2020 11:22:26 AM 53,98 RON

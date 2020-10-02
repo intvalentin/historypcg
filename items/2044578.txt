@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-2700000195048
 2044578
     Product link    
 https://www.pcgarage.ro/folii-securizate-gsm/contakt/folie-sticla-pentru-galaxy-a20e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2044578/thumbnails/folie-sticla-pentru-
 9/20/2020 11:57:03 PM 67,98 RON
 9/25/2020 11:18:39 AM 67,98 RON
 9/26/2020 3:24:08 PM 67,98 RON
+10/2/2020 9:27:44 AM 67,98 RON

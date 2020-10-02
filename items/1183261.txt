@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pg348q
 1183261
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-rog-swift-pg348q-curbat-34-inch-5ms-black-orange-g-sync-100hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/1183261/thumbnails/gaming-rog-swift-pg348q
 9/21/2020 8:16:04 AM 3.985,98 RON
 9/25/2020 9:52:19 PM 3.995,98 RON
 9/27/2020 9:48:54 AM 3.997,98 RON
+10/2/2020 6:21:49 PM 5.153,98 RON

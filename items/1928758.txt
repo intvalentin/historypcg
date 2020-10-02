@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0167
 1928758
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-male-la-microusb-male-unghi-90-15-m-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1928758/thumbnails/usb-male-la-microusb
 9/20/2020 11:58:29 PM 45,98 RON
 9/25/2020 1:23:01 PM 45,98 RON
 9/26/2020 3:41:16 PM 45,98 RON
+10/2/2020 10:59:42 AM 45,98 RON

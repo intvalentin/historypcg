@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-t860nznarom
 1994614
     Product link    
 https://www.pcgarage.ro/tablete/samsung/sm-t860-galaxy-tab-s6-2019-105-inch-multi-touch-snapdragon-855-octa-core-28ghz-6gb-ram-128gb-wi-fi-bluetooth-gps-android-90-rose-blush/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990366/1994614/thumbnails/sm-t860-galaxy-ta
 9/21/2020 12:00:30 AM 3.331,99 RON
 9/25/2020 1:37:04 PM 3.309,31 RON
 9/26/2020 3:55:57 PM 3.207,67 RON
+10/2/2020 2:18:32 PM 3.207,60 RON

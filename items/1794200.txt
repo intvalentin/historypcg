@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.ws0ee.002
 1794200
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/sa220qbid-215-inch-4-ms-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3049/1794200/thumbnails/sa220q-215-inch-4-ms
 9/21/2020 8:16:30 AM 509,98 RON
 9/25/2020 9:59:44 PM 511,98 RON
 9/27/2020 10:00:18 AM 511,98 RON
+10/2/2020 6:43:30 PM 511,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-l100
 1258881
     Product link    
 https://www.pcgarage.ro/cabluri-date/pni/usb-20-lightning-white-pentru-iphone-5-5s-iphone-6-6s-ipod-touch-ipad-4-5-ipad-mini/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/1258881/thumbnails/usb-20-lightning-white-
 9/20/2020 11:58:54 PM 59,99 RON
 9/25/2020 1:25:14 PM 59,99 RON
 9/26/2020 3:44:13 PM 59,99 RON
+10/2/2020 11:34:21 AM 59,99 RON

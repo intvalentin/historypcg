@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0046
 1778152
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0046-13-32-inch-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778152/thumbnails/bp0046-13-32-inch-neg
 9/21/2020 8:14:14 AM 300,03 RON
 9/25/2020 9:21:18 PM 295,03 RON
 9/27/2020 9:20:00 AM 295,03 RON
+10/2/2020 12:16:39 PM 296,03 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531079392
 2051438
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u42-usb-male-la-usb-c-male-12-m-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2051438/thumbnails/u42-usb-male-la-usb-
 9/20/2020 11:59:22 PM 53,98 RON
 9/25/2020 1:26:43 PM 53,98 RON
 9/26/2020 3:45:43 PM 53,98 RON
+10/2/2020 12:57:27 PM 53,98 RON

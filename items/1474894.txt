@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dth-w1620m-eu
 1474894
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/mobile-studio-pro-16-inch-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1173769/1474894/thumbnails/mobile-studio-pro
 9/21/2020 12:01:37 AM 11.418,17 RON
 9/25/2020 1:49:34 PM 11.418,17 RON
 9/26/2020 4:17:51 PM 11.418,17 RON
+10/2/2020 6:57:39 PM 11.472,67 RON

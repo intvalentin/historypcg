@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dth-3220
 1793716
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/cintiq-pro-32-touch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3049/1793716/thumbnails/cintiq-pro-32-touch-
 9/21/2020 12:01:37 AM 17.395,68 RON
 9/25/2020 1:49:34 PM 17.395,68 RON
 9/26/2020 4:17:51 PM 17.395,68 RON
+10/2/2020 6:58:11 PM 17.395,68 RON

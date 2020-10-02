@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc184
 1845856
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/silentium-pc/atlas-arm-aa201-10-27-inch-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1844684/1845856/thumbnails/atlas-arm-aa201-9
 9/21/2020 8:14:27 AM 338,80 RON
 9/25/2020 9:25:46 PM 339,78 RON
 9/27/2020 9:24:49 AM 339,98 RON
+10/2/2020 12:44:53 PM 339,61 RON

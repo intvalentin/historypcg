@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |66a7gac2eu
 2058626
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/q27h-10-27-inch-2k-4-ms-usb-c-freesync-75hz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058626/thumbnails/monitor-lcd-27-quot-
 9/21/2020 8:15:29 AM 1.485,98 RON
 9/25/2020 9:44:14 PM 1.489,98 RON
 9/27/2020 9:40:07 AM 1.489,98 RON
+10/2/2020 6:05:18 PM 1.489,98 RON

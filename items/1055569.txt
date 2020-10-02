@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ack-20001
 1055569
     Product link    
 https://www.pcgarage.ro/accesorii-tablete-grafice/wacom/pen-nibs-black-5x-buc-pentru-intuos4-5-grip-pen/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/862960/1055569/thumbnails/pen-nibs-black-5x-
 9/21/2020 12:01:42 AM 41,77 RON
 9/25/2020 1:51:45 PM 41,77 RON
 9/26/2020 4:20:03 PM 41,77 RON
+10/2/2020 6:59:42 PM 46,11 RON

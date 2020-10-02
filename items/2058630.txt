@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |66a8gac6eu
 2058630
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/q24h-10-238-inch-2k-4-ms-usb-c-freesync-75hz/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2058630/thumbnails/q24h-10-238-inch-2k-
 9/21/2020 8:15:51 AM 1.069,98 RON
 9/25/2020 9:44:14 PM 1.073,98 RON
 9/27/2020 9:40:07 AM 1.073,98 RON
+10/2/2020 5:53:52 PM 1.073,98 RON

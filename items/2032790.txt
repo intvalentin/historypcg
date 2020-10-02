@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53010wln
 2032790
     Product link    
 https://www.pcgarage.ro/tablete/huawei/matepad-pro-108-inch-ips-multi-touch-kirin-990-286-ghz-octa-core-6gb-ram-128gb-flash-wi-fi-bluetooth-android-10-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2032790/thumbnails/tableta-huawei-matep
 9/21/2020 12:00:09 AM 2.524,00 RON
 9/25/2020 1:34:06 PM 2.524,77 RON
 9/26/2020 3:53:02 PM 2.524,64 RON
+10/2/2020 1:27:25 PM 2.525,15 RON

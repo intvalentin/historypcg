@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474709554
 2067822
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/adaptor-ls27-lightning-male-la-lightning-female-cu-adaptor-audio-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2067822/thumbnails/adaptor-ls27-lightni
 9/20/2020 11:59:03 PM 63,98 RON
 9/25/2020 1:15:36 PM 63,98 RON
 9/26/2020 3:34:34 PM 63,98 RON
+10/2/2020 11:49:01 AM 63,98 RON

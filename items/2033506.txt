@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27b2h
 2033506
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/27b2h-27-inch-7-ms-black-75hz/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3041/2033506/thumbnails/monitor-27-quot-aoc-
 9/21/2020 8:16:21 AM 631,98 RON
 9/25/2020 9:56:01 PM 633,98 RON
 9/27/2020 9:56:18 AM 633,98 RON
+10/2/2020 7:10:20 PM 679,98 RON
+10/2/2020 7:11:21 PM 679,98 RON

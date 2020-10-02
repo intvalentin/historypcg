@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg270
 2014266
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/xg270-27-inch-1-ms-negru-g-sync-compatible-240-hz/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2013982/2014266/thumbnails/xg270-27-inch-1-m
 9/21/2020 8:16:01 AM 2.695,98 RON
 9/25/2020 9:45:42 PM 2.701,98 RON
 9/27/2020 9:41:41 AM 2.703,98 RON
+10/2/2020 6:15:34 PM 2.701,98 RON

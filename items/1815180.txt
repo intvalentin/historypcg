@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za490042bg
 1815180
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-m10-tb-x605l-10-inch-multi-touch-cortex-a53-18ghz-octa-core-3gb-ram-32gb-flash-wi-fi-bluetooth-gps-lte-android-80-slate-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3645/1815180/thumbnails/tab-m10-tb-x605l-10-
 9/21/2020 12:00:04 AM 928,99 RON
 9/25/2020 1:33:22 PM 928,99 RON
 9/26/2020 3:57:26 PM 928,99 RON
+10/2/2020 2:00:46 PM 1.117,79 RON

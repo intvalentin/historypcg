@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |53018520, ags-w09
 1489710
     Product link    
 https://www.pcgarage.ro/tablete/huawei/mediapad-t3-10-96-inch-ips-multi-touch-cortex-a53-14-ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-android-70-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301253/1489710/thumbnails/mediapad-t3-10-96
 9/21/2020 12:00:13 AM 564,71 RON
 9/25/2020 1:39:17 PM 566,34 RON
 9/26/2020 3:58:10 PM 566,67 RON
+10/2/2020 1:54:29 PM 566,33 RON

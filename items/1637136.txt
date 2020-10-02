@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0143
 1637136
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-male-la-usb-c-male-15-m-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1634078/1637136/thumbnails/usb-male-la-usb-c
 9/20/2020 11:59:36 PM 45,98 RON
 9/25/2020 1:30:26 PM 45,98 RON
 9/26/2020 3:49:26 PM 45,98 RON
+10/2/2020 12:34:21 PM 45,98 RON

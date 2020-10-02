@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6931474722874
 2046822
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/u82-cool-grace-usb-male-la-usb-c-male-12-m-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2046822/thumbnails/u82-cool-grace-us
 9/20/2020 11:58:58 PM 63,98 RON
 9/25/2020 1:19:19 PM 63,98 RON
 9/26/2020 3:38:17 PM 63,98 RON
+10/2/2020 11:39:50 AM 63,98 RON

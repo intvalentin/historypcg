@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za180072bg
 1607942
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-3-850m-8-inch-multitouch-mediatek-100ghz-quad-core-2gb-ram-16gb-flash-wi-fi-bluetooth-gps-lte-android-60-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1516422/1607942/thumbnails/tab-3-850m-8-inch
 9/21/2020 12:00:21 AM 763,12 RON
 9/25/2020 1:39:17 PM 764,05 RON
 9/26/2020 3:58:10 PM 765,32 RON
+10/2/2020 1:56:26 PM 765,31 RON

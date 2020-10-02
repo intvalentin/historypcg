@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6939801423036
 2073370
     Product link    
 https://www.pcgarage.ro/cabluri-date/goui/metallic-usb-male-la-lightning-male-1-m-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2073370/thumbnails/metallic-usb-male-la
 9/20/2020 11:59:12 PM 99,98 RON
 9/25/2020 1:14:51 PM 99,98 RON
 9/26/2020 3:33:50 PM 99,98 RON
+10/2/2020 12:02:42 PM 99,98 RON

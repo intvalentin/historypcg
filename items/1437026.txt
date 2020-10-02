@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0057
 1437026
     Product link    
 https://www.pcgarage.ro/cabluri-date/logilink/usb-microusb-06m-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1363661/1437026/thumbnails/usb-microusb-06m-
 9/20/2020 11:58:20 PM 35,98 RON
 9/25/2020 1:25:14 PM 35,98 RON
 9/26/2020 3:44:13 PM 35,98 RON
+10/2/2020 10:41:18 AM 35,98 RON

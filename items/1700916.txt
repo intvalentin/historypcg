@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90106
 1700916
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/fs-500-37-70-inch-argintiu-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1689668/1700916/thumbnails/fs-500-37-70-inch
 9/21/2020 8:14:18 AM 1.061,44 RON
 9/25/2020 9:22:47 PM 1.065,11 RON
 9/27/2020 9:21:37 AM 1.065,11 RON
+10/2/2020 12:25:53 PM 1.064,48 RON

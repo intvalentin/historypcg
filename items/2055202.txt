@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.ue2ee.p01
 2055202
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-nitro-ei242qrpbiipx-curbat-236-inch-1-ms-black-freesync-144-hz/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055202/thumbnails/monitor-nitro-ei242q
 9/21/2020 8:15:22 AM 921,98 RON
 9/25/2020 9:44:14 PM 923,98 RON
 9/27/2020 9:40:07 AM 923,98 RON
+10/2/2020 5:50:00 PM 929,98 RON

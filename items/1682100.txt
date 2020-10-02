@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ctl-4100k-n
 1682100
     Product link    
 https://www.pcgarage.ro/tablete-grafice/wacom/intuos-s-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1664836/1682100/thumbnails/intuos-s-black-b8
 9/21/2020 12:01:35 AM 413,13 RON
 9/25/2020 1:49:34 PM 413,13 RON
 9/26/2020 4:17:51 PM 413,13 RON
+10/2/2020 6:53:58 PM 413,13 RON

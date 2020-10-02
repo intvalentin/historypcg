@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0052
 1778164
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0052-13-27-inch-argintiu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1778164/thumbnails/bp0052-13-27-inch-arg
 9/21/2020 8:14:14 AM 726,57 RON
 9/25/2020 9:21:18 PM 729,08 RON
 9/27/2020 9:20:00 AM 729,08 RON
+10/2/2020 12:24:46 PM 728,64 RON

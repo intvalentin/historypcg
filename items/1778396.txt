@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0034
 1778396
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0034-23-42-inch-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1778396/thumbnails/bp0034-23-42-inch-neg
 9/21/2020 8:13:56 AM 54,03 RON
 9/25/2020 9:21:18 PM 54,21 RON
 9/27/2020 9:20:00 AM 54,21 RON
+10/2/2020 11:48:34 AM 54,18 RON

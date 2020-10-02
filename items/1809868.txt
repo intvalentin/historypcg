@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-g973fzgdrom
 1809868
     Product link    
 https://www.pcgarage.ro/smartphone/samsung/galaxy-s10-octa-core-128gb-8gb-ram-dual-sim-4g-4-camere-prism-green/
@@ -8,3 +8,4 @@ Samsung Galaxy S10, Octa Core, 128GB, 8GB RAM, Dual SIM, 4G, 4-Camere, Prism Gre
 https://5.grgs.ro/images/products/1/1802236/1809868/thumbnails/galaxy-s10-octa-core-128gb-8gb-ram-dual-sim-4g-quad-camera-teal-green-30d2f7af1373733aa667f9ce1ca9cf6f.jpg
     Pret    
 9/20/2020 11:40:00 PM 2.499,00 RON
+10/2/2020 10:13:47 AM 2.499,00 RON

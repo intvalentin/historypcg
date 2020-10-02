@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mzb9442eu
 2037666
     Product link    
 https://www.pcgarage.ro/smartphone/xiaomi/redmi-note-9-pro-octa-core-128gb-6gb-ram-dual-sim-4g-5-camere-interstellar-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3041/2037666/thumbnails/redmi-note-9-pro-oct
 9/20/2020 11:40:24 PM 1.249,90 RON
 9/25/2020 8:50:37 PM 1.249,90 RON
 9/27/2020 8:50:21 AM 1.249,90 RON
+10/2/2020 10:12:31 AM 1.299,90 RON

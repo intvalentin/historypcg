@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0018
 1754308
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0018-37-70-inch-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1749840/1754308/thumbnails/bp0018-37-70-inch
 9/21/2020 8:14:04 AM 134,76 RON
 9/25/2020 9:22:03 PM 135,23 RON
 9/27/2020 9:20:48 AM 135,23 RON
+10/2/2020 12:03:12 PM 135,15 RON

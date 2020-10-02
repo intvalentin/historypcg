@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00469
 1906962
     Product link    
 https://www.pcgarage.ro/sisteme-home-cinema/panasonic/sc-htb510egk-21-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1906962/thumbnails/sc-htb510egk-11-b
 9/21/2020 8:14:49 AM 1.379,98 RON
 9/25/2020 9:30:54 PM 1.383,98 RON
 9/27/2020 9:30:28 AM 1.383,98 RON
+10/2/2020 1:10:31 PM 1.383,98 RON

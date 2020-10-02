@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za550030bg
 2073066
     Product link    
 https://www.pcgarage.ro/tablete/lenovo/tab-m7-tb-7305f-7-inch-multi-touch-cortex-a7-13-ghz-quad-core-1gb-ram-16gb-flash-wi-fi-bluetooth-android-90-onyx-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2073066/thumbnails/tab-m7-7-inch-multi-
 9/21/2020 12:00:09 AM 478,13 RON
 9/25/2020 1:33:22 PM 478,58 RON
 9/26/2020 3:52:20 PM 479,38 RON
+10/2/2020 1:21:43 PM 479,15 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |241b7qupbeb+-+00
 1723080
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/241b7qupbeb-238-inch-5-ms-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8674/1723080/thumbnails/241b7qupbeb-238-inch
 9/21/2020 8:15:51 AM 1.141,98 RON
 9/25/2020 9:50:07 PM 1.145,98 RON
 9/27/2020 9:46:30 AM 1.145,98 RON
+10/2/2020 5:56:32 PM 1.145,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pgps506000004gb00
 2039634
     Product link    
 https://www.pcgarage.ro/navigatoare/prestigio/geovision-5060/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2039634/thumbnails/geovision-5060-4c114
 9/21/2020 8:14:40 AM 199,98 RON
 9/25/2020 9:29:25 PM 199,98 RON
 9/27/2020 9:28:52 AM 199,98 RON
+10/2/2020 12:57:07 PM 199,98 RON

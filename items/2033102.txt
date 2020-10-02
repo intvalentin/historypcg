@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kcs-00013
 2033102
     Product link    
 https://www.pcgarage.ro/tastatura-dock/microsoft/tastatura-wireless-platinum-pentru-surface-go/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2033102/thumbnails/tastatura-wireless-p
 9/21/2020 12:00:48 AM 554,52 RON
 9/25/2020 1:40:45 PM 556,02 RON
 9/26/2020 3:59:37 PM 556,71 RON
+10/2/2020 5:53:58 PM 556,43 RON

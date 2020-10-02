@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90026
 1045417
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/sbox/lcd-2900b-19-37-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/255443/1045417/thumbnails/lcd-2900b-19-37-in
 9/21/2020 8:13:43 AM 43,19 RON
 9/25/2020 9:20:33 PM 43,19 RON
 9/27/2020 9:19:14 AM 43,19 RON
+10/2/2020 11:39:15 AM 43,19 RON

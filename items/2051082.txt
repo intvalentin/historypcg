@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-6957531062936
 2051082
     Product link    
 https://www.pcgarage.ro/cabluri-date/hoco/x14-times-usb-male-la-usb-c-male-2-m-red-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2051082/thumbnails/x14-times-usb-male-l
 9/20/2020 11:58:34 PM 45,98 RON
 9/25/2020 1:18:34 PM 45,98 RON
 9/26/2020 3:37:33 PM 45,98 RON
+10/2/2020 11:05:00 AM 45,98 RON

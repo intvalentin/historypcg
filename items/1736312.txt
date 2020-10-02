@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp0009
 1736312
     Product link    
 https://www.pcgarage.ro/suport-tv-monitor/logilink/bp0009-32-55-inch-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6748/1736312/thumbnails/bp0009-32-55-inch-ne
 9/21/2020 8:13:51 AM 78,57 RON
 9/25/2020 9:22:03 PM 78,84 RON
 9/27/2020 9:20:48 AM 78,84 RON
+10/2/2020 11:52:08 AM 78,79 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0148
 1637164
     Product link    
 https://www.pcgarage.ro/cabluri-date/sbox/usb-30-male-la-usb-c-male-1-m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1637164/thumbnails/usb-30-male-la-us
 9/20/2020 11:58:39 PM 47,98 RON
 9/25/2020 1:24:29 PM 47,98 RON
 9/26/2020 3:43:29 PM 47,98 RON
+10/2/2020 11:10:26 AM 47,98 RON
