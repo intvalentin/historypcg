@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x3b09a
 1706188
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/deskjet-gt-5820-all-in-one-inkjet-ciss-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692136/1706188/thumbnails/deskjet-gt-5820-a
 9/21/2020 2:35:20 PM 1.297,98 RON
 9/26/2020 10:10:47 AM 1.301,98 RON
 9/27/2020 1:29:18 PM 1.301,98 RON
+10/5/2020 2:38:43 PM 1.301,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chdhc-601-rw
 1737812
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/gopro/hero-7-silver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1737812/thumbnails/hero-7-silver-c90
 9/22/2020 5:30:51 PM 1.145,98 RON
 9/26/2020 6:38:14 PM 1.145,98 RON
 9/28/2020 8:20:22 AM 1.145,98 RON
+10/5/2020 4:34:28 PM 1.145,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm39682
 304541
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/usb-30-male-microusb-30-male-18m-albastru-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/304541/thumbnails/cablu-usb-30-tip-a-m-mic
 9/21/2020 11:53:14 AM 63,98 RON
 9/26/2020 9:22:06 AM 63,98 RON
 9/27/2020 12:28:00 PM 63,98 RON
+10/4/2020 10:30:16 PM 63,98 RON

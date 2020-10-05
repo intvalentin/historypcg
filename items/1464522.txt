@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus161-30fcb713bdde0c62632fa581e1d0e150
 1464522
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-s301-s301a-s301u-s401-s401a-s401u-s501-s501a-s501u/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1355324/1464522/thumbnails/baterie-laptop-as
 9/20/2020 11:12:10 PM 223,98 RON
 9/25/2020 4:02:42 PM 227,98 RON
 9/26/2020 6:02:32 PM 227,98 RON
+10/3/2020 5:15:28 PM 225,98 RON
+10/5/2020 11:15:44 AM 225,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0960c009aa
 1470062
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/maxify-mb5150-inkjet-color-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1470062/thumbnails/maxify-mb5150-ink
 9/21/2020 2:00:00 PM 883,98 RON
 9/26/2020 10:04:08 AM 885,98 RON
 9/27/2020 1:23:00 PM 883,98 RON
+10/5/2020 12:43:06 PM 885,98 RON

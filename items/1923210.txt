@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9506b004aa
 1923210
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-1435i-laser-mono-format-a4-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8629/1923210/thumbnails/imagerunner-1435i-la
 9/21/2020 2:41:34 PM 3.179,98 RON
 9/26/2020 10:07:49 AM 3.189,98 RON
 9/27/2020 1:26:06 PM 3.189,98 RON
+10/5/2020 3:02:32 PM 3.187,98 RON

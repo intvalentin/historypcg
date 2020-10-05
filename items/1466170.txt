@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-863ff87fa8bc009357b540b7d8dd6a4f
 1466170
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-s410p-s510p/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1408706/1466170/thumbnails/baterie-laptop-le
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 3:58:57 PM 245,98 RON
 9/26/2020 5:58:46 PM 245,98 RON
+10/3/2020 8:39:21 PM 243,98 RON
+10/5/2020 11:23:17 AM 243,98 RON

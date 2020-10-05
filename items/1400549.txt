@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f2a69a
 1400549
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-enterprise-m506dn-monocrom-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1053670/1400549/thumbnails/laserjet-enterpri
 9/21/2020 3:14:46 PM 2.255,98 RON
 9/26/2020 10:25:23 AM 2.263,98 RON
 9/27/2020 1:42:53 PM 2.263,98 RON
+10/5/2020 4:56:06 PM 2.261,98 RON

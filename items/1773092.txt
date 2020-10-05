@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.qv7ee.001
 1773092
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-v247ybi-238-inch-4-ms-black-freesync-75hz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5015/1773092/thumbnails/gaming-v247ybi-238-i
 9/21/2020 8:15:38 AM 583,98 RON
 9/25/2020 9:49:23 PM 585,98 RON
 9/27/2020 9:45:41 AM 585,98 RON
+10/3/2020 10:12:55 PM 699,98 RON
+10/5/2020 12:38:15 PM 699,98 RON

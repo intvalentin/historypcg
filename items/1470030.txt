@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m9l80a
 1470030
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-pro-8725-e-all-in-one-inkjet-color-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469770/1470030/thumbnails/officejet-pro-872
 9/21/2020 2:35:21 PM 1.357,98 RON
 9/26/2020 10:11:32 AM 1.361,98 RON
 9/27/2020 1:30:08 PM 1.359,98 RON
+10/5/2020 2:41:30 PM 1.361,98 RON

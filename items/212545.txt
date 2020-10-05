@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s041944
 212545
     Product link    
 https://www.pcgarage.ro/hartie/epson/photo-ultra-glossy-130x180-mm-5x7-inch-50-coli/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/212545/thumbnails/photo-ultra-glossy-130x1
 9/22/2020 10:23:21 AM 103,98 RON
 9/26/2020 1:47:28 PM 103,98 RON
 9/27/2020 4:55:25 PM 103,98 RON
+10/5/2020 8:02:19 AM 99,98 RON

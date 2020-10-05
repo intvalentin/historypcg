@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c1-wh
 1461866
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/1x-usb-20-male-1x-microusb-20-male-1x-usb-tip-c-male-alb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1175596/1461866/thumbnails/1x-usb-20-male-1x
 9/21/2020 12:25:20 PM 29,98 RON
 9/26/2020 9:31:41 AM 31,98 RON
 9/27/2020 12:38:22 PM 31,98 RON
+10/4/2020 11:34:33 PM 31,98 RON

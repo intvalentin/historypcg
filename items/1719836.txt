@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs3618xs
 1719836
     Product link    
 https://www.pcgarage.ro/nas/synology/rackstation-rs3618xs/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1719836/thumbnails/rackstation-rs361
 9/22/2020 11:29:33 AM 14.555,95 RON
 9/26/2020 2:31:43 PM 14.597,88 RON
 9/27/2020 6:33:21 PM 14.606,26 RON
+10/5/2020 3:27:11 PM 14.987,52 RON

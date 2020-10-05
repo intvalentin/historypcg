@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |013r00660
 742635
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/drum-013r00660-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/742635/thumbnails/drum-013r00660-cyan-dae5
 9/22/2020 10:09:25 AM 1.471,98 RON
 9/26/2020 1:34:10 PM 1.477,98 RON
 9/27/2020 4:42:06 PM 1.477,98 RON
+10/4/2020 10:48:51 PM 1.477,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a32w021
 990337
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-tnp-24-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/843505/990337/thumbnails/toner-tnp-24-black-
 9/22/2020 10:12:38 AM 467,98 RON
 9/26/2020 1:39:22 PM 459,98 RON
 9/27/2020 4:47:18 PM 459,98 RON
+10/4/2020 11:03:13 PM 463,98 RON

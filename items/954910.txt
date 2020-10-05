@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3020v_bi
 954910
     Product link    
 https://www.pcgarage.ro/imprimante/xerox/phaser-3020bi-laser-monocrom-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/954910/thumbnails/phaser-3020bi-laser
 9/21/2020 3:02:12 PM 319,98 RON
 9/26/2020 10:21:40 AM 337,98 RON
 9/27/2020 1:38:53 PM 337,98 RON
+10/5/2020 3:29:02 PM 338,99 RON

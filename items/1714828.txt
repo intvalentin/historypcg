@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |covr-c1203
 1714828
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-mesh-covr-c1203-dual-band-2-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1714828/thumbnails/gigabit-covr-c120
 9/22/2020 11:14:32 AM 760,97 RON
 9/26/2020 2:20:34 PM 669,89 RON
 9/27/2020 6:22:17 PM 669,89 RON
+10/5/2020 1:08:57 PM 763,08 RON

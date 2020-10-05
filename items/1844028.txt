@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3058c003aa
 1844028
     Product link    
 https://www.pcgarage.ro/plottere/canon/imageprograf-tm-300-36-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1054/1844028/thumbnails/imageprograf-tm-300-
 9/22/2020 10:29:46 AM 7.321,98 RON
 9/26/2020 1:52:38 PM 7.345,98 RON
 9/27/2020 5:00:32 PM 7.345,98 RON
+10/5/2020 8:41:03 AM 7.341,98 RON

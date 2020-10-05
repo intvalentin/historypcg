@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ce22301bx
 1881526
     Product link    
 https://www.pcgarage.ro/imprimante/epson/surecolor-sc-p800-inkjet-color-format-a2-retea-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881526/thumbnails/surecolor-sc-p800-in
 9/21/2020 3:21:00 PM 5.875,98 RON
 9/26/2020 10:23:54 AM 5.889,98 RON
 9/27/2020 1:41:18 PM 5.893,98 RON
+10/5/2020 5:11:41 PM 5.889,98 RON

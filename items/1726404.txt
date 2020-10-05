@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pme-4ui
 1726404
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/pme-4ui-express-card/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1723568/1726404/thumbnails/pme-4ui-express-c
 9/21/2020 12:27:24 PM 97,98 RON
 9/26/2020 9:30:57 AM 99,98 RON
 9/27/2020 12:37:35 PM 99,98 RON
+10/4/2020 11:51:11 PM 99,98 RON

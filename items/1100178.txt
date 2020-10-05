@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-aefb-05
 1100178
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sata-iii-6g-1tb-7200-rpm-35-inch-400-aefb/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/859765/1100178/thumbnails/hot-plug-sata-ii-1
 9/21/2020 12:04:50 AM 814,15 RON
 9/25/2020 2:32:16 PM 826,48 RON
 9/26/2020 4:53:14 PM 820,65 RON
+10/3/2020 9:13:47 AM 821,90 RON
+10/5/2020 10:34:53 AM 821,90 RON

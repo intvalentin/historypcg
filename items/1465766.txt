@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi104-a6a6bf57c85ea298a9c9c53377f4226f
 1465766
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-megabook-vr620x-vr620-vr610x-vr610-vr603x-vr603/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1175596/1465766/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 3:59:42 PM 235,98 RON
 9/26/2020 5:59:31 PM 235,98 RON
+10/3/2020 5:29:09 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

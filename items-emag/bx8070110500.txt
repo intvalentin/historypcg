@@ -7,3 +7,4 @@ Procesor Intel® Core™i5-10500 Comet Lake, 3.1GHz, 12MB, Socket 1200
     Pret    
 10/1/2020 7:48:46 AM 1045
 10/2/2020 8:41:03 AM 1045
+10/4/2020 9:49:58 PM 1045

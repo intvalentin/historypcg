@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo125-8bd2590550d5fd2e31090fcd092c0de6
 1465974
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-edge-e420-e425-e520-e525/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1086319/1465974/thumbnails/baterie-laptop-le
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:33:41 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

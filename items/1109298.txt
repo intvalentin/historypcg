@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2589s3-bk
 1109298
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/2589s3-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/750014/1109298/thumbnails/2589s3-black-53ad3
 9/21/2020 10:29:47 AM 79,98 RON
 9/26/2020 8:58:35 AM 81,98 RON
 9/27/2020 11:52:31 AM 81,98 RON
+10/4/2020 6:48:29 PM 79,98 RON

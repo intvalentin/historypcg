@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-002240
 270249
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m185-red/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5/270249/thumbnails/m185-red-35c83e9f058bd3c
 9/21/2020 8:22:42 AM 62,98 RON
 9/26/2020 8:24:16 AM 62,98 RON
 9/27/2020 11:18:02 AM 62,98 RON
+10/3/2020 5:36:37 PM 62,98 RON
+10/5/2020 2:42:28 PM 62,98 RON

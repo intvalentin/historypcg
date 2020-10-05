@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |des-1100-24
 276227
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/des-1100-24/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/276227/thumbnails/des-1100-24-374503fc2c50
 9/22/2020 11:50:00 AM 434,90 RON
 9/26/2020 2:50:17 PM 436,40 RON
 9/27/2020 6:52:41 PM 436,40 RON
+10/5/2020 5:47:17 PM 345,85 RON

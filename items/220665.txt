@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44036022
 220665
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/magenta-toner-44036022/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/220665/thumbnails/magenta-toner-44036022-8
 9/21/2020 10:56:07 PM 867,98 RON
 9/26/2020 1:17:07 PM 869,98 RON
 9/27/2020 4:18:21 PM 869,98 RON
+10/4/2020 7:26:56 PM 869,98 RON

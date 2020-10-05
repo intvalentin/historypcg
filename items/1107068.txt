@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u7z-00057
 1107068
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/mobile-1850-cyan/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/959008/1107068/thumbnails/mobile-1850-cyan-3
 9/21/2020 8:22:39 AM 64,99 RON
 9/26/2020 8:16:48 AM 64,99 RON
 9/27/2020 11:10:32 AM 64,99 RON
+10/3/2020 4:51:41 PM 64,99 RON
+10/5/2020 2:37:38 PM 64,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco152-70318cf2bd79d7ec4f53b8784a87a205
 1535935
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-470-g3/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1489074/1535935/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:39 PM 231,98 RON
 9/25/2020 3:49:11 PM 235,98 RON
 9/26/2020 5:49:02 PM 235,98 RON
+10/3/2020 5:47:27 PM 233,98 RON
+10/5/2020 11:19:30 AM 233,98 RON

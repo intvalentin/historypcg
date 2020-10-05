@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |843266-b21
 1450966
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hp/non-hot-plug-sata-6g-1tb-7200-rpm-35-inch-1/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1155213/1450966/thumbnails/non-hot-plug-sata
 9/21/2020 12:05:04 AM 369,32 RON
 9/25/2020 2:35:14 PM 369,77 RON
 9/26/2020 4:56:14 PM 370,38 RON
+10/3/2020 9:45:58 AM 370,20 RON
+10/5/2020 10:36:22 AM 370,35 RON

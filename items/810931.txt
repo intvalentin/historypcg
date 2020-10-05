@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r7000-100pes
 810931
     Product link    
 https://www.pcgarage.ro/routere-wireless/netgear/r7000-ac1900-nighthawk-smart-wifi-router-80211ac-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/810931/thumbnails/r7000-ac1900-nighthawk-s
 9/22/2020 11:14:32 AM 851,16 RON
 9/26/2020 2:22:04 PM 854,46 RON
 9/27/2020 6:23:45 PM 854,46 RON
+10/5/2020 1:10:18 PM 852,88 RON

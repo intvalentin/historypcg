@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gft-k002-bk
 2062902
     Product link    
 https://www.pcgarage.ro/tastaturi/gofreetech/gft-k002-black/
@@ -11,3 +11,5 @@ https://5.grgs.ro/images/products/1/6954/2062902/thumbnails/gft-k002-black-cf34d
 9/21/2020 9:56:53 AM 49,98 RON
 9/26/2020 8:34:00 AM 51,98 RON
 9/27/2020 11:27:48 AM 51,98 RON
+10/3/2020 9:05:53 PM 51,98 RON
+10/5/2020 2:57:31 PM 51,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |snb-8842
 1945486
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/inter-tech/snb-8842-42u-stand-alone-800-x-800-glass-door/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5758/1945486/thumbnails/snb-8842-42u-stand-a
 9/21/2020 12:05:31 AM 3.419,23 RON
 9/25/2020 2:36:41 PM 3.495,26 RON
 9/26/2020 4:57:40 PM 3.494,51 RON
+10/3/2020 10:22:21 AM 3.467,55 RON
+10/5/2020 10:41:33 AM 3.467,55 RON

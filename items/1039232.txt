@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steb4000200
 1039232
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/expansion-desktop-drive-4tb-35-inch-usb-30-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/798262/1039232/thumbnails/expansion-desktop-
 9/21/2020 8:18:05 AM 413,39 RON
 9/25/2020 10:14:29 PM 413,39 RON
 9/27/2020 10:16:18 AM 413,39 RON
+10/2/2020 9:36:41 PM 413,39 RON
+10/5/2020 1:12:46 PM 413,39 RON

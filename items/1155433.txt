@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-653a-4g
 1155433
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-653a-4gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1146523/1155433/thumbnails/ts-653a-4gb-9187e
 9/22/2020 11:27:24 AM 4.160,84 RON
 9/26/2020 2:32:28 PM 4.172,84 RON
 9/27/2020 6:34:05 PM 4.175,24 RON
+10/5/2020 3:09:26 PM 4.172,49 RON

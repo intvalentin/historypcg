@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sa3200d
 2005474
     Product link    
 https://www.pcgarage.ro/nas/synology/sa3200d-8gb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2005474/thumbnails/sa3200d-8gb-61a248a8
 9/22/2020 11:30:36 AM 38.311,87 RON
 9/26/2020 2:29:30 PM 38.463,81 RON
 9/27/2020 6:31:06 PM 38.463,81 RON
+10/5/2020 3:29:49 PM 38.390,50 RON

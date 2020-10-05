@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-168sk-b
 69543
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-ib-168sk-b-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/69543/thumbnails/1526icyboxib168skbe1.jpg
 9/21/2020 10:25:28 AM 109,98 RON
 9/26/2020 8:59:19 AM 109,98 RON
 9/27/2020 11:53:15 AM 109,98 RON
+10/4/2020 6:52:37 PM 109,98 RON

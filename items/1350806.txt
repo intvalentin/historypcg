@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |25uts-bk
 1350806
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/25uts-1x-usb-30-1x-sata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1169071/1350806/thumbnails/25uts-1x-usb-30-1
 9/21/2020 12:35:43 PM 67,98 RON
 9/26/2020 9:36:09 AM 69,98 RON
 9/27/2020 12:43:09 PM 69,98 RON
+10/5/2020 8:13:50 AM 69,98 RON

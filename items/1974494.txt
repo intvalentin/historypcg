@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg27vq
 1974494
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/vg27vq-curbat-27-inch-1-ms-negru-freesync-165-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8486/1974494/thumbnails/vg27vq-curbat-27-inc
 9/21/2020 8:17:15 AM 1.443,98 RON
 9/25/2020 9:57:29 PM 1.445,98 RON
 9/27/2020 9:57:54 AM 1.447,98 RON
+10/2/2020 8:19:54 PM 1.445,98 RON
+10/4/2020 4:30:35 PM 1.445,98 RON
+10/5/2020 12:59:41 PM 1.445,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w1a79a
 1906254
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-mfp-m479fdn-laser-color-format-a4-duplex-retea-fax/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/1906254/thumbnails/laserjet-pro-mfp-m47
 9/21/2020 2:00:00 PM 2.065,98 RON
 9/26/2020 10:07:05 AM 2.073,98 RON
 9/27/2020 1:25:18 PM 2.069,98 RON
+10/5/2020 2:54:52 PM 2.071,98 RON

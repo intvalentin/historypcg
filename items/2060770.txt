@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xb7a00021
 2060770
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/thinksystem-hdd-300gb-15000rpm-sas-25-inch-512n/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/6954/2060770/thumbnails/thinksystem-hdd-300g
 9/21/2020 12:04:55 AM 1.048,43 RON
 9/25/2020 2:30:02 PM 1.049,71 RON
 9/26/2020 4:51:03 PM 1.051,45 RON
+10/3/2020 9:16:12 AM 1.051,44 RON
+10/5/2020 10:34:53 AM 1.051,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc21-01190200-r3m1
 1880498
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/razer/base-station-chroma-quartz-pink/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5634/1880498/thumbnails/base-station-razer-c
 9/21/2020 8:09:58 AM 403,98 RON
 9/25/2020 2:40:23 PM 405,98 RON
 9/26/2020 5:01:21 PM 405,98 RON
+10/3/2020 10:56:45 AM 405,98 RON
+10/5/2020 10:45:57 AM 405,98 RON

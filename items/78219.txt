@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44059105
 78219
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/yellow-toner-44059105/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/78219/thumbnails/yellow-toner-44059105-c39
 9/21/2020 10:57:12 PM 991,98 RON
 9/26/2020 1:17:07 PM 993,98 RON
 9/27/2020 4:18:21 PM 993,98 RON
+10/4/2020 7:31:14 PM 993,98 RON

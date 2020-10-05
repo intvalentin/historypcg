@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |td4000yj1
 1940738
     Product link    
 https://www.pcgarage.ro/imprimante/brother/td4000-termica-monocrom-eticheta-102-mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6835/1940738/thumbnails/td4000-termica-monoc
 9/21/2020 3:14:45 PM 1.753,98 RON
 9/26/2020 10:22:25 AM 1.759,98 RON
 9/27/2020 1:39:41 PM 1.759,98 RON
+10/5/2020 4:53:41 PM 1.757,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90l30002ri
 1884770
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-intel-core-i5-9400-29ghz-coffee-lake-16gb-ddr4-1tb-hdd-geforce-gtx-1660-ti-6gb-win-10-home/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1703884/1884770/thumbnails/legion-t530-tower
 9/21/2020 12:02:03 AM 6.769,98 RON
 9/25/2020 1:56:45 PM 6.779,98 RON
 9/26/2020 4:25:05 PM 6.789,98 RON
+10/2/2020 7:59:42 PM 6.789,98 RON
+10/5/2020 10:07:39 AM 6.789,98 RON

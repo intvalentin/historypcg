@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b800.2135
 1852446
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/bluenet-metered-plus-24x-iec-320-c13-4x-iec-320-c19-2m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848774/1852446/thumbnails/bluenet-metered-p
 9/21/2020 12:58:23 PM 989,98 RON
 9/26/2020 9:42:47 AM 989,98 RON
 9/27/2020 12:50:20 PM 989,98 RON
+10/5/2020 9:46:28 AM 989,98 RON

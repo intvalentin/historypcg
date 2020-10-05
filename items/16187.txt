@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01080
 16187
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01080-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/16187/thumbnails/toner-cartridge-negru-pen
 9/22/2020 10:08:20 AM 951,98 RON
 9/26/2020 1:34:55 PM 953,98 RON
 9/27/2020 4:42:51 PM 953,98 RON
+10/4/2020 10:40:48 PM 953,98 RON

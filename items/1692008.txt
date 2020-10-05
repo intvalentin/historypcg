@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcpt310re1
 1692008
     Product link    
 https://www.pcgarage.ro/multifunctionale/brother/dcp-t310-inkjet-color-format-a4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1684696/1692008/thumbnails/dcp-t310-inkjet-c
 9/21/2020 2:31:11 PM 763,98 RON
 9/26/2020 10:04:08 AM 765,98 RON
 9/27/2020 1:22:16 PM 765,98 RON
+10/5/2020 2:21:38 PM 765,98 RON

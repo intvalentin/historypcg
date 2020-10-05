@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm8064601467406
 978202
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1265l-v3-25ghz-tray/
@@ -8,3 +8,5 @@ Intel Xeon Quad-Core E3-1265L v3 2.5GHz, tray
 https://1.grgs.ro/images/products/1/714621/978202/thumbnails/xeon-quad-core-e3-1275-v3-35ghz-box-ea3b8e20471371cf45055b214e140f30.jpg
     Pret    
 9/21/2020 12:04:21 AM 1.772,68 RON
+10/3/2020 8:36:13 AM 1.797,73 RON
+10/5/2020 10:30:23 AM 1.797,73 RON

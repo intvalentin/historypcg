@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q7993a
 745708
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/premium-instant-dry-gloss-photo-914-mm-x-305-m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/745708/thumbnails/premium-instant-dry
 9/22/2020 10:35:11 AM 693,98 RON
 9/26/2020 1:54:52 PM 695,98 RON
 9/27/2020 5:02:47 PM 695,98 RON
+10/5/2020 9:35:06 AM 695,98 RON

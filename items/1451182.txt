@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca1089
 1451182
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/2x-35mm-jack-male-1x-35mm-jack-female/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1420862/1451182/thumbnails/2x-35mm-jack-male
 9/21/2020 12:17:05 PM 13,98 RON
 9/26/2020 9:32:26 AM 13,98 RON
 9/27/2020 12:38:22 PM 13,98 RON
+10/4/2020 11:30:03 PM 13,98 RON

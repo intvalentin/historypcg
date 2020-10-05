@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc7i3bnhx1
 1688352
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i3bnhx1-core-i3-7100u-24ghz-2x-ddr4-32gb-max-16gb-intel-optane-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1126098/1688352/thumbnails/nuc-next-unit-of-
 9/21/2020 12:03:37 AM 1.579,98 RON
 9/25/2020 2:18:58 PM 1.599,98 RON
 9/26/2020 4:39:51 PM 1.614,98 RON
+10/2/2020 10:15:41 PM 1.599,98 RON
+10/5/2020 10:23:01 AM 1.599,98 RON

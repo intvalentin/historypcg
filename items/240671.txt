@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-musb2-ambm-6
 240671
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/usb-20-male-microusb-20-male-18m-negru-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/240671/thumbnails/cablu-usb-20a-m-microusb
 9/21/2020 11:44:56 AM 5,98 RON
 9/26/2020 9:22:50 AM 5,98 RON
 9/27/2020 12:28:49 PM 5,98 RON
+10/4/2020 9:53:52 PM 8,99 RON

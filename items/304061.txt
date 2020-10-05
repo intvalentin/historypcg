@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-mr3020
 304061
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/tl-mr3020/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/304061/thumbnails/tl-mr3020-538db26c6994b4
 9/22/2020 11:08:06 AM 101,10 RON
 9/26/2020 2:22:49 PM 101,10 RON
 9/27/2020 6:24:29 PM 101,10 RON
+10/5/2020 12:10:46 PM 101,10 RON

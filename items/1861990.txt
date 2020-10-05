@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |877621-421+866526-b21+815098-b21+865414-b21+872477-b21+874572-b21
 1861990
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-ml350-gen10-tower-4u-2x-procesor-intel-xeon-silver-4110-21ghz-skylake-2x-16gb-rdimm-4x-600gb-sas-10k-sff-25-inch-smart-array-p408i-a-3yr-nbd/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1236/1861990/thumbnails/proliant-ml350-gen10
 9/21/2020 12:04:10 AM 21.265,78 RON
 9/25/2020 2:21:54 PM 21.327,06 RON
 9/26/2020 4:42:51 PM 21.339,32 RON
+10/3/2020 8:22:27 AM 21.325,31 RON
+10/5/2020 10:28:09 AM 21.325,31 RON

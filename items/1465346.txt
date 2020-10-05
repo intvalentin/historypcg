@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco147-8f8d559b2c423f166040835110792056
 1465346
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-cq14-cq15/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1427466/1465346/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:49 PM 235,98 RON
 9/25/2020 4:01:12 PM 241,98 RON
 9/26/2020 6:01:02 PM 241,98 RON
+10/3/2020 8:28:23 PM 239,98 RON
+10/5/2020 11:21:46 AM 239,98 RON

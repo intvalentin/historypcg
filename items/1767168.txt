@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1920-24v2-eu0101f
 1767168
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1920-24v2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1767168/thumbnails/gigabit-gs1920-24
 9/22/2020 11:42:26 AM 997,46 RON
 9/26/2020 2:39:52 PM 1.001,47 RON
 9/27/2020 6:41:31 PM 1.001,47 RON
+10/5/2020 4:59:55 PM 966,28 RON

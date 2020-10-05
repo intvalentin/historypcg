@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps740pbeafwof
 1736596
     Product link    
 https://www.pcgarage.ro/procesoare-server/amd/epyc-twenty-four-core-7401p-2ghz-box/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1427502/1736596/thumbnails/epyc-thirty-two-c
 9/21/2020 12:04:17 AM 6.132,83 RON
 9/25/2020 2:24:50 PM 6.269,19 RON
 9/26/2020 4:45:50 PM 6.267,84 RON
+10/3/2020 8:31:12 AM 6.219,49 RON
+10/5/2020 10:29:38 AM 6.219,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zbox-qk7p3000-be
 1746420
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/zotac/zbox-qk7p3000-kaby-lake-i7-7700t-29ghz-2x-ddr4-quadro-p3000-6gb-fara-hdd-displayport-hdmi-wi-fi-bluetooth-usb-31-type-c/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6748/1746420/thumbnails/zbox-qk7p3000-kaby-l
 9/21/2020 12:03:46 AM 7.779,98 RON
 9/25/2020 2:18:58 PM 7.924,98 RON
 9/26/2020 4:39:51 PM 7.934,98 RON
+10/2/2020 10:30:59 PM 7.879,98 RON
+10/5/2020 10:24:30 AM 7.869,98 RON

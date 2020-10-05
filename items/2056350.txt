@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-453bu-2g
 2056350
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-453bu-2gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1508470/2056350/thumbnails/ts-453bu-4g-91836
 9/22/2020 11:27:24 AM 5.227,99 RON
 9/26/2020 2:29:30 PM 5.243,05 RON
 9/27/2020 6:31:06 PM 5.246,06 RON
+10/5/2020 3:15:23 PM 5.242,62 RON

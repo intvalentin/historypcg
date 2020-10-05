@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dub-m610
 2026834
     Product link    
 https://www.pcgarage.ro/docking-stations/d-link/dub-m610-usb-c/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/9002/2026834/thumbnails/dub-m610-usb-c-b41fa
 9/20/2020 11:39:43 PM 225,98 RON
 9/25/2020 8:46:19 PM 225,98 RON
 9/26/2020 10:45:47 PM 225,98 RON
+10/3/2020 8:42:33 PM 225,98 RON
+10/5/2020 11:28:52 AM 225,98 RON

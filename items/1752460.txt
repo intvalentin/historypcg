@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eg-pdu-012-c14
 1752460
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/gembird/basic-rack-pdu-8x-schuko-3-m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1749840/1752460/thumbnails/basic-rack-pdu-8x
 9/21/2020 12:39:51 PM 93,99 RON
 9/26/2020 9:37:35 AM 93,99 RON
 9/27/2020 12:44:44 PM 93,99 RON
+10/5/2020 9:31:23 AM 89,98 RON

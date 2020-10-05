@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl4742oaefs
 2062846
     Product link    
 https://www.pcgarage.ro/securitate-server/kaspersky/endpoint-security-cloud-user-european-edition-5-workstation-10-dispozitive-mobile-1-an-licenta-noua/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2062846/thumbnails/endpoint-security-cl
 9/21/2020 1:49:44 PM 884,58 RON
 9/26/2020 9:58:12 AM 887,63 RON
 9/27/2020 1:07:11 PM 887,63 RON
+10/5/2020 11:59:44 AM 887,05 RON

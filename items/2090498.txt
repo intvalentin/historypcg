@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |80050000
 2090498
     Product link    
 https://www.pcgarage.ro/distrugatoare-documente/leitz/iq-office-pro-p5/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/8441/2090498/thumbnails/iq-home-office-pro-p
     Pret    
 9/26/2020 2:05:53 PM 3.021,98 RON
 9/27/2020 5:13:09 PM 3.021,98 RON
+10/5/2020 10:48:29 AM 3.021,98 RON

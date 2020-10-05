@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aw5520qf-05
 2043266
     Product link    
 https://www.pcgarage.ro/monitoare-led/alienware/gaming-aw5520qf-05-oled-55-inch-05-ms-negru-freesync-120-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1034/2043266/thumbnails/gaming-aw5520qf-05-o
 9/21/2020 8:17:46 AM 15.193,98 RON
 9/25/2020 9:55:16 PM 15.233,98 RON
 9/27/2020 9:55:29 AM 15.241,98 RON
+10/2/2020 9:15:20 PM 15.475,98 RON
+10/4/2020 4:36:29 PM 15.475,98 RON
+10/5/2020 1:09:08 PM 15.475,98 RON

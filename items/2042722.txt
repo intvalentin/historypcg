@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000030274
 2042722
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sas-600gb-10k-12g-hdd-25-inch-in-35-inch-hyb-carr/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1034/2042722/thumbnails/hot-plug-sata-iii-4t
 9/21/2020 12:04:55 AM 1.010,42 RON
 9/25/2020 2:30:02 PM 1.013,33 RON
 9/26/2020 4:51:03 PM 1.013,91 RON
+10/3/2020 9:15:40 AM 1.013,25 RON
+10/5/2020 10:34:53 AM 1.013,25 RON

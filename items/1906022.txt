@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b5l47a
 1906022
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-m577f-mfp-laser-color-format-a4-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1906022/thumbnails/multifunctional-lase
 9/21/2020 2:47:47 PM 11.749,98 RON
 9/26/2020 10:07:05 AM 11.789,98 RON
 9/27/2020 1:25:18 PM 11.789,98 RON
+10/5/2020 3:20:51 PM 11.781,98 RON

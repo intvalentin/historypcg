@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34um88-p
 1250689
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/34um88-p-34-inch-5-ms-black-freesync/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/815230/1250689/thumbnails/34um88-p-34-inch-5
 9/21/2020 8:17:37 AM 3.209,98 RON
 9/25/2020 10:08:40 PM 3.235,98 RON
 9/27/2020 10:09:52 AM 3.235,98 RON
+10/2/2020 9:00:01 PM 3.241,98 RON
+10/4/2020 4:35:01 PM 3.241,98 RON
+10/5/2020 1:07:39 PM 3.241,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c792a1yg
 530047
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c792-yellow-return/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/530047/thumbnails/toner-c792-yellow-return
 9/21/2020 10:46:27 PM 1.375,98 RON
 9/26/2020 1:06:01 PM 1.379,98 RON
 9/27/2020 4:07:16 PM 1.379,98 RON
+10/4/2020 6:21:51 PM 1.379,98 RON

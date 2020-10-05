@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k104a
 1433510
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/k104a-1x-30-1x-sata/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301253/1433510/thumbnails/k104a-1x-30-1x-sa
 9/21/2020 12:17:05 PM 37,98 RON
 9/26/2020 9:32:26 AM 37,98 RON
 9/27/2020 12:39:12 PM 37,98 RON
+10/4/2020 11:35:30 PM 37,98 RON

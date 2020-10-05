@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pa24ac
 1755600
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/pa24ac-241-inch-5-ms-gray-usb-c/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1749840/1755600/thumbnails/pa24ac-241-inch-5
 9/21/2020 8:17:27 AM 2.487,98 RON
 9/25/2020 9:49:23 PM 2.493,98 RON
 9/27/2020 9:45:41 AM 2.495,98 RON
+10/3/2020 10:43:16 PM 2.493,98 RON
+10/5/2020 12:45:34 PM 2.493,98 RON

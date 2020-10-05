@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mw535
 1733524
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mw535/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1728700/1733524/thumbnails/mh535-6973ac1d1fc
 9/22/2020 5:36:33 PM 2.241,98 RON
 9/26/2020 6:50:11 PM 2.177,98 RON
 9/28/2020 8:32:20 AM 2.179,98 RON
+10/5/2020 5:36:30 PM 2.249,98 RON

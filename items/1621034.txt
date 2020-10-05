@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v241icgk-ba013d
 1621034
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/238-quot-v241icgk-fhd-procesor-intel-core-i5-8250u-16ghz-kaby-lake-r-8gb-ddr4-1tb-hdd-geforce-930mx-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1605610/1621034/thumbnails/desktop-pc-all-in
 9/21/2020 12:03:10 AM 3.479,98 RON
 9/25/2020 2:15:18 PM 3.479,98 RON
 9/26/2020 4:36:10 PM 3.489,98 RON
+10/2/2020 9:19:26 PM 3.489,98 RON
+10/5/2020 10:17:49 AM 3.489,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31030132100
 1436602
     Product link    
 https://www.pcgarage.ro/mouse/genius/micro-traveler-9000r-v3-wireless-pink/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1126098/1436602/thumbnails/micro-traveler-90
 9/21/2020 8:23:17 AM 79,98 RON
 9/26/2020 8:22:01 AM 79,98 RON
 9/27/2020 11:15:03 AM 79,98 RON
+10/3/2020 8:39:36 PM 79,98 RON
+10/5/2020 2:54:33 PM 79,98 RON

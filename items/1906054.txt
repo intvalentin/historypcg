@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d3q16b
 1906054
     Product link    
 https://www.pcgarage.ro/imprimante/hp/pagewide-pro-452dw-inkjet-color-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/1906054/thumbnails/pagewide-pro-452dw-i
 9/21/2020 3:00:10 PM 2.265,98 RON
 9/26/2020 10:18:02 AM 2.271,98 RON
 9/27/2020 1:35:44 PM 2.271,98 RON
+10/5/2020 3:55:17 PM 2.271,98 RON

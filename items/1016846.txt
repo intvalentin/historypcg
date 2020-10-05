@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mdc00096
 1016846
     Product link    
 https://www.pcgarage.ro/mouse/modecom/mc-wm4-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/815230/1016846/thumbnails/mc-wm4-black-ab848
 9/21/2020 8:23:12 AM 39,98 RON
 9/26/2020 8:22:46 AM 39,98 RON
 9/27/2020 11:16:34 AM 39,98 RON
+10/3/2020 5:23:27 PM 39,98 RON
+10/5/2020 2:40:56 PM 39,98 RON

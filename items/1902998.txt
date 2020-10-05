@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2222c007aa
 1902998
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf426dw-laser-monocrom-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1899326/1902998/thumbnails/i-sensys-mf426dw-
 9/21/2020 2:39:30 PM 1.847,98 RON
 9/26/2020 10:08:34 AM 1.853,98 RON
 9/27/2020 1:26:56 PM 1.853,98 RON
+10/5/2020 2:52:20 PM 1.853,98 RON

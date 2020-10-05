@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt crs125-24g-1s-2hnd-in
 876940
     Product link    
 https://www.pcgarage.ro/routere-wireless/mikrotik/crs125-24g-1s-2hn/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862960/876940/thumbnails/crs125-24g-1s-2hn-e
 9/22/2020 11:14:32 AM 907,66 RON
 9/26/2020 2:22:04 PM 925,75 RON
 9/27/2020 6:23:45 PM 925,75 RON
+10/5/2020 1:10:35 PM 857,26 RON

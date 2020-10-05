@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer c60
 1428354
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/archer-c60-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/367655/1428354/thumbnails/archer-c60-dual-ba
 9/22/2020 11:10:15 AM 175,32 RON
 9/26/2020 2:21:19 PM 175,32 RON
 9/27/2020 6:23:00 PM 175,32 RON
+10/5/2020 12:33:11 PM 175,32 RON

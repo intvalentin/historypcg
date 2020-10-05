@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3ek12a
 1940606
     Product link    
 https://www.pcgarage.ro/plottere/hp/designjet-t1600-dual-roll-36-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1940606/thumbnails/designjet-t1600-dual
 9/22/2020 10:30:50 AM 23.461,98 RON
 9/26/2020 1:52:38 PM 25.131,98 RON
 9/27/2020 5:00:32 PM 25.075,98 RON
+10/5/2020 8:42:23 AM 25.115,98 RON

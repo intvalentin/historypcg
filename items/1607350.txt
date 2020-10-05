@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp020tbphda80s3k
 1607350
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/silicon-power/armor-a80-2tb-25-inch-usb-30-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1517618/1607350/thumbnails/armor-a80-1tb-25-
 9/21/2020 8:18:14 AM 349,98 RON
 9/25/2020 10:18:57 PM 359,98 RON
 9/27/2020 10:21:10 AM 359,98 RON
+10/2/2020 10:15:19 PM 349,98 RON
+10/5/2020 1:20:11 PM 349,98 RON

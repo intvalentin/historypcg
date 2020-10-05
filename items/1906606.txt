@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |097s04845
 1906606
     Product link    
 https://www.pcgarage.ro/accesorii-printing/xerox/tava-suplimentara-2000-coli-pentru-versalink-c8000-c9000/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1899326/1906606/thumbnails/tava-suplimentara
 9/22/2020 11:04:58 AM 5.981,98 RON
 9/26/2020 2:13:13 PM 5.997,98 RON
 9/27/2020 6:14:58 PM 5.989,98 RON
+10/5/2020 11:58:01 AM 5.995,98 RON

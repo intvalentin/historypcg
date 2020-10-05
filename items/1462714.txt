@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spc-usb-ambm-6
 1462714
     Product link    
 https://www.pcgarage.ro/cablu-periferice/spacer/usb-20-tip-a-male-usb-20-tip-a-female-18m-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1462714/thumbnails/usb-20-tip-a-male-
 9/21/2020 11:47:00 AM 5,98 RON
 9/26/2020 9:20:37 AM 5,98 RON
 9/27/2020 12:26:26 PM 5,98 RON
+10/4/2020 9:54:59 PM 11,98 RON

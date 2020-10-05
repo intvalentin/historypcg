@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs110-8-hw-eu
 2039614
     Product link    
 https://www.pcgarage.ro/switch-uri/meraki-go/gigabit-gs110-8-hw/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2039614/thumbnails/gigabit-gs110-8-hw-6
 9/22/2020 11:42:26 AM 972,22 RON
 9/26/2020 2:36:09 PM 991,54 RON
 9/27/2020 6:37:48 PM 991,54 RON
+10/5/2020 5:00:44 PM 983,81 RON

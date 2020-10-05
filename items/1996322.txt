@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |covr-1102
 1996322
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-mesh-covr-1102-dual-band-2-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/1996322/thumbnails/gigabit-mesh-covr
 9/22/2020 11:08:06 AM 368,99 RON
 9/26/2020 2:16:52 PM 368,99 RON
 9/27/2020 6:18:35 PM 368,99 RON
+10/5/2020 12:02:42 PM 338,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u2717d
 1251133
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/u2717d-27-inch-6ms-grey/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1187917/1251133/thumbnails/u2717d-27-inch-6m
 9/21/2020 8:17:23 AM 2.019,99 RON
 9/25/2020 10:07:55 PM 2.019,99 RON
 9/27/2020 10:09:05 AM 2.019,99 RON
+10/2/2020 8:40:54 PM 2.019,99 RON
+10/4/2020 4:32:47 PM 2.019,99 RON
+10/5/2020 1:05:26 PM 2.019,99 RON

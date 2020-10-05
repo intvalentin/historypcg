@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b249401
 1592286
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-410/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1541210/1592286/thumbnails/workforce-ds-410-
 9/22/2020 10:39:26 AM 1.433,98 RON
 9/26/2020 2:00:01 PM 1.437,98 RON
 9/27/2020 5:07:57 PM 1.439,98 RON
+10/5/2020 9:59:08 AM 1.437,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |381-04492
 1772020
     Product link    
 https://www.pcgarage.ro/cal-client-access-server/microsoft/cal-user-exchange-server-2019-standard-olp-nl-1-user/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5015/1772020/thumbnails/cal-device-exchange-
 9/21/2020 1:19:14 PM 593,84 RON
 9/26/2020 9:49:19 AM 595,89 RON
 9/27/2020 12:57:35 PM 595,89 RON
+10/5/2020 10:10:27 AM 595,50 RON

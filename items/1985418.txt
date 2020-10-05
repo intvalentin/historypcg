@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7nq-01564
 1985418
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/sql-server-2019-standard-2-core-license-single-language-olp-nl/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/370411/1985418/thumbnails/sql-server-2019-st
 9/21/2020 1:15:07 PM 21.569,29 RON
 9/26/2020 9:47:53 AM 21.643,87 RON
 9/27/2020 12:56:01 PM 21.643,87 RON
+10/5/2020 10:05:23 AM 21.629,67 RON

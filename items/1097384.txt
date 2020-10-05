@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0059
 1097384
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-20-male-microusb-20-male-03m-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/1097384/thumbnails/cu0059-e686b6c42a7
 9/21/2020 11:47:00 AM 13,98 RON
 9/26/2020 9:21:21 AM 13,98 RON
 9/27/2020 12:27:13 PM 13,98 RON
+10/4/2020 10:19:11 PM 29,98 RON

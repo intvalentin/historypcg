@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1474c013aa
 1756284
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf732cdw-laser-color-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1756284/thumbnails/i-sensys-mf732cdw
 9/21/2020 2:39:30 PM 2.089,98 RON
 9/26/2020 10:09:18 AM 2.097,98 RON
 9/27/2020 1:27:43 PM 2.097,98 RON
+10/5/2020 2:55:26 PM 2.095,98 RON

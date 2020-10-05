@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |per230ix12201612502x400-atfsx634-bipu
 1740528
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r230-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-16gb-udimm-ddr4-2400mhz-1tb-hdd-plus-2x-200gb-ssd-lff-35-inch-3yr-nbd-windows-server-2016-standard/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1094679/1740528/thumbnails/poweredge-r230-pr
 9/21/2020 12:04:06 AM 11.853,89 RON
 9/25/2020 2:22:38 PM 11.888,05 RON
 9/26/2020 4:43:36 PM 11.894,88 RON
+10/2/2020 10:55:39 PM 11.887,08 RON
+10/5/2020 10:27:25 AM 11.887,08 RON

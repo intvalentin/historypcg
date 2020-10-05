@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cmsw02b
 1527046
     Product link    
 https://www.pcgarage.ro/mouse/canyon/cne-cmsw02b-wireless-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1263508/1527046/thumbnails/cne-cmsw02b-wirel
 9/21/2020 8:23:43 AM 19,98 RON
 9/26/2020 8:28:46 AM 19,98 RON
 9/27/2020 11:22:33 AM 19,98 RON
+10/3/2020 6:53:06 PM 19,98 RON
+10/5/2020 2:47:29 PM 19,98 RON

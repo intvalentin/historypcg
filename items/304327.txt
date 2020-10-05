@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm45027
 304327
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/cablu-usb-20-m-usb-20-f-18m-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/304327/thumbnails/cablu-usb-20-m-usb-20-f-
 9/21/2020 11:51:09 AM 29,98 RON
 9/26/2020 9:22:50 AM 29,98 RON
 9/27/2020 12:28:49 PM 29,98 RON
+10/4/2020 10:18:37 PM 29,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3ca51t-001
 1993122
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-mag272c-curbat-27-inch-1-ms-negru-freesync-165-hz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1977958/1993122/thumbnails/gaming-optix-mag2
 9/21/2020 8:15:58 AM 1.657,98 RON
 9/25/2020 9:45:42 PM 1.661,98 RON
 9/27/2020 9:41:41 AM 1.663,98 RON
+10/3/2020 10:34:07 PM 1.661,98 RON
+10/5/2020 12:44:06 PM 1.661,98 RON

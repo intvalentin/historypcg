@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |570-aami-05
 1421382
     Product link    
 https://www.pcgarage.ro/mouse/dell/wm326-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1409094/1421382/thumbnails/wm326-black-1ce10
 9/21/2020 8:23:21 AM 145,98 RON
 9/26/2020 8:22:01 AM 145,98 RON
 9/27/2020 11:15:47 AM 145,98 RON
+10/3/2020 5:40:56 PM 89,98 RON
+10/5/2020 2:43:13 PM 89,98 RON

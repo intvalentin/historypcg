@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s2417dg
 1404351
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/gaming-s2417dg-24inch-2k-1ms-black-silver-g-sync-165hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1363661/1404351/thumbnails/gaming-s2417dg-24
 9/21/2020 8:17:27 AM 2.249,99 RON
 9/25/2020 10:07:11 PM 2.249,99 RON
 9/27/2020 10:08:18 AM 2.249,99 RON
+10/2/2020 8:43:58 PM 2.249,99 RON
+10/4/2020 4:32:47 PM 2.249,99 RON
+10/5/2020 1:05:27 PM 2.249,99 RON

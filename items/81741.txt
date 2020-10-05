@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |te100-s8
 81741
     Product link    
 https://www.pcgarage.ro/switch-uri/trendnet/te100-s8/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/81741/thumbnails/te100-s8-daba54824dc6f431
 9/22/2020 11:38:07 AM 56,09 RON
 9/26/2020 2:43:34 PM 56,96 RON
 9/27/2020 6:45:16 PM 56,95 RON
+10/5/2020 4:01:49 PM 56,53 RON

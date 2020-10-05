@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pme-4u
 2014214
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/pme-4u-1x-pci-e-male-4x-usb-30-female/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9943/2014214/thumbnails/pme-4u-1x-pci-e-male
 9/21/2020 12:27:24 PM 101,98 RON
 9/26/2020 9:29:28 AM 103,98 RON
 9/27/2020 12:36:01 PM 103,98 RON
+10/4/2020 11:52:21 PM 103,98 RON

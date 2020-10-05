@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t020423
 1789788
     Product link    
 https://www.pcgarage.ro/adaptoare/techly/1x-usb-31-tip-c-male-1x-vga-female-6/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6440/1789788/thumbnails/1x-usb-31-tip-c-male
 9/21/2020 12:37:47 PM 141,98 RON
 9/26/2020 9:35:24 AM 139,98 RON
 9/27/2020 12:42:20 PM 139,98 RON
+10/5/2020 8:23:32 AM 141,98 RON

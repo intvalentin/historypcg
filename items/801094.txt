@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2w77a
 801094
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-m855dn-laser-color-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/801094/thumbnails/laserjet-m855dn-las
 9/21/2020 3:02:12 PM 15.023,98 RON
 9/26/2020 10:21:40 AM 15.067,98 RON
 9/27/2020 1:38:53 PM 15.075,98 RON
+10/5/2020 4:04:04 PM 19.385,98 RON

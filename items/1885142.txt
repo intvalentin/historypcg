@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c2425dw
 1885142
     Product link    
 https://www.pcgarage.ro/imprimante/lexmark/lexmark-c2425dw-color-laser-printer/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885142/thumbnails/c2425dw-laser-color-
 9/21/2020 3:10:37 PM 1.177,98 RON
 9/26/2020 10:23:10 AM 1.179,98 RON
 9/27/2020 1:41:18 PM 1.181,98 RON
+10/5/2020 4:44:58 PM 1.179,98 RON

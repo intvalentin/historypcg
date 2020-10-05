@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |czv-00070
 2032746
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/bluetooth-arc-touch-rosu-ice-blue/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3041/2032746/thumbnails/bluetooth-arc-touch-
 9/21/2020 8:22:50 AM 399,98 RON
 9/26/2020 8:19:03 AM 399,98 RON
 9/27/2020 11:12:03 AM 399,98 RON
+10/3/2020 5:59:05 PM 399,98 RON
+10/5/2020 2:45:23 PM 399,98 RON

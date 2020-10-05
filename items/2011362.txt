@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pet40e2224g8gb1tb3y-05, 210-ashd
 2011362
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t40-tower-procesor-intel-xeon-e-2224g-35ghz-coffee-lake-8gb-ram-ddr4-udimm-1tb-hdd-72k-sata-35-inch/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2003606/2011362/thumbnails/poweredge-t40-tow
 9/21/2020 12:03:51 AM 2.275,99 RON
 9/25/2020 2:21:09 PM 2.275,99 RON
 9/26/2020 4:41:21 PM 2.275,99 RON
+10/2/2020 10:32:00 PM 2.275,99 RON
+10/5/2020 10:25:13 AM 2.275,99 RON

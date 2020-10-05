@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-473-8g
 1747592
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-473-8g/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1747592/thumbnails/ts-473-8g-0ab135a
 9/22/2020 11:27:24 AM 4.997,92 RON
 9/26/2020 2:30:59 PM 5.010,95 RON
 9/27/2020 6:32:34 PM 5.013,83 RON
+10/5/2020 3:14:45 PM 5.010,54 RON

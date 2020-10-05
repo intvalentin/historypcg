@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb16ap
 1774124
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/mb16ap-156-inch-5-ms-dark-gray-usb-c/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/5015/1774124/thumbnails/mb16ap-156-inch-5-ms
 9/21/2020 8:17:19 AM 1.693,98 RON
 9/25/2020 10:00:28 PM 1.699,98 RON
 9/27/2020 10:01:05 AM 1.699,98 RON
+10/2/2020 8:27:52 PM 1.697,98 RON
+10/4/2020 4:31:19 PM 1.697,98 RON
+10/5/2020 1:00:26 PM 1.697,98 RON

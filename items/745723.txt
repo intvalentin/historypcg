@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q8751a
 745723
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-bond-914-mm-x-175-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/745723/thumbnails/universal-bond-914-
 9/22/2020 10:33:02 AM 283,98 RON
 9/26/2020 1:54:52 PM 285,98 RON
 9/27/2020 5:02:47 PM 283,98 RON
+10/5/2020 9:24:25 AM 283,98 RON

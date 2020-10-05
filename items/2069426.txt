@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-aac211-072
 2069426
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/msi/pro-20exts-8gl-195-inch-hd-plus-touchscreen-procesor-intel-celeron-n4000-11ghz-gemini-lake-8gb-ram-256gb-ssd-uhd-graphics-camera-web-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4273/2069426/thumbnails/msi-aio-195t-n4000-8
 9/21/2020 12:02:51 AM 2.389,98 RON
 9/25/2020 2:04:10 PM 2.389,98 RON
 9/26/2020 4:32:28 PM 2.399,98 RON
+10/2/2020 8:53:15 PM 2.399,98 RON
+10/5/2020 10:14:53 AM 2.399,98 RON

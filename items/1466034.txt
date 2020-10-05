@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-2509eaacae8f1fb24c9f38eaf103fc0b
 1466034
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-z560-z560a-z560g-z560m-z565-z565a-z565g-z572/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1415042/1466034/thumbnails/baterie-laptop-le
 9/20/2020 11:19:54 PM 239,98 RON
 9/25/2020 5:54:01 PM 245,98 RON
 9/26/2020 7:35:02 PM 245,98 RON
+10/3/2020 8:36:40 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

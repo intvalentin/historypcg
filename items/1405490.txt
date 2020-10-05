@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr21e15s8+-+4
 1405490
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/valueram-ecc-udimm-ddr4-4gb-2133mhz-cl15-12v-single-rank-x8/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/859765/1405490/thumbnails/ecc-udimm-ddr4-8gb
 9/21/2020 12:04:36 AM 306,69 RON
 9/25/2020 2:28:32 PM 310,86 RON
 9/26/2020 4:49:34 PM 313,52 RON
+10/3/2020 8:51:33 AM 310,63 RON
+10/5/2020 10:31:53 AM 311,03 RON

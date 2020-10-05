@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0de001ari
 1719776
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/27-ideacentre-520-qhd-touch-procesor-intel-core-i5-8400t-17ghz-coffee-lake-8gb-256gb-ssd-plus-1tb-hdd-gma-uhd-630-win-10-home-dark-silver/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1505170/1719776/thumbnails/27-ideacentre-520
 9/21/2020 12:03:15 AM 5.719,98 RON
 9/25/2020 2:14:33 PM 5.729,98 RON
 9/26/2020 4:35:27 PM 5.739,98 RON
+10/2/2020 9:31:46 PM 5.729,98 RON
+10/5/2020 10:19:19 AM 5.729,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3101c010aa
 1868526
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf744cdw-laser-color-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1868526/thumbnails/i-sensys-mf746cx-
 9/21/2020 2:06:11 PM 2.631,98 RON
 9/26/2020 10:02:38 AM 2.639,98 RON
 9/27/2020 1:20:47 PM 2.633,98 RON
+10/5/2020 1:09:26 PM 2.639,98 RON

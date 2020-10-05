@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |570-aary
 1765068
     Product link    
 https://www.pcgarage.ro/mouse/dell/ms819-fingerprint-reader/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3442/1765068/thumbnails/ms819-fingerprint-re
 9/21/2020 8:23:25 AM 245,98 RON
 9/26/2020 8:20:33 AM 245,98 RON
 9/27/2020 11:14:18 AM 245,98 RON
+10/3/2020 5:57:00 PM 245,98 RON
+10/5/2020 2:45:23 PM 245,98 RON

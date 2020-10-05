@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h746040
 1589334
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-680/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457334/1589334/thumbnails/eb-680s-ff8809d58
 9/22/2020 5:37:36 PM 8.727,98 RON
 9/26/2020 6:46:28 PM 8.751,98 RON
 9/28/2020 8:28:36 AM 8.757,98 RON
+10/5/2020 5:51:29 PM 8.751,98 RON

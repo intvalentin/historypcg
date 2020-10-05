@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0562c008aa
 1473102
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp352x-laser-monocrom-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1461878/1473102/thumbnails/i-sensys-lbp352x-
 9/21/2020 3:02:12 PM 4.523,98 RON
 9/26/2020 10:20:56 AM 4.527,98 RON
 9/27/2020 1:38:06 PM 4.517,98 RON
+10/5/2020 4:01:48 PM 4.523,98 RON

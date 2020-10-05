@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n506bvd3671btpedb
 2001038
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/vostro-3671-mt-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ddr4-256gb-ssd-plus-1tb-hdd-nvidia-gtx-1650-4gb-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1703884/2001038/thumbnails/vostro-3670-mt-pr
 9/21/2020 12:02:20 AM 5.179,98 RON
 9/25/2020 1:58:59 PM 5.179,98 RON
 9/26/2020 4:27:18 PM 5.189,98 RON
+10/2/2020 8:32:01 PM 5.189,98 RON
+10/5/2020 10:11:20 AM 5.189,98 RON

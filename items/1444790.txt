@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t4j59ea
 1444790
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/hp/215-quot-proone-600-g2-fhd-procesor-intel-core-i3-6100-37ghz-skylake-4gb-500gb-gma-hd-530-win-10-pro/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1355434/1444790/thumbnails/215-quot-proone-6
 9/21/2020 12:03:15 AM 4.959,98 RON
 9/25/2020 2:16:01 PM 4.979,98 RON
 9/26/2020 4:36:52 PM 4.979,98 RON
+10/2/2020 9:27:08 PM 4.979,98 RON
+10/5/2020 10:19:19 AM 4.979,98 RON

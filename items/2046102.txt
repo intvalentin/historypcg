@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-825+-+ee
 2046102
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dir-825-ee-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2045418/2046102/thumbnails/gigabit-dir-825-e
 9/22/2020 11:17:46 AM 191,93 RON
 9/26/2020 2:17:36 PM 192,44 RON
 9/27/2020 6:19:19 PM 192,55 RON
+10/5/2020 12:32:52 PM 172,83 RON

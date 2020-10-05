@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell193-963ee72f6d7dbbd60f66292fe032c216
 1465538
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-latitude-e6120-e6220-e6230-e6320-e6330-e6430s/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/472773/1465538/thumbnails/baterie-laptop-del
 9/20/2020 11:12:49 PM 233,98 RON
 9/25/2020 4:00:27 PM 239,98 RON
 9/26/2020 6:00:15 PM 239,98 RON
+10/3/2020 6:29:37 PM 237,98 RON
+10/5/2020 11:21:46 AM 237,98 RON

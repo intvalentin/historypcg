@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0002
 1047237
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/vga-male-vga-male-3m-ecranat-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/1047237/thumbnails/vga-male-vga-male-
 9/21/2020 10:41:37 AM 45,98 RON
 9/26/2020 9:05:16 AM 43,98 RON
 9/27/2020 12:11:57 PM 43,98 RON
+10/4/2020 7:28:35 PM 35,98 RON

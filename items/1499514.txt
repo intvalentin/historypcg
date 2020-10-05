@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-7c881ca7946f12b3be7f1f3f7694c677
 1499514
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-z575/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1489074/1499514/thumbnails/baterie-laptop-le
 9/20/2020 11:19:59 PM 239,98 RON
 9/25/2020 5:42:48 PM 245,98 RON
 9/26/2020 7:23:47 PM 245,98 RON
+10/5/2020 11:25:28 AM 243,98 RON

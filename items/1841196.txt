@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6028u-e1cnrt+_2640_32_12tb
 1841196
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-6028u-e1cnrt-plus-procesor-intel-xeon-e5-2640-v4-24ghz-broadwell-32gb-rdimm-ddr4-4x-3tb-hdd-lff-35-inch/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6599/1841196/thumbnails/superserver-6028u-e1
 9/21/2020 12:04:14 AM 28.366,15 RON
 9/25/2020 2:22:38 PM 28.996,86 RON
 9/26/2020 4:43:35 PM 28.990,63 RON
+10/3/2020 8:24:49 AM 28.767,01 RON
+10/5/2020 10:28:53 AM 28.767,01 RON

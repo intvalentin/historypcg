@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus141-335f2a6d8f6205705645655a3d152ebb
 1464042
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x52de-x52dr-x52f-x52j-x52jb-x52jc/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1109408/1464042/thumbnails/baterie-laptop-as
 9/20/2020 11:11:46 PM 219,98 RON
 9/25/2020 4:04:12 PM 223,98 RON
 9/26/2020 6:04:03 PM 223,98 RON
+10/3/2020 4:56:33 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

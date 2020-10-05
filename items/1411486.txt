@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hc1-wh
 1411486
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/orico/hc1-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301183/1411486/thumbnails/hc1-white-dc87b1e
 9/21/2020 10:18:05 AM 101,98 RON
 9/26/2020 8:49:42 AM 103,98 RON
 9/27/2020 11:43:32 AM 103,98 RON
+10/4/2020 4:50:50 PM 103,98 RON

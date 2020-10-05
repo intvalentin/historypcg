@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1153c005aa
 1970506
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/set-role-rh2-28/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8486/1970506/thumbnails/set-role-rh2-28-272a
 9/22/2020 10:53:20 AM 517,98 RON
 9/26/2020 2:08:47 PM 519,98 RON
 9/27/2020 6:10:28 PM 519,98 RON
+10/5/2020 11:05:18 AM 519,98 RON

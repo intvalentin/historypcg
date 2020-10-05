@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcdvrr330
 1404103
     Product link    
 https://www.pcgarage.ro/camere-auto/prestigio/roadrunner-330/
@@ -8,3 +8,4 @@ Prestigio RoadRunner 330
 https://2.grgs.ro/images/products/1/1355324/1404103/thumbnails/roadrunner-330-5aae96f435840dbf82664948ceeba14b.jpg
     Pret    
 9/22/2020 5:27:04 PM 193,98 RON
+10/5/2020 4:06:47 PM 195,98 RON

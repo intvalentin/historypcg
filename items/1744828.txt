@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-5018r-mr_1650v4_8gb_2x300
 1744828
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-5018r-mr-rack-1u-procesor-intel-xeon-e5-1650-v4-35ghz-broadwell-2x-8gb-rdimm-ddr4-2x-300gb-sas-lff-35-inch/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1427586/1744828/thumbnails/superserver-5018r
 9/21/2020 12:04:06 AM 11.193,07 RON
 9/25/2020 2:22:38 PM 11.441,95 RON
 9/26/2020 4:43:36 PM 11.439,49 RON
+10/2/2020 10:54:50 PM 11.351,25 RON
+10/5/2020 10:27:25 AM 11.351,25 RON

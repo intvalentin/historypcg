@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpd-ut-01
 1790096
     Product link    
 https://www.pcgarage.ro/tastaturi/gembird/numeric-black-kpd-ut-01/
@@ -11,3 +11,5 @@ https://4.grgs.ro/images/products/1/6440/1790096/thumbnails/numeric-black-kpd-ut
 9/21/2020 9:55:49 AM 29,98 RON
 9/26/2020 8:34:00 AM 29,98 RON
 9/27/2020 11:27:48 AM 29,98 RON
+10/3/2020 9:14:03 PM 29,98 RON
+10/5/2020 2:58:16 PM 29,98 RON

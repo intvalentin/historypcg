@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |32ud99-w
 1660400
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-32ud99-w-315-inch-4k-5ms-white-freesync/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/5286/1660400/thumbnails/gaming-32ud89-w-32-i
 9/21/2020 8:17:41 AM 3.821,98 RON
 9/25/2020 10:03:25 PM 3.757,98 RON
 9/27/2020 10:04:19 AM 3.757,98 RON
+10/2/2020 9:05:13 PM 3.811,98 RON
+10/4/2020 4:35:45 PM 4.059,98 RON
+10/5/2020 1:08:24 PM 4.059,98 RON

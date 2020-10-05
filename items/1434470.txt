@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g3q34a
 1434470
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-pro-m102a-laser-monocrom-format-a4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427582/1434470/thumbnails/laserjet-pro-m102
 9/21/2020 3:02:12 PM 405,98 RON
 9/26/2020 10:25:23 AM 407,98 RON
 9/27/2020 1:42:53 PM 407,98 RON
+10/5/2020 3:32:52 PM 455,98 RON

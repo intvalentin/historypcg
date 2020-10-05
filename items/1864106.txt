@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ch43402
 1864106
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/m2170-inkjet-monocrom-format-a4-reta-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1864106/thumbnails/m2170-inkjet-monocro
 9/21/2020 2:04:07 PM 1.223,98 RON
 9/26/2020 10:02:38 AM 1.227,98 RON
 9/27/2020 1:20:47 PM 1.227,98 RON
+10/5/2020 12:48:38 PM 1.097,98 RON

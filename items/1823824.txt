@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |[210-affq][329-bdle]
 1823824
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t330-procesor-intel-xeon-e3-1230-v6-35ghz-kaby-lake-2x-16gb-udimm-ddr4-2x-600gb-sas-15k-perc-h330-lff-35-inch-windows-server-2016/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1821372/1823824/thumbnails/poweredge-t330-pr
 9/21/2020 12:04:10 AM 17.643,79 RON
 9/25/2020 2:22:38 PM 17.694,64 RON
 9/26/2020 4:43:35 PM 17.704,81 RON
+10/3/2020 8:19:57 AM 17.693,18 RON
+10/5/2020 10:28:09 AM 17.693,18 RON

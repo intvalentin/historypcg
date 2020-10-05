@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kt023b
 1450794
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/kt023b-35-inch-1x-sata-male-1x-m2-sata-ssd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1415042/1450794/thumbnails/kt023b-35-inch-1x
 9/21/2020 12:27:24 PM 99,98 RON
 9/26/2020 9:32:26 AM 101,98 RON
 9/27/2020 12:39:12 PM 101,98 RON
+10/4/2020 11:51:28 PM 101,98 RON

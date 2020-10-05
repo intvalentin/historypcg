@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nbg6817-eu0101f
 1400759
     Product link    
 https://www.pcgarage.ro/routere-wireless/zyxel/gigabit-armor-z2-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1192525/1400759/thumbnails/gigabit-armor-z2-
 9/22/2020 11:15:37 AM 1.207,42 RON
 9/26/2020 2:21:19 PM 1.210,57 RON
 9/27/2020 6:23:00 PM 1.211,27 RON
+10/5/2020 1:12:32 PM 1.103,61 RON

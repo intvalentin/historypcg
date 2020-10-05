@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tvs-871-i7-16g
 1084879
     Product link    
 https://www.pcgarage.ro/nas/qnap/tvs-871-i7-16-gb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1084879/thumbnails/tvs-871-i7-16-gb-9
 9/22/2020 11:29:33 AM 11.645,15 RON
 9/26/2020 2:33:10 PM 11.685,18 RON
 9/27/2020 6:34:47 PM 11.685,18 RON
+10/5/2020 3:24:26 PM 11.677,51 RON

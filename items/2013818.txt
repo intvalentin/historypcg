@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.js711.001
 2013818
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/x1127i/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9943/2013818/thumbnails/x1127i-7e37f824b10f6
 9/22/2020 5:38:41 PM 1.675,98 RON
 9/26/2020 6:47:57 PM 1.679,98 RON
 9/28/2020 8:30:05 AM 1.679,98 RON
+10/5/2020 5:33:15 PM 1.679,98 RON

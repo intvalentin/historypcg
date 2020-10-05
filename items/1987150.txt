@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43bdl3010q+-+00
 1987150
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/43bdl3010q-00-425-inch-65-ms-negru-60-hz/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1979534/1987150/thumbnails/43bdl3010q-00-425
 9/21/2020 8:17:37 AM 3.273,98 RON
 9/25/2020 9:56:45 PM 3.285,98 RON
 9/27/2020 9:57:05 AM 3.285,98 RON
+10/2/2020 9:00:34 PM 3.283,98 RON
+10/4/2020 4:35:01 PM 3.283,98 RON
+10/5/2020 1:07:39 PM 3.283,98 RON

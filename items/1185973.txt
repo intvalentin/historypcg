@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st4000nm0025
 1185973
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-35-hdd-v3-4tb-7200rpm-128mb-12gb-s-nl-sas/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/480523/1185973/thumbnails/exos-capacity-35-h
 9/21/2020 12:05:09 AM 923,85 RON
 9/25/2020 2:35:14 PM 936,41 RON
 9/26/2020 4:56:14 PM 944,40 RON
+10/3/2020 9:53:58 AM 935,71 RON
+10/5/2020 10:37:52 AM 936,91 RON

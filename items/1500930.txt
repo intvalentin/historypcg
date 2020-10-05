@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco150-946db5b28de54e475a20382a381c63fa
 1500930
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-15-ab034nia-touch/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1469686/1500930/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:29 PM 231,98 RON
 9/25/2020 3:54:26 PM 235,98 RON
 9/26/2020 5:54:16 PM 235,98 RON
+10/3/2020 5:36:54 PM 233,98 RON
+10/5/2020 11:18:00 AM 233,98 RON

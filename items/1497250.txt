@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tra00061
 1497250
     Product link    
 https://www.pcgarage.ro/mouse/tracer/flipper-rf/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1420862/1497250/thumbnails/flipper-rf-9d7b4e
 9/21/2020 8:23:17 AM 67,98 RON
 9/26/2020 8:28:46 AM 59,98 RON
 9/27/2020 11:15:03 AM 59,98 RON
+10/3/2020 5:35:31 PM 59,98 RON
+10/5/2020 2:42:28 PM 59,98 RON

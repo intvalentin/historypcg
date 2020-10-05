@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65310828ad01a00
 2046850
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/standard-2020-1-user-licenta-perpetua-international-english/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046850/thumbnails/standard-2020-1-u
 9/21/2020 1:51:50 PM 2.020,73 RON
 9/26/2020 9:58:59 AM 2.027,72 RON
 9/27/2020 1:08:01 PM 2.027,72 RON
+10/5/2020 12:07:43 PM 2.026,39 RON

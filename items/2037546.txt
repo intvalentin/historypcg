@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-16428
 2037546
     Product link    
 https://www.pcgarage.ro/camere-web/trust/spotlight-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/2034042/2037546/thumbnails/trust-spotlight-p
 9/21/2020 10:08:32 AM 104,99 RON
 9/26/2020 8:42:58 AM 148,89 RON
 9/27/2020 11:36:48 AM 148,89 RON
+10/3/2020 10:28:13 PM 148,89 RON
+10/5/2020 3:05:33 PM 148,89 RON

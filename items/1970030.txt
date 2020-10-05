@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aa335287
 1970030
     Product link    
 https://www.pcgarage.ro/memorii-server/dell/ecc-udimm-ddr4-8gb-2666mhz-12v-single-ranked-x8/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/8977/1970030/thumbnails/ecc-udimm-ddr4-8gb-2
 9/21/2020 12:04:27 AM 676,15 RON
 9/25/2020 2:26:19 PM 676,80 RON
 9/26/2020 4:47:20 PM 677,92 RON
+10/3/2020 8:43:48 AM 677,90 RON
+10/5/2020 10:31:09 AM 677,86 RON

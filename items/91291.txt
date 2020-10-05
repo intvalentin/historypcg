@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2661b002aa
 91291
     Product link    
 https://www.pcgarage.ro/consumabile/canon/toner-cyan-718/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/91291/thumbnails/toner-cyan-718-54093f45e1
 9/21/2020 3:55:22 PM 517,98 RON
 9/26/2020 10:32:48 AM 519,98 RON
 9/27/2020 1:50:46 PM 519,98 RON
+10/5/2020 6:03:22 PM 519,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hue-g1a
 2063670
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/axagon/hub-usb32-x4-slim/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2063670/thumbnails/hue-g1a-usb-30-black
 9/21/2020 10:13:46 AM 67,98 RON
 9/26/2020 8:44:31 AM 67,98 RON
 9/27/2020 11:38:18 AM 67,98 RON
+10/3/2020 10:49:46 PM 67,98 RON

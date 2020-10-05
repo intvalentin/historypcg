@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-hb-01
 1523790
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/suction-cup/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1520902/1523790/thumbnails/suction-cup-77884
 9/22/2020 5:33:45 PM 27,87 RON
 9/26/2020 6:42:44 PM 28,31 RON
 9/28/2020 8:24:53 AM 28,31 RON
+10/5/2020 5:02:21 PM 28,09 RON

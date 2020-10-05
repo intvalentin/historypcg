@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell169-28020e1901aa1c720f27468b1dea6acf
 1465442
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-r988h-f286h-f287f-f287h-312-0818-451-10673/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1415042/1465442/thumbnails/baterie-laptop-de
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 4:00:27 PM 245,98 RON
 9/26/2020 6:00:15 PM 245,98 RON
+10/3/2020 8:32:06 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cwc3n
 2058230
     Product link    
 https://www.pcgarage.ro/camere-web/canyon/cne-cwc3n-720p-usb-20/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/7193/2058230/thumbnails/cne-cwc3n-720p-usb-2
 9/21/2020 10:08:32 AM 169,99 RON
 9/26/2020 8:42:58 AM 169,99 RON
 9/27/2020 11:36:48 AM 169,99 RON
+10/3/2020 10:30:07 PM 169,99 RON
+10/5/2020 3:05:49 PM 169,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a103-gd
 1500282
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/redragon/mechanical-gaiming-keycaps-gold/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1301253/1500282/thumbnails/mechanical-gaimin
 9/21/2020 8:10:07 AM 31,99 RON
 9/25/2020 2:42:37 PM 31,99 RON
 9/26/2020 5:03:34 PM 31,99 RON
+10/3/2020 10:59:31 AM 31,99 RON
+10/5/2020 10:45:57 AM 31,99 RON

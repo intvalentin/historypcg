@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr4000
 15849
     Product link    
 https://www.pcgarage.ro/consumabile/brother/dr-4000-drum-unit-hl6050-6050d-6050dn/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/15849/thumbnails/117670.jpg
 9/21/2020 3:57:27 PM 615,98 RON
 9/26/2020 10:36:30 AM 617,98 RON
 9/27/2020 1:54:43 PM 617,98 RON
+10/5/2020 6:08:05 PM 617,98 RON

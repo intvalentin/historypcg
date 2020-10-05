@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv27f
 1928186
     Product link    
 https://www.pcgarage.ro/monitoare-led/gigabyte/aorus-gaming-cv27f-curbat-27-inch-1-ms-black-165hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/6622/1928186/thumbnails/aorus-gaming-cv27f-c
 9/21/2020 8:16:12 AM 1.999,99 RON
 9/25/2020 9:58:58 PM 1.969,98 RON
 9/27/2020 9:59:30 AM 1.967,98 RON
+10/2/2020 8:37:23 PM 1.951,98 RON
+10/4/2020 4:32:47 PM 1.953,98 RON
+10/5/2020 1:01:11 PM 1.953,98 RON

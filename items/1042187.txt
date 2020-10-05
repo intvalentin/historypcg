@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9984b009aa
 1042187
     Product link    
 https://www.pcgarage.ro/imprimante/canon/pixma-pro-100s-inkjet-color-format-a3-plus-retea-wi-fi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1042187/thumbnails/pixma-pro-100s-ink
 9/21/2020 3:14:46 PM 2.457,98 RON
 9/26/2020 10:26:07 AM 2.465,98 RON
 9/27/2020 1:43:40 PM 2.461,98 RON
+10/5/2020 4:56:54 PM 2.465,98 RON

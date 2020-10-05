@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blknuc7i5dnkpc2
 1757048
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i3dnktc2-core-i5-7300u-26ghz-8gb-ddr4-256gb-ssd-hdmi-win-10-pro-bulk/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3442/1757048/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:42 AM 3.484,98 RON
 9/25/2020 2:18:13 PM 3.559,98 RON
 9/26/2020 4:39:06 PM 3.559,98 RON
+10/2/2020 10:22:32 PM 3.534,98 RON
+10/5/2020 10:23:46 AM 3.534,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xgs2210-52-eu0101f
 1770568
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-xgs2210-52/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1770568/thumbnails/gigabit-xgs2210-5
 9/22/2020 11:46:45 AM 5.470,53 RON
 9/26/2020 2:39:07 PM 5.491,23 RON
 9/27/2020 6:40:47 PM 5.491,23 RON
+10/5/2020 5:26:02 PM 5.481,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-wc-01
 1523750
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/sj5000-waterproof-case/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1489074/1523750/thumbnails/sj5000-waterproof
 9/22/2020 5:32:01 PM 110,26 RON
 9/26/2020 6:40:31 PM 112,00 RON
 9/28/2020 8:22:37 AM 112,00 RON
+10/5/2020 4:45:36 PM 111,14 RON

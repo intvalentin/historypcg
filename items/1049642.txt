@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chb1103
 1049642
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v14-3m-ethernet-negru-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1049642/thumbnails/hdmi-male-hdmi-mal
 9/21/2020 11:14:22 AM 47,98 RON
 9/26/2020 9:09:43 AM 47,98 RON
 9/27/2020 12:16:50 PM 47,98 RON
+10/4/2020 8:28:23 PM 47,98 RON

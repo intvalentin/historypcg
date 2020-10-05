@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs808e-100pes
 1470610
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-nighthawk-s8000/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1461878/1470610/thumbnails/gigabit-nighthawk
 9/22/2020 11:49:59 AM 374,36 RON
 9/26/2020 2:48:02 PM 375,90 RON
 9/27/2020 6:49:43 PM 375,90 RON
+10/5/2020 5:48:50 PM 375,06 RON

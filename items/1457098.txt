@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lac9000446
 1457098
     Product link    
 https://www.pcgarage.ro/memorii-externe/lacie/culbuto-32gb-usb-30/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1152773/1457098/thumbnails/culbuto-16gb-usb-
 9/21/2020 8:20:48 AM 271,98 RON
 9/25/2020 10:35:55 PM 277,98 RON
 9/27/2020 10:39:37 AM 277,98 RON
+10/3/2020 11:58:52 AM 275,98 RON
+10/5/2020 2:18:13 PM 275,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco147-d5b225310a776dfb12aa45c09f6231dd
 1535907
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-346-g3/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/978807/1535907/thumbnails/baterie-laptop-hp-
 9/20/2020 11:12:53 PM 235,98 RON
 9/25/2020 3:49:55 PM 241,98 RON
 9/26/2020 5:49:47 PM 241,98 RON
+10/3/2020 8:30:00 PM 239,98 RON
+10/5/2020 11:21:46 AM 239,98 RON

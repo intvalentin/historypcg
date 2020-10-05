@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1100-24e-eu0101f
 792125
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs1100-24e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/792125/thumbnails/gs1100-24e-5d138dfb
 9/22/2020 11:50:00 AM 480,82 RON
 9/26/2020 2:49:32 PM 482,47 RON
 9/27/2020 6:51:13 PM 482,47 RON
+10/5/2020 5:50:28 PM 481,92 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9017b003aa
 1022556
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-f120-scanner-format-a4-adf-duplex-usb-20/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/851375/1022556/thumbnails/dr-f120-scanner-fo
 9/22/2020 10:42:40 AM 1.719,98 RON
 9/26/2020 2:02:55 PM 1.725,98 RON
 9/27/2020 5:10:11 PM 1.725,98 RON
+10/5/2020 10:12:23 AM 1.723,98 RON

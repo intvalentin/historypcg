@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5458e1g
 1157703
     Product link    
 https://www.pcgarage.ro/servere/lenovo/x3250-m5-procesor-intel-xeon-e3-1220-v3-31ghz-haswell-1x-4gb-udimm-ddr3-1600mhz-fara-hdd-lff-35-inch-c100/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/800612/1157703/thumbnails/x3250-m5-procesor-
 9/21/2020 12:04:01 AM 4.098,56 RON
 9/25/2020 2:23:23 PM 4.110,37 RON
 9/26/2020 4:44:20 PM 4.112,73 RON
+10/2/2020 10:42:56 PM 4.110,03 RON
+10/5/2020 10:25:57 AM 4.110,03 RON

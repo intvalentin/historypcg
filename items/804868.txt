@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |des-1008pa
 804868
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/des-1008pa-poe/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/800612/804868/thumbnails/des-1008pa-poe-0369
 9/22/2020 11:40:16 AM 252,82 RON
 9/26/2020 2:42:05 PM 253,69 RON
 9/27/2020 6:43:47 PM 253,69 RON
+10/5/2020 4:36:08 PM 253,53 RON

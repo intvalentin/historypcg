@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco147-f7c99e4e37aee77f9a5a673ce3598e00
 1465350
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-14-dxxxxx-14-gxxxxx-14-rxxxxx-14t-r000-14t-r100/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1355324/1465350/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:49 PM 235,98 RON
 9/25/2020 4:01:12 PM 241,98 RON
 9/26/2020 6:01:02 PM 241,98 RON
+10/3/2020 8:28:39 PM 239,98 RON
+10/5/2020 11:21:46 AM 239,98 RON

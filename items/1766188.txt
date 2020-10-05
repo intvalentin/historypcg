@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jl0097ri
 1766188
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/legion-t530-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-1tb-hdd-geforce-gtx-1060-6gb-freedos-1/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1703884/1766188/thumbnails/legion-t530-tower
 9/21/2020 12:02:33 AM 4.469,98 RON
 9/25/2020 2:01:13 PM 4.479,98 RON
 9/26/2020 4:29:31 PM 4.479,98 RON
+10/2/2020 8:27:24 PM 4.479,98 RON
+10/5/2020 10:10:36 AM 4.479,98 RON

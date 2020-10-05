@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gd-mslk01
 1420974
     Product link    
 https://www.pcgarage.ro/rack-uri/inter-tech/argus-gd-mslk01/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1263508/1420974/thumbnails/argus-gd-mslk01-8
 9/21/2020 10:25:28 AM 97,98 RON
 9/26/2020 8:54:09 AM 99,98 RON
 9/27/2020 11:48:03 AM 99,98 RON
+10/4/2020 5:17:39 PM 97,98 RON

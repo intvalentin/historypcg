@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |016197500
 16253
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-cartridge-galben-pentru-phaser-7300/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/16253/thumbnails/toner-cartridge-galben-pe
 9/22/2020 10:09:25 AM 1.271,98 RON
 9/26/2020 1:34:55 PM 1.275,98 RON
 9/27/2020 4:42:51 PM 1.275,98 RON
+10/4/2020 10:45:16 PM 1.275,98 RON

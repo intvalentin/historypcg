@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000nm004a
 2075110
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/st8000nm004a/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/8977/2075110/thumbnails/exos-7e8-hdd-8tb-720
 9/21/2020 12:04:59 AM 1.465,38 RON
 9/25/2020 2:30:01 PM 1.497,96 RON
 9/26/2020 4:51:03 PM 1.497,64 RON
+10/3/2020 9:38:49 AM 1.486,09 RON
+10/5/2020 10:35:37 AM 1.486,09 RON

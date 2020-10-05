@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stjl2000400
 1985130
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/basic-portable-2tb-usb-30/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/370411/1985130/thumbnails/basic-portable-2tb
 9/21/2020 8:18:05 AM 309,98 RON
 9/25/2020 10:15:13 PM 319,98 RON
 9/27/2020 10:17:08 AM 319,98 RON
+10/2/2020 10:09:07 PM 309,98 RON
+10/5/2020 1:14:15 PM 309,98 RON

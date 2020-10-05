@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90nc00ekri
 2066406
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t5-procesor-intel-core-i7-10700-29ghz-comet-lake-16gb-ram-512gb-ssd-plus-1tb-hdd-geforce-gtx-2070-super-8gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4917/2066406/thumbnails/pc-t5-28imb05-ci5-10
 9/21/2020 12:02:15 AM 8.479,98 RON
 9/25/2020 1:54:35 PM 8.489,98 RON
 9/26/2020 4:22:53 PM 8.499,98 RON
+10/2/2020 8:01:07 PM 8.499,98 RON
+10/5/2020 10:07:39 AM 8.499,98 RON

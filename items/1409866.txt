@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pd2700q
 1409866
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/pd2700q-27-inch-2k-4-ms-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1146523/1409866/thumbnails/pd2700q-27-inch-2
 9/21/2020 8:15:58 AM 1.725,98 RON
 9/25/2020 9:52:19 PM 1.729,98 RON
 9/27/2020 9:48:54 AM 1.731,98 RON
+10/3/2020 10:34:40 PM 1.747,98 RON
+10/5/2020 12:44:06 PM 1.747,98 RON

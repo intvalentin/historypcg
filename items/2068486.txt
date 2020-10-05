@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h914140
 2068486
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/ef-100b-black-android-tv/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8629/2068486/thumbnails/ef-100b-black-4d2706
 9/22/2020 5:37:36 PM 4.365,98 RON
 9/26/2020 6:44:59 PM 4.381,98 RON
 9/28/2020 8:27:06 AM 4.381,98 RON
+10/5/2020 5:46:54 PM 4.377,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22973
 1806768
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/trust/gxt-260-cendor/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1802236/1806768/thumbnails/gxt-260-cendor-28
 9/21/2020 8:09:53 AM 56,99 RON
 9/25/2020 2:39:38 PM 56,99 RON
 9/26/2020 5:00:37 PM 56,99 RON
+10/3/2020 10:50:00 AM 59,99 RON
+10/5/2020 10:45:12 AM 59,99 RON

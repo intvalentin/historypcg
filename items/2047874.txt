@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |di5490i7162561wp
 2047874
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/dell/inspiron-5490-238-inch-fhd-procesor-intel-core-i7-10510u-18ghz-comet-lake-16gb-ram-256gb-ssd-plus-1tb-hdd-uhd-graphics-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1960570/2047874/thumbnails/238-quot-inspiron
 9/21/2020 12:03:20 AM 6.479,98 RON
 9/25/2020 2:12:19 PM 6.489,98 RON
 9/26/2020 4:33:13 PM 6.499,98 RON
+10/2/2020 9:35:49 PM 6.499,98 RON
+10/5/2020 10:20:05 AM 6.499,98 RON

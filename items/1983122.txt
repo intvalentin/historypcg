@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8vr57ea
 1983122
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/290-g3-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-8gb-ddr4-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1979534/1983122/thumbnails/290-g3-mt-proceso
 9/21/2020 12:02:03 AM 2.949,98 RON
 9/25/2020 1:56:02 PM 2.949,98 RON
 9/26/2020 4:27:19 PM 2.959,98 RON
+10/2/2020 8:15:21 PM 3.089,98 RON
+10/5/2020 10:06:11 AM 2.999,98 RON

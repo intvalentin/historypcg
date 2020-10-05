@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4582b001aa
 1037867
     Product link    
 https://www.pcgarage.ro/calculatoare-de-birou/canon/as-120/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/1037867/thumbnails/as-120-bc752f0c8fd
 9/22/2020 10:46:59 AM 25,98 RON
 9/26/2020 2:05:09 PM 23,98 RON
 9/27/2020 5:12:26 PM 23,98 RON
+10/5/2020 10:36:49 AM 23,98 RON

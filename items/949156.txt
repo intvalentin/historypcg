@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n60_tenda
 949156
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/n60-2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/949156/thumbnails/n60-975cc8d39d444f8
 9/22/2020 11:18:51 AM 227,62 RON
 9/26/2020 2:25:03 PM 231,21 RON
 9/27/2020 6:26:43 PM 231,21 RON
+10/5/2020 2:16:01 PM 229,43 RON

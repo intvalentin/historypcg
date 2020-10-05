@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9725b003aa
 966183
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-m160ii/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/966183/thumbnails/dr-m160ii-ac6ce9c519b6fe
 9/22/2020 10:40:31 AM 3.713,98 RON
 9/26/2020 2:02:55 PM 3.723,98 RON
 9/27/2020 5:10:11 PM 3.725,98 RON
+10/5/2020 10:20:27 AM 3.723,98 RON

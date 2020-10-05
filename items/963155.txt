@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9143b003aa
 963155
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp6230dw-laser-monocrom-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/812812/963155/thumbnails/i-sensys-lbp6230dw-
 9/21/2020 3:06:22 PM 803,98 RON
 9/26/2020 10:26:52 AM 783,98 RON
 9/27/2020 1:44:28 PM 783,98 RON
+10/5/2020 4:33:00 PM 783,98 RON

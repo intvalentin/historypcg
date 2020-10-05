@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |basc30
 1663444
     Product link    
 https://www.pcgarage.ro/cabluri-audio/logilink/jack-35-mm-male-jack-35-mm-male-3m-negru-2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1573/1663444/thumbnails/jack-35-mm-male-jack
 9/21/2020 11:40:47 AM 41,98 RON
 9/26/2020 9:18:25 AM 41,98 RON
 9/27/2020 12:24:01 PM 41,98 RON
+10/4/2020 9:44:04 PM 47,98 RON

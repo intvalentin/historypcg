@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0el00bpri
 2056406
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-a540-fhd-touch-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-512gb-ssd-plus-1tb-hdd-gma-uhd-630-freedos-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/7193/2056406/thumbnails/238-ideacentre-a540-
 9/21/2020 12:03:01 AM 5.689,98 RON
 9/25/2020 2:04:10 PM 5.689,98 RON
 9/26/2020 4:32:28 PM 5.689,98 RON
+10/2/2020 9:32:20 PM 5.759,98 RON
+10/5/2020 10:20:05 AM 6.159,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer c7
 728864
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/ac-1750/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/728864/thumbnails/ac-1750-b429ab363dd
 9/22/2020 11:07:02 AM 278,99 RON
 9/26/2020 2:16:52 PM 278,99 RON
 9/27/2020 6:18:35 PM 278,99 RON
+10/5/2020 12:02:26 PM 278,99 RON

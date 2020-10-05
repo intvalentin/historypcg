@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |272b7qupbeb+-+00
 1774012
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/272b7qupbeb-27-inch-2k-5-ms-black-usb-c/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/5015/1774012/thumbnails/272b7qupbeb-27-inch-
 9/21/2020 8:17:19 AM 1.705,98 RON
 9/25/2020 10:00:28 PM 1.709,98 RON
 9/27/2020 10:01:05 AM 1.711,98 RON
+10/2/2020 8:29:33 PM 1.717,98 RON
+10/4/2020 4:31:19 PM 1.715,98 RON
+10/5/2020 1:00:26 PM 1.715,98 RON

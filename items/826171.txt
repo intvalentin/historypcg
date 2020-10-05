@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs2210-48hp-eu0101
 826171
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs2210-48hp/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/634551/826171/thumbnails/gs2210-48hp-aee2cc9
 9/22/2020 11:46:45 AM 5.782,50 RON
 9/26/2020 2:42:05 PM 5.804,58 RON
 9/27/2020 6:43:47 PM 5.804,58 RON
+10/5/2020 5:33:13 PM 5.608,57 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a9781929-05
 1937890
     Product link    
 https://www.pcgarage.ro/memorii-server/dell/ecc-rdimm-ddr4-32gb-2666mhz-dual-rank-x4/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/2554/1937890/thumbnails/ecc-rdimm-ddr4-32gb-
 9/21/2020 12:04:32 AM 2.743,24 RON
 9/25/2020 2:26:19 PM 2.784,78 RON
 9/26/2020 4:47:20 PM 2.765,15 RON
+10/3/2020 9:09:00 AM 2.769,28 RON
+10/5/2020 10:34:08 AM 3.215,50 RON

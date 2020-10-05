@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3113c009aa
 1906302
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-g6040-black-inkjet-color-format-a4-retea-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1906302/thumbnails/pixma-g6040-black
 9/21/2020 2:06:11 PM 1.535,98 RON
 9/26/2020 10:02:38 AM 1.541,98 RON
 9/27/2020 1:20:47 PM 1.537,98 RON
+10/5/2020 12:56:31 PM 1.539,98 RON

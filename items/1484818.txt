@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-48-lite-eu
 1484818
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-edgeswitch-48-port-lite/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1443558/1484818/thumbnails/gigabit-edgeswitc
 9/22/2020 11:44:35 AM 1.928,68 RON
 9/26/2020 2:40:36 PM 1.967,33 RON
 9/27/2020 6:42:17 PM 1.967,33 RON
+10/5/2020 5:15:21 PM 1.952,15 RON

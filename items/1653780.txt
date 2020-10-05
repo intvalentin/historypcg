@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx806733106
 1653780
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-bronze-3106-17ghz-box/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1649828/1653780/thumbnails/xeon-bronze-3106-
 9/21/2020 12:04:22 AM 1.908,17 RON
 9/25/2020 2:25:33 PM 1.950,59 RON
 9/26/2020 4:46:35 PM 1.950,17 RON
+10/3/2020 8:37:04 AM 1.935,13 RON
+10/5/2020 10:30:23 AM 1.935,13 RON

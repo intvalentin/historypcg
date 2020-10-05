@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27ud68-w
 1176223
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/27ud68-w-27-inch-5ms-white/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/735074/1176223/thumbnails/27ud68-w-27-inch-5
 9/21/2020 8:17:19 AM 1.851,98 RON
 9/25/2020 10:08:40 PM 1.865,98 RON
 9/27/2020 10:09:52 AM 1.865,98 RON
+10/2/2020 8:33:36 PM 1.867,98 RON
+10/4/2020 4:32:03 PM 1.867,98 RON
+10/5/2020 1:01:11 PM 1.867,98 RON

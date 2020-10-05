@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i2460pxqu
 823598
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/i2460pxqu-24-inch-5ms-gtg-black/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/714621/823598/thumbnails/i2460pxqu-24-inch-5
 9/21/2020 8:17:02 AM 1.017,98 RON
 9/25/2020 10:10:09 PM 1.025,98 RON
 9/27/2020 10:11:29 AM 1.025,98 RON
+10/2/2020 7:59:56 PM 1.027,98 RON
+10/3/2020 11:12:07 PM 1.027,98 RON
+10/5/2020 12:57:27 PM 1.027,98 RON

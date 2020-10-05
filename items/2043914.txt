@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23581
 2043914
     Product link    
 https://www.pcgarage.ro/standuri-coolere-notebook/trust/gxt-1125-quno-max-173-inch/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1034/2043914/thumbnails/gxt-1125-quno-max-17
 9/20/2020 11:11:16 PM 147,58 RON
 9/25/2020 3:03:17 PM 147,58 RON
 9/26/2020 5:31:03 PM 147,58 RON
+10/3/2020 4:22:05 PM 141,00 RON
+10/5/2020 11:09:00 AM 141,00 RON

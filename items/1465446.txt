@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell169-93e67efdf3c82c269b640445099dee76
 1465446
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-vostro-1014-1015-1088-a840-a860-pp37l-pp38l/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1152773/1465446/thumbnails/baterie-laptop-de
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 4:00:27 PM 245,98 RON
 9/26/2020 6:00:15 PM 245,98 RON
+10/3/2020 8:32:22 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

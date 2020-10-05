@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2925c016aa
 1789388
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf264dw-laser-monocrom-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6440/1789388/thumbnails/i-sensys-mf264dw-las
 9/21/2020 2:06:11 PM 1.333,98 RON
 9/26/2020 10:02:38 AM 1.337,98 RON
 9/27/2020 1:20:47 PM 1.337,98 RON
+10/5/2020 12:54:04 PM 1.337,98 RON

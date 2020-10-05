@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lac9000298
 1723364
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-mini-25-inch-2tb-usb-30-orange/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/8674/1723364/thumbnails/rugged-mini-25-inch-
 9/21/2020 8:18:42 AM 529,98 RON
 9/25/2020 10:24:09 PM 539,98 RON
 9/27/2020 10:26:48 AM 539,98 RON
+10/3/2020 8:38:03 AM 539,98 RON
+10/5/2020 1:22:24 PM 539,98 RON

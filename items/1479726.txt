@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |he-g3000
 1479726
     Product link    
 https://www.pcgarage.ro/rack-uri/ssk/he-g3000-usb-30-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1408706/1479726/thumbnails/he-g3000-usb-30-b
 9/21/2020 10:29:47 AM 95,98 RON
 9/26/2020 8:57:06 AM 97,98 RON
 9/27/2020 11:51:01 AM 97,98 RON
+10/4/2020 6:50:58 PM 95,98 RON

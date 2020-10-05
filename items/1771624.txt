@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hv6ee.c05
 1771624
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/v276hlcbid-27-inch-5-ms-black/
@@ -10,3 +10,7 @@ https://4.grgs.ro/images/products/1/5015/1771624/thumbnails/v276hlcbid-27-inch-5
 9/21/2020 8:16:58 AM 863,98 RON
 9/25/2020 10:00:28 PM 865,98 RON
 9/27/2020 10:01:05 AM 865,98 RON
+10/2/2020 7:35:59 PM 865,98 RON
+10/2/2020 7:52:09 PM 865,98 RON
+10/3/2020 11:10:39 PM 865,98 RON
+10/5/2020 12:55:57 PM 865,98 RON

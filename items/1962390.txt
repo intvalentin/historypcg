@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-3e0310hp-e
 1962390
     Product link    
 https://www.pcgarage.ro/switch-uri/hikvision/ds-3e0310hp-e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1960570/1962390/thumbnails/ds-3e0310hp-e-93b
 9/22/2020 11:37:02 AM 423,77 RON
 9/26/2020 2:36:53 PM 424,88 RON
 9/27/2020 6:38:33 PM 425,12 RON
+10/5/2020 4:42:54 PM 424,84 RON

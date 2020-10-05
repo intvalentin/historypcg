@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-001950
 83111
     Product link    
 https://www.pcgarage.ro/mouse/logitech/marathon-m705/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4/83111/thumbnails/marathon-m705-484ba813b90
 9/21/2020 8:24:10 AM 219,98 RON
 9/26/2020 8:33:15 AM 219,98 RON
 9/27/2020 11:27:03 AM 219,98 RON
+10/3/2020 8:51:20 PM 221,98 RON
+10/5/2020 2:56:03 PM 221,98 RON

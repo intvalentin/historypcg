@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g9-500f-1
 262283
     Product link    
 https://www.pcgarage.ro/mouse/a4tech/g9-500f-1-wireless/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4/262283/thumbnails/g9-500f-1-wireless-fb020
 9/21/2020 8:23:17 AM 69,98 RON
 9/26/2020 8:25:01 AM 67,98 RON
 9/27/2020 11:18:02 AM 67,98 RON
+10/3/2020 5:37:43 PM 69,98 RON
+10/5/2020 2:42:29 PM 67,98 RON

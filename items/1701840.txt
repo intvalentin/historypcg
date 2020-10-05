@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blue cave
 1701840
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-blue-cave-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1690716/1701840/thumbnails/gigabit-blue-cave
 9/22/2020 11:11:19 AM 641,72 RON
 9/26/2020 2:20:34 PM 643,57 RON
 9/27/2020 6:22:17 PM 900,73 RON
+10/5/2020 1:11:07 PM 900,73 RON

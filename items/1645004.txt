@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer c2300
 1645004
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/gigabit-ac2300/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/922/1645004/thumbnails/gigabit-ac2300-caaab2
 9/22/2020 11:07:02 AM 368,99 RON
 9/26/2020 2:20:34 PM 432,43 RON
 9/27/2020 6:22:17 PM 432,43 RON
+10/5/2020 12:43:34 PM 428,99 RON

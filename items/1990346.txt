@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac1900u
 1990346
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-rt-ac1900u-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1979534/1990346/thumbnails/gigabit-rt-ac1900
 9/22/2020 11:19:55 AM 856,70 RON
 9/26/2020 2:22:50 PM 859,17 RON
 9/27/2020 6:24:29 PM 859,65 RON
+10/5/2020 2:26:24 PM 859,10 RON

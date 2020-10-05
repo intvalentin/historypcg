@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |275s1ae+-+00
 2089734
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/275s1ae-27-inch-4-ms-negru-75-hz/
@@ -9,3 +9,5 @@ https://3.grgs.ro/images/products/1/7008/2089734/thumbnails/275b1-27-inch-4-ms-n
     Pret    
 9/25/2020 9:42:48 PM 1.101,98 RON
 9/27/2020 9:37:38 AM 1.103,98 RON
+10/3/2020 10:25:22 PM 1.179,98 RON
+10/5/2020 12:41:55 PM 1.179,98 RON

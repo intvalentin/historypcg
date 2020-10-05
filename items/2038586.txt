@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dop3070i38256wp
 2038586
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-8-gb-ddr4-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1261/2038586/thumbnails/optiplex-3070-tower-
 9/21/2020 12:02:20 AM 2.949,98 RON
 9/25/2020 1:58:15 PM 2.949,98 RON
 9/26/2020 4:26:34 PM 2.949,98 RON
+10/2/2020 8:16:55 PM 3.229,98 RON
+10/5/2020 10:09:52 AM 3.229,98 RON

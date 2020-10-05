@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90lu0069ri
 2051690
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510-procesor-intel-core-i5-9400-29ghz-coffee-lake-4gb-ram-512gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/9002/2051690/thumbnails/ideacentre-510-proce
 9/21/2020 12:02:03 AM 2.319,98 RON
 9/25/2020 1:55:19 PM 2.319,98 RON
 9/26/2020 4:23:38 PM 2.319,98 RON
+10/2/2020 7:32:27 PM 2.319,98 RON
+10/5/2020 10:04:53 AM 2.319,98 RON

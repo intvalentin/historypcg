@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdepr13gea51f
 1624726
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/toshiba/nearline-sata-2tb-7200-rpm-35-inch-128mb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5633/1624726/thumbnails/nearline-sata-1tb-72
 9/21/2020 12:05:09 AM 575,19 RON
 9/25/2020 2:34:30 PM 586,51 RON
 9/26/2020 4:55:30 PM 587,22 RON
+10/3/2020 9:48:54 AM 583,15 RON
+10/5/2020 10:37:07 AM 582,59 RON

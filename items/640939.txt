@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf067a
 640939
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-700-mfp-m725f-laser-monocrom-format-a3-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/640939/thumbnails/laserjet-enterprise-700-
 9/21/2020 2:10:21 PM 20.895,98 RON
 9/26/2020 10:04:52 AM 20.967,98 RON
 9/27/2020 1:23:45 PM 20.919,98 RON
+10/5/2020 1:22:05 PM 20.953,98 RON

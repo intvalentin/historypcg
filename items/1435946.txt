@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7017t-05
 1435946
     Product link    
 https://www.pcgarage.ro/monitoare-touchscreen/dell/c7017t-695-inch-6ms-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1109408/1435946/thumbnails/c7017t-695-inch-6
 9/21/2020 8:17:52 AM 13.833,98 RON
 9/25/2020 10:11:39 PM 13.943,98 RON
 9/27/2020 10:13:08 AM 13.943,98 RON
+10/2/2020 9:24:41 PM 13.963,98 RON
+10/5/2020 1:09:53 PM 13.963,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1mr78b
 1928030
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-pro-9020-all-in-one-inkjet-color-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1928030/thumbnails/officejet-pro-9020-a
 9/21/2020 1:55:57 PM 1.215,98 RON
 9/26/2020 10:00:28 AM 1.198,99 RON
 9/27/2020 1:09:36 PM 1.198,99 RON
+10/5/2020 12:36:25 PM 1.198,99 RON

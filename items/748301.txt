@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |epss042545
 748301
     Product link    
 https://www.pcgarage.ro/hartie/epson/photo-glossy-13x18-cm-5x7-inch-50-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/748301/thumbnails/photo-glossy-13x18-
 9/22/2020 10:22:16 AM 79,98 RON
 9/26/2020 1:46:44 PM 79,98 RON
 9/27/2020 4:54:40 PM 79,98 RON
+10/5/2020 7:58:45 AM 79,98 RON

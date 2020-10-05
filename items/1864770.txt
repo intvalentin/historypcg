@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pet3301220161t495w+a9755388+400-atfr+400-ajrr
 1864770
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t330-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-32gb-udimm-ddr4-1tb-hdd-plus-4x-200gb-ssd-plus-2x-300gb-sas-15k-perc-h330-lff-35-inch/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/7399/1864770/thumbnails/poweredge-t330-proce
 9/21/2020 12:04:10 AM 15.001,53 RON
 9/25/2020 2:21:53 PM 15.044,76 RON
 9/26/2020 4:42:51 PM 15.053,41 RON
+10/2/2020 10:57:46 PM 15.043,53 RON
+10/5/2020 10:28:09 AM 15.043,53 RON

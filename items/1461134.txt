@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b405v_dn
 1461134
     Product link    
 https://www.pcgarage.ro/multifunctionale/xerox/versalink-b405-dn-laser-monocrom-format-a4-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088254/1461134/thumbnails/versalink-b405-dn
 9/21/2020 2:43:39 PM 3.945,98 RON
 9/26/2020 10:04:52 AM 3.959,98 RON
 9/27/2020 1:23:00 PM 3.959,98 RON
+10/5/2020 1:13:14 PM 3.955,98 RON

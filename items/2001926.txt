@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3857c005aa
 2001926
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-advance-dx-3725i-laser-color-format-a3-retea-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8078/2001926/thumbnails/imagerunner-advance-
 9/21/2020 2:08:16 PM 9.801,98 RON
 9/26/2020 10:01:11 AM 9.835,98 RON
 9/27/2020 1:10:21 PM 9.813,98 RON
+10/5/2020 1:18:52 PM 9.829,98 RON

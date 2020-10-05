@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpd-7p6g-ba90
 1394819
     Product link    
 https://www.pcgarage.ro/cabluri-componente/orico/sata-iii-female-sata-iii-female-conector-90-grade-09m-albastru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025736/1394819/thumbnails/sata-iii-female-s
 9/21/2020 12:08:28 PM 31,98 RON
 9/26/2020 9:25:46 AM 33,98 RON
 9/27/2020 12:32:00 PM 33,98 RON
+10/4/2020 11:00:55 PM 31,98 RON

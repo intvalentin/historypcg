@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt crs125-24g-1s-in
 876950
     Product link    
 https://www.pcgarage.ro/switch-uri/mikrotik/crs125-24g-1s-in/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/853128/876950/thumbnails/crs125-24g-1s-in-ef
 9/22/2020 11:42:26 AM 839,90 RON
 9/26/2020 2:42:05 PM 851,22 RON
 9/27/2020 6:43:47 PM 851,22 RON
+10/5/2020 4:57:34 PM 844,60 RON

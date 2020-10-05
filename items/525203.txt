@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7981a008aa
 525203
     Product link    
 https://www.pcgarage.ro/hartie/canon/mp-101-photo-paper-matte-a3-40-coli/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/525203/thumbnails/mp-101-photo-paper-matte
 9/22/2020 10:26:35 AM 132,98 RON
 9/26/2020 1:49:42 PM 132,98 RON
 9/27/2020 4:57:38 PM 133,98 RON
+10/5/2020 8:28:43 AM 132,98 RON

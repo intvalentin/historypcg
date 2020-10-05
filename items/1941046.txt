@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pabt002
 1941046
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/acumulator-pabt002/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6835/1941046/thumbnails/acumulator-pabt002-c
 9/22/2020 11:01:44 AM 685,98 RON
 9/26/2020 2:11:00 PM 687,98 RON
 9/27/2020 6:12:41 PM 687,98 RON
+10/5/2020 11:37:28 AM 687,98 RON

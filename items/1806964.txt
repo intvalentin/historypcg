@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0861c001aa
 1806964
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/cap-de-printare-pf-10/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1806964/thumbnails/cap-de-printare-pf-1
 9/22/2020 10:57:25 AM 2.101,98 RON
 9/26/2020 2:13:13 PM 2.109,98 RON
 9/27/2020 6:14:58 PM 2.105,98 RON
+10/5/2020 11:50:26 AM 2.107,98 RON

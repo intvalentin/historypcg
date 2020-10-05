@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dspet430_e5-2620v4_8gb_winsrv2016std
 1503670
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t430-2x-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-4x-8gb-rdimm-ddr4-4x-1tb-hdd-sata-lff-35-inch-perc-h730-1gb-2x-750w-psu-windows-server-2016-standard/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1416562/1503670/thumbnails/poweredge-t430-2x
 9/21/2020 12:04:14 AM 24.468,62 RON
 9/25/2020 2:23:23 PM 24.539,13 RON
 9/26/2020 4:44:20 PM 24.553,23 RON
+10/3/2020 8:24:33 AM 24.537,12 RON
+10/5/2020 10:28:53 AM 24.537,12 RON

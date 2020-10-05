@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chb3110
 1778016
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-dvi-d-male-10m-negru-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1778016/thumbnails/hdmi-male-dvi-d-male-
 9/21/2020 10:43:46 AM 117,98 RON
 9/26/2020 9:02:18 AM 117,98 RON
 9/27/2020 11:56:15 AM 117,98 RON
+10/4/2020 8:04:20 PM 117,98 RON

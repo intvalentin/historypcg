@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r02249
 634791
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r02249-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/634791/thumbnails/toner-106r02249-cyan-8a4
 9/22/2020 9:56:31 AM 489,98 RON
 9/26/2020 1:28:59 PM 491,98 RON
 9/27/2020 4:30:15 PM 491,98 RON
+10/4/2020 9:15:58 PM 489,98 RON

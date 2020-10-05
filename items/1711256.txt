@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dl360_2x3104_2x4tb
 1711256
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl360-gen10-rack-1u-2x-procesor-intel-xeon-bronze-3104-17ghz-skylake-32gb-rdimm-ddr4-2-x-4tb-hdd-lff-35-inch-smart-array-e208i-a-sr-3yr-nbd/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1000151/1711256/thumbnails/proliant-dl360-ge
 9/21/2020 12:04:10 AM 17.305,79 RON
 9/25/2020 2:23:23 PM 17.355,66 RON
 9/26/2020 4:44:20 PM 17.365,64 RON
+10/2/2020 10:59:09 PM 17.354,24 RON
+10/5/2020 10:28:09 AM 17.354,24 RON

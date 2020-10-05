@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-002479
 351841
     Product link    
 https://www.pcgarage.ro/tastaturi/logitech/keyboard-k120-business-black-usb/
@@ -11,3 +11,5 @@ https://3.grgs.ro/images/products/1/4/351841/thumbnails/keyboard-k120-business-b
 9/21/2020 9:55:49 AM 52,68 RON
 9/26/2020 8:34:00 AM 52,68 RON
 9/27/2020 11:27:48 AM 52,68 RON
+10/3/2020 8:57:18 PM 52,68 RON
+10/5/2020 2:56:48 PM 52,68 RON

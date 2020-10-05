@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |21uts-bk
 2009042
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/21uts-1x-usb-30-male-1x-sata-25-inch-ssd-hdd-female/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2009042/thumbnails/adaptor-hdd-orico
 9/21/2020 12:31:33 PM 43,98 RON
 9/26/2020 9:34:39 AM 43,98 RON
 9/27/2020 12:41:33 PM 43,98 RON
+10/5/2020 8:08:47 AM 43,98 RON

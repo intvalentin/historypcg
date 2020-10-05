@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e5e76aa
 1025296
     Product link    
 https://www.pcgarage.ro/mouse/hp/x500-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3/1025296/thumbnails/x500-black-ee7c210eb81b
 9/21/2020 8:22:32 AM 33,99 RON
 9/26/2020 8:16:48 AM 33,99 RON
 9/27/2020 11:10:32 AM 33,99 RON
+10/3/2020 4:46:20 PM 33,99 RON
+10/5/2020 2:36:54 PM 33,99 RON

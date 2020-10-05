@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7x08a078ea
 2009010
     Product link    
 https://www.pcgarage.ro/servere/lenovo/thinksystem-sr530-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-1x-750w/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/2003606/2009010/thumbnails/thinksystem-sr530
 9/21/2020 12:03:51 AM 7.949,23 RON
 9/25/2020 2:21:09 PM 7.972,14 RON
 9/26/2020 4:42:05 PM 7.976,72 RON
+10/2/2020 10:33:57 PM 7.971,48 RON
+10/5/2020 10:25:13 AM 7.971,48 RON

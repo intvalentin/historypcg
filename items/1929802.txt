@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m7450
 1929802
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/m7450-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1929802/thumbnails/m7450-dual-band-0d6d
 9/22/2020 11:14:32 AM 673,86 RON
 9/26/2020 2:19:05 PM 673,86 RON
 9/27/2020 6:20:48 PM 673,86 RON
+10/5/2020 1:07:05 PM 673,86 RON

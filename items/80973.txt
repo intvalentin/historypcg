@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h5d-00014
 80973
     Product link    
 https://www.pcgarage.ro/camere-web/microsoft/lifecam-cinema/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/2/80973/thumbnails/lifecam-cinema-41c2b0183f
 9/21/2020 10:09:34 AM 283,98 RON
 9/26/2020 8:43:42 AM 285,98 RON
 9/27/2020 11:37:31 AM 285,98 RON
+10/3/2020 10:33:37 PM 285,98 RON
+10/5/2020 3:06:31 PM 285,98 RON

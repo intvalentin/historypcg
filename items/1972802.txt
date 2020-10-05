@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p02464-b21
 1972802
     Product link    
 https://www.pcgarage.ro/servere/hp/hpe-dl380-gen10-4210-1p-32g-8sff-svr/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/8977/1972802/thumbnails/proliant-dl380-gen10
 9/21/2020 12:04:06 AM 11.726,13 RON
 9/25/2020 2:21:53 PM 11.737,20 RON
 9/26/2020 4:42:51 PM 11.756,70 RON
+10/2/2020 10:55:23 PM 11.756,46 RON
+10/5/2020 10:27:25 AM 11.755,74 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3773c066aa
 2050466
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts5353-green-inkjet-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2050466/thumbnails/pixma-ts5353-green-i
 9/21/2020 2:27:02 PM 401,98 RON
 9/26/2020 10:05:36 AM 401,98 RON
 9/27/2020 1:23:45 PM 401,98 RON
+10/5/2020 2:10:45 PM 401,98 RON

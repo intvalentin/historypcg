@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xb7a00022
 2060778
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/hdd-25-quot-600gb-15k-sas-12gb-hot-swap-512n-hdd/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6954/2060778/thumbnails/thinksystem-hdd-600g
 9/21/2020 12:04:59 AM 1.447,50 RON
 9/25/2020 2:30:02 PM 1.449,27 RON
 9/26/2020 4:51:03 PM 1.451,68 RON
+10/3/2020 9:38:16 AM 1.451,65 RON
+10/5/2020 10:35:37 AM 1.451,57 RON

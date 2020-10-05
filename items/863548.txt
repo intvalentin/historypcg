@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts512gmsa370
 863548
     Product link    
 https://www.pcgarage.ro/ssd/transcend/370-series-512gb-msata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/863548/thumbnails/370-series-512gb-msata-f
 9/21/2020 7:44:50 AM 1.918,29 RON
 9/24/2020 11:22:41 AM 1.940,45 RON
 9/25/2020 10:08:36 PM 1.956,09 RON
+10/5/2020 8:30:13 AM 1.940,45 RON

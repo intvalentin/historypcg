@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus183-e829b83e7720ec3064099f46b7c708f2
 1464854
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x93-x93sm-x93sv/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1190677/1464854/thumbnails/baterie-laptop-as
 9/20/2020 11:11:55 PM 219,98 RON
 9/25/2020 4:01:57 PM 223,98 RON
 9/26/2020 6:01:47 PM 223,98 RON
+10/3/2020 4:58:41 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

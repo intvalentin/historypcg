@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3514c007aa
 1963318
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf445dw-laser-monocrom-format-a4-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1261/1963318/thumbnails/i-sensys-mf443dw-las
 9/21/2020 2:00:00 PM 1.973,98 RON
 9/26/2020 10:00:28 AM 1.895,99 RON
 9/27/2020 1:09:36 PM 1.895,99 RON
+10/5/2020 1:01:28 PM 1.979,98 RON

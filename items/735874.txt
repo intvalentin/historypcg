@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-650wtb-apfc-2
 735874
     Product link    
 https://www.pcgarage.ro/surse/spire/silenteagle-650w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/735874/thumbnails/silenteagle-650w-58
 9/21/2020 7:47:44 AM 336,45 RON
 9/24/2020 1:57:02 PM 341,02 RON
 9/25/2020 10:51:03 PM 343,86 RON
+10/5/2020 9:16:52 AM 341,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |oki10253
 743540
     Product link    
 https://www.pcgarage.ro/multifunctionale/oki/mc760dn-laser-color-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/743540/thumbnails/mc760dn-9cbb5d6173588e14
 9/21/2020 2:43:39 PM 7.617,98 RON
 9/26/2020 10:13:46 AM 7.643,98 RON
 9/27/2020 1:32:32 PM 7.643,98 RON
+10/5/2020 3:13:38 PM 7.639,98 RON

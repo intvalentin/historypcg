@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |711791
 1437362
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/intellinet/711791-9u-wall-mount-600-x-570-glass-door-negru/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1113903/1437362/thumbnails/711791-9u-wall-mo
 9/21/2020 12:05:33 AM 621,77 RON
 9/25/2020 2:36:41 PM 623,56 RON
 9/26/2020 4:57:41 PM 623,92 RON
+10/3/2020 10:20:09 AM 623,51 RON
+10/5/2020 10:41:33 AM 623,51 RON

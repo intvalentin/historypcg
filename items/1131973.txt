@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mus-gu-01
 1131973
     Product link    
 https://www.pcgarage.ro/mouse/gembird/mus-gu-01-usb-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/815230/1131973/thumbnails/mus-gu-01-usb-blac
 9/21/2020 8:23:25 AM 23,98 RON
 9/26/2020 8:31:00 AM 23,98 RON
 9/27/2020 11:24:48 AM 23,98 RON
+10/3/2020 6:59:09 PM 23,98 RON
+10/5/2020 2:48:14 PM 23,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10gaf9901
 1953798
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/elgato/green-screen/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6997/1953798/thumbnails/green-screen-15b909b
 9/21/2020 8:10:02 AM 833,98 RON
 9/25/2020 2:40:23 PM 835,98 RON
 9/26/2020 5:01:21 PM 837,98 RON
+10/3/2020 10:57:52 AM 837,98 RON
+10/5/2020 10:45:57 AM 837,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-atil-05
 1675428
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sas-12g-600gb-10000-rpm-25-inch-in-35-carrier/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1663772/1675428/thumbnails/400-atij-05-4dc3c
 9/21/2020 12:05:13 AM 1.049,63 RON
 9/25/2020 2:33:45 PM 1.065,51 RON
 9/26/2020 4:54:44 PM 1.057,99 RON
+10/3/2020 9:56:39 AM 1.059,61 RON
+10/5/2020 10:37:52 AM 1.059,61 RON

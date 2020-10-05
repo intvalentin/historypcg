@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr1090
 1599822
     Product link    
 https://www.pcgarage.ro/consumabile/brother/drum-dr-1090/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1516422/1599822/thumbnails/drum-dr-1090-e759
 9/21/2020 3:25:09 PM 107,98 RON
 9/26/2020 10:31:19 AM 107,98 RON
 9/27/2020 1:49:10 PM 107,98 RON
+10/5/2020 5:38:38 PM 107,98 RON

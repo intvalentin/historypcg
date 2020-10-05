@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a8526300
 1431430
     Product link    
 https://www.pcgarage.ro/memorii-server/dell/ecc-udimm-ddr4-8gb-2133mhz-12v-dual-rank-x8/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/959008/1431430/thumbnails/ecc-udimm-ddr4-8gb
 9/21/2020 12:04:27 AM 911,26 RON
 9/25/2020 2:27:03 PM 913,89 RON
 9/26/2020 4:47:20 PM 914,42 RON
+10/3/2020 8:45:25 AM 913,82 RON
+10/5/2020 10:31:09 AM 913,82 RON

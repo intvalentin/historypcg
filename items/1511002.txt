@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-001102
 1511002
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/meetup-4k/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1469758/1511002/thumbnails/meetup-4k-f399c6a
 9/21/2020 10:09:34 AM 5.489,98 RON
 9/26/2020 8:42:58 AM 5.533,98 RON
 9/27/2020 11:36:48 AM 5.533,98 RON
+10/3/2020 10:28:45 PM 5.541,98 RON
+10/5/2020 3:05:49 PM 5.541,98 RON

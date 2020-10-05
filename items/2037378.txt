@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r407635
 2037378
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/toner-sp-c310ha-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2037378/thumbnails/toner-sp-c310ha-y
 9/21/2020 11:00:24 PM 711,62 RON
 9/26/2020 1:20:03 PM 711,62 RON
 9/27/2020 4:21:17 PM 711,62 RON
+10/4/2020 7:51:16 PM 711,62 RON

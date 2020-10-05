@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rsi-x1
 1880826
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/1x-ide-female-2x-sata-male/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5634/1880826/thumbnails/1x-ide-female-2x-sat
 9/21/2020 12:35:43 PM 81,98 RON
 9/26/2020 9:34:39 AM 81,98 RON
 9/27/2020 12:41:33 PM 81,98 RON
+10/5/2020 8:14:56 AM 81,98 RON

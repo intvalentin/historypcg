@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0022
 1451314
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-minihdmi-male-15m-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301253/1451314/thumbnails/hdmi-male-minihdm
 9/21/2020 10:38:24 AM 29,98 RON
 9/26/2020 9:04:32 AM 29,98 RON
 9/27/2020 11:58:29 AM 29,98 RON
+10/4/2020 7:26:06 PM 29,98 RON

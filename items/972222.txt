@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm54140
 972222
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/hama/usb-20-2-port-otg-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/746930/972222/thumbnails/usb-20-2-port-otg-n
 9/21/2020 10:12:42 AM 65,98 RON
 9/26/2020 8:47:31 AM 65,98 RON
 9/27/2020 11:41:17 AM 65,98 RON
+10/3/2020 10:49:30 PM 65,98 RON

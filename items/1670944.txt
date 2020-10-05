@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc8i7hvk2
 1670944
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i7hvk2-core-i7-8809g-31ghz-2x-ddr4-so-dimm-32gb-max-radeon-rx-vega-m-gh-2x-m2-ssd/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1573/1670944/thumbnails/intel-boxnuc8i7hvk2-
 9/21/2020 12:03:33 AM 4.389,98 RON
 9/25/2020 2:17:29 PM 4.449,98 RON
 9/26/2020 4:38:19 PM 4.489,98 RON
+10/2/2020 10:09:22 PM 4.444,98 RON
+10/5/2020 10:22:16 AM 4.454,98 RON

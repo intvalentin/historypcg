@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3610v_dn
 790242
     Product link    
 https://www.pcgarage.ro/imprimante/xerox/phaser-3610dn-laser-monocrom-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/750014/790242/thumbnails/phaser-3610dn-laser
 9/21/2020 3:00:10 PM 2.301,98 RON
 9/26/2020 10:21:40 AM 2.309,98 RON
 9/27/2020 1:38:53 PM 2.309,98 RON
+10/5/2020 3:55:32 PM 2.307,98 RON

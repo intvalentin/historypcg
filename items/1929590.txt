@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |at-gs970m+-+10ps-50
 1929590
     Product link    
 https://www.pcgarage.ro/switch-uri/allied-telesis/gigabit-at-gs970m-10ps-50/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1929590/thumbnails/gigabit-at-gs970m-10
 9/22/2020 11:53:14 AM 2.629,94 RON
 9/26/2020 2:45:48 PM 2.688,41 RON
 9/27/2020 6:47:29 PM 2.687,83 RON
+10/5/2020 6:09:34 PM 2.667,10 RON

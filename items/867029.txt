@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acntsec2
 867029
     Product link    
 https://www.pcgarage.ro/cabluri-componente/noctua/cablu-3-pin-f-3-pin-m-30cm-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/867029/thumbnails/cablu-3-pin-f-3-pin
 9/21/2020 12:06:24 PM 37,98 RON
 9/26/2020 9:26:31 AM 37,98 RON
 9/27/2020 12:32:50 PM 37,98 RON
+10/4/2020 11:02:38 PM 37,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3fa61t-060
 1993118
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-mag271cv-curbat-27-inch-1-ms-negru-freesync-144-hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1990682/1993118/thumbnails/gaming-optix-mag2
 9/21/2020 8:17:15 AM 1.541,98 RON
 9/25/2020 9:56:45 PM 1.545,98 RON
 9/27/2020 9:57:05 AM 1.545,98 RON
+10/2/2020 8:22:26 PM 1.545,98 RON
+10/4/2020 4:30:35 PM 1.545,98 RON
+10/5/2020 12:59:42 PM 1.545,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alimc
 237627
     Product link    
 https://www.pcgarage.ro/cabluri-componente/keyoffice/cablu-alimentare-calculator-18m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/237627/thumbnails/cablu-alimentare-calcula
 9/21/2020 12:10:32 PM 21,98 RON
 9/26/2020 9:28:43 AM 21,98 RON
 9/27/2020 12:35:10 PM 21,98 RON
+10/4/2020 11:08:39 PM 21,98 RON

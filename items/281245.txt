@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1100-24
 281245
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1100-24/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/281245/thumbnails/dgs-1100-24-40273171c9b5
 9/22/2020 11:51:04 AM 560,73 RON
 9/26/2020 2:50:17 PM 560,73 RON
 9/27/2020 6:51:58 PM 560,73 RON
+10/5/2020 5:52:21 PM 560,73 RON

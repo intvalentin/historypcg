@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297617ba01a12
 1862978
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/adobe-photoshop-cc-teams-1-pc-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1862978/thumbnails/adobe-photoshop-cc-t
 9/21/2020 1:51:50 PM 2.273,77 RON
 9/26/2020 9:59:43 AM 2.281,63 RON
 9/27/2020 1:08:46 PM 2.281,63 RON
+10/5/2020 12:08:00 PM 2.280,13 RON

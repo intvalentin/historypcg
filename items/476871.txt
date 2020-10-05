@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp-9020061
 476871
     Product link    
 https://www.pcgarage.ro/surse/corsair/builder-series-cx750m-cp-9020061/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/476871/thumbnails/builder-series-cx750m-b1
 9/21/2020 7:45:53 AM 526,86 RON
 9/24/2020 12:57:16 PM 532,98 RON
 9/25/2020 10:18:02 PM 540,16 RON
+10/5/2020 8:43:03 AM 522,15 RON

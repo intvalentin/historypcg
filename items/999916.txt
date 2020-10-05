@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9856b003aa
 999916
     Product link    
 https://www.pcgarage.ro/plottere/canon/imageprograf-ipf770/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/999916/thumbnails/imageprograf-ipf770-986e
 9/22/2020 10:30:50 AM 9.989,98 RON
 9/26/2020 1:53:22 PM 10.023,98 RON
 9/27/2020 5:01:17 PM 10.023,98 RON
+10/5/2020 8:47:24 AM 10.015,98 RON

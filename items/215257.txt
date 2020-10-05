@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7972al
 215257
     Product link    
 https://www.pcgarage.ro/accesorii-printing/hp/lto-2-ultrium-2-400-gb-pre-etichetat-20-buc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025741/215257/thumbnails/lto-2-ultrium-2-40
 9/22/2020 11:04:58 AM 5.155,98 RON
 9/26/2020 2:13:58 PM 5.173,98 RON
 9/27/2020 6:15:42 PM 5.173,98 RON
+10/5/2020 11:57:08 AM 5.169,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s26361-f5247-l160
 744050
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/fujitsu/hot-plug-sas-6g-600gb-10000-rpm-25-inch-64mb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/480523/744050/thumbnails/hot-plug-sas-6g-600
 9/21/2020 12:05:18 AM 1.379,36 RON
 9/25/2020 2:35:14 PM 1.400,23 RON
 9/26/2020 4:56:15 PM 1.390,37 RON
+10/3/2020 10:03:00 AM 1.392,43 RON
+10/5/2020 10:38:36 AM 1.392,43 RON

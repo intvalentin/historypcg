@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9854b003aa
 999217
     Product link    
 https://www.pcgarage.ro/plottere/canon/imageprograf-ipf670-24-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862955/999217/thumbnails/imageprograf-ipf670
 9/22/2020 10:29:46 AM 4.201,98 RON
 9/26/2020 1:53:22 PM 4.215,98 RON
 9/27/2020 5:01:17 PM 4.215,98 RON
+10/5/2020 8:42:55 AM 4.213,98 RON

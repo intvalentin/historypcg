@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3cb51t-002
 2089142
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-g271-27-inch-1-ms-negru-144-hz/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/7008/2089142/thumbnails/optix-g271-27-inch-1
 9/21/2020 8:15:54 AM 1.551,98 RON
 9/25/2020 9:44:14 PM 1.555,98 RON
 9/27/2020 9:40:07 AM 1.555,98 RON
+10/3/2020 10:31:46 PM 1.555,98 RON
+10/5/2020 12:43:23 PM 1.555,98 RON

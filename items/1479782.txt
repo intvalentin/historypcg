@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ag251fz
 1479782
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/gaming-ag251fz-245-inch-1-ms-black-freesync-240hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1416562/1479782/thumbnails/gaming-ag251fz-24
 9/21/2020 8:16:12 AM 1.733,98 RON
 9/25/2020 10:05:41 PM 1.739,98 RON
 9/27/2020 10:06:41 AM 1.739,98 RON
+10/2/2020 8:30:50 PM 1.739,98 RON
+10/4/2020 4:31:19 PM 1.737,98 RON
+10/5/2020 1:00:26 PM 1.737,98 RON

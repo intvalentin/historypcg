@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rvc-dp
 2020254
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/1x-usb-tip-c-male-1x-displayport-female-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8491/2020254/thumbnails/1x-usb-tip-c-male-1x
 9/21/2020 12:19:08 PM 77,98 RON
 9/26/2020 9:29:28 AM 77,98 RON
 9/27/2020 12:36:01 PM 77,98 RON
+10/4/2020 11:46:58 PM 77,98 RON

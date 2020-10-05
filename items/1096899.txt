@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kestrel
 1096899
     Product link    
 https://www.pcgarage.ro/mouse/natec/kestrel/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/929099/1096899/thumbnails/kestrel-e3785be193
 9/21/2020 8:23:48 AM 27,98 RON
 9/26/2020 8:31:00 AM 27,98 RON
 9/27/2020 11:24:48 AM 27,98 RON
+10/3/2020 7:04:19 PM 27,98 RON
+10/5/2020 2:49:32 PM 27,98 RON

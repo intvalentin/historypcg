@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cg842a
 311743
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/everyday-satin-photo-1524-mm-x-61-m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/311743/thumbnails/paper-evday-pigm-ink-sat
 9/22/2020 10:36:15 AM 1.359,98 RON
 9/26/2020 1:56:22 PM 1.363,98 RON
 9/27/2020 5:04:16 PM 1.363,98 RON
+10/5/2020 9:42:13 AM 1.363,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3858c005aa_bd001
 2029046
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-advance-dx-3720i-laser-color-format-a3-dadf-retea-wi-fi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2029046/thumbnails/imagerunner-advance-
 9/21/2020 2:47:47 PM 13.701,98 RON
 9/26/2020 10:05:36 AM 13.749,98 RON
 9/27/2020 1:24:32 PM 13.749,98 RON
+10/5/2020 3:21:54 PM 13.741,98 RON

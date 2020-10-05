@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r7100lg-100eus
 1714080
     Product link    
 https://www.pcgarage.ro/routere-wireless/netgear/gigabit-nighthawk-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1692296/1714080/thumbnails/gigabit-nighthawk
 9/22/2020 11:20:59 AM 1.860,06 RON
 9/26/2020 2:23:34 PM 1.867,99 RON
 9/27/2020 6:25:13 PM 1.867,99 RON
+10/5/2020 2:34:10 PM 1.864,03 RON

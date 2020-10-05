@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b250401
 1860762
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-870-format-a3-usb-30/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1860762/thumbnails/workforce-ds-870-for
 9/22/2020 10:42:40 AM 2.915,98 RON
 9/26/2020 2:02:11 PM 2.927,98 RON
 9/27/2020 5:09:26 PM 2.927,98 RON
+10/5/2020 10:17:28 AM 2.921,98 RON

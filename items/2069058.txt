@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-231p3-2g
 2069058
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-231p3-2gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2069058/thumbnails/ts-231p3-2gb-bc8353d
 9/22/2020 11:23:06 AM 1.789,26 RON
 9/26/2020 2:28:01 PM 1.793,91 RON
 9/27/2020 6:29:39 PM 1.794,94 RON
+10/5/2020 2:43:52 PM 1.486,07 RON

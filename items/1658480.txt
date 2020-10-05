@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpd-7p6g-bw902s
 1658480
     Product link    
 https://www.pcgarage.ro/cabluri-componente/orico/2x-sata-iii-female-2x-sata-iii-female-conector-90-grade-05m-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5286/1658480/thumbnails/orico-sata-iii-6gbps
 9/21/2020 12:12:36 PM 43,98 RON
 9/26/2020 9:27:15 AM 43,98 RON
 9/27/2020 12:33:37 PM 43,98 RON
+10/4/2020 11:21:51 PM 43,98 RON

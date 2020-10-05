@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sf1024m
 1139483
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sf1024m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/746930/1139483/thumbnails/tl-sf1024m-ff1c7e9
 9/22/2020 11:39:12 AM 165,60 RON
 9/26/2020 2:41:21 PM 165,60 RON
 9/27/2020 6:43:01 PM 165,60 RON
+10/5/2020 4:30:55 PM 165,59 RON

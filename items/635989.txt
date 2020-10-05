@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5550v_n
 635989
     Product link    
 https://www.pcgarage.ro/imprimante/xerox/phaser-5550n-laser-monocrom-format-a4-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/635989/thumbnails/phaser-5550n-47b78b23959
 9/21/2020 3:21:00 PM 9.841,98 RON
 9/26/2020 10:27:37 AM 9.875,98 RON
 9/27/2020 1:45:16 PM 9.875,98 RON
+10/5/2020 5:14:54 PM 9.869,98 RON

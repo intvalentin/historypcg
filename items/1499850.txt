@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-f8453b8bef53a6da45715e19965c6bb9
 1499850
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g70-80/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1192525/1499850/thumbnails/baterie-laptop-le
 9/20/2020 11:13:03 PM 241,98 RON
 9/25/2020 3:57:26 PM 245,98 RON
 9/26/2020 5:57:16 PM 245,98 RON
+10/5/2020 11:27:33 AM 243,98 RON

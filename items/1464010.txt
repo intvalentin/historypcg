@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus141-7837ce7e68d869d672febfe864e14a28
 1464010
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-a42-a52-k42-k52-k62-x42-x52-x67-x5i-x8c/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1443558/1464010/thumbnails/baterie-laptop-as
 9/20/2020 11:11:46 PM 219,98 RON
 9/25/2020 4:04:56 PM 223,98 RON
 9/26/2020 6:04:48 PM 223,98 RON
+10/3/2020 4:53:40 PM 221,98 RON
+10/5/2020 11:13:28 AM 221,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp136-f47bf1c843566f792b868f0beb503f33
 1464974
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-mini-100110141010nr1035nr-1050-1033cl/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1169071/1464974/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:10 PM 225,98 RON
 9/25/2020 4:01:57 PM 231,98 RON
 9/26/2020 6:01:47 PM 231,98 RON
+10/3/2020 5:16:48 PM 229,98 RON
+10/5/2020 11:15:44 AM 229,98 RON

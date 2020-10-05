@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stfs4000800
 1723516
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-25-inch-4tb-usb-c-thunderbolt-orange/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8674/1723516/thumbnails/rugged-25-inch-2tb-u
 9/21/2020 8:19:14 AM 1.209,98 RON
 9/25/2020 10:23:25 PM 1.239,98 RON
 9/27/2020 10:25:59 AM 1.239,98 RON
+10/3/2020 8:50:50 AM 1.229,98 RON
+10/5/2020 1:23:55 PM 1.229,98 RON

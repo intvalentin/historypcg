@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc10i7fnh2
 2025698
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i7fnh2-core-i7-10710u-11ghz-2x-ddr4-64gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/9002/2025698/thumbnails/intel-nuc-barebone-b
 9/21/2020 12:03:37 AM 2.699,98 RON
 9/25/2020 2:17:29 PM 2.759,98 RON
 9/26/2020 4:39:06 PM 2.759,98 RON
+10/2/2020 10:06:39 PM 2.739,98 RON
+10/5/2020 10:21:32 AM 2.739,98 RON

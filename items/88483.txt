@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asch010fr
 88483
     Product link    
 https://www.pcgarage.ro/accesorii-monitoare/af/lavete-curatare-suprafete-si-ecrane/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3/88483/thumbnails/lavete-curatare-suprafete
 9/21/2020 8:17:59 AM 21,98 RON
 9/25/2020 10:13:03 PM 21,98 RON
 9/27/2020 10:14:43 AM 21,98 RON
+10/2/2020 9:29:25 PM 21,98 RON
+10/5/2020 1:11:19 PM 21,98 RON

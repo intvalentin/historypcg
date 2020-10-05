@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a11g451
 237879
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a11g451-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/237879/thumbnails/toner-cyan-tn216c-a11g45
 9/22/2020 10:12:38 AM 443,98 RON
 9/26/2020 1:40:06 PM 445,98 RON
 9/27/2020 4:48:02 PM 443,98 RON
+10/4/2020 11:02:09 PM 443,98 RON

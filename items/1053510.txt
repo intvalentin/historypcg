@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agstsentryet
 1053510
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/steelseries/sentry-gaming-eye-tracker/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/862960/1053510/thumbnails/sentry-gaming-eye-
 9/21/2020 8:10:16 AM 879,98 RON
 9/25/2020 2:43:21 PM 879,98 RON
 9/26/2020 5:04:18 PM 879,98 RON
+10/3/2020 11:17:14 AM 879,98 RON
+10/5/2020 10:48:11 AM 879,98 RON

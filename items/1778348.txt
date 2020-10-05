@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0004
 1778348
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-dvi-d-male-2m-negru-8/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1778348/thumbnails/hdmi-male-dvi-d-male
 9/21/2020 10:37:19 AM 35,98 RON
 9/26/2020 9:02:18 AM 35,98 RON
 9/27/2020 11:56:15 AM 35,98 RON
+10/4/2020 7:29:41 PM 35,98 RON

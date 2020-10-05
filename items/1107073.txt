@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u7z-00064
 1107073
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/mobile-1850-magenta/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/986422/1107073/thumbnails/mobile-1850-magent
 9/21/2020 8:23:25 AM 69,98 RON
 9/26/2020 8:31:00 AM 71,98 RON
 9/27/2020 11:24:48 AM 71,98 RON
+10/3/2020 8:37:12 PM 71,98 RON
+10/5/2020 2:54:32 PM 71,98 RON

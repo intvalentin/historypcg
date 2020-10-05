@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chdhx-901-rw
 2086778
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/gopro/go-pro-hero-9/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7008/2086778/thumbnails/go-pro-hero-9-9f1da0
 9/22/2020 5:30:16 PM 2.399,98 RON
 9/26/2020 6:37:29 PM 2.399,98 RON
 9/28/2020 8:19:38 AM 2.399,98 RON
+10/5/2020 4:09:24 PM 2.399,99 RON

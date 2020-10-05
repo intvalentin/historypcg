@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pio101730aedgpro
 2044666
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/prestigio/173-quot-hd-plus-procesor-intel-celeron-n3350-11ghz-apollo-lake-4gb-ddr4-64gb-gma-hd-500-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1034/2044666/thumbnails/173-quot-hd-plus-pro
 9/21/2020 12:03:01 AM 1.519,98 RON
 9/25/2020 2:12:19 PM 1.559,98 RON
 9/26/2020 4:33:13 PM 1.559,98 RON
+10/2/2020 9:04:29 PM 1.549,98 RON
+10/5/2020 10:16:20 AM 1.549,98 RON

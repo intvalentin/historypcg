@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |up2516d-05
 1146653
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/ultrasharp-up2516d-05-25-inch-6ms-black-gray/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1025741/1146653/thumbnails/ultrasharp-up2716
 9/21/2020 8:17:27 AM 2.201,98 RON
 9/25/2020 10:09:24 PM 2.219,98 RON
 9/27/2020 10:10:42 AM 2.219,98 RON
+10/2/2020 8:43:08 PM 2.223,98 RON
+10/4/2020 4:32:47 PM 2.223,98 RON
+10/5/2020 1:05:26 PM 2.223,98 RON

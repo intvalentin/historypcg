@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |css326-24g-2s+rm
 1974342
     Product link    
 https://www.pcgarage.ro/switch-uri/mikrotik/css326-24g-2s-plusrm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8486/1974342/thumbnails/css326-24g-2s-plusrm
 9/22/2020 11:47:50 AM 582,65 RON
 9/26/2020 2:36:53 PM 595,61 RON
 9/27/2020 6:38:33 PM 595,49 RON
+10/5/2020 4:50:47 PM 590,89 RON

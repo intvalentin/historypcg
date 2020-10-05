@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2223c003aa
 1933690
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf525x-laser-monocrom-format-a4-duplex-fax-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1933690/thumbnails/i-sensys-mf525x-lase
 9/21/2020 2:12:25 PM 3.707,98 RON
 9/26/2020 10:07:05 AM 3.719,98 RON
 9/27/2020 1:25:18 PM 3.711,98 RON
+10/5/2020 3:05:35 PM 3.717,98 RON

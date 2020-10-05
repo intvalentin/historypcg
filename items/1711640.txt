@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0dj0037ri
 1711640
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-520-fhd-procesor-intel-core-i5-8400t-17ghz-coffee-lake-8gb-1tb-gma-hd-630-freedos-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1663772/1711640/thumbnails/238-ideacentre-52
 9/21/2020 12:03:10 AM 3.239,98 RON
 9/25/2020 2:14:33 PM 3.239,98 RON
 9/26/2020 4:35:27 PM 3.249,98 RON
+10/2/2020 9:16:03 PM 3.249,98 RON
+10/5/2020 10:17:49 AM 3.249,98 RON

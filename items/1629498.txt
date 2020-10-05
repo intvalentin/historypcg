@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1cc41ea
 1629498
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/hp/z2-mini-g3-procesor-intel-core-i7-6700-34ghz-skylake-8gb-ddr4-1tb-hdd-quadro-m620-2gb-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/953558/1629498/thumbnails/z2-mini-g3-proceso
 9/21/2020 12:03:46 AM 7.109,98 RON
 9/25/2020 2:18:58 PM 7.129,98 RON
 9/26/2020 4:39:51 PM 7.134,98 RON
+10/2/2020 10:30:42 PM 7.129,98 RON
+10/5/2020 10:24:30 AM 7.129,98 RON

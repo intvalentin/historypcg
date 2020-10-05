@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k0q22a
 1924302
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-enterprise-m609x-monocrom-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1924302/thumbnails/laserjet-enterprise-
 9/21/2020 3:02:12 PM 7.387,98 RON
 9/26/2020 10:18:02 AM 7.411,98 RON
 9/27/2020 1:35:44 PM 7.395,98 RON
+10/5/2020 4:03:31 PM 7.407,98 RON

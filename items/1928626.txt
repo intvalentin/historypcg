@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3278c005aa
 1928626
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-c3530i-iii-laser-color-format-a3-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6622/1928626/thumbnails/imagerunner-c3530i-i
 9/21/2020 2:47:47 PM 13.963,98 RON
 9/26/2020 10:02:38 AM 14.001,98 RON
 9/27/2020 1:20:47 PM 14.009,98 RON
+10/5/2020 1:20:00 PM 13.999,98 RON

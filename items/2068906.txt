@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-853du-rp-4g
 2068906
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-853du-rp-4gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2068906/thumbnails/ts-853du-rp-4gb-6ad3
 9/22/2020 11:28:28 AM 9.216,53 RON
 9/26/2020 2:29:30 PM 9.243,09 RON
 9/27/2020 6:31:06 PM 9.248,41 RON
+10/5/2020 3:21:48 PM 9.242,33 RON

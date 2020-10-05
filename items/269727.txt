@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a070150
 269727
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a070150-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/269727/thumbnails/toner-a070150-black-6113
 9/22/2020 10:13:43 AM 337,98 RON
 9/26/2020 1:40:51 PM 331,98 RON
 9/27/2020 4:48:47 PM 331,98 RON
+10/4/2020 11:12:04 PM 333,98 RON

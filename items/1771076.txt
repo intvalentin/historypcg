@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs520-e9-rs8
 1771076
     Product link    
 https://www.pcgarage.ro/servere/asus/rs520-e9-rs8-rack-2u-2x-3647-16x-ddr4-8x-hdd-35-inch-2x-hdd-25-inch-2x-800w/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/5015/1771076/thumbnails/rs520-e9-rs8-rack-2u
 9/21/2020 12:03:51 AM 8.793,40 RON
 9/25/2020 2:21:09 PM 8.912,94 RON
 9/26/2020 4:42:05 PM 8.988,92 RON
+10/2/2020 10:34:46 PM 8.906,29 RON
+10/5/2020 10:25:13 AM 8.917,67 RON

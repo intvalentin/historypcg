@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b251401
 1906582
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-970-format-a4-usb-30/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1906582/thumbnails/workforce-ds-970-
 9/22/2020 10:43:45 AM 5.809,98 RON
 9/26/2020 2:02:11 PM 5.825,98 RON
 9/27/2020 5:09:26 PM 5.829,98 RON
+10/5/2020 10:21:53 AM 5.825,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a10-bk
 1728268
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/sjcam/a10-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1728268/thumbnails/a10-black-8d48ddb
 9/22/2020 5:30:51 PM 597,98 RON
 9/26/2020 6:38:14 PM 606,98 RON
 9/28/2020 8:20:22 AM 606,98 RON
+10/5/2020 4:32:49 PM 601,98 RON

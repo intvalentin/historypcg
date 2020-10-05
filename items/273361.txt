@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w306r
 273361
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/w306r/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/273361/thumbnails/w306r-c51b23fd8dc0e8e1a7
 9/22/2020 11:17:46 AM 165,03 RON
 9/26/2020 2:26:32 PM 167,63 RON
 9/27/2020 6:28:11 PM 167,63 RON
+10/5/2020 2:10:43 PM 166,34 RON

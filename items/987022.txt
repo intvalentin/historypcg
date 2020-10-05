@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwm-157
 987022
     Product link    
 https://www.pcgarage.ro/accesorii-notebook/d-link/dwm-157-3g-hspa-plus-usb-adapter/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/782584/987022/thumbnails/dwm-157-3g-hspa-plu
 9/20/2020 11:11:34 PM 154,98 RON
 9/25/2020 3:06:57 PM 154,98 RON
 9/26/2020 5:34:46 PM 154,98 RON
+10/3/2020 4:48:37 PM 154,98 RON
+10/5/2020 11:12:42 AM 154,98 RON

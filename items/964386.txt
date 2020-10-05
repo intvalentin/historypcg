@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs-108sv2-eu0101f
 964386
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs-108s-v2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/800612/964386/thumbnails/gs-108s-v2-96a6f815
 9/22/2020 11:37:02 AM 127,32 RON
 9/26/2020 2:42:05 PM 127,76 RON
 9/27/2020 6:43:47 PM 127,76 RON
+10/5/2020 4:10:19 PM 127,67 RON

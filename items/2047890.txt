@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n304vd3471emea
 2047890
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/vostro-3471-sff-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ram-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3442/2047890/thumbnails/vostro-3470-sff-proc
 9/21/2020 12:02:07 AM 2.679,98 RON
 9/25/2020 1:57:30 PM 2.679,98 RON
 9/26/2020 4:25:50 PM 2.689,98 RON
+10/2/2020 8:11:10 PM 2.729,98 RON
+10/5/2020 10:06:11 AM 2.729,98 RON

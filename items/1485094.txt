@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pib-xh110v117
 1485094
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/shuttle/xpc-slim-xh110v-procesor-intel-core-i7-6700-34ghz-skylake-16gb-ddr3-480gb-ssd-gma-hd-530-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1461878/1485094/thumbnails/xpc-slim-xh110v-p
 9/21/2020 12:03:46 AM 5.199,98 RON
 9/25/2020 2:18:58 PM 5.314,98 RON
 9/26/2020 4:39:51 PM 5.314,98 RON
+10/2/2020 10:28:30 PM 5.274,98 RON
+10/5/2020 10:24:30 AM 5.274,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2321c006aa
 1881122
     Product link    
 https://www.pcgarage.ro/imprimante/canon/pixma-ts305-inkjet-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881122/thumbnails/pixma-ts305-inkjet-c
 9/21/2020 3:04:17 PM 253,98 RON
 9/26/2020 10:23:54 AM 253,98 RON
 9/27/2020 1:41:18 PM 253,98 RON
+10/5/2020 4:06:11 PM 253,98 RON

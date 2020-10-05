@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041106
 227833
     Product link    
 https://www.pcgarage.ro/hartie/epson/photo-quality-ink-jet-self-adhesive-a4-10-coli/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/227833/thumbnails/photo-quality-ink-jet-pa
 9/22/2020 10:24:25 AM 81,98 RON
 9/26/2020 1:50:26 PM 81,98 RON
 9/27/2020 4:58:21 PM 81,98 RON
+10/5/2020 8:16:40 AM 81,98 RON

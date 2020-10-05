@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c405v_dn
 1460730
     Product link    
 https://www.pcgarage.ro/multifunctionale/xerox/versalink-c405-dn-laser-color-format-a4-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1460730/thumbnails/versalink-c405-dn
 9/21/2020 2:08:16 PM 4.345,98 RON
 9/26/2020 10:04:52 AM 4.361,98 RON
 9/27/2020 1:23:00 PM 4.361,98 RON
+10/5/2020 1:14:05 PM 4.359,98 RON

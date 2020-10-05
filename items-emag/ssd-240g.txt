@@ -7,3 +7,4 @@ Solid State Drive (SSD) , 240GB, 2.5'', SATA3, 550/490MB/s, 3D NAND
     Pret    
 10/1/2020 9:41:16 AM 129
 10/2/2020 8:49:25 AM 129
+10/4/2020 9:58:43 PM 129

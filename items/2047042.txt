@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg279q
 2047042
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-xg279q-27-inch-1-ms-negru-g-sync-compatible-hdr-144-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/2045418/2047042/thumbnails/gaming-xg279q-27-
 9/21/2020 8:17:37 AM 3.497,98 RON
 9/25/2020 9:54:32 PM 3.511,98 RON
 9/27/2020 9:55:29 AM 3.511,98 RON
+10/2/2020 9:03:06 PM 3.509,98 RON
+10/4/2020 4:35:01 PM 3.505,98 RON
+10/5/2020 1:07:39 PM 3.505,98 RON

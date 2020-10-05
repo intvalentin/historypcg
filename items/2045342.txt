@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |exp1u2sibl32
 2045342
     Product link    
 https://www.pcgarage.ro/memorii-externe/exceleram/memorie-usb-exceleram-usb-20-32gb-p1-argintiu-cu-albastru/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1034/2045342/thumbnails/p1-32gb-usb-20-blue-
 9/21/2020 8:20:11 AM 23,98 RON
 9/25/2020 10:30:00 PM 25,98 RON
 9/27/2020 10:33:13 AM 25,98 RON
+10/3/2020 9:59:10 AM 23,98 RON
+10/5/2020 2:10:41 PM 23,98 RON

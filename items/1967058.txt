@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2226c026aa
 1967058
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts3151-white-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1967058/thumbnails/pixma-ts3151-white-i
 9/21/2020 2:12:25 PM 331,98 RON
 9/26/2020 10:06:21 AM 333,98 RON
 9/27/2020 1:24:33 PM 331,98 RON
+10/5/2020 1:25:25 PM 333,98 RON

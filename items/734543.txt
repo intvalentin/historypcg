@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1210-08p
 734543
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1210-08p/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/734543/thumbnails/dgs-1210-08p-9645d8dd69f
 9/22/2020 11:41:21 AM 727,82 RON
 9/26/2020 2:42:05 PM 729,90 RON
 9/27/2020 6:43:47 PM 730,31 RON
+10/5/2020 4:54:03 PM 667,66 RON

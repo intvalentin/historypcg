@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blknuc7i5dnhe 958791
 1765424
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i5dnhe-core-i5-7300u-26ghz-32gb-max-ddr4-hdd-25-inch-m2-ssd-bulk/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3442/1765424/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:37 AM 1.769,98 RON
 9/25/2020 2:18:13 PM 1.794,98 RON
 9/26/2020 4:39:06 PM 1.809,98 RON
+10/2/2020 10:15:58 PM 1.794,98 RON
+10/5/2020 10:23:01 AM 1.794,98 RON

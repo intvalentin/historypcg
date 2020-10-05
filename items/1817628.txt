@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as4002t
 1817628
     Product link    
 https://www.pcgarage.ro/nas/asustor/as4002t-2gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/753/1817628/thumbnails/as4002t-2gb-f1dde814d
 9/22/2020 11:23:06 AM 1.602,03 RON
 9/26/2020 2:28:01 PM 1.602,03 RON
 9/27/2020 6:29:39 PM 1.602,03 RON
+10/5/2020 2:42:54 PM 1.281,62 RON

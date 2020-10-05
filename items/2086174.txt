@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rjy-00021
 2086174
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/microsoft/ergonomic-for-business-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/7008/2086174/thumbnails/ergonomic-for-busine
 9/21/2020 10:05:20 AM 341,98 RON
 9/26/2020 8:40:00 AM 343,98 RON
 9/27/2020 11:33:48 AM 343,98 RON
+10/3/2020 10:12:33 PM 383,98 RON
+10/5/2020 3:03:23 PM 383,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cx310dn
 517933
     Product link    
 https://www.pcgarage.ro/multifunctionale/lexmark/cx310dn-laser-color-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/517933/thumbnails/cx310dn-bb6a9174b9543453
 9/21/2020 2:41:34 PM 2.617,98 RON
 9/26/2020 10:15:51 AM 2.625,98 RON
 9/27/2020 1:33:20 PM 2.625,98 RON
+10/5/2020 3:01:07 PM 2.625,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3588us3-v1-eu-bk
 1770468
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/3588us3-usb-30-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1770468/thumbnails/3588us3-usb-30-bl
 9/21/2020 10:20:11 AM 103,98 RON
 9/26/2020 8:53:25 AM 105,98 RON
 9/27/2020 11:47:19 AM 105,98 RON
+10/4/2020 5:19:01 PM 103,98 RON

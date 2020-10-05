@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skp-9994
 2085810
     Product link    
 https://www.pcgarage.ro/imprimante/pantum/p2500-monocrom-format-a4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2085810/thumbnails/p2500-monocrom-forma
 9/21/2020 2:53:57 PM 377,98 RON
 9/26/2020 10:17:18 AM 385,98 RON
 9/27/2020 1:34:56 PM 385,98 RON
+10/5/2020 3:32:03 PM 381,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0ey005yri
 2069410
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-3i-27-inch-fhd-procesor-intel-core-i7-10700t-20ghz-comet-lake-16gb-ram-256gb-ssd-plus-1tb-hdd-radeon-625-2gb-camera-web-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/6954/2069410/thumbnails/ideacentre-3-27-inch
 9/21/2020 12:03:15 AM 5.429,98 RON
 9/25/2020 2:04:10 PM 5.439,98 RON
 9/26/2020 4:32:28 PM 5.449,98 RON
+10/2/2020 9:30:06 PM 5.449,98 RON
+10/5/2020 10:19:19 AM 5.449,98 RON

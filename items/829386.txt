@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-5018d-mf
 829386
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-5018d-mf-rack-1u-socket-1150-4x-ddr3-dimm-2x-hdd-35-inch/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/722028/829386/thumbnails/superserver-5018d-m
 9/21/2020 12:03:56 AM 2.621,16 RON
 9/25/2020 2:24:07 PM 2.656,79 RON
 9/26/2020 4:45:04 PM 2.679,43 RON
+10/2/2020 10:41:15 PM 2.654,80 RON
+10/5/2020 10:25:57 AM 2.658,20 RON

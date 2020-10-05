@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h841040
 1583150
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-u05/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1510154/1583150/thumbnails/eb-u05-84e6786389
 9/22/2020 5:35:58 PM 2.498,99 RON
 9/26/2020 6:44:59 PM 2.498,99 RON
 9/28/2020 8:27:05 AM 2.498,99 RON
+10/5/2020 5:24:56 PM 2.418,99 RON

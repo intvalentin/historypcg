@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-256wp
 1802000
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-ib-256wp-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4338/1802000/thumbnails/icy-box-ib-256wp-bla
 9/21/2020 10:25:28 AM 91,98 RON
 9/26/2020 8:52:40 AM 91,98 RON
 9/27/2020 11:46:35 AM 91,98 RON
+10/4/2020 5:14:44 PM 91,98 RON

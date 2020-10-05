@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3fv66aa
 2044566
     Product link    
 https://www.pcgarage.ro/mouse/hp/wireless-mouse-220-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1034/2044566/thumbnails/wireless-mouse-220-b
 9/21/2020 8:24:01 AM 61,98 RON
 9/26/2020 8:25:01 AM 61,98 RON
 9/27/2020 11:18:47 AM 61,98 RON
+10/3/2020 8:35:00 PM 61,98 RON
+10/5/2020 2:53:48 PM 61,98 RON

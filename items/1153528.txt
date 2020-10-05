@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uc-ca980
 1153528
     Product link    
 https://www.pcgarage.ro/cablu-periferice/ssk/usb-30-tip-a-female-usb-30-tip-c-male-08m-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/782584/1153528/thumbnails/uc-ca980-6e4c8989b
 9/21/2020 11:59:26 AM 31,98 RON
 9/26/2020 9:24:19 AM 33,98 RON
 9/27/2020 12:30:23 PM 33,98 RON
+10/4/2020 10:46:28 PM 31,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds220+
 2051062
     Product link    
 https://www.pcgarage.ro/nas/synology/ds220-plus/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2051062/thumbnails/ds220-plus-c648107cb
 9/22/2020 11:22:01 AM 1.888,99 RON
 9/26/2020 2:27:16 PM 1.888,99 RON
 9/27/2020 6:28:54 PM 1.888,99 RON
+10/5/2020 2:39:36 PM 1.738,99 RON

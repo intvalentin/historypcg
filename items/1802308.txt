@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3258c003aa
 1802308
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-c225-ii/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1802308/thumbnails/dr-c225-ii-d847851cb
 9/22/2020 10:40:31 AM 2.013,98 RON
 9/26/2020 2:00:01 PM 2.017,98 RON
 9/27/2020 5:07:57 PM 2.019,98 RON
+10/5/2020 10:00:27 AM 2.017,98 RON

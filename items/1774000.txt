@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg96403
 1774000
     Product link    
 https://www.pcgarage.ro/imprimante/epson/m1120-inkjet-monocrom-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1774000/thumbnails/m1120-inkjet-monocro
 9/21/2020 2:56:01 PM 675,98 RON
 9/26/2020 10:20:12 AM 777,98 RON
 9/27/2020 1:37:18 PM 777,98 RON
+10/5/2020 3:39:18 PM 777,98 RON

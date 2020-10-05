@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mh535
 1733516
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mh535/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1728700/1733516/thumbnails/mh535-6973ac1d1fc
 9/22/2020 5:35:59 PM 2.667,98 RON
 9/26/2020 6:46:28 PM 2.675,98 RON
 9/28/2020 8:28:36 AM 2.677,98 RON
+10/5/2020 5:39:56 PM 2.675,98 RON

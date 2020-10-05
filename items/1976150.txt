@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |awr8i7325121rtxw1p
 1976150
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/alienware-gaming-aurora-r8-procesor-intel-core-i7-9700k-36ghz-coffee-lake-32gb-ddr4-512gb-ssd-plus-1tb-hdd-geforce-rtx-2070-8gb-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3207/1976150/thumbnails/aurora-r7-procesor-i
 9/21/2020 12:02:42 AM 15.899,98 RON
 9/25/2020 1:58:59 PM 15.919,98 RON
 9/26/2020 4:27:19 PM 15.939,98 RON
+10/2/2020 8:48:02 PM 15.939,98 RON
+10/5/2020 10:12:49 AM 15.939,98 RON

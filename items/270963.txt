@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |arctc_breezepro
 270963
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/arctic-cooling/breeze-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4/270963/thumbnails/breeze-pro-0ffd9415f5990
 9/21/2020 8:10:11 AM 65,98 RON
 9/25/2020 2:43:21 PM 65,98 RON
 9/26/2020 5:04:18 PM 65,98 RON
+10/3/2020 11:02:28 AM 65,98 RON
+10/5/2020 10:46:41 AM 65,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0el00g4ri
 2066346
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a540-24-inch-fhd-ips-procesor-intel-core-i5-9400t-18ghz-coffee-lake-8gb-ram-512gb-ssd-radeon-rx540x-2gb-camera-web-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/7193/2066346/thumbnails/238-ideacentre-a540-
 9/21/2020 12:02:48 AM 3.709,98 RON
 9/25/2020 2:02:41 PM 3.709,98 RON
 9/26/2020 4:31:00 PM 3.709,98 RON
+10/2/2020 9:20:49 PM 3.939,98 RON
+10/5/2020 10:17:49 AM 3.939,98 RON

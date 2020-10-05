@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-b91551-661
 1894114
     Product link    
 https://www.pcgarage.ro/sisteme-brand/msi/gaming-infinite-9sc-661eu-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ddr4-256gb-ssd-plus-1tb-hdd-geforce-rtx-2060-6gb-win-10-home/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1275/1894114/thumbnails/gaming-infinite-9sc-
 9/21/2020 12:02:38 AM 7.089,99 RON
 9/25/2020 2:01:13 PM 7.089,99 RON
 9/26/2020 4:28:46 PM 7.089,99 RON
+10/2/2020 8:37:12 PM 7.089,99 RON
+10/5/2020 10:12:05 AM 7.089,99 RON

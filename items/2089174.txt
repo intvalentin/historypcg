@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg17ahp
 2089174
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gamign-strix-xg17ahp-173-inch-3-ms-negru-240-hz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/7008/2089174/thumbnails/gamign-strix-xg17ahp
 9/21/2020 8:16:01 AM 3.439,98 RON
 9/25/2020 9:43:31 PM 3.447,98 RON
 9/27/2020 9:39:15 AM 3.449,98 RON
+10/3/2020 10:48:16 PM 3.825,98 RON
+10/5/2020 12:47:02 PM 3.825,98 RON

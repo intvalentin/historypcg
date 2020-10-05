@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-usb3-hdmi-02
 1832356
     Product link    
 https://www.pcgarage.ro/adaptoare/gembird/1x-usb-30-male-1x-hdmi-female/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1832356/thumbnails/1x-usb-30-male-1x-hd
 9/21/2020 12:23:16 PM 113,98 RON
 9/26/2020 9:30:12 AM 115,98 RON
 9/27/2020 12:36:50 PM 115,98 RON
+10/4/2020 11:56:05 PM 115,98 RON

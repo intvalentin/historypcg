@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo165-f7cf51b42229f6a3637fbc800629a784
 1499898
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-500s-13isk/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1469686/1499898/thumbnails/baterie-laptop-le
 9/20/2020 11:11:40 PM 209,98 RON
 9/25/2020 3:56:41 PM 213,98 RON
 9/26/2020 5:56:31 PM 213,98 RON
+10/3/2020 4:51:17 PM 211,98 RON
+10/5/2020 11:13:28 AM 211,98 RON

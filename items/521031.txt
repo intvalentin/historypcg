@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4624b003aa
 521031
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-6030c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/521031/thumbnails/dr-6030c-f411a49cb27cd27
 9/22/2020 10:44:49 AM 16.833,98 RON
 9/26/2020 2:03:40 PM 16.877,98 RON
 9/27/2020 5:10:55 PM 16.887,98 RON
+10/5/2020 10:27:33 AM 16.875,98 RON

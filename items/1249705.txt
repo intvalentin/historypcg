@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |he-g303
 1249705
     Product link    
 https://www.pcgarage.ro/rack-uri/ssk/he-g303/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/1249705/thumbnails/he-g303-9466f11733c0438
 9/21/2020 10:29:47 AM 81,98 RON
 9/26/2020 8:57:50 AM 83,98 RON
 9/27/2020 11:51:46 AM 83,98 RON
+10/4/2020 6:49:03 PM 81,98 RON

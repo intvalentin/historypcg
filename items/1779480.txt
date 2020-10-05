@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |itdcw_david_01
 1779480
     Product link    
 https://www.pcgarage.ro/sisteme-brand/itd-custom-works/gaming-david-prime-intel-i5-9600k-37ghz-coffee-lake-16gb-ddr4-1tb-hdd-plus-250gb-ssd-rtx-2070-8gb-gddr6-iluminare-rgb/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/761/1779480/thumbnails/gaming-david-prime-in
 9/21/2020 12:02:38 AM 8.259,98 RON
 9/25/2020 2:01:13 PM 8.269,98 RON
 9/26/2020 4:29:31 PM 8.279,98 RON
+10/2/2020 8:42:37 PM 8.279,98 RON
+10/5/2020 10:12:05 AM 8.279,98 RON

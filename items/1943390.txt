@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts01zzcsn2403len
 1943390
     Product link    
 https://www.pcgarage.ro/securitate/bitdefender/total-security-multi-device-2020-3-dispozitive-2-ani-licenta-noua-electronic/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1415042/1943390/thumbnails/total-security-mu
 9/21/2020 1:43:32 PM 558,56 RON
 9/26/2020 9:55:16 AM 560,50 RON
 9/27/2020 1:04:03 PM 560,50 RON
+10/5/2020 11:47:09 AM 560,13 RON

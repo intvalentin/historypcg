@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0256
 1815336
     Product link    
 https://www.pcgarage.ro/rack-uri/logilink/ua0256/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3645/1815336/thumbnails/ua0256-46e9810ad402d
 9/21/2020 10:24:23 AM 53,98 RON
 9/26/2020 8:51:56 AM 53,98 RON
 9/27/2020 11:45:50 AM 53,98 RON
+10/4/2020 5:05:35 PM 53,98 RON

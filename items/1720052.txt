@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m393a1k43bb1-ctd
 1720052
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr4-8gb-2666mhz-1rx8-12v/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/843505/1720052/thumbnails/ecc-rdimm-ddr4-32g
 9/21/2020 12:04:32 AM 336,08 RON
 9/25/2020 2:27:03 PM 343,55 RON
 9/26/2020 4:48:05 PM 343,48 RON
+10/3/2020 8:51:50 AM 340,83 RON
+10/5/2020 10:31:53 AM 340,83 RON

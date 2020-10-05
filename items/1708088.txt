@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2222c008aa
 1708088
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf421dw-laser-monocrom-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692296/1708088/thumbnails/i-sensys-mf421dw-
 9/21/2020 2:39:30 PM 1.855,98 RON
 9/26/2020 10:10:03 AM 1.863,98 RON
 9/27/2020 1:28:31 PM 1.863,98 RON
+10/5/2020 2:52:36 PM 1.861,98 RON

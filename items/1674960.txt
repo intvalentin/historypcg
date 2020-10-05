@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts100 e9-m58, 90sv03ra-m58ce0.
 1674960
     Product link    
 https://www.pcgarage.ro/servere/asus/ts100-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-8gb-ddr4-2x-1tb-hdd/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1663772/1674960/thumbnails/ts100-procesor-in
 9/21/2020 12:04:01 AM 3.995,60 RON
 9/25/2020 2:23:23 PM 4.049,93 RON
 9/26/2020 4:44:20 PM 4.084,45 RON
+10/2/2020 10:42:39 PM 4.046,90 RON
+10/5/2020 10:25:57 AM 4.052,07 RON

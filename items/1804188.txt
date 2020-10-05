@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr0042
 1804188
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/logilink/cr0042-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1802236/1804188/thumbnails/cr0042-6fb171796d
 9/21/2020 10:14:51 AM 135,98 RON
 9/26/2020 8:46:00 AM 133,98 RON
 9/27/2020 11:39:48 AM 133,98 RON
+10/4/2020 4:52:29 PM 135,98 RON

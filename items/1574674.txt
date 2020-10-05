@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-7456edc76b77b073698393e40351797c
 1574674
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge70-2oe/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1457334/1574674/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:44 PM 231,98 RON
 9/25/2020 3:47:40 PM 235,98 RON
 9/26/2020 5:47:32 PM 235,98 RON
+10/3/2020 5:54:50 PM 233,98 RON
+10/5/2020 11:20:16 AM 233,98 RON

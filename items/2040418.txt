@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032371
 2040418
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mff-procesor-intel-core-i5-9500t-22ghz-coffee-lake-8gb-ram-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/8977/2040418/thumbnails/optiplex-5070-mff-pr
 9/21/2020 12:01:59 AM 3.079,98 RON
 9/25/2020 1:58:15 PM 3.089,98 RON
 9/26/2020 4:26:34 PM 3.089,98 RON
+10/2/2020 8:16:21 PM 3.089,98 RON
+10/5/2020 10:09:52 AM 3.089,98 RON

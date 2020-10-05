@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psc-l20-bk
 2065762
     Product link    
 https://www.pcgarage.ro/huse-hdd-extern/orico/psc-l20-20x-35-quot-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4917/2065762/thumbnails/psc-l20-20x-35-quot-
 9/21/2020 8:19:22 AM 447,98 RON
 9/25/2020 10:27:07 PM 457,98 RON
 9/27/2020 10:30:01 AM 457,98 RON
+10/3/2020 9:00:11 AM 453,98 RON
+10/5/2020 1:25:25 PM 453,98 RON

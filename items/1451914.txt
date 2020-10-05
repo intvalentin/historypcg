@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca1060
 1451914
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/antena-coaxial-male-coaxial-female-15m-alb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1420862/1451914/thumbnails/antena-coaxial-ma
 9/21/2020 10:39:28 AM 11,98 RON
 9/26/2020 9:04:32 AM 11,98 RON
 9/27/2020 11:58:29 AM 11,98 RON
+10/4/2020 7:17:59 PM 11,98 RON

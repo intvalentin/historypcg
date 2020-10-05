@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rx1217rp
 1416718
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/modul-expansiune-rx1217rp/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1000151/1416718/thumbnails/modul-expansiune-
     Pret    
 9/26/2020 2:33:55 PM 12.328,34 RON
 9/27/2020 6:35:33 PM 12.328,34 RON
+10/5/2020 3:34:52 PM 12.305,13 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-54a0a3a6f209f3428b66e1d051cfbb7b
 1466026
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-z370-z370a-z370g-z460-z460a-z460g-z460m/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1192525/1466026/thumbnails/baterie-laptop-le
 9/20/2020 11:19:54 PM 239,98 RON
 9/25/2020 5:54:01 PM 245,98 RON
 9/26/2020 7:35:02 PM 245,98 RON
+10/3/2020 8:36:07 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

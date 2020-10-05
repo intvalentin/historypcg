@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer147-de3a437cbf8e50b46bd121ffa4661abd
 1463610
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-acer-aspire-5732-5732z-5732zg-5734z-5737z-5735/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1415042/1463610/thumbnails/baterie-laptop-ac
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 4:05:40 PM 235,98 RON
 9/26/2020 6:05:33 PM 235,98 RON
+10/3/2020 5:25:56 PM 233,98 RON
+10/5/2020 11:16:30 AM 233,98 RON

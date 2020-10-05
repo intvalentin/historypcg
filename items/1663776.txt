@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0108
 1663776
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-hdmi-female-1x-vga-female-plus-1x-jack-35-mm-female-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1663776/thumbnails/1x-hdmi-female-1x-vg
 9/21/2020 12:23:16 PM 57,98 RON
 9/26/2020 9:35:24 AM 57,98 RON
 9/27/2020 12:42:20 PM 57,98 RON
+10/4/2020 11:43:06 PM 63,98 RON

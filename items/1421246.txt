@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mem-dr380l-sl06-er13
 1421246
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr3-8gb-1333mhz-low-profile/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1355324/1421246/thumbnails/ecc-rdimm-ddr3-8g
 9/21/2020 12:04:36 AM 559,15 RON
 9/25/2020 2:27:48 PM 566,74 RON
 9/26/2020 4:48:49 PM 571,57 RON
+10/3/2020 8:56:40 AM 566,32 RON
+10/5/2020 10:32:38 AM 567,04 RON

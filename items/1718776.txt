@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spl00001
 1718776
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/speedlink/niala-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1703884/1718776/thumbnails/niala-black-925fa
 9/21/2020 10:05:20 AM 87,98 RON
 9/26/2020 8:41:29 AM 87,98 RON
 9/27/2020 11:35:19 AM 87,98 RON
+10/3/2020 10:21:01 PM 87,98 RON
+10/5/2020 3:04:50 PM 87,98 RON

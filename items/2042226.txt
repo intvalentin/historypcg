@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000034357
 2042226
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r240-procesor-intel-xeon-e-2224-34ghz-coffee-lake-1x-16gb-ddr4-ecc-udimm-1x-1tb-hdd-sata-72k-perc-h330/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1990366/2042226/thumbnails/poweredge-r240-pr
 9/21/2020 12:03:51 AM 6.138,46 RON
 9/25/2020 2:20:25 PM 6.156,15 RON
 9/26/2020 4:42:51 PM 6.159,69 RON
+10/2/2020 10:46:57 PM 6.155,64 RON
+10/5/2020 10:26:41 AM 6.155,64 RON

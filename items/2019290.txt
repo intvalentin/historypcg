@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-ts424+-+32g
 2019290
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr4-32gb-2400mhz-cl17-12v/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/843505/2019290/thumbnails/ecc-rdimm-ddr4-32g
 9/21/2020 12:04:27 AM 967,74 RON
 9/25/2020 2:26:19 PM 973,71 RON
 9/26/2020 4:47:20 PM 982,01 RON
+10/3/2020 8:45:41 AM 969,50 RON
+10/5/2020 10:31:09 AM 970,73 RON

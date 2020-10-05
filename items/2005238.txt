@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |az-gs
 2005238
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/arozzi/green-screen-1/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/8078/2005238/thumbnails/green-screen-16ab24b
 9/21/2020 8:10:16 AM 583,98 RON
 9/25/2020 2:41:52 PM 591,98 RON
 9/26/2020 5:02:49 PM 595,98 RON
+10/3/2020 11:16:58 AM 591,98 RON
+10/5/2020 10:48:11 AM 591,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2159b003aa
 30823
     Product link    
 https://www.pcgarage.ro/plottere/canon/imageprograf-ipf610/
@@ -8,3 +8,4 @@ Canon imagePROGRAF iPF610
 https://1.grgs.ro/images/products/1/1/30823/thumbnails/ipf610mediaonstand.jpg
     Pret    
 9/22/2020 10:30:50 AM 9.881,98 RON
+10/5/2020 8:46:52 AM 9.907,98 RON

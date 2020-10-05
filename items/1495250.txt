@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mfcj2330dwyj1
 1495250
     Product link    
 https://www.pcgarage.ro/multifunctionale/brother/mfc-j2330dw-inkjet-color-format-a3-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1152773/1495250/thumbnails/mfc-j2330dw-inkje
 9/21/2020 2:00:00 PM 1.333,98 RON
 9/26/2020 10:04:08 AM 1.323,98 RON
 9/27/2020 1:22:16 PM 1.323,98 RON
+10/5/2020 12:53:48 PM 1.337,98 RON

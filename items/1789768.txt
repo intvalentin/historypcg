@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27p1+-+gr
 1789768
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/27p1-27-inch-5-ms-grey/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/6440/1789768/thumbnails/27p1-27-inch-5-ms-gr
 9/21/2020 8:17:02 AM 923,98 RON
 9/25/2020 9:59:44 PM 927,98 RON
 9/27/2020 10:00:18 AM 927,98 RON
+10/2/2020 7:53:58 PM 925,98 RON
+10/3/2020 11:11:24 PM 925,98 RON
+10/5/2020 12:56:41 PM 925,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27ud69p-w
 1506250
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-27ud69p-27-inch-4k-5-ms-white-freesync/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1355324/1506250/thumbnails/gaming-27ud69p-27
 9/21/2020 8:17:23 AM 1.883,98 RON
 9/25/2020 10:04:10 PM 1.897,98 RON
 9/27/2020 10:05:06 AM 1.897,98 RON
+10/2/2020 8:35:16 PM 1.899,98 RON
+10/4/2020 4:32:03 PM 1.899,98 RON
+10/5/2020 1:01:11 PM 1.899,98 RON

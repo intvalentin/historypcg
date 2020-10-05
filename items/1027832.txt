@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pdt-4s-85
 1027832
     Product link    
 https://www.pcgarage.ro/cabluri-componente/orico/cablu-4x-sata-ii-f-4x-sata-ii-f-conector-90-grade-85cm-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/255443/1027832/thumbnails/cablu-4x-sata-ii-f
 9/21/2020 12:12:36 PM 43,98 RON
 9/26/2020 9:27:15 AM 43,98 RON
 9/27/2020 12:33:37 PM 43,98 RON
+10/4/2020 11:21:34 PM 43,98 RON

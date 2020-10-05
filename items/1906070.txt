@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k0q17a
 1906070
     Product link    
 https://www.pcgarage.ro/detalii-produs/1906070/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1906070/thumbnails/laserjet-enterprise-
 9/21/2020 3:02:12 PM 3.739,98 RON
 9/26/2020 10:18:02 AM 3.751,98 RON
 9/27/2020 1:35:44 PM 3.751,98 RON
+10/5/2020 4:01:15 PM 3.753,98 RON

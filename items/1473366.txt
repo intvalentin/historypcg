@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1418c030aa
 1473366
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf237w-laser-monocrom-format-a4-fax-retea-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1112123/1473366/thumbnails/i-sensys-mf237w-l
 9/21/2020 2:35:20 PM 1.305,98 RON
 9/26/2020 10:11:32 AM 1.309,98 RON
 9/27/2020 1:30:08 PM 1.309,98 RON
+10/5/2020 2:39:00 PM 1.309,98 RON

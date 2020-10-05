@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea6100
 929272
     Product link    
 https://www.pcgarage.ro/routere-wireless/linksys/ea6100-ac1200/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/929272/thumbnails/ea6100-ac1200-0a27c
 9/22/2020 11:19:55 AM 444,24 RON
 9/26/2020 2:25:03 PM 445,51 RON
 9/27/2020 6:26:43 PM 445,77 RON
+10/5/2020 2:22:37 PM 445,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10mr0054ri
 1644792
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/lenovo/10mr0054ri/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1500686/1644792/thumbnails/thinkcentre-m710-
 9/21/2020 12:03:37 AM 2.959,98 RON
 9/25/2020 2:18:58 PM 2.969,98 RON
 9/26/2020 4:39:51 PM 2.974,98 RON
+10/2/2020 10:19:17 PM 2.969,98 RON
+10/5/2020 10:23:01 AM 2.969,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell168-df772828b917fc499924f1fd9f4e0793
 1465438
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-precision-m2400-m4400mah-m4500/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1415042/1465438/thumbnails/baterie-laptop-de
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 4:00:27 PM 245,98 RON
 9/26/2020 6:00:16 PM 245,98 RON
+10/3/2020 8:31:05 PM 243,98 RON
+10/5/2020 11:21:46 AM 243,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc75
 92091
     Product link    
 https://www.pcgarage.ro/consumabile/brother/ribon-pc75/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/92091/thumbnails/pc75-cbbae6fda97846faaafc
 9/21/2020 4:07:50 PM 107,98 RON
 9/26/2020 10:35:46 AM 107,98 RON
 9/27/2020 1:53:58 PM 107,98 RON
+10/5/2020 5:38:21 PM 107,98 RON

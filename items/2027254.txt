@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p03687-425
 2027254
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-ml110-gen10-tower-45u-procesor-intel-xeon-silver-4110-21ghz-skylake-16gb-rdimm-ddr4-no-hdd-dynamic-smart-array-s100i/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1692296/2027254/thumbnails/proliant-ml110-ge
 9/21/2020 12:04:06 AM 7.957,45 RON
 9/25/2020 2:21:53 PM 7.964,96 RON
 9/26/2020 4:42:51 PM 7.978,21 RON
+10/2/2020 10:51:16 PM 7.978,05 RON
+10/5/2020 10:27:25 AM 7.977,56 RON

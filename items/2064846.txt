@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pet440ceem01.4
 2064846
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t440-tower-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-1x-16gb-ddr4-rdimm-ram-1x-480gb-ssd-sata-perc-h330-2x-495w-psu/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1236/2064846/thumbnails/poweredge-t440-2x-pr
 9/21/2020 12:03:56 AM 10.010,00 RON
 9/25/2020 2:21:09 PM 10.019,44 RON
 9/26/2020 4:42:05 PM 10.036,08 RON
+10/2/2020 10:53:44 PM 10.215,70 RON
+10/5/2020 10:27:25 AM 10.215,07 RON

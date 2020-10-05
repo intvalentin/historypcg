@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd1005fbyz
 1397284
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/western-digital/non-hot-plug-gold-sata-iii-1tb-7200rpm-64mb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1363661/1397284/thumbnails/non-hot-plug-gold
 9/21/2020 12:04:50 AM 407,26 RON
 9/25/2020 2:32:16 PM 410,41 RON
 9/26/2020 4:53:14 PM 413,92 RON
+10/3/2020 9:47:16 AM 404,45 RON
+10/5/2020 10:37:07 AM 404,96 RON

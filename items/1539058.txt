@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1127-430b04cda1878b43a42d29a50018432c
 1539058
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-latitude-3340/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1431858/1539058/thumbnails/baterie-laptop-de
 9/20/2020 11:12:10 PM 225,98 RON
 9/25/2020 3:48:25 PM 231,98 RON
 9/26/2020 5:48:17 PM 231,98 RON
+10/3/2020 5:24:00 PM 229,98 RON
+10/5/2020 11:16:29 AM 229,98 RON

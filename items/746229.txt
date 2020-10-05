@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr674a
 746229
     Product link    
 https://www.pcgarage.ro/hartie/hp/premium-plus-glossy-photo-a4-50-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/746229/thumbnails/premium-plus-glossy
 9/22/2020 10:27:39 AM 174,98 RON
 9/26/2020 1:49:42 PM 175,98 RON
 9/27/2020 4:57:38 PM 175,98 RON
+10/5/2020 8:33:07 AM 175,98 RON

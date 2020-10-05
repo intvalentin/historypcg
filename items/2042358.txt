@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg039
 2042358
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/spcgear/taste-kc13-crimson-dbl-shot-pbt/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1034/2042358/thumbnails/taste-kc13-crimson-d
 9/21/2020 8:10:07 AM 45,98 RON
 9/25/2020 2:41:07 PM 45,98 RON
 9/26/2020 5:02:05 PM 45,98 RON
+10/3/2020 11:01:21 AM 45,98 RON
+10/5/2020 10:46:41 AM 45,98 RON

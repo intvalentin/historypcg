@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0629c009aa
 1187017
     Product link    
 https://www.pcgarage.ro/imprimante/canon/pixma-g1400-inkjet-color-format-a4-ciss/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1113903/1187017/thumbnails/pixma-g1400-inkje
 9/21/2020 3:06:22 PM 673,98 RON
 9/26/2020 10:26:07 AM 675,98 RON
 9/27/2020 1:43:40 PM 675,98 RON
+10/5/2020 4:31:23 PM 675,98 RON

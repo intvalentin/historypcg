@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.vt2ee.a01
 997777
     Product link    
 https://www.pcgarage.ro/monitoare-touchscreen/acer/t232hlabmjjz-23-inch-5ms-touchscreen-black-matt/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/634551/997777/thumbnails/t232hlabmjjz-23-inc
 9/21/2020 8:17:52 AM 1.581,98 RON
 9/25/2020 10:11:39 PM 1.587,98 RON
 9/27/2020 10:13:08 AM 1.587,98 RON
+10/2/2020 9:23:04 PM 1.585,98 RON
+10/5/2020 1:09:53 PM 1.585,98 RON

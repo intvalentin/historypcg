@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tnd0005
 1823404
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-nova-mw6-dual-band-3-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1821372/1823404/thumbnails/gigabit-nova-mw6-
 9/22/2020 11:14:32 AM 752,93 RON
 9/26/2020 2:19:50 PM 769,66 RON
 9/27/2020 6:21:33 PM 769,50 RON
+10/5/2020 1:09:13 PM 763,55 RON

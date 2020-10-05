@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |y0f71a
 1899282
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/smart-tank-615-inkjet-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1202/1899282/thumbnails/smart-tank-615-inkje
 9/21/2020 2:00:00 PM 1.221,98 RON
 9/26/2020 10:02:38 AM 1.225,98 RON
 9/27/2020 1:26:56 PM 1.223,98 RON
+10/5/2020 2:36:36 PM 1.225,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcdvrr340
 1852150
     Product link    
 https://www.pcgarage.ro/camere-auto/prestigio/roadrunner-340/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1844684/1852150/thumbnails/roadrunner-340-d1
 9/26/2020 6:10:17 PM 154,98 RON
 9/26/2020 6:36:44 PM 154,98 RON
 9/28/2020 8:18:51 AM 154,98 RON
+10/5/2020 4:05:58 PM 153,98 RON

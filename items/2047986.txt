@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bh001hri
 2047986
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530-procesor-intel-pentium-gold-g5420-38ghz-coffee-lake-4gb-ram-1tb-hdd-uhd-610-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5147/2047986/thumbnails/v530-procesor-intel-
 9/21/2020 12:02:03 AM 1.299,98 RON
 9/25/2020 1:57:30 PM 1.299,98 RON
 9/26/2020 4:25:50 PM 1.299,98 RON
+10/2/2020 8:05:09 PM 1.339,98 RON
+10/5/2020 10:08:23 AM 1.339,98 RON

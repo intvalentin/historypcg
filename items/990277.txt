@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9622b010aa
 990277
     Product link    
 https://www.pcgarage.ro/scannere/canon/lide120/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986422/990277/thumbnails/lide120-8e5af293e44
 9/22/2020 10:41:35 AM 323,98 RON
 9/26/2020 2:02:55 PM 325,98 RON
 9/27/2020 5:10:11 PM 325,98 RON
+10/5/2020 10:05:33 AM 325,98 RON

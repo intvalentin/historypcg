@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4228c003aa
 2029142
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/lk-72-acumulator-pentru-tr150/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8840/2029142/thumbnails/lk-72-acumulator-pen
 9/22/2020 11:02:49 AM 821,98 RON
 9/26/2020 2:10:16 PM 823,98 RON
 9/27/2020 6:11:57 PM 821,98 RON
+10/5/2020 11:40:53 AM 823,98 RON

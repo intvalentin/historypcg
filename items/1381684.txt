@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5730b004aa
 1381684
     Product link    
 https://www.pcgarage.ro/calculatoare-de-birou/canon/f715sg-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/1381684/thumbnails/f715sg-black-694d
 9/22/2020 10:46:59 AM 57,98 RON
 9/26/2020 2:05:09 PM 57,98 RON
 9/27/2020 5:12:26 PM 57,98 RON
+10/5/2020 10:37:59 AM 57,98 RON

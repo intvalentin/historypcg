@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |12a5845
 216871
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-12a5845-black-return/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/216871/thumbnails/optra-t-high-yield-retur
 9/21/2020 10:50:45 PM 2.143,98 RON
 9/26/2020 1:13:26 PM 2.149,98 RON
 9/27/2020 4:13:56 PM 2.149,98 RON
+10/4/2020 6:59:32 PM 2.149,98 RON

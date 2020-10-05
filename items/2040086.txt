@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q27t1
 2040086
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/q27t1-27-inch-5-ms-negru-freesync-75-hz/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/2034042/2040086/thumbnails/q27t1-27-inch-5-m
 9/21/2020 8:17:11 AM 1.169,98 RON
 9/25/2020 9:56:01 PM 1.173,98 RON
 9/27/2020 9:56:18 AM 1.173,98 RON
+10/2/2020 8:07:19 PM 1.173,98 RON
+10/3/2020 11:12:51 PM 1.171,98 RON
+10/5/2020 12:58:11 PM 1.171,98 RON

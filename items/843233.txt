@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1900-24-eu0101f
 843233
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs1900-24/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/843233/thumbnails/gs1900-24-3b480770c
 9/22/2020 11:46:45 AM 680,70 RON
 9/26/2020 2:42:05 PM 683,04 RON
 9/27/2020 6:43:47 PM 683,04 RON
+10/5/2020 4:54:35 PM 682,59 RON

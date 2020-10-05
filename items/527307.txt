@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |80c2hm0
 527307
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-802h-magenta-return/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/527307/thumbnails/toner-802h-magenta-retur
 9/21/2020 10:30:27 PM 579,98 RON
 9/26/2020 12:31:39 PM 581,98 RON
 9/27/2020 4:02:03 PM 581,98 RON
+10/4/2020 4:45:42 PM 595,98 RON

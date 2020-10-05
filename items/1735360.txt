@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx-wr
 1735360
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/hyperx/wrist-rest/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1728700/1735360/thumbnails/wrist-rest-db558b
 9/21/2020 8:09:54 AM 125,98 RON
 9/25/2020 2:41:07 PM 127,98 RON
 9/26/2020 5:01:21 PM 127,98 RON
+10/3/2020 10:53:02 AM 127,98 RON
+10/5/2020 10:45:12 AM 127,98 RON

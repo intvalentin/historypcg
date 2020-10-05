@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer c1200
 1434866
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/gigabit-archer-c1200-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/1434866/thumbnails/gigabit-archer-c12
 9/22/2020 11:08:06 AM 269,00 RON
 9/26/2020 2:21:19 PM 269,00 RON
 9/27/2020 6:23:00 PM 269,00 RON
+10/5/2020 2:17:23 PM 269,00 RON

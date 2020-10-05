@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0g06021-1
 2072454
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/g-technology/g-drive-ev-raw-4tb-usb-30-black-blue/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4273/2072454/thumbnails/g-drive-ev-raw-1tb-u
 9/21/2020 8:19:14 AM 839,98 RON
 9/25/2020 10:19:41 PM 849,98 RON
 9/27/2020 10:21:58 AM 849,98 RON
+10/3/2020 8:47:21 AM 849,98 RON
+10/5/2020 1:23:54 PM 849,98 RON

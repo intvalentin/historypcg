@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |76p-01876
 1761168
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/sharepoint-server-2016-sngl-olp-nl/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1761168/thumbnails/sharepoint-server-20
 9/21/2020 1:17:08 PM 49.788,66 RON
 9/26/2020 9:47:53 AM 49.960,83 RON
 9/27/2020 12:56:02 PM 49.960,83 RON
+10/5/2020 10:07:42 AM 49.928,04 RON

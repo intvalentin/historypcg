@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m2d-u3-sv
 2008626
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/m2d-u3-m2-sata-usb-31-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2003606/2008626/thumbnails/rack-ssd-orico-m2
 9/21/2020 10:29:47 AM 81,98 RON
 9/26/2020 8:56:22 AM 83,98 RON
 9/27/2020 11:49:32 AM 83,98 RON
+10/4/2020 6:49:35 PM 81,98 RON

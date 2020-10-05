@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skp-22303
 2085738
     Product link    
 https://www.pcgarage.ro/multifunctionale/pantum/m7105dn-laser-monocrom-format-a4-duplex-retea-nfc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3354/2085738/thumbnails/m7105dn-laser-monocr
 9/21/2020 2:06:11 PM 1.305,98 RON
 9/26/2020 10:00:28 AM 1.335,98 RON
 9/27/2020 1:09:36 PM 1.335,98 RON
+10/5/2020 12:53:32 PM 1.323,98 RON

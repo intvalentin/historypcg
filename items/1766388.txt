@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc21-01210100-r3m1
 1766388
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/razer/bungee-v2-mouse-cord-management-system/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/3442/1766388/thumbnails/bungee-v2-mouse-cord
 9/21/2020 8:10:02 AM 143,98 RON
 9/25/2020 2:41:07 PM 157,98 RON
 9/26/2020 5:03:34 PM 143,98 RON
+10/3/2020 10:55:24 AM 157,98 RON
+10/5/2020 10:45:57 AM 157,98 RON

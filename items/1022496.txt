@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9623b010aa
 1022496
     Product link    
 https://www.pcgarage.ro/scannere/canon/lide-220-scanner-format-a4-usb-20/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/1022496/thumbnails/lide-220-scanner-format
 9/22/2020 10:39:26 AM 427,98 RON
 9/26/2020 2:00:01 PM 429,98 RON
 9/27/2020 5:07:57 PM 427,98 RON
+10/5/2020 10:05:53 AM 427,98 RON

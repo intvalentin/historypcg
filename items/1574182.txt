@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t6b71a
 1574182
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-mfp-m181fw-laser-color-format-a4-fax-retea-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457334/1574182/thumbnails/laserjet-pro-mfp-
 9/21/2020 2:35:20 PM 1.233,98 RON
 9/26/2020 10:10:47 AM 1.237,98 RON
 9/27/2020 1:29:18 PM 1.237,98 RON
+10/5/2020 2:37:08 PM 1.237,98 RON

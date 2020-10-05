@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skp-21444
 2020902
     Product link    
 https://www.pcgarage.ro/imprimante/pantum/p2509-monocrom-format-a4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8491/2020902/thumbnails/p2509-monocrom-forma
 9/21/2020 2:53:57 PM 465,98 RON
 9/26/2020 10:17:18 AM 467,98 RON
 9/27/2020 1:34:56 PM 467,98 RON
+10/5/2020 3:35:46 PM 565,98 RON

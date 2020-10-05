@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bdm4350uc+-+00
 1259973
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/bdm4350uc-00-425-inch-5ms-black-grey/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/750014/1259973/thumbnails/bdm4350uc-00-42-in
 9/21/2020 8:17:23 AM 2.125,98 RON
 9/25/2020 10:07:55 PM 2.131,98 RON
 9/27/2020 10:09:05 AM 2.131,98 RON
+10/2/2020 8:45:49 PM 2.303,98 RON
+10/4/2020 4:32:47 PM 2.299,98 RON
+10/5/2020 1:05:27 PM 2.299,98 RON

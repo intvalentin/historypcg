@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pb287q
 855103
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-pb287q-28-inch-4k-1ms-gtg-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/746930/855103/thumbnails/gaming-pb287q-28-in
 9/21/2020 8:17:23 AM 2.053,98 RON
 9/25/2020 10:10:09 PM 2.059,98 RON
 9/27/2020 10:11:29 AM 2.059,98 RON
+10/2/2020 8:41:44 PM 2.059,98 RON
+10/4/2020 4:32:47 PM 2.059,98 RON
+10/5/2020 1:05:26 PM 2.059,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-fe81cd0e048fb84da9e7e634f03b2445
 1466158
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-l12m4e01-4icr19-66-l12s4a02-l12s4e01/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1086319/1466158/thumbnails/baterie-laptop-le
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:38:31 PM 243,98 RON
+10/5/2020 11:23:17 AM 243,98 RON

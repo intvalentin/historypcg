@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-653d-8g
 2072318
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-653d-8gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2072318/thumbnails/ts-653d-8gb-fc911e00
 9/22/2020 11:24:10 AM 4.971,18 RON
 9/26/2020 2:27:16 PM 4.985,51 RON
 9/27/2020 6:28:54 PM 4.988,38 RON
+10/5/2020 3:14:29 PM 4.985,10 RON

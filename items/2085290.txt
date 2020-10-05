@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-sata-psy-0.3m
 2085290
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/2x-serial-ata-30-cm-power-cable/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3354/2085290/thumbnails/2x-serial-ata-30-cm-
 9/21/2020 12:10:32 PM 15,99 RON
 9/26/2020 9:25:46 AM 15,99 RON
 9/27/2020 12:32:00 PM 15,99 RON
+10/4/2020 11:07:00 PM 15,99 RON

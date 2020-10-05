@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t5d-03216
 1743736
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/office-home-and-business-2019-eng-32-bit-x64-1-pc-medialess-retail/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1736364/1743736/thumbnails/licenta-electroni
 9/21/2020 1:21:17 PM 1.239,00 RON
 9/26/2020 9:50:48 AM 1.239,00 RON
 9/27/2020 12:59:14 PM 1.239,00 RON
+10/5/2020 10:18:13 AM 1.301,06 RON

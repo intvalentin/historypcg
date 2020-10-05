@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rhva370a31bk
 1132778
     Product link    
 https://www.pcgarage.ro/rack-uri/vantec/nexstar-31-nst-370a31-bk/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1053670/1132778/thumbnails/nexstar-31-nst-37
 9/21/2020 10:31:56 AM 303,98 RON
 9/26/2020 8:57:51 AM 303,98 RON
 9/27/2020 11:51:46 AM 303,98 RON
+10/4/2020 7:05:40 PM 303,98 RON

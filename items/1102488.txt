@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hav-00060
 1102488
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/windows-10-pro-32-64-bit-engleza-fpp-usb-flash/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/815230/1102488/thumbnails/windows-10-pro-oem
 9/21/2020 1:04:29 PM 994,99 RON
 9/26/2020 9:46:25 AM 994,99 RON
 9/27/2020 12:54:23 PM 994,99 RON
+10/5/2020 9:53:21 AM 994,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jx004cri
 1754084
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/legion-c530-cube-procesor-intel-core-i3-8100-36ghz-coffee-lake-8gb-ddr4-1tb-hdd-geforce-gtx-1050-2gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1723568/1754084/thumbnails/legion-c530-cube-
 9/21/2020 12:02:24 AM 2.559,98 RON
 9/25/2020 2:01:13 PM 2.569,98 RON
 9/26/2020 4:29:31 PM 2.569,98 RON
+10/2/2020 8:10:36 PM 2.569,98 RON
+10/5/2020 10:09:08 AM 2.569,98 RON

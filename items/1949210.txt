@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg94403
 1949210
     Product link    
 https://www.pcgarage.ro/imprimante/epson/m1180-inkjet-monocrom-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1949210/thumbnails/m1180-inkjet-monocro
 9/21/2020 2:53:57 PM 1.339,98 RON
 9/26/2020 10:17:18 AM 1.345,98 RON
 9/27/2020 1:34:56 PM 1.345,98 RON
+10/5/2020 3:49:07 PM 1.343,98 RON

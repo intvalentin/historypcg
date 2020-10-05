@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-5038d-i
 1120648
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-5038d-i-twr-socket-lga1150-4x-ddr3-dimm-4x-hdd-35-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/862955/1120648/thumbnails/superserver-5038d-
 9/21/2020 12:03:56 AM 2.255,28 RON
 9/25/2020 2:23:23 PM 2.285,95 RON
 9/26/2020 4:44:20 PM 2.305,44 RON
+10/2/2020 10:40:43 PM 2.284,25 RON
+10/5/2020 10:25:56 AM 2.287,16 RON

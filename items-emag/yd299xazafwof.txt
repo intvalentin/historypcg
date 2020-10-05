@@ -7,3 +7,4 @@ Procesor AMD Ryzen Threadripper 2990WX, 4.2GHz, Socket sTR4
     Pret    
 10/1/2020 7:45:03 AM 9469
 10/2/2020 8:41:03 AM 9469
+10/4/2020 9:48:53 PM 9469

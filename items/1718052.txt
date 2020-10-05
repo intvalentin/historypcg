@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg23401
 1718052
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/l4160-inkjet-ciss-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1718052/thumbnails/l4160-inkjet-ciss
 9/21/2020 2:06:11 PM 1.293,98 RON
 9/26/2020 10:10:03 AM 1.273,98 RON
 9/27/2020 1:28:31 PM 1.273,98 RON
+10/5/2020 12:53:16 PM 1.295,98 RON

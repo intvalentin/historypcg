@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-c7ec869e0b14630272fd079fa8604b0f
 1466150
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g50-30-g50-45-g50-70-g50-70m-g50-80/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/978807/1466150/thumbnails/baterie-laptop-len
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:37:13 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

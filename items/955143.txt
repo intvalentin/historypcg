@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tze521
 955143
     Product link    
 https://www.pcgarage.ro/consumabile/brother/tze521/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/815230/955143/thumbnails/tze521-4b30f931e44b
 9/21/2020 3:47:03 PM 53,98 RON
 9/26/2020 10:32:03 AM 53,98 RON
 9/27/2020 1:49:58 PM 53,98 RON
+10/5/2020 5:23:53 PM 53,98 RON

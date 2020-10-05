@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b5l26a
 1041212
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-enterprise-m553x-format-a4-retea-duplex-wi-fi-nfc/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/782584/1041212/thumbnails/color-laserjet-ent
 9/21/2020 3:18:55 PM 4.667,98 RON
 9/26/2020 10:26:07 AM 4.683,98 RON
 9/27/2020 1:43:40 PM 4.683,98 RON
+10/5/2020 5:09:05 PM 4.679,98 RON

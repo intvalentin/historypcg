@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1000nx0333
 1120118
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-25-hdd-1tb-7200-rpm-128mb-nl-sas-12gb-s-5xx-emulation-standard-model/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4/1120118/thumbnails/exos-capacity-25-hdd-1t
 9/21/2020 12:05:13 AM 976,50 RON
 9/25/2020 2:35:14 PM 989,77 RON
 9/26/2020 4:56:14 PM 998,21 RON
+10/3/2020 9:55:34 AM 989,03 RON
+10/5/2020 10:37:52 AM 990,30 RON

@@ -12,3 +12,4 @@ Laptop Acer ConceptD 5 CN515-71 cu procesor Intel® Core™ i7-9750H pana la 4.5
 9/30/2020 9:51:56 AM 8499
 10/1/2020 10:42:46 PM 8499
 10/1/2020 11:26:59 PM 8499
+10/4/2020 9:05:47 PM 8499

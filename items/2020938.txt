@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ch96402
 2020938
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/ecotank-l14150-inkjet-color-format-a3-duplex-fax-retea-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8491/2020938/thumbnails/ecotank-l14150-inkje
 9/21/2020 2:06:11 PM 2.441,98 RON
 9/26/2020 10:01:11 AM 2.451,98 RON
 9/27/2020 1:10:21 PM 2.451,98 RON
+10/5/2020 1:07:16 PM 2.449,98 RON

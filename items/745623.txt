@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1898b
 745623
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/opaque-scrim-914-mm-x-152-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/745623/thumbnails/opaque-scrim-914-mm
 9/22/2020 10:35:11 AM 683,98 RON
 9/26/2020 1:55:37 PM 685,98 RON
 9/27/2020 5:03:32 PM 685,98 RON
+10/5/2020 9:34:49 AM 685,98 RON

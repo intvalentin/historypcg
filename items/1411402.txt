@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bio8020007
 1411402
     Product link    
 https://www.pcgarage.ro/i-love-gaming/bioworld-europe/assassins-creed-syndicate-british-flag-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1000151/1411402/thumbnails/assassins-creed-s
 9/21/2020 8:10:45 AM 53,98 RON
 9/25/2020 3:01:51 PM 53,98 RON
 9/26/2020 5:29:35 PM 53,98 RON
+10/3/2020 11:59:42 AM 53,98 RON
+10/5/2020 10:53:19 AM 53,98 RON

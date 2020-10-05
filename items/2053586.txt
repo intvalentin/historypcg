@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lxn-00013
 2053586
     Product link    
 https://www.pcgarage.ro/tastaturi/microsoft/ergonomic-business-black/
@@ -11,3 +11,5 @@ https://1.grgs.ro/images/products/1/6472/2053586/thumbnails/ergonomic-664b9ecc68
 9/21/2020 9:58:59 AM 243,98 RON
 9/26/2020 8:34:00 AM 245,98 RON
 9/27/2020 11:27:48 AM 245,98 RON
+10/3/2020 9:24:57 PM 243,98 RON
+10/5/2020 2:59:44 PM 243,98 RON

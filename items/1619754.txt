@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e1p2v004e021
 1619754
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/ml330-gold/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1605610/1619754/thumbnails/ml330-gold-c211f5
 9/22/2020 5:38:41 PM 1.919,98 RON
 9/26/2020 6:50:11 PM 1.927,98 RON
 9/28/2020 8:32:20 AM 1.927,98 RON
+10/5/2020 5:59:55 PM 1.925,98 RON

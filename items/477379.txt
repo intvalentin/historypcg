@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b207313
 477379
     Product link    
 https://www.pcgarage.ro/scannere/epson/perfection-v370-photo/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/477379/thumbnails/perfection-v370-pho
 9/22/2020 10:41:35 AM 659,98 RON
 9/26/2020 2:03:40 PM 661,98 RON
 9/27/2020 5:10:55 PM 661,98 RON
+10/5/2020 9:54:33 AM 661,98 RON

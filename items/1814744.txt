@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-hub1703-qc3
 1814744
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/raidsonic/ib-hub1703-qc3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3645/1814744/thumbnails/ib-hub1703-qc3-953cc
 9/21/2020 10:15:55 AM 261,98 RON
 9/26/2020 8:46:00 AM 263,98 RON
 9/27/2020 11:39:48 AM 263,98 RON
+10/4/2020 4:33:54 PM 261,98 RON

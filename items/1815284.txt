@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ag273qcg
 1815284
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/gaming-ag273qcg-curbat-27-inch-2k-1-ms-black-red-g-sync-165hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/3645/1815284/thumbnails/gaming-ag273qcg-curb
 9/21/2020 8:17:37 AM 3.307,98 RON
 9/25/2020 9:59:44 PM 3.319,98 RON
 9/27/2020 10:00:18 AM 3.319,98 RON
+10/2/2020 9:00:50 PM 3.319,98 RON
+10/4/2020 4:35:01 PM 3.313,98 RON
+10/5/2020 1:07:39 PM 3.313,98 RON

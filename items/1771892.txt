@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-6028r-tr_2x2630v4_8x8gb_5x12tb
 1771892
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-sys-6028r-tr-rack-2u-2x-procesor-intel-xeon-e5-2630-v4-22ghz-broadwell-8x-8gb-ddr4-rdimm-5x-12tb-hdd-lff-35-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1355434/1771892/thumbnails/superserver-sys-6
 9/21/2020 12:04:14 AM 30.291,55 RON
 9/25/2020 2:22:38 PM 30.965,07 RON
 9/26/2020 4:43:35 PM 30.958,42 RON
+10/3/2020 8:25:39 AM 30.719,62 RON
+10/5/2020 10:28:53 AM 30.719,62 RON

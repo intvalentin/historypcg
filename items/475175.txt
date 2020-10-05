@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwr-730
 475175
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/dwr-730/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/475175/thumbnails/dwr-730-a8ec3dae4ba
 9/22/2020 11:17:46 AM 178,99 RON
 9/26/2020 2:25:48 PM 179,61 RON
 9/27/2020 6:27:28 PM 179,61 RON
+10/5/2020 2:11:31 PM 179,49 RON

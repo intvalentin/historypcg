@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9em-00652
 1761172
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2019-standard-1-licenta-16-core-nl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1153/1761172/thumbnails/server-2019-standard
 9/21/2020 1:15:07 PM 5.847,79 RON
 9/26/2020 9:47:53 AM 5.868,01 RON
 9/27/2020 12:56:02 PM 5.868,01 RON
+10/5/2020 10:04:46 AM 5.864,16 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru21491
 1502398
     Product link    
 https://www.pcgarage.ro/adaptoare/trust/1x-usb-31-tip-c-male-1x-rj45-female/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1190677/1502398/thumbnails/1x-usb-31-tip-c-m
 9/21/2020 12:23:16 PM 95,98 RON
 9/26/2020 9:31:41 AM 95,98 RON
 9/27/2020 12:38:22 PM 95,98 RON
+10/4/2020 11:50:00 PM 95,98 RON

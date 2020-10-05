@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc-186-ml12
 208085
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/cablu-alimentare-pc-186-ml12/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/208085/thumbnails/cablu-alimentare-pc-186-
 9/21/2020 12:08:28 PM 15,98 RON
 9/26/2020 9:28:43 AM 17,98 RON
 9/27/2020 12:35:10 PM 17,98 RON
+10/4/2020 10:57:39 PM 17,98 RON

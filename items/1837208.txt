@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |displayport(m) - hdmi(f)
 1837208
     Product link    
 https://www.pcgarage.ro/adaptoare/lanberg/1x-displayport-male-1x-hdmi-female-5/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3582/1837208/thumbnails/1x-displayport-male-
 9/21/2020 12:33:38 PM 43,98 RON
 9/26/2020 9:34:39 AM 43,98 RON
 9/27/2020 12:41:33 PM 43,98 RON
+10/5/2020 8:08:27 AM 43,98 RON

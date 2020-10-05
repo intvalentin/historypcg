@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf232a
 1462886
     Product link    
 https://www.pcgarage.ro/consumabile/hp/drum-32a/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1190677/1462886/thumbnails/drum-32a-f435f135
 9/21/2020 3:25:09 PM 471,98 RON
 9/26/2020 10:31:19 AM 465,98 RON
 9/27/2020 1:49:10 PM 465,98 RON
+10/5/2020 6:00:57 PM 471,98 RON

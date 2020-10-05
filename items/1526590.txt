@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asgum-002
 1526590
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/sportsman-mount/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1434070/1526590/thumbnails/sportsman-mount-c
 9/22/2020 5:35:26 PM 419,00 RON
 9/26/2020 6:42:44 PM 419,00 RON
 9/28/2020 8:24:53 AM 419,00 RON
+10/5/2020 5:22:04 PM 419,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-atjj
 2042702
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sata-iii-1tb-hdd-35-inch/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1034/2042702/thumbnails/hot-plug-sata-iii-4t
 9/21/2020 12:04:50 AM 923,30 RON
 9/25/2020 2:30:02 PM 925,96 RON
 9/26/2020 4:51:03 PM 926,49 RON
+10/3/2020 9:14:51 AM 925,88 RON
+10/5/2020 10:34:53 AM 925,88 RON

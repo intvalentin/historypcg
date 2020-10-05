@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xt8(w-2-pk)
 2040026
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-zenwifi-ax-xt8-white-tri-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2040026/thumbnails/gigabit-zenwifi-a
 9/22/2020 11:11:19 AM 2.769,12 RON
 9/26/2020 2:17:36 PM 2.776,33 RON
 9/27/2020 6:19:19 PM 2.777,93 RON
+10/5/2020 1:20:42 PM 2.444,99 RON

@@ -7,3 +7,4 @@ Procesor Intel® Core™ i9-9900 Coffee Lake, 3.10GHz, 16MB, Socket 1151 - Chips
     Pret    
 10/1/2020 7:47:12 AM 2171
 10/2/2020 8:41:03 AM 2290
+10/4/2020 9:49:42 PM 2290

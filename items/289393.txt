@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr648a
 289393
     Product link    
 https://www.pcgarage.ro/plottere/hp/designjet-t790-eprinter-24-inch-hdd-160gb/
@@ -8,3 +8,4 @@ HP Designjet T790 ePrinter 24 inch HDD 160GB
 https://3.grgs.ro/images/products/1/4/289393/thumbnails/designjet-t790-eprinter-24-inch-hdd-160gb-760de220db44a32a715e4eaae9d25e6c.jpg
     Pret    
 9/22/2020 10:30:50 AM 11.359,98 RON
+10/5/2020 8:47:55 AM 11.389,98 RON

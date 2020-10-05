@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t699700
 1928738
     Product link    
 https://www.pcgarage.ro/consumabile/epson/maintenance-box-c13t699700/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1928738/thumbnails/maintenance-box-c13t
 9/21/2020 3:49:08 PM 157,98 RON
 9/26/2020 10:29:50 AM 157,98 RON
 9/27/2020 1:47:38 PM 157,98 RON
+10/5/2020 5:43:44 PM 157,98 RON

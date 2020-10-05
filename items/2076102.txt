@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0515c109aa
 2076102
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mg3650s-white-inkjet-color-format-a4-duplex-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4525/2076102/thumbnails/pixma-mg3650s-white-
 9/21/2020 2:27:02 PM 353,98 RON
 9/26/2020 10:05:36 AM 355,98 RON
 9/27/2020 1:23:45 PM 355,98 RON
+10/5/2020 1:28:35 PM 355,98 RON

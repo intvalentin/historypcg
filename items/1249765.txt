@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shu027-rd
 1249765
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/ssk/ssh-shu027-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1249765/thumbnails/ssh-shu027-red-6f
 9/21/2020 10:17:00 AM 17,98 RON
 9/26/2020 8:49:42 AM 19,98 RON
 9/27/2020 11:43:32 AM 19,98 RON
+10/4/2020 4:37:46 PM 19,98 RON

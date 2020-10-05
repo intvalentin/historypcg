@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b226401
 1806696
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-530-format-a4-usb-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4338/1806696/thumbnails/ds-530-format-a4-usb
 9/22/2020 10:40:31 AM 1.975,98 RON
 9/26/2020 1:59:17 PM 1.983,98 RON
 9/27/2020 5:07:12 PM 1.983,98 RON
+10/5/2020 10:00:11 AM 1.979,98 RON

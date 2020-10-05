@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u2417h-05
 2043142
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/ultrasharp-u2417h-05-238-inch-6ms-argintiu-60hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/746930/2043142/thumbnails/u2417h-238-inch-6m
 9/21/2020 8:17:07 AM 1.093,98 RON
 9/25/2020 9:55:16 PM 1.103,98 RON
 9/27/2020 9:55:29 AM 1.103,98 RON
+10/2/2020 8:03:15 PM 1.105,98 RON
+10/3/2020 11:12:08 PM 1.105,98 RON
+10/5/2020 12:57:27 PM 1.105,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10qg0030ri
 1777004
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/195-v310z-hd-plus-procesor-pentium-g4560-35ghz-kaby-lake-4gb-1tb-hdd-gma-hd-610-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/761/1777004/thumbnails/195-v310z-hd-plus-pro
 9/21/2020 12:02:51 AM 3.149,98 RON
 9/25/2020 2:04:10 PM 3.149,98 RON
 9/26/2020 4:32:28 PM 3.149,98 RON
+10/2/2020 8:57:02 PM 3.149,98 RON
+10/5/2020 10:15:36 AM 3.149,98 RON

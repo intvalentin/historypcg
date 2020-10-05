@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90nb0000-p00160
 1730704
     Product link    
 https://www.pcgarage.ro/docking-stations/asus/mini-dock-usb-c-1/
@@ -8,3 +8,5 @@ ASUS Mini Dock, 1x USB-C, 1x USB 3.0, 1x HDMI suport 4K
 https://5.grgs.ro/images/products/1/1723568/1730704/thumbnails/mini-dock-usb-c-189fa9a67b9718f6ba106c77bb49cab6.jpeg
     Pret    
 9/20/2020 11:39:43 PM 249,98 RON
+10/3/2020 8:46:57 PM 250,98 RON
+10/5/2020 11:28:52 AM 250,98 RON

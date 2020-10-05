@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |do3070sffi391008gb256gbw3y-05
 2064830
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-sff-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ram-256-gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1960570/2064830/thumbnails/optiplex-3070-sff
 9/21/2020 12:02:07 AM 2.789,98 RON
 9/25/2020 1:55:19 PM 2.839,98 RON
 9/26/2020 4:23:38 PM 2.819,98 RON
+10/2/2020 7:35:57 PM 2.789,98 RON
+10/2/2020 8:11:27 PM 2.789,98 RON
+10/5/2020 10:09:08 AM 2.789,98 RON

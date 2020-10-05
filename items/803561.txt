@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0a36407
 803561
     Product link    
 https://www.pcgarage.ro/mouse/lenovo/thinkpad-laser-bluetooth/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/472405/803561/thumbnails/thinkpad-laser-blue
 9/21/2020 8:22:46 AM 165,98 RON
 9/26/2020 8:23:31 AM 165,98 RON
 9/27/2020 11:17:18 AM 167,98 RON
+10/3/2020 5:53:42 PM 165,98 RON
+10/5/2020 2:44:41 PM 165,98 RON

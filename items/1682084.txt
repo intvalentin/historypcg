@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-001064
 1682084
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/c525/
@@ -9,3 +9,5 @@ https://2.grgs.ro/images/products/1/1664836/1682084/thumbnails/c525-bf37b06f3f84
     Pret    
 9/26/2020 8:42:58 AM 281,98 RON
 9/27/2020 11:36:48 AM 281,98 RON
+10/3/2020 10:32:37 PM 281,98 RON
+10/5/2020 3:06:31 PM 281,98 RON

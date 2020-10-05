@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0d7453
 241329
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a0d7453-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/241329/thumbnails/toner-cyan-tn-315c-a0d74
 9/22/2020 10:15:52 AM 1.893,98 RON
 9/26/2020 1:42:20 PM 1.887,98 RON
 9/27/2020 4:50:16 PM 1.887,98 RON
+10/4/2020 11:25:30 PM 1.899,98 RON

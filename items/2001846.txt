@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d340mc-0g5400030d
 2001846
     Product link    
 https://www.pcgarage.ro/sisteme-brand/asus/d340mc-procesor-intel-pentium-g5400-37ghz-coffee-lake-4gb-ddr4-256gb-ssd-uhd-610-endless-os/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8486/2001846/thumbnails/d340mc-procesor-inte
 9/21/2020 12:02:03 AM 1.619,98 RON
 9/25/2020 1:56:02 PM 1.629,98 RON
 9/26/2020 4:24:21 PM 1.629,98 RON
+10/2/2020 7:30:30 PM 1.629,98 RON
+10/5/2020 10:04:36 AM 1.629,98 RON

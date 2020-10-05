@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7700ys
 217003
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c7700ys-yellow-return/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/217003/thumbnails/yellow-return-program-pr
 9/21/2020 10:46:27 PM 1.345,98 RON
 9/26/2020 1:10:28 PM 1.349,98 RON
 9/27/2020 4:10:58 PM 1.349,98 RON
+10/4/2020 6:18:12 PM 1.347,98 RON

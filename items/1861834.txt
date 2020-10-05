@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cf39401
 1861834
     Product link    
 https://www.pcgarage.ro/imprimante/epson/lq-590ii-matriciala-monocrom-format-a4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1861834/thumbnails/lq-590iin-matriciala
 9/21/2020 3:14:46 PM 2.565,98 RON
 9/26/2020 10:23:54 AM 2.573,98 RON
 9/27/2020 1:41:18 PM 2.573,98 RON
+10/5/2020 4:57:29 PM 2.573,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |228-11477
 1982750
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/sql-server-standard-2019-sngl-olp-nl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/1982750/thumbnails/sql-server-standa
 9/21/2020 1:15:07 PM 5.402,77 RON
 9/26/2020 9:47:53 AM 5.421,46 RON
 9/27/2020 12:56:01 PM 5.421,46 RON
+10/5/2020 10:04:30 AM 5.417,90 RON

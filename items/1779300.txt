@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-5xp
 1779300
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-edgeswitch-5x-60w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1779300/thumbnails/gigabit-edgeswitch-5x
 9/22/2020 11:40:17 AM 431,08 RON
 9/26/2020 2:38:23 PM 520,13 RON
 9/27/2020 6:40:47 PM 520,02 RON
+10/5/2020 4:43:48 PM 431,08 RON

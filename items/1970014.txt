@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0dx0042ri
 1970014
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-730s-fhd-touch-procesor-intel-core-i5-8250u-16ghz-kaby-lake-r-16gb-ddr4-512gb-ssd-plus-1tb-hdd-radeon-530-2gb-win-10-home/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/753/1970014/thumbnails/238-ideacentre-730s-f
 9/21/2020 12:03:15 AM 5.819,98 RON
 9/25/2020 2:13:03 PM 5.829,98 RON
 9/26/2020 4:33:57 PM 5.839,98 RON
+10/2/2020 9:32:36 PM 5.839,98 RON
+10/5/2020 10:19:19 AM 5.839,98 RON

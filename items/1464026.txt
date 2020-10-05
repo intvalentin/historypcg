@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus141-dd6c29007baecd7da7cdd381a95d46e6
 1464026
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-k62f-k62j-k62jr/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1431858/1464026/thumbnails/baterie-laptop-as
 9/20/2020 11:11:46 PM 219,98 RON
 9/25/2020 4:04:56 PM 223,98 RON
 9/26/2020 6:04:48 PM 223,98 RON
+10/3/2020 4:54:44 PM 221,98 RON
+10/5/2020 11:13:28 AM 221,98 RON

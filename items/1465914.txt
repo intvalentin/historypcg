@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo108-d782603268efb876d82e5c549318d562
 1465914
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-3000-f50-3000-y410/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1152773/1465914/thumbnails/baterie-laptop-le
 9/20/2020 11:12:00 PM 219,98 RON
 9/25/2020 3:59:42 PM 223,98 RON
 9/26/2020 5:59:31 PM 223,98 RON
+10/3/2020 5:06:25 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

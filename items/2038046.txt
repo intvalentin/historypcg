@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p11049-421
 2038046
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-ml350-gen10-tower-4u-procesor-intel-xeon-bronze-3204-19ghz-cascade-lake-16gb-rdimm-no-hdd-4x-lff-smart-array-s100i/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1236/2038046/thumbnails/proliant-ml350-gen10
 9/21/2020 12:04:06 AM 7.621,95 RON
 9/25/2020 2:21:53 PM 7.629,14 RON
 9/26/2020 4:42:51 PM 7.641,80 RON
+10/2/2020 10:49:42 PM 7.641,64 RON
+10/5/2020 10:26:41 AM 7.641,18 RON

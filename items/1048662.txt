@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad0008
 1048662
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/sata-male-ide-female-bidirectional/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/853128/1048662/thumbnails/sata-male-ide-fema
 9/21/2020 12:19:08 PM 51,98 RON
 9/26/2020 9:33:10 AM 51,98 RON
 9/27/2020 12:39:56 PM 51,98 RON
+10/4/2020 11:41:22 PM 51,98 RON

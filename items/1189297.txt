@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j8030a
 1189297
     Product link    
 https://www.pcgarage.ro/accesorii-printing/hp/jetdirect-3000w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/1189297/thumbnails/jetdirect-3000w-a
 9/22/2020 10:52:15 AM 271,98 RON
 9/26/2020 2:10:16 PM 271,98 RON
 9/27/2020 6:11:57 PM 271,98 RON
+10/5/2020 11:02:25 AM 271,98 RON

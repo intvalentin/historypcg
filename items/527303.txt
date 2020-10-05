@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |80c0h40
 527303
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-800h4-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/527303/thumbnails/toner-800h4-yellow-7ec84
 9/21/2020 10:32:34 PM 755,98 RON
 9/26/2020 12:31:39 PM 759,98 RON
 9/27/2020 4:02:03 PM 757,98 RON
+10/4/2020 4:56:51 PM 757,98 RON

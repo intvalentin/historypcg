@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ce31401
 1022016
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/l850-inkjet-ciss-color-format-a4-scanner/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/1022016/thumbnails/l850-inkjet-ciss-c
 9/21/2020 2:06:11 PM 1.769,98 RON
 9/26/2020 10:04:52 AM 1.775,98 RON
 9/27/2020 1:23:00 PM 1.775,98 RON
+10/5/2020 12:59:45 PM 1.773,98 RON

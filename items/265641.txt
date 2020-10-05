@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0tm350
 265641
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a0tm350-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/265641/thumbnails/toner-tn-613m-30k-d52b00
 9/22/2020 10:14:48 AM 379,98 RON
 9/26/2020 1:41:35 PM 373,98 RON
 9/27/2020 4:49:31 PM 373,98 RON
+10/4/2020 11:14:10 PM 375,98 RON

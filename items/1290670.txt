@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx80660e52603v4s 949005
 1290670
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-hexa-core-e5-2603-v4-170ghz-box/
@@ -8,3 +8,5 @@ Intel Xeon Hexa-Core E5-2603 v4 1.70GHz, box
 https://4.grgs.ro/images/products/1/480523/1290670/thumbnails/xeon-hexa-core-e5-2609-v3-19ghz-box-b7012ed03958228d533c1d7a2332221d.jpg
     Pret    
 9/21/2020 12:04:21 AM 1.309,19 RON
+10/3/2020 8:33:53 AM 1.327,69 RON
+10/5/2020 10:29:39 AM 1.327,69 RON

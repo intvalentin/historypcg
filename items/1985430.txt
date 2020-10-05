@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h30-05830
 1985430
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/licenta-electronica-project-professional-2019-single-language-olp-nl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1977958/1985430/thumbnails/licenta-electroni
 9/21/2020 1:23:20 PM 6.275,67 RON
 9/26/2020 9:50:04 AM 6.297,37 RON
 9/27/2020 12:58:23 PM 6.297,37 RON
+10/5/2020 11:03:07 AM 6.293,24 RON

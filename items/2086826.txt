@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vrayn3dsmp
 2086826
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/chaosgroup/v-ray-next-pentru-3ds-max/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7008/2086826/thumbnails/v-ray-next-pentru-rh
     Pret    
 9/26/2020 9:58:59 AM 6.031,59 RON
 9/27/2020 1:08:01 PM 6.031,59 RON
+10/5/2020 12:14:33 PM 6.040,68 RON

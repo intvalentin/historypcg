@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |15g031m
 216985
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-15g031m-magenta/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/216985/thumbnails/magenta-print-cartridge-
 9/21/2020 10:49:41 PM 1.685,98 RON
 9/26/2020 1:11:57 PM 1.691,98 RON
 9/27/2020 4:13:11 PM 1.691,98 RON
+10/4/2020 6:52:16 PM 1.691,98 RON

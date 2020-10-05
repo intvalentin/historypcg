@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod270a3
 1628546
     Product link    
 https://www.pcgarage.ro/hartie/kodak/a3-photo-ultra-premium-glossy-20-coli/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/3207/1628546/thumbnails/a3-photo-ultra-premi
     Pret    
 9/26/2020 1:45:59 PM 49,98 RON
 9/27/2020 4:53:56 PM 49,98 RON
+10/5/2020 12:01:18 AM 49,98 RON

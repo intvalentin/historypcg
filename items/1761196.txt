@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9em-00653
 1761196
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2019-standard-1-licenta-2-core-olp-nl/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1153/1761196/thumbnails/server-2019-standard
 9/21/2020 1:15:07 PM 739,78 RON
 9/26/2020 9:47:53 AM 742,33 RON
 9/27/2020 12:56:02 PM 742,33 RON
+10/5/2020 10:01:45 AM 741,85 RON

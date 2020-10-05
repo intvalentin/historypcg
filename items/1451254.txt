@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stel4000200
 1451254
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-hub-4tb-usb-30-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1052635/1451254/thumbnails/backup-plus-hub-6
 9/21/2020 8:18:10 AM 469,98 RON
 9/25/2020 10:18:57 PM 479,98 RON
 9/27/2020 10:21:10 AM 479,98 RON
+10/2/2020 10:23:43 PM 479,98 RON
+10/5/2020 1:16:28 PM 519,98 RON

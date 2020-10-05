@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v222uak-ba056d
 1978178
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/v222uak-215-inch-fhd-procesor-intel-i5-8250u-16ghz-kaby-lake-r-8gb-ddr4-256-gb-ssd-gma-uhd-620-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/5664/1978178/thumbnails/215-quot-v222uak-fhd
 9/21/2020 12:02:48 AM 2.869,98 RON
 9/25/2020 2:04:10 PM 2.869,98 RON
 9/26/2020 4:32:28 PM 2.869,98 RON
+10/2/2020 8:54:22 PM 2.869,98 RON
+10/5/2020 10:14:53 AM 2.869,98 RON

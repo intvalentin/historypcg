@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eco500
 281327
     Product link    
 https://www.pcgarage.ro/mouse/gigabyte/eco500/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4/281327/thumbnails/eco500-d2416abe10ca0b750
 9/21/2020 8:24:06 AM 113,98 RON
 9/26/2020 8:33:15 AM 115,98 RON
 9/27/2020 11:27:03 AM 115,98 RON
+10/3/2020 8:46:13 PM 115,98 RON
+10/5/2020 2:55:17 PM 115,98 RON

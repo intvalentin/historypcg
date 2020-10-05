@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-431p
 1435238
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-431p/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088254/1435238/thumbnails/ts-431p-50bc531c5
 9/22/2020 11:25:14 AM 1.489,31 RON
 9/26/2020 2:32:28 PM 1.493,60 RON
 9/27/2020 6:34:05 PM 1.494,47 RON
+10/5/2020 2:59:02 PM 1.493,48 RON

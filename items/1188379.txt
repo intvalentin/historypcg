@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9490b002aa
 1188379
     Product link    
 https://www.pcgarage.ro/calculatoare-de-birou/canon/ls-123k-green/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1088254/1188379/thumbnails/ls-123k-green-75b
 9/22/2020 10:46:59 AM 61,98 RON
 9/26/2020 2:05:09 PM 61,98 RON
 9/27/2020 5:12:26 PM 61,98 RON
+10/5/2020 10:34:55 AM 61,98 RON

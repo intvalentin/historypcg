@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dop3070i581umaubu
 2047910
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-8-gb-ram-1tb-hdd-uhd-630-linux/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8977/2047910/thumbnails/optiplex-3070-mt-pro
 9/21/2020 12:02:24 AM 2.589,98 RON
 9/25/2020 1:57:30 PM 2.589,98 RON
 9/26/2020 4:25:50 PM 2.599,98 RON
+10/5/2020 10:06:11 AM 2.689,98 RON

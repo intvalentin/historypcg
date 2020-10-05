@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-wdr3600
 473999
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/tl-wdr3600-n600-dual-band-gigabit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/473999/thumbnails/tl-wdr3600-7a345e0fe9662
 9/22/2020 11:18:51 AM 345,91 RON
 9/26/2020 2:25:48 PM 351,36 RON
 9/27/2020 6:27:28 PM 351,36 RON
+10/5/2020 2:20:54 PM 348,65 RON

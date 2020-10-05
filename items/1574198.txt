@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st12000nm0007
 1574198
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-12tb-7200rpm-256mb-6gb-s-sata-iii/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1469758/1574198/thumbnails/exos-capacity-12t
 9/21/2020 12:05:23 AM 2.109,36 RON
 9/25/2020 2:34:30 PM 2.138,04 RON
 9/26/2020 4:55:30 PM 2.156,27 RON
+10/3/2020 10:11:42 AM 2.136,44 RON
+10/5/2020 10:40:06 AM 2.139,17 RON

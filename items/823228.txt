@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |musg-001-b
 823228
     Product link    
 https://www.pcgarage.ro/mouse/gembird/musg-001-blue/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2/823228/thumbnails/musg-001-blue-cb09eeac78
 9/21/2020 8:23:03 AM 21,98 RON
 9/26/2020 8:32:30 AM 21,98 RON
 9/27/2020 11:25:33 AM 21,98 RON
+10/3/2020 6:54:33 PM 21,98 RON
+10/5/2020 2:48:14 PM 21,98 RON

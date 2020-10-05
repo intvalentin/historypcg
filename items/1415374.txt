@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm8066201935807
 1415374
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1235l-v5-2ghz/
@@ -8,3 +8,5 @@ Intel Xeon Quad-Core E3-1235L v5 2GHz tray
 https://3.grgs.ro/images/products/1/3/1415374/thumbnails/xeon-quad-core-e3-1241-v3-35ghz-box-58aec20bf57eff9d205ab13f48a27200.jpg
     Pret    
 9/21/2020 12:04:21 AM 1.417,58 RON
+10/3/2020 8:35:25 AM 1.437,61 RON
+10/5/2020 10:30:23 AM 1.437,61 RON

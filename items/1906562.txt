@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3110c009aa
 1906562
     Product link    
 https://www.pcgarage.ro/imprimante/canon/pixma-gm2040-inkjet-monocrom-format-a4-ciss-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1906562/thumbnails/pixma-gm2040-inkj
 9/21/2020 2:56:01 PM 703,98 RON
 9/26/2020 10:18:02 AM 707,98 RON
 9/27/2020 1:35:44 PM 705,98 RON
+10/5/2020 3:37:40 PM 705,98 RON

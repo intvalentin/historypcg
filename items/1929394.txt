@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs752tp-200eus
 1929394
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-gs752tp-200eus/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1929394/thumbnails/gs752tp-200eus-061b2
 9/22/2020 11:53:14 AM 2.840,61 RON
 9/26/2020 2:45:48 PM 2.830,90 RON
 9/27/2020 6:47:29 PM 2.830,90 RON
+10/5/2020 6:11:43 PM 2.825,81 RON

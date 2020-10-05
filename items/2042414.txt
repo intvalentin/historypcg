@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dopui716512ubu
 2042414
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/dell/optiplex-7070-uff-procesor-intel-core-i7-8565u-18ghz-whiskey-lake-16gb-ram-512gb-ssd-uhd-graphics-linux/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2034042/2042414/thumbnails/optiplex-7070-uff
 9/21/2020 12:03:33 AM 5.599,98 RON
 9/25/2020 2:16:45 PM 5.604,98 RON
 9/26/2020 4:37:35 PM 5.609,98 RON
+10/2/2020 10:09:39 PM 4.459,98 RON
+10/5/2020 10:22:16 AM 4.459,98 RON

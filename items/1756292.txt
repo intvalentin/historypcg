@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1474c001aa
 1756292
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf735cx-laser-color-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1756292/thumbnails/i-sensys-mf735cx-las
 9/21/2020 2:41:34 PM 2.761,98 RON
 9/26/2020 10:09:18 AM 2.769,98 RON
 9/27/2020 1:27:43 PM 2.769,98 RON
+10/5/2020 3:01:59 PM 2.767,98 RON

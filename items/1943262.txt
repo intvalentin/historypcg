@@ -1,4 +1,4 @@
-    Cod    
+    Cod    | is01zzcsn1205den
 1943262
     Product link    
 https://www.pcgarage.ro/securitate/bitdefender/internet-security-2020-5-dispozitive-1-an-licenta-noua-retail-box/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1943262/thumbnails/internet-security-20
 9/21/2020 1:29:31 PM 133,33 RON
 9/26/2020 9:54:31 AM 154,57 RON
 9/27/2020 1:03:18 PM 154,57 RON
+10/5/2020 11:21:02 AM 154,47 RON

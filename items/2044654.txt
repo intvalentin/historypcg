@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |346p1crh+-+00
 2044654
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/346p1crh-curbat-34-inch-5-ms-negru-hdr-100-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1034/2044654/thumbnails/346p1crh-curbat-34-i
 9/21/2020 8:17:32 AM 2.695,98 RON
 9/25/2020 9:55:16 PM 2.701,98 RON
 9/27/2020 9:55:29 AM 2.703,98 RON
+10/2/2020 8:52:21 PM 2.701,98 RON
+10/4/2020 4:34:16 PM 2.701,98 RON
+10/5/2020 1:06:11 PM 2.701,98 RON

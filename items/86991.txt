@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |license pack (4)
 86991
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/license-pack-4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/86991/thumbnails/license-pack-4-1c9bf7cabe
 9/22/2020 11:31:40 AM 1.089,04 RON
 9/26/2020 2:33:55 PM 1.092,15 RON
 9/27/2020 6:35:33 PM 1.092,79 RON
+10/5/2020 3:32:44 PM 1.107,67 RON

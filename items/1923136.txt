@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2986c006aa
 1923136
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts6250-black-inkjet-color-format-a4-duplex-wi-fi-bluetooth/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8629/1923136/thumbnails/pixma-ts6250-black-i
 9/21/2020 2:29:07 PM 577,98 RON
 9/26/2020 10:07:49 AM 579,98 RON
 9/27/2020 1:26:06 PM 579,98 RON
+10/5/2020 2:14:01 PM 579,98 RON

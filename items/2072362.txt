@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dop3070i78512umawp
 2072362
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mt-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ram-512gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1261/2072362/thumbnails/optiplex-3070-tower-
 9/21/2020 12:02:11 AM 4.399,98 RON
 9/25/2020 1:57:30 PM 4.399,98 RON
 9/26/2020 4:25:49 PM 4.409,98 RON
+10/2/2020 8:27:58 PM 4.569,98 RON
+10/5/2020 10:10:36 AM 4.569,98 RON

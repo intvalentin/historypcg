@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ab-dpm-vgaf-02
 1852946
     Product link    
 https://www.pcgarage.ro/adaptoare/gembird/1x-displayport-male-1x-vga-female-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848774/1852946/thumbnails/1x-displayport-ma
 9/21/2020 12:31:33 PM 39,98 RON
 9/26/2020 9:34:39 AM 41,98 RON
 9/27/2020 12:41:33 PM 41,98 RON
+10/5/2020 8:07:37 AM 41,98 RON

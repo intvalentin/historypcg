@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod270a4
 1628538
     Product link    
 https://www.pcgarage.ro/hartie/kodak/a4-rc-photo-ultra-premium-20-coli/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/3207/1628538/thumbnails/a4-rc-ultra-premium-
     Pret    
 9/26/2020 1:45:59 PM 49,98 RON
 9/27/2020 4:53:56 PM 49,98 RON
+10/5/2020 12:01:02 AM 49,98 RON

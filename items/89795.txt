@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce710a
 89795
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-professional-cp5225-laser-color-format-a3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/89795/thumbnails/color-laserjet-profession
 9/21/2020 3:18:55 PM 5.713,98 RON
 9/26/2020 10:29:04 AM 5.733,98 RON
 9/27/2020 1:46:46 PM 5.733,98 RON
+10/5/2020 5:10:25 PM 5.729,98 RON

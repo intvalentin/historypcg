@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz244a
 783199
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-enterprise-m806dn-laser-monocrom-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/783199/thumbnails/laserjet-enterprise
 9/21/2020 3:21:00 PM 13.245,98 RON
 9/26/2020 10:26:52 AM 16.659,98 RON
 9/27/2020 1:38:53 PM 17.009,98 RON
+10/5/2020 4:03:47 PM 16.997,98 RON

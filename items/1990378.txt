@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90lj0080-b00520
 1990378
     Product link    
 https://www.pcgarage.ro/videoproiectoare/asus/zenbeam-e1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/1990378/thumbnails/zenbeam-e1-d5a5d32
 9/22/2020 5:35:59 PM 1.241,98 RON
 9/26/2020 6:45:43 PM 1.245,98 RON
 9/28/2020 8:27:51 AM 1.245,98 RON
+10/5/2020 5:53:41 PM 1.245,98 RON

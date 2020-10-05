@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10mr0053ri
 1523374
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/lenovo/thinkcentre-m710-tiny-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-ddr4-256gb-ssd-gma-hd-630/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1500686/1523374/thumbnails/thinkcentre-m710-
 9/21/2020 12:03:42 AM 3.349,98 RON
 9/25/2020 2:18:58 PM 3.359,98 RON
 9/26/2020 4:39:51 PM 3.359,98 RON
+10/2/2020 10:20:24 PM 3.359,98 RON
+10/5/2020 10:23:01 AM 3.359,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg240r
 1967942
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/xg240r-24-inch-1ms-negru-freesync-144-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8977/1967942/thumbnails/xg240r-24-inch-1ms-n
 9/21/2020 8:17:15 AM 1.431,98 RON
 9/25/2020 9:58:13 PM 1.435,98 RON
 9/27/2020 9:58:41 AM 1.435,98 RON
+10/2/2020 8:19:38 PM 1.435,98 RON
+10/4/2020 4:30:35 PM 1.435,98 RON
+10/5/2020 12:59:41 PM 1.435,98 RON

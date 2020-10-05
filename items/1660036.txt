@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |emc014-f
 1660036
     Product link    
 https://www.pcgarage.ro/cabluri-componente/enermax/emc014-f-2x6-plus2p-pci-e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5286/1660036/thumbnails/emc014-f-2x6-plus2p-
 9/21/2020 12:08:28 PM 17,98 RON
 9/26/2020 9:25:46 AM 17,98 RON
 9/27/2020 12:32:00 PM 17,98 RON
+10/4/2020 10:57:56 PM 17,98 RON

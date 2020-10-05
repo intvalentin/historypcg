@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mq2y2ro+-+a
 1620170
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/apple/27-quot-imac-pro-27-retina-5k-procesor-intel-xeon-w-32ghz-32gb-1tb-ssd-radeon-pro-vega-56-8gb-hbm2-macos-high-sierra/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1594546/1620170/thumbnails/27-quot-imac-pro-
 9/21/2020 12:03:23 AM 23.659,98 RON
 9/25/2020 2:15:18 PM 23.659,98 RON
 9/26/2020 4:36:10 PM 23.659,98 RON
+10/2/2020 10:00:37 PM 23.659,98 RON
+10/5/2020 10:20:47 AM 23.659,98 RON

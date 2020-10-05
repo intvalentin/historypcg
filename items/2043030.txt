@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000034409
 2043030
     Product link    
 https://www.pcgarage.ro/servere/fujitsu/primergy-tx1310-m3-procesor-intel-xeon-e3-1225-v6-33ghz-1x-16gb-udimm-ecc-ddr4-2400mhz-2x-1tb-72k-6g-sata/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1469758/2043030/thumbnails/primergy-tx1310-m
 9/21/2020 12:03:51 AM 4.362,79 RON
 9/25/2020 2:20:25 PM 4.375,36 RON
 9/26/2020 4:41:21 PM 4.377,88 RON
+10/2/2020 10:32:50 PM 4.375,00 RON
+10/5/2020 10:25:13 AM 4.375,00 RON

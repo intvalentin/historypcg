@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr16e11s8+-+4
 811084
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/valueram-ecc-udimm-ddr3-4gb-1600mhz-cl11-single-rank-x8-15v/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/2/811084/thumbnails/valueram-ecc-udimm-ddr3-
 9/21/2020 12:04:32 AM 236,80 RON
 9/25/2020 2:29:16 PM 240,03 RON
 9/26/2020 4:50:18 PM 242,07 RON
+10/3/2020 8:49:56 AM 239,84 RON
+10/5/2020 10:31:53 AM 240,14 RON

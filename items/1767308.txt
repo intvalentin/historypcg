@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-108av3-eu0101f
 1767308
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/es-108av3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1767308/thumbnails/es-108av3-5ddf569
 9/22/2020 11:39:12 AM 87,41 RON
 9/26/2020 2:39:07 PM 87,71 RON
 9/27/2020 6:40:47 PM 87,71 RON
+10/5/2020 4:06:13 PM 87,66 RON

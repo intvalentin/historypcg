@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xb7a00069
 2060798
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/thinksystem-hdd-24tb-10000rpm-sas-25-inch-512e/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6954/2060798/thumbnails/thinksystem-hdd-600g
 9/21/2020 12:04:59 AM 1.927,76 RON
 9/25/2020 2:30:01 PM 1.930,10 RON
 9/26/2020 4:51:03 PM 1.933,32 RON
+10/3/2020 9:41:26 AM 1.933,28 RON
+10/5/2020 10:36:22 AM 1.933,15 RON

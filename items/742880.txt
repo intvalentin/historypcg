@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |70c0h40
 742880
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-70c0h40-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/742880/thumbnails/toner-70c0h40-yello
 9/21/2020 10:33:36 PM 903,98 RON
 9/26/2020 12:30:10 PM 905,98 RON
 9/27/2020 4:00:34 PM 903,98 RON
+10/4/2020 5:01:35 PM 905,98 RON

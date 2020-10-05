@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m20-bk
 1503730
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/sjcam/m20-black-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469770/1503730/thumbnails/m20-black-ba7c931
 9/22/2020 5:30:51 PM 604,98 RON
 9/26/2020 6:38:14 PM 614,98 RON
 9/28/2020 8:20:22 AM 614,98 RON
+10/5/2020 4:33:05 PM 609,98 RON

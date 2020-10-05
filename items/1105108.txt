@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb169b+
 1105108
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/mb169b-plus-156-inch-14ms-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/750014/1105108/thumbnails/mb169b-plus-156-in
 9/21/2020 8:17:11 AM 1.177,98 RON
 9/25/2020 10:09:24 PM 1.181,98 RON
 9/27/2020 10:10:42 AM 1.181,98 RON
+10/2/2020 8:07:51 PM 1.181,98 RON
+10/3/2020 11:12:51 PM 1.181,98 RON
+10/5/2020 12:58:11 PM 1.181,98 RON

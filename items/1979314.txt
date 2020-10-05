@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0de00bwri
 1979314
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-520-27-inch-qhd-procesor-intel-core-i5-8400t-17ghz-coffee-lake-16gb-512gb-ssd-plus-1tb-hdd-uhd-630-win-10-home/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1505170/1979314/thumbnails/27-ideacentre-520
 9/21/2020 12:03:20 AM 6.259,98 RON
 9/25/2020 2:13:03 PM 6.259,98 RON
 9/26/2020 4:33:57 PM 6.269,98 RON
+10/2/2020 9:35:32 PM 6.269,98 RON
+10/5/2020 10:20:05 AM 6.269,98 RON

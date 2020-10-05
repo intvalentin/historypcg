@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-005153
 1502182
     Product link    
 https://www.pcgarage.ro/mouse/logitech/mx-anywhere-2s-graphite/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1420862/1502182/thumbnails/mx-anywhere-2s-gr
 9/21/2020 8:22:46 AM 349,18 RON
 9/26/2020 8:16:48 AM 349,18 RON
 9/27/2020 11:10:32 AM 349,18 RON
+10/3/2020 4:57:58 PM 349,18 RON
+10/5/2020 2:45:23 PM 349,18 RON

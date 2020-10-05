@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100n03261
 1716204
     Product link    
 https://www.pcgarage.ro/scannere/xerox/xdps-a4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1691852/1716204/thumbnails/xdps-d93a49193505
 9/22/2020 10:42:40 AM 2.027,98 RON
 9/26/2020 2:02:11 PM 2.033,98 RON
 9/27/2020 5:09:26 PM 2.035,98 RON
+10/5/2020 10:14:57 AM 2.033,98 RON

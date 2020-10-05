@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cd67301eb
 1881538
     Product link    
 https://www.pcgarage.ro/plottere/epson/surecolor-sc-t5200-ps-36-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5634/1881538/thumbnails/surecolor-sc-t5200-p
 9/22/2020 10:30:50 AM 20.419,98 RON
 9/26/2020 1:53:22 PM 20.471,98 RON
 9/27/2020 5:01:17 PM 20.483,98 RON
+10/5/2020 8:50:41 AM 20.471,98 RON

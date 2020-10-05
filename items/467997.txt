@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |14l0175e
 467997
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/cartus-210xl-cyan-return/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/467997/thumbnails/210xl-cyan-a45c5a2d32e8e
 9/21/2020 10:38:54 PM 175,98 RON
 9/26/2020 1:06:46 PM 175,98 RON
 9/27/2020 4:08:00 PM 175,98 RON
+10/4/2020 5:37:32 PM 175,98 RON

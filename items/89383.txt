@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap9572
 89383
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/apc/basic-rack-pdu-zero-u-ap9572/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/89383/thumbnails/basic-rack-pdu-zero-u-ap9
 9/21/2020 12:58:23 PM 1.943,98 RON
 9/26/2020 9:44:16 AM 1.949,98 RON
 9/27/2020 12:52:01 PM 1.951,98 RON
+10/5/2020 9:47:53 AM 1.949,98 RON

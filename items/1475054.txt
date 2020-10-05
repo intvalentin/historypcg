@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p73-07232
 1475054
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2016-standard-1-licenta-4-core-oem/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1475054/thumbnails/server-2016-stand
 9/21/2020 1:15:07 PM 936,62 RON
 9/26/2020 9:48:34 AM 957,24 RON
 9/27/2020 12:56:43 PM 957,24 RON
+10/5/2020 10:05:56 AM 949,85 RON

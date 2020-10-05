@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000034412
 2042246
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r440-procesor-intel-xeon-silver-4216-21ghz-cascade-lake-2x-32gb-rdimm-ddr4-2400mhz-2x-12tb-10k-12g-sas-hdd-h330/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1666176/2042246/thumbnails/poweredge-r440-pr
 9/21/2020 12:03:56 AM 20.990,29 RON
 9/25/2020 2:20:25 PM 21.050,78 RON
 9/26/2020 4:41:21 PM 21.062,88 RON
+10/2/2020 10:40:10 PM 21.049,05 RON
+10/5/2020 10:25:56 AM 21.049,05 RON

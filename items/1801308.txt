@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru22221
 1801308
     Product link    
 https://www.pcgarage.ro/tastaturi/trust/xalas-numeric-black/
@@ -11,3 +11,5 @@ https://1.grgs.ro/images/products/1/4338/1801308/thumbnails/xalas-numeric-black-
 9/21/2020 9:55:49 AM 41,98 RON
 9/26/2020 8:34:44 AM 41,98 RON
 9/27/2020 11:27:48 AM 41,98 RON
+10/3/2020 9:04:11 PM 41,98 RON
+10/5/2020 2:57:31 PM 41,98 RON

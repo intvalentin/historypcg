@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3gy32a
 1936922
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-managed-e67660z-color-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2554/1936922/thumbnails/laserjet-managed-e67
 9/21/2020 2:10:21 PM 25.251,98 RON
 9/26/2020 10:01:54 AM 25.339,98 RON
 9/27/2020 1:11:11 PM 25.281,98 RON
+10/5/2020 1:22:26 PM 25.321,98 RON

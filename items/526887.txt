@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3786b003ba
 526887
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-34-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/526887/thumbnails/drum-c-exv-34-black-d972
 9/21/2020 3:55:22 PM 477,98 RON
 9/26/2020 10:32:48 AM 479,98 RON
 9/27/2020 1:50:46 PM 479,98 RON
+10/5/2020 6:01:30 PM 479,98 RON

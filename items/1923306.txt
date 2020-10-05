@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1475c001aa
 1923306
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf635cx-laser-color-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1923306/thumbnails/i-sensys-mf635cx-las
 9/21/2020 2:37:25 PM 1.743,98 RON
 9/26/2020 10:07:49 AM 1.749,98 RON
 9/27/2020 1:26:06 PM 1.749,98 RON
+10/5/2020 2:49:22 PM 1.747,98 RON

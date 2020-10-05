@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-3e0505p-e
 2010702
     Product link    
 https://www.pcgarage.ro/switch-uri/hikvision/gigabit-ds-3e0505p-e/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2010702/thumbnails/gigabit-ds-3e0505p-e
 9/22/2020 11:39:12 AM 220,69 RON
 9/26/2020 2:36:53 PM 221,27 RON
 9/27/2020 6:38:33 PM 221,40 RON
+10/5/2020 4:34:30 PM 221,26 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ceb-7025s
 968457
     Product link    
 https://www.pcgarage.ro/rack-uri/chieftec/ceb-7025s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/859765/968457/thumbnails/ceb-7025s-1fc7ff94b
 9/21/2020 10:25:28 AM 119,98 RON
 9/26/2020 8:54:53 AM 123,98 RON
 9/27/2020 11:48:48 AM 123,98 RON
+10/4/2020 5:23:16 PM 121,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297583ba01a12
 1887786
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/indesign-cc-for-teams-1-user-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1887786/thumbnails/indesign-cc-for-t
 9/21/2020 1:53:54 PM 2.273,77 RON
 9/26/2020 9:58:59 AM 2.281,63 RON
 9/27/2020 1:08:01 PM 2.281,63 RON
+10/5/2020 12:11:10 PM 2.280,13 RON

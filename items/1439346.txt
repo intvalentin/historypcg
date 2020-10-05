@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |amhsm-001
 1439346
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/handlebar-seatpost-pole-mount/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1190677/1439346/thumbnails/handlebar-seatpos
 9/22/2020 5:34:54 PM 349,00 RON
 9/26/2020 6:43:31 PM 349,00 RON
 9/28/2020 8:25:38 AM 349,00 RON
+10/5/2020 5:21:33 PM 349,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |emk3203
 984132
     Product link    
 https://www.pcgarage.ro/rack-uri/enermax/emk3203/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862955/984132/thumbnails/emk3203-9c5c83fb78c
 9/21/2020 10:27:37 AM 219,98 RON
 9/26/2020 8:54:53 AM 219,98 RON
 9/27/2020 11:48:48 AM 219,98 RON
+10/4/2020 5:34:52 PM 219,98 RON

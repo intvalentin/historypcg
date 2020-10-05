@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pabu001
 1937342
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/acumulator-pabu001/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2554/1937342/thumbnails/baterie-pabu001-1e98
 9/22/2020 11:00:39 AM 467,98 RON
 9/26/2020 2:11:44 PM 469,98 RON
 9/27/2020 6:13:26 PM 467,98 RON
+10/5/2020 11:32:55 AM 469,98 RON

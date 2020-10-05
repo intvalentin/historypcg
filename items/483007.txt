@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t3h-00012
 483007
     Product link    
 https://www.pcgarage.ro/camere-web/microsoft/lifecam-hd-3000/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4/483007/thumbnails/hd-3000-bb6addee9437a663
 9/21/2020 10:08:32 AM 137,98 RON
 9/26/2020 8:43:42 AM 188,88 RON
 9/27/2020 11:37:31 AM 188,88 RON
+10/3/2020 10:30:24 PM 188,88 RON
+10/5/2020 3:05:49 PM 188,88 RON

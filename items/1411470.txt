@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6619c3-bk
 1411470
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/6619c3-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1173769/1411470/thumbnails/6619c3-black-026c
 9/21/2020 10:30:51 AM 151,98 RON
 9/26/2020 8:57:50 AM 155,98 RON
 9/27/2020 11:51:46 AM 155,98 RON
+10/4/2020 6:58:17 PM 155,98 RON

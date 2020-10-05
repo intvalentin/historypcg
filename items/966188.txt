@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sv9877b003aa
 966188
     Product link    
 https://www.pcgarage.ro/videoproiectoare/canon/lv-wx300-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/498497/966188/thumbnails/lv-wx300-white-16e0
 9/22/2020 5:39:15 PM 2.381,98 RON
 9/26/2020 6:54:35 PM 2.389,98 RON
 9/28/2020 8:36:50 AM 2.389,98 RON
+10/5/2020 6:07:43 PM 2.387,98 RON

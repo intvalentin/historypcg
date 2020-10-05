@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0310ah
 305971
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/a0310ah/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/305971/thumbnails/toner-a0310ah-black-f511
 9/22/2020 10:15:52 AM 731,98 RON
 9/26/2020 1:41:35 PM 719,98 RON
 9/27/2020 4:49:31 PM 719,98 RON
+10/4/2020 11:22:41 PM 723,98 RON

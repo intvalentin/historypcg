@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gr-010-01363-10 (virb xe)
 1083914
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/garmin/virb-xe/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/802687/1083914/thumbnails/virb-xe-be8398727e
 9/22/2020 5:30:51 PM 1.806,98 RON
 9/26/2020 6:38:14 PM 1.812,98 RON
 9/28/2020 8:20:22 AM 1.812,98 RON
+10/5/2020 4:35:49 PM 1.811,98 RON

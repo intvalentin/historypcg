@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-8-150w
 1778560
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-es-8-150w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1778560/thumbnails/gigabit-es-8-150w-3f
 9/22/2020 11:42:26 AM 1.066,07 RON
 9/26/2020 2:39:07 PM 1.066,07 RON
 9/27/2020 6:40:47 PM 1.066,07 RON
+10/5/2020 5:02:39 PM 1.066,07 RON

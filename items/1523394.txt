@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-bw-m20
 1523394
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/sj-smart-remote-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457334/1523394/thumbnails/sj-smart-remote-4
 9/22/2020 5:32:35 PM 115,11 RON
 9/26/2020 6:41:15 PM 116,93 RON
 9/28/2020 8:23:24 AM 116,93 RON
+10/5/2020 4:47:04 PM 116,02 RON

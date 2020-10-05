@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cf37401
 1881566
     Product link    
 https://www.pcgarage.ro/imprimante/epson/fx-890ii-matriciala-monocrom/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1765416/1881566/thumbnails/fx-890iin-matrici
 9/21/2020 3:16:50 PM 3.035,98 RON
 9/26/2020 10:19:27 AM 3.455,98 RON
 9/27/2020 1:36:30 PM 3.455,98 RON
+10/5/2020 4:00:43 PM 3.447,98 RON

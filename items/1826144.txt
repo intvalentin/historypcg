@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jf008fri
 1826144
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t730-tower-procesor-intel-core-i7-9700k-36ghz-coffee-lake-16gb-ddr4-512gb-ssd-geforce-rtx-2070-8gb-win-10-home/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5147/1826144/thumbnails/gaming-legion-t730-t
 9/21/2020 12:02:42 AM 9.859,98 RON
 9/25/2020 2:01:13 PM 9.869,98 RON
 9/26/2020 4:29:31 PM 9.889,98 RON
+10/2/2020 8:45:17 PM 9.889,98 RON
+10/5/2020 10:12:49 AM 9.889,98 RON

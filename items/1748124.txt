@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tvs-473e-4g
 1748124
     Product link    
 https://www.pcgarage.ro/nas/qnap/tvs-473e-4gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1737700/1748124/thumbnails/tvs-473e-4gb-ba77
 9/22/2020 11:27:24 AM 5.651,54 RON
 9/26/2020 2:30:59 PM 5.666,28 RON
 9/27/2020 6:32:34 PM 5.669,53 RON
+10/5/2020 3:15:55 PM 5.665,81 RON

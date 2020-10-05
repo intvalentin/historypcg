@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jr811.001
 2013826
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/x1226ah/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9943/2013826/thumbnails/x1226ah-34fad97a47cc
 9/22/2020 5:36:33 PM 1.761,98 RON
 9/26/2020 6:44:59 PM 1.789,98 RON
 9/28/2020 8:27:06 AM 1.791,98 RON
+10/5/2020 5:57:39 PM 1.765,98 RON

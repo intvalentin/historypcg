@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus120-d351f088be580c0a3f6fba8e654a6bb9
 1463974
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x50v-x50vl/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1155213/1463974/thumbnails/baterie-laptop-as
 9/20/2020 11:11:46 PM 219,98 RON
 9/25/2020 4:04:56 PM 223,98 RON
 9/26/2020 6:04:48 PM 223,98 RON
+10/3/2020 4:52:52 PM 221,98 RON
+10/5/2020 11:13:28 AM 221,98 RON

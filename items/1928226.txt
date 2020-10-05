@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kd25f
 1928226
     Product link    
 https://www.pcgarage.ro/monitoare-led/gigabyte/aorus-gaming-kd25f-245-inch-05-ms-black-g-sync-compatible-240hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/6622/1928226/thumbnails/aorus-gaming-kd25f-c
 9/21/2020 8:17:37 AM 2.999,99 RON
 9/25/2020 9:58:58 PM 2.167,98 RON
 9/27/2020 9:59:30 AM 2.167,98 RON
+10/2/2020 8:53:27 PM 2.745,98 RON
+10/4/2020 4:34:16 PM 2.749,98 RON
+10/5/2020 1:06:55 PM 2.749,98 RON

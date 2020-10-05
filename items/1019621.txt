@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4g-n12
 1019621
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/n300-lte/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/1019621/thumbnails/n300-lte-modem-dde
 9/22/2020 11:14:32 AM 479,36 RON
 9/26/2020 2:22:04 PM 479,36 RON
 9/27/2020 6:23:45 PM 479,36 RON
+10/5/2020 12:45:30 PM 479,36 RON

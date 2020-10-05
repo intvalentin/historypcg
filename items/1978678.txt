@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp5820i716512p2u
 1978678
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/precision-5820-tower-procesor-intel-core-i7-9800x-380ghz-skylake-16gb-ddr4-512gb-ssd-quadro-p2000-5gb-linux/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6811/1978678/thumbnails/precision-5820-tower
 9/21/2020 12:02:15 AM 10.909,98 RON
 9/25/2020 1:56:02 PM 10.919,98 RON
 9/26/2020 4:24:21 PM 10.939,98 RON
+10/2/2020 8:02:13 PM 10.939,98 RON
+10/5/2020 10:08:23 AM 10.939,98 RON

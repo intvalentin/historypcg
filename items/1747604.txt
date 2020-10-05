@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-832xu-4g
 1747604
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-832xu-4g/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1747604/thumbnails/ts-832xu-4g-bb12c
 9/22/2020 11:27:24 AM 5.160,59 RON
 9/26/2020 2:30:59 PM 5.175,45 RON
 9/27/2020 6:32:34 PM 5.178,43 RON
+10/5/2020 3:15:06 PM 5.175,02 RON

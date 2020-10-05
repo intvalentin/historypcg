@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0006
 1663040
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/vga-male-vga-female-5m-negru-3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1663040/thumbnails/vga-male-vga-female-
 9/21/2020 10:41:37 AM 45,98 RON
 9/26/2020 9:03:47 AM 45,98 RON
 9/27/2020 11:57:45 AM 45,98 RON
+10/4/2020 7:41:54 PM 57,98 RON

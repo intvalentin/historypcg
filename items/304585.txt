@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm11900
 304585
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/cablu-coaxial-coax-m-coax-f-15m-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/304585/thumbnails/cablu-coaxial-coax-m-coa
 9/21/2020 10:40:33 AM 17,98 RON
 9/26/2020 9:07:30 AM 17,98 RON
 9/27/2020 12:14:33 PM 17,98 RON
+10/4/2020 7:19:50 PM 17,98 RON

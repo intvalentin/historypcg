@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pet140ceem02.2
 2064854
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-t140-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-ecc-udimm-ram-1x-1tb-sdd-plus-1x-1tb-72k-rpm-sata-hdd-perc-h330-idrac9-basic/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1054/2064854/thumbnails/poweredge-t140-proce
 9/21/2020 12:04:01 AM 5.493,62 RON
 9/25/2020 2:21:09 PM 5.498,79 RON
 9/26/2020 4:42:05 PM 5.507,91 RON
+10/2/2020 10:45:51 PM 5.626,23 RON
+10/5/2020 10:26:41 AM 5.625,89 RON

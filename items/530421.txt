@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es1100-16p-eu0102f
 530421
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/es1100-16p/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/530421/thumbnails/es1100-16p-079e7a9615d64
 9/22/2020 11:42:26 AM 858,42 RON
 9/26/2020 2:42:50 PM 861,37 RON
 9/27/2020 6:44:31 PM 861,37 RON
+10/5/2020 4:49:40 PM 581,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n505o3070mt_u
 1967178
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-tower-procesor-intel-core-i3-9100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-linux/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1261/1967178/thumbnails/optiplex-3070-tower-
 9/21/2020 12:02:24 AM 2.119,98 RON
 9/25/2020 1:59:44 PM 2.119,98 RON
 9/26/2020 4:28:03 PM 2.119,98 RON
+10/2/2020 8:07:55 PM 2.119,98 RON
+10/5/2020 10:08:23 AM 2.119,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |272b7qubheb+-+00
 1987114
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/272b7qubheb-00-27-inch-5-ms-negru-75-hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1979534/1987114/thumbnails/272b7qubheb-00-27
 9/21/2020 8:17:27 AM 2.495,98 RON
 9/25/2020 9:56:45 PM 2.503,98 RON
 9/27/2020 9:57:05 AM 2.503,98 RON
+10/2/2020 8:48:51 PM 2.501,98 RON
+10/4/2020 4:33:32 PM 2.501,98 RON
+10/5/2020 1:06:11 PM 2.501,98 RON

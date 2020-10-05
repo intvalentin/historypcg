@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch023a
 745533
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/matte-polypropylene-914-mm-x-305-m-double-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/745533/thumbnails/matte-polypropylene
 9/22/2020 10:34:06 AM 589,98 RON
 9/26/2020 1:55:37 PM 591,98 RON
 9/27/2020 5:03:32 PM 591,98 RON
+10/5/2020 9:32:00 AM 589,98 RON

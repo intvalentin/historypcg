@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bizhub 287 + df-628 + dk-513 + tn-323 + cablu alimentare
 1749148
     Product link    
 https://www.pcgarage.ro/multifunctionale/konica-minolta/bizhub-287-laser-monocrom-format-a3-duplex-retea-plus-df-628-plus-dk-513/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1749148/thumbnails/bizhub-287-laser-mon
 9/21/2020 2:47:47 PM 12.011,98 RON
 9/26/2020 10:10:03 AM 12.053,98 RON
 9/27/2020 1:28:31 PM 12.053,98 RON
+10/5/2020 3:21:22 PM 12.045,98 RON

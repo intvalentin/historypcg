@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco147-0b33538060034bf56535ca0375627645
 1465334
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-hstnn-xb5y-j1u99aa-oa03-oa04-tpn-f112/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1415042/1465334/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:49 PM 235,98 RON
 9/25/2020 4:01:12 PM 241,98 RON
 9/26/2020 6:01:02 PM 241,98 RON
+10/3/2020 6:30:09 PM 239,98 RON
+10/5/2020 11:21:46 AM 239,98 RON

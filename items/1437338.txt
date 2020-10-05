@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |711777
 1437338
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/intellinet/7711777-9u-wall-mount-570-x-500-glass-door-negru/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1363661/1437338/thumbnails/7711777-9u-wall-m
 9/21/2020 12:05:31 AM 545,94 RON
 9/25/2020 2:36:41 PM 547,51 RON
 9/26/2020 4:57:41 PM 547,82 RON
+10/3/2020 10:19:20 AM 547,46 RON
+10/5/2020 10:41:33 AM 547,46 RON

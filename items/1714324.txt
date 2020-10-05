@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tze461
 1714324
     Product link    
 https://www.pcgarage.ro/consumabile/brother/tze461/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1703884/1714324/thumbnails/tze461-567d5e6ca3
 9/21/2020 3:49:08 PM 105,98 RON
 9/26/2020 10:31:19 AM 107,98 RON
 9/27/2020 1:49:10 PM 107,98 RON
+10/5/2020 5:37:49 PM 105,98 RON

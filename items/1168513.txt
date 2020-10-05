@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxstk2m3w64cc
 1168513
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/compute-stick-stk2m3w64cc-core-m3-6y30-900mhz-4gb-64gb-emmc-hdmi-windows-10/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/960827/1168513/thumbnails/compute-stick-stk2
 9/21/2020 12:03:28 AM 1.824,98 RON
 9/25/2020 2:17:29 PM 1.849,98 RON
 9/26/2020 4:38:19 PM 1.869,98 RON
+10/2/2020 10:05:15 PM 1.849,98 RON
+10/5/2020 10:21:32 AM 1.854,98 RON

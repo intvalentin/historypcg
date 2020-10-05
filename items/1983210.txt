@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8by24ea
 1983210
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/prodesk-400-g6-mt-procesor-intel-core-i7-8700-32ghz-coffee-lake-8gb-ddr4-1-tb-hdd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6835/1983210/thumbnails/prodesk-400-g6-mt-pr
 9/21/2020 12:02:20 AM 3.259,98 RON
 9/25/2020 1:58:59 PM 3.259,98 RON
 9/26/2020 4:27:19 PM 3.269,98 RON
+10/2/2020 8:17:11 PM 3.269,98 RON
+10/5/2020 10:09:52 AM 3.269,98 RON

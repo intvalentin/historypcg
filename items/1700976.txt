@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.jp0ee.001
 1700976
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/pe320qk-315-inch-4k-4-ms-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1692136/1700976/thumbnails/pe270k-27-inch-4k
 9/21/2020 8:17:41 AM 4.271,98 RON
 9/25/2020 10:02:41 PM 4.285,98 RON
 9/27/2020 10:03:29 AM 4.285,98 RON
+10/2/2020 9:07:09 PM 4.283,98 RON
+10/4/2020 4:35:45 PM 4.283,98 RON
+10/5/2020 1:08:24 PM 4.283,98 RON

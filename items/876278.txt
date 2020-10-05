@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb951ui-2hnd
 876278
     Product link    
 https://www.pcgarage.ro/routere-wireless/mikrotik/rb951ui-2hnd/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/876278/thumbnails/rb951ui-2hnd-47d840
 9/22/2020 11:13:28 AM 240,39 RON
 9/26/2020 2:22:04 PM 245,73 RON
 9/27/2020 6:23:45 PM 248,24 RON
+10/5/2020 12:35:51 PM 243,79 RON

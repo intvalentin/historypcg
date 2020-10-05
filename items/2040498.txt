@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000034116
 2040498
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-linux/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1261/2040498/thumbnails/optiplex-3070-tower-
 9/21/2020 12:02:03 AM 2.059,98 RON
 9/25/2020 1:55:19 PM 2.069,98 RON
 9/26/2020 4:23:38 PM 2.069,98 RON
+10/2/2020 8:07:39 PM 2.069,98 RON
+10/5/2020 10:08:23 AM 2.069,98 RON

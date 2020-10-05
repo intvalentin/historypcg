@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-hs1
 1582350
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/somic/hs1-headset-stand/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1510154/1582350/thumbnails/hs1-headset-stand
 9/21/2020 8:09:54 AM 29,99 RON
 9/25/2020 2:41:07 PM 29,99 RON
 9/26/2020 5:02:05 PM 29,99 RON
+10/3/2020 10:46:32 AM 29,99 RON
+10/5/2020 10:44:28 AM 29,99 RON

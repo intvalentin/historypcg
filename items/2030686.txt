@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10uw00g3ri
 2030686
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/v530-238-inch-fhd-ips-procesor-intel-core-i3-9100t-31ghz-coffee-lake-8gb-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6763/2030686/thumbnails/238-v530-fhd-ips-tou
 9/21/2020 12:02:51 AM 3.289,98 RON
 9/25/2020 2:12:19 PM 3.539,98 RON
 9/26/2020 4:31:44 PM 3.549,98 RON
+10/2/2020 9:17:25 PM 3.299,98 RON
+10/5/2020 10:17:49 AM 3.549,98 RON

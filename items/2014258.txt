@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg2405
 2014258
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/xg2405-238-inch-1-ms-negru-freesync-144-hz/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/2013982/2014258/thumbnails/monitor-lcd-24-qu
 9/21/2020 8:15:01 AM 1.029,99 RON
 9/25/2020 9:39:13 PM 1.029,99 RON
 9/27/2020 9:34:27 AM 1.029,99 RON
+10/2/2020 8:04:22 PM 1.129,98 RON
+10/3/2020 11:12:08 PM 1.129,98 RON
+10/5/2020 12:57:27 PM 1.129,98 RON

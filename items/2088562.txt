@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3ea21t-065
 2088562
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-mag241cv-curbat-236-inch-1-ms-negru-144-hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/7008/2088562/thumbnails/gaming-optix-mag241c
 9/21/2020 8:17:11 AM 1.285,98 RON
 9/25/2020 9:54:32 PM 1.289,98 RON
 9/27/2020 9:54:42 AM 1.289,98 RON
+10/2/2020 8:13:17 PM 1.289,98 RON
+10/3/2020 11:13:35 PM 1.289,98 RON
+10/5/2020 12:58:54 PM 1.289,98 RON

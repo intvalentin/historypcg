@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3775c006aa
 2020954
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts8350-inkjet-color-format-a4-duplex-wifi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8491/2020954/thumbnails/pixma-ts8350-inkjet-
 9/21/2020 2:31:12 PM 789,98 RON
 9/26/2020 10:01:11 AM 791,98 RON
 9/27/2020 1:10:21 PM 789,98 RON
+10/5/2020 12:42:18 PM 791,98 RON

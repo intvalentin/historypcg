@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |us-8
 1778524
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-unifiswitch-us-8/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1778524/thumbnails/gigabit-unifiswitch-u
 9/22/2020 11:34:53 AM 526,77 RON
 9/26/2020 2:39:07 PM 517,44 RON
 9/27/2020 6:40:47 PM 517,44 RON
+10/5/2020 3:56:28 PM 508,99 RON

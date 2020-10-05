@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |me086rs+-+a
 783085
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/apple/new-imac-215-inch-haswell-i5-270ghz-8gb-1tb-iris-pro-mac-os-russian-keyboard/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/3/783085/thumbnails/new-imac-215-inch-haswel
 9/21/2020 12:03:20 AM 8.449,98 RON
 9/25/2020 2:16:01 PM 8.629,98 RON
 9/26/2020 4:36:52 PM 8.629,98 RON
+10/2/2020 9:39:25 PM 8.569,98 RON
+10/5/2020 10:20:05 AM 8.569,98 RON

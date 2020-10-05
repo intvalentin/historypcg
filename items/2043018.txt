@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032388
 2043018
     Product link    
 https://www.pcgarage.ro/servere/fujitsu/primergy-rx1330-m4-1u-procesor-intel-xeon-e-2124-33ghz-coffee-lake-1x-16gb-udimm-ecc-ddr4-2666mhz-no-hdd-irmc/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1034/2043018/thumbnails/primergy-rx1330-m4-1
 9/21/2020 12:03:51 AM 6.278,81 RON
 9/25/2020 2:20:25 PM 6.296,90 RON
 9/26/2020 4:41:21 PM 6.300,52 RON
+10/2/2020 10:33:07 PM 6.296,39 RON
+10/5/2020 10:25:13 AM 6.296,39 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |785836-b21
 1411518
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl60-gen9-rack-1u-procesor-intel-xeon-e5-2609-v3-19ghz-haswell-8gb-rdimm-ddr4-fara-hdd-lff-35-inch-b140i-1x-550w/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1088254/1411518/thumbnails/proliant-dl60-gen
 9/21/2020 12:04:01 AM 4.410,04 RON
 9/25/2020 2:23:23 PM 4.422,75 RON
 9/26/2020 4:44:20 PM 4.425,29 RON
+10/2/2020 10:43:29 PM 4.422,39 RON
+10/5/2020 10:25:57 AM 4.422,39 RON

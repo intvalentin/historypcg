@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3771c026aa
 2025618
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts3351-white-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/9002/2025618/thumbnails/pixma-ts3351-white-i
 9/21/2020 2:12:25 PM 337,98 RON
 9/26/2020 10:05:36 AM 339,98 RON
 9/27/2020 1:24:32 PM 337,98 RON
+10/5/2020 1:26:14 PM 337,98 RON

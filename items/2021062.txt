@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp79204114321p22u
 2021062
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/precision-7920-tower-procesor-intel-xeon-silver-4114-22ghz-skylake-32gb-ddr4-rdimm-ecc-1tb-ssd-quadro-p2200-5gb-linux/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/370411/2021062/thumbnails/precision-7920-tow
 9/21/2020 12:02:15 AM 23.639,98 RON
 9/25/2020 1:56:02 PM 23.659,98 RON
 9/26/2020 4:24:21 PM 23.699,98 RON
+10/2/2020 8:04:36 PM 23.699,98 RON
+10/5/2020 10:08:23 AM 23.699,98 RON

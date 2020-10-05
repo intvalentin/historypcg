@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jl00fnri
 1937390
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-8gb-ddr4-512gb-ssd-geforce-gtx-1050-ti-4gb-freedos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1703884/1937390/thumbnails/legion-t530-tower
 9/21/2020 12:02:29 AM 3.699,00 RON
 9/25/2020 2:00:29 PM 3.699,00 RON
 9/26/2020 4:28:46 PM 3.699,00 RON
+10/2/2020 8:19:57 PM 3.699,00 RON
+10/5/2020 10:09:52 AM 3.699,00 RON

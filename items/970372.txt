@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.pb6ee.009
 970372
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/b286hk-28-inch-1ms-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/849800/970372/thumbnails/gaming-b286hk-28-in
 9/21/2020 8:17:27 AM 2.303,98 RON
 9/25/2020 10:10:09 PM 2.311,98 RON
 9/27/2020 10:11:29 AM 2.311,98 RON
+10/2/2020 8:46:22 PM 2.309,98 RON
+10/4/2020 4:33:31 PM 2.309,98 RON
+10/5/2020 1:06:10 PM 2.309,98 RON

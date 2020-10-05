@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h850040
 1605722
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eh-tw5400/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1535667/1605722/thumbnails/eh-tw5400-288db9a
 9/22/2020 5:35:59 PM 3.279,98 RON
 9/26/2020 6:46:28 PM 3.289,98 RON
 9/28/2020 8:28:36 AM 3.187,98 RON
+10/5/2020 5:42:24 PM 3.287,98 RON

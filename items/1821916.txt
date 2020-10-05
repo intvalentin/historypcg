@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthh1000400
 1821916
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-touch-1tb-25-inch-usb-30-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1821372/1821916/thumbnails/backup-plus-touch
 9/21/2020 8:18:28 AM 289,98 RON
 9/25/2020 10:15:58 PM 299,98 RON
 9/27/2020 10:17:59 AM 299,98 RON
+10/2/2020 10:08:33 PM 289,98 RON
+10/5/2020 1:14:16 PM 319,98 RON

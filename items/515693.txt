@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |006r01518
 515693
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-006r01518-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/515693/thumbnails/toner-galben-006r01518-8
 9/22/2020 9:58:40 AM 739,98 RON
 9/26/2020 1:29:43 PM 741,98 RON
 9/27/2020 4:30:59 PM 739,98 RON
+10/4/2020 9:29:01 PM 741,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcem2-d
 2026118
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/pcem2-d-1x-pci-e-male-2x-m2-pci-e-sata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2026118/thumbnails/pcem2-d-1x-pci-e-mal
 9/21/2020 12:31:34 PM 83,98 RON
 9/26/2020 9:33:55 AM 83,98 RON
 9/27/2020 12:40:45 PM 83,98 RON
+10/5/2020 8:15:13 AM 83,98 RON

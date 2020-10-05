@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |272b7qptkeb+-+00
 1462854
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/272b7qptkeb-00-27-inch-2k-5-ms-black/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1363661/1462854/thumbnails/272b7qptkeb-00-27
 9/21/2020 8:17:15 AM 1.551,98 RON
 9/25/2020 10:05:41 PM 1.563,98 RON
 9/27/2020 10:06:41 AM 1.563,98 RON
+10/2/2020 8:23:16 PM 1.565,98 RON
+10/4/2020 4:30:35 PM 1.565,98 RON
+10/5/2020 12:59:42 PM 1.565,98 RON

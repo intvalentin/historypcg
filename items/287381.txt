@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01631
 287381
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01631-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/287381/thumbnails/toner-cyan-pentru-phaser
 9/22/2020 9:49:22 AM 249,98 RON
 9/26/2020 1:29:43 PM 249,98 RON
 9/27/2020 4:30:59 PM 249,98 RON
+10/4/2020 8:45:51 PM 249,98 RON

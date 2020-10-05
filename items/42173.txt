@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rhvad100s2
 42173
     Product link    
 https://www.pcgarage.ro/rack-uri/vantec/extern-hdd-25-35-inch-nexstar-nst-d100s2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/42173/thumbnails/nexstar-nst-d100s2.jpg
 9/21/2020 10:30:51 AM 175,98 RON
 9/26/2020 8:59:19 AM 175,98 RON
 9/27/2020 11:53:15 AM 175,98 RON
+10/4/2020 6:58:34 PM 175,98 RON

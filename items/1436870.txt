@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0023
 1436870
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-30-tip-a-male-tip-b-male-1m-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025736/1436870/thumbnails/usb-30-tip-a-male
 9/21/2020 11:49:05 AM 27,98 RON
 9/26/2020 9:20:37 AM 27,98 RON
 9/27/2020 12:26:26 PM 27,98 RON
+10/4/2020 10:17:30 PM 27,98 RON

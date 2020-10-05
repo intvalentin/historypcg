@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xgs1930-52hp-eu0101f
 1768588
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-xgs1930-52hp/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1768588/thumbnails/gigabit-xgs1930-5
 9/22/2020 11:55:24 AM 4.831,40 RON
 9/26/2020 2:47:17 PM 4.849,35 RON
 9/27/2020 6:48:58 PM 4.849,35 RON
+10/5/2020 5:25:29 PM 4.841,06 RON

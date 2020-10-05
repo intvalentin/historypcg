@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v0l81aa
 1451154
     Product link    
 https://www.pcgarage.ro/mouse/hp/z3700-blue/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1409094/1451154/thumbnails/z3700-blue-981cb5
 9/21/2020 8:23:17 AM 65,98 RON
 9/26/2020 8:22:01 AM 65,98 RON
 9/27/2020 11:15:03 AM 65,98 RON
+10/3/2020 5:37:26 PM 65,98 RON
+10/5/2020 2:42:29 PM 65,98 RON

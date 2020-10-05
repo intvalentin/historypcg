@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpd-7p6g-bw904s
 1658484
     Product link    
 https://www.pcgarage.ro/cabluri-componente/orico/4x-sata-iii-female-4x-sata-iii-female-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5286/1658484/thumbnails/4x-sata-iii-female-4
 9/21/2020 12:12:36 PM 49,98 RON
 9/26/2020 9:27:15 AM 51,98 RON
 9/27/2020 12:33:37 PM 51,98 RON
+10/4/2020 11:23:02 PM 49,98 RON

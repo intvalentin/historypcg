@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-1101w
 870241
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/edimax/sp-1101w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/746930/870241/thumbnails/sp-1101w-e197cf5f90
 9/21/2020 12:56:21 PM 193,98 RON
 9/26/2020 9:44:16 AM 197,98 RON
 9/27/2020 12:52:01 PM 197,98 RON
+10/5/2020 9:38:32 AM 195,98 RON

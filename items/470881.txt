@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6031511
 470881
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/intenso/memory-center-3tb-usb-30-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5/470881/thumbnails/memory-center-3tb-usb-30
 9/21/2020 8:19:00 AM 409,98 RON
 9/25/2020 10:26:22 PM 409,98 RON
 9/27/2020 10:29:11 AM 409,98 RON
+10/3/2020 8:25:13 AM 409,98 RON
+10/5/2020 1:20:55 PM 409,98 RON

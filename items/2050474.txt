@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cd66301a1
 2050474
     Product link    
 https://www.pcgarage.ro/plottere/epson/surecolor-sc-t3200-24-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2050474/thumbnails/surecolor-sc-t3200-2
 9/22/2020 10:30:50 AM 10.087,98 RON
 9/26/2020 1:52:38 PM 10.113,98 RON
 9/27/2020 5:00:32 PM 10.119,98 RON
+10/5/2020 8:47:40 AM 10.111,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spl00036
 1789564
     Product link    
 https://www.pcgarage.ro/mouse/speedlink/sl-630012-red/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6440/1789564/thumbnails/sl-630012-red-68bf29
 9/21/2020 8:23:12 AM 43,98 RON
 9/26/2020 8:19:48 AM 43,98 RON
 9/27/2020 11:13:33 AM 43,98 RON
+10/3/2020 5:29:05 PM 43,98 RON
+10/5/2020 2:41:41 PM 43,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |in3t8geajkx
 1349798
     Product link    
 https://www.pcgarage.ro/memorii-server/integral/ecc-udimm-ddr3-8gb-1600mhz-cl11-15v-dual-rank/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1192525/1349798/thumbnails/ecc-udimm-ddr3-8g
 9/21/2020 12:04:27 AM 225,48 RON
 9/25/2020 2:27:03 PM 223,01 RON
 9/26/2020 4:47:20 PM 221,56 RON
+10/3/2020 8:41:20 AM 224,90 RON
+10/5/2020 10:31:08 AM 223,30 RON

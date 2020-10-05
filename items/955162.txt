@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tze451
 955162
     Product link    
 https://www.pcgarage.ro/consumabile/brother/tze451/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/955162/thumbnails/brother-tze451-tape
 9/21/2020 4:05:45 PM 81,98 RON
 9/26/2020 10:32:03 AM 83,98 RON
 9/27/2020 1:49:58 PM 83,98 RON
+10/5/2020 5:37:00 PM 83,98 RON

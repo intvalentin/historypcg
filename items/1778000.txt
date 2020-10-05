@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0114
 1778000
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/displayport-male-displayport-male-v12-20m-activ-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1778000/thumbnails/displayport-male-disp
 9/21/2020 11:10:13 AM 467,98 RON
 9/26/2020 9:03:03 AM 469,98 RON
 9/27/2020 11:56:59 AM 469,98 RON
+10/4/2020 8:15:56 PM 469,98 RON

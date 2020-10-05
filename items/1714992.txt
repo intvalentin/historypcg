@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0064
 1714992
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v20-5m-negru-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1714992/thumbnails/hdmi-male-hdmi-ma
 9/21/2020 10:36:15 AM 57,98 RON
 9/26/2020 9:03:03 AM 57,98 RON
 9/27/2020 11:56:59 AM 57,98 RON
+10/4/2020 7:39:25 PM 53,98 RON

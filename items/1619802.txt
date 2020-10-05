@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st300mm0048
 1619802
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-performance-10k-sas-300gb-10000rpm-128mb/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1605610/1619802/thumbnails/exos-performance-
 9/21/2020 12:05:09 AM 648,95 RON
 9/25/2020 2:34:30 PM 663,38 RON
 9/26/2020 4:55:30 PM 663,23 RON
+10/3/2020 9:49:42 AM 658,12 RON
+10/5/2020 10:37:07 AM 658,12 RON

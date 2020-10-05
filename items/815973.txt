@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-005217
 815973
     Product link    
 https://www.pcgarage.ro/tastaturi/logitech/k280e/
@@ -11,3 +11,5 @@ https://2.grgs.ro/images/products/1/782584/815973/thumbnails/k280e-41a0832f42701
 9/21/2020 9:55:49 AM 102,58 RON
 9/26/2020 8:35:29 AM 102,58 RON
 9/27/2020 11:29:17 AM 102,58 RON
+10/3/2020 9:22:56 PM 102,58 RON
+10/5/2020 2:59:44 PM 119,98 RON

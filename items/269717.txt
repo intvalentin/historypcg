@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a06003f
 269717
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a06003f-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/269717/thumbnails/toner-a06003f-black-5970
 9/22/2020 10:15:52 AM 2.001,98 RON
 9/26/2020 1:41:35 PM 2.007,98 RON
 9/27/2020 4:49:31 PM 2.007,98 RON
+10/4/2020 11:25:46 PM 2.007,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac2900
 1990350
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-rt-ac2900-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1977958/1990350/thumbnails/gigabit-rt-ac2900
 9/22/2020 11:20:59 AM 1.248,79 RON
 9/26/2020 2:22:50 PM 1.252,38 RON
 9/27/2020 6:24:29 PM 1.253,11 RON
+10/5/2020 2:31:55 PM 1.252,28 RON

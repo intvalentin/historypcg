@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gmf-00196
 1409082
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/wireless-mobile-mouse-3500-white/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5/1409082/thumbnails/wireless-mobile-mouse-3
 9/21/2020 8:22:59 AM 127,98 RON
 9/26/2020 8:22:01 AM 129,98 RON
 9/27/2020 11:15:47 AM 129,98 RON
+10/3/2020 5:47:26 PM 129,98 RON
+10/5/2020 2:43:57 PM 129,98 RON

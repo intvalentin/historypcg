@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-musb2-ambm-0.1m
 1853786
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/usb-20-male-tip-a-microusb-20-male-tip-b-01m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848722/1853786/thumbnails/usb-20-male-tip-a
 9/21/2020 11:47:00 AM 3,98 RON
 9/26/2020 9:19:52 AM 3,98 RON
 9/27/2020 12:25:38 PM 3,98 RON
+10/4/2020 9:53:16 PM 7,98 RON

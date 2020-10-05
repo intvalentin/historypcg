@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43870023
 78273
     Product link    
 https://www.pcgarage.ro/consumabile/oki/cyan-image-drum-43870023/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/78273/thumbnails/cyan-image-drum-43870023-
 9/21/2020 3:53:17 PM 335,98 RON
 9/26/2020 10:33:32 AM 335,98 RON
 9/27/2020 1:51:33 PM 335,98 RON
+10/5/2020 5:52:50 PM 335,98 RON

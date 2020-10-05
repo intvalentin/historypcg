@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-aec213-043
 2069422
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/msi/pro-24x-10m-238-inch-fhd-procesor-intel-i5-10210u-16ghz-comet-lake-8gb-ram-256gb-ssd-plus-1-tb-hdd-uhd-graphics-win-10-home/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4273/2069422/thumbnails/msi-aio-238nt-i5-102
 9/21/2020 12:02:56 AM 4.369,98 RON
 9/25/2020 2:02:41 PM 4.379,98 RON
 9/26/2020 4:31:00 PM 4.379,98 RON
+10/2/2020 8:59:16 PM 4.379,98 RON
+10/5/2020 10:15:36 AM 4.379,98 RON

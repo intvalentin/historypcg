@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j9c08ea
 1541694
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/z240-twr-procesor-intel-xeon-e3-1225-v5-33ghz-skylake-8gb-ddr4-512gb-ssd-quadro-k620-2gb-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/782584/1541694/thumbnails/z240-twr-procesor-
 9/21/2020 12:02:38 AM 8.279,98 RON
 9/25/2020 2:01:57 PM 8.299,98 RON
 9/26/2020 4:30:15 PM 8.309,98 RON
+10/2/2020 8:42:54 PM 8.299,98 RON
+10/5/2020 10:12:05 AM 8.299,98 RON

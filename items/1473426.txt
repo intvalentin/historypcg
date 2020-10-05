@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1418c009aa
 1473426
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf247dw-laser-monocrom-format-a4-duplex-fax-retea-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1152773/1473426/thumbnails/i-sensys-mf247dw-
 9/21/2020 2:37:25 PM 1.657,98 RON
 9/26/2020 10:11:32 AM 1.663,98 RON
 9/27/2020 1:30:08 PM 1.663,98 RON
+10/5/2020 2:45:43 PM 1.661,98 RON

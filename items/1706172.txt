@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0d500d7ri
 1706172
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-procesor-intel-core-i3-7020u-20ghz-kaby-lake-8gb-1tb-radeon-530-2gb-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1508470/1706172/thumbnails/215-ideacentre-52
 9/21/2020 12:03:05 AM 2.839,98 RON
 9/25/2020 2:14:33 PM 2.849,98 RON
 9/26/2020 4:35:27 PM 2.849,98 RON
+10/2/2020 9:10:53 PM 2.849,98 RON
+10/5/2020 10:17:04 AM 2.849,98 RON

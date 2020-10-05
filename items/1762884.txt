@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3259c003aa
 1762884
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-c225w-ii/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3442/1762884/thumbnails/dr-c225w-ii-c028df93
 9/22/2020 10:42:40 AM 2.345,98 RON
 9/26/2020 2:02:11 PM 2.353,98 RON
 9/27/2020 5:09:26 PM 2.347,98 RON
+10/5/2020 10:16:37 AM 2.351,98 RON

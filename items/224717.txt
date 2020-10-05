@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-usb2-ambm-6
 224717
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/cablu-imprimanta-18m-professional-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/224717/thumbnails/cablu-imprimanta-18m-pro
 9/21/2020 11:49:05 AM 5,98 RON
 9/26/2020 9:22:50 AM 5,98 RON
 9/27/2020 12:28:49 PM 5,98 RON
+10/4/2020 9:55:48 PM 13,98 RON

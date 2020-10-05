@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l6v-00005
 740773
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/sculpt-ergonomic-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/735074/740773/thumbnails/sculpt-ergonomic-bl
 9/21/2020 8:23:03 AM 263,98 RON
 9/26/2020 8:23:31 AM 265,98 RON
 9/27/2020 11:17:18 AM 265,98 RON
+10/3/2020 5:58:17 PM 265,98 RON
+10/5/2020 2:45:23 PM 265,98 RON

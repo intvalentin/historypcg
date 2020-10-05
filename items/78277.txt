@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44064009
 78277
     Product link    
 https://www.pcgarage.ro/consumabile/oki/yellow-image-drum-44064009/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/78277/thumbnails/yellow-image-drum-4406400
 9/21/2020 3:57:27 PM 583,98 RON
 9/26/2020 10:33:32 AM 585,98 RON
 9/27/2020 1:50:46 PM 585,98 RON
+10/5/2020 6:07:17 PM 583,98 RON

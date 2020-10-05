@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc7i7bnhxg
 1615002
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i7bnhxg-core-i7-7567u-35ghz-8gb-ddr4-32gb-intel-optane-m2-ssd-2tb-hdd-wi-fi-bluetooth-hdmi-usb-type-c-win-10-home/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1500686/1615002/thumbnails/nuc-next-unit-of-
 9/21/2020 12:03:42 AM 4.029,98 RON
 9/25/2020 2:18:58 PM 4.084,98 RON
 9/26/2020 4:39:51 PM 4.119,98 RON
+10/2/2020 10:24:11 PM 4.079,98 RON
+10/5/2020 10:23:46 AM 4.084,98 RON

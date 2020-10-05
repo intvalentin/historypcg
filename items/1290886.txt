@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ce05403
 1290886
     Product link    
 https://www.pcgarage.ro/imprimante/epson/workforce-wf-100w-inkjet-color-format-a4-wi-fi-portabila/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1192525/1290886/thumbnails/workforce-wf-100w
 9/21/2020 3:10:37 PM 1.123,98 RON
 9/26/2020 10:25:23 AM 1.129,98 RON
 9/27/2020 1:42:53 PM 1.129,98 RON
+10/5/2020 3:45:41 PM 1.125,98 RON

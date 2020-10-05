@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ptd800wyj1
 1837100
     Product link    
 https://www.pcgarage.ro/imprimante/brother/pt-d800w-termica-monocrom-banda-36-mm-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3582/1837100/thumbnails/pt-d800w-termica-mon
 9/21/2020 3:14:45 PM 1.749,98 RON
 9/26/2020 10:24:39 AM 1.755,98 RON
 9/27/2020 1:42:03 PM 1.755,98 RON
+10/5/2020 4:53:25 PM 1.755,98 RON

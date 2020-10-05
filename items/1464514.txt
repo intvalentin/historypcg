@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus161-3feb738b6496bdfcf6980922e0bf20b4
 1464514
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-a31-x401-a32-x401-a41-x401-a42-x401/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1415042/1464514/thumbnails/baterie-laptop-as
 9/20/2020 11:12:09 PM 223,98 RON
 9/25/2020 4:02:42 PM 227,98 RON
 9/26/2020 6:02:32 PM 227,98 RON
+10/3/2020 5:14:55 PM 225,98 RON
+10/5/2020 11:15:44 AM 225,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf3803b001aa
 92709
     Product link    
 https://www.pcgarage.ro/accesorii-copiatoare/canon/cassette-spacer-a1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/92709/thumbnails/cassette-spacer-a1-24cc52
 9/22/2020 10:38:20 AM 174,33 RON
 9/26/2020 1:58:32 PM 174,78 RON
 9/27/2020 5:06:26 PM 174,89 RON
+10/5/2020 9:45:50 AM 174,77 RON

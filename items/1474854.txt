@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0568c001aa
 1474854
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp151dw-laser-monocrom-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1461878/1474854/thumbnails/i-sensys-lbp151dw
 9/21/2020 3:08:33 PM 1.033,98 RON
 9/26/2020 10:25:23 AM 1.037,98 RON
 9/27/2020 1:42:53 PM 1.037,98 RON
+10/5/2020 4:38:46 PM 1.037,98 RON

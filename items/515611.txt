@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg1008p
 515611
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sg1008p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/515611/thumbnails/tl-sg1008p-88a3e34140d35
 9/22/2020 11:40:16 AM 269,62 RON
 9/26/2020 2:50:16 PM 269,62 RON
 9/27/2020 6:51:58 PM 269,62 RON
+10/5/2020 4:36:56 PM 269,62 RON

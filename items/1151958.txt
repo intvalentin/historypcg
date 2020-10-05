@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pp4-00019
 1151958
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/microsoft/wireless-comfort-desktop-5050/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/722028/1151958/thumbnails/wireless-comfort-d
 9/21/2020 10:04:16 AM 295,98 RON
 9/26/2020 8:40:44 AM 341,98 RON
 9/27/2020 11:34:33 AM 341,98 RON
+10/3/2020 10:12:16 PM 339,98 RON
+10/5/2020 3:03:23 PM 339,98 RON

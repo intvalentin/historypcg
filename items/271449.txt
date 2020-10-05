@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gmf-00008
 271449
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/wireless-mobile-mouse-3500-gray/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4/271449/thumbnails/wireless-mobile-mouse-35
 9/21/2020 8:23:21 AM 117,98 RON
 9/26/2020 8:24:16 AM 117,98 RON
 9/27/2020 11:18:02 AM 117,98 RON
+10/3/2020 5:46:20 PM 125,98 RON
+10/5/2020 2:43:57 PM 125,98 RON

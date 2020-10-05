@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041569
 744664
     Product link    
 https://www.pcgarage.ro/hartie/epson/double-sided-matte-a4-50-coli/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/744664/thumbnails/double-sided-matte-
 9/22/2020 10:23:21 AM 113,98 RON
 9/26/2020 1:47:28 PM 113,98 RON
 9/27/2020 4:55:25 PM 113,98 RON
+10/5/2020 8:04:04 AM 114,98 RON

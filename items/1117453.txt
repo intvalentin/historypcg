@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |in3t2geabkx
 1117453
     Product link    
 https://www.pcgarage.ro/memorii-server/integral/ecc-udimm-ddr3-2gb-1600mhz-cl11-15v-dual-rank-x8/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/722028/1117453/thumbnails/ecc-udimm-ddr3-4gb
 9/21/2020 12:04:32 AM 83,77 RON
 9/25/2020 2:29:16 PM 82,90 RON
 9/26/2020 4:50:18 PM 82,32 RON
+10/3/2020 8:48:19 AM 83,62 RON
+10/5/2020 10:31:53 AM 83,04 RON

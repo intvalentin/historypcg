@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a03100h
 242019
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a03100h-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/242019/thumbnails/imaging-unit-black-a0310
 9/22/2020 10:12:38 AM 871,98 RON
 9/26/2020 1:40:06 PM 855,98 RON
 9/27/2020 4:48:02 PM 855,98 RON
+10/4/2020 11:04:39 PM 863,98 RON

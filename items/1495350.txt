@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nas542-eu0101f
 1495350
     Product link    
 https://www.pcgarage.ro/nas/zyxel/nas542/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469770/1495350/thumbnails/nas542-56f79bba8a
 9/22/2020 11:23:06 AM 1.493,66 RON
 9/26/2020 2:28:45 PM 1.497,55 RON
 9/27/2020 6:30:22 PM 1.498,40 RON
+10/5/2020 2:42:38 PM 1.256,83 RON

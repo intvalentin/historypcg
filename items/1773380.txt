@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-001882
 1773380
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m570-trackball-wireless-blue/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5015/1773380/thumbnails/910-001882-ad77cb2bb
 9/21/2020 8:23:25 AM 375,98 RON
 9/26/2020 8:20:33 AM 401,98 RON
 9/27/2020 11:14:18 AM 401,98 RON
+10/3/2020 5:58:49 PM 399,98 RON
+10/5/2020 2:45:23 PM 399,98 RON

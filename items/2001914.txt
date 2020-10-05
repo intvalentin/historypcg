@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-453be-4g
 2001914
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-453be-4gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/2001914/thumbnails/ts-453be-2gb-4c97
 9/22/2020 11:22:01 AM 2.497,99 RON
 9/26/2020 2:27:16 PM 2.397,99 RON
 9/27/2020 6:28:54 PM 2.397,99 RON
+10/5/2020 2:40:13 PM 2.397,99 RON

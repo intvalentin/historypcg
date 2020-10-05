@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-2226sts
 826990
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-mobile-rack-for-2x-25-sata-hdd-or-35-ssd-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/826990/thumbnails/icy-box-mobile-rack
 9/21/2020 10:26:33 AM 179,98 RON
 9/26/2020 8:55:37 AM 179,98 RON
 9/27/2020 11:49:32 AM 179,98 RON
+10/4/2020 5:32:08 PM 179,98 RON

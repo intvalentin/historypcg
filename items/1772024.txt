@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |76m-01688
 1772024
     Product link    
 https://www.pcgarage.ro/cal-client-access-server/microsoft/cal-device-sharepoint-server-2019-standard-olp-nl-1-device/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1094679/1772024/thumbnails/cal-user-office-s
 9/21/2020 1:19:14 PM 643,10 RON
 9/26/2020 9:49:19 AM 645,33 RON
 9/27/2020 12:57:35 PM 645,33 RON
+10/5/2020 10:10:43 AM 644,90 RON

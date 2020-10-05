@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g3s-01299
 1977494
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2019-essentials-1-2-cpu-dvd/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1977494/thumbnails/server-2019-essentia
 9/21/2020 1:15:07 PM 1.882,54 RON
 9/26/2020 9:47:53 AM 1.913,84 RON
 9/27/2020 12:56:02 PM 1.913,43 RON
+10/5/2020 10:02:33 AM 1.898,66 RON

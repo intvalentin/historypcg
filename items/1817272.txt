@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as1002tv2
 1817272
     Product link    
 https://www.pcgarage.ro/nas/asustor/as1002tv2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1817272/thumbnails/as1002tv2-d253f43d9a1
 9/22/2020 11:23:06 AM 884,98 RON
 9/26/2020 2:28:01 PM 884,98 RON
 9/27/2020 6:29:39 PM 884,98 RON
+10/5/2020 2:41:37 PM 895,64 RON

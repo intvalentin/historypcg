@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm122427
 928766
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/cablu-antena-coaxial-m-coaxial-f-120db-5m-maro/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/928766/thumbnails/cablu-antena-coaxia
 9/21/2020 11:10:13 AM 173,98 RON
 9/26/2020 9:09:44 AM 173,98 RON
 9/27/2020 12:16:50 PM 173,98 RON
+10/4/2020 8:41:34 PM 173,98 RON

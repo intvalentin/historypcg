@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-de4a0c0534529ccc5a8815598b6d342e
 1466006
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g560-g560a-g560e-g560g-g560l-g565-g565a-g565g-g565l/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1457254/1466006/thumbnails/baterie-laptop-le
 9/20/2020 11:19:54 PM 239,98 RON
 9/25/2020 5:54:01 PM 245,98 RON
 9/26/2020 7:35:02 PM 245,98 RON
+10/3/2020 8:35:01 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2984c009aa
 1923162
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-tr4550-black-inkjet-color-format-a4-fax-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8629/1923162/thumbnails/pixma-tr4550-black-i
 9/21/2020 2:27:02 PM 357,98 RON
 9/26/2020 10:07:49 AM 357,98 RON
 9/27/2020 1:26:06 PM 357,98 RON
+10/5/2020 1:29:07 PM 357,98 RON

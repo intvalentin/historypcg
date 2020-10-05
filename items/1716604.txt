@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vx3276-2k-mhd
 1716604
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vx3276-2k-mhd-315-inch-2k-4-ms-silver/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1703884/1716604/thumbnails/vx3276-2k-mhd-315
 9/21/2020 8:17:11 AM 1.261,98 RON
 9/25/2020 10:01:56 PM 1.265,98 RON
 9/27/2020 10:02:42 AM 1.265,98 RON
+10/2/2020 8:12:11 PM 1.265,98 RON
+10/3/2020 11:12:52 PM 1.265,98 RON
+10/5/2020 12:58:54 PM 1.265,98 RON

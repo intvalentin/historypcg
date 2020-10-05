@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a4m3wy3
 516763
     Product link    
 https://www.pcgarage.ro/accesorii-printing/develop/nc-504-network-interface-card/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/516763/thumbnails/nc-504-network-interface
 9/22/2020 11:01:44 AM 789,98 RON
 9/26/2020 2:15:27 PM 793,98 RON
 9/27/2020 6:17:11 PM 793,98 RON
+10/5/2020 11:38:48 AM 791,98 RON

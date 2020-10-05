@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i1659fwux
 1965238
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/portabil-156-inch-5-ms-black-60hz/
@@ -10,3 +10,7 @@ https://2.grgs.ro/images/products/1/1960570/1965238/thumbnails/portabil-156-inch
 9/21/2020 8:15:21 AM 727,98 RON
 9/25/2020 9:47:10 PM 731,98 RON
 9/27/2020 9:43:17 AM 731,98 RON
+10/2/2020 7:20:18 PM 729,98 RON
+10/2/2020 7:50:40 PM 729,98 RON
+10/3/2020 11:09:09 PM 729,98 RON
+10/5/2020 12:54:27 PM 729,98 RON

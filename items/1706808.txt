@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0515c026aa
 1706808
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mg3650wh-white-inkjet-color-format-a4-duplex-wifi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691852/1706808/thumbnails/pixma-mg3650wh-wh
 9/21/2020 2:27:02 PM 345,98 RON
 9/26/2020 10:10:03 AM 347,98 RON
 9/27/2020 1:29:18 PM 347,98 RON
+10/5/2020 1:28:03 PM 347,98 RON

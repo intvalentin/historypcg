@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr331200-10000s
 1983154
     Product link    
 https://www.pcgarage.ro/nas/netgear/rr331200-8gb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1983154/thumbnails/rr331200-8gb-98d75ae
 9/22/2020 11:30:36 AM 16.892,44 RON
 9/26/2020 2:29:30 PM 16.834,65 RON
 9/27/2020 6:31:06 PM 16.834,65 RON
+10/5/2020 3:28:01 PM 16.859,86 RON

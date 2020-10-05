@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm104300
 470617
     Product link    
 https://www.pcgarage.ro/memorii-externe/hama/laeta-64gb-usb-20-green/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2/470617/thumbnails/laeta-64gb-usb-20-green-
 9/21/2020 8:22:01 AM 53,98 RON
 9/26/2020 8:14:40 AM 53,98 RON
 9/27/2020 11:08:18 AM 53,98 RON
+10/3/2020 10:33:40 AM 53,98 RON
+10/5/2020 2:14:29 PM 53,98 RON

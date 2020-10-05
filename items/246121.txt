@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-usb2-amaf-15c
 246121
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/usb-20-male-usb-20-female-45m-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/246121/thumbnails/cablu-usb-m-usb-f-5m-neg
 9/21/2020 11:57:23 AM 15,98 RON
 9/26/2020 9:25:02 AM 15,98 RON
 9/27/2020 12:31:11 PM 15,98 RON
+10/4/2020 10:44:48 PM 31,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |he-w100
 1358983
     Product link    
 https://www.pcgarage.ro/rack-uri/ssk/he-w100-usb-30-25-sata-wireless-external-enclosure/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1358983/thumbnails/he-w100-usb-30-25-
 9/21/2020 10:30:51 AM 219,98 RON
 9/26/2020 8:57:50 AM 223,98 RON
 9/27/2020 11:51:46 AM 223,98 RON
+10/4/2020 7:02:52 PM 221,98 RON

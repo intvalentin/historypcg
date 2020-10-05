@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |405783
 1387544
     Product link    
 https://www.pcgarage.ro/accesorii-printing/ricoh/ink-collector-unit-ic-41/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088099/1387544/thumbnails/ink-collector-uni
 9/22/2020 10:52:15 AM 177,98 RON
 9/26/2020 2:10:16 PM 177,98 RON
 9/27/2020 6:11:57 PM 177,98 RON
+10/5/2020 11:00:37 AM 177,98 RON

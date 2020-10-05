@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg05401
 1776380
     Product link    
 https://www.pcgarage.ro/imprimante/epson/workforce-pro-wf-5290dw-inkjet-color-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1774300/1776380/thumbnails/workforce-pro-wf-
 9/21/2020 3:10:37 PM 1.159,98 RON
 9/26/2020 10:24:39 AM 1.163,98 RON
 9/27/2020 1:42:03 PM 1.163,98 RON
+10/5/2020 4:44:26 PM 1.163,98 RON

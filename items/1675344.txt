@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-satam-data90-0.3m
 1675344
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/sata-iii-female-sata-iii-female-03m-conector-90-grade-rosu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1663772/1675344/thumbnails/sata-iii-female-s
 9/21/2020 12:06:24 PM 7,99 RON
 9/26/2020 9:25:46 AM 7,99 RON
 9/27/2020 12:32:00 PM 7,99 RON
+10/4/2020 10:53:31 PM 7,99 RON

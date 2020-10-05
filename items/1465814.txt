@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-2b103c4e64db3b949bdc96a51150d6d2
 1465814
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-fr700-fx400-fx420-fx600-fx603-fx610/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1190677/1465814/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 3:59:42 PM 235,98 RON
 9/26/2020 5:59:31 PM 235,98 RON
+10/3/2020 5:29:41 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

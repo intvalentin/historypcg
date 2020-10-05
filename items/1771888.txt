@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |va2419-sh
 1771888
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/va2419-sh-24-inch-5-ms-black-75hz/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/5015/1771888/thumbnails/va2419-sh-24-inch-5-
 9/21/2020 8:15:26 AM 483,98 RON
 9/25/2020 9:49:23 PM 483,98 RON
 9/27/2020 9:45:41 AM 557,98 RON
+10/3/2020 10:10:20 PM 549,98 RON
+10/5/2020 12:36:45 PM 549,98 RON

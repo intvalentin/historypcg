@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0026
 1481830
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/vga-male-vga-male-3m-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175596/1481830/thumbnails/vga-male-vga-male
 9/21/2020 11:14:22 AM 35,98 RON
 9/26/2020 9:08:59 AM 35,98 RON
 9/27/2020 12:16:03 PM 35,98 RON
+10/4/2020 8:24:37 PM 35,98 RON

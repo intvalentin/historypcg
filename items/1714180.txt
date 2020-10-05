@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts10-b002d
 1714180
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/asus/vivostick-ts10-procesor-intel-atom-x5-z8350-144ghz-cherry-trail-2gb-ddr3-32gb-ssd-gma-hd-win-10-home-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1175596/1714180/thumbnails/vivostick-ts10-pr
 9/21/2020 12:03:28 AM 739,98 RON
 9/25/2020 2:17:29 PM 744,98 RON
 9/26/2020 4:38:19 PM 744,98 RON
+10/2/2020 10:03:02 PM 744,98 RON
+10/5/2020 10:21:32 AM 744,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |00d5016
 1805432
     Product link    
 https://www.pcgarage.ro/memorii-server/lenovo/ecc-udimm-ddr3-8gb-1600mhz-cl11-135v-2rx8-1/
@@ -9,3 +9,5 @@ https://1.grgs.ro/images/products/1/4338/1805432/thumbnails/ecc-udimm-ddr3-8gb-1
     Pret    
 9/25/2020 2:27:03 PM 353,08 RON
 9/26/2020 4:48:05 PM 353,67 RON
+10/3/2020 8:52:22 AM 353,66 RON
+10/5/2020 10:31:53 AM 353,64 RON

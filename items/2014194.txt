@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psm2
 2014194
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/psm2-1x-pci-e-male-1x-m2-pci-e-ssd/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2013982/2014194/thumbnails/pci-express-orico
 9/21/2020 12:33:38 PM 45,98 RON
 9/26/2020 9:33:55 AM 45,98 RON
 9/27/2020 12:40:45 PM 45,98 RON
+10/5/2020 8:09:55 AM 45,98 RON

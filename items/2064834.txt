@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp3630i715460449+-+7
 2064834
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/precision-3630-tower-procesor-intel-core-i7-9700k-36ghz-coffee-lake-32gb-ram-512gb-ssd-plus-1-tb-hdd-radeon-pro-wx-3100-4gb-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1469770/2064834/thumbnails/precision-3630-to
 9/21/2020 12:02:15 AM 8.829,98 RON
 9/25/2020 1:55:19 PM 8.829,98 RON
 9/26/2020 4:23:38 PM 8.849,98 RON
+10/2/2020 8:35:48 PM 6.299,98 RON
+10/5/2020 10:12:04 AM 6.299,98 RON

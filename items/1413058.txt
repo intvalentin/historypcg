@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gya8020104
 1413058
     Product link    
 https://www.pcgarage.ro/i-love-gaming/gaya-entertainment/starcraft-2-starcraft-logo-silver/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1152773/1413058/thumbnails/starcraft-2-starc
 9/21/2020 8:10:50 AM 53,98 RON
 9/25/2020 3:01:51 PM 53,98 RON
 9/26/2020 5:29:35 PM 53,98 RON
+10/3/2020 11:59:59 AM 53,98 RON
+10/5/2020 10:53:19 AM 53,98 RON

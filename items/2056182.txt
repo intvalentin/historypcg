@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |qgd-1600p-8g
 2056182
     Product link    
 https://www.pcgarage.ro/switch-uri/qnap/gigabit-qgd-1600p-8g/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2056182/thumbnails/gigabit-qgd-1600p-8g
 9/22/2020 11:45:40 AM 4.141,72 RON
 9/26/2020 2:36:09 PM 4.153,65 RON
 9/27/2020 6:37:48 PM 4.156,04 RON
+10/5/2020 5:24:58 PM 4.153,31 RON

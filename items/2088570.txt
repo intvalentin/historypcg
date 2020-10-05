@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3fa35t-022
 2088570
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-mpg27cq2-curbat-27-inch-1-ms-negru-144-hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/7008/2088570/thumbnails/gaming-optix-mpg27cq
 9/21/2020 8:17:32 AM 2.753,98 RON
 9/25/2020 9:54:32 PM 2.761,98 RON
 9/27/2020 9:54:42 AM 2.761,98 RON
+10/2/2020 8:54:00 PM 2.761,98 RON
+10/4/2020 4:34:16 PM 2.761,98 RON
+10/5/2020 1:06:55 PM 2.761,98 RON

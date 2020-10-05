@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297795ba01a12
 1886010
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/dreamweaver-cc-for-teams-1-user-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1798/1886010/thumbnails/dreamweaver-cc-for-t
 9/21/2020 1:53:54 PM 2.273,77 RON
 9/26/2020 9:59:43 AM 2.281,63 RON
 9/27/2020 1:08:46 PM 2.281,63 RON
+10/5/2020 12:10:38 PM 2.280,13 RON

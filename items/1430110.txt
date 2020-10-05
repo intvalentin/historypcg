@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac-033-cn1nan-a1
 1430110
     Product link    
 https://www.pcgarage.ro/cabluri-componente/thermaltake/ttmod-sleeve-cable-kit-red-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1430110/thumbnails/ttmod-sleeve-cabl
 9/21/2020 12:15:03 PM 331,98 RON
 9/26/2020 9:27:15 AM 337,98 RON
 9/27/2020 12:33:37 PM 337,98 RON
+10/4/2020 11:25:40 PM 335,98 RON

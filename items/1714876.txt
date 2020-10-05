@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac10
 1714876
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-ac10-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692296/1714876/thumbnails/gigabit-ac10-dual
 9/22/2020 11:11:19 AM 155,28 RON
 9/26/2020 2:20:34 PM 155,23 RON
 9/27/2020 6:22:17 PM 155,20 RON
+10/5/2020 12:31:44 PM 155,06 RON

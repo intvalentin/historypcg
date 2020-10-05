@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0057b
 1452078
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-displayport-male-1x-hdmi-female-alb-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1452078/thumbnails/logilink-displayp
 9/21/2020 12:27:24 PM 115,98 RON
 9/26/2020 9:31:41 AM 113,98 RON
 9/27/2020 12:38:22 PM 113,98 RON
+10/4/2020 11:55:45 PM 115,98 RON

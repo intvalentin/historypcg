@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q7994a
 523783
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/premium-instant-dry-satin-photo-914-mm-x-305-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/523783/thumbnails/premium-instant-dry-sati
 9/22/2020 10:35:11 AM 741,98 RON
 9/26/2020 1:55:37 PM 743,98 RON
 9/27/2020 5:03:32 PM 743,98 RON
+10/5/2020 9:35:55 AM 743,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t04d100
 1928746
     Product link    
 https://www.pcgarage.ro/consumabile/epson/maintenance-box-c13t04d100/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1928746/thumbnails/maintenance-box-c13t
 9/21/2020 4:05:45 PM 45,98 RON
 9/26/2020 10:37:15 AM 45,98 RON
 9/27/2020 1:55:33 PM 45,98 RON
+10/5/2020 5:23:21 PM 45,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |40629303
 219335
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/black-ribbon-40629303/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/219335/thumbnails/black-ribbon-40629303-09
 9/21/2020 10:57:12 PM 255,98 RON
 9/26/2020 1:18:36 PM 255,98 RON
 9/27/2020 4:19:50 PM 255,98 RON
+10/4/2020 7:35:23 PM 255,98 RON

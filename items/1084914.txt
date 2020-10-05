@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tvs-871-pt-4g
 1084914
     Product link    
 https://www.pcgarage.ro/nas/qnap/tvs-871-pt-4-gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/1084914/thumbnails/tvs-871-i3-4-gb-18
 9/22/2020 11:28:28 AM 7.082,06 RON
 9/26/2020 2:33:10 PM 7.106,40 RON
 9/27/2020 6:34:47 PM 7.106,40 RON
+10/5/2020 3:18:31 PM 7.071,02 RON

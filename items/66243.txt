@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sf1016
 66243
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sf1016/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/66243/thumbnails/tl-sf1016.jpg
 9/22/2020 11:37:02 AM 161,28 RON
 9/26/2020 2:44:19 PM 161,28 RON
 9/27/2020 6:46:00 PM 161,28 RON
+10/5/2020 4:30:38 PM 161,27 RON

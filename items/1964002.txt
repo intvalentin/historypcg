@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.qv7ee.010
 1964002
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/v247yubmiipx-238-inch-2k-4ms-black-75-hz/
@@ -9,3 +9,5 @@ https://1.grgs.ro/images/products/1/1960570/1964002/thumbnails/v247yubmiipx-238-
     Pret    
 9/25/2020 9:47:10 PM 1.011,98 RON
 9/27/2020 9:43:17 AM 1.011,98 RON
+10/3/2020 10:23:34 PM 1.117,98 RON
+10/5/2020 12:41:54 PM 1.117,98 RON

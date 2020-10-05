@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |52d0ha0
 527315
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-520ha-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/527315/thumbnails/toner-520ha-black-b4b98d
 9/21/2020 10:51:50 PM 2.589,98 RON
 9/26/2020 1:06:46 PM 2.597,98 RON
 9/27/2020 4:08:00 PM 2.597,98 RON
+10/4/2020 7:05:02 PM 2.597,98 RON

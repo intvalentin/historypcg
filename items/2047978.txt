@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9ug43ea
 2047978
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/prodesk-400-g6-mt-procesor-intel-core-i5-9400f-29ghz-coffee-lake-16gb-ram-512gb-ssd-amd-radeon-r7-430-2gb-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6835/2047978/thumbnails/prodesk-400-g6-mt-pr
 9/21/2020 12:02:29 AM 3.999,98 RON
 9/25/2020 1:57:30 PM 3.999,98 RON
 9/26/2020 4:25:50 PM 4.009,98 RON
+10/2/2020 8:24:20 PM 4.009,98 RON
+10/5/2020 10:10:36 AM 4.009,98 RON

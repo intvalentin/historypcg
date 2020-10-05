@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-psu-1
 306415
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/cablu-alimentare-1x-molex-f-2x-molex-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/306415/thumbnails/cablu-alimentare-1x-mole
 9/21/2020 12:06:24 PM 5,99 RON
 9/26/2020 9:25:46 AM 5,99 RON
 9/27/2020 12:32:00 PM 5,99 RON
+10/4/2020 10:52:59 PM 5,99 RON

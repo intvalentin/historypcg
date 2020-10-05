@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pj723z1
 1942618
     Product link    
 https://www.pcgarage.ro/imprimante/brother/pj-723-termica-monocrom-format-a4-portabila/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6835/1942618/thumbnails/pj-763-termica-monoc
 9/21/2020 3:16:50 PM 2.779,98 RON
 9/26/2020 10:22:25 AM 2.789,98 RON
 9/27/2020 1:39:41 PM 2.789,98 RON
+10/5/2020 4:59:22 PM 2.787,98 RON

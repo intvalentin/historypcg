@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8937749
 990332
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-mt-303b-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/990332/thumbnails/toner-mt-303b-black
 9/22/2020 10:12:38 AM 163,98 RON
 9/26/2020 1:40:06 PM 163,98 RON
 9/27/2020 4:48:02 PM 163,98 RON
+10/4/2020 11:06:14 PM 163,98 RON

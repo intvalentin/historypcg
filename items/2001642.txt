@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5lv-00002
 2001642
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/sculpt-ergonomic-for-business-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/735074/2001642/thumbnails/sculpt-ergonomic-b
 9/21/2020 8:23:25 AM 247,98 RON
 9/26/2020 8:19:03 AM 249,98 RON
 9/27/2020 11:12:48 AM 249,98 RON
+10/3/2020 5:58:00 PM 249,98 RON
+10/5/2020 2:45:23 PM 249,98 RON

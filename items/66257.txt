@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sf1048
 66257
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sf1048/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/66257/thumbnails/tl-sf1048.jpg
 9/22/2020 11:40:17 AM 495,47 RON
 9/26/2020 2:44:18 PM 495,47 RON
 9/27/2020 6:46:00 PM 495,47 RON
+10/5/2020 4:46:10 PM 494,28 RON

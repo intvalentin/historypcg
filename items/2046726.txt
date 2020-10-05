@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p00924-b21
 2046726
     Product link    
 https://www.pcgarage.ro/memorii-server/hp/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2045418/2046726/thumbnails/ecc-rdimm-ddr4-32
 9/21/2020 12:04:27 AM 2.128,50 RON
 9/25/2020 2:27:03 PM 2.130,52 RON
 9/26/2020 4:48:05 PM 2.134,06 RON
+10/3/2020 9:08:28 AM 2.134,02 RON
+10/5/2020 10:34:08 AM 2.133,88 RON

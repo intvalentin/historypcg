@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0091
 1453198
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-hdmi-female-2x-hdmi-female-v14-splitter/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986897/1453198/thumbnails/1x-hdmi-female-2x-
 9/21/2020 12:37:47 PM 337,98 RON
 9/26/2020 9:36:09 AM 331,98 RON
 9/27/2020 12:43:09 PM 331,98 RON
+10/5/2020 8:28:02 AM 333,98 RON

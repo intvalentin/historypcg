@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-ac507
 1455318
     Product link    
 https://www.pcgarage.ro/adaptoare/raidsonic/icybox-1x-usb-30-male-1x-vga-female/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1301253/1455318/thumbnails/icybox-1x-usb-30-
 9/21/2020 12:29:29 PM 169,98 RON
 9/26/2020 9:31:41 AM 169,98 RON
 9/27/2020 12:38:22 PM 169,98 RON
+10/5/2020 8:24:37 AM 169,98 RON

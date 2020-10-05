@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-004508
 741170
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/logitech/mk270-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2/741170/thumbnails/mk270-black-7d1bdcbc5f96
 9/21/2020 10:03:12 AM 159,99 RON
 9/26/2020 8:39:15 AM 159,99 RON
 9/27/2020 11:33:04 AM 159,99 RON
+10/3/2020 10:00:00 PM 159,99 RON
+10/5/2020 3:01:54 PM 159,99 RON

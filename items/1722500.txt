@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0033
 1722500
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-microhdmi-male-3m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1703884/1722500/thumbnails/hdmi-male-microhd
 9/21/2020 10:37:19 AM 55,98 RON
 9/26/2020 9:03:03 AM 55,98 RON
 9/27/2020 11:56:59 AM 55,98 RON
+10/4/2020 7:41:21 PM 55,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9548b007aa
 1043277
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-c1225if-laser-color-format-a4fax-retea-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/1043277/thumbnails/imagerunner-c1225-
 9/21/2020 2:08:16 PM 3.893,98 RON
 9/26/2020 10:04:52 AM 3.907,98 RON
 9/27/2020 1:23:00 PM 3.899,98 RON
+10/5/2020 1:12:42 PM 3.905,98 RON

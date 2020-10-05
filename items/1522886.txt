@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0cu0020ri
 1522886
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/23-ideacentre-520s-fhd-ips-touch-procesor-intel-core-i7-7500u-27ghz-kaby-lake-8gb-1tb-geforce-930a-2gb-win-10-homesilver/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1496454/1522886/thumbnails/ln-520s-i7-7500u-
 9/21/2020 12:03:15 AM 5.419,98 RON
 9/25/2020 2:15:18 PM 5.429,98 RON
 9/26/2020 4:36:10 PM 5.439,98 RON
+10/2/2020 9:29:50 PM 5.439,98 RON
+10/5/2020 10:19:19 AM 5.439,98 RON

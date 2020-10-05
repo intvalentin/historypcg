@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmf2-10-bk
 1156773
     Product link    
 https://www.pcgarage.ro/cablu-periferice/orico/usb-20-tip-a-male-microusb-20-tip-a-male-1m-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/1156773/thumbnails/cmf2-10-bk-usb-20-
 9/21/2020 11:57:24 AM 23,98 RON
 9/26/2020 9:24:19 AM 23,98 RON
 9/27/2020 12:30:23 PM 23,98 RON
+10/4/2020 10:39:17 PM 23,98 RON

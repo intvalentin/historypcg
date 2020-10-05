@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |za1920nm10011
 1854018
     Product link    
 https://www.pcgarage.ro/ssd/seagate/ironwolf-110-192tb-sata-iii-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848722/1854018/thumbnails/ironwolf-110-192t
 9/21/2020 7:43:28 AM 1.910,77 RON
 9/24/2020 11:03:59 AM 1.932,93 RON
 9/25/2020 10:02:37 PM 1.948,57 RON
+10/5/2020 8:32:11 AM 2.313,49 RON

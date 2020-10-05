@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac0012
 1073474
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/tt-esports/gaming-glove-1/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/722028/1073474/thumbnails/gaming-glove-e4784
 9/21/2020 8:10:11 AM 69,98 RON
 9/25/2020 2:43:21 PM 69,98 RON
 9/26/2020 5:04:18 PM 69,98 RON
+10/3/2020 11:03:01 AM 69,98 RON
+10/5/2020 10:46:41 AM 69,98 RON

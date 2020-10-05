@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g1x85a
 1023426
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-7612-inkjet-format-a3-plus-duplex-fax-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/986897/1023426/thumbnails/officejet-7612-ink
 9/21/2020 2:31:11 PM 777,98 RON
 9/26/2020 10:13:01 AM 781,98 RON
 9/27/2020 1:31:43 PM 781,98 RON
+10/5/2020 2:22:11 PM 781,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a4tmys43971
 809228
     Product link    
 https://www.pcgarage.ro/mouse/a4tech/v-track-g3-200n/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/714621/809228/thumbnails/v-track-g3-200n-982
 9/21/2020 8:23:57 AM 47,98 RON
 9/26/2020 8:32:30 AM 45,98 RON
 9/27/2020 11:26:18 AM 45,98 RON
+10/3/2020 7:24:24 PM 47,98 RON
+10/5/2020 2:53:04 PM 47,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md031
 241215
     Product link    
 https://www.pcgarage.ro/routere-wireless/apple/airport-extreme-base-station/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/241215/thumbnails/airport-extreme-base-sta
 9/22/2020 11:19:55 AM 1.061,83 RON
 9/26/2020 2:26:32 PM 1.078,57 RON
 9/27/2020 6:28:11 PM 1.078,57 RON
+10/5/2020 2:29:33 PM 1.070,25 RON

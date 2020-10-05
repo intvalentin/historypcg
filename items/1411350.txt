@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bio8020013
 1411350
     Product link    
 https://www.pcgarage.ro/i-love-gaming/bioworld-europe/assassins-creed-syndicate-evie-frye-white/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1109408/1411350/thumbnails/assassins-creed-s
 9/21/2020 8:10:45 AM 49,98 RON
 9/25/2020 3:01:51 PM 49,98 RON
 9/26/2020 5:29:35 PM 49,98 RON
+10/3/2020 11:56:13 AM 49,98 RON
+10/5/2020 10:53:19 AM 49,98 RON

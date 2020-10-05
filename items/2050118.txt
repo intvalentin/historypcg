@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pfm2-c3-gy
 2050118
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/pfm2-c3-m2-nvme-usb-type-c-gray/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2050118/thumbnails/pfm2-c3-m2-nvme-u
 9/21/2020 10:22:18 AM 167,98 RON
 9/26/2020 8:51:12 AM 171,98 RON
 9/27/2020 11:45:06 AM 171,98 RON
+10/4/2020 5:31:19 PM 169,98 RON

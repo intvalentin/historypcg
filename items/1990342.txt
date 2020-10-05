@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac1200gu
 1990342
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-rt-ac1200gu-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8674/1990342/thumbnails/gigabit-rt-ac1200-du
 9/22/2020 11:18:51 AM 301,86 RON
 9/26/2020 2:23:34 PM 302,73 RON
 9/27/2020 6:24:29 PM 302,89 RON
+10/5/2020 2:20:06 PM 302,70 RON

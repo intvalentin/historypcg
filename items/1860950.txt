@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod230500
 1860950
     Product link    
 https://www.pcgarage.ro/hartie/kodak/4r-photo-premium-glossy-10x15-cm-500-coli-230-g-mp/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3207/1860950/thumbnails/4r-photo-premium-glo
 9/22/2020 10:21:11 AM 109,99 RON
 9/26/2020 1:45:59 PM 87,99 RON
 9/27/2020 4:53:56 PM 87,99 RON
+10/4/2020 11:55:00 PM 87,99 RON

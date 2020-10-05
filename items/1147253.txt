@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac15
 1147253
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-ac15-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/986897/1147253/thumbnails/gigabit-ac15-dual-
 9/22/2020 11:19:55 AM 457,31 RON
 9/26/2020 2:25:03 PM 458,88 RON
 9/27/2020 6:25:59 PM 458,88 RON
+10/5/2020 2:23:10 PM 458,58 RON

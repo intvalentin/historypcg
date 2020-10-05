@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |go-sw-5e
 722919
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/go-sw-5e/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/722919/thumbnails/go-sw-5e-88737ad62ac0d08
 9/22/2020 11:38:07 AM 34,41 RON
 9/26/2020 2:42:50 PM 34,52 RON
 9/27/2020 6:44:31 PM 34,55 RON
+10/5/2020 3:59:24 PM 34,52 RON

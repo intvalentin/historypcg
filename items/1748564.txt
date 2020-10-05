@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xg258q
 1748564
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-xg258q-245-inch-1-ms-black-freesync-240-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1737700/1748564/thumbnails/gaming-xg258q-245
 9/21/2020 8:17:27 AM 2.425,98 RON
 9/25/2020 10:01:12 PM 2.431,98 RON
 9/27/2020 10:01:55 AM 2.433,98 RON
+10/2/2020 8:48:18 PM 2.431,98 RON
+10/4/2020 4:33:32 PM 2.431,98 RON
+10/5/2020 1:06:10 PM 2.431,98 RON

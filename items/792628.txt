@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bm-333.605
 792628
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/pdu-6-schuko-1u-intrerupator-2-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/792628/thumbnails/pdu-6-schuko-1u-int
 9/21/2020 12:56:21 PM 257,98 RON
 9/26/2020 9:44:16 AM 257,98 RON
 9/27/2020 12:52:01 PM 257,98 RON
+10/5/2020 9:40:12 AM 257,98 RON

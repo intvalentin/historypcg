@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-873-4g
 1749044
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-873-4gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1749044/thumbnails/ts-873-4gb-ae16610c3
 9/22/2020 11:27:24 AM 5.408,57 RON
 9/26/2020 2:30:59 PM 5.424,16 RON
 9/27/2020 6:32:34 PM 5.427,28 RON
+10/5/2020 3:15:39 PM 5.423,71 RON

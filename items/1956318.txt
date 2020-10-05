@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wd102kryz
 1956318
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/western-digital/non-hot-plug-gold-sata-iii-10tb-7200-rpm-256mb-512e/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1953966/1956318/thumbnails/non-hot-plug-gold
 9/21/2020 12:05:23 AM 1.965,87 RON
 9/25/2020 2:30:46 PM 1.763,53 RON
 9/26/2020 4:53:59 PM 1.778,57 RON
+10/3/2020 10:07:53 AM 1.762,22 RON
+10/5/2020 10:39:21 AM 1.764,48 RON

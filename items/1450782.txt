@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kt022a
 1450782
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/kt022a-1x-sata-male-2x-m2-sata-ssd/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1409094/1450782/thumbnails/1x-sata-male-2x-m
 9/21/2020 12:27:24 PM 105,98 RON
 9/26/2020 9:32:26 AM 107,98 RON
 9/27/2020 12:39:12 PM 107,98 RON
+10/4/2020 11:54:34 PM 107,98 RON

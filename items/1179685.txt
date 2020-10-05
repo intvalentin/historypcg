@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b222401bt
 1179685
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-860n/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/800612/1179685/thumbnails/workforce-ds-860n-
 9/22/2020 10:43:45 AM 4.883,98 RON
 9/26/2020 2:02:55 PM 4.895,98 RON
 9/27/2020 5:10:11 PM 4.899,98 RON
+10/5/2020 10:21:34 AM 4.895,98 RON

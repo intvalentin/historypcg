@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.qx0ee.001
 1468834
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-xf240yubmiidprzx-238-inch-2k-1-ms-black-freesync-144hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1152773/1468834/thumbnails/gaming-xf240yubmi
 9/21/2020 8:17:19 AM 1.753,98 RON
 9/25/2020 10:05:41 PM 1.759,98 RON
 9/27/2020 10:06:41 AM 1.759,98 RON
+10/2/2020 8:31:07 PM 1.757,98 RON
+10/4/2020 4:32:02 PM 1.757,98 RON
+10/5/2020 1:01:11 PM 1.757,98 RON

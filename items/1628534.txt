@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod230a4
 1628534
     Product link    
 https://www.pcgarage.ro/hartie/kodak/a4-photo-glossy-20-coli-230-g-mp/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3207/1628534/thumbnails/hartie-foto-kodak-lu
     Pret    
 9/26/2020 1:45:59 PM 25,98 RON
 9/27/2020 4:53:56 PM 25,98 RON
+10/4/2020 11:58:01 PM 25,98 RON

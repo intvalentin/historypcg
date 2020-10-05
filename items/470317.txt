@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc524a
 470317
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-700-color-mfp-m775z-laser-color-format-a3-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/470317/thumbnails/laserjet-enterprise-700-
 9/21/2020 2:47:47 PM 28.373,98 RON
 9/26/2020 10:16:34 AM 28.471,98 RON
 9/27/2020 1:34:06 PM 28.471,98 RON
+10/5/2020 3:25:19 PM 28.453,98 RON

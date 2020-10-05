@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mpower
 1051097
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/ubiquiti-networks/mfi-mpower-network-3x-schuko/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/1051097/thumbnails/mfi-mpower-network
 9/21/2020 12:58:23 PM 305,98 RON
 9/26/2020 9:44:16 AM 311,98 RON
 9/27/2020 12:52:01 PM 311,98 RON
+10/5/2020 9:43:14 AM 307,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr16lr11d4+-+16
 1607514
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr3l-16gb-1600mhz-cl11-135v/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1141198/1607514/thumbnails/ecc-rdimm-ddr3l-1
 9/21/2020 12:04:41 AM 951,32 RON
 9/25/2020 2:27:48 PM 964,24 RON
 9/26/2020 4:48:49 PM 972,46 RON
+10/3/2020 9:02:51 AM 963,53 RON
+10/5/2020 10:33:23 AM 964,76 RON

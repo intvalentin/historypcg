@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |des-1005p
 804882
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/des-1005p-poe/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/804882/thumbnails/des-1005p-poe-0d3638cd6f
 9/22/2020 11:39:12 AM 207,56 RON
 9/26/2020 2:42:05 PM 208,27 RON
 9/27/2020 6:43:47 PM 208,27 RON
+10/5/2020 4:34:09 PM 208,13 RON

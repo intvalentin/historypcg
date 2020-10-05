@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a8p79a
 734483
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-m521dn-laser-monocrom-format-a4-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/734483/thumbnails/laserjet-pro-m521dn
 9/21/2020 1:57:58 PM 3.393,98 RON
 9/26/2020 10:04:52 AM 3.445,98 RON
 9/27/2020 1:23:00 PM 3.397,98 RON
+10/5/2020 3:04:29 PM 3.377,98 RON

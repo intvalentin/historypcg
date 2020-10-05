@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9507b004aa
 1474954
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/ir1435if-laser-monocrom-format-a4-duplex-fax-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1434070/1474954/thumbnails/ir1435if-laser-mo
 9/21/2020 2:43:39 PM 3.863,98 RON
 9/26/2020 10:11:32 AM 3.873,98 RON
 9/27/2020 1:30:08 PM 3.875,98 RON
+10/5/2020 3:06:22 PM 3.873,98 RON

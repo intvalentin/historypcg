@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d-per72-059641-131
 366059
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r720-d-per72-059641-131-intel-xeon-e5-2620-2ghz-8gb-2x-300gb/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/472405/366059/thumbnails/poweredge-r720xd-pr
 9/21/2020 12:04:10 AM 18.955,33 RON
 9/25/2020 2:24:07 PM 19.376,80 RON
 9/26/2020 4:45:04 PM 19.372,64 RON
+10/3/2020 8:21:36 AM 19.223,20 RON
+10/5/2020 10:28:09 AM 19.223,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea72
 1651824
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/somic/easars-hellbenter-bungee/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1649828/1651824/thumbnails/easars-hellbenter
 9/21/2020 8:10:02 AM 79,99 RON
 9/25/2020 2:41:07 PM 79,99 RON
 9/26/2020 5:02:05 PM 79,99 RON
+10/3/2020 10:50:33 AM 79,99 RON
+10/5/2020 10:45:12 AM 79,99 RON

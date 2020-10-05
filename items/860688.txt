@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf1255b023aa
 860688
     Product link    
 https://www.pcgarage.ro/accesorii-copiatoare/canon/printer-stand-st-27-pentru-ipf650-ipf655/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/860688/thumbnails/printer-stand-st-27
 9/22/2020 10:38:21 AM 1.410,16 RON
 9/26/2020 1:58:32 PM 1.415,01 RON
 9/27/2020 5:06:26 PM 1.415,01 RON
+10/5/2020 9:47:47 AM 1.414,08 RON

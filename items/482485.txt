@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp032gbuf2101v1b
 482485
     Product link    
 https://www.pcgarage.ro/memorii-externe/silicon-power/helios-101-32gb-albastru/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/3/482485/thumbnails/helios-101-32gb-albastru
 9/21/2020 8:21:25 AM 25,98 RON
 9/26/2020 8:14:40 AM 25,98 RON
 9/27/2020 11:08:18 AM 25,98 RON
+10/3/2020 1:54:07 PM 25,98 RON
+10/5/2020 2:24:17 PM 25,98 RON

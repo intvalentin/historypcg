@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ls24e65uxwg+-+en
 1965102
     Product link    
 https://www.pcgarage.ro/monitoare-led/samsung/ls24e65uxwg-24-inch-4-ms-black-60hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1960570/1965102/thumbnails/ls24e65uxwg-24-in
 9/21/2020 8:17:07 AM 1.019,98 RON
 9/25/2020 9:58:13 PM 1.019,98 RON
 9/27/2020 9:58:41 AM 1.019,98 RON
+10/2/2020 8:17:15 PM 1.383,98 RON
+10/3/2020 11:13:36 PM 1.383,98 RON
+10/5/2020 12:58:54 PM 1.383,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |me088z+-+a
 799518
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/apple/new-imac-27-inch-haswell-i5-320ghz-8gb-1tb-geforce-gt-755m-1gb-mac-os-eng-keyboard/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/2/799518/thumbnails/new-imac-27-inch-haswell
 9/21/2020 12:03:20 AM 9.549,98 RON
 9/25/2020 2:16:01 PM 9.579,98 RON
 9/26/2020 4:36:52 PM 9.579,98 RON
+10/2/2020 9:39:41 PM 9.579,98 RON
+10/5/2020 10:20:05 AM 9.579,98 RON

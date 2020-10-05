@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rc21-01190100-r3m1
 1738736
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/razer/base-station-chroma/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1737700/1738736/thumbnails/base-station-raze
 9/21/2020 8:10:07 AM 403,98 RON
 9/25/2020 2:42:36 PM 405,98 RON
 9/26/2020 5:03:34 PM 405,98 RON
+10/3/2020 11:16:26 AM 405,98 RON
+10/5/2020 10:48:11 AM 405,98 RON

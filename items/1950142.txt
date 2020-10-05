@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0eb006xri
 1950142
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/22-quot-f0eb006xri-fhd-procesor-intel-core-i3-8145u-21ghz-whiskey-lake-4gb-ddr4-1tb-hdd-plus-128gb-ssd-gma-uhd-620-freedos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6166/1950142/thumbnails/22-quot-f0eb006xri-f
 9/21/2020 12:03:05 AM 2.639,98 RON
 9/25/2020 2:13:48 PM 2.649,98 RON
 9/26/2020 4:34:42 PM 2.649,98 RON
+10/2/2020 9:08:11 PM 2.649,98 RON
+10/5/2020 10:17:04 AM 2.649,98 RON

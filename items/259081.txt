@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |br-6228ns
 259081
     Product link    
 https://www.pcgarage.ro/routere-wireless/edimax/br-6228ns/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/259081/thumbnails/br-6228ns-a1b7ecd4debd5a
 9/22/2020 11:17:46 AM 104,20 RON
 9/26/2020 2:26:32 PM 105,84 RON
 9/27/2020 6:28:11 PM 105,84 RON
+10/5/2020 1:27:53 PM 105,02 RON

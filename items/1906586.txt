@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |097s04970
 1906586
     Product link    
 https://www.pcgarage.ro/accesorii-printing/xerox/tava-suplimentara-pentru-versalink-c8000-c9000/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1906586/thumbnails/tava-suplimentara
 9/22/2020 11:06:00 AM 6.233,98 RON
 9/26/2020 2:13:13 PM 6.253,98 RON
 9/27/2020 6:14:58 PM 6.241,98 RON
+10/5/2020 11:58:58 AM 6.251,98 RON

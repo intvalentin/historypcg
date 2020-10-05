@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vt229h
 1885582
     Product link    
 https://www.pcgarage.ro/monitoare-touchscreen/asus/vt229h-215-inch-5-ms-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1798/1885582/thumbnails/vt229h-215-inch-5-ms
 9/21/2020 8:17:52 AM 1.199,98 RON
 9/25/2020 10:11:39 PM 1.201,98 RON
 9/27/2020 10:13:08 AM 1.203,98 RON
+10/2/2020 9:22:32 PM 1.201,98 RON
+10/5/2020 1:09:53 PM 1.201,98 RON

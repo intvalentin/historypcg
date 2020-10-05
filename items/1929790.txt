@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3029c004aa
 1929790
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-2206if-laser-monocrom-format-a3-duplex-retea-fax/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6622/1929790/thumbnails/imagerunner-2206if-l
 9/21/2020 2:45:44 PM 7.869,98 RON
 9/26/2020 10:07:05 AM 7.889,98 RON
 9/27/2020 1:26:06 PM 7.893,98 RON
+10/5/2020 3:14:58 PM 7.889,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthg2000400
 1817156
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/mobile-drive-25-inch-2tb-usb-c/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/753/1817156/thumbnails/mobile-drive-25-inch-
 9/21/2020 8:18:33 AM 469,98 RON
 9/25/2020 10:16:42 PM 479,98 RON
 9/27/2020 10:18:47 AM 479,98 RON
+10/3/2020 8:30:00 AM 469,98 RON
+10/5/2020 1:21:39 PM 469,98 RON

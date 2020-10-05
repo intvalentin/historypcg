@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s041749
 1159997
     Product link    
 https://www.pcgarage.ro/hartie/epson/bright-white-a4-90-g-m2-500-coli/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/367655/1159997/thumbnails/bright-white-a4-90
 9/22/2020 10:24:25 AM 66,98 RON
 9/26/2020 1:48:57 PM 67,98 RON
 9/27/2020 4:56:54 PM 67,98 RON
+10/5/2020 8:13:57 AM 67,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b5l24a
 1041177
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-enterprise-m553n-format-a4-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/1041177/thumbnails/color-laserjet-ent
 9/21/2020 3:14:46 PM 1.935,98 RON
 9/26/2020 10:26:07 AM 1.941,98 RON
 9/27/2020 1:43:40 PM 1.941,98 RON
+10/5/2020 4:54:45 PM 1.941,98 RON

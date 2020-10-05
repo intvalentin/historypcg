@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0d500l5ri
 1977798
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-520-215-inch-fhd-procesor-intel-core-i3-7020u-23ghz-kaby-lake-4gb-128gb-ssd-plus-1tb-hdd-gma-hd-620-freedos-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/370411/1977798/thumbnails/215-ideacentre-520
 9/21/2020 12:03:10 AM 3.169,98 RON
 9/25/2020 2:13:03 PM 3.169,98 RON
 9/26/2020 4:33:57 PM 3.179,98 RON
+10/2/2020 9:15:46 PM 3.179,98 RON
+10/5/2020 10:17:49 AM 3.179,98 RON

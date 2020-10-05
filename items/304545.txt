@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm78462
 304545
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/cablu-usb-20-tip-a-m-usb-20-tip-b-m-double-shielded-18m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/304545/thumbnails/cablu-usb-20-tip-a-m-usb
 9/21/2020 11:51:10 AM 39,98 RON
 9/26/2020 9:22:06 AM 39,98 RON
 9/27/2020 12:28:00 PM 39,98 RON
+10/4/2020 10:24:10 PM 39,98 RON

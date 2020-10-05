@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1367c066aa
 1964050
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts5053-gray-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1261/1964050/thumbnails/pixma-ts5053-gray-in
 9/21/2020 2:27:03 PM 479,98 RON
 9/26/2020 10:06:21 AM 481,98 RON
 9/27/2020 1:24:33 PM 481,98 RON
+10/5/2020 2:11:52 PM 481,98 RON

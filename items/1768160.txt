@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |awr89700k325122sw
 1768160
     Product link    
 https://www.pcgarage.ro/sisteme-brand/alienware/aurora-r8-procesor-intel-core-i7-9700k-36ghz-coffee-lake-32gb-ddr4-512gb-ssd-plus-2tb-hdd-geforce-rtx-2080-ti-11gb-win-10-pro/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3207/1768160/thumbnails/aurora-r7-procesor-i
 9/21/2020 12:02:44 AM 19.599,98 RON
 9/25/2020 2:01:13 PM 19.659,98 RON
 9/26/2020 4:29:31 PM 19.669,98 RON
+10/2/2020 8:49:10 PM 19.649,98 RON
+10/5/2020 10:12:49 AM 19.649,98 RON

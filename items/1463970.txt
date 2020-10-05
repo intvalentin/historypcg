@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus120-1f1cb19a5ea560736f716b29a1e932b8
 1463970
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x50c-x50gl-x50m-x50n-x50r-x50rl-x50sl-x50sr/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1427502/1463970/thumbnails/baterie-laptop-as
 9/20/2020 11:11:45 PM 219,98 RON
 9/25/2020 4:04:56 PM 223,98 RON
 9/26/2020 6:04:48 PM 223,98 RON
+10/3/2020 4:52:36 PM 221,98 RON
+10/5/2020 11:13:28 AM 221,98 RON

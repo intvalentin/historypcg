@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |80c0x20
 742966
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-80c0x20-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/742966/thumbnails/toner-80c0x20-cyan-ecad6
 9/21/2020 10:42:08 PM 767,98 RON
 9/26/2020 1:05:16 PM 769,98 RON
 9/27/2020 4:06:31 PM 769,98 RON
+10/4/2020 5:54:33 PM 769,98 RON

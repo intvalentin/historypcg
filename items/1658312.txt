@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |29wk600-w
 1658312
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/29wk600-w-29-inch-5-ms-freesync/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/5286/1658312/thumbnails/29wk600-w-29-inch-5-
 9/21/2020 8:17:07 AM 1.081,98 RON
 9/25/2020 10:03:25 PM 1.089,98 RON
 9/27/2020 10:04:19 AM 1.089,98 RON
+10/2/2020 8:02:25 PM 1.091,98 RON
+10/3/2020 11:12:08 PM 1.091,98 RON
+10/5/2020 12:57:27 PM 1.091,98 RON

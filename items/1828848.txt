@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac12g
 1828848
     Product link    
 https://www.pcgarage.ro/routere-wireless/mercusys/gigabit-ac12g-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5664/1828848/thumbnails/gigabit-ac12g-dual-b
 9/22/2020 11:09:11 AM 120,09 RON
 9/26/2020 2:19:50 PM 120,09 RON
 9/27/2020 6:20:49 PM 120,09 RON
+10/5/2020 12:13:42 PM 120,09 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0d7252
 237755
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a0d7252-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/237755/thumbnails/toner-yellow-a0d7252-df2
 9/22/2020 10:11:34 AM 359,98 RON
 9/26/2020 1:42:20 PM 331,98 RON
 9/27/2020 4:50:16 PM 331,98 RON
+10/4/2020 11:11:28 PM 333,98 RON

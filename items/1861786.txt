@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs-1026 v2
 1861786
     Product link    
 https://www.pcgarage.ro/switch-uri/edimax/gigabit-gs-1026-v2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1236/1861786/thumbnails/gigabit-gs-1026-v2-9
 9/22/2020 11:40:17 AM 491,19 RON
 9/26/2020 2:38:22 PM 501,02 RON
 9/27/2020 6:40:02 PM 501,02 RON
+10/5/2020 4:46:26 PM 497,09 RON

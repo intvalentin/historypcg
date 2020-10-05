@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps7451bdafwof
 1736580
     Product link    
 https://www.pcgarage.ro/procesoare-server/amd/epyc-twenty-four-core-7451-23ghz-box/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1736364/1736580/thumbnails/epyc-twenty-four-
 9/21/2020 12:04:17 AM 13.685,40 RON
 9/25/2020 2:24:50 PM 13.989,69 RON
 9/26/2020 4:45:50 PM 13.986,68 RON
+10/3/2020 8:32:17 AM 13.878,80 RON
+10/5/2020 10:29:38 AM 13.878,80 RON

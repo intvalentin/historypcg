@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |br-6476ac
 2042138
     Product link    
 https://www.pcgarage.ro/routere-wireless/edimax/br-6476ac-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2042138/thumbnails/br-6476ac-dual-band-
 9/22/2020 11:13:28 AM 145,58 RON
 9/26/2020 2:17:36 PM 148,82 RON
 9/27/2020 6:19:19 PM 148,78 RON
+10/5/2020 12:14:48 PM 147,63 RON

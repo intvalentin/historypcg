@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ce41301a0
 1986694
     Product link    
 https://www.pcgarage.ro/plottere/epson/surecolor-sc-p6000-std-24-inch/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/1986694/thumbnails/surecolor-sc-p600
 9/22/2020 10:30:50 AM 11.855,98 RON
 9/26/2020 1:52:38 PM 11.885,98 RON
 9/27/2020 5:00:32 PM 11.891,98 RON
+10/5/2020 8:48:43 AM 11.883,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf2840b003aa
 92681
     Product link    
 https://www.pcgarage.ro/accesorii-copiatoare/canon/dadf-ab1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/92681/thumbnails/dadf-ab1-705c5aff45de28a9
 9/22/2020 10:38:20 AM 2.169,39 RON
 9/26/2020 1:58:32 PM 2.175,07 RON
 9/27/2020 5:06:26 PM 2.176,31 RON
+10/5/2020 9:49:29 AM 2.174,87 RON

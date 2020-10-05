@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v241fak-ba040d
 1935022
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/238-quot-v241fak-fhd-procesor-intel-core-i3-8145u-21ghz-whiskey-lake-8gb-ddr4-256gb-ssd-gma-uhd-620-endless-os/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1736364/1935022/thumbnails/215-quot-v222gak-
 9/21/2020 12:02:48 AM 2.599,99 RON
 9/25/2020 2:13:48 PM 2.599,99 RON
 9/26/2020 4:32:28 PM 2.599,99 RON
+10/2/2020 9:07:54 PM 2.629,98 RON
+10/5/2020 10:16:20 AM 2.629,98 RON

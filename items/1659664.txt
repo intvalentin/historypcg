@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb16ac
 1659664
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/mb16ac-156-inch-5-ms-silver-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/5286/1659664/thumbnails/mb16ac-156-inch-5-ms
 9/21/2020 8:17:15 AM 1.411,98 RON
 9/25/2020 10:03:25 PM 1.415,98 RON
 9/27/2020 10:04:19 AM 1.415,98 RON
+10/2/2020 8:18:48 PM 1.415,98 RON
+10/4/2020 4:30:35 PM 1.415,98 RON
+10/5/2020 12:59:41 PM 1.415,98 RON

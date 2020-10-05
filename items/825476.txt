@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aud310-32g-rrd
 825476
     Product link    
 https://www.pcgarage.ro/memorii-externe/a-data/dashdrive-durable-ud310-32gb-rosu/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/472405/825476/thumbnails/dashdrive-durable-u
 9/21/2020 8:21:11 AM 21,98 RON
 9/26/2020 8:13:56 AM 21,98 RON
 9/27/2020 11:07:32 AM 21,98 RON
+10/3/2020 12:16:53 PM 19,98 RON
+10/5/2020 2:20:28 PM 19,98 RON

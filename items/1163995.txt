@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hll6400dwrf1
 1163995
     Product link    
 https://www.pcgarage.ro/imprimante/brother/hl-l6400dw-laser-monocrom-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/1163995/thumbnails/hl-l6400dw-laser-m
 9/21/2020 3:00:10 PM 3.045,98 RON
 9/26/2020 10:20:56 AM 3.055,98 RON
 9/27/2020 1:38:06 PM 3.055,98 RON
+10/5/2020 3:59:55 PM 3.053,98 RON

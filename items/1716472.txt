@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp2768
 1716472
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vp2768-27-inch-2k-5-ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1691852/1716472/thumbnails/vp2768-27-inch-2k
 9/21/2020 8:17:23 AM 2.149,98 RON
 9/25/2020 10:01:56 PM 2.155,98 RON
 9/27/2020 10:02:42 AM 2.157,98 RON
+10/2/2020 8:42:01 PM 2.155,98 RON
+10/4/2020 4:32:47 PM 2.155,98 RON
+10/5/2020 1:05:26 PM 2.155,98 RON

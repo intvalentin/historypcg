@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |min21930
 245733
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-tn-210c-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/245733/thumbnails/toner-cyan-tn-210c-5bc1d
 9/22/2020 10:11:34 AM 265,98 RON
 9/26/2020 1:40:06 PM 265,98 RON
 9/27/2020 4:48:02 PM 265,98 RON
+10/4/2020 10:57:08 PM 265,98 RON

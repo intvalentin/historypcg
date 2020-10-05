@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9704b003aa
 1073694
     Product link    
 https://www.pcgarage.ro/scannere/canon/imageformula-p-208ii-format-a4-mobil-usb-20/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/859765/1073694/thumbnails/imageformula-p-208
 9/22/2020 10:39:26 AM 623,98 RON
 9/26/2020 2:00:01 PM 627,98 RON
 9/27/2020 5:07:57 PM 625,98 RON
+10/5/2020 9:53:12 AM 625,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |itdcw_bee_01
 1856922
     Product link    
 https://www.pcgarage.ro/sisteme-brand/itd-custom-works/gaming-bee-intel-i5-9400f-29ghz-coffee-lake-8gb-ddr4-1tb-ssd-gtx-1650-4gb-gddr5-iluminare-rgb/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1848722/1856922/thumbnails/gaming-bee-intel-
 9/21/2020 12:02:29 AM 3.729,98 RON
 9/25/2020 2:01:13 PM 3.739,98 RON
 9/26/2020 4:29:31 PM 3.739,98 RON
+10/2/2020 8:20:31 PM 3.739,98 RON
+10/5/2020 10:09:52 AM 3.739,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcdvrr140
 1448194
     Product link    
 https://www.pcgarage.ro/camere-auto/prestigio/roadrunner-140/
@@ -8,3 +8,4 @@ Prestigio RoadRunner 140
 https://1.grgs.ro/images/products/1/1363661/1448194/thumbnails/roadrunner-140-2206f567149fcef3fd8651d6776b822b.jpg
     Pret    
 9/22/2020 5:27:04 PM 117,98 RON
+10/5/2020 4:05:21 PM 118,98 RON

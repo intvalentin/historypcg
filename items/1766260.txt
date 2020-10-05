@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t6c26aw
 1766260
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/hp/23-quot-eliteone-800-g2-fhd-procesor-intel-core-i5-6500-32ghz-skylake-8gb-500gb-hdd-gma-hd-530-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/842306/1766260/thumbnails/23-quot-eliteone-8
 9/21/2020 12:03:20 AM 5.929,98 RON
 9/25/2020 2:14:33 PM 5.949,98 RON
 9/26/2020 4:35:27 PM 5.949,98 RON
+10/2/2020 9:33:43 PM 5.949,98 RON
+10/5/2020 10:19:19 AM 5.949,98 RON

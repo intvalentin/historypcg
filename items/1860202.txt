@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sgk-1020-bbca1
 1860202
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/cooler-master/mechanical-key-switch-tester/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1236/1860202/thumbnails/mechanical-key-switc
 9/21/2020 8:10:11 AM 95,98 RON
 9/25/2020 2:42:36 PM 95,98 RON
 9/26/2020 5:03:34 PM 93,98 RON
+10/3/2020 11:04:56 AM 95,98 RON
+10/5/2020 10:46:42 AM 95,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a00w132
 799760
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a00w132-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/799760/thumbnails/toner-a00w132-yello
 9/22/2020 10:12:38 AM 501,98 RON
 9/26/2020 1:39:22 PM 493,98 RON
 9/27/2020 4:47:18 PM 493,98 RON
+10/4/2020 11:03:46 PM 497,98 RON

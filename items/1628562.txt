@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod200a4
 1628562
     Product link    
 https://www.pcgarage.ro/hartie/kodak/a4-photo-high-glossy-20-coli-200-g-mp/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3207/1628562/thumbnails/a4-photo-high-glossy
     Pret    
 9/26/2020 1:45:59 PM 23,98 RON
 9/27/2020 4:53:56 PM 23,98 RON
+10/4/2020 11:57:27 PM 23,98 RON

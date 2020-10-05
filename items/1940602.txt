@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3ek10a
 1940602
     Product link    
 https://www.pcgarage.ro/plottere/hp/designjet-t1600-36-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1940602/thumbnails/designjet-t1600-36-i
 9/22/2020 10:30:50 AM 18.651,98 RON
 9/26/2020 1:53:22 PM 18.715,98 RON
 9/27/2020 5:01:17 PM 18.673,98 RON
+10/5/2020 8:49:53 AM 18.703,98 RON

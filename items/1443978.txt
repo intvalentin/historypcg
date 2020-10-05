@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |470-abeo
 1443978
     Product link    
 https://www.pcgarage.ro/adaptoare/dell/1x-displayport-male-1x-dvi-d-female-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1443558/1443978/thumbnails/1x-displayport-ma
 9/21/2020 12:27:24 PM 97,98 RON
 9/26/2020 9:32:26 AM 97,98 RON
 9/27/2020 12:39:12 PM 97,98 RON
+10/4/2020 11:50:17 PM 97,98 RON

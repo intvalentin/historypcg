@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mini displayport(m) - hdmi(f)
 1837168
     Product link    
 https://www.pcgarage.ro/adaptoare/lanberg/1x-minidisplayport-male-1x-hdmi-female-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3582/1837168/thumbnails/1x-minidisplayport-m
 9/21/2020 12:31:34 PM 41,98 RON
 9/26/2020 9:34:39 AM 41,98 RON
 9/27/2020 12:41:33 PM 41,98 RON
+10/5/2020 8:07:20 AM 41,98 RON

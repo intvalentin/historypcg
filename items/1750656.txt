@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0608c025aa
 1750656
     Product link    
 https://www.pcgarage.ro/imprimante/canon/imageprograf-pro-1000-inkjet-color-format-a2-retea-wi-fi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6763/1750656/thumbnails/pixma-pro-100-inkjet
 9/21/2020 3:18:55 PM 5.167,98 RON
 9/26/2020 10:24:39 AM 5.181,98 RON
 9/27/2020 1:42:03 PM 5.185,98 RON
+10/5/2020 5:09:53 PM 5.181,98 RON

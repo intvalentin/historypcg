@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-n18u
 873857
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/rt-n18u/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/851375/873857/thumbnails/rt-n18u-23849bb4d64
 9/22/2020 11:18:51 AM 352,77 RON
 9/26/2020 2:25:03 PM 353,79 RON
 9/27/2020 6:26:43 PM 353,99 RON
+10/5/2020 2:21:32 PM 353,76 RON

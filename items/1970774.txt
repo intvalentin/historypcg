@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usw-flex
 1970774
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-unifiswitch-flex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970774/thumbnails/gigabit-unifiswitch-
 9/22/2020 11:50:00 AM 520,98 RON
 9/26/2020 2:45:03 PM 529,20 RON
 9/27/2020 6:46:44 PM 529,20 RON
+10/5/2020 5:51:48 PM 523,38 RON

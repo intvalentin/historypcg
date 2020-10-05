@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0656c006aa
 1473210
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp710cx-laser-color-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1173769/1473210/thumbnails/i-sensys-lbp710cx
 9/21/2020 3:00:10 PM 2.313,98 RON
 9/26/2020 10:20:56 AM 2.315,98 RON
 9/27/2020 1:38:06 PM 2.309,98 RON
+10/5/2020 3:55:48 PM 2.313,98 RON

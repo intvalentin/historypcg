@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb-1802g3
 859079
     Product link    
 https://www.pcgarage.ro/routere-wireless/sapido/rb-1802g3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/859079/thumbnails/rb-1802g3-0cca77827
 9/22/2020 11:16:41 AM 67,09 RON
 9/26/2020 2:25:03 PM 68,15 RON
 9/27/2020 6:26:43 PM 68,15 RON
+10/5/2020 1:21:51 PM 67,62 RON

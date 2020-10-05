@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d3l09a
 783174
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-enterprise-m750dn-laser-color-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/783174/thumbnails/color-laserjet-ente
 9/21/2020 3:21:00 PM 12.525,98 RON
 9/26/2020 10:26:52 AM 12.569,98 RON
 9/27/2020 1:44:28 PM 12.569,98 RON
+10/5/2020 5:16:30 PM 12.561,98 RON

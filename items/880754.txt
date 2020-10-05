@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm54588
 880754
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/usb-20-male-microusb-20-male-18m-negru-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/880754/thumbnails/cablu-usb-tip-a-m-m
 9/21/2020 11:53:14 AM 43,98 RON
 9/26/2020 9:21:21 AM 43,98 RON
 9/27/2020 12:27:13 PM 43,98 RON
+10/4/2020 10:25:22 PM 43,98 RON

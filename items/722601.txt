@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg2452
 722601
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/gigabit-tl-sg2452/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/722601/thumbnails/tl-sg2452-81fa58c92
 9/22/2020 11:43:31 AM 1.318,46 RON
 9/26/2020 2:42:50 PM 1.318,46 RON
 9/27/2020 6:44:31 PM 1.318,46 RON
+10/5/2020 5:07:20 PM 1.318,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |228-11135
 1674872
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/sql-server-2017-standard-license-single-language-olp-nl/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1666176/1674872/thumbnails/sql-server-2017-s
 9/21/2020 1:17:08 PM 5.480,19 RON
 9/26/2020 9:47:53 AM 5.495,04 RON
 9/27/2020 12:56:02 PM 5.495,04 RON
+10/5/2020 10:07:26 AM 5.503,27 RON

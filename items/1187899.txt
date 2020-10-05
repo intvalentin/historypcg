@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4599b001aa
 1187899
     Product link    
 https://www.pcgarage.ro/calculatoare-de-birou/canon/as-1200/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1187899/thumbnails/as-1200-f089a1eb68
 9/22/2020 10:46:59 AM 37,98 RON
 9/26/2020 2:05:09 PM 37,98 RON
 9/27/2020 5:12:26 PM 37,98 RON
+10/5/2020 10:33:44 AM 37,98 RON

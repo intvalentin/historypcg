@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm45076
 358301
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/dvi-m-la-dvi-m-18m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/358301/thumbnails/dvi-m-la-dvi-m-18m-252aa
 9/21/2020 10:34:06 AM 54,39 RON
 9/26/2020 9:07:30 AM 67,98 RON
 9/27/2020 12:14:33 PM 67,98 RON
+10/4/2020 7:46:29 PM 67,98 RON

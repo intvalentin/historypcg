@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11ce21301
 996717
     Product link    
 https://www.pcgarage.ro/imprimante/epson/p600-inkjet-color-format-a3-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/480523/996717/thumbnails/p600-inkjet-color-f
 9/21/2020 3:16:50 PM 3.439,98 RON
 9/26/2020 10:26:52 AM 3.447,98 RON
 9/27/2020 1:44:28 PM 3.449,98 RON
+10/5/2020 5:03:14 PM 3.447,98 RON

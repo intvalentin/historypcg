@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01443
 217399
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01443-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/217399/thumbnails/print-cartridge-high-cap
 9/22/2020 10:01:53 AM 2.189,98 RON
 9/26/2020 1:31:12 PM 2.197,98 RON
 9/27/2020 4:38:33 PM 2.197,98 RON
+10/4/2020 9:52:16 PM 2.195,98 RON

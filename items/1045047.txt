@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-ckey01-us
 1045047
     Product link    
 https://www.pcgarage.ro/tastaturi/canyon/cne-ckey01-us-black/
@@ -11,3 +11,5 @@ https://2.grgs.ro/images/products/1/960827/1045047/thumbnails/cne-ckey01-us-blac
 9/21/2020 9:58:59 AM 19,98 RON
 9/26/2020 8:37:01 AM 19,98 RON
 9/27/2020 11:30:47 AM 19,98 RON
+10/3/2020 9:12:55 PM 19,98 RON
+10/5/2020 2:58:16 PM 19,98 RON

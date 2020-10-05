@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |infd8gcrypto140-2
 843370
     Product link    
 https://www.pcgarage.ro/memorii-externe/integral/crypto-total-lock-8gb-negru/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/634551/843370/thumbnails/crypto-total-lock-8
 9/21/2020 8:22:20 AM 159,98 RON
 9/26/2020 8:13:11 AM 155,98 RON
 9/27/2020 11:06:47 AM 155,98 RON
+10/3/2020 4:25:24 PM 159,98 RON
+10/5/2020 2:34:00 PM 157,98 RON

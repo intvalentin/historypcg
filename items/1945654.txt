@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |snb-8815
 1945654
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/inter-tech/snb-8815-15u-stand-alone-800-x-800-glass-door/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5758/1945654/thumbnails/snb-8815-15u-stand-a
 9/21/2020 12:05:33 AM 2.270,28 RON
 9/25/2020 2:37:24 PM 2.320,76 RON
 9/26/2020 4:57:41 PM 2.320,26 RON
+10/3/2020 10:26:22 AM 2.302,36 RON
+10/5/2020 10:42:16 AM 2.302,36 RON

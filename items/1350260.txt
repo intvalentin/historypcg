@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4xb0f28677
 1350260
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/non-hot-plug-sata-1tb-7200-rpm-25-inch-thinkserver-enterprise-for-rs-series/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/991247/1350260/thumbnails/non-hot-plug-sata-
 9/21/2020 12:04:59 AM 1.994,86 RON
 9/25/2020 2:32:16 PM 2.000,61 RON
 9/26/2020 4:53:14 PM 2.001,76 RON
+10/3/2020 9:41:58 AM 2.000,44 RON
+10/5/2020 10:36:22 AM 2.000,44 RON

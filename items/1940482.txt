@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100n03284
 1940482
     Product link    
 https://www.pcgarage.ro/scannere/xerox/documate-6710/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1940482/thumbnails/documate-6710-82d11c
 9/22/2020 10:44:49 AM 39.473,98 RON
 9/26/2020 2:00:46 PM 39.607,98 RON
 9/27/2020 5:08:42 PM 39.519,98 RON
+10/5/2020 10:30:30 AM 39.583,98 RON

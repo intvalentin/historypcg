@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus187-1951267e77b59e8b3909db8c133fe713
 1489558
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x540lj/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1434070/1489558/thumbnails/baterie-laptop-as
 9/20/2020 11:12:05 PM 219,98 RON
 9/25/2020 3:58:12 PM 223,98 RON
 9/26/2020 5:58:01 PM 223,98 RON
+10/3/2020 5:11:11 PM 221,98 RON
+10/5/2020 11:14:59 AM 221,98 RON

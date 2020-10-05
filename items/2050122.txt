@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pam2-c3-bk
 2050122
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/pam2-c3-m2-nvme-usb-type-c-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2050122/thumbnails/pam2-c3-m2-nvme-u
 9/21/2020 10:26:33 AM 179,98 RON
 9/26/2020 8:51:12 AM 183,98 RON
 9/27/2020 11:45:06 AM 183,98 RON
+10/4/2020 5:32:23 PM 183,98 RON

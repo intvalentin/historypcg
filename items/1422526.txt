@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srxm-pst600w-rd
 1422526
     Product link    
 https://www.pcgarage.ro/mouse/serioux/pastel-600-red/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1000151/1422526/thumbnails/pastel-600-red-4a
 9/21/2020 8:23:48 AM 23,98 RON
 9/26/2020 8:29:31 AM 23,98 RON
 9/27/2020 11:23:18 AM 23,98 RON
+10/3/2020 7:00:33 PM 25,98 RON
+10/3/2020 7:03:30 PM 25,98 RON
+10/5/2020 2:49:32 PM 25,98 RON

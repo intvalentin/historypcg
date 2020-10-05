@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg3448
 1967994
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vg3448-34-inch-5ms-negru-60-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8977/1967994/thumbnails/vg3448-34-inch-5ms-n
 9/21/2020 8:17:37 AM 3.181,98 RON
 9/25/2020 9:57:29 PM 3.191,98 RON
 9/27/2020 9:57:54 AM 3.193,98 RON
+10/2/2020 8:59:11 PM 3.191,98 RON
+10/4/2020 4:35:01 PM 3.191,98 RON
+10/5/2020 1:07:39 PM 3.191,98 RON

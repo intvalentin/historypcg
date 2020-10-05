@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |80010000
 2090482
     Product link    
 https://www.pcgarage.ro/distrugatoare-documente/leitz/iq-home-office-slim-p4/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8441/2090482/thumbnails/iq-home-office-slim-
     Pret    
 9/26/2020 2:06:36 PM 713,98 RON
 9/27/2020 5:13:52 PM 713,98 RON
+10/5/2020 10:46:17 AM 713,98 RON

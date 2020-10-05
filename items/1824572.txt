@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-hdmi-vga-04
 1824572
     Product link    
 https://www.pcgarage.ro/adaptoare/gembird/1x-hdmi-14-male-1x-vga-female/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1821372/1824572/thumbnails/1x-hdmi-male-1x-v
 9/21/2020 12:31:33 PM 35,98 RON
 9/26/2020 9:35:24 AM 35,98 RON
 9/27/2020 12:42:20 PM 35,98 RON
+10/5/2020 8:04:33 AM 35,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1830c007aa
 2029138
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp852cx-laser-color-format-a3-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8840/2029138/thumbnails/i-sensys-lbp852cx-la
 9/21/2020 3:21:00 PM 9.279,98 RON
 9/26/2020 10:21:40 AM 9.311,98 RON
 9/27/2020 1:39:40 PM 9.291,98 RON
+10/5/2020 5:14:22 PM 9.305,98 RON

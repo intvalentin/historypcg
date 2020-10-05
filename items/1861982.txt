@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |623-bbdb
 1861982
     Product link    
 https://www.pcgarage.ro/cal-client-access-server/dell/cal-user-server-2019-oem-5-useri-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1861982/thumbnails/cal-user-server-2019
 9/21/2020 1:19:14 PM 1.012,56 RON
 9/26/2020 9:49:19 AM 1.016,06 RON
 9/27/2020 12:57:35 PM 1.016,06 RON
+10/5/2020 10:12:21 AM 1.046,72 RON

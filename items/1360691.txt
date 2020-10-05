@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm500-leii
 1360691
     Product link    
 https://www.pcgarage.ro/surse/zalman/zm500-le-ii-500w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1187917/1360691/thumbnails/zm500-leii-500w-e
 9/21/2020 7:47:21 AM 199,57 RON
 9/24/2020 1:28:19 PM 202,29 RON
 9/25/2020 10:44:25 PM 203,97 RON
+10/5/2020 8:54:49 AM 202,39 RON

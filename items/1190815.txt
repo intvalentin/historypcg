@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |50f200e
 1190815
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-502e-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/960827/1190815/thumbnails/toner-502e-black-7
 9/21/2020 10:29:22 PM 339,98 RON
 9/26/2020 12:29:25 PM 339,98 RON
 9/27/2020 3:59:46 PM 339,98 RON
+10/4/2020 4:40:07 PM 339,98 RON

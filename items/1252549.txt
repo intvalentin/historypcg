@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0596c006aa
 1252549
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mg7750-black-inkjet-color-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175596/1252549/thumbnails/pixma-mg7750-blac
 9/21/2020 2:31:12 PM 827,98 RON
 9/26/2020 10:12:16 AM 831,98 RON
 9/27/2020 1:30:55 PM 831,98 RON
+10/5/2020 2:26:38 PM 829,98 RON

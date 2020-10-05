@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t6b59a
 1656992
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-pro-m254nw-color-format-a4-retea-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1649828/1656992/thumbnails/laserjet-pro-m254
 9/21/2020 3:06:22 PM 819,98 RON
 9/26/2020 10:25:23 AM 821,98 RON
 9/27/2020 1:42:53 PM 821,98 RON
+10/5/2020 4:34:58 PM 821,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru17178
 1405114
     Product link    
 https://www.pcgarage.ro/mouse/trust/maxtrack-black-grey/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1000151/1405114/thumbnails/maxtrack-black-gr
 9/21/2020 8:22:50 AM 33,98 RON
 9/26/2020 8:22:01 AM 33,98 RON
 9/27/2020 11:15:47 AM 33,98 RON
+10/3/2020 7:10:00 PM 33,98 RON
+10/5/2020 2:50:49 PM 33,98 RON

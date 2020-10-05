@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg3210
 298355
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sg3210/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/298355/thumbnails/tl-sg3210-334237cd41ca10
 9/22/2020 11:35:58 AM 547,40 RON
 9/26/2020 2:50:16 PM 495,53 RON
 9/27/2020 6:51:58 PM 495,53 RON
+10/5/2020 4:48:19 PM 547,40 RON

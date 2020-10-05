@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9h.lcwla.tbe
 1081744
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/bl2420pt-238-inch-5ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/735074/1081744/thumbnails/bl2420pt-238-inch-
 9/21/2020 8:17:11 AM 1.257,98 RON
 9/25/2020 10:09:24 PM 1.261,98 RON
 9/27/2020 10:10:42 AM 1.263,98 RON
+10/2/2020 8:11:12 PM 1.261,98 RON
+10/3/2020 11:12:52 PM 1.261,98 RON
+10/5/2020 12:58:11 PM 1.261,98 RON

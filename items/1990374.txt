@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90lj0070-b01120
 1990374
     Product link    
 https://www.pcgarage.ro/videoproiectoare/asus/p3e/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1977958/1990374/thumbnails/p3e-e5adae6fe532f
 9/22/2020 5:39:15 PM 2.641,98 RON
 9/26/2020 6:45:43 PM 2.649,98 RON
 9/28/2020 8:27:51 AM 2.649,98 RON
+10/5/2020 6:11:41 PM 2.649,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm20180
 1460446
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/usb-20-tip-a-male-usb-20-tip-b-male-15m-nylon/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1460446/thumbnails/usb-20-tip-a-male
 9/21/2020 11:44:56 AM 33,98 RON
 9/26/2020 9:20:37 AM 33,98 RON
 9/27/2020 12:26:26 PM 33,98 RON
+10/4/2020 10:22:00 PM 33,98 RON

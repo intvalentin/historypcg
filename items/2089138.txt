@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3cb01t-002
 2089138
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-g27cq4-curbat-27-inch-1-ms-negru-165-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/7008/2089138/thumbnails/gaming-optix-g27cq4-
 9/21/2020 8:17:23 AM 1.887,98 RON
 9/25/2020 9:54:32 PM 1.891,98 RON
 9/27/2020 9:54:42 AM 1.893,98 RON
+10/2/2020 8:35:00 PM 1.891,98 RON
+10/4/2020 4:32:03 PM 1.891,98 RON
+10/5/2020 1:01:11 PM 1.891,98 RON

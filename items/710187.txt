@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf2738v825
 710187
     Product link    
 https://www.pcgarage.ro/scannere/canon/colortrac-smartlf-sc-36m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/710187/thumbnails/colortrac-smartlf-sc-36m
 9/22/2020 10:44:49 AM 17.773,98 RON
 9/26/2020 2:03:40 PM 17.835,98 RON
 9/27/2020 5:10:55 PM 17.835,98 RON
+10/5/2020 10:28:05 AM 17.823,98 RON

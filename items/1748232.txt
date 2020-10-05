@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-453bt3-8g
 1748232
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-453bt3-8gb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/1748232/thumbnails/ts-453bt3-8gb-edc
 9/22/2020 11:27:24 AM 5.769,24 RON
 9/26/2020 2:30:59 PM 5.785,86 RON
 9/27/2020 6:32:34 PM 5.789,18 RON
+10/5/2020 3:16:53 PM 5.785,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b242401
 1906666
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-360w-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1906666/thumbnails/workforce-ds-360w
 9/22/2020 10:41:35 AM 1.169,98 RON
 9/26/2020 1:59:17 PM 1.401,98 RON
 9/27/2020 5:07:11 PM 1.401,98 RON
+10/5/2020 9:58:48 AM 1.399,98 RON

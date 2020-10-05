@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mem-dr480l-hl01-er21
 1258419
     Product link    
 https://www.pcgarage.ro/memorii-server/supermicro/ecc-rdimm-ddr4-8gb-2133mhz-single-rank-x4/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/929094/1258419/thumbnails/ecc-rdimm-ddr4-16g
 9/21/2020 12:04:36 AM 386,64 RON
 9/25/2020 2:28:32 PM 391,90 RON
 9/26/2020 4:49:34 PM 395,24 RON
+10/3/2020 8:53:22 AM 391,61 RON
+10/5/2020 10:32:38 AM 392,10 RON

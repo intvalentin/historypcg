@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |330.101
 223473
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/multipriza-conectus-330101/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/223473/thumbnails/multipriza-conectus-3301
 9/21/2020 12:43:58 PM 95,98 RON
 9/26/2020 9:44:58 AM 93,98 RON
 9/27/2020 12:52:45 PM 93,98 RON
+10/5/2020 9:31:56 AM 93,98 RON

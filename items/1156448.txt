@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |765455-b21
 1156448
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hp/hot-plug-sc-midline-512e-sata-6g-2tb-7200-rpm-25-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5/1156448/thumbnails/hot-plug-sc-midline-512
 9/21/2020 12:05:23 AM 2.453,30 RON
 9/25/2020 2:35:14 PM 2.455,63 RON
 9/26/2020 4:56:14 PM 2.459,72 RON
+10/3/2020 10:13:33 AM 2.459,67 RON
+10/5/2020 10:40:06 AM 2.459,51 RON

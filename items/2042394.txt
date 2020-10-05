@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dopu7070i516512u
 2042394
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/dell/optiplex-7070-uff-procesor-intel-core-i5-8365u-16ghz-whiskey-lake-16gb-ram-512gb-ssd-uhd-graphics-linux/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2034042/2042394/thumbnails/optiplex-7070-uff
 9/21/2020 12:03:33 AM 5.209,98 RON
 9/25/2020 2:16:45 PM 5.214,98 RON
 9/26/2020 4:37:35 PM 5.224,98 RON
+10/2/2020 10:09:05 PM 4.144,98 RON
+10/5/2020 10:22:16 AM 4.144,98 RON

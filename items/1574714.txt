@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-d910c05418109b7e8342fb6f1dd019d9
 1574714
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp60-ms-16gh/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1475490/1574714/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:44 PM 231,98 RON
 9/25/2020 3:47:40 PM 235,98 RON
 9/26/2020 5:47:32 PM 235,98 RON
+10/3/2020 5:58:06 PM 233,98 RON
+10/5/2020 11:21:01 AM 233,98 RON

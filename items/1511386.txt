@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stet1000400
 1511386
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/porsche-design-mobile-drive-1tb-usb-30/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1500686/1511386/thumbnails/porsche-design-mo
 9/21/2020 8:19:00 AM 379,98 RON
 9/25/2020 10:24:54 PM 389,98 RON
 9/27/2020 10:27:36 AM 389,98 RON
+10/3/2020 8:24:25 AM 389,98 RON
+10/5/2020 1:20:55 PM 389,98 RON

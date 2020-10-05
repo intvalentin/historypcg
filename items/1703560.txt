@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds218
 1703560
     Product link    
 https://www.pcgarage.ro/nas/synology/ds218-2gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1703560/thumbnails/ds218-2gb-2a27134
 9/22/2020 11:22:01 AM 1.348,99 RON
 9/26/2020 2:31:43 PM 1.348,99 RON
 9/27/2020 6:33:21 PM 1.348,99 RON
+10/5/2020 2:38:29 PM 1.348,99 RON

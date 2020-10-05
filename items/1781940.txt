@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gt-ax11000.
 1781940
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-rog-rapture-gt-ax11000-tri-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1781940/thumbnails/gigabit-rog-rapture-g
 9/22/2020 11:08:06 AM 2.265,58 RON
 9/26/2020 2:19:50 PM 2.274,83 RON
 9/27/2020 6:21:33 PM 2.274,83 RON
+10/5/2020 1:19:22 PM 2.200,83 RON

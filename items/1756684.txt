@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |328e9fjab+-+00
 1756684
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/328e9fjab-curbat-315-inch-2k-5-ms-black-silver-freesync-75-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1749840/1756684/thumbnails/328e9fjab-315-inc
 9/21/2020 8:16:17 AM 1.365,98 RON
 9/25/2020 10:01:12 PM 1.371,98 RON
 9/27/2020 10:01:55 AM 1.371,98 RON
+10/2/2020 8:16:24 PM 1.369,98 RON
+10/3/2020 11:13:36 PM 1.369,98 RON
+10/5/2020 12:58:54 PM 1.369,98 RON

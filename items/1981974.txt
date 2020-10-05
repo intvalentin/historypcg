@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg1008m
 1981974
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/gigabit-teg1008m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1981974/thumbnails/gigabit-teg1008m-b
 9/22/2020 11:48:55 AM 130,99 RON
 9/26/2020 2:45:03 PM 133,18 RON
 9/27/2020 6:46:44 PM 133,13 RON
+10/5/2020 5:40:01 PM 132,11 RON

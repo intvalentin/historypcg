@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43381708
 78243
     Product link    
 https://www.pcgarage.ro/consumabile/oki/black-image-drum-43381708/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/78243/thumbnails/black-image-drum-43381708
 9/21/2020 3:51:12 PM 329,98 RON
 9/26/2020 10:33:32 AM 329,98 RON
 9/27/2020 1:51:33 PM 329,98 RON
+10/5/2020 5:49:35 PM 329,98 RON

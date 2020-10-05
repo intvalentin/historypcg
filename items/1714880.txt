@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac5
 1714880
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/ac5-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1689668/1714880/thumbnails/ac5-dual-band-7cb
 9/22/2020 11:10:15 AM 105,90 RON
 9/26/2020 2:20:34 PM 105,86 RON
 9/27/2020 6:21:33 PM 105,86 RON
+10/5/2020 12:11:03 PM 105,55 RON

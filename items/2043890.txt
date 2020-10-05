@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9h.lh7la.tbe
 2043890
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/pd3220u-315-inch-5-ms-negru-hdr-60-hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1034/2043890/thumbnails/pd3220u-315-inch-5-m
 9/21/2020 8:17:46 AM 6.533,98 RON
 9/25/2020 9:55:16 PM 6.551,98 RON
 9/27/2020 9:55:29 AM 6.555,98 RON
+10/2/2020 9:13:25 PM 6.551,98 RON
+10/4/2020 4:36:29 PM 6.551,98 RON
+10/5/2020 1:09:08 PM 6.551,98 RON

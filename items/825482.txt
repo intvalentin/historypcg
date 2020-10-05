@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |auv128-32g-rbe
 825482
     Product link    
 https://www.pcgarage.ro/memorii-externe/a-data/dashdrive-uv128-32gb-negru-albastru/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/722028/825482/thumbnails/dashdrive-uv128-32g
 9/21/2020 8:19:58 AM 19,98 RON
 9/26/2020 8:13:56 AM 19,98 RON
 9/27/2020 11:07:32 AM 19,98 RON
+10/3/2020 12:17:26 PM 19,98 RON
+10/5/2020 2:20:28 PM 19,98 RON

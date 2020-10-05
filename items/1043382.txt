@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9579b001aa
 1043382
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/cassette-feeding-unit-aj1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/1043382/thumbnails/cassette-feeding-u
 9/22/2020 11:03:54 AM 1.623,98 RON
 9/26/2020 2:15:27 PM 1.627,98 RON
 9/27/2020 6:17:11 PM 1.627,98 RON
+10/5/2020 11:46:34 AM 1.627,98 RON

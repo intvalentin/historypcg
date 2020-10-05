@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000031350
 1878106
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-hdd-6g-2tb-35-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1867706/1878106/thumbnails/hot-plug-hdd-6g-2
 9/21/2020 12:04:55 AM 1.143,94 RON
 9/25/2020 2:31:30 PM 1.147,24 RON
 9/26/2020 4:52:30 PM 1.147,90 RON
+10/3/2020 9:17:44 AM 1.147,14 RON
+10/5/2020 10:35:37 AM 1.147,14 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01372
 217407
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01372-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/217407/thumbnails/print-cartridge-extra-hi
 9/22/2020 10:01:53 AM 1.573,98 RON
 9/26/2020 1:31:57 PM 1.579,98 RON
 9/27/2020 4:39:17 PM 1.579,98 RON
+10/4/2020 9:49:33 PM 1.579,98 RON

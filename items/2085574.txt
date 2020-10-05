@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |skp-21267
 2085574
     Product link    
 https://www.pcgarage.ro/multifunctionale/pantum/m7300fdw-laser-monocrom-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3354/2085574/thumbnails/m7300fdw-laser-monoc
 9/21/2020 2:06:11 PM 1.401,98 RON
 9/26/2020 10:01:11 AM 1.431,98 RON
 9/27/2020 1:09:36 PM 1.431,98 RON
+10/5/2020 12:54:55 PM 1.421,98 RON

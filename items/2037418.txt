@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r405768
 2037418
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/cartus-gel-low-yield-gc-41yl-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2037418/thumbnails/cartus-gel-low-yi
 9/21/2020 11:00:24 PM 140,90 RON
 9/26/2020 1:20:03 PM 140,90 RON
 9/27/2020 4:21:17 PM 140,90 RON
+10/4/2020 7:45:13 PM 140,90 RON

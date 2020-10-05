@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000033187
 2042210
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r540-2u-procesor-intel-xeon-silver-4214-22ghz-cascade-lake-1x-16gb-rdimm-ddr4-2400-mhz-1x-600gb-10k-12g-sas-hdd-perc-h730p/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1034/2042210/thumbnails/poweredge-r540-2u-pr
 9/21/2020 12:03:56 AM 13.989,25 RON
 9/25/2020 2:20:25 PM 14.029,56 RON
 9/26/2020 4:41:21 PM 14.037,62 RON
+10/2/2020 10:36:58 PM 14.028,41 RON
+10/5/2020 10:25:13 AM 14.028,41 RON

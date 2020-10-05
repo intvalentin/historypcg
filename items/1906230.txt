@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1mr70b
 1906230
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-pro-9023-all-in-one-inkjet-color-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6622/1906230/thumbnails/officejet-pro-9023-a
 9/21/2020 2:04:07 PM 1.271,98 RON
 9/26/2020 10:02:38 AM 1.277,98 RON
 9/27/2020 1:20:47 PM 1.277,98 RON
+10/5/2020 12:50:39 PM 1.277,98 RON

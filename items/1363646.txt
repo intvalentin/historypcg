@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r405764
 1363646
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/cartus-gc-41y-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1192525/1363646/thumbnails/cartus-gc-41y-yel
 9/21/2020 11:00:24 PM 150,54 RON
 9/26/2020 1:20:03 PM 150,54 RON
 9/27/2020 4:21:17 PM 150,54 RON
+10/4/2020 7:46:16 PM 150,54 RON

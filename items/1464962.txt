@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp134-3564f931e8583cce8d97b422b9607c9c
 1464962
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-dv2-dv2-1000-hstnn-cb87-hstnn-xb87/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1416562/1464962/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:00 PM 219,98 RON
 9/25/2020 4:01:57 PM 223,98 RON
 9/26/2020 6:01:47 PM 223,98 RON
+10/3/2020 5:05:21 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

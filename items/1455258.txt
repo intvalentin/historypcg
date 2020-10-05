@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-ac502-c
 1455258
     Product link    
 https://www.pcgarage.ro/adaptoare/raidsonic/icybox-1x-minihdmi-male-1x-vga-female/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1355324/1455258/thumbnails/icybox-1x-minihdm
 9/21/2020 12:35:43 PM 127,98 RON
 9/26/2020 9:36:09 AM 127,98 RON
 9/27/2020 12:43:09 PM 127,98 RON
+10/5/2020 8:22:08 AM 127,98 RON

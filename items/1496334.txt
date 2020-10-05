@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a860wy1
 1496334
     Product link    
 https://www.pcgarage.ro/accesorii-printing/konica-minolta/tava-pc-114-500-coli-pentru-bizhub-c227/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1301253/1496334/thumbnails/tava-pc-114-500-c
 9/22/2020 11:03:54 AM 2.337,98 RON
 9/26/2020 2:13:58 PM 2.345,98 RON
 9/27/2020 6:15:42 PM 2.345,98 RON
+10/5/2020 11:51:52 AM 2.345,98 RON

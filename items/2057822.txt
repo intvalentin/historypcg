@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23647
 2057822
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/trust/trust-gxt-265-cintar-rgb-headset-stand/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/7193/2057822/thumbnails/gxt-265-cintar-rgb-h
 9/21/2020 8:09:54 AM 89,98 RON
 9/25/2020 2:39:38 PM 89,98 RON
 9/26/2020 5:00:37 PM 89,98 RON
+10/3/2020 10:50:50 AM 93,98 RON
+10/5/2020 10:45:12 AM 93,98 RON

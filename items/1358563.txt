@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-869
 1358563
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dir-869-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862960/1358563/thumbnails/gigabit-dir-869-du
 9/22/2020 11:07:02 AM 307,69 RON
 9/26/2020 2:21:19 PM 330,67 RON
 9/27/2020 6:23:00 PM 330,67 RON
+10/5/2020 12:39:22 PM 330,45 RON

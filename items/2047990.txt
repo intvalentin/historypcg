@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bm008sri
 2047990
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ram-512gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3442/2047990/thumbnails/v530s-procesor-intel
 9/21/2020 12:01:59 AM 2.999,98 RON
 9/25/2020 1:54:35 PM 2.999,98 RON
 9/26/2020 4:22:53 PM 2.999,98 RON
+10/2/2020 8:13:57 PM 2.999,98 RON
+10/5/2020 10:06:11 AM 2.999,98 RON

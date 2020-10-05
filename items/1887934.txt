@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cf85301a0
 1887934
     Product link    
 https://www.pcgarage.ro/plottere/epson/surecolor-sc-t3400-24-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1885090/1887934/thumbnails/surecolor-sc-t340
 9/22/2020 10:30:50 AM 9.919,98 RON
 9/26/2020 1:53:22 PM 9.945,98 RON
 9/27/2020 5:01:17 PM 9.951,98 RON
+10/5/2020 8:47:08 AM 9.945,98 RON

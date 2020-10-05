@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-usb2-am5p-6
 35001
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/cablu-usb-20-a-mini-5pm-18m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/35001/thumbnails/cablu-usb-20-a-mini-5pm-1
 9/21/2020 11:53:14 AM 5,98 RON
 9/26/2020 9:25:02 AM 5,98 RON
 9/27/2020 12:31:11 PM 5,98 RON
+10/4/2020 10:35:04 PM 11,98 RON

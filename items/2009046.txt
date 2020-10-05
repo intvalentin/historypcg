@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7x10a07gea
 2009046
     Product link    
 https://www.pcgarage.ro/servere/lenovo/thinksystem-st550-procesor-intel-xeon-silver-4210-22ghz-skylake-16gb-ram-ddr4-2rx8-rdimm-no-hdd-930-8i-1x-550w/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2003606/2009046/thumbnails/lenovo-st550-xeon
 9/21/2020 12:03:56 AM 10.105,06 RON
 9/25/2020 2:21:09 PM 10.134,18 RON
 9/26/2020 4:42:05 PM 10.140,00 RON
+10/2/2020 10:35:03 PM 10.133,35 RON
+10/5/2020 10:25:13 AM 10.133,35 RON

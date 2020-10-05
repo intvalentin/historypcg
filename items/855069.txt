@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |669324-b21
 855069
     Product link    
 https://www.pcgarage.ro/memorii-server/hp/ecc-udimm-ddr3-8gb-1600mhz-cl11-dual-rank-x8/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/849800/855069/thumbnails/ecc-udimm-ddr3-8gb-
 9/21/2020 12:04:36 AM 687,47 RON
 9/25/2020 2:29:16 PM 689,45 RON
 9/26/2020 4:50:18 PM 689,85 RON
+10/3/2020 8:57:13 AM 689,39 RON
+10/5/2020 10:32:38 AM 689,39 RON

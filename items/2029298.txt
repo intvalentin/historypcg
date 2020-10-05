@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000nm001a
 2029298
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-7e8-hdd-8tb-7200rpm-sas-256mb-35-inch-512e/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8840/2029298/thumbnails/exos-7e8-hdd-2tb-720
 9/21/2020 12:04:59 AM 1.522,94 RON
 9/25/2020 2:30:46 PM 1.556,80 RON
 9/26/2020 4:51:46 PM 1.556,47 RON
+10/3/2020 9:39:05 AM 1.544,46 RON
+10/5/2020 10:35:37 AM 1.544,46 RON

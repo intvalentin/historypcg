@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco150-5ba8df0850c174feb346f7eb70701f4f
 1501034
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-17-g017na/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1475558/1501034/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:34 PM 231,98 RON
 9/25/2020 3:53:41 PM 235,98 RON
 9/26/2020 5:53:32 PM 235,98 RON
+10/3/2020 5:44:31 PM 233,98 RON
+10/5/2020 11:18:45 AM 233,98 RON

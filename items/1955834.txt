@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1428c001aa
 1955834
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/dadf-av1-pentru-ir3520i-3525i-3530/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1953966/1955834/thumbnails/dadf-av1-pentru-i
 9/22/2020 11:03:54 AM 2.377,98 RON
 9/26/2020 2:08:47 PM 2.383,98 RON
 9/27/2020 6:10:28 PM 2.385,98 RON
+10/5/2020 11:12:05 AM 2.383,98 RON

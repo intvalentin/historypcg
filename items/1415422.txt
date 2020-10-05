@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-001949
 1415422
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m705-marathon/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1025741/1415422/thumbnails/m705-marathon-7bc
 9/21/2020 8:22:46 AM 179,98 RON
 9/26/2020 8:22:01 AM 199,98 RON
 9/27/2020 11:15:47 AM 199,98 RON
+10/3/2020 5:55:37 PM 199,98 RON
+10/3/2020 8:50:31 PM 179,98 RON
+10/5/2020 2:44:41 PM 199,98 RON

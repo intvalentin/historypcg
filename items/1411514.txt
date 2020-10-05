@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |777425-b21
 1411514
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl120-gen9-rack-1u-procesor-intel-xeon-e5-2630-v3-24ghz-haswell-8gb-rdimm-ddr4-fara-hdd-sff-25-inch-h240-1x-550w/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1126098/1411514/thumbnails/proliant-dl120-ge
 9/21/2020 12:04:01 AM 5.783,41 RON
 9/25/2020 2:23:23 PM 5.800,08 RON
 9/26/2020 4:44:20 PM 5.803,41 RON
+10/2/2020 10:46:08 PM 5.799,60 RON
+10/5/2020 10:26:41 AM 5.799,60 RON

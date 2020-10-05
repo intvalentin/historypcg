@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d86-05868
 1995078
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/visio-standard-2019-engleza-olp-nl/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1995078/thumbnails/visio-standard-20
 9/21/2020 1:23:20 PM 1.669,14 RON
 9/26/2020 9:50:04 AM 1.674,92 RON
 9/27/2020 12:58:23 PM 1.674,92 RON
+10/5/2020 11:00:25 AM 1.673,82 RON

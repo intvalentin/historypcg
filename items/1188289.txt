@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc-sh170r611
 1188289
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/shuttle/barebone-xpc-sh170r6-procesor-socket-lga-1151-4x-ddr4-64gb-max-2x-hdd-35-inch-m2-ssd-slot-hdmi-2x-displayport-no-os-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1112123/1188289/thumbnails/barebone-xpc-sh17
 9/21/2020 12:03:37 AM 1.394,98 RON
 9/25/2020 2:19:41 PM 1.394,98 RON
 9/26/2020 4:40:35 PM 1.394,98 RON
+10/2/2020 10:14:07 PM 1.394,98 RON
+10/5/2020 10:22:16 AM 1.394,98 RON

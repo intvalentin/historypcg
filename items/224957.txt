@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43487709
 224957
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/toner-43487709-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/224957/thumbnails/yellow-toner-43487709-b1
 9/21/2020 10:57:12 PM 1.043,98 RON
 9/26/2020 1:17:52 PM 1.047,98 RON
 9/27/2020 4:19:05 PM 1.047,98 RON
+10/4/2020 7:31:33 PM 1.045,98 RON

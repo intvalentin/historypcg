@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |adsa-st
 1760508
     Product link    
 https://www.pcgarage.ro/rack-uri/axagon/st-dual-dock-station-usb-30/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1153/1760508/thumbnails/st-dual-dock-station
 9/21/2020 10:21:15 AM 165,98 RON
 9/26/2020 8:53:25 AM 165,98 RON
 9/27/2020 11:47:19 AM 165,98 RON
+10/4/2020 5:31:02 PM 165,98 RON

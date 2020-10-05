@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg1008d
 1537786
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/gigabit-teg1008d/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1500686/1537786/thumbnails/gigabit-teg1008d-
 9/22/2020 11:39:12 AM 121,69 RON
 9/26/2020 2:40:36 PM 123,21 RON
 9/27/2020 6:42:17 PM 123,21 RON
+10/5/2020 4:09:47 PM 123,21 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c792a1cg
 530041
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c792-cyan-return/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/530041/thumbnails/toner-c792-cyan-return-9
 9/21/2020 10:46:27 PM 1.375,98 RON
 9/26/2020 1:06:01 PM 1.379,98 RON
 9/27/2020 4:07:16 PM 1.379,98 RON
+10/4/2020 6:20:35 PM 1.379,98 RON

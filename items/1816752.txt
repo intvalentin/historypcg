@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65274068ba01a12
 1816752
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/creative-suite-stock-for-teams-other/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/753/1816752/thumbnails/creative-suite-stock-
 9/21/2020 1:53:54 PM 4.727,05 RON
 9/26/2020 9:59:43 AM 4.743,39 RON
 9/27/2020 1:08:46 PM 4.743,39 RON
+10/5/2020 12:13:44 PM 4.740,28 RON

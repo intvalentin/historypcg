@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2316c025aa
 1829416
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-g4411-inkjet-color-format-a4-ciss-wi-fi-fax/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5664/1829416/thumbnails/pixma-g4411-inkjet-c
 9/21/2020 2:35:20 PM 1.275,98 RON
 9/26/2020 10:09:18 AM 1.281,98 RON
 9/27/2020 1:27:43 PM 1.277,98 RON
+10/5/2020 2:38:27 PM 1.279,98 RON

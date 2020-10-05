@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r407900
 2037722
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/toner-sp-c340e-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2037722/thumbnails/toner-sp-c340e-cyan-
 9/21/2020 11:01:28 PM 1.022,60 RON
 9/26/2020 1:20:47 PM 1.022,60 RON
 9/27/2020 4:22:03 PM 1.022,60 RON
+10/4/2020 7:55:26 PM 1.022,60 RON

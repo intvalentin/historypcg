@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |101r00474
 1905758
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-101r00474-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1905758/thumbnails/drum-101r00474-black
 9/21/2020 3:25:09 PM 317,98 RON
 9/26/2020 10:30:34 AM 319,98 RON
 9/27/2020 1:48:23 PM 319,98 RON
+10/5/2020 5:49:03 PM 319,98 RON

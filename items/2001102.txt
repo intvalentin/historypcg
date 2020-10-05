@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g3s-01045
 2001102
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/microsoft/server-2016-essentials-1-2-cpu-dvd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/2001102/thumbnails/server-2016-essen
 9/21/2020 1:15:07 PM 1.802,21 RON
 9/26/2020 9:47:53 AM 1.841,89 RON
 9/27/2020 12:56:02 PM 1.841,89 RON
+10/5/2020 10:06:12 AM 1.827,68 RON

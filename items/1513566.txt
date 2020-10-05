@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |up2718q
 1513566
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/up2718q-27-inch-4k-6-ms-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1500686/1513566/thumbnails/up2718q-27-inch-4
 9/21/2020 8:16:04 AM 7.787,98 RON
 9/25/2020 9:50:51 PM 7.809,98 RON
 9/27/2020 9:47:18 AM 7.813,98 RON
+10/3/2020 11:03:27 PM 8.807,98 RON
+10/5/2020 12:47:49 PM 8.807,98 RON

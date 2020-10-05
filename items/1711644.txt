@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0dt0027ri
 1711644
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-touch-procesor-intel-core-i5-8400t-17ghz-coffee-lake-4gb-1tb-gma-uhd-630-freedos-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1664860/1711644/thumbnails/215-ideacentre-52
 9/21/2020 12:03:06 AM 3.169,98 RON
 9/25/2020 2:14:33 PM 3.169,98 RON
 9/26/2020 4:35:27 PM 3.179,98 RON
+10/2/2020 9:14:46 PM 3.179,98 RON
+10/5/2020 10:17:49 AM 3.179,98 RON

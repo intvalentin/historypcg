@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |do5260aioi585008g1tw3yr-05
 1724468
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/dell/215-quot-optiplex-5260-fhd-procesor-intel-core-i5-8500-30ghz-coffee-lake-8gb-ddr4-1tb-hdd-gma-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1723568/1724468/thumbnails/215-quot-optiplex
 9/21/2020 12:03:15 AM 5.879,98 RON
 9/25/2020 2:14:33 PM 5.969,98 RON
 9/26/2020 4:35:27 PM 5.919,98 RON
+10/2/2020 9:33:10 PM 5.929,98 RON
+10/5/2020 10:19:19 AM 5.929,98 RON

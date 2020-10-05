@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s053057
 1923126
     Product link    
 https://www.pcgarage.ro/accesorii-printing/epson/unitate-de-mentenanta-200k-pagini/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8629/1923126/thumbnails/unitate-de-mentenant
 9/22/2020 10:53:20 AM 1.027,98 RON
 9/26/2020 2:09:31 PM 1.029,98 RON
 9/27/2020 6:11:12 PM 1.031,98 RON
+10/5/2020 11:07:17 AM 1.029,98 RON

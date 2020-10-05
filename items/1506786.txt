@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus183-514acc6225b0099b6cd27389842f3144
 1506786
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r900vm/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1461878/1506786/thumbnails/baterie-laptop-as
 9/20/2020 11:12:09 PM 219,98 RON
 9/25/2020 3:53:41 PM 223,98 RON
 9/26/2020 5:53:32 PM 223,98 RON
+10/3/2020 5:13:35 PM 221,98 RON
+10/5/2020 11:14:59 AM 221,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9705b003aa
 1022521
     Product link    
 https://www.pcgarage.ro/scannere/canon/p215ii-scanner-format-a4-duplex-usb-20/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/1022521/thumbnails/p215ii-scanner-for
 9/22/2020 10:40:31 AM 1.365,98 RON
 9/26/2020 2:00:01 PM 1.367,98 RON
 9/27/2020 5:07:57 PM 1.369,98 RON
+10/5/2020 10:09:58 AM 1.367,98 RON

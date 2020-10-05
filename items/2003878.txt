@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tef1109dt
 2003878
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/tef1109dt/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8078/2003878/thumbnails/gigabit-tef1109dt-80
 9/22/2020 11:47:50 AM 77,41 RON
 9/26/2020 2:45:03 PM 78,67 RON
 9/27/2020 6:46:44 PM 78,66 RON
+10/5/2020 5:38:08 PM 78,06 RON

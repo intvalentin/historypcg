@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fs1018
 1719828
     Product link    
 https://www.pcgarage.ro/nas/synology/flashstation-fs1018/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1703884/1719828/thumbnails/flashstation-fs10
 9/22/2020 11:28:28 AM 8.148,90 RON
 9/26/2020 2:31:43 PM 8.172,36 RON
 9/27/2020 6:33:21 PM 8.177,06 RON
+10/5/2020 3:20:58 PM 8.171,69 RON

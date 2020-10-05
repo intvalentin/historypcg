@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cr675a
 746234
     Product link    
 https://www.pcgarage.ro/hartie/hp/premium-plus-glossy-photo-a3-20-coli-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/746234/thumbnails/premium-plus-glossy
 9/22/2020 10:23:21 AM 197,98 RON
 9/26/2020 1:46:44 PM 199,98 RON
 9/27/2020 4:54:40 PM 199,98 RON
+10/5/2020 8:05:17 AM 199,98 RON

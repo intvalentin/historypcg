@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2w75a
 785596
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-flow-m880z-laser-color-format-a4-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/785596/thumbnails/laserjet-enterprise-flow
 9/21/2020 2:49:50 PM 40.643,98 RON
 9/26/2020 10:13:45 AM 40.783,98 RON
 9/27/2020 1:32:32 PM 40.691,98 RON
+10/5/2020 3:26:39 PM 40.755,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md093rs+-+a
 484091
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/apple/imac-215-inch-quad-core-i5-270ghz-8gb-1tb-geforce-gt-640m-512mb-mac-os-russian-layout/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1/484091/thumbnails/imac-215-inch-ivy-bridge
 9/21/2020 12:03:20 AM 6.439,98 RON
 9/25/2020 2:16:01 PM 6.579,98 RON
 9/26/2020 4:36:52 PM 6.579,98 RON
+10/2/2020 9:36:23 PM 6.529,98 RON
+10/5/2020 10:20:05 AM 6.529,98 RON

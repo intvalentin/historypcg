@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs110-48p-hw-eu
 2039662
     Product link    
 https://www.pcgarage.ro/switch-uri/meraki-go/gigabit-gs110-48p-hw/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2034042/2039662/thumbnails/gigabit-gs110-48-
 9/22/2020 11:45:40 AM 4.092,65 RON
 9/26/2020 2:36:09 PM 4.157,18 RON
 9/27/2020 6:37:48 PM 4.157,18 RON
+10/5/2020 5:24:42 PM 4.125,12 RON

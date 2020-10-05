@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0e800fdri
 2028614
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a340-24iwl-24-inch-fhd-procesor-intel-core-i5-10210u-16ghz-comet-lake-4gb-ddr4-1tb-hdd-uhd-graphics-freedos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6166/2028614/thumbnails/24-quot-f0e80081ri-f
 9/21/2020 12:03:01 AM 2.729,98 RON
 9/25/2020 2:12:19 PM 2.729,98 RON
 9/26/2020 4:33:13 PM 2.739,98 RON
+10/2/2020 9:09:45 PM 2.739,98 RON
+10/5/2020 10:17:04 AM 2.739,98 RON

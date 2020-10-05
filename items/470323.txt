@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz272a
 470323
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-500-m570dw-laser-color-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/470323/thumbnails/laserjet-pro-500-m570dw-
 9/21/2020 2:08:16 PM 4.705,98 RON
 9/26/2020 10:05:36 AM 4.721,98 RON
 9/27/2020 1:23:45 PM 4.721,98 RON
+10/5/2020 1:16:13 PM 4.717,98 RON

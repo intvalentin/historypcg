@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-002944
 1773368
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m105-white-1/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/5015/1773368/thumbnails/m105-white-527487388
 9/21/2020 8:24:01 AM 67,98 RON
 9/26/2020 8:28:00 AM 67,98 RON
 9/27/2020 11:21:03 AM 67,98 RON
+10/3/2020 8:35:49 PM 67,98 RON
+10/5/2020 2:53:48 PM 67,98 RON

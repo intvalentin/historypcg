@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3588us3-bk
 871741
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/3588us3/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/871741/thumbnails/3588us3-9bba8cc6e6d
 9/21/2020 10:29:47 AM 113,98 RON
 9/26/2020 8:58:35 AM 115,98 RON
 9/27/2020 11:52:31 AM 115,98 RON
+10/4/2020 6:53:10 PM 113,98 RON

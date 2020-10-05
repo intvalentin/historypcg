@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc301558
 315357
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-mini-1tb/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4/315357/thumbnails/rugged-mini-1tb-a0b4a7b3
 9/21/2020 8:19:00 AM 389,98 RON
 9/25/2020 10:26:22 PM 399,98 RON
 9/27/2020 10:29:11 AM 399,98 RON
+10/3/2020 8:24:09 AM 389,98 RON
+10/5/2020 1:20:55 PM 399,98 RON

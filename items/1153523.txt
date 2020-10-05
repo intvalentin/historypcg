@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uc-cb981
 1153523
     Product link    
 https://www.pcgarage.ro/cablu-periferice/ssk/uc-cb981-microusb-30-male-type-b-usb-31-male-type-c-08m-alb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/1153523/thumbnails/uc-cb981-usb-30-ma
 9/21/2020 11:59:26 AM 31,98 RON
 9/26/2020 9:24:19 AM 33,98 RON
 9/27/2020 12:30:23 PM 33,98 RON
+10/4/2020 10:46:12 PM 31,98 RON

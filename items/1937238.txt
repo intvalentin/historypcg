@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zlt4
 1937238
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/tava-suplimentara-zlt4-4x-500-coli/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2554/1937238/thumbnails/tava-suplimentara-zl
 9/22/2020 11:04:58 AM 4.139,98 RON
 9/26/2020 2:12:29 PM 4.153,98 RON
 9/27/2020 6:14:10 PM 4.145,98 RON
+10/5/2020 11:56:20 AM 4.151,98 RON

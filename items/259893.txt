@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |013r00647
 259893
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/drum-013r00647-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/259893/thumbnails/drum-013r00647-black-0b5
 9/22/2020 10:09:25 AM 1.393,98 RON
 9/26/2020 1:34:10 PM 1.399,98 RON
 9/27/2020 4:42:06 PM 1.399,98 RON
+10/4/2020 10:47:26 PM 1.397,98 RON

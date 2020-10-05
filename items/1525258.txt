@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg278q
 1525258
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-vg278q-27-inch-1ms-black-freesync-144hz/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1489074/1525258/thumbnails/gaming-vg278q-34-
 9/21/2020 8:17:15 AM 1.577,98 RON
 9/25/2020 10:04:10 PM 1.583,98 RON
 9/27/2020 10:05:06 AM 1.583,98 RON
+10/2/2020 8:23:49 PM 1.583,98 RON
+10/4/2020 4:30:35 PM 1.583,98 RON
+10/5/2020 12:59:42 PM 1.583,98 RON

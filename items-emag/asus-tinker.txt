@@ -7,3 +7,4 @@ Placa de baza SoC Asus Tinker Board cu procesor Quad-Core RK3288 1.8 GHz, 2Gb RA
     Pret    
 9/30/2020 8:25:03 PM 339
 10/2/2020 8:23:29 AM 339
+10/4/2020 9:40:40 PM 339

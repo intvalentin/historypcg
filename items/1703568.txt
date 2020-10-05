@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-653b-8g
 1703568
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-653b-8gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1703568/thumbnails/ts-653b-4gb-73e88
 9/22/2020 11:27:24 AM 4.856,26 RON
 9/26/2020 2:31:43 PM 4.870,25 RON
 9/27/2020 6:33:21 PM 4.873,05 RON
+10/5/2020 3:13:56 PM 4.869,85 RON

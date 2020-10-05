@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7973al
 215263
     Product link    
 https://www.pcgarage.ro/accesorii-printing/hp/to-3-ultrium-800-gb-rw-labeled-20-buc/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175596/215263/thumbnails/to-3-ultrium-800-g
 9/22/2020 11:04:58 AM 3.281,98 RON
 9/26/2020 2:13:58 PM 3.291,98 RON
 9/27/2020 6:15:42 PM 3.291,98 RON
+10/5/2020 11:54:28 AM 3.289,98 RON

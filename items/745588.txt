@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch025a
 745588
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/everyday-matte-polypropylene-1067-mm-x-305-m-double-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/714621/745588/thumbnails/everyday-matte-poly
 9/22/2020 10:35:11 AM 761,98 RON
 9/26/2020 1:55:37 PM 765,98 RON
 9/27/2020 5:03:32 PM 765,98 RON
+10/5/2020 9:36:20 AM 763,98 RON

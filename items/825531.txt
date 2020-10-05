@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg-s81g
 825531
     Product link    
 https://www.pcgarage.ro/switch-uri/trendnet/teg-s81g/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/825531/thumbnails/teg-s81g-cc77030687
 9/22/2020 11:47:50 AM 103,62 RON
 9/26/2020 2:49:32 PM 105,27 RON
 9/27/2020 6:51:13 PM 105,24 RON
+10/5/2020 5:38:57 PM 104,44 RON

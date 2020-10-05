@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-hdmi-dvi-2
 208091
     Product link    
 https://www.pcgarage.ro/adaptoare/gembird/dvi-m-hdmi-f/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/208091/thumbnails/1x-dvi-male-1x-hdmi-fema
 9/21/2020 12:31:33 PM 13,98 RON
 9/26/2020 9:36:52 AM 13,98 RON
 9/27/2020 12:43:57 PM 13,98 RON
+10/5/2020 8:00:44 AM 13,98 RON

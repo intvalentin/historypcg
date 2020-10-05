@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eps32152
 662571
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-5500/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/662571/thumbnails/workforce-ds-5500-f36110
 9/22/2020 10:42:40 AM 3.053,98 RON
 9/26/2020 2:03:40 PM 3.061,98 RON
 9/27/2020 5:10:55 PM 3.063,98 RON
+10/5/2020 10:18:00 AM 3.061,98 RON

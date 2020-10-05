@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0775b001aa
 523547
     Product link    
 https://www.pcgarage.ro/hartie/canon/gp-501-glossy-photo-paper-a4-100-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/523547/thumbnails/gp-501-glossy-photo-pape
 9/22/2020 10:23:21 AM 134,98 RON
 9/26/2020 1:50:26 PM 134,98 RON
 9/27/2020 4:58:21 PM 134,98 RON
+10/5/2020 8:04:37 AM 134,98 RON

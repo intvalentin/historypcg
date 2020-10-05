@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6029c
 308021
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/heavyweight-coated-610-mm-x-305-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/308021/thumbnails/heavyweight-coated-paper
 9/22/2020 10:33:02 AM 197,98 RON
 9/26/2020 1:57:05 PM 197,98 RON
 9/27/2020 5:05:00 PM 197,98 RON
+10/5/2020 9:21:24 AM 197,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7x06cto1ww-sidx000dkp
 2067966
     Product link    
 https://www.pcgarage.ro/servere/lenovo/sr650-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-32gb-rdimm-ddr4-9x-24tb-25-inch-750w-3-ani-garantie/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1990682/2067966/thumbnails/sr650-procesor-in
 9/21/2020 12:04:14 AM 44.788,25 RON
 9/25/2020 2:21:09 PM 44.917,32 RON
 9/26/2020 4:42:05 PM 44.943,13 RON
+10/3/2020 8:26:45 AM 44.913,63 RON
+10/5/2020 10:28:53 AM 44.913,63 RON

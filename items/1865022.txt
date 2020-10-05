@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg91403
 1865022
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/ecotank-m3140-inkjet-monocrom-format-a4-duplex-fax/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1865022/thumbnails/ecotank-m3140-inkjet
 9/21/2020 2:35:21 PM 1.433,98 RON
 9/26/2020 10:08:34 AM 1.441,98 RON
 9/27/2020 1:27:43 PM 1.441,98 RON
+10/5/2020 2:42:23 PM 1.437,98 RON

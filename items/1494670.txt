@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st-008-m21stz-a1
 1494670
     Product link    
 https://www.pcgarage.ro/rack-uri/thermaltake/max-2504-sata-hdd-rack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469686/1494670/thumbnails/max-2504-sata-hdd
 9/21/2020 10:23:21 AM 263,98 RON
 9/26/2020 8:54:09 AM 269,98 RON
 9/27/2020 11:48:03 AM 269,98 RON
+10/4/2020 5:35:08 PM 267,98 RON

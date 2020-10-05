@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agchm-001
 1728788
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/chesty/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8674/1728788/thumbnails/chesty-b62f9421f5e6a
 9/22/2020 5:34:54 PM 199,00 RON
 9/26/2020 6:40:30 PM 199,00 RON
 9/28/2020 8:22:36 AM 199,00 RON
+10/5/2020 4:53:43 PM 199,00 RON

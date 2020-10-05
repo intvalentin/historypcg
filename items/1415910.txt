@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hcmp-1420
 1415910
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/orico/hdmi-male-hdmi-male-v14-2m-negru-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/1415910/thumbnails/cablu-hdmi-m-v14-h
 9/21/2020 11:14:22 AM 51,98 RON
 9/26/2020 9:08:59 AM 51,98 RON
 9/27/2020 12:16:50 PM 51,98 RON
+10/4/2020 8:30:18 PM 51,98 RON

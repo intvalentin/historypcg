@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032126
 2042714
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-nl-sas-10tb-72k-12g-hdd-35-inch/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1034/2042714/thumbnails/hot-plug-sata-iii-4t
 9/21/2020 12:05:04 AM 2.433,10 RON
 9/25/2020 2:30:02 PM 2.440,12 RON
 9/26/2020 4:51:03 PM 2.441,52 RON
+10/3/2020 9:44:06 AM 2.439,92 RON
+10/5/2020 10:36:22 AM 2.439,92 RON

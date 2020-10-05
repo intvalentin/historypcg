@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |872477-b21
 1613146
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hp/hot-plug-sas-12g-600gb-10000-rpm-25-inch-3/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1358815/1613146/thumbnails/hot-plug-sas-12g-
 9/21/2020 12:05:09 AM 948,57 RON
 9/25/2020 2:34:30 PM 949,48 RON
 9/26/2020 4:55:30 PM 951,05 RON
+10/3/2020 9:54:14 AM 951,04 RON
+10/5/2020 10:37:52 AM 950,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01082
 16205
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01082-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/16205/thumbnails/toner-cartridge-high-capa
 9/22/2020 10:08:20 AM 833,98 RON
 9/26/2020 1:34:55 PM 835,98 RON
 9/27/2020 4:42:51 PM 833,98 RON
+10/4/2020 10:38:38 PM 835,98 RON

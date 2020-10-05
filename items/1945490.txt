@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |snb-8142
 1945490
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/inter-tech/snb-8142-42u-stand-alone-800-x-1000-glass-door/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/5758/1945490/thumbnails/snb-8142-42u-stand-a
 9/21/2020 12:05:31 AM 3.637,84 RON
 9/25/2020 2:36:41 PM 3.718,73 RON
 9/26/2020 4:57:40 PM 3.717,93 RON
+10/3/2020 10:22:37 AM 3.689,25 RON
+10/5/2020 10:41:33 AM 3.689,25 RON

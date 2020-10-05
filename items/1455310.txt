@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-ac504
 1455310
     Product link    
 https://www.pcgarage.ro/adaptoare/raidsonic/icybox-1x-minidisplayport-male-1x-vga-female/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1053670/1455310/thumbnails/icybox-1x-minidis
 9/21/2020 12:27:24 PM 95,98 RON
 9/26/2020 9:31:41 AM 95,98 RON
 9/27/2020 12:38:22 PM 95,98 RON
+10/5/2020 8:16:21 AM 95,98 RON

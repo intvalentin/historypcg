@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |router n3
 477679
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/n3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/477679/thumbnails/n3-f539b4a5cbb6c2124930d
 9/22/2020 11:16:42 AM 69,46 RON
 9/26/2020 2:25:48 PM 70,56 RON
 9/27/2020 6:27:28 PM 70,56 RON
+10/5/2020 1:23:00 PM 70,02 RON

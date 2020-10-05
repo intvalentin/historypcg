@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43872305
 78203
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/yellow-toner-43872305/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/78203/thumbnails/yellow-toner-43872305-2ff
 9/21/2020 10:55:02 PM 501,98 RON
 9/26/2020 1:17:07 PM 503,98 RON
 9/27/2020 4:18:21 PM 503,98 RON
+10/4/2020 7:22:21 PM 501,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0011c002aa
 1906706
     Product link    
 https://www.pcgarage.ro/imprimante/canon/selphy-cp1000-white-inkjet-color-format-15x10cm-portabila/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1906706/thumbnails/selphy-cp1000-whi
 9/21/2020 3:06:22 PM 533,98 RON
 9/26/2020 10:23:10 AM 535,98 RON
 9/27/2020 1:40:30 PM 535,98 RON
+10/5/2020 4:28:41 PM 535,98 RON

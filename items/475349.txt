@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm53246
 475349
     Product link    
 https://www.pcgarage.ro/adaptoare/hama/mini-displayport-hdmi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/475349/thumbnails/mini-displayport-hdmi-4d
 9/21/2020 12:29:29 PM 129,98 RON
 9/26/2020 9:33:10 AM 129,98 RON
 9/27/2020 12:39:56 PM 129,98 RON
+10/4/2020 11:58:08 PM 129,98 RON

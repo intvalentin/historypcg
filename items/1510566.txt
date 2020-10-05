@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-hb-02
 1510566
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/new-bike-mount/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427586/1510566/thumbnails/new-bike-mount-dd
 9/22/2020 5:31:27 PM 41,20 RON
 9/26/2020 6:41:15 PM 41,85 RON
 9/28/2020 8:23:24 AM 41,85 RON
+10/5/2020 4:39:31 PM 41,52 RON

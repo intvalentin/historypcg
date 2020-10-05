@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4rfd8266
 1659712
     Product link    
 https://www.pcgarage.ro/memorii-server/crucial/ecc-rdimm-ddr4-16gb-2666mhz-cl19-12v-dual-ranked-x8/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1489074/1659712/thumbnails/ecc-rdimm-ddr4-8g
 9/21/2020 12:04:36 AM 472,89 RON
 9/25/2020 2:27:48 PM 483,41 RON
 9/26/2020 4:48:49 PM 483,30 RON
+10/3/2020 8:55:03 AM 479,57 RON
+10/5/2020 10:32:38 AM 479,57 RON

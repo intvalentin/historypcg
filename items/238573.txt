@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0fn022
 238573
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a0fn022-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/238573/thumbnails/toner-black-a0fn022-237b
 9/22/2020 10:15:52 AM 1.505,98 RON
 9/26/2020 1:41:35 PM 1.479,98 RON
 9/27/2020 4:49:31 PM 1.479,98 RON
+10/4/2020 11:24:55 PM 1.491,98 RON

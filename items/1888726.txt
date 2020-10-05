@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tef1226p-24-440w
 1888726
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/tef1226p-24-440w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1885090/1888726/thumbnails/tef1226p-24-440w-
 9/22/2020 11:43:31 AM 1.184,87 RON
 9/26/2020 2:37:38 PM 1.211,22 RON
 9/27/2020 6:39:18 PM 1.210,96 RON
+10/5/2020 5:05:03 PM 1.201,62 RON

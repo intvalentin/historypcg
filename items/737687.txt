@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43u-00019
 737687
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/sculpt-mobile-pink/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/735074/737687/thumbnails/sculpt-mobile-pink-
 9/21/2020 8:22:39 AM 93,79 RON
 9/26/2020 8:17:33 AM 93,79 RON
 9/27/2020 11:17:18 AM 123,98 RON
+10/3/2020 8:48:24 PM 135,98 RON
+10/5/2020 2:55:17 PM 135,98 RON

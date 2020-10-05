@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q6593a
 65679
     Product link    
 https://www.pcgarage.ro/hartie/hp/professional-matt-inkjet-a4-200-coli/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/65679/thumbnails/professional-matt-inkjet-
 9/22/2020 10:26:35 AM 127,98 RON
 9/26/2020 1:51:11 PM 127,98 RON
 9/27/2020 4:59:06 PM 127,98 RON
+10/5/2020 8:28:10 AM 127,98 RON

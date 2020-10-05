@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ssm-f100
 1429874
     Product link    
 https://www.pcgarage.ro/nas/ssk/ssm-f100-smart-wifi-storage/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1178653/1429874/thumbnails/ssm-f100-smart-wi
 9/22/2020 11:25:14 AM 789,98 RON
 9/26/2020 2:32:28 PM 802,44 RON
 9/27/2020 6:34:05 PM 802,44 RON
+10/5/2020 2:56:50 PM 796,25 RON

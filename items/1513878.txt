@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |24bk750y-b
 1513878
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/24bk750y-238-inch-5-ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1427466/1513878/thumbnails/27bk750y-27-inch-
 9/21/2020 8:17:07 AM 1.101,98 RON
 9/25/2020 10:04:10 PM 1.109,98 RON
 9/27/2020 10:05:06 AM 1.109,98 RON
+10/2/2020 8:03:31 PM 1.111,98 RON
+10/3/2020 11:12:08 PM 1.111,98 RON
+10/5/2020 12:57:27 PM 1.111,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041315
 744634
     Product link    
 https://www.pcgarage.ro/hartie/epson/premium-glossy-a3-20-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/744634/thumbnails/premium-glossy-a3-2
 9/22/2020 10:27:39 AM 246,98 RON
 9/26/2020 1:49:42 PM 247,98 RON
 9/27/2020 4:57:38 PM 247,98 RON
+10/5/2020 8:35:37 AM 247,98 RON

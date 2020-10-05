@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs410n
 517903
     Product link    
 https://www.pcgarage.ro/imprimante/lexmark/cs410n-laser-color-format-a4-retea/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/517903/thumbnails/cs410n-2017ab494290e67f5
 9/21/2020 3:14:45 PM 1.689,98 RON
 9/26/2020 10:28:21 AM 1.695,98 RON
 9/27/2020 1:46:00 PM 1.695,98 RON
+10/5/2020 4:52:09 PM 1.693,98 RON

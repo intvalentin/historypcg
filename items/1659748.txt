@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ct16g4wfd8266
 1659748
     Product link    
 https://www.pcgarage.ro/memorii-server/crucial/ecc-udimm-ddr4-16gb-2666mhz-cl19-12v-dual-rank-x8/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5286/1659748/thumbnails/ecc-udimm-ddr4-8gb-2
 9/21/2020 12:04:32 AM 528,81 RON
 9/25/2020 2:27:48 PM 540,56 RON
 9/26/2020 4:48:49 PM 540,45 RON
+10/3/2020 8:55:52 AM 536,28 RON
+10/5/2020 10:32:38 AM 536,28 RON

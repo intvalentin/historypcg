@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st10000nm002g
 2075114
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-x16-hdd-10tb-7200rpm-sas-256mb-35-inch-512e/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4525/2075114/thumbnails/exos-x16-hdd-10tb-72
 9/21/2020 12:04:59 AM 1.889,28 RON
 9/25/2020 2:32:16 PM 1.931,29 RON
 9/26/2020 4:53:14 PM 1.930,88 RON
+10/3/2020 10:09:45 AM 1.915,98 RON
+10/5/2020 10:39:21 AM 1.915,98 RON

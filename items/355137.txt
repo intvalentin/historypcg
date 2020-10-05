@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nanox_900100020
 355137
     Product link    
 https://www.pcgarage.ro/cabluri-componente/nanoxia/cablu-prelungitor-eps-30-cm-1x-8-pini-la-2x-4-plus4-pini/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/355137/thumbnails/cablu-prelungitor-eps-30
 9/21/2020 12:10:32 PM 41,98 RON
 9/26/2020 9:28:00 AM 41,98 RON
 9/27/2020 12:34:25 PM 41,98 RON
+10/4/2020 11:20:40 PM 41,98 RON

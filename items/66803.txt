@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-3205p
 66803
     Product link    
 https://www.pcgarage.ro/switch-uri/edimax/es-3205p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/66803/thumbnails/es-3205p-7fab8756531eba43
 9/22/2020 11:47:50 AM 58,72 RON
 9/26/2020 2:51:00 PM 59,65 RON
 9/27/2020 6:52:41 PM 59,65 RON
+10/5/2020 5:37:14 PM 58,99 RON

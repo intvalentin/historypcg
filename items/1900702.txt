@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s26361-f2567-d630
 1900702
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare-server/fujitsu/server-2019-essentials-1-2-cpu-rok-oem-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1900702/thumbnails/server-2019-essentia
 9/21/2020 1:15:07 PM 2.231,48 RON
 9/26/2020 9:47:53 AM 2.239,20 RON
 9/27/2020 12:56:02 PM 2.239,20 RON
+10/5/2020 10:03:09 AM 2.237,73 RON

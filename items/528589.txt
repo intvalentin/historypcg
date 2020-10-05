@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg-s16g
 528589
     Product link    
 https://www.pcgarage.ro/switch-uri/trendnet/teg-s16g/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/528589/thumbnails/teg-s16g-8d2d6f0c8ca1218
 9/22/2020 11:49:59 AM 410,32 RON
 9/26/2020 2:50:16 PM 416,86 RON
 9/27/2020 6:51:58 PM 416,78 RON
+10/5/2020 5:49:07 PM 413,56 RON

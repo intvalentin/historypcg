@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt-8595217454538
 2054966
     Product link    
 https://www.pcgarage.ro/baterii-externe/swissten/core-15000-mah-2x-usb-1x-usb-c-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2054966/thumbnails/core-15000-mah-2x-us
 9/20/2020 11:47:09 PM 190,98 RON
 9/25/2020 9:20:10 AM 191,98 RON
 9/26/2020 1:49:45 PM 191,98 RON
+10/4/2020 11:01:30 PM 191,98 RON

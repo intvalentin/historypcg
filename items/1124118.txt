@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uc-h361
 1124118
     Product link    
 https://www.pcgarage.ro/cablu-periferice/ssk/usb-20-male-tip-a-usb-20-male-tip-a-15m-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/1124118/thumbnails/usb-20-male-tip-a-usb-2
 9/21/2020 11:57:23 AM 17,98 RON
 9/26/2020 9:24:19 AM 17,98 RON
 9/27/2020 12:30:23 PM 17,98 RON
+10/4/2020 10:47:37 PM 37,98 RON

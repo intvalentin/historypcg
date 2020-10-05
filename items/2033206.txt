@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bh0028ri
 2033206
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530-procesor-intel-core-i3-9100-360ghz-coffee-lake-4gb-ddr4-256gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/5147/2033206/thumbnails/v530-procesor-intel-
 9/21/2020 12:01:59 AM 1.698,98 RON
 9/25/2020 1:54:35 PM 1.698,98 RON
 9/26/2020 4:22:53 PM 1.698,98 RON
+10/2/2020 7:28:35 PM 1.698,98 RON
+10/5/2020 10:04:36 AM 1.698,98 RON

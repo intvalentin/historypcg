@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steb8000402
 1951366
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/expansion-desktop-8tb-35-inch-usb-30/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6997/1951366/thumbnails/expansion-desktop-8t
 9/21/2020 8:18:42 AM 739,98 RON
 9/25/2020 10:15:58 PM 829,98 RON
 9/27/2020 10:17:59 AM 829,98 RON
+10/2/2020 10:34:31 PM 819,98 RON
+10/5/2020 1:17:12 PM 819,98 RON

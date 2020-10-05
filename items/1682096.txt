@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-005179
 1682096
     Product link    
 https://www.pcgarage.ro/mouse/logitech/mx-ergo-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1666176/1682096/thumbnails/mx-ergo-black-598
 9/21/2020 8:23:03 AM 425,98 RON
 9/26/2020 8:21:17 AM 425,98 RON
 9/27/2020 11:15:03 AM 425,98 RON
+10/3/2020 5:59:38 PM 425,98 RON
+10/5/2020 2:45:23 PM 425,98 RON

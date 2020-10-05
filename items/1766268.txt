@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10f1000kri
 1766268
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/20-thinkcentre-m700z-hd-plus-procesor-intel-core-i3-6100t-32ghz-skylake-4gb-500gb-gma-hd-530-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1052635/1766268/thumbnails/20-thinkcentre-m7
 9/21/2020 12:03:10 AM 4.009,98 RON
 9/25/2020 2:14:33 PM 4.029,98 RON
 9/26/2020 4:35:27 PM 4.029,98 RON
+10/2/2020 9:21:05 PM 4.029,98 RON
+10/5/2020 10:18:35 AM 4.029,98 RON

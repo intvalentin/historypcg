@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44036023
 220663
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/cyan-toner-44036023/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/220663/thumbnails/cyan-toner-44036023-854e
 9/21/2020 10:56:07 PM 859,98 RON
 9/26/2020 1:17:07 PM 863,98 RON
 9/27/2020 4:18:21 PM 863,98 RON
+10/4/2020 7:26:40 PM 861,98 RON

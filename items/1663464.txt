@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0265
 1663464
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-20-male-tip-a-usb-20-male-tip-b-15m-active-repeater-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1663464/thumbnails/usb-20-male-tip-a-us
 9/21/2020 11:53:14 AM 191,98 RON
 9/26/2020 9:19:52 AM 191,98 RON
 9/27/2020 12:25:38 PM 191,98 RON
+10/4/2020 10:33:23 PM 191,98 RON

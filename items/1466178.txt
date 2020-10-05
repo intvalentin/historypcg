@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-c493b8c85a2b4b9abc72f68d68f977a2
 1466178
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-z40-70-z40-75-z50-70-z50-75-z70-70/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1152773/1466178/thumbnails/baterie-laptop-le
 9/20/2020 11:12:59 PM 241,98 RON
 9/25/2020 3:58:57 PM 245,98 RON
 9/26/2020 5:58:46 PM 245,98 RON
+10/3/2020 8:39:54 PM 243,98 RON
+10/5/2020 11:23:17 AM 243,98 RON

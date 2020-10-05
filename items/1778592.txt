@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c32g1
 1778592
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/gaming-c32g1-curbat-315-inch-4-ms-black-freesync-144hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/6115/1778592/thumbnails/gaming-c32g1-curbat-
 9/21/2020 8:16:08 AM 1.249,99 RON
 9/25/2020 10:00:28 PM 1.249,99 RON
 9/27/2020 10:01:05 AM 1.249,99 RON
+10/2/2020 8:10:39 PM 1.249,99 RON
+10/3/2020 11:12:52 PM 1.249,99 RON
+10/5/2020 12:58:11 PM 1.249,99 RON

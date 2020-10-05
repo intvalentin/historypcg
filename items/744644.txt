@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041624
 744644
     Product link    
 https://www.pcgarage.ro/hartie/epson/premium-glossy-a4-50-coli/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/744644/thumbnails/premium-glossy-a4-50-col
 9/22/2020 10:27:39 AM 215,98 RON
 9/26/2020 1:49:42 PM 216,98 RON
 9/27/2020 4:57:38 PM 216,98 RON
+10/5/2020 8:34:11 AM 216,98 RON

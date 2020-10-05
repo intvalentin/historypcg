@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-atfs.
 1740552
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-ssd-6g-200gb-512n-25-inch-in-35-inch-carrier/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1301253/1740552/thumbnails/hot-plug-ssd-6g-2
 9/21/2020 12:05:18 AM 1.379,33 RON
 9/25/2020 2:33:45 PM 1.383,30 RON
 9/26/2020 4:54:44 PM 1.384,10 RON
+10/3/2020 10:02:43 AM 1.383,19 RON
+10/5/2020 10:38:36 AM 1.383,19 RON

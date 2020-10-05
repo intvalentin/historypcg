@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p2418d
 1660396
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/p2418d-238-inch-2k-4-ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/5286/1660396/thumbnails/p2418d-238-inch-2k-4
 9/21/2020 8:15:04 AM 899,99 RON
 9/25/2020 9:41:19 PM 899,99 RON
 9/27/2020 9:46:30 AM 1.299,99 RON
+10/2/2020 8:14:07 PM 1.299,99 RON
+10/3/2020 11:13:35 PM 1.299,99 RON
+10/5/2020 12:58:54 PM 1.299,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r02304
 515701
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r02304-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/515701/thumbnails/toner-negru-106r02304-f1
 9/22/2020 10:05:06 AM 505,98 RON
 9/26/2020 1:28:59 PM 507,98 RON
 9/27/2020 4:30:15 PM 507,98 RON
+10/4/2020 9:18:06 PM 507,98 RON

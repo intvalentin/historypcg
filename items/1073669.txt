@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7915e7g
 1073669
     Product link    
 https://www.pcgarage.ro/servere/lenovo/x3650-m4-procesor-intel-xeon-e5-2620-v2-21ghz-ivy-bridge-ep-1x-8gb-rdimm-ddr3-1600mhz-fara-hdd-sff-25-inch-m5110e/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/798262/1073669/thumbnails/x3650-m4-procesor-
 9/21/2020 12:04:06 AM 9.563,30 RON
 9/25/2020 2:24:07 PM 9.590,86 RON
 9/26/2020 4:45:04 PM 9.596,38 RON
+10/2/2020 10:52:21 PM 9.590,08 RON
+10/5/2020 10:27:25 AM 9.590,08 RON

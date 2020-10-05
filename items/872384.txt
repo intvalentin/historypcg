@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n9z-00022
 872384
     Product link    
 https://www.pcgarage.ro/tastaturi/microsoft/all-in-one-media/
@@ -11,3 +11,5 @@ https://1.grgs.ro/images/products/1/5/872384/thumbnails/all-in-one-media-1aa173d
 9/21/2020 9:55:49 AM 133,65 RON
 9/26/2020 8:34:00 AM 133,65 RON
 9/27/2020 11:27:48 AM 133,65 RON
+10/3/2020 8:58:07 PM 120,28 RON
+10/5/2020 2:56:48 PM 120,28 RON

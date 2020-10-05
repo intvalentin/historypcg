@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10nj000pri
 1590122
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/23-v510z-fhd-touch-procesor-intel-core-i5-7400t-24ghz-kaby-lake-8gb-256gb-ssd-gma-hd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1301253/1590122/thumbnails/23-v510z-fhd-proc
 9/21/2020 12:03:15 AM 5.119,98 RON
 9/25/2020 2:15:18 PM 5.129,98 RON
 9/26/2020 4:36:10 PM 5.129,98 RON
+10/2/2020 9:28:42 PM 5.129,98 RON
+10/5/2020 10:19:19 AM 5.129,98 RON

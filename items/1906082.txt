@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k0q21a
 1906082
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-enterprise-m609dn-monocrom-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6835/1906082/thumbnails/laserjet-enterprise-
 9/21/2020 3:02:12 PM 5.397,98 RON
 9/26/2020 10:18:02 AM 5.415,98 RON
 9/27/2020 1:35:44 PM 5.415,98 RON
+10/5/2020 4:02:04 PM 5.413,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j9980a
 1086724
     Product link    
 https://www.pcgarage.ro/switch-uri/hp/1820-24g-web-managed/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025736/1086724/thumbnails/1820-24g-web-mana
 9/22/2020 11:42:26 AM 833,65 RON
 9/26/2020 2:41:21 PM 836,03 RON
 9/27/2020 6:43:01 PM 836,51 RON
+10/5/2020 5:57:25 PM 835,96 RON

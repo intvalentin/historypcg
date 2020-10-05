@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gwc-003
 2060442
     Product link    
 https://www.pcgarage.ro/camere-web/white-shark/cyclops-1080p/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6954/2060442/thumbnails/cyclops-1080p-18cffc
 9/21/2020 10:08:32 AM 147,98 RON
 9/26/2020 8:42:58 AM 198,89 RON
 9/27/2020 11:36:48 AM 198,89 RON
+10/3/2020 10:27:24 PM 159,11 RON
+10/5/2020 3:05:33 PM 159,11 RON

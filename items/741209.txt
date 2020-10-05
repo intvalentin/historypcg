@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-6027r-73darf
 741209
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-6027r-73darf-black-rack-2u-socket-2011-16x-ddr3-dimm-8x-hdd-35-inch-hot-plug/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1/741209/thumbnails/superserver-6027r-73darf
 9/21/2020 12:04:05 AM 7.256,45 RON
 9/25/2020 2:24:07 PM 7.355,10 RON
 9/26/2020 4:45:04 PM 7.417,80 RON
+10/2/2020 10:49:09 PM 7.349,62 RON
+10/5/2020 10:26:41 AM 7.359,00 RON

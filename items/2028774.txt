@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lip8020005
 2028774
     Product link    
 https://www.pcgarage.ro/i-love-gaming/lexip/lexip-gaming-np93-neptunium-pixel-perfect-euro-version-pc/
@@ -10,3 +10,5 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
 9/21/2020 8:12:14 AM 393,98 RON
 9/25/2020 2:47:43 PM 393,98 RON
 9/26/2020 5:08:42 PM 393,98 RON
+10/3/2020 4:17:19 PM 393,98 RON
+10/5/2020 11:08:13 AM 393,98 RON

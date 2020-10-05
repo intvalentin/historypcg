@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6030c
 523775
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/heavyweight-coated-914-mm-x-305-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/523775/thumbnails/heavyweight-coated-914-m
 9/22/2020 10:31:57 AM 211,98 RON
 9/26/2020 1:54:08 PM 211,98 RON
 9/27/2020 5:02:02 PM 211,98 RON
+10/5/2020 8:53:26 AM 211,98 RON

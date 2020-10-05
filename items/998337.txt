@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mx910de
 998337
     Product link    
 https://www.pcgarage.ro/multifunctionale/lexmark/mx910de-laser-monocrom-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/998337/thumbnails/mx910de-laser-monoc
 9/21/2020 2:49:50 PM 35.413,98 RON
 9/26/2020 10:13:01 AM 35.535,98 RON
 9/27/2020 1:31:43 PM 35.535,98 RON
+10/5/2020 3:26:23 PM 35.511,98 RON

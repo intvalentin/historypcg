@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru16536
 269433
     Product link    
 https://www.pcgarage.ro/mouse/trust/easyclick-wireless/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1/269433/thumbnails/easyclick-wireless-10559
 9/21/2020 8:22:50 AM 43,98 RON
 9/26/2020 8:24:16 AM 43,98 RON
 9/27/2020 11:18:02 AM 43,98 RON
+10/3/2020 5:26:55 PM 43,98 RON
+10/5/2020 2:41:41 PM 43,98 RON

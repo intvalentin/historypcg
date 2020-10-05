@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31030109110
 1777424
     Product link    
 https://www.pcgarage.ro/mouse/genius/nx-7000-red/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6115/1777424/thumbnails/nx-7000-red-1517b213
 9/21/2020 8:23:53 AM 37,98 RON
 9/26/2020 8:27:16 AM 37,98 RON
 9/27/2020 11:21:03 AM 37,98 RON
+10/3/2020 7:17:37 PM 37,98 RON
+10/5/2020 2:52:18 PM 37,98 RON

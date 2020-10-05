@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t4j69ea
 1444866
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/hp/prodesk-600-g2-procesor-intel-core-i3-6100t-32ghz-skylake-4gb-ddr4-1tb-sshd-gma-hd-530-wi-fi-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1155213/1444866/thumbnails/prodesk-600-g2-pr
 9/21/2020 12:03:42 AM 3.859,98 RON
 9/25/2020 2:19:41 PM 3.874,98 RON
 9/26/2020 4:40:35 PM 3.874,98 RON
+10/2/2020 10:23:21 PM 3.874,98 RON
+10/5/2020 10:23:46 AM 3.874,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer147-525483566111a97b3e234c8a9ac348d2
 1463614
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-acer-aspire-5738-7715z/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1301183/1463614/thumbnails/baterie-laptop-ac
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 4:05:40 PM 235,98 RON
 9/26/2020 6:05:33 PM 235,98 RON
+10/3/2020 5:27:00 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

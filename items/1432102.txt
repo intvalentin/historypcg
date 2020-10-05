@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004913
 1432102
     Product link    
 https://www.pcgarage.ro/mouse/logitech/b330-silent-plus-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1175596/1432102/thumbnails/b330-silent-plus-
 9/21/2020 8:24:06 AM 149,98 RON
 9/26/2020 8:29:31 AM 149,98 RON
 9/27/2020 11:23:18 AM 149,98 RON
+10/3/2020 8:48:41 PM 149,98 RON
+10/5/2020 2:55:17 PM 149,98 RON

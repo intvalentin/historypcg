@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc10i5fnk2
 2025694
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i5fnk2-core-i5-10210u-16ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/9002/2025694/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:28 AM 1.954,98 RON
 9/25/2020 2:16:45 PM 1.989,98 RON
 9/26/2020 4:37:35 PM 1.994,98 RON
+10/2/2020 10:16:31 PM 1.939,98 RON
+10/5/2020 10:23:01 AM 1.934,98 RON

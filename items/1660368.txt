@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27mp89hm-s
 1660368
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/27mp89hm-s-27-inch-5-ms-white-silver-freesync/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/5286/1660368/thumbnails/27mp89hm-s-27-inch-5
 9/21/2020 8:17:07 AM 1.139,98 RON
 9/25/2020 10:03:25 PM 1.141,98 RON
 9/27/2020 10:04:19 AM 1.143,98 RON
+10/2/2020 8:04:55 PM 1.141,98 RON
+10/3/2020 11:12:08 PM 1.141,98 RON
+10/5/2020 12:58:11 PM 1.141,98 RON

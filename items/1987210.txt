@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90gc0060-bst030
 1987210
     Product link    
 https://www.pcgarage.ro/i-love-gaming/asus/rog-asymmetry-black-l/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1977958/1987210/thumbnails/ct2001-rog-asymme
 9/21/2020 8:10:27 AM 98,99 RON
 9/25/2020 2:46:14 PM 98,99 RON
 9/26/2020 5:07:12 PM 98,99 RON
+10/3/2020 11:30:10 AM 98,99 RON
+10/5/2020 10:50:23 AM 98,99 RON

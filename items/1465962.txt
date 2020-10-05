@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo125-4756f83ec3c5e99b2bf88d5e449a7d8f
 1465962
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-l410-l412-l420-l421-l510-l512-l520/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/978807/1465962/thumbnails/baterie-laptop-len
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:33:26 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

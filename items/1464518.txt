@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus161-c56f8a621d1876af62505902b1978d02
 1464518
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-f301-f301a-f301u-f401-f401a-f401u-f501-f501a-f501u/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1146523/1464518/thumbnails/baterie-laptop-as
 9/20/2020 11:12:10 PM 223,98 RON
 9/25/2020 4:02:42 PM 227,98 RON
 9/26/2020 6:02:32 PM 227,98 RON
+10/3/2020 5:15:12 PM 225,98 RON
+10/5/2020 11:15:44 AM 225,98 RON

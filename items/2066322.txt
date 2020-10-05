@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90j000ahri
 2066322
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510a-15arr-procesor-amd-ryzen-3-3200g-36ghz-8gb-ram-256gb-ssd-radeon-vega-8-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6835/2066322/thumbnails/ideacentre-510a-15ic
 9/21/2020 12:02:03 AM 1.689,98 RON
 9/25/2020 1:55:19 PM 1.689,98 RON
 9/26/2020 4:23:38 PM 1.689,98 RON
+10/2/2020 7:30:47 PM 1.689,98 RON
+10/5/2020 10:04:36 AM 1.689,98 RON

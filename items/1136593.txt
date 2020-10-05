@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lac9000633
 1136593
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-mini-4tb-usb-3-5400rpm/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/782584/1136593/thumbnails/rugged-mini-2tb-us
 9/21/2020 8:19:14 AM 889,98 RON
 9/25/2020 10:25:39 PM 899,98 RON
 9/27/2020 10:28:25 AM 899,98 RON
+10/3/2020 8:48:09 AM 899,98 RON
+10/5/2020 1:23:54 PM 899,98 RON

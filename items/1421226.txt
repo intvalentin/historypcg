@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mem-dr380l-sl10-er16
 1421226
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr3-8gb-1600mhz-135v-single-rank-x4/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1053670/1421226/thumbnails/ecc-rdimm-ddr3-8g
 9/21/2020 12:04:36 AM 576,99 RON
 9/25/2020 2:27:48 PM 584,83 RON
 9/26/2020 4:48:49 PM 589,82 RON
+10/3/2020 8:56:56 AM 584,39 RON
+10/5/2020 10:32:38 AM 585,13 RON

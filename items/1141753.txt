@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004546
 1141753
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m335-blue/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/929094/1141753/thumbnails/m335-blue-5d4ae778
 9/21/2020 8:24:09 AM 177,98 RON
 9/26/2020 8:30:15 AM 179,98 RON
 9/27/2020 11:24:04 AM 179,98 RON
+10/3/2020 8:49:47 PM 179,98 RON
+10/5/2020 2:55:17 PM 179,98 RON

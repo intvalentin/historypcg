@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp124-1b8a1388ba54396bcf54cacbdf3ad177
 1464950
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-dv2500z-dx6500-model-hstnn-db51/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1190677/1464950/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:00 PM 219,98 RON
 9/25/2020 4:01:57 PM 223,98 RON
 9/26/2020 6:01:47 PM 223,98 RON
+10/3/2020 4:59:13 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

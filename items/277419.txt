@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pac411
 277419
     Product link    
 https://www.pcgarage.ro/hartie/brother/hartie-termica-pac411/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/277419/thumbnails/hartie-termica-pac411-6e
 9/22/2020 10:24:25 AM 75,98 RON
 9/26/2020 1:50:26 PM 75,98 RON
 9/27/2020 4:58:21 PM 75,98 RON
+10/5/2020 8:15:43 AM 75,98 RON

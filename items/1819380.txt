@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0b36040
 1819380
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/western-digital/ultrastar-dc-hc310-4tb-sata-iii-7200rpm-256mb-35-inch/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/753/1819380/thumbnails/ultrastar-dc-hc310-sa
 9/21/2020 12:05:09 AM 950,94 RON
 9/25/2020 2:33:45 PM 963,88 RON
 9/26/2020 4:54:44 PM 972,09 RON
+10/3/2020 9:54:46 AM 963,15 RON
+10/5/2020 10:37:52 AM 964,39 RON

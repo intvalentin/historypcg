@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bdm3270qp2+-+00
 1462826
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/bdm3270qp2-00-32-inch-2k-4-ms-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1416562/1462826/thumbnails/bdm3270qp2-00-32-
 9/21/2020 8:17:19 AM 1.793,98 RON
 9/25/2020 10:05:41 PM 1.807,98 RON
 9/27/2020 10:06:41 AM 1.807,98 RON
+10/2/2020 8:32:30 PM 1.809,98 RON
+10/4/2020 4:32:03 PM 1.809,98 RON
+10/5/2020 1:01:11 PM 1.809,98 RON

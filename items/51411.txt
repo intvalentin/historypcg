@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11c376125
 51411
     Product link    
 https://www.pcgarage.ro/imprimante/epson/lq-680-pro/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/51411/thumbnails/lq-680.jpg
 9/21/2020 3:16:50 PM 3.287,98 RON
 9/26/2020 10:29:04 AM 3.297,98 RON
 9/27/2020 1:46:46 PM 3.299,98 RON
+10/5/2020 5:02:10 PM 3.297,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3204c046ba
 2049646
     Product link    
 https://www.pcgarage.ro/imprimante/canon/zoemini-white-slate-grey-zink-format-5x7cm-portabila-bluetooth-plus-jurnal-plus-husa/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2049646/thumbnails/zoemini-white-sla
 9/21/2020 3:06:22 PM 485,98 RON
 9/26/2020 10:21:40 AM 487,98 RON
 9/27/2020 1:38:53 PM 487,98 RON
+10/5/2020 4:27:24 PM 487,98 RON

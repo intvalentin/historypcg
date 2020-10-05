@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg70401
 1945530
     Product link    
 https://www.pcgarage.ro/imprimante/epson/workforce-pro-wf-8190dw-inkjet-color-format-a3-plus-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5758/1945530/thumbnails/workforce-pro-wf-819
 9/21/2020 3:16:50 PM 3.275,98 RON
 9/26/2020 10:22:25 AM 3.285,98 RON
 9/27/2020 1:39:41 PM 3.287,98 RON
+10/5/2020 5:01:47 PM 3.285,98 RON

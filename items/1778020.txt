@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chm001
 1778020
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/minihdmi-male-dvi-d-male-05m-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1778020/thumbnails/minihdmi-male-dvi-d-m
 9/21/2020 10:40:33 AM 35,98 RON
 9/26/2020 9:02:18 AM 35,98 RON
 9/27/2020 11:56:15 AM 35,98 RON
+10/4/2020 7:29:24 PM 35,98 RON

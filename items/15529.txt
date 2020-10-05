@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s041256
 15529
     Product link    
 https://www.pcgarage.ro/hartie/epson/matte-heavy-weight-a4-50-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/15529/thumbnails/115037.jpg
 9/22/2020 10:22:16 AM 82,98 RON
 9/26/2020 1:48:13 PM 82,98 RON
 9/27/2020 4:56:09 PM 82,98 RON
+10/5/2020 7:59:04 AM 83,98 RON

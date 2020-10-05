@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01412
 217281
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01412-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/217281/thumbnails/print-cartridge-high-cap
 9/22/2020 9:59:44 AM 953,98 RON
 9/26/2020 1:31:12 PM 957,98 RON
 9/27/2020 4:38:33 PM 957,98 RON
+10/4/2020 10:41:04 PM 957,98 RON

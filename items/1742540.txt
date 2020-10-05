@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cf12301a0
 1742540
     Product link    
 https://www.pcgarage.ro/plottere/epson/surecolor-sc-t5100-36-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1742540/thumbnails/surecolor-sc-t510
 9/22/2020 10:29:46 AM 7.267,98 RON
 9/26/2020 1:52:38 PM 7.123,98 RON
 9/27/2020 5:00:32 PM 7.123,98 RON
+10/5/2020 8:40:47 AM 7.289,98 RON

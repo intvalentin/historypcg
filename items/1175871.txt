@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34um68-p
 1175871
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/34um68-p-34-inch-5ms-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/714621/1175871/thumbnails/34um68-p-34-inch-5
 9/21/2020 8:17:19 AM 1.691,98 RON
 9/25/2020 10:08:40 PM 1.705,98 RON
 9/27/2020 10:09:52 AM 1.705,98 RON
+10/2/2020 8:28:43 PM 1.707,98 RON
+10/4/2020 4:31:19 PM 1.707,98 RON
+10/5/2020 1:00:26 PM 1.707,98 RON

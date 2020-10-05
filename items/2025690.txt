@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc10i5fnh2
 2025690
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i5fnh2-core-i5-10210u-16ghz-2x-ddr4-64gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/9002/2025690/thumbnails/intel-nuc-barebone-b
 9/21/2020 12:03:28 AM 1.909,98 RON
 9/25/2020 2:18:13 PM 1.954,98 RON
 9/26/2020 4:37:35 PM 1.954,98 RON
+10/2/2020 10:05:32 PM 1.939,98 RON
+10/5/2020 10:21:32 AM 1.939,98 RON

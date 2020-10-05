@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w1y45a
 1898858
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-pro-m454dw-color-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1202/1898858/thumbnails/laserjet-pro-m454dw-
 9/21/2020 2:53:57 PM 1.533,98 RON
 9/26/2020 10:19:27 AM 1.539,98 RON
 9/27/2020 1:36:30 PM 1.535,98 RON
+10/5/2020 3:51:00 PM 1.537,98 RON

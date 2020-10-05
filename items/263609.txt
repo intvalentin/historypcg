@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktm2759k2+-+8g
 263609
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr2-8gb-667mhz-cl5-18v-dual-channel-kit-compatibil-ibm/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/986897/263609/thumbnails/ecc-rdimm-ddr2-8gb-
 9/21/2020 12:04:41 AM 1.445,44 RON
 9/25/2020 2:28:32 PM 1.477,58 RON
 9/26/2020 4:49:34 PM 1.477,26 RON
+10/3/2020 9:06:51 AM 1.465,87 RON
+10/5/2020 10:34:07 AM 1.465,87 RON

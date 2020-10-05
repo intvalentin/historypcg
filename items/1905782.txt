@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100n03033
 1905782
     Product link    
 https://www.pcgarage.ro/scannere/xerox/documate-5440/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1202/1905782/thumbnails/documate-5440-7ca6f5
 9/22/2020 10:43:45 AM 9.479,98 RON
 9/26/2020 2:02:11 PM 9.511,98 RON
 9/27/2020 5:09:26 PM 9.491,98 RON
+10/5/2020 10:25:58 AM 9.505,98 RON

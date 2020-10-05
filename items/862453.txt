@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acntsyc1
 862453
     Product link    
 https://www.pcgarage.ro/cabluri-componente/noctua/cablu-4-pin-f-2x-4-pin-m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/851375/862453/thumbnails/na-syc1-849cd332203
 9/21/2020 12:06:24 PM 37,98 RON
 9/26/2020 9:26:31 AM 37,98 RON
 9/27/2020 12:32:50 PM 37,98 RON
+10/4/2020 11:02:06 PM 37,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g1w39a
 1507482
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-pagewide-enterprise-color-mfp-586dn-inkjet-color-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469770/1507482/thumbnails/officejet-pagewid
 9/21/2020 2:08:16 PM 10.901,98 RON
 9/26/2020 10:04:08 AM 10.939,98 RON
 9/27/2020 1:22:16 PM 10.939,98 RON
+10/5/2020 1:19:11 PM 10.945,98 RON

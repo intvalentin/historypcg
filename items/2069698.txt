@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jqn11.001
 2069698
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/p5530i/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1690716/2069698/thumbnails/p5230-478dfd49fc4
 9/22/2020 5:40:54 PM 4.001,98 RON
 9/26/2020 6:44:59 PM 4.011,98 RON
 9/28/2020 8:27:06 AM 4.015,98 RON
+10/5/2020 5:45:02 PM 3.857,98 RON

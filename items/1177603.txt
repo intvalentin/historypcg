@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f6w14a
 1177603
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-mfp-m426fdn-laser-monocrom-format-a4-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1177603/thumbnails/laserjet-pro-mfp-m
 9/21/2020 2:39:30 PM 1.885,98 RON
 9/26/2020 10:12:16 AM 1.891,98 RON
 9/27/2020 1:30:55 PM 1.891,98 RON
+10/5/2020 2:52:52 PM 1.889,98 RON

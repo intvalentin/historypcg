@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h762040
 1881582
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-g7400u/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5634/1881582/thumbnails/eb-g7400u-ce648ba6e0
 9/22/2020 5:37:36 PM 14.001,98 RON
 9/26/2020 6:45:43 PM 14.041,98 RON
 9/28/2020 8:27:51 AM 14.049,98 RON
+10/5/2020 5:51:45 PM 14.041,98 RON

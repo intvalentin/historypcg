@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lu28e590ds+-+en
 1147958
     Product link    
 https://www.pcgarage.ro/monitoare-led/samsung/syncmaster-lu28e590ds-28-inch-1ms-black-grey/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/498497/1147958/thumbnails/gaming-lu28e590ds-
 9/21/2020 8:16:12 AM 1.255,98 RON
 9/25/2020 10:09:24 PM 1.255,98 RON
 9/27/2020 10:10:42 AM 1.255,98 RON
+10/2/2020 8:10:55 PM 1.255,98 RON
+10/3/2020 11:12:52 PM 1.255,98 RON
+10/5/2020 12:58:11 PM 1.255,98 RON

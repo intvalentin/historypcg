@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b12b808451
 1628590
     Product link    
 https://www.pcgarage.ro/accesorii-printing/epson/interfata-de-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3207/1628590/thumbnails/interfata-de-retea-f
 9/22/2020 11:03:54 AM 2.053,98 RON
 9/26/2020 2:13:13 PM 2.059,98 RON
 9/27/2020 6:14:58 PM 2.059,98 RON
+10/5/2020 11:49:54 AM 2.059,98 RON

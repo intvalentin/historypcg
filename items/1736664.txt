@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r440_4112x2_2x16_2x240_2016
 1736664
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r440-2x-procesor-intel-xeon-silver-4112-26ghz-skylake-2x-16gb-rdimm-ddr4-2666mhz-2x-240gb-ssd-lff-3yr-nbd-windows-server-2016-standard/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1666176/1736664/thumbnails/poweredge-r440-pr
 9/21/2020 12:04:10 AM 18.404,82 RON
 9/25/2020 2:22:38 PM 18.457,86 RON
 9/26/2020 4:43:36 PM 18.468,47 RON
+10/3/2020 8:20:31 AM 18.456,34 RON
+10/5/2020 10:28:09 AM 18.456,34 RON

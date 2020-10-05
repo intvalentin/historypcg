@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wdbmut0200jwt-eesn
 1793396
     Product link    
 https://www.pcgarage.ro/nas/western-digital/my-cloud-home-20tb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1793396/thumbnails/my-cloud-home-4tb-0e
 9/22/2020 11:27:24 AM 4.280,75 RON
 9/26/2020 2:30:15 PM 4.370,46 RON
 9/27/2020 6:31:50 PM 4.370,46 RON
+10/5/2020 3:12:47 PM 4.335,64 RON

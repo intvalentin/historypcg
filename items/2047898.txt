@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n510vd3671emea_ubu
 2047898
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/vostro-3671-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-linux/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1703884/2047898/thumbnails/vostro-3670-mt-pr
 9/21/2020 12:02:03 AM 1.959,98 RON
 9/25/2020 1:57:30 PM 1.959,98 RON
 9/26/2020 4:25:50 PM 1.969,98 RON
+10/2/2020 8:07:05 PM 2.059,98 RON
+10/5/2020 10:08:23 AM 2.059,98 RON

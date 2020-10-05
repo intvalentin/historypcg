@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nsw100-10p-eu0101f
 1942886
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-nsw100-10p/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5758/1942886/thumbnails/gigabit-nsw100-10p-2
 9/22/2020 11:44:35 AM 1.678,40 RON
 9/26/2020 2:36:53 PM 1.682,78 RON
 9/27/2020 6:38:33 PM 1.683,74 RON
+10/5/2020 5:12:55 PM 1.682,64 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004438
 1141748
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m335-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/802687/1141748/thumbnails/m335-black-d0c83e0
 9/21/2020 8:24:06 AM 177,98 RON
 9/26/2020 8:31:00 AM 179,98 RON
 9/27/2020 11:24:04 AM 179,98 RON
+10/3/2020 8:49:30 PM 179,98 RON
+10/5/2020 2:55:17 PM 179,98 RON

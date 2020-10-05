@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |013r00606
 16165
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-013r00606-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/16165/thumbnails/013r00606320x200.jpg
 9/22/2020 10:06:11 AM 575,98 RON
 9/26/2020 1:38:36 PM 577,98 RON
 9/27/2020 4:46:32 PM 577,98 RON
+10/4/2020 10:25:08 PM 577,98 RON

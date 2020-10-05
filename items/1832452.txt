@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |164-07835
 1832452
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/publisher-2019-32-64-bit-engleza-olp-nl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1832452/thumbnails/publisher-2019-32-64
 9/21/2020 1:23:19 PM 978,52 RON
 9/26/2020 9:50:04 AM 981,90 RON
 9/27/2020 12:58:23 PM 981,90 RON
+10/5/2020 10:21:55 AM 981,26 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fhd-00006
 2032770
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/bluetooth-arc-touch-light-grey/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3041/2032770/thumbnails/bluetooth-arc-touch-
 9/21/2020 8:23:25 AM 453,98 RON
 9/26/2020 8:18:18 AM 455,98 RON
 9/27/2020 11:12:03 AM 455,98 RON
+10/3/2020 6:00:26 PM 455,98 RON
+10/5/2020 2:45:23 PM 453,98 RON

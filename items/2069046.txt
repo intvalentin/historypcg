@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rjn-00066
 2069046
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/bluetooth-glacier/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/4917/2069046/thumbnails/ms-bluetooth-mouse-b
 9/21/2020 8:23:21 AM 99,98 RON
 9/26/2020 8:16:06 AM 74,24 RON
 9/27/2020 11:09:48 AM 74,24 RON
+10/3/2020 4:52:13 PM 74,24 RON
+10/5/2020 2:37:38 PM 74,24 RON

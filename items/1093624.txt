@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-48-750w
 1093624
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-edgeswitch-48-port-750w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/1093624/thumbnails/gigabit-edgeswitch
 9/22/2020 11:45:40 AM 4.689,48 RON
 9/26/2020 2:41:21 PM 4.752,98 RON
 9/27/2020 6:43:01 PM 4.752,98 RON
+10/5/2020 5:25:13 PM 4.715,71 RON

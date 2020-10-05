@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q8919a
 311727
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/everyday-glossy-photo-1524-mm-x-305-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/311727/thumbnails/everyday-glossy-photo-15
 9/22/2020 10:35:11 AM 659,98 RON
 9/26/2020 1:56:22 PM 663,98 RON
 9/27/2020 5:04:16 PM 663,98 RON
+10/5/2020 9:34:02 AM 661,98 RON

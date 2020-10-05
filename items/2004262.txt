@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m2d18
 2004262
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/adaptor-nvme-sata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2003606/2004262/thumbnails/adaptor-nvme-sata
 9/22/2020 11:32:45 AM 1.030,55 RON
 9/26/2020 2:33:55 PM 1.034,73 RON
 9/27/2020 6:35:33 PM 1.034,73 RON
+10/5/2020 3:32:11 PM 1.032,72 RON

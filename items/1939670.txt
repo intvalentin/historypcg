@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |24b6040
 1939670
     Product link    
 https://www.pcgarage.ro/consumabile/lexmark/drum-unit-24b6040-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1939670/thumbnails/drum-unit-24b6040-bl
 9/21/2020 3:25:09 PM 203,98 RON
 9/26/2020 10:29:50 AM 203,98 RON
 9/27/2020 1:47:38 PM 203,98 RON
+10/5/2020 5:44:48 PM 203,98 RON

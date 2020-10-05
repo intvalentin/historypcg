@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sf4000
 2044618
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/capsator-sf-4000/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2044618/thumbnails/capsator-sf-4000-02a
 9/22/2020 11:03:54 AM 2.153,98 RON
 9/26/2020 2:10:16 PM 2.161,98 RON
 9/27/2020 6:11:57 PM 2.157,98 RON
+10/5/2020 11:50:58 AM 2.159,98 RON

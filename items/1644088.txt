@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg06401
 1644088
     Product link    
 https://www.pcgarage.ro/imprimante/epson/workforce-pro-wf-c5210dw-inkjet-color-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1642372/1644088/thumbnails/workforce-pro-wf-
 9/21/2020 3:10:37 PM 1.093,98 RON
 9/26/2020 10:25:23 AM 1.097,98 RON
 9/27/2020 1:42:53 PM 1.097,98 RON
+10/5/2020 4:41:29 PM 1.097,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru19663
 1405094
     Product link    
 https://www.pcgarage.ro/mouse/trust/yvi-blue/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1358815/1405094/thumbnails/yvi-blue-be493993
 9/21/2020 8:23:12 AM 39,98 RON
 9/26/2020 8:22:46 AM 39,98 RON
 9/27/2020 11:15:47 AM 39,98 RON
+10/3/2020 5:23:43 PM 39,98 RON
+10/5/2020 2:40:56 PM 39,98 RON

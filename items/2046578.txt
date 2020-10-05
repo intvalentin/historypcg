@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aa2m021_bd001
 2046578
     Product link    
 https://www.pcgarage.ro/multifunctionale/konica-minolta/bizhub-c250i-laser-color-format-a3-duplex-retea-plus-df-632-plus-dk-516x-plus-tonere/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2046578/thumbnails/bizhub-c250i-lase
 9/21/2020 2:47:47 PM 16.875,98 RON
 9/26/2020 10:05:36 AM 16.935,98 RON
 9/27/2020 1:23:45 PM 16.935,98 RON
+10/5/2020 3:22:42 PM 16.941,98 RON

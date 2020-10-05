@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0113
 1508870
     Product link    
 https://www.pcgarage.ro/cablu-periferice/sbox/usb-20-male-tip-a-microusb-20-male-tip-b-1m-mov/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1508470/1508870/thumbnails/usb-20-male-tip-a
 9/21/2020 11:49:05 AM 13,98 RON
 9/26/2020 9:19:52 AM 13,98 RON
 9/27/2020 12:25:38 PM 13,98 RON
+10/4/2020 10:02:44 PM 25,98 RON

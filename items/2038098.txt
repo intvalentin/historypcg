@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktf-00038
 2038098
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/bluetooth-modern-mobile-blue/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/3041/2038098/thumbnails/bluetooth-modern-mob
 9/21/2020 8:22:35 AM 98,65 RON
 9/26/2020 8:16:06 AM 98,65 RON
 9/27/2020 11:09:48 AM 98,65 RON
+10/3/2020 5:52:34 PM 155,98 RON
+10/5/2020 2:44:41 PM 155,98 RON

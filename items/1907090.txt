@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0515c106aa
 1907090
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mg3650s-black-inkjet-color-format-a4-duplex-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1899326/1907090/thumbnails/pixma-mg3650s-bla
 9/21/2020 1:55:57 PM 337,99 RON
 9/26/2020 10:00:28 AM 337,99 RON
 9/27/2020 1:09:36 PM 337,99 RON
+10/5/2020 12:37:16 PM 355,98 RON

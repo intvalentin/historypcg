@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90nc00efri
 2066390
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t5-procesor-intel-core-i5-10400-29ghz-comet-lake-16gb-ram-512gb-ssd-geforce-gtx-2060-6gb-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4917/2066390/thumbnails/pc-t5-28imb05-ci5-10
 9/21/2020 12:02:15 AM 5.619,98 RON
 9/25/2020 1:54:35 PM 5.629,98 RON
 9/26/2020 4:22:53 PM 5.639,98 RON
+10/2/2020 7:58:52 PM 5.639,98 RON
+10/5/2020 10:07:39 AM 5.639,98 RON

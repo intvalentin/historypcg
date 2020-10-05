@@ -7,3 +7,4 @@ Procesor AMD Ryzen Threadripper 3990X, 4.3Ghz, 288MB, Socket sTRX4
     Pret    
 10/1/2020 7:40:33 AM 20811
 10/2/2020 8:40:47 AM 20811
+10/4/2020 9:48:36 PM 20811

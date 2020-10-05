@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27x0128
 1158678
     Product link    
 https://www.pcgarage.ro/accesorii-printing/lexmark/marknet-n8352-80211b-g-n-wireless-print-server-kit/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/750014/1158678/thumbnails/marknet-n8352-8021
 9/22/2020 10:59:34 AM 227,98 RON
 9/26/2020 2:14:42 PM 227,98 RON
 9/27/2020 6:16:27 PM 229,98 RON
+10/5/2020 11:25:29 AM 227,98 RON

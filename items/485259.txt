@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1100-16-eu0101f
 485259
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs1100-16/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/485259/thumbnails/gs1100-16-1309c314c30cb8
 9/22/2020 11:35:58 AM 369,75 RON
 9/26/2020 2:42:50 PM 371,02 RON
 9/27/2020 6:44:31 PM 371,02 RON
+10/5/2020 4:38:19 PM 321,53 RON

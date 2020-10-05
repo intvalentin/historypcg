@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-b38bd358c51b68e4ad5ac671f4cddd48
 1465818
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-fx620-fx620dx-fx700-ge620-ge620dx/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1416562/1465818/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 3:59:42 PM 235,98 RON
 9/26/2020 5:59:31 PM 235,98 RON
+10/3/2020 5:29:57 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

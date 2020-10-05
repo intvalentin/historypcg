@@ -8,3 +8,5 @@ Placa de baza MSI H61M-P31/W8, socket 1155 editie bulk plus procesor Intel Core 
 9/30/2020 9:41:37 PM 429
 10/2/2020 8:26:27 AM 369
 10/2/2020 8:31:30 AM 429
+10/4/2020 9:42:49 PM 369
+10/4/2020 9:43:31 PM 429

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf367a
 783322
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-flow-m830z-laser-monocrom-format-a3-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/783322/thumbnails/laserjet-enterprise-flow
 9/21/2020 2:49:50 PM 50.521,98 RON
 9/26/2020 10:13:45 AM 50.695,98 RON
 9/27/2020 1:32:32 PM 50.581,98 RON
+10/5/2020 3:27:30 PM 50.659,98 RON

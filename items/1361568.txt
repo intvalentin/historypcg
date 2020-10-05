@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gmf-00195
 1361568
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/mobile-3500-flame-red/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1355434/1361568/thumbnails/3500-flame-red-3e
 9/21/2020 8:22:35 AM 67,82 RON
 9/26/2020 8:16:48 AM 67,82 RON
 9/27/2020 11:10:32 AM 67,82 RON
+10/3/2020 4:48:31 PM 57,65 RON
+10/5/2020 2:36:55 PM 57,65 RON

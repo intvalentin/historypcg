@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kt008a
 1450742
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/kt008a-1x-sata-male-1x-msata-ssd/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1450742/thumbnails/1x-sata-male-1x-m
 9/21/2020 12:31:34 PM 37,98 RON
 9/26/2020 9:36:09 AM 39,98 RON
 9/27/2020 12:43:09 PM 39,98 RON
+10/5/2020 8:05:23 AM 39,98 RON

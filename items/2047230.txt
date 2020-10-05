@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mem-dr432l-hl01-er29
 2047230
     Product link    
 https://www.pcgarage.ro/memorii-server/supermicro/ecc-rdimm-ddr4-32gb-2933mhz-cl21-12v-2rx4/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/2045418/2047230/thumbnails/ecc-rdimm-ddr4-32
 9/21/2020 12:04:32 AM 829,79 RON
 9/25/2020 2:27:03 PM 848,24 RON
 9/26/2020 4:48:05 PM 848,06 RON
+10/3/2020 9:01:27 AM 841,52 RON
+10/5/2020 10:33:23 AM 841,52 RON

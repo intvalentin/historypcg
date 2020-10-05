@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43381721
 78253
     Product link    
 https://www.pcgarage.ro/consumabile/oki/yellow-image-drum-43381721/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/78253/thumbnails/yellow-image-drum-4338172
 9/21/2020 3:51:12 PM 335,98 RON
 9/26/2020 10:33:32 AM 337,98 RON
 9/27/2020 1:51:33 PM 337,98 RON
+10/5/2020 5:53:39 PM 337,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gb-bpce-3455
 1746484
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/gigabyte/brix-apollo-lake-celeron-j3455-15ghz-2x-ddr3-hdd-25-inch-wi-fi-bluetooth-hdmi-vga-usb-30-microsd/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6748/1746484/thumbnails/brix-apollo-lake-cel
 9/21/2020 12:03:28 AM 644,98 RON
 9/25/2020 2:16:45 PM 654,98 RON
 9/26/2020 4:37:35 PM 659,98 RON
+10/2/2020 10:02:45 PM 654,98 RON
+10/5/2020 10:21:32 AM 654,98 RON

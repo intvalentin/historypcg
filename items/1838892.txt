@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |id0139
 1838892
     Product link    
 https://www.pcgarage.ro/mouse/logilink/id0139-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/2863/1838892/thumbnails/id0139-black-2520781
 9/21/2020 8:22:55 AM 53,98 RON
 9/26/2020 8:19:48 AM 53,98 RON
 9/27/2020 11:12:48 AM 53,98 RON
+10/3/2020 5:34:26 PM 53,98 RON
+10/5/2020 2:42:28 PM 53,98 RON

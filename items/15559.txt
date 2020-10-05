@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0775b003aa
 15559
     Product link    
 https://www.pcgarage.ro/hartie/canon/photopaper-gp501/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/15559/thumbnails/gp-501-photo-paper-glossy
 9/22/2020 10:24:25 AM 78,98 RON
 9/26/2020 1:51:11 PM 78,98 RON
 9/27/2020 4:59:06 PM 78,98 RON
+10/5/2020 8:16:07 AM 78,98 RON

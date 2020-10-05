@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q8917a
 311717
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/everyday-glossy-photo-914-mm-x-305-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/311717/thumbnails/paper-evday-pigm-ink-sat
 9/22/2020 10:34:06 AM 401,98 RON
 9/26/2020 1:56:22 PM 403,98 RON
 9/27/2020 5:04:16 PM 403,98 RON
+10/5/2020 9:27:58 AM 401,98 RON

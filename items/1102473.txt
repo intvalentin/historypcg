@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kw9-00499, haj-00072
 1102473
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/windows-10-home-32-64-bit-romana-fpp-usb-flash/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025736/1102473/thumbnails/windows-10-home-o
 9/21/2020 1:04:29 PM 652,43 RON
 9/26/2020 9:47:07 AM 654,24 RON
 9/27/2020 12:55:08 PM 654,24 RON
+10/5/2020 9:52:43 AM 587,99 RON

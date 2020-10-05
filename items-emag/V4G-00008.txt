@@ -12,3 +12,4 @@ Laptop Microsoft Surface 3 cu procesor AMD Ryzen 5 3580U pana la 3.70 GHz, 15'',
 9/30/2020 9:51:38 AM 6099
 10/1/2020 10:37:02 PM 6099
 10/1/2020 11:26:17 PM 6099
+10/4/2020 9:04:50 PM 6099

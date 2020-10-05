@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ew2480
 2019842
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/ew2480-238-inch-5-ms-black-freesync-75hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/8491/2019842/thumbnails/ew2480-238-inch-5-ms
 9/21/2020 8:15:46 AM 763,98 RON
 9/25/2020 9:45:42 PM 765,98 RON
 9/27/2020 9:41:41 AM 765,98 RON
+10/2/2020 7:23:36 PM 769,98 RON
+10/3/2020 10:16:35 PM 871,98 RON
+10/5/2020 12:39:43 PM 871,98 RON

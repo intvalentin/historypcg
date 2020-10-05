@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ms2ts-sv
 2014206
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/ms2ts-1x-sata-1x-m2-sata-msata/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2014206/thumbnails/adaptor-orico-m2ts-m
 9/21/2020 12:31:33 PM 63,98 RON
 9/26/2020 9:33:55 AM 65,98 RON
 9/27/2020 12:40:45 PM 65,98 RON
+10/5/2020 8:12:49 AM 65,98 RON

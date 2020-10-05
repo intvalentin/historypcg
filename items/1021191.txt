@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0013c009aa
 1021191
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mx-495-inkjet-color-format-a4-fax-wi-fi-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/1021191/thumbnails/pixma-mx-495-wirel
 9/21/2020 2:12:25 PM 337,98 RON
 9/26/2020 10:13:01 AM 339,98 RON
 9/27/2020 1:31:43 PM 339,98 RON
+10/5/2020 1:25:42 PM 339,98 RON

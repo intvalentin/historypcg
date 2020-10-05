@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |office pro i7m16h2sx
 2038202
     Product link    
 https://www.pcgarage.ro/sisteme-pc-garage/pc-garage/office-pro-i7m16h2sx/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4338/2038202/thumbnails/office-pro-i7m16h2sx
 9/21/2020 12:01:50 AM 3.139,99 RON
 9/25/2020 1:52:28 PM 3.139,99 RON
 9/26/2020 4:20:46 PM 3.139,99 RON
+10/2/2020 7:19:29 PM 3.139,99 RON
+10/5/2020 10:02:12 AM 3.139,99 RON

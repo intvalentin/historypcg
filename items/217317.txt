@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01401
 217317
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01401-magenta/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/217317/thumbnails/print-cartridge-high-cap
 9/22/2020 10:08:20 AM 1.029,98 RON
 9/26/2020 1:37:08 PM 1.033,98 RON
 9/27/2020 4:45:04 PM 1.033,98 RON
+10/4/2020 10:42:08 PM 1.033,98 RON

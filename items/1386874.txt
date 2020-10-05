@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |407546
 1386874
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/toner-sp-c250e-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301253/1386874/thumbnails/toner-sp-c250e-ye
 9/21/2020 11:00:24 PM 426,97 RON
 9/26/2020 1:20:03 PM 426,97 RON
 9/27/2020 4:21:17 PM 426,97 RON
+10/4/2020 7:49:19 PM 426,97 RON

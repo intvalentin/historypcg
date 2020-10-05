@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x3j64ea
 1629466
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/hp/215-quot-proone-600-g2-fhd-procesor-intel-core-i5-6500-32ghz-skylake-4gb-256gb-ssd-gma-hd-530-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1355434/1629466/thumbnails/215-quot-proone-6
 9/21/2020 12:03:15 AM 5.599,98 RON
 9/25/2020 2:14:33 PM 5.619,98 RON
 9/26/2020 4:35:27 PM 5.619,98 RON
+10/2/2020 9:31:29 PM 5.619,98 RON
+10/5/2020 10:19:19 AM 5.619,98 RON

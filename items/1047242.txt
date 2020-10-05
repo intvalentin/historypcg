@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0003
 1047242
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/vga-male-vga-male-5m-ecranat-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/1047242/thumbnails/vga-male-vga-male-
 9/21/2020 10:41:37 AM 53,98 RON
 9/26/2020 9:05:16 AM 53,98 RON
 9/27/2020 12:11:57 PM 53,98 RON
+10/4/2020 7:38:35 PM 53,98 RON

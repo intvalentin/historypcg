@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90l3008hri
 1969730
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-intel-core-i5-9400f-29ghz-coffee-lake-8gb-ddr4-128gb-ssd-plus-1tb-hdd-geforce-gtx-1650-4gb-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1703884/1969730/thumbnails/legion-t530-tower
 9/21/2020 12:02:29 AM 3.769,98 RON
 9/25/2020 1:59:44 PM 3.769,98 RON
 9/26/2020 4:28:03 PM 3.779,98 RON
+10/2/2020 8:20:48 PM 3.779,98 RON
+10/5/2020 10:09:52 AM 3.779,98 RON

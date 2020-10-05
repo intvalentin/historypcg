@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc7cjyh2
 1670652
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7cjyh2-celeron-j4005-20ghz-2x-ddr4-8gb-max-hdd-25-inch-hdmi/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1663772/1670652/thumbnails/intel-boxnuc7cjyh
 9/21/2020 12:03:33 AM 594,98 RON
 9/25/2020 2:18:58 PM 604,98 RON
 9/26/2020 4:39:51 PM 609,98 RON
+10/2/2020 10:11:18 PM 604,98 RON
+10/5/2020 10:22:16 AM 604,98 RON

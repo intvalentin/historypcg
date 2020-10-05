@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |va24dqlb
 2089154
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/va24dqlb-238-inch-negru-freesync-75-hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/7008/2089154/thumbnails/va24dqlb-238-inch-ne
 9/21/2020 8:15:42 AM 691,98 RON
 9/25/2020 9:44:14 PM 693,98 RON
 9/27/2020 9:39:15 AM 693,98 RON
+10/2/2020 7:27:39 PM 797,98 RON
+10/3/2020 10:14:12 PM 797,98 RON
+10/5/2020 12:38:59 PM 797,98 RON

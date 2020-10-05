@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p18584-421
 2021066
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-microserver-gen10-plus-procesor-intel-xeon-e-2224-34ghz-coffee-lake-16gb-udimm-ddr4-1tb-hdd-s100i-sw-raid-4x-lff/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8491/2021066/thumbnails/proliant-microserver
 9/21/2020 12:04:01 AM 4.196,05 RON
 9/25/2020 2:21:53 PM 4.200,01 RON
 9/26/2020 4:42:51 PM 4.206,98 RON
+10/2/2020 10:43:12 PM 4.206,90 RON
+10/5/2020 10:25:57 AM 4.206,64 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |242b1v+-+00
 2089722
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/242b1v-238-inch-4-ms-negru-75-hz/
@@ -9,3 +9,5 @@ https://4.grgs.ro/images/products/1/7008/2089722/thumbnails/242b1-238-inch-4-ms-
     Pret    
 9/25/2020 9:42:48 PM 1.967,98 RON
 9/27/2020 9:37:38 AM 1.969,98 RON
+10/3/2020 10:38:57 PM 2.167,98 RON
+10/5/2020 12:44:49 PM 2.167,98 RON

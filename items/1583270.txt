@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aslsm-001
 1583270
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/bite-mount/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1496454/1583270/thumbnails/bite-mount-bc69f0
 9/22/2020 5:34:19 PM 146,24 RON
 9/26/2020 6:42:44 PM 146,24 RON
 9/28/2020 8:24:53 AM 146,24 RON
+10/5/2020 5:11:59 PM 146,24 RON

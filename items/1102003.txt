@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fqc-08969
 1102003
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/windows-10-pro-oem-dsp-oei-32-bit-engleza/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/815230/1102003/thumbnails/windows-10-pro-oem
 9/21/2020 1:13:01 PM 727,24 RON
 9/26/2020 9:47:07 AM 743,25 RON
 9/27/2020 12:55:08 PM 743,25 RON
+10/5/2020 9:59:15 AM 737,52 RON

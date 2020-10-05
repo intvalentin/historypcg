@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs100-e9-pi2
 1771184
     Product link    
 https://www.pcgarage.ro/servere/asus/rs100-e9-pi2-rack-1u-socket-lga-1151-4x-ddr4-2x-hdd-35-inch-2x-m2-1x-250w/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5015/1771184/thumbnails/rs100-e9-pi2-rack-1u
 9/21/2020 12:03:56 AM 2.320,82 RON
 9/25/2020 2:22:38 PM 2.352,37 RON
 9/26/2020 4:43:35 PM 2.372,42 RON
+10/2/2020 10:40:59 PM 2.350,61 RON
+10/5/2020 10:25:57 AM 2.353,62 RON

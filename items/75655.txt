@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bee11-5800210
 75655
     Product link    
 https://www.pcgarage.ro/calculatoare-de-birou/canon/ls-39e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/75655/thumbnails/-tcm136-22550.jpg
 9/22/2020 10:46:59 AM 21,98 RON
 9/26/2020 2:05:09 PM 23,98 RON
 9/27/2020 5:12:26 PM 23,98 RON
+10/5/2020 10:33:28 AM 23,98 RON

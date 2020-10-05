@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-hkb3-us
 1427198
     Product link    
 https://www.pcgarage.ro/tastaturi/canyon/cns-hkb3-us-black/
@@ -11,3 +11,5 @@ https://4.grgs.ro/images/products/1/1415042/1427198/thumbnails/cns-hkb3-us-black
 9/21/2020 10:00:03 AM 37,98 RON
 9/26/2020 8:37:01 AM 37,98 RON
 9/27/2020 11:30:47 AM 37,98 RON
+10/3/2020 9:17:33 PM 37,98 RON
+10/5/2020 2:58:59 PM 37,98 RON

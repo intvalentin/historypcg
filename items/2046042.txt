@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pfs3005-4et-60
 2046042
     Product link    
 https://www.pcgarage.ro/switch-uri/dahua/pfs3005-4et-60/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2045418/2046042/thumbnails/pfs3005-4et-60-db
 9/22/2020 11:48:55 AM 181,32 RON
 9/26/2020 2:44:19 PM 181,95 RON
 9/27/2020 6:46:00 PM 181,95 RON
+10/5/2020 5:42:55 PM 181,74 RON

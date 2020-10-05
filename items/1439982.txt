@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5rh-00001
 1439982
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/3500-for-business/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1187917/1439982/thumbnails/3500-for-business
 9/21/2020 8:24:06 AM 121,98 RON
 9/26/2020 8:29:31 AM 121,98 RON
 9/27/2020 11:23:18 AM 121,98 RON
+10/3/2020 8:47:02 PM 121,98 RON
+10/5/2020 2:55:17 PM 121,98 RON

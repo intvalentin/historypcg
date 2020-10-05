@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stea2000403
 1146133
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/game-drive-hdd-2tb-5400rpm-pentru-xbox/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1126098/1146133/thumbnails/game-drive-hdd-2t
 9/21/2020 8:18:33 AM 369,98 RON
 9/25/2020 10:18:57 PM 369,98 RON
 9/27/2020 10:21:10 AM 369,98 RON
+10/2/2020 10:19:54 PM 369,98 RON
+10/5/2020 1:15:44 PM 409,98 RON

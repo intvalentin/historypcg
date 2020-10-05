@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx806734108
 1653924
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-silver-4108-18ghz-box/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/530/1653924/thumbnails/xeon-silver-4110-21gh
 9/21/2020 12:04:22 AM 2.398,76 RON
 9/25/2020 2:25:33 PM 2.452,09 RON
 9/26/2020 4:46:35 PM 2.451,56 RON
+10/3/2020 8:38:09 AM 2.432,65 RON
+10/5/2020 10:30:23 AM 2.432,65 RON

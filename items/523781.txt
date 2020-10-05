@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1956a
 523781
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/heavyweight-coated-1067-mm-x-675-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/523781/thumbnails/heavyweight-coated-1067-
 9/22/2020 10:35:11 AM 657,98 RON
 9/26/2020 1:55:37 PM 659,98 RON
 9/27/2020 5:03:32 PM 659,98 RON
+10/5/2020 9:33:43 AM 659,98 RON

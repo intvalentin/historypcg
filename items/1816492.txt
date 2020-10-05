@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg105s
 1816492
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/gigabit-tl-sg105s/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1816492/thumbnails/gigabit-tl-sg105s-440
 9/22/2020 11:37:02 AM 85,47 RON
 9/26/2020 2:38:23 PM 85,47 RON
 9/27/2020 6:40:02 PM 85,47 RON
+10/5/2020 4:05:57 PM 85,47 RON

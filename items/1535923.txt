@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco152-532b538964dfcb3c2bc3addc2cd7b402
 1535923
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-455-g3/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/842306/1535923/thumbnails/baterie-laptop-hp-
 9/20/2020 11:12:34 PM 231,98 RON
 9/25/2020 3:49:55 PM 235,98 RON
 9/26/2020 5:49:47 PM 235,98 RON
+10/3/2020 5:46:39 PM 233,98 RON
+10/5/2020 11:19:30 AM 233,98 RON

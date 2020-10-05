@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stfr4000800
 1743476
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-4tb-25-inch-usb-c-orange/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1109408/1743476/thumbnails/rugged-usb-c-25-i
 9/21/2020 8:18:19 AM 829,98 RON
 9/25/2020 10:23:25 PM 849,98 RON
 9/27/2020 10:25:59 AM 849,98 RON
+10/3/2020 8:46:21 AM 839,98 RON
+10/5/2020 1:23:54 PM 839,98 RON

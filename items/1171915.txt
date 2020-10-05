@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca11500
 1171915
     Product link    
 https://www.pcgarage.ro/cabluri-audio/logilink/jack-35-mm-male-jack-35-mm-male-conector-90-grade-5m-albastru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/843505/1171915/thumbnails/jack-35-mm-male-ja
 9/21/2020 11:42:51 AM 67,98 RON
 9/26/2020 9:18:25 AM 67,98 RON
 9/27/2020 12:24:01 PM 67,98 RON
+10/4/2020 9:47:05 PM 67,98 RON

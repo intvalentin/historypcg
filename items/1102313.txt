@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-ckey2-us
 1102313
     Product link    
 https://www.pcgarage.ro/tastaturi/canyon/cne-ckey2-us-black/
@@ -11,3 +11,5 @@ https://4.grgs.ro/images/products/1/1025741/1102313/thumbnails/cne-ckey2-us-blac
 9/21/2020 9:58:59 AM 25,98 RON
 9/26/2020 8:37:01 AM 25,98 RON
 9/27/2020 11:30:47 AM 25,98 RON
+10/3/2020 9:13:29 PM 25,98 RON
+10/5/2020 2:58:16 PM 25,98 RON

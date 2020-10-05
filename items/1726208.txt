@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1200mm0009
 1726208
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-e-10k-sas-12tb-10000rpm-128mb-512n/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1723568/1726208/thumbnails/exos-e-10k-sas-12
 9/21/2020 12:05:14 AM 1.307,37 RON
 9/25/2020 2:33:45 PM 1.325,14 RON
 9/26/2020 4:54:44 PM 1.336,43 RON
+10/3/2020 10:01:07 AM 1.324,15 RON
+10/5/2020 10:38:36 AM 1.325,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jx007wri
 1857466
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/legion-c530-cube-procesor-intel-core-i7-8700-32ghz-coffee-lake-16gb-ddr4-512gb-ssd-geforce-gtx-1060-6gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1723568/1857466/thumbnails/legion-c530-cube-
 9/21/2020 12:02:38 AM 6.399,98 RON
 9/25/2020 2:01:13 PM 6.409,98 RON
 9/26/2020 4:29:31 PM 6.419,98 RON
+10/2/2020 8:36:05 PM 6.419,98 RON
+10/5/2020 10:12:04 AM 6.419,98 RON

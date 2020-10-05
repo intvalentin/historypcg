@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |afi-ins-eu
 1978866
     Product link    
 https://www.pcgarage.ro/routere-wireless/ubiquiti-networks/gigabit-amplifi-instant-system-dual-band-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1978866/thumbnails/gigabit-amplifi-i
 9/22/2020 11:19:55 AM 854,91 RON
 9/26/2020 2:23:34 PM 868,39 RON
 9/27/2020 6:25:13 PM 868,39 RON
+10/5/2020 2:26:40 PM 861,69 RON

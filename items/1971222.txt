@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n519o3070sff
 1971222
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-sff-procesor-intel-core-i5-9500-30ghz-coffee-lake-8gb-ddr4-256-gb-ssd-gma-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8977/1971222/thumbnails/optiplex-3070-sff-pr
 9/21/2020 12:02:03 AM 3.099,98 RON
 9/25/2020 1:56:45 PM 3.109,98 RON
 9/26/2020 4:25:05 PM 3.109,98 RON
+10/2/2020 7:48:36 PM 3.189,98 RON
+10/5/2020 10:06:11 AM 3.189,98 RON

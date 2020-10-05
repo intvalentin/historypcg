@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041749
 744674
     Product link    
 https://www.pcgarage.ro/hartie/epson/bright-white-a4-500-coli/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/744674/thumbnails/bright-white-a4-500
 9/22/2020 10:24:25 AM 69,98 RON
 9/26/2020 1:49:42 PM 69,98 RON
 9/27/2020 4:57:38 PM 69,98 RON
+10/5/2020 8:14:37 AM 69,98 RON

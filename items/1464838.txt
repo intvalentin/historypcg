@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus183-6a148314cd0a973a4557a32a213a5446
 1464838
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-a95-a95a-a95v-a95vm/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1088254/1464838/thumbnails/baterie-laptop-as
 9/20/2020 11:11:55 PM 219,98 RON
 9/25/2020 4:01:57 PM 223,98 RON
 9/26/2020 6:01:47 PM 223,98 RON
+10/3/2020 4:57:37 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

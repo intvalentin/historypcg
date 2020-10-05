@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-6017r-tdaf
 1082679
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-6017r-tdaf-rack-1u-socket-2011-8x-ddr3-dimm-4x-hdd-35-inch-hot-plug/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/959008/1082679/thumbnails/superserver-6017r-
 9/21/2020 12:04:01 AM 4.928,82 RON
 9/25/2020 2:23:23 PM 4.995,82 RON
 9/26/2020 4:44:20 PM 5.038,41 RON
+10/2/2020 10:45:35 PM 4.992,09 RON
+10/5/2020 10:26:41 AM 4.998,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apple mgem2
 970367
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-procesor-intel-core-i5-14ghz-haswell-4gb-ddr3-500gb-hdd-gma-hd-5000-os-x-yosemite/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/812812/970367/thumbnails/mac-mini-procesor-i
 9/21/2020 12:03:37 AM 2.919,98 RON
 9/25/2020 2:19:41 PM 2.984,98 RON
 9/26/2020 4:40:35 PM 2.984,98 RON
+10/2/2020 10:19:00 PM 2.959,98 RON
+10/5/2020 10:23:01 AM 2.959,98 RON

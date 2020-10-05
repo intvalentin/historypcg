@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ev2450-bk
 981832
     Product link    
 https://www.pcgarage.ro/monitoare-led/eizo/ev2450-241-inch-5ms-gtg-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/859765/981832/thumbnails/ev2450-238-inch-5ms
 9/21/2020 8:17:19 AM 1.729,98 RON
 9/25/2020 10:10:09 PM 1.735,98 RON
 9/27/2020 10:11:29 AM 1.735,98 RON
+10/2/2020 8:29:49 PM 1.735,98 RON
+10/4/2020 4:31:19 PM 1.735,98 RON
+10/5/2020 1:00:26 PM 1.735,98 RON

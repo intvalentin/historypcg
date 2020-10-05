@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2925c008aa
 1789392
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf267dw-laser-monocrom-format-a4-duplex-retea-wi-fi-fax/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6440/1789392/thumbnails/i-sensys-mf267dw-las
 9/21/2020 2:06:11 PM 1.741,98 RON
 9/26/2020 10:09:18 AM 1.729,98 RON
 9/27/2020 1:27:43 PM 1.729,98 RON
+10/5/2020 2:48:17 PM 1.727,98 RON

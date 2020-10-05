@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-auxh
 2000946
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-ssd-sata-120gb-25-inch-512n-ck/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1175151/2000946/thumbnails/hot-plug-ssd-6g-1
 9/21/2020 12:04:50 AM 710,42 RON
 9/25/2020 2:30:46 PM 711,09 RON
 9/26/2020 4:51:47 PM 712,27 RON
+10/3/2020 9:13:15 AM 712,26 RON
+10/5/2020 10:34:53 AM 712,22 RON

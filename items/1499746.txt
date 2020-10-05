@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo150-a7fdcbe2ac15d5c6567af86a451cf579
 1499746
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-s435/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1169071/1499746/thumbnails/baterie-laptop-le
 9/20/2020 11:12:24 PM 231,98 RON
 9/25/2020 3:57:26 PM 235,98 RON
 9/26/2020 5:57:16 PM 235,98 RON
+10/3/2020 5:32:05 PM 233,98 RON
+10/5/2020 11:17:15 AM 233,98 RON

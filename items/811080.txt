@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr16r11s4+-+8
 811080
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/valueram-ecc-rdimm-ddr3-8gb-1600mhz-cl11-single-rank-x4-15v-1/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/634551/811080/thumbnails/valueram-ecc-rdimm-
 9/21/2020 12:04:36 AM 465,33 RON
 9/25/2020 2:29:16 PM 471,66 RON
 9/26/2020 4:50:18 PM 475,68 RON
+10/3/2020 8:54:45 AM 471,31 RON
+10/5/2020 10:32:38 AM 471,91 RON

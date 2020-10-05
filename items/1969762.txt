@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n006o5070mff_win10p-05
 1969762
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-5070-mff-procesor-intel-core-i5-9500t-22ghz-coffee-lake-16gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/8977/1969762/thumbnails/optiplex-5070-mff-pr
 9/21/2020 12:02:11 AM 3.309,98 RON
 9/25/2020 1:56:45 PM 3.359,98 RON
 9/26/2020 4:25:05 PM 3.339,98 RON
+10/2/2020 8:17:28 PM 3.279,98 RON
+10/5/2020 10:09:52 AM 3.249,98 RON

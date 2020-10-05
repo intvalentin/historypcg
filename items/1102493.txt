@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hav-00104
 1102493
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/windows-10-pro-32-64-bit-romana-fpp-usb-flash/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/1102493/thumbnails/windows-10-pro-32-
 9/21/2020 1:04:29 PM 1.110,57 RON
 9/26/2020 9:46:25 AM 1.113,77 RON
 9/27/2020 12:54:23 PM 1.114,42 RON
+10/5/2020 9:56:13 AM 1.113,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-000684
 1149083
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/hd-b910-emea-business/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1109408/1149083/thumbnails/hd-b910-emea-busi
 9/21/2020 10:09:34 AM 395,98 RON
 9/26/2020 8:43:42 AM 399,98 RON
 9/27/2020 11:37:31 AM 399,98 RON
+10/3/2020 10:34:42 PM 399,98 RON
+10/5/2020 3:06:31 PM 399,98 RON

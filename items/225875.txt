@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-002394, 920-002380
 225875
     Product link    
 https://www.pcgarage.ro/tastaturi/logitech/wireless-illuminated-keyboard-k800-black/
@@ -11,3 +11,5 @@ https://3.grgs.ro/images/products/1/3/225875/thumbnails/wireless-illuminated-key
 9/21/2020 9:56:53 AM 463,98 RON
 9/26/2020 8:35:29 AM 463,98 RON
 9/27/2020 11:29:17 AM 463,98 RON
+10/3/2020 9:11:16 PM 467,98 RON
+10/5/2020 2:58:16 PM 467,98 RON

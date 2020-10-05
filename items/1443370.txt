@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |afi-r
 1443370
     Product link    
 https://www.pcgarage.ro/routere-wireless/ubiquiti-networks/gigabit-afi-r-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1169071/1443370/thumbnails/gigabit-afi-r-dua
 9/22/2020 11:10:15 AM 649,43 RON
 9/26/2020 2:21:19 PM 663,88 RON
 9/27/2020 6:23:00 PM 674,79 RON
+10/5/2020 1:06:18 PM 658,61 RON

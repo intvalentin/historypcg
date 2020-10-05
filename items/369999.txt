@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w311r
 369999
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/w311r/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/369999/thumbnails/w311r-8d96d3a6c47c7868d3
 9/22/2020 11:17:46 AM 115,77 RON
 9/26/2020 2:26:32 PM 117,60 RON
 9/27/2020 6:27:28 PM 117,60 RON
+10/5/2020 1:28:44 PM 116,69 RON

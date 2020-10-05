@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |100n03205
 1906630
     Product link    
 https://www.pcgarage.ro/scannere/xerox/duplex-travel/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1899326/1906630/thumbnails/duplex-travel-227
 9/22/2020 10:41:35 AM 857,98 RON
 9/26/2020 2:00:46 PM 859,98 RON
 9/27/2020 5:08:42 PM 857,98 RON
+10/5/2020 10:07:28 AM 859,98 RON

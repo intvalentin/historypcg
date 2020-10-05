@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a33k450
 707958
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-tn-321c-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/707958/thumbnails/toner-tn-321c-cyan-8f2ed
 9/22/2020 10:14:48 AM 417,98 RON
 9/26/2020 1:40:06 PM 409,98 RON
 9/27/2020 4:48:02 PM 409,98 RON
+10/4/2020 11:15:17 PM 413,98 RON

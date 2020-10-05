@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-usb2-ambm-10
 224721
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/cablu-imprimanta-3m-premium-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/224721/thumbnails/cablu-imprimanta-3m-prem
 9/21/2020 11:53:14 AM 7,99 RON
 9/26/2020 9:22:50 AM 7,98 RON
 9/27/2020 12:28:49 PM 7,98 RON
+10/4/2020 9:54:09 PM 9,99 RON

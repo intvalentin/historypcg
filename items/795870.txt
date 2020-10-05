@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2w78a
 795870
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-enterprise-m855xh-laser-color-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/795870/thumbnails/color-laserjet-ente
 9/21/2020 3:23:03 PM 26.539,98 RON
 9/26/2020 10:26:52 AM 26.631,98 RON
 9/27/2020 1:44:28 PM 26.631,98 RON
+10/5/2020 5:19:55 PM 26.613,98 RON

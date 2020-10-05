@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp_2759_n_10_1
 1906538
     Product link    
 https://www.pcgarage.ro/securitate-server/bitdefender/gravityzone-business-security-10-useri-1-an-electronic-2/
@@ -8,3 +8,4 @@ Bitdefender GravityZone Business Security, 10 useri, 1 an, Electronic
 https://4.grgs.ro/images/products/1/1899326/1906538/thumbnails/gravityzone-business-security-3-useri-1-an-electronic-dcf1cefb55cdce644d59dee74a3ce1f1.jpg
     Pret    
 9/21/2020 1:49:44 PM 892,89 RON
+10/5/2020 12:00:00 PM 895,39 RON

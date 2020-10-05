@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rma-42-a81-bax-a1
 1732288
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/triton/42u-19-inch-stand-alone-800-x-1000-mm-negru/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1728700/1732288/thumbnails/42u-19-inch-stand
 9/21/2020 12:05:33 AM 3.367,18 RON
 9/25/2020 2:37:24 PM 3.370,39 RON
 9/26/2020 4:58:23 PM 3.376,00 RON
+10/3/2020 10:26:37 AM 3.375,93 RON
+10/5/2020 10:42:16 AM 3.375,71 RON

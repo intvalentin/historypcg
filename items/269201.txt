@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce314a
 269201
     Product link    
 https://www.pcgarage.ro/consumabile/hp/drum-126a/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/269201/thumbnails/126a-laserjet-imaging-dr
 9/21/2020 3:25:09 PM 435,98 RON
 9/26/2020 10:32:48 AM 429,98 RON
 9/27/2020 1:50:46 PM 429,98 RON
+10/5/2020 6:00:08 PM 429,98 RON

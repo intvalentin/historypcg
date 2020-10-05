@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3771c006aa
 2019310
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts3350-black-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8491/2019310/thumbnails/pixma-ts3350-black-i
 9/21/2020 2:10:21 PM 337,98 RON
 9/26/2020 10:06:21 AM 339,98 RON
 9/27/2020 1:24:32 PM 337,98 RON
+10/5/2020 1:25:58 PM 337,98 RON

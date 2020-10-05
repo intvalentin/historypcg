@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ram1600ddr3l-4gbx2
 1624162
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/memorie-ram-kit-2x-4gb-ddr3l-1600mhz/
@@ -8,3 +8,4 @@ Synology Memorie RAM Kit 2x 4GB DDR3L 1600MHz
 https://3.grgs.ro/images/products/1/5633/1624162/thumbnails/memorie-ram-8gb-ecc-ddr3l-1600mhz-12337fd4d9859ca16e1d9d3590e1f912.png
     Pret    
 9/22/2020 11:32:45 AM 848,08 RON
+10/5/2020 3:50:01 PM 841,97 RON

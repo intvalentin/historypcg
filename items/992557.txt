@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d7p94a4
 992557
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/z30i-30-inch-8ms-gtg-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/931142/992557/thumbnails/z27i-27-inch-8ms-gt
 9/21/2020 8:17:46 AM 6.215,98 RON
 9/25/2020 10:10:09 PM 6.237,98 RON
 9/27/2020 10:11:29 AM 6.223,98 RON
+10/2/2020 9:13:08 PM 6.233,98 RON
+10/4/2020 4:36:29 PM 6.233,98 RON
+10/5/2020 1:09:08 PM 6.233,98 RON

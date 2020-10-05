@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mem-dr432l-sl01-er29
 2062610
     Product link    
 https://www.pcgarage.ro/memorii-server/supermicro/mem-dr432l-sl01-er29/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6954/2062610/thumbnails/ecc-rdimm-ddr4-32gb-
 9/21/2020 12:04:27 AM 895,22 RON
 9/25/2020 2:26:19 PM 915,13 RON
 9/26/2020 4:47:20 PM 914,93 RON
+10/3/2020 8:45:09 AM 907,87 RON
+10/5/2020 10:31:09 AM 907,87 RON

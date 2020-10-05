@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43865724
 78209
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/black-toner-43865724/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/78209/thumbnails/black-toner-43865724-348a
 9/21/2020 10:58:16 PM 673,98 RON
 9/26/2020 1:18:36 PM 675,98 RON
 9/27/2020 4:18:21 PM 685,98 RON
+10/4/2020 7:25:51 PM 683,98 RON

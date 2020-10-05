@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ws7200-20
 2063122
     Product link    
 https://www.pcgarage.ro/routere-wireless/huawei/gigabit-ws7200-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2063122/thumbnails/gigabit-ws7100-dual-
 9/22/2020 11:07:02 AM 448,99 RON
 9/26/2020 2:16:52 PM 448,99 RON
 9/27/2020 6:18:35 PM 448,99 RON
+10/5/2020 12:02:58 PM 448,99 RON

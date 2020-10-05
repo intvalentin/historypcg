@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90lj00c0-b00520
 1899246
     Product link    
 https://www.pcgarage.ro/videoproiectoare/asus/zenbeam-s2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1899246/thumbnails/zenbeam-s2-1d6febf18
 9/22/2020 5:35:59 PM 2.371,98 RON
 9/26/2020 6:45:43 PM 2.377,98 RON
 9/28/2020 8:27:51 AM 2.379,98 RON
+10/5/2020 6:07:27 PM 2.377,98 RON

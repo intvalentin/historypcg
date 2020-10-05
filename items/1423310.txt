@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000nx0253
 1423310
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-capacity-25-inch-hdd-2tb-7200-rpm-128mb-sata-iii/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1126098/1423310/thumbnails/exos-capacity-25-
 9/21/2020 12:05:18 AM 1.526,13 RON
 9/25/2020 2:35:14 PM 1.546,89 RON
 9/26/2020 4:56:14 PM 1.560,07 RON
+10/3/2020 10:05:45 AM 1.545,73 RON
+10/5/2020 10:39:21 AM 1.547,69 RON

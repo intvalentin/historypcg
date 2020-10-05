@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g-asc-black-1
 2001086
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/glorious-pc-gaming-race/ascended-cable-v2-original-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1990366/2001086/thumbnails/ascended-cable-v2
 9/21/2020 8:10:02 AM 109,98 RON
 9/25/2020 2:40:22 PM 109,98 RON
 9/26/2020 5:01:21 PM 109,98 RON
+10/3/2020 10:51:55 AM 109,98 RON
+10/5/2020 10:45:12 AM 109,98 RON

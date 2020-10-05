@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |infinite s 9si-096 ms-b928
 2037806
     Product link    
 https://www.pcgarage.ro/sisteme-brand/msi/infinite-s-9si-096-procesor-intel-core-i5-9400f-29ghz-coffee-lake-8gb-ddr4-512gb-ssd-plus-1tb-hdd-geforce-gtx-1660-super-6gb-win-10-home/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3041/2037806/thumbnails/infinite-s-9si-096-p
 9/21/2020 12:02:33 AM 5.459,98 RON
 9/25/2020 1:58:15 PM 5.469,98 RON
 9/26/2020 4:26:34 PM 5.469,98 RON
+10/2/2020 8:33:24 PM 5.469,98 RON
+10/5/2020 10:11:20 AM 5.469,98 RON

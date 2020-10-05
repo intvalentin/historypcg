@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bknuc8cchkr2
 2072698
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-8-rugged-nuc8cchkr-celeron-n3350-11ghz-apollo-lake-4gb-ram-64gb-emmc-hd-graphics-500-wi-fi-bluetooth-hdmi-no-os/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4273/2072698/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:33 AM 1.029,98 RON
 9/25/2020 2:17:29 PM 1.054,98 RON
 9/26/2020 4:38:19 PM 1.054,98 RON
+10/2/2020 10:13:00 PM 1.044,98 RON
+10/5/2020 10:22:16 AM 1.044,98 RON

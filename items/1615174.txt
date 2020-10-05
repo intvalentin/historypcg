@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg21402
 1615174
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/l6160-inkjet-ciss-color-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1594546/1615174/thumbnails/l6160-inkjet-ciss
 9/21/2020 1:57:58 PM 1.517,98 RON
 9/26/2020 10:00:28 AM 1.498,99 RON
 9/27/2020 1:09:36 PM 1.498,99 RON
+10/5/2020 12:56:15 PM 1.511,98 RON

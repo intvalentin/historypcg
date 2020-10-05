@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |armte-002
 1169137
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/smart-remote-20/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/1169137/thumbnails/smart-remote-20-e
 9/22/2020 5:33:10 PM 458,99 RON
 9/26/2020 6:41:15 PM 458,99 RON
 9/28/2020 8:23:24 AM 458,99 RON
+10/5/2020 4:59:25 PM 458,99 RON

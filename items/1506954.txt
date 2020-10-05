@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus190-318bba6817a11c70a000a6140ecda93e
 1506954
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-vivobook-f102ba/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1190677/1506954/thumbnails/baterie-laptop-as
 9/20/2020 11:12:34 PM 231,98 RON
 9/25/2020 3:52:10 PM 237,98 RON
 9/26/2020 5:52:02 PM 237,98 RON
+10/3/2020 6:02:39 PM 235,98 RON
+10/5/2020 11:21:01 AM 235,98 RON

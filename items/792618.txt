@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bm-333.404
 792618
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/pdu-8-schuko-1u-protectie-2-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/792618/thumbnails/pdu-8-schuko-1u-pro
 9/21/2020 12:50:08 PM 215,98 RON
 9/26/2020 9:41:18 AM 215,98 RON
 9/27/2020 12:48:45 PM 215,98 RON
+10/5/2020 9:21:28 AM 215,98 RON

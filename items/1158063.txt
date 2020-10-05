@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-251+-2g
 1158063
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-251-plus-2-gb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/991247/1158063/thumbnails/ts-251-plus-2-gb-4
 9/22/2020 11:24:10 AM 2.100,81 RON
 9/26/2020 2:32:28 PM 2.265,19 RON
 9/27/2020 6:30:22 PM 2.108,08 RON
+10/5/2020 2:46:38 PM 2.106,70 RON

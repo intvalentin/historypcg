@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-366-c31
 1814732
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-ib-366-c31-usb-tip-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3645/1814732/thumbnails/icy-box-ib-366-c31-u
 9/21/2020 10:27:37 AM 305,98 RON
 9/26/2020 8:51:56 AM 305,98 RON
 9/27/2020 11:45:50 AM 305,98 RON
+10/4/2020 7:06:56 PM 305,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mrtr2ze+-+a
 1862078
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-2018-procesor-intel-core-i3-8100b-36ghz-coffee-lake-8gb-ddr4-128gb-ssd-gma-uhd-630-macos-mojave/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1236/1862078/thumbnails/mac-mini-2018-proces
 9/21/2020 12:03:33 AM 4.794,98 RON
 9/25/2020 2:16:45 PM 4.744,98 RON
 9/26/2020 4:37:35 PM 4.714,98 RON
+10/2/2020 10:09:55 PM 4.784,98 RON
+10/5/2020 10:22:16 AM 4.749,98 RON

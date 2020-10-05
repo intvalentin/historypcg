@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo3710-1.5
 1667268
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/krugermatz/vga-male-vga-male-15m-negru-3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/1667268/thumbnails/vga-male-vga-male
 9/21/2020 10:40:33 AM 35,98 RON
 9/26/2020 9:03:03 AM 35,98 RON
 9/27/2020 11:56:59 AM 35,98 RON
+10/4/2020 7:29:08 PM 35,98 RON

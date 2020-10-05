@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a4tmys43755
 830038
     Product link    
 https://www.pcgarage.ro/mouse/a4tech/g3-270n-1/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5/830038/thumbnails/g3-270n-1-542922cbef6b17
 9/21/2020 8:22:59 AM 43,98 RON
 9/26/2020 8:31:45 AM 43,98 RON
 9/27/2020 11:25:33 AM 43,98 RON
+10/3/2020 7:22:27 PM 43,98 RON
+10/5/2020 2:52:18 PM 43,98 RON

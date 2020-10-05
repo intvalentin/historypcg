@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod27013s
 1628502
     Product link    
 https://www.pcgarage.ro/hartie/kodak/5r-photo-ultra-premium-satin-13x18-cm-20-coli/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3207/1628502/thumbnails/5r-ultra-premium-sat
 9/22/2020 10:21:11 AM 13,99 RON
 9/26/2020 1:45:59 PM 11,19 RON
 9/27/2020 4:53:56 PM 11,19 RON
+10/4/2020 11:53:32 PM 11,19 RON

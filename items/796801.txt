@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea6900
 796801
     Product link    
 https://www.pcgarage.ro/routere-wireless/linksys/ea6900-top-smart-wi-fi-router-ac1900/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/796801/thumbnails/ea6900-top-smart-wi
 9/22/2020 11:15:37 AM 821,40 RON
 9/26/2020 2:25:03 PM 823,77 RON
 9/27/2020 6:26:43 PM 824,24 RON
+10/5/2020 2:25:52 PM 823,70 RON

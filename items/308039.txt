@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1442a
 308039
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/coated-594-mm-x-457-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/308039/thumbnails/coated-594-mm-x-457-m-db
 9/22/2020 10:33:02 AM 185,98 RON
 9/26/2020 1:56:22 PM 185,98 RON
 9/27/2020 5:04:16 PM 185,98 RON
+10/5/2020 9:20:52 AM 185,98 RON

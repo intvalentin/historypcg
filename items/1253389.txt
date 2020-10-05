@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dsr-1000ac
 1253389
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dsr-1000ac-dual-band-vpn/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/843505/1253389/thumbnails/gigabit-dsr-1000ac
 9/22/2020 11:15:37 AM 1.819,70 RON
 9/26/2020 2:21:19 PM 1.825,95 RON
 9/27/2020 6:23:00 PM 1.825,95 RON
+10/5/2020 1:18:17 PM 1.824,75 RON

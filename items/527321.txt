@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |60f2h00
 527321
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-602h-black-return/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/527321/thumbnails/toner-602h-black-return-
 9/21/2020 10:34:39 PM 1.169,98 RON
 9/26/2020 1:01:34 PM 1.173,98 RON
 9/27/2020 4:02:48 PM 1.171,98 RON
+10/4/2020 5:07:59 PM 1.173,98 RON

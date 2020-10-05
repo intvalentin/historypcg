@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce712a
 89799
     Product link    
 https://www.pcgarage.ro/imprimante/hp/color-laserjet-professional-cp5225nd-laser-color-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/89799/thumbnails/color-laserjet-profession
 9/21/2020 3:02:12 PM 7.255,98 RON
 9/26/2020 10:21:40 AM 7.279,98 RON
 9/27/2020 1:38:53 PM 7.263,98 RON
+10/5/2020 4:03:15 PM 7.179,98 RON

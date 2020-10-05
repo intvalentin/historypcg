@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |us-8-60w
 1778444
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-us-8-60w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778444/thumbnails/gigabit-us-8-60w-80a6
 9/22/2020 11:33:49 AM 561,53 RON
 9/26/2020 2:39:07 PM 583,57 RON
 9/27/2020 6:48:14 PM 573,88 RON
+10/5/2020 5:52:38 PM 569,46 RON

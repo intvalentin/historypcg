@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8vr92ea
 1983106
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/290-g3-mt-procesor-intel-core-i3-9100-36ghz-coffee-lake-8gb-ddr4-256gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1979534/1983106/thumbnails/290-g3-mt-proceso
 9/21/2020 12:02:15 AM 2.039,98 RON
 9/25/2020 1:58:59 PM 2.069,98 RON
 9/26/2020 4:27:19 PM 2.069,98 RON
+10/2/2020 8:07:22 PM 2.069,98 RON
+10/5/2020 10:08:23 AM 2.069,98 RON

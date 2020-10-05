@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d4es01-8g
 2072870
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/memorie-ram-8gb-ddr4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1821372/2072870/thumbnails/memorie-ram-16gb-
 9/22/2020 11:32:45 AM 1.190,28 RON
 9/26/2020 2:33:55 PM 1.194,37 RON
 9/27/2020 6:35:33 PM 1.194,37 RON
+10/5/2020 3:51:37 PM 1.193,58 RON

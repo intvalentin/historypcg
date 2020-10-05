@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs108ge
 29901
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gs108ge/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/29901/thumbnails/asd.jpg
 9/22/2020 11:46:45 AM 199,50 RON
 9/26/2020 2:51:00 PM 200,06 RON
 9/27/2020 6:52:41 PM 200,06 RON
+10/5/2020 5:43:46 PM 199,71 RON

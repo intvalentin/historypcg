@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w1a52a
 1903574
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-pro-m404n-monocrom-format-a4-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1903574/thumbnails/laserjet-pro-m404n-m
 9/21/2020 2:58:06 PM 1.041,98 RON
 9/26/2020 10:19:27 AM 1.045,98 RON
 9/27/2020 1:36:30 PM 1.043,98 RON
+10/5/2020 3:44:37 PM 1.043,98 RON

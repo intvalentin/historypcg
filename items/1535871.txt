@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp153-77dc8ebb2533fb199e85b43652f82a6b
 1535871
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-245-g1/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1469686/1535871/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:34 PM 231,98 RON
 9/25/2020 3:49:55 PM 235,98 RON
 9/26/2020 5:49:47 PM 235,98 RON
+10/3/2020 5:46:07 PM 233,98 RON
+10/5/2020 11:19:30 AM 233,98 RON

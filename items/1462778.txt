@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |240s4qymb+-+00
 1462778
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/240s4qymb-00-24-inch-5-ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/842306/1462778/thumbnails/240s4qymb-00-24-in
 9/21/2020 8:17:07 AM 1.081,98 RON
 9/25/2020 10:05:41 PM 1.085,98 RON
 9/27/2020 10:06:41 AM 1.085,98 RON
+10/2/2020 8:01:52 PM 1.083,98 RON
+10/3/2020 11:12:08 PM 1.083,98 RON
+10/5/2020 12:57:27 PM 1.083,98 RON

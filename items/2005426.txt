@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n207vd3471emea01_r2005_22nm_w10p-05
 2005426
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/vostro-3471-sff-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ddr4-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3442/2005426/thumbnails/vostro-3470-sff-proc
 9/21/2020 12:02:24 AM 2.879,98 RON
 9/25/2020 1:58:15 PM 2.929,98 RON
 9/26/2020 4:24:21 PM 2.899,98 RON
+10/2/2020 8:12:50 PM 2.879,98 RON

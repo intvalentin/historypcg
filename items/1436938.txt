@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0040
 1436938
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-30-male-tip-a-usb-30-male-tip-a-3m-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1190677/1436938/thumbnails/usb-30-male-tip-a
 9/21/2020 11:44:56 AM 33,98 RON
 9/26/2020 9:20:37 AM 33,98 RON
 9/27/2020 12:26:26 PM 33,98 RON
+10/4/2020 10:21:27 PM 33,98 RON

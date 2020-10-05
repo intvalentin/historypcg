@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p5550dt
 635991
     Product link    
 https://www.pcgarage.ro/imprimante/xerox/phaser-5550dt-laser-monocrom-format-a3-reteam-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/635991/thumbnails/phaser-5550dt-84477efc12
 9/21/2020 3:23:03 PM 14.443,98 RON
 9/26/2020 10:27:37 AM 14.493,98 RON
 9/27/2020 1:45:16 PM 14.493,98 RON
+10/5/2020 5:17:45 PM 14.483,98 RON

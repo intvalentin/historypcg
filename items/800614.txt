@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac68u
 800614
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/rt-ac68u-dual-band-wireless-ac1900-gigabit/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/800614/thumbnails/rt-ac68u-dual-band-wirel
 9/22/2020 11:08:06 AM 660,89 RON
 9/26/2020 2:22:04 PM 660,89 RON
 9/27/2020 6:23:45 PM 660,89 RON
+10/5/2020 1:06:50 PM 660,89 RON

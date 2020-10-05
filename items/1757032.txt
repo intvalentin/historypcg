@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blknuc7i7dnh2e
 1757032
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i7dnh2e-core-i7-8650u-19ghz-2x-ddr4-32gb-max-m2-ssd-hdd-25-inch-hdmi-bulk/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/3442/1757032/thumbnails/intel-blknuc7i7dnh2e
 9/21/2020 12:03:37 AM 2.499,98 RON
 9/25/2020 2:18:13 PM 2.554,98 RON
 9/26/2020 4:39:06 PM 2.554,98 RON
+10/2/2020 10:17:37 PM 2.534,98 RON
+10/5/2020 10:23:01 AM 2.534,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0052c
 1781828
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-usb-20-male-1x-gameport-female/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1781828/thumbnails/1x-usb-20-male-1x-ga
 9/21/2020 12:35:43 PM 87,98 RON
 9/26/2020 9:35:24 AM 85,98 RON
 9/27/2020 12:42:20 PM 85,98 RON
+10/5/2020 8:15:46 AM 87,98 RON

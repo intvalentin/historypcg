@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d340mc-i594000280
 2047866
     Product link    
 https://www.pcgarage.ro/sisteme-brand/asus/d340mc-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ram-512gb-ssd-uhd-630-endless-os/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8486/2047866/thumbnails/d340mc-procesor-inte
 9/21/2020 12:02:07 AM 2.629,98 RON
 9/25/2020 1:55:19 PM 2.639,98 RON
 9/26/2020 4:23:38 PM 2.639,98 RON
+10/2/2020 7:33:50 PM 2.639,98 RON
+10/2/2020 7:34:33 PM 2.639,98 RON
+10/5/2020 10:05:37 AM 2.639,98 RON

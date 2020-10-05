@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |as6508t
 2072218
     Product link    
 https://www.pcgarage.ro/nas/asustor/as6508t-8gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2072218/thumbnails/as6508t-8gb-8081abed
 9/22/2020 11:24:10 AM 5.552,44 RON
 9/26/2020 2:27:16 PM 5.552,44 RON
 9/27/2020 6:28:54 PM 5.552,44 RON
+10/5/2020 2:52:26 PM 5.552,44 RON

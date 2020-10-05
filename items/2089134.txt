@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-3ca66t-005
 2089134
     Product link    
 https://www.pcgarage.ro/monitoare-led/msi/gaming-optix-mag272cqr-curbat-27-inch-1-ms-negru-165-hz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/7008/2089134/thumbnails/gaming-optix-mag272c
 9/21/2020 8:16:01 AM 2.675,98 RON
 9/25/2020 9:44:14 PM 2.683,98 RON
 9/27/2020 9:40:07 AM 2.685,98 RON
+10/3/2020 10:44:21 PM 2.683,98 RON
+10/5/2020 12:46:17 PM 2.683,98 RON

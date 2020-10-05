@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kth-pl426+-+16g
 2014454
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr4-16gb-2666mhz-cl19-12v/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/8674/2014454/thumbnails/ecc-rdimm-ddr4-16gb-
 9/21/2020 12:04:36 AM 685,10 RON
 9/25/2020 2:27:03 PM 690,62 RON
 9/26/2020 4:48:05 PM 696,50 RON
+10/3/2020 8:57:29 AM 690,10 RON
+10/5/2020 10:32:38 AM 690,98 RON

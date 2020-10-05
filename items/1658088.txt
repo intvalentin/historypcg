@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m393a4k40cb2-ctd
 1658088
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr4-32gb-2666mhz-dual-rank-12v/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/843505/1658088/thumbnails/ecc-rdimm-ddr4-32g
 9/21/2020 12:04:32 AM 770,31 RON
 9/25/2020 2:27:48 PM 787,43 RON
 9/26/2020 4:48:49 PM 787,27 RON
+10/3/2020 9:00:55 AM 781,19 RON
+10/5/2020 10:33:23 AM 781,19 RON

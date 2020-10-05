@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shu11-c
 1249753
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/ssk/ssh-shu011-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/1249753/thumbnails/ssh-shu011-c-1079d
 9/21/2020 10:18:05 AM 87,98 RON
 9/26/2020 8:49:42 AM 89,98 RON
 9/27/2020 11:43:32 AM 89,98 RON
+10/4/2020 4:47:36 PM 87,98 RON

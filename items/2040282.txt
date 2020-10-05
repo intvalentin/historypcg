@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bm000mri
 2040282
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-celeron-g4930-320ghz-coffee-lake-4gb-ddr4-1tb-hdd-uhd-610-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/3442/2040282/thumbnails/v530s-procesor-intel
 9/21/2020 12:02:03 AM 1.299,98 RON
 9/25/2020 1:55:19 PM 1.399,98 RON
 9/26/2020 4:26:34 PM 1.399,98 RON
+10/2/2020 8:05:26 PM 1.399,98 RON
+10/5/2020 10:08:23 AM 1.399,98 RON

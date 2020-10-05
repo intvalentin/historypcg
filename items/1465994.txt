@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-342d2c541756c74e423f3e9ff66650a1
 1465994
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-b470-b470a-b470g-b475-b475a-b570-b570a-b570e-b570g/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1457254/1465994/thumbnails/baterie-laptop-le
 9/20/2020 11:19:54 PM 239,98 RON
 9/25/2020 5:54:01 PM 245,98 RON
 9/26/2020 7:35:02 PM 245,98 RON
+10/3/2020 8:34:14 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

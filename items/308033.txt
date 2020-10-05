@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1406a
 308033
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-coated-1067-mm-x-457-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/308033/thumbnails/universal-coated-paper-4
 9/22/2020 10:33:02 AM 189,98 RON
 9/26/2020 1:57:05 PM 189,98 RON
 9/27/2020 5:05:00 PM 189,98 RON
+10/5/2020 9:21:08 AM 189,98 RON

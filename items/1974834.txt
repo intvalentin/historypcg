@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbd52g-5hacd2hnd-tc
 1974834
     Product link    
 https://www.pcgarage.ro/routere-wireless/mikrotik/gigabit-rbd52g-5hacd2hnd-tc-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1974834/thumbnails/gigabit-rbd52g-5hacd
 9/22/2020 11:08:06 AM 281,25 RON
 9/26/2020 2:18:21 PM 287,50 RON
 9/27/2020 6:20:04 PM 287,44 RON
+10/5/2020 12:37:26 PM 285,23 RON

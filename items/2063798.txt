@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |z272sdk-ba001m
 2063798
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/zen-z272sdk-27-inch-4k-procesor-intel-core-i7-8700t-24ghz-coffee-lake-16gb-ram-1tb-hdd-plus-256gb-ssd-geforce-gtx-1050-4gb-camera-web-endlessos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/6166/2063798/thumbnails/27-quot-zen-z272sd-f
 9/21/2020 12:03:01 AM 8.199,98 RON
 9/25/2020 2:02:41 PM 8.199,98 RON
 9/26/2020 4:31:44 PM 8.219,98 RON
+10/2/2020 9:38:18 PM 8.219,98 RON
+10/5/2020 10:20:05 AM 8.219,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34um88c-p
 1257075
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-34um88c-p-34-inch-5ms-black-freesync/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/2/1257075/thumbnails/34um88c-p-34-inch-5ms-b
 9/21/2020 8:17:32 AM 2.617,98 RON
 9/25/2020 10:07:55 PM 2.625,98 RON
 9/27/2020 10:09:05 AM 2.627,98 RON
+10/2/2020 8:50:13 PM 2.625,98 RON
+10/4/2020 4:33:32 PM 2.625,98 RON
+10/5/2020 1:06:11 PM 2.625,98 RON

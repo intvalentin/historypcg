@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-adaptor-90w-b01
 1157558
     Product link    
 https://www.pcgarage.ro/accesorii-nas/qnap/sp-adaptor-90w/
@@ -8,3 +8,4 @@ Qnap SP Adaptor 90W
 https://2.grgs.ro/images/products/1/722028/1157558/thumbnails/sp-adaptor-90w-efb1df3ab2e5173f92a7c7ba1dadd07f.jpg
     Pret    
 9/22/2020 11:31:41 AM 360,74 RON
+10/5/2020 3:45:34 PM 361,77 RON

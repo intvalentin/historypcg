@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chb1105
 1049647
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v14-5m-ethernet-negru-3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/960827/1049647/thumbnails/hdmi-male-hdmi-mal
 9/21/2020 10:39:28 AM 61,98 RON
 9/26/2020 9:05:16 AM 61,98 RON
 9/27/2020 12:11:57 PM 61,98 RON
+10/4/2020 7:43:17 PM 61,98 RON

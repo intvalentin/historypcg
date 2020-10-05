@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hmr9057209
 750591
     Product link    
 https://www.pcgarage.ro/tastaturi/hama/k212-basic-key-black/
@@ -11,3 +11,5 @@ https://4.grgs.ro/images/products/1/5/750591/thumbnails/k212-basic-key-black-b4d
 9/21/2020 10:00:03 AM 53,98 RON
 9/26/2020 8:37:01 AM 53,98 RON
 9/27/2020 11:30:47 AM 53,98 RON
+10/3/2020 9:19:29 PM 53,98 RON
+10/5/2020 2:58:59 PM 53,98 RON

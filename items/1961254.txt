@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10us00jfri
 1961254
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-v530-fhd-ips-procesor-intel-core-i5-9400t-18ghz-coffee-lake-8gb-256gb-ssd-gma-uhd-630-freedos-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6763/1961254/thumbnails/215-v530-fhd-ips-pro
 9/21/2020 12:02:48 AM 2.999,98 RON
 9/25/2020 2:04:10 PM 2.999,98 RON
 9/26/2020 4:32:28 PM 2.999,98 RON
+10/2/2020 8:55:46 PM 2.999,98 RON
+10/5/2020 10:14:53 AM 2.999,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8786b002aa
 1439122
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/unitate-alimentare-hartie-al1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/991247/1439122/thumbnails/unitate-alimentare
 9/22/2020 11:04:58 AM 3.743,98 RON
 9/26/2020 2:13:58 PM 3.757,98 RON
 9/27/2020 6:15:42 PM 3.747,98 RON
+10/5/2020 11:55:17 AM 3.753,98 RON

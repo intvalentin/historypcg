@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2578c3-g2-bk
 2050094
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/2578c3-g2-usb-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2045418/2050094/thumbnails/2578c3-g2-usb-typ
 9/21/2020 10:23:21 AM 107,98 RON
 9/26/2020 8:51:12 AM 109,98 RON
 9/27/2020 11:45:06 AM 109,98 RON
+10/4/2020 5:20:21 PM 109,98 RON

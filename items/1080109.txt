@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hd0003
 1080109
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/switch-3x-hdmi-female-1x-hdmi-female-v13-amplificare-telecomanda/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/1080109/thumbnails/switch-3x-hdmi-fem
 9/21/2020 12:29:29 PM 147,98 RON
 9/26/2020 9:33:10 AM 143,98 RON
 9/27/2020 12:39:12 PM 143,98 RON
+10/5/2020 12:00:34 AM 145,98 RON

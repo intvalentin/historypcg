@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ga-200
 1961030
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/redragon/adaptor-tastatura-si-mouse-pentru-console-eris/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1261/1961030/thumbnails/adaptor-eris-keyboar
 9/21/2020 8:10:11 AM 83,98 RON
 9/25/2020 2:41:52 PM 85,98 RON
 9/26/2020 5:02:49 PM 105,98 RON
+10/3/2020 11:06:18 AM 105,98 RON
+10/5/2020 10:46:42 AM 105,98 RON

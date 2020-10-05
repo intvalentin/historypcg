@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-scs1200
 1258664
     Product link    
 https://www.pcgarage.ro/camere-auto/silvercloud/voyager-s1200/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1086319/1258664/thumbnails/voyager-s1200-016
 9/26/2020 6:10:17 PM 349,98 RON
 9/26/2020 6:36:44 PM 349,98 RON
 9/28/2020 8:18:51 AM 349,98 RON
+10/5/2020 4:01:05 PM 349,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fc1139
 1620398
     Product link    
 https://www.pcgarage.ro/merchandise-csgo/fadecase/huntsman-elite-chroma-doppler-phase-2/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1594546/1620398/thumbnails/huntsman-elite-ch
 9/21/2020 8:10:21 AM 383,98 RON
 9/25/2020 2:44:46 PM 383,98 RON
 9/26/2020 5:05:45 PM 385,98 RON
+10/3/2020 11:24:09 AM 385,98 RON
+10/5/2020 10:48:56 AM 385,98 RON

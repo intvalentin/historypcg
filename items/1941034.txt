@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pabt600li
 1941034
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/acumulator-pabt600li/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6835/1941034/thumbnails/acumulator-pabt600li
 9/22/2020 11:02:49 AM 1.015,98 RON
 9/26/2020 2:11:00 PM 1.019,98 RON
 9/27/2020 6:12:41 PM 1.019,98 RON
+10/5/2020 11:43:38 AM 1.019,98 RON

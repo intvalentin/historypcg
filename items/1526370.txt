@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |amcrc-001-eu
 1526370
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/quick-key-usb-c/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1510154/1526370/thumbnails/quick-key-usb-c-e
 9/22/2020 5:33:10 PM 146,24 RON
 9/26/2020 6:42:44 PM 146,24 RON
 9/28/2020 8:24:53 AM 146,24 RON
+10/5/2020 5:11:27 PM 146,24 RON

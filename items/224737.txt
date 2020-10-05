@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccp-usb3-amaf-6
 224737
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/cablu-prelungitor-usb-30-18m-bulk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/224737/thumbnails/cablu-prelungitor-usb-30
 9/21/2020 11:53:14 AM 23,99 RON
 9/26/2020 9:25:02 AM 23,99 RON
 9/27/2020 12:31:11 PM 23,99 RON
+10/4/2020 10:39:34 PM 23,99 RON

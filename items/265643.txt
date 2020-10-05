@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0tm450
 265643
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a0tm450-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/265643/thumbnails/toner-tn-613c-30k-c3731b
 9/22/2020 10:15:52 AM 641,98 RON
 9/26/2020 1:41:35 PM 645,98 RON
 9/27/2020 4:49:31 PM 643,98 RON
+10/4/2020 11:22:05 PM 643,98 RON

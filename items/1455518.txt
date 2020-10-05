@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-ac603l-u3
 1455518
     Product link    
 https://www.pcgarage.ro/adaptoare/raidsonic/icybox-1x-usb-30-male-1x-sata-25-inch-ssd-hdd-female/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1146523/1455518/thumbnails/icybox-ac603l-bla
 9/21/2020 12:19:08 PM 85,98 RON
 9/26/2020 9:36:09 AM 87,98 RON
 9/27/2020 12:43:09 PM 87,98 RON
+10/5/2020 8:15:30 AM 85,98 RON

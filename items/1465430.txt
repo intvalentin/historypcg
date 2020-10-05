@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell163-198aa29f9a9dfbfa8e0a486ea525c52b
 1465430
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-studio-pp33l-pp39l/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1192525/1465430/thumbnails/baterie-laptop-de
 9/20/2020 11:12:10 PM 225,98 RON
 9/25/2020 4:00:27 PM 231,98 RON
 9/26/2020 6:00:16 PM 231,98 RON
+10/3/2020 5:17:19 PM 229,98 RON
+10/5/2020 11:15:44 AM 229,98 RON

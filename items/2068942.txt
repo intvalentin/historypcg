@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crs326-24g-2s+in
 2068942
     Product link    
 https://www.pcgarage.ro/switch-uri/mikrotik/gigabit-crs326-24g-2s-plusin/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068942/thumbnails/gigabit-crs326-24g-2
 9/22/2020 11:42:26 AM 838,59 RON
 9/26/2020 2:36:09 PM 844,80 RON
 9/27/2020 6:37:48 PM 844,80 RON
+10/5/2020 4:57:17 PM 837,63 RON

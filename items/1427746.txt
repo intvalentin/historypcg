@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cf49401
 1427746
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/l1455-inkjet-ciss-color-format-a3-retea-wi-fi-fax-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1175151/1427746/thumbnails/l1455-inkjet-ciss
 9/21/2020 2:43:39 PM 4.581,98 RON
 9/26/2020 10:12:16 AM 4.599,98 RON
 9/27/2020 1:30:55 PM 4.599,98 RON
+10/5/2020 3:07:27 PM 4.591,98 RON

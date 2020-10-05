@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aloc1407
 1775308
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/allocacoc/powercube-extended-3m-2x-usb-4x-schuko-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1775308/thumbnails/powercube-extende
 9/21/2020 12:41:55 PM 81,98 RON
 9/26/2020 9:39:49 AM 81,98 RON
 9/27/2020 12:47:07 PM 81,98 RON
+10/5/2020 8:54:24 AM 81,98 RON

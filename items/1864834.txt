@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jl253a
 1864834
     Product link    
 https://www.pcgarage.ro/switch-uri/hpe/gigabit-aruba-2930f-24g-4sfp-plus/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1864834/thumbnails/gigabit-aruba-2930f-
 9/22/2020 12:04:30 PM 8.724,85 RON
 9/26/2020 2:46:32 PM 8.749,98 RON
 9/27/2020 6:40:02 PM 8.755,01 RON
+10/5/2020 5:34:01 PM 8.749,27 RON

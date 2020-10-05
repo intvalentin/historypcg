@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0de00bxri
 1993102
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-520-27-inch-qhd-touchscreen-procesor-intel-core-i7-8700t-24ghz-coffee-lake-16gb-ram-512gb-ssd-plus-1tb-hdd-uhd-630-win-10-home-silver/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1505170/1993102/thumbnails/27-ideacentre-520
 9/21/2020 12:03:20 AM 7.519,98 RON
 9/25/2020 2:13:03 PM 7.529,98 RON
 9/26/2020 4:33:57 PM 7.539,98 RON
+10/2/2020 9:37:12 PM 7.539,98 RON
+10/5/2020 10:20:05 AM 7.539,98 RON

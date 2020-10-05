@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0g10200-1
 2072450
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/g-technology/g-drive-ev-raw-2tb-usb-30-black-blue/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4273/2072450/thumbnails/g-drive-ev-raw-1tb-u
 9/21/2020 8:19:10 AM 609,98 RON
 9/25/2020 10:19:41 PM 619,98 RON
 9/27/2020 10:21:58 AM 619,98 RON
+10/3/2020 8:42:03 AM 609,98 RON
+10/5/2020 1:23:09 PM 609,98 RON

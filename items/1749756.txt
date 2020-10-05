@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1w10001
 1749756
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hgst/non-hot-plug-ultrastar-dc-ha210-sata-iii-1tb-7200-rpm-35-inch-128mb/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6763/1749756/thumbnails/non-hot-plug-ultrast
 9/21/2020 12:04:50 AM 424,47 RON
 9/25/2020 2:31:30 PM 427,87 RON
 9/26/2020 4:52:31 PM 431,52 RON
+10/3/2020 9:11:55 AM 427,56 RON
+10/5/2020 10:34:53 AM 428,10 RON

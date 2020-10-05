@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |td4100nyj1
 1940742
     Product link    
 https://www.pcgarage.ro/imprimante/brother/td4100n-termica-monocrom-eticheta-102-mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1940742/thumbnails/td4100n-termica-mono
 9/21/2020 3:16:50 PM 2.873,98 RON
 9/26/2020 10:22:25 AM 2.883,98 RON
 9/27/2020 1:39:41 PM 2.883,98 RON
+10/5/2020 4:59:38 PM 2.881,98 RON

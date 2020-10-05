@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |24b6025
 1939650
     Product link    
 https://www.pcgarage.ro/consumabile/lexmark/drum-unit-24b6025-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1939650/thumbnails/drum-unit-24b6025-bl
 9/21/2020 3:51:12 PM 211,98 RON
 9/26/2020 10:29:50 AM 211,98 RON
 9/27/2020 1:47:38 PM 211,98 RON
+10/5/2020 5:46:36 PM 211,98 RON

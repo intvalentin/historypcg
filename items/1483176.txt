@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rest
 1483176
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/roccat/rest/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1301183/1483176/thumbnails/rest-4463b9b671b5
 9/21/2020 8:10:07 AM 43,98 RON
 9/25/2020 2:42:37 PM 43,98 RON
 9/26/2020 5:03:34 PM 43,98 RON
+10/3/2020 10:59:48 AM 43,98 RON
+10/5/2020 10:45:57 AM 43,98 RON

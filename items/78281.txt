@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44064011
 78281
     Product link    
 https://www.pcgarage.ro/consumabile/oki/cyan-image-drum-44064011/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/78281/thumbnails/cyan-image-drum-44064011-
 9/21/2020 3:57:27 PM 583,98 RON
 9/26/2020 10:33:32 AM 585,98 RON
 9/27/2020 1:51:33 PM 585,98 RON
+10/5/2020 6:07:33 PM 583,98 RON

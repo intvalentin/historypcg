@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st900mp0146
 1630846
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-performance-15k-hdd-25-inch-900gb-15000rpm-256mb-4kn-512e-12gb-s-sas/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1475558/1630846/thumbnails/exos-performance-
 9/21/2020 12:05:18 AM 1.585,75 RON
 9/25/2020 2:34:30 PM 1.621,00 RON
 9/26/2020 4:55:30 PM 1.620,66 RON
+10/3/2020 10:06:33 AM 1.608,15 RON
+10/5/2020 10:39:21 AM 1.608,15 RON

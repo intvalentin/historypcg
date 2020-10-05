@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0617c009aa
 1187035
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-g2400-inkjet-color-format-a4-ciss/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/1187035/thumbnails/pixma-g2400-inkjet
 9/21/2020 2:31:11 PM 775,98 RON
 9/26/2020 10:12:16 AM 777,98 RON
 9/27/2020 1:30:55 PM 777,98 RON
+10/5/2020 2:21:55 PM 777,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc-186
 256413
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/cablu-alimentare-18m-bulk/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/256413/thumbnails/cablu-alimentare-18m-bul
 9/21/2020 12:08:28 PM 11,98 RON
 9/26/2020 9:28:43 AM 11,98 RON
 9/27/2020 12:35:10 PM 11,98 RON
+10/4/2020 11:05:54 PM 11,98 RON

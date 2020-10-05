@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktd-pe421+-+16g
 1150423
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr4-16gb-2133mhz-cl15-12v-dual-rank-x4-compatibil-dell/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/986422/1150423/thumbnails/ecc-rdimm-ddr4-16g
 9/21/2020 12:04:41 AM 1.278,89 RON
 9/25/2020 2:28:32 PM 1.296,27 RON
 9/26/2020 4:49:34 PM 1.307,32 RON
+10/3/2020 9:06:03 AM 1.295,31 RON
+10/5/2020 10:34:07 AM 1.296,97 RON

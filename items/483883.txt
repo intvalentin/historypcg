@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg1016d
 483883
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/teg1016d/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/483883/thumbnails/teg1016d-534ae7f0c1a82ec
 9/22/2020 11:48:55 AM 248,35 RON
 9/26/2020 2:50:16 PM 252,31 RON
 9/27/2020 6:51:58 PM 200,29 RON
+10/5/2020 5:44:02 PM 201,87 RON

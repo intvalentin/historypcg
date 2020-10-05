@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stea4000400
 1146473
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/expansion-4tb-25-inch-usb30/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/986897/1146473/thumbnails/expansion-500gb-25
 9/21/2020 8:18:19 AM 469,98 RON
 9/25/2020 10:18:57 PM 479,98 RON
 9/27/2020 10:21:10 AM 479,98 RON
+10/2/2020 10:23:26 PM 469,98 RON
+10/5/2020 1:16:28 PM 469,98 RON

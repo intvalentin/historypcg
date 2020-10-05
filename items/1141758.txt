@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-007582
 1141758
     Product link    
 https://www.pcgarage.ro/tastaturi/logitech/k380-dark-grey-layout-us/
@@ -11,3 +11,5 @@ https://3.grgs.ro/images/products/1/1126098/1141758/thumbnails/k380-dark-grey-la
 9/21/2020 9:58:59 AM 219,98 RON
 9/26/2020 8:35:29 AM 223,98 RON
 9/27/2020 11:29:17 AM 223,98 RON
+10/3/2020 9:24:21 PM 225,98 RON
+10/5/2020 2:59:44 PM 225,98 RON

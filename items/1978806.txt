@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lam-00018
 1978806
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/microsoft/surface-studio-2-28-inch-touchscreen-procesor-intel-core-i7-7820hq-29ghz-kaby-lake-32gb-2tb-ssd-nvidia-gtx-1070-8gb-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1977958/1978806/thumbnails/surface-studio-2-
 9/21/2020 12:03:23 AM 29.389,98 RON
 9/25/2020 2:13:03 PM 29.409,98 RON
 9/26/2020 4:33:57 PM 29.459,98 RON
+10/2/2020 10:01:26 PM 29.459,98 RON
+10/5/2020 10:20:47 AM 29.459,98 RON

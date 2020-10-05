@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xm07aw
 1968818
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/elitedesk-800-g5-sff-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8977/1968818/thumbnails/elitedesk-800-g5-sff
 9/21/2020 12:02:11 AM 4.959,98 RON
 9/25/2020 1:56:45 PM 4.979,98 RON
 9/26/2020 4:25:05 PM 4.979,98 RON
+10/2/2020 7:56:47 PM 4.979,98 RON
+10/5/2020 10:07:38 AM 4.979,98 RON

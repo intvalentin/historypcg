@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac51u
 996492
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/ac750/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/746930/996492/thumbnails/ac750-bd4c3f888e941
 9/22/2020 11:18:51 AM 207,89 RON
 9/26/2020 2:25:03 PM 208,50 RON
 9/27/2020 6:26:43 PM 208,61 RON
+10/5/2020 2:13:31 PM 208,48 RON

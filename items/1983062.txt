@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10us00j5ri
 1983062
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/v530-215-fhd-ips-procesor-intel-core-i5-9400t-18ghz-coffee-lake-8gb-256gb-ssd-uhd-630-win-10-pro-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6763/1983062/thumbnails/215-v530-fhd-ips-pro
 9/21/2020 12:02:56 AM 3.809,98 RON
 9/25/2020 2:03:26 PM 3.819,98 RON
 9/26/2020 4:32:28 PM 3.819,98 RON
+10/2/2020 8:58:24 PM 3.919,98 RON
+10/5/2020 10:15:36 AM 3.919,98 RON

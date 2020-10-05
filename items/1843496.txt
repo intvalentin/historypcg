@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3056c003aa
 1843496
     Product link    
 https://www.pcgarage.ro/plottere/canon/imageprograf-tm-305-36-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1054/1843496/thumbnails/imageprograf-tm-305-
 9/22/2020 10:30:50 AM 9.789,98 RON
 9/26/2020 1:52:38 PM 12.981,98 RON
 9/27/2020 5:00:32 PM 12.981,98 RON
+10/5/2020 8:46:29 AM 9.813,98 RON

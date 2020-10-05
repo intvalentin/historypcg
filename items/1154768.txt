@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gd-pd05u
 1154768
     Product link    
 https://www.pcgarage.ro/rack-uri/inter-tech/argus-gd-pd05u/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/634551/1154768/thumbnails/argus-gd-pd05u-369
 9/21/2020 10:26:33 AM 151,98 RON
 9/26/2020 8:54:53 AM 155,98 RON
 9/27/2020 11:48:48 AM 155,98 RON
+10/4/2020 5:29:15 PM 155,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg245q
 1658124
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-vg245q-24-inch-1-ms-black-freesync-75hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/5286/1658124/thumbnails/gaming-vg245q-24-inc
 9/21/2020 8:15:54 AM 1.183,98 RON
 9/25/2020 10:03:25 PM 1.187,98 RON
 9/27/2020 10:04:19 AM 1.187,98 RON
+10/2/2020 8:13:01 PM 1.271,98 RON
+10/3/2020 11:13:35 PM 1.271,98 RON
+10/5/2020 12:58:54 PM 1.271,98 RON

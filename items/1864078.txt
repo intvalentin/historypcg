@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |222b9t+-+00
 1864078
     Product link    
 https://www.pcgarage.ro/monitoare-touchscreen/philips/222b9t-215-inch-1ms-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/7399/1864078/thumbnails/222b9t-215-inch-1ms-
 9/21/2020 8:17:52 AM 1.467,98 RON
 9/25/2020 10:11:39 PM 1.479,98 RON
 9/27/2020 10:13:08 AM 1.479,98 RON
+10/2/2020 9:21:11 PM 1.481,98 RON
+10/5/2020 1:09:53 PM 1.481,98 RON

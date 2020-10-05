@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297666ba01a12
 1887686
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/incopy-cc-for-teams-1-user-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1885090/1887686/thumbnails/incopy-cc-for-tea
 9/21/2020 1:51:50 PM 378,96 RON
 9/26/2020 9:58:59 AM 380,27 RON
 9/27/2020 1:08:01 PM 380,27 RON
+10/5/2020 12:04:05 PM 380,02 RON

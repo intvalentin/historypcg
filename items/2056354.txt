@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-231k
 2056354
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-231k-1gb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2056354/thumbnails/ts-231k-1gb-ed1d9023
 9/22/2020 11:22:01 AM 1.038,99 RON
 9/26/2020 2:27:16 PM 998,99 RON
 9/27/2020 6:28:54 PM 998,99 RON
+10/5/2020 2:37:56 PM 998,99 RON

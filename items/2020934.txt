@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-873u-4g
 2020934
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-873u-4gb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1737700/2020934/thumbnails/ts-873u-rp-8gb-f2
 9/22/2020 11:29:33 AM 9.505,64 RON
 9/26/2020 2:29:30 PM 9.533,03 RON
 9/27/2020 6:31:06 PM 9.538,50 RON
+10/5/2020 3:23:04 PM 9.532,25 RON

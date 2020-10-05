@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fcl300
 82521
     Product link    
 https://www.pcgarage.ro/accesorii-monitoare/af/foamclene/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2/82521/thumbnails/fcl300-bea23f1671747479e6
 9/21/2020 8:17:59 AM 35,98 RON
 9/25/2020 10:13:44 PM 37,98 RON
 9/27/2020 10:15:28 AM 37,98 RON
+10/2/2020 9:30:49 PM 37,98 RON
+10/5/2020 1:11:19 PM 37,98 RON

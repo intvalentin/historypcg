@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st0017e
 469009
     Product link    
 https://www.pcgarage.ro/rack-uri/thermaltake/silver-river-ii-black-35-inch-usb-20/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/469009/thumbnails/silver-river-ii-black-35
 9/21/2020 10:30:51 AM 191,98 RON
 9/26/2020 8:59:19 AM 195,98 RON
 9/27/2020 11:53:15 AM 195,98 RON
+10/4/2020 7:01:14 PM 193,98 RON

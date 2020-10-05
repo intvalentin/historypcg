@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mx535
 1733528
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mx535/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1728700/1733528/thumbnails/mh535-6973ac1d1fc
 9/22/2020 5:36:33 PM 1.919,98 RON
 9/26/2020 6:46:28 PM 1.925,98 RON
 9/28/2020 8:28:36 AM 1.925,98 RON
+10/5/2020 5:59:39 PM 1.913,98 RON

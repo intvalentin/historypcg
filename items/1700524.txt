@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tef1005d
 1700524
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/tef1005d/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1691852/1700524/thumbnails/tef1005d-5c1eec98
 9/22/2020 11:38:07 AM 49,68 RON
 9/26/2020 2:39:52 PM 50,77 RON
 9/27/2020 6:41:31 PM 50,75 RON
+10/5/2020 4:01:18 PM 50,36 RON

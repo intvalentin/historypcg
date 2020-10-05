@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg108s
 1816496
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/gigabit-tl-sg108s/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/753/1816496/thumbnails/gigabit-tl-sg108s-aae
 9/22/2020 11:34:53 AM 115,91 RON
 9/26/2020 2:38:22 PM 115,91 RON
 9/27/2020 6:40:02 PM 115,91 RON
+10/5/2020 4:09:14 PM 115,91 RON

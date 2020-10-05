@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-001088
 1449330
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/c922-pro-stream/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1152773/1449330/thumbnails/c922-pro-stream-c
     Pret    
 9/26/2020 8:42:58 AM 599,99 RON
 9/27/2020 11:36:48 AM 599,99 RON
+10/5/2020 3:05:49 PM 599,99 RON

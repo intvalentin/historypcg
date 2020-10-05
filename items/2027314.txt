@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4xb7a10196
 2027314
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/thinksystem-25-quot-pm883-480gb-entry-sata-6gb-hot-swap-ssd/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/9002/2027314/thumbnails/thinksystem-25-quot-
 9/21/2020 12:04:50 AM 1.281,05 RON
 9/25/2020 2:30:46 PM 1.284,74 RON
 9/26/2020 4:51:46 PM 1.285,48 RON
+10/3/2020 9:36:55 AM 1.284,63 RON
+10/5/2020 10:35:37 AM 1.284,63 RON

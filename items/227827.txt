@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s041068
 227827
     Product link    
 https://www.pcgarage.ro/hartie/epson/photo-quality-ink-jet-paper-s041068/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/227827/thumbnails/photo-quality-inkjet-mat
 9/22/2020 10:28:42 AM 286,98 RON
 9/26/2020 1:50:26 PM 287,98 RON
 9/27/2020 4:58:21 PM 287,98 RON
+10/5/2020 8:36:28 AM 286,98 RON

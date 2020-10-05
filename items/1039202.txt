@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stea1000400
 1039202
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/expansion-1tb-25-inch-usb-30/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/986897/1039202/thumbnails/expansion-500gb-25
 9/21/2020 8:18:05 AM 224,99 RON
 9/25/2020 10:14:29 PM 224,99 RON
 9/27/2020 10:16:18 AM 224,99 RON
+10/2/2020 9:34:45 PM 224,99 RON
+10/5/2020 1:12:46 PM 224,99 RON

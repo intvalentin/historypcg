@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bu200cl
 244447
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/belt-unit-bu200cl/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/244447/thumbnails/belt-unit-bu200cl-64f7a1
 9/22/2020 10:53:20 AM 497,98 RON
 9/26/2020 2:15:27 PM 499,98 RON
 9/27/2020 6:17:11 PM 499,98 RON
+10/5/2020 11:34:44 AM 497,98 RON

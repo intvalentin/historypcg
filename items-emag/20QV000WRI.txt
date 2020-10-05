@@ -15,3 +15,4 @@ Laptop Lenovo ThinkPad X1 Extreme 2nd Gen cu procesor Intel® Core™ i7-9750H p
 10/1/2020 10:33:02 PM 12999
 10/1/2020 11:00:31 PM 17141
 10/1/2020 11:25:34 PM 12999
+10/4/2020 9:04:50 PM 12999

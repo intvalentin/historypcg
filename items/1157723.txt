@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5463e3g
 1157723
     Product link    
 https://www.pcgarage.ro/servere/lenovo/x3550-m5-procesor-intel-xeon-e5-2630-v3-24ghz-haswell-1x-8gb-rdimm-ddr4-2133mhz-2x-300gb-sas-10k-sff-25-inch-m5210-1gb/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/853128/1157723/thumbnails/x3550-m5-procesor-
 9/21/2020 12:04:10 AM 15.580,49 RON
 9/25/2020 2:23:23 PM 15.599,41 RON
 9/26/2020 4:44:20 PM 15.625,39 RON
+10/2/2020 10:58:19 PM 15.625,06 RON
+10/5/2020 10:28:09 AM 15.624,11 RON

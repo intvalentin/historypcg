@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm34035
 305049
     Product link    
 https://www.pcgarage.ro/adaptoare/hama/dvi-hdmi-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/305049/thumbnails/dvi-hdmi-black-ac53f20f6
 9/21/2020 12:23:16 PM 71,98 RON
 9/26/2020 9:33:55 AM 71,98 RON
 9/27/2020 12:40:45 PM 71,98 RON
+10/5/2020 8:14:06 AM 71,98 RON

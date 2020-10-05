@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |407324
 1363945
     Product link    
 https://www.pcgarage.ro/consumabile/ricoh/drum-unit-407324/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1363661/1363945/thumbnails/drum-unit-407324-
 9/21/2020 3:53:17 PM 351,98 RON
 9/26/2020 10:31:19 AM 351,98 RON
 9/27/2020 1:49:10 PM 351,98 RON
+10/5/2020 5:54:44 PM 351,98 RON

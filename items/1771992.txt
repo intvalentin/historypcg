@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6vc-03748
 1771992
     Product link    
 https://www.pcgarage.ro/cal-client-access-server/microsoft/cal-user-remote-desktop-services-2019-olp-nl-engleza-1-user/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1771992/thumbnails/cal-device-remote-de
 9/21/2020 1:19:14 PM 808,19 RON
 9/26/2020 9:49:19 AM 810,98 RON
 9/27/2020 12:57:35 PM 810,98 RON
+10/5/2020 10:11:15 AM 810,45 RON

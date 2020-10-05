@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sys-5039d-i 8800448708
 1701924
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-5039d-i-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-1x-8gb-udimm-ddr4-2x-1tb-hdd-lff-35-inch-1/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1113903/1701924/thumbnails/superserver-5039d
 9/21/2020 12:04:01 AM 4.698,20 RON
 9/25/2020 2:23:23 PM 4.762,06 RON
 9/26/2020 4:44:20 PM 4.802,66 RON
+10/2/2020 10:45:02 PM 4.758,50 RON
+10/5/2020 10:26:41 AM 4.764,59 RON

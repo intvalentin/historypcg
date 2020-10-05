@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt2600ac
 1490870
     Product link    
 https://www.pcgarage.ro/routere-wireless/synology/gigabit-rt2600ac-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1489074/1490870/thumbnails/gigabit-rt2600ac-
 9/22/2020 11:09:11 AM 1.166,01 RON
 9/26/2020 2:21:19 PM 1.169,37 RON
 9/27/2020 6:23:00 PM 1.170,04 RON
+10/5/2020 1:14:18 PM 1.199,61 RON

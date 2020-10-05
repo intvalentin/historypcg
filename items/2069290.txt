@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |swv-00008
 2069290
     Product link    
 https://www.pcgarage.ro/docking-stations/microsoft/travel-hub-usb-c-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6954/2069290/thumbnails/travel-hub-usb-c-345
 9/20/2020 11:39:47 PM 445,98 RON
 9/25/2020 8:46:19 PM 447,98 RON
 9/26/2020 10:45:47 PM 447,98 RON
+10/3/2020 8:50:26 PM 446,98 RON
+10/5/2020 11:29:37 AM 446,98 RON

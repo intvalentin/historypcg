@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpe-lg50
 1837216
     Product link    
 https://www.pcgarage.ro/switch-uri/trendnet/gigabit-tpe-lg50/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3582/1837216/thumbnails/gigabit-tpe-lg50-d25
 9/22/2020 11:46:45 AM 203,80 RON
 9/26/2020 2:46:32 PM 208,31 RON
 9/27/2020 6:48:14 PM 208,27 RON
+10/5/2020 5:44:18 PM 206,67 RON

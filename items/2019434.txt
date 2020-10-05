@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |itdcw_karambit_01
 2019434
     Product link    
 https://www.pcgarage.ro/sisteme-brand/itd-custom-works/karambit-procesor-amd-ryzen-7-3700x-36ghz-16gb-ddr4-256gb-ssd-plus-1tb-hdd-rtx-2070-super-8gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8491/2019434/thumbnails/karambit-procesor-am
 9/21/2020 12:02:42 AM 12.189,98 RON
 9/25/2020 1:58:15 PM 12.209,98 RON
 9/26/2020 4:26:34 PM 12.229,98 RON
+10/2/2020 8:46:23 PM 12.229,98 RON
+10/5/2020 10:12:49 AM 12.229,98 RON

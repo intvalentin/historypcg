@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcem2-s
 2026114
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/pcem2-s-1x-pci-e-male-1x-m2-pci-e/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2026114/thumbnails/pcem2-s-1x-pci-e-mal
 9/21/2020 12:31:34 PM 99,98 RON
 9/26/2020 9:33:55 AM 99,98 RON
 9/27/2020 12:40:45 PM 99,98 RON
+10/5/2020 8:17:45 AM 99,98 RON

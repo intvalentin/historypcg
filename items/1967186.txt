@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n016o3070mt_u
 1967186
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-3070-tower-procesor-intel-core-i5-9500-300ghz-coffee-lake-8gb-ddr4-512gb-ssd-gma-uhd-630-linux/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1261/1967186/thumbnails/optiplex-3070-tower-
 9/21/2020 12:02:20 AM 3.329,98 RON
 9/25/2020 1:59:44 PM 3.339,98 RON
 9/26/2020 4:28:03 PM 3.339,98 RON
+10/2/2020 8:17:45 PM 3.339,98 RON
+10/5/2020 10:09:52 AM 3.339,98 RON

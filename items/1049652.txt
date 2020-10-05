@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chb1110
 1049652
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v14-10m-ethernet-negru-2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/960827/1049652/thumbnails/hdmi-male-hdmi-mal
 9/21/2020 10:39:28 AM 117,98 RON
 9/26/2020 9:09:43 AM 119,98 RON
 9/27/2020 12:16:50 PM 119,98 RON
+10/4/2020 8:05:26 PM 125,98 RON

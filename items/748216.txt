@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s041328
 748216
     Product link    
 https://www.pcgarage.ro/hartie/epson/premium-semigloss-photo-a3-plus-20-coli/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/748216/thumbnails/premium-semigloss-p
 9/22/2020 10:26:35 AM 110,98 RON
 9/26/2020 1:49:42 PM 110,98 RON
 9/27/2020 4:57:38 PM 111,98 RON
+10/5/2020 8:27:18 AM 110,98 RON

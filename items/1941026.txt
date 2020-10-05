@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pacc500
 1941026
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/husa-pacc500/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1941026/thumbnails/husa-pacc500-695648d
 9/22/2020 10:57:25 AM 35,98 RON
 9/26/2020 2:11:00 PM 35,98 RON
 9/27/2020 6:12:41 PM 35,98 RON
+10/5/2020 11:15:45 AM 35,98 RON

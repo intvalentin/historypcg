@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elg-00012
 1527870
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/arc-mouse-elg-00012-negru/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1516422/1527870/thumbnails/arc-mouse-elg-000
 9/21/2020 8:22:39 AM 332,99 RON
 9/26/2020 8:16:48 AM 332,99 RON
 9/27/2020 11:10:32 AM 332,99 RON
+10/3/2020 4:57:42 PM 332,99 RON
+10/5/2020 2:38:22 PM 332,99 RON

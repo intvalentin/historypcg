@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |70c0d40
 527285
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-700d4-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/527285/thumbnails/toner-700d4-yellow-f412b
 9/21/2020 10:29:22 PM 263,98 RON
 9/26/2020 12:30:10 PM 265,98 RON
 9/27/2020 4:00:33 PM 263,98 RON
+10/4/2020 4:37:43 PM 263,98 RON

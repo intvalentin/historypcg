@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tef1105p
 1168969
     Product link    
 https://www.pcgarage.ro/switch-uri/tenda/tef1105p/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/1168969/thumbnails/tef1105p-749cda509
 9/22/2020 11:35:57 AM 149,70 RON
 9/26/2020 2:41:21 PM 150,22 RON
 9/27/2020 6:43:01 PM 150,22 RON
+10/5/2020 4:29:16 PM 150,12 RON

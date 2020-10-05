@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds1621xs+
 2072906
     Product link    
 https://www.pcgarage.ro/nas/synology/ds1621xs-plus-8gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072906/thumbnails/ds1621xs-plus-8gb-ef
 9/22/2020 11:27:24 AM 4.114,89 RON
 9/26/2020 2:28:45 PM 4.152,21 RON
 9/27/2020 6:30:22 PM 4.193,52 RON
+10/5/2020 3:09:42 PM 4.185,53 RON

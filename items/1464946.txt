@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp124-7dbda6c989de2920c55be43b63e951a8
 1464946
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-540-541-model-hstnn-db51/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1088254/1464946/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:00 PM 219,98 RON
 9/25/2020 4:01:57 PM 223,98 RON
 9/26/2020 6:01:47 PM 223,98 RON
+10/3/2020 4:58:56 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

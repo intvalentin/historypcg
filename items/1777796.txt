@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rn42400-100nes
 1777796
     Product link    
 https://www.pcgarage.ro/nas/netgear/rn42400-100nes-2gb/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6763/1777796/thumbnails/rn42200-100nes-3afa3
 9/22/2020 11:24:10 AM 2.792,22 RON
 9/26/2020 2:28:01 PM 2.802,88 RON
 9/27/2020 6:29:39 PM 2.802,88 RON
+10/5/2020 2:49:20 PM 2.797,55 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0e360h11e
 82353
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-e360h11e-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/82353/thumbnails/high-yield-return-program
 9/21/2020 10:34:39 PM 1.203,98 RON
 9/26/2020 1:03:47 PM 1.207,98 RON
 9/27/2020 4:05:02 PM 1.205,98 RON
+10/4/2020 5:08:47 PM 1.207,98 RON

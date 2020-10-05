@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0143
 1436998
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/repeater-usb-20-tip-a-male-usb-20-tip-a-female-10m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1192525/1436998/thumbnails/repeater-usb-20-t
 9/21/2020 11:59:26 AM 87,98 RON
 9/26/2020 9:23:34 AM 87,98 RON
 9/27/2020 12:29:37 PM 87,98 RON
+10/4/2020 10:51:09 PM 87,98 RON

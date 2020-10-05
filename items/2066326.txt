@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90j000apri
 2066326
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510a-15arr-procesor-amd-ryzen-5-3400g-37ghz-8gb-ram-128gb-ssd-plus-1tb-hdd-radeon-vega-11-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6835/2066326/thumbnails/ideacentre-510a-15ic
 9/21/2020 12:02:03 AM 2.089,98 RON
 9/25/2020 1:55:19 PM 2.089,98 RON
 9/26/2020 4:23:38 PM 2.099,98 RON
+10/2/2020 7:31:37 PM 2.109,98 RON
+10/5/2020 10:04:53 AM 2.109,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwr-933
 2050458
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/dwr-933-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2050458/thumbnails/dwr-933-dual-band-ea
 9/22/2020 11:11:19 AM 551,97 RON
 9/26/2020 2:17:36 PM 553,87 RON
 9/27/2020 6:19:19 PM 553,87 RON
+10/5/2020 12:48:37 PM 553,50 RON

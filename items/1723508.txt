@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stfs2000800
 1723508
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-25-inch-2tb-usb-c-thunderbolt-orange/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/8674/1723508/thumbnails/rugged-25-inch-2tb-u
 9/21/2020 8:19:14 AM 909,98 RON
 9/25/2020 10:23:25 PM 919,98 RON
 9/27/2020 10:25:59 AM 919,98 RON
+10/3/2020 8:48:25 AM 919,98 RON
+10/5/2020 1:23:54 PM 919,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st0021e
 289079
     Product link    
 https://www.pcgarage.ro/rack-uri/thermaltake/max-5-35-quot/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/289079/thumbnails/max-5-35-quot-6e6e703e92
 9/21/2020 10:30:52 AM 269,98 RON
 9/26/2020 8:59:19 AM 275,98 RON
 9/27/2020 11:53:15 AM 275,98 RON
+10/4/2020 7:04:34 PM 273,98 RON

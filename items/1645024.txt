@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st8000as0003
 1645024
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-5e8-8tb-5900-rpm-sata-iii-256mb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1642372/1645024/thumbnails/exos-5e8-8tb-sata
 9/21/2020 12:05:18 AM 1.392,54 RON
 9/25/2020 2:34:30 PM 1.411,46 RON
 9/26/2020 4:55:30 PM 1.423,50 RON
+10/3/2020 10:03:17 AM 1.410,41 RON
+10/5/2020 10:38:36 AM 1.412,21 RON

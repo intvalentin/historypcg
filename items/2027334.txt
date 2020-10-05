@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7y99a020ea
 2027334
     Product link    
 https://www.pcgarage.ro/servere/lenovo/thinksystem-sr635-rack-1u-amd-epyc-7232p-31ghz-32gb-ddr4-2rx4-no-hdd-raid-930-8i-2gb-flash-pcie-12gb/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/9002/2027334/thumbnails/thinksystem-sr635-ra
 9/21/2020 12:03:56 AM 13.141,54 RON
 9/25/2020 2:21:09 PM 13.179,41 RON
 9/26/2020 4:42:05 PM 13.186,98 RON
+10/2/2020 10:36:42 PM 13.178,33 RON
+10/5/2020 10:25:13 AM 13.178,33 RON

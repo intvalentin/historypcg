@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo125-559f9bd856634ef3e1d30b1c5cdc6282
 1499494
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-edge-e540/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427466/1499494/thumbnails/baterie-laptop-le
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 3:57:26 PM 245,98 RON
 9/26/2020 5:57:16 PM 245,98 RON
+10/5/2020 11:24:20 AM 243,98 RON

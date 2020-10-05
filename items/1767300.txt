@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1900-10hp-eu0101
 1767300
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1900-10hp/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1767300/thumbnails/gigabit-gs1900-10
 9/22/2020 11:51:04 AM 685,35 RON
 9/26/2020 2:47:17 PM 687,98 RON
 9/27/2020 6:48:58 PM 687,98 RON
+10/5/2020 5:56:20 PM 686,74 RON

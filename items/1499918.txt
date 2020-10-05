@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo169-cf95e46cda3536b788f69fc3beae8727
 1499918
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-yoga-12/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1443558/1499918/thumbnails/baterie-laptop-le
 9/20/2020 11:12:14 PM 227,98 RON
 9/25/2020 3:56:41 PM 231,98 RON
 9/26/2020 5:56:31 PM 231,98 RON
+10/3/2020 5:18:39 PM 229,98 RON
+10/5/2020 11:15:44 AM 229,98 RON

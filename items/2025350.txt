@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sa3600
 2025350
     Product link    
 https://www.pcgarage.ro/nas/synology/sa3600-16gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2025350/thumbnails/sa3600-16gb-ae3debd2
 9/22/2020 11:30:36 AM 38.267,50 RON
 9/26/2020 2:29:30 PM 38.377,76 RON
 9/27/2020 6:31:06 PM 38.399,81 RON
+10/5/2020 3:30:06 PM 38.792,21 RON

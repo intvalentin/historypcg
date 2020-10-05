@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h844040
 1577826
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-w41/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1461878/1577826/thumbnails/eb-w41-abb48e2265
 9/22/2020 5:35:59 PM 2.205,98 RON
 9/26/2020 6:46:28 PM 2.213,98 RON
 9/28/2020 8:28:36 AM 2.137,98 RON
+10/5/2020 5:36:14 PM 2.209,98 RON

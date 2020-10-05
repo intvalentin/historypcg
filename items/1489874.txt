@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |240b7qpjeb+-+00
 1489874
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/240b7qpjeb-241-inch-5-ms-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1431858/1489874/thumbnails/240b7qpjeb-24-inc
 9/21/2020 8:15:51 AM 1.001,98 RON
 9/25/2020 9:50:51 PM 1.115,98 RON
 9/27/2020 9:47:18 AM 1.115,98 RON
+10/3/2020 10:25:39 PM 1.205,98 RON
+10/5/2020 12:41:55 PM 1.205,98 RON

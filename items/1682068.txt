@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-002733
 1682068
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m187-blue-1/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1664860/1682068/thumbnails/m187-blue-d3a232e
 9/21/2020 8:23:17 AM 81,98 RON
 9/26/2020 8:21:17 AM 81,98 RON
 9/27/2020 11:21:49 AM 81,98 RON
+10/3/2020 8:41:37 PM 101,98 RON
+10/5/2020 2:54:33 PM 101,98 RON

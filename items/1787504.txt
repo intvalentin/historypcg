@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2219c008aa
 1787504
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf112-laser-monocrom-format-a4/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1779504/1787504/thumbnails/i-sensys-mf112-la
 9/21/2020 2:04:07 PM 943,98 RON
 9/26/2020 10:03:24 AM 945,98 RON
 9/27/2020 1:21:32 PM 945,98 RON
+10/5/2020 12:44:27 PM 945,98 RON

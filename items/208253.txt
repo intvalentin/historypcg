@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gvs122
 208253
     Product link    
 https://www.pcgarage.ro/accesorii-monitoare/gembird/gvs122/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/4/208253/thumbnails/gvs122-62f79bc92e3d9ef0b
 9/21/2020 8:18:01 AM 127,98 RON
 9/25/2020 10:13:03 PM 129,98 RON
 9/27/2020 10:14:43 AM 129,98 RON
+10/2/2020 9:28:20 PM 127,98 RON
+10/5/2020 1:11:19 PM 127,98 RON

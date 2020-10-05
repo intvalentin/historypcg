@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9s6-b91551-660
 1894098
     Product link    
 https://www.pcgarage.ro/sisteme-brand/msi/gaming-infinite-8si-660eu-procesor-intel-core-i5-8400-28ghz-cofee-lake-8gb-ddr4-256gb-ssd-plus-1tb-hdd-geforce-gtx-1660-ti-6gb-win-10-home/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1275/1894098/thumbnails/gaming-infinite-8si-
 9/21/2020 12:02:33 AM 5.459,98 RON
 9/25/2020 2:01:13 PM 5.469,98 RON
 9/26/2020 4:28:46 PM 5.469,98 RON
+10/2/2020 8:32:51 PM 5.469,98 RON
+10/5/2020 10:11:20 AM 5.469,98 RON

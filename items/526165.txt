@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01600
 526165
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01600-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/526165/thumbnails/toner-106r01600-yellow-e
 9/22/2020 9:49:22 AM 253,98 RON
 9/26/2020 1:28:59 PM 255,98 RON
 9/27/2020 4:30:15 PM 255,98 RON
+10/4/2020 8:46:56 PM 253,98 RON

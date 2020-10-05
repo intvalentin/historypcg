@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a860wy3
 1496342
     Product link    
 https://www.pcgarage.ro/accesorii-printing/konica-minolta/tava-pc-414-2500-coli-pentru-bizhub-c227/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301253/1496342/thumbnails/tava-pc-114-500-c
 9/22/2020 11:04:58 AM 3.411,98 RON
 9/26/2020 2:13:58 PM 3.423,98 RON
 9/27/2020 6:15:42 PM 3.423,98 RON
+10/5/2020 11:55:01 AM 3.421,98 RON

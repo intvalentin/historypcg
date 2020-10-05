@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |245b1+-+00
 2089726
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/245b1-238-inch-4-ms-negru-75-hz/
@@ -9,3 +9,5 @@ https://4.grgs.ro/images/products/1/7008/2089726/thumbnails/242b1-238-inch-4-ms-
     Pret    
 9/25/2020 9:53:48 PM 1.011,98 RON
 9/27/2020 9:53:50 AM 1.011,98 RON
+10/3/2020 10:23:01 PM 1.099,98 RON
+10/5/2020 12:41:11 PM 1.099,98 RON

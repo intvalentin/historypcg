@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca1088
 1451574
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/logistar-audio-splitter-6x-35mm-jack-female/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1443558/1451574/thumbnails/logistar-audio-sp
 9/21/2020 12:21:12 PM 41,98 RON
 9/26/2020 9:31:41 AM 43,98 RON
 9/27/2020 12:38:22 PM 43,98 RON
+10/4/2020 11:37:15 PM 43,98 RON

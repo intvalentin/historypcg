@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |10lab9901
 1982326
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/elgato/key-light-air/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/370411/1982326/thumbnails/key-light-air-e108
 9/21/2020 8:09:58 AM 765,98 RON
 9/25/2020 2:40:23 PM 765,98 RON
 9/26/2020 5:01:21 PM 767,98 RON
+10/3/2020 10:57:19 AM 767,98 RON
+10/5/2020 10:45:57 AM 767,98 RON

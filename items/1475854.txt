@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aex500u3-crd
 1475854
     Product link    
 https://www.pcgarage.ro/rack-uri/a-data/ex500/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469686/1475854/thumbnails/ex500-e8c9073efcb
 9/21/2020 10:20:11 AM 49,58 RON
 9/26/2020 8:51:12 AM 49,58 RON
 9/27/2020 11:45:06 AM 49,58 RON
+10/4/2020 4:58:17 PM 49,58 RON

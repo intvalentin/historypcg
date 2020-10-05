@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pt3-00021
 1151953
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/microsoft/wireless-desktop-900/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1088099/1151953/thumbnails/wireless-desktop-
 9/21/2020 10:03:12 AM 178,18 RON
 9/26/2020 8:39:15 AM 178,18 RON
 9/27/2020 11:33:04 AM 178,18 RON
+10/3/2020 10:00:36 PM 178,18 RON
+10/5/2020 3:01:54 PM 178,18 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.70801gc0e
 1103193
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/w402/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/367655/1103193/thumbnails/w402-571598a2e642a
 9/22/2020 5:36:33 PM 2.557,98 RON
 9/26/2020 6:47:12 PM 2.565,98 RON
 9/28/2020 8:29:20 AM 2.565,98 RON
+10/5/2020 5:39:23 PM 2.565,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ccf-usb2-amaf-15
 224735
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/cablu-prelungitor-usb-5m-bulk/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/224735/thumbnails/cablu-prelungitor-usb-5m
 9/21/2020 11:55:19 AM 15,98 RON
 9/26/2020 9:25:02 AM 15,98 RON
 9/27/2020 12:31:11 PM 15,98 RON
+10/4/2020 10:44:32 PM 31,98 RON

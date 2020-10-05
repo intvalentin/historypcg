@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc6cayh
 1518418
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc6cayh-celeron-j3455-15ghz-2x-ddr3-8gb-max-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1496454/1518418/thumbnails/nuc-next-unit-of-
 9/21/2020 12:03:28 AM 699,98 RON
 9/25/2020 2:17:29 PM 709,98 RON
 9/26/2020 4:38:19 PM 709,98 RON
+10/2/2020 10:11:52 PM 654,98 RON
+10/5/2020 10:22:16 AM 654,98 RON

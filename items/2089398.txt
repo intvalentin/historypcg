@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q27p2q
 2089398
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/q27p2q-27-inch-4-ms-negru-75-hz/
@@ -9,3 +9,6 @@ https://2.grgs.ro/images/products/1/7008/2089398/thumbnails/q27p2q-27-inch-4-ms-
     Pret    
 9/25/2020 9:54:32 PM 1.303,98 RON
 9/27/2020 9:54:42 AM 1.303,98 RON
+10/2/2020 8:22:59 PM 1.549,98 RON
+10/4/2020 4:30:35 PM 1.549,98 RON
+10/5/2020 12:59:42 PM 1.549,98 RON

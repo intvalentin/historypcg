@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1js10a4
 1771956
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/1js10a4-27-inch-2k-5-ms-black-usb-c/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/5015/1771956/thumbnails/1js10a4-27-inch-2k-5
 9/21/2020 8:17:19 AM 1.631,98 RON
 9/25/2020 10:00:28 PM 1.637,98 RON
 9/27/2020 10:01:05 AM 1.637,98 RON
+10/2/2020 8:25:23 PM 1.635,98 RON
+10/4/2020 4:31:19 PM 1.637,98 RON
+10/5/2020 1:00:25 PM 1.637,98 RON

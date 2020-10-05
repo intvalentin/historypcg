@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-002143, 910-002142
 261827
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m325-dark-silver/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4/261827/thumbnails/m325-dark-silver-23e6884
 9/21/2020 8:22:42 AM 179,98 RON
 9/26/2020 8:25:01 AM 181,98 RON
 9/27/2020 11:18:47 AM 181,98 RON
+10/3/2020 5:54:48 PM 179,98 RON
+10/5/2020 2:44:41 PM 179,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1686b015aa
 301177
     Product link    
 https://www.pcgarage.ro/hartie/canon/sg-201-photo-paper-plus-semi-glossy-100x150-mm-4x6-inch-50-coli/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/301177/thumbnails/sg-201-photo-paper-plus-
 9/22/2020 10:22:16 AM 66,98 RON
 9/26/2020 1:47:28 PM 67,98 RON
 9/27/2020 4:55:25 PM 66,98 RON
+10/5/2020 12:02:59 AM 66,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc2020v_u
 1473778
     Product link    
 https://www.pcgarage.ro/multifunctionale/xerox/docucentre-sc2020-laser-color-format-a3-duplex-retea/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1141198/1473778/thumbnails/docucentre-sc2020
 9/21/2020 2:08:16 PM 6.445,98 RON
 9/26/2020 10:04:08 AM 6.467,98 RON
 9/27/2020 1:22:16 PM 6.467,98 RON
+10/5/2020 1:17:17 PM 6.463,98 RON

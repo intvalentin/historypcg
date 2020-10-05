@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs305-300pes
 1887818
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-gs305-300pes/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1885090/1887818/thumbnails/gigabit-gs305-300
 9/22/2020 11:48:55 AM 121,39 RON
 9/26/2020 2:46:32 PM 121,01 RON
 9/27/2020 6:48:14 PM 121,01 RON
+10/5/2020 5:39:29 PM 120,75 RON

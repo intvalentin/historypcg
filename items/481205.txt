@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac66u
 481205
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/rt-ac66u/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/481205/thumbnails/gigabit-rt-ac66u-dual-ba
 9/22/2020 11:08:06 AM 488,21 RON
 9/26/2020 2:22:49 PM 488,45 RON
 9/27/2020 6:24:29 PM 488,50 RON
+10/5/2020 12:46:34 PM 489,63 RON

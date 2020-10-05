@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |711869
 1437250
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/intellinet/711869-12u-wall-mount-635-x-570-glass-door-negru/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1175596/1437250/thumbnails/711869-12u-wall-m
 9/21/2020 12:05:31 AM 628,61 RON
 9/25/2020 2:36:41 PM 630,42 RON
 9/26/2020 4:57:41 PM 630,78 RON
+10/3/2020 10:20:26 AM 630,37 RON
+10/5/2020 10:41:33 AM 630,37 RON

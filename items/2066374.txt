@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jy007tri
 2066374
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-t530-tower-procesor-amd-ryzen-5-3600-36ghz-16gb-ram-256gb-ssd-plus-1-tb-hdd-geforce-gtx-1660-super-6gb-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1703884/2066374/thumbnails/legion-t530-tower
 9/21/2020 12:02:11 AM 4.239,98 RON
 9/25/2020 1:54:35 PM 4.239,98 RON
 9/26/2020 4:23:38 PM 4.249,98 RON
+10/2/2020 7:54:34 PM 4.249,98 RON
+10/5/2020 10:06:54 AM 4.249,98 RON

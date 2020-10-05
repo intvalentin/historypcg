@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11dt003sri
 2048018
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/lenovo/thinkcentre-m720-tiny-procesor-intel-core-i5-10400t-20ghz-comet-lake-8gb-ram-256gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1804216/2048018/thumbnails/thinkcentre-m720-
 9/21/2020 12:03:28 AM 2.589,98 RON
 9/25/2020 2:17:29 PM 2.589,98 RON
 9/26/2020 4:38:19 PM 2.589,98 RON
+10/2/2020 10:18:44 PM 2.804,98 RON
+10/5/2020 10:23:01 AM 2.804,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q8005a
 308059
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-bond-841-mm-x-914-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/308059/thumbnails/universal-bond-paper-a0-
 9/22/2020 10:31:57 AM 145,98 RON
 9/26/2020 1:56:22 PM 145,98 RON
 9/27/2020 5:04:16 PM 145,98 RON
+10/5/2020 8:56:37 AM 145,98 RON

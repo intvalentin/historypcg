@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ngf1503y
 1987138
     Product link    
 https://www.pcgarage.ro/securitate-server/untangle/ng-firewall-complete-150-useri-3-ani-electronic/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1979534/1987138/thumbnails/ng-firewall-compl
 9/21/2020 1:47:40 PM 33.201,81 RON
 9/26/2020 9:57:28 AM 33.297,49 RON
 9/27/2020 1:06:24 PM 33.316,63 RON
+10/5/2020 11:56:50 AM 33.294,76 RON

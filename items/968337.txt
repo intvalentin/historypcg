@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cb52011
 968337
     Product link    
 https://www.pcgarage.ro/imprimante/epson/aculaser-c9300n-laser-color-format-a3-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/929099/968337/thumbnails/aculaser-c9300n-las
 9/21/2020 3:21:00 PM 9.565,98 RON
 9/26/2020 10:26:52 AM 9.593,98 RON
 9/27/2020 1:44:28 PM 9.597,98 RON
+10/5/2020 5:14:38 PM 9.591,98 RON

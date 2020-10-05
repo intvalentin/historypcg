@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b253402
 1861714
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-80w-format-a4-usb-20-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1236/1861714/thumbnails/workforce-ds-80w-for
 9/22/2020 10:41:35 AM 1.065,98 RON
 9/26/2020 2:02:11 PM 1.067,98 RON
 9/27/2020 5:09:26 PM 1.069,98 RON
+10/5/2020 10:09:10 AM 1.067,98 RON

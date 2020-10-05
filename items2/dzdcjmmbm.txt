@@ -1,0 +1,1 @@
+vds8vcpu_16gb-ram_100gb-ssd

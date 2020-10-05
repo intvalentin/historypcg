@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3102c008aa
 1868686
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/i-sensys-mf643cdw-laser-color-format-a4-duplex-retea-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1867706/1868686/thumbnails/i-sensys-mf643cdw
 9/21/2020 2:35:21 PM 1.487,98 RON
 9/26/2020 10:08:34 AM 1.493,98 RON
 9/27/2020 1:26:56 PM 1.489,98 RON
+10/5/2020 2:42:56 PM 1.491,98 RON

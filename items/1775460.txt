@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2646c003aa
 1775460
     Product link    
 https://www.pcgarage.ro/scannere/canon/imageformula-dr-c230/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1774300/1775460/thumbnails/imageformula-dr-c
 9/22/2020 10:39:26 AM 2.265,98 RON
 9/26/2020 2:00:01 PM 2.269,98 RON
 9/27/2020 5:07:57 PM 2.271,98 RON
+10/5/2020 10:00:43 AM 2.269,98 RON

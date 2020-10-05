@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01246
 16211
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01246-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/16211/thumbnails/print-cartridge-pentru-ph
 9/22/2020 10:08:20 AM 891,98 RON
 9/26/2020 1:37:53 PM 895,98 RON
 9/27/2020 4:45:49 PM 895,98 RON
+10/4/2020 10:40:32 PM 895,98 RON

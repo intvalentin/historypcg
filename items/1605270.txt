@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xl2546
 1605270
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/gaming-zowie-xl2546-245-inch-1-ms-black-240hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1520902/1605270/thumbnails/gaming-zowie-xl25
 9/21/2020 8:17:32 AM 2.575,98 RON
 9/25/2020 10:04:10 PM 2.583,98 RON
 9/27/2020 10:05:06 AM 2.585,98 RON
+10/2/2020 8:49:57 PM 2.583,98 RON
+10/4/2020 4:33:32 PM 2.583,98 RON
+10/5/2020 1:06:11 PM 2.583,98 RON

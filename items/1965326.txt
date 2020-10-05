@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |steb10000400
 1965326
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/expansion-desktop-drive-10tb-35-inch-usb-30-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/798262/1965326/thumbnails/expansion-desktop-
 9/21/2020 8:18:42 AM 1.219,99 RON
 9/25/2020 10:21:11 PM 1.219,99 RON
 9/27/2020 10:23:36 AM 1.219,99 RON
+10/2/2020 10:36:28 PM 1.219,99 RON
+10/5/2020 1:17:57 PM 1.219,99 RON

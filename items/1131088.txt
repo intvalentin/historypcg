@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uas-db9m-02
 1131088
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/usb-20-male-serial-male-15m-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/1131088/thumbnails/usb-20-male-serial
 9/21/2020 11:47:00 AM 41,98 RON
 9/26/2020 9:21:21 AM 41,98 RON
 9/27/2020 12:27:13 PM 41,98 RON
+10/4/2020 10:25:06 PM 41,98 RON

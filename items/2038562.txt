@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7em22ea
 2038562
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/hp/440-g5-238-inch-fhd-procesor-intel-core-i5-9500t-22ghz-coffee-lake-16-gb-ram-512gb-ssd-uhd-630-camera-web-win-10-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/370411/2038562/thumbnails/440-g5-238-inch-fh
 9/21/2020 12:03:15 AM 4.779,98 RON
 9/25/2020 2:12:19 PM 4.789,98 RON
 9/26/2020 4:33:13 PM 4.799,98 RON
+10/2/2020 9:25:26 PM 4.799,98 RON
+10/5/2020 10:18:35 AM 4.799,98 RON

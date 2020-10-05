@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2313c025aa
 1829392
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-g2411-inkjet-color-format-a4-ciss/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5664/1829392/thumbnails/pixma-g2411-inkjet-c
 9/21/2020 1:59:59 PM 753,98 RON
 9/26/2020 10:02:38 AM 757,98 RON
 9/27/2020 1:20:47 PM 755,98 RON
+10/5/2020 12:41:12 PM 755,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs4017xs+
 1719804
     Product link    
 https://www.pcgarage.ro/nas/synology/rackstation-rs4017xs-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691852/1719804/thumbnails/rackstation-rs401
 9/22/2020 11:30:36 AM 27.495,65 RON
 9/26/2020 2:28:45 PM 27.939,74 RON
 9/27/2020 6:30:22 PM 27.939,74 RON
+10/5/2020 2:55:58 PM 27.886,43 RON

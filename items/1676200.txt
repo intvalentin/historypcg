@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pd2500q
 1676200
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/pd2500q-25-inch-2k-4-ms-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1663772/1676200/thumbnails/pd2500q-25-inch-2
 9/21/2020 8:17:19 AM 1.629,98 RON
 9/25/2020 10:02:41 PM 1.633,98 RON
 9/27/2020 10:03:29 AM 1.635,98 RON
+10/2/2020 8:25:06 PM 1.633,98 RON
+10/4/2020 4:31:19 PM 1.633,98 RON
+10/5/2020 1:00:25 PM 1.633,98 RON

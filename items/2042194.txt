@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2000001265
 2042194
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r730-2u-procesor-intel-xeon-e5-2620-v4-21ghz-broadwell-2x-16gb-rdimm-ddr4-2133mhz-3x-600gb-10k-sas-hdd-perc-h730/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1034/2042194/thumbnails/poweredge-r730-2u-pr
 9/21/2020 12:03:56 AM 15.408,72 RON
 9/25/2020 2:20:25 PM 15.453,13 RON
 9/26/2020 4:42:05 PM 15.462,01 RON
+10/2/2020 10:38:48 PM 15.451,86 RON
+10/5/2020 10:25:56 AM 15.451,86 RON

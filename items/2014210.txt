@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pnu-4u
 2014210
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/pnu-4u-1x-pci-e-male-4x-usb-30-female/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2014210/thumbnails/adaptor-pci-expre
 9/21/2020 12:31:34 PM 111,98 RON
 9/26/2020 9:33:55 AM 113,98 RON
 9/27/2020 12:40:45 PM 113,98 RON
+10/5/2020 8:20:27 AM 111,98 RON

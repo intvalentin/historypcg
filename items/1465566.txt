@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell199-741578678832e4bdcb460045673e953b
 1465566
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-vostro-1220-1220n-model-f116n-j037n-j130n-k031n-n877n-n887n-p03s001-p649n/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1355434/1465566/thumbnails/baterie-laptop-de
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 4:00:27 PM 245,98 RON
 9/26/2020 6:00:15 PM 245,98 RON
+10/3/2020 8:32:38 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

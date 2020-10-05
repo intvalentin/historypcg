@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0055
 472997
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/cablu-1x-hdmi-m-1x-displayport-m-2m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/472997/thumbnails/cablu-1x-hdmi-m-1x-displ
 9/21/2020 10:37:19 AM 67,98 RON
 9/26/2020 9:07:30 AM 67,98 RON
 9/27/2020 12:14:33 PM 67,98 RON
+10/4/2020 7:46:46 PM 67,98 RON

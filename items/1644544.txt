@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nanos
 1644544
     Product link    
 https://www.pcgarage.ro/hardware-wallet/ledger/nano-s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1642372/1644544/thumbnails/nano-s-01a9de7896
 9/21/2020 1:02:26 PM 556,32 RON
 9/26/2020 9:45:40 AM 557,92 RON
 9/27/2020 12:53:35 PM 558,25 RON
+10/5/2020 9:50:49 AM 557,88 RON

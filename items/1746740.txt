@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |870757-b21
 1746740
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hp/hot-plug-sas-12g-600gb-15000-rpm-25-inch-smart-carrier/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1301253/1746740/thumbnails/hot-plug-sas-12g-
 9/21/2020 12:05:18 AM 1.462,11 RON
 9/25/2020 2:33:45 PM 1.463,49 RON
 9/26/2020 4:54:44 PM 1.465,92 RON
+10/3/2020 10:04:23 AM 1.465,90 RON
+10/5/2020 10:38:36 AM 1.465,81 RON

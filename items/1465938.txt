@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo120-8ebb69119895e4c86cd0e8355e12d7db
 1465938
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-v350-u330-u330a-y330-model-l08s6d12/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1169071/1465938/thumbnails/baterie-laptop-le
 9/20/2020 11:12:53 PM 239,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:32:54 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

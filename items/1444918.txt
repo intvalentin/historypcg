@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t4k01ea
 1444918
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/hp/23-quot-eliteone-800-g2-fhd-procesor-intel-core-i3-6100-34ghz-skylake-4gb-500gb-hdd-gma-hd-530-win-10-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/842306/1444918/thumbnails/23-quot-eliteone-8
 9/21/2020 12:03:15 AM 5.579,98 RON
 9/25/2020 2:15:18 PM 5.589,98 RON
 9/26/2020 4:36:10 PM 5.599,98 RON
+10/2/2020 9:31:12 PM 5.589,98 RON
+10/5/2020 10:19:19 AM 5.589,98 RON

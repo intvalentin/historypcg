@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r821187
 2037434
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/toner-sp-c830dna-magenta/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2034042/2037434/thumbnails/toner-sp-c830dna-
 9/21/2020 11:01:28 PM 1.320,06 RON
 9/26/2020 1:20:47 PM 1.320,06 RON
 9/27/2020 4:22:04 PM 1.320,06 RON
+10/4/2020 7:55:58 PM 1.320,06 RON

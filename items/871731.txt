@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2588us-bk
 871731
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/2588us/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/871731/thumbnails/2588us-d6821dfd4286eac3e
 9/21/2020 10:21:15 AM 41,98 RON
 9/26/2020 8:55:37 AM 43,98 RON
 9/27/2020 11:49:32 AM 43,98 RON
+10/4/2020 5:01:01 PM 43,98 RON

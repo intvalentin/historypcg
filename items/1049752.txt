@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0053
 1049752
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v14-10m-negru-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/798262/1049752/thumbnails/hdmi-male-hdmi-mal
 9/21/2020 11:16:26 AM 75,98 RON
 9/26/2020 9:05:16 AM 75,98 RON
 9/27/2020 12:11:57 PM 75,98 RON
+10/4/2020 7:50:25 PM 75,98 RON

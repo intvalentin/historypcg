@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-tds06dg
 1773452
     Product link    
 https://www.pcgarage.ro/docking-stations/canyon/multiport-universal-usb-tip-c-6-in-1-gigabit-lan-60w/
@@ -8,3 +8,5 @@ Canyon Multiport Universal USB Tip C 6-in-1, Gigabit LAN, 60W
 https://2.grgs.ro/images/products/1/5015/1773452/thumbnails/multiport-universal-usb-tip-c-4-in-1-gigabit-lan-60w-0fd5eea1a653ba98b00bae6a6acf524f.jpg
     Pret    
 9/20/2020 11:39:47 PM 227,98 RON
+10/3/2020 8:45:50 PM 230,98 RON
+10/5/2020 11:28:52 AM 230,98 RON

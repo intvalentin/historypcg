@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chdhx-701-rw
 1737808
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/gopro/hero-7-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1737808/thumbnails/hero-7-black-e63e
 9/22/2020 5:30:51 PM 1.698,98 RON
 9/26/2020 6:37:29 PM 1.698,98 RON
 9/28/2020 8:19:38 AM 1.698,98 RON
+10/5/2020 4:35:33 PM 1.698,98 RON

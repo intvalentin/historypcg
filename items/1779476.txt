@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |itdcw_athena_01
 1779476
     Product link    
 https://www.pcgarage.ro/sisteme-brand/itd-custom-works/gaming-athena-prime-intel-i5-9600k-37ghz-coffee-lake-16gb-ddr4-1tb-hdd-plus-250gb-ssd-rtx-2080-8gb-gddr6-iluminare-rgb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/761/1779476/thumbnails/gaming-athena-prime-b
 9/21/2020 12:02:42 AM 8.439,98 RON
 9/25/2020 2:01:13 PM 8.449,98 RON
 9/26/2020 4:29:31 PM 8.469,98 RON
+10/2/2020 8:43:10 PM 8.469,98 RON
+10/5/2020 10:12:05 AM 8.469,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m393a2g40eb1-crc
 1658092
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr4-16gb-2400mhz-dual-rank-12v/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5286/1658092/thumbnails/ecc-rdimm-ddr4-16gb-
 9/21/2020 12:04:41 AM 1.159,92 RON
 9/25/2020 2:27:48 PM 1.185,71 RON
 9/26/2020 4:48:49 PM 1.185,46 RON
+10/3/2020 9:04:46 AM 1.176,31 RON
+10/5/2020 10:33:23 AM 1.176,31 RON

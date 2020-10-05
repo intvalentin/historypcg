@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |46w0788
 1469578
     Product link    
 https://www.pcgarage.ro/memorii-server/lenovo/ecc-rdimm-ddr4-8gb-2133mhz-cl15-12v-single-rank-x4-2/
@@ -9,3 +9,5 @@ https://4.grgs.ro/images/products/1/978807/1469578/thumbnails/ecc-rdimm-ddr4-8gb
     Pret    
 9/25/2020 2:27:48 PM 459,02 RON
 9/26/2020 4:48:49 PM 459,77 RON
+10/3/2020 8:54:29 AM 459,77 RON
+10/5/2020 10:32:38 AM 459,74 RON

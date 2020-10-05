@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stdr1000203
 783750
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-portable-1tb-25-inch-usb-30-red/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/5/783750/thumbnails/backup-plus-1tb-25-inch-
 9/21/2020 8:18:56 AM 339,98 RON
 9/25/2020 10:26:22 PM 339,98 RON
 9/27/2020 10:29:11 AM 339,98 RON
+10/2/2020 10:56:10 PM 339,98 RON
+10/5/2020 1:19:27 PM 339,98 RON

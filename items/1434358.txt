@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.74f01gc0e
 1434358
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x345/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1052635/1434358/thumbnails/x345-0c344f162d8b
 9/22/2020 5:39:15 PM 2.335,98 RON
 9/26/2020 6:52:24 PM 2.343,98 RON
 9/28/2020 8:34:38 AM 2.343,98 RON
+10/5/2020 6:06:51 PM 2.341,98 RON

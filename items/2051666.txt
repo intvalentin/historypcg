@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0er0086ri
 2051666
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a340-24ick-24-inch-fhd-procesor-intel-core-i3-9100t-31ghz-coffee-lake-8gb-ram-1tb-hdd-plus-128gb-ssd-uhd-630-camera-web-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6166/2051666/thumbnails/24-quot-f0e80081ri-f
 9/21/2020 12:02:48 AM 2.659,98 RON
 9/25/2020 2:12:19 PM 2.649,98 RON
 9/26/2020 4:31:00 PM 2.599,99 RON
+10/2/2020 8:50:28 PM 2.599,99 RON
+10/5/2020 10:14:53 AM 2.599,99 RON

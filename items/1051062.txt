@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6090b001aa
 1051062
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/plain-pedestal-high/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1051062/thumbnails/plain-pedestal-hig
 9/22/2020 11:01:44 AM 689,98 RON
 9/26/2020 2:15:27 PM 691,98 RON
 9/27/2020 6:17:11 PM 691,98 RON
+10/5/2020 11:37:43 AM 691,98 RON

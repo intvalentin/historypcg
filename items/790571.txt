@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |go-sw-24g
 790571
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-go-sw-24g/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/790571/thumbnails/gigabit-go-sw-24g-f
 9/22/2020 11:49:59 AM 320,59 RON
 9/26/2020 2:48:47 PM 321,51 RON
 9/27/2020 6:43:01 PM 352,22 RON
+10/5/2020 4:38:36 PM 324,95 RON

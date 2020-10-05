@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2229c006aa
 1906726
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts6150-black-inkjet-color-format-a4-wi-fi-bluetooth/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1906726/thumbnails/pixma-ts6150-blac
 9/21/2020 2:29:07 PM 583,98 RON
 9/26/2020 10:07:49 AM 585,98 RON
 9/27/2020 1:26:06 PM 585,98 RON
+10/5/2020 2:14:50 PM 585,98 RON

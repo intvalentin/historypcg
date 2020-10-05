@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0727c006ba
 1434330
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-mg2550s-inkjet-color-format-a4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986897/1434330/thumbnails/pixma-mg2550s-inkj
 9/21/2020 2:10:21 PM 203,98 RON
 9/26/2020 10:12:16 AM 205,98 RON
 9/27/2020 1:30:55 PM 205,98 RON
+10/5/2020 1:23:15 PM 205,98 RON

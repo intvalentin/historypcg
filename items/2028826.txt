@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lip8020004
 2028826
     Product link    
 https://www.pcgarage.ro/i-love-gaming/lexip/lexip-gaming-np93-neptunium-alpha-euro-version-pc/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8840/2028826/thumbnails/lexip-gaming-np93-ne
 9/21/2020 8:12:09 AM 243,98 RON
 9/25/2020 2:46:59 PM 243,98 RON
 9/26/2020 5:07:58 PM 243,98 RON
+10/3/2020 4:13:09 PM 243,98 RON
+10/5/2020 11:07:31 AM 243,98 RON

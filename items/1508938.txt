@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cab0104
 1508938
     Product link    
 https://www.pcgarage.ro/cabluri-audio/sbox/jack-35-mm-male-jack-35-mm-male-15m-negru-2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469686/1508938/thumbnails/jack-35-mm-male-j
 9/21/2020 11:28:21 AM 39,98 RON
 9/26/2020 9:14:42 AM 39,98 RON
 9/27/2020 12:20:02 PM 39,98 RON
+10/4/2020 9:09:25 PM 39,98 RON

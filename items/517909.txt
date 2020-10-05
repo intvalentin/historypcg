@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs510de
 517909
     Product link    
 https://www.pcgarage.ro/imprimante/lexmark/cs510de-laser-color-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/517909/thumbnails/cs510de-cbd91badb594826d
 9/21/2020 3:16:50 PM 3.459,98 RON
 9/26/2020 10:28:21 AM 3.471,98 RON
 9/27/2020 1:46:00 PM 3.471,98 RON
+10/5/2020 5:03:30 PM 3.469,98 RON

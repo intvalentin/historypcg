@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-3e1318p-e
 1891542
     Product link    
 https://www.pcgarage.ro/switch-uri/hikvision/ds-3e1318p-e/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1275/1891542/thumbnails/ds-3e1318p-e-998e3e1
 9/22/2020 11:37:02 AM 1.117,06 RON
 9/26/2020 2:37:38 PM 1.119,97 RON
 9/27/2020 6:39:18 PM 1.120,61 RON
+10/5/2020 5:03:12 PM 1.119,88 RON

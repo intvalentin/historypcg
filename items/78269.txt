@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43870021
 78269
     Product link    
 https://www.pcgarage.ro/consumabile/oki/yellow-image-drum-43870021/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/78269/thumbnails/yellow-image-drum-4387002
 9/21/2020 4:14:04 PM 323,98 RON
 9/26/2020 10:33:32 AM 329,98 RON
 9/27/2020 1:51:33 PM 329,98 RON
+10/5/2020 5:50:29 PM 329,98 RON

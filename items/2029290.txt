@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st2000nm001a
 2029290
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-7e8-hdd-2tb-7200rpm-sata-iii-256mb-35-inch-512e/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8629/2029290/thumbnails/exos-7e8-hdd-2tb-720
 9/21/2020 12:05:09 AM 686,04 RON
 9/25/2020 2:33:00 PM 698,92 RON
 9/26/2020 4:53:14 PM 699,76 RON
+10/3/2020 9:50:14 AM 694,86 RON
+10/5/2020 10:37:07 AM 694,30 RON

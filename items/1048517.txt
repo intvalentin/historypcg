@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ah0007
 1048517
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/hdmi-male-hdmi-female-conector-90-grade-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/843505/1048517/thumbnails/hdmi-male-hdmi-fem
 9/21/2020 12:21:12 PM 21,98 RON
 9/26/2020 9:33:10 AM 21,98 RON
 9/27/2020 12:39:56 PM 21,98 RON
+10/4/2020 11:31:50 PM 21,98 RON

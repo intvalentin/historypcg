@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b198033
 90737
     Product link    
 https://www.pcgarage.ro/scannere/epson/perfection-v600-photo/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/90737/thumbnails/perfection-v600-photo-f15
 9/22/2020 10:40:31 AM 1.465,98 RON
 9/26/2020 2:00:01 PM 1.471,98 RON
 9/27/2020 5:07:57 PM 1.471,98 RON
+10/5/2020 9:59:40 AM 1.467,98 RON

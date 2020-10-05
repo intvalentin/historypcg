@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch0065
 1714996
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v20-75m-negru-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1714996/thumbnails/hdmi-male-hdmi-ma
 9/21/2020 10:36:15 AM 65,98 RON
 9/26/2020 9:03:03 AM 65,98 RON
 9/27/2020 11:56:59 AM 65,98 RON
+10/4/2020 7:46:13 PM 65,98 RON

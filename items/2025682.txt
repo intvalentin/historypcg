@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc10i3fnh2
 2025682
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i3fnh2-core-i3-10110u-21ghz-2x-ddr4-64gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/9002/2025682/thumbnails/intel-nuc-barebone-b
 9/21/2020 12:03:33 AM 1.494,98 RON
 9/25/2020 2:18:13 PM 1.519,98 RON
 9/26/2020 4:39:06 PM 1.519,98 RON
+10/2/2020 10:15:24 PM 1.509,98 RON
+10/5/2020 10:23:01 AM 1.509,98 RON

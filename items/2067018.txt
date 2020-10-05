@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktd-pe426e+-+16g
 2067018
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-udimm-ddr4-16gb-2666mhz-cl19-12v-dual-rank/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4917/2067018/thumbnails/ecc-udimm-ddr4-16gb-
 9/21/2020 12:04:41 AM 753,61 RON
 9/25/2020 2:27:03 PM 759,68 RON
 9/26/2020 4:48:05 PM 766,16 RON
+10/3/2020 9:00:38 AM 759,10 RON
+10/5/2020 10:33:23 AM 760,08 RON

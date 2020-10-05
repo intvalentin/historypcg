@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20814
 2066806
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/trust/trust-gxt-262-thumb-grips-8-pack-for-ps4-controllers/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4917/2066806/thumbnails/gxt-262-thumb-grips-
 9/21/2020 8:09:58 AM 27,98 RON
 9/25/2020 2:39:38 PM 27,98 RON
 9/26/2020 5:00:37 PM 27,98 RON
+10/3/2020 10:59:15 AM 27,98 RON
+10/5/2020 10:45:57 AM 27,98 RON

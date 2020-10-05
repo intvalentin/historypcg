@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-psu-83
 1675516
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/2x-sata-male-8-pin-pci-e-female-015m-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1675516/thumbnails/2x-sata-male-8-pi
 9/21/2020 12:10:32 PM 17,98 RON
 9/26/2020 9:27:15 AM 17,98 RON
 9/27/2020 12:33:37 PM 17,98 RON
+10/4/2020 11:07:33 PM 17,98 RON

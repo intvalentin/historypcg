@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2987c026aa
 1907158
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts8251-white-inkjet-color-format-a4-wi-fi-bluetooth-duplex/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1899326/1907158/thumbnails/pixma-ts8251-whit
 9/21/2020 2:31:12 PM 801,98 RON
 9/26/2020 10:07:49 AM 805,98 RON
 9/27/2020 1:26:06 PM 805,98 RON
+10/5/2020 2:24:44 PM 803,98 RON

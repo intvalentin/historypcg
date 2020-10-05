@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo128-ad4a1b0578b253f91e8aae33ba3dbc8b
 1465998
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g460-g460a-g460g-g460l-g465-g465a-g470-g470a-g470ah-g470g/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1461878/1465998/thumbnails/baterie-laptop-le
 9/20/2020 11:19:54 PM 239,98 RON
 9/25/2020 5:54:01 PM 245,98 RON
 9/26/2020 7:35:02 PM 245,98 RON
+10/3/2020 8:34:29 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

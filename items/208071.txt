@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uaps12
 208071
     Product link    
 https://www.pcgarage.ro/cablu-periferice/gembird/2x-ps2-usb-05m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/746930/208071/thumbnails/2x-ps2-usb-05m-22a6
 9/21/2020 11:47:00 AM 13,98 RON
 9/26/2020 9:22:50 AM 13,98 RON
 9/27/2020 12:28:49 PM 13,98 RON
+10/4/2020 10:18:20 PM 29,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e10m20-t1
 2053598
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/e10m20-t1-adaptor-m2-ssd-plus-1x-rj45/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2053598/thumbnails/e10m20-t1-adaptor-m2
 9/22/2020 11:31:40 AM 1.597,28 RON
 9/26/2020 2:33:55 PM 1.603,47 RON
 9/27/2020 6:35:33 PM 1.603,47 RON
+10/5/2020 3:33:32 PM 1.600,37 RON

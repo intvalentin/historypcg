@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-3120-24tc+-+si
 460981
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-3120-24tc-si/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/460981/thumbnails/dgs-3120-24tc-si-8862e1d
 9/22/2020 11:53:14 AM 2.661,77 RON
 9/26/2020 2:50:16 PM 2.669,38 RON
 9/27/2020 6:51:58 PM 2.670,92 RON
+10/5/2020 6:09:50 PM 2.669,17 RON

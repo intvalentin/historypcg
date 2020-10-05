@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac23
 2058706
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-ac23-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058706/thumbnails/gigabit-ac23-dual-ba
 9/22/2020 11:13:28 AM 328,88 RON
 9/26/2020 2:17:36 PM 330,01 RON
 9/27/2020 6:19:19 PM 330,01 RON
+10/5/2020 12:39:06 PM 329,79 RON

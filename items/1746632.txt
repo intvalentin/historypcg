@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c5f96a
 1746632
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-pro-400-m402m-laser-monocrom-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6748/1746632/thumbnails/laserjet-pro-400-m40
 9/21/2020 3:12:41 PM 1.465,98 RON
 9/26/2020 10:24:39 AM 1.471,98 RON
 9/27/2020 1:42:53 PM 1.471,98 RON
+10/5/2020 4:49:44 PM 1.469,98 RON

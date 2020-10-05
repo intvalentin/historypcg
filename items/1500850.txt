@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco150-53f988115c3679076e30edc0e93b3a43
 1500850
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-15-ab002nia/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/978807/1500850/thumbnails/baterie-laptop-hp-
 9/20/2020 11:12:24 PM 231,98 RON
 9/25/2020 3:55:11 PM 235,98 RON
 9/26/2020 5:55:01 PM 235,98 RON
+10/3/2020 5:34:45 PM 233,98 RON
+10/5/2020 11:18:00 AM 233,98 RON

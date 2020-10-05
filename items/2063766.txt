@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v272unt-ba094t
 2063766
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/v272unt-27-inch-fhd-touchscreen-procesor-intel-core-i5-8250u-16ghz-kaby-lake-r-8gb-ram-512gb-ssd-plus-1tb-hdd-geforce-mx150-2gb-camera-web-win-10-home/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5664/2063766/thumbnails/27-v272unk-fhd-proce
 9/21/2020 12:02:56 AM 5.499,98 RON
 9/25/2020 2:03:26 PM 5.499,98 RON
 9/26/2020 4:31:44 PM 5.499,98 RON
+10/2/2020 9:01:29 PM 5.499,98 RON
+10/5/2020 10:15:36 AM 5.499,98 RON

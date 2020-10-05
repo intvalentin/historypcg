@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0001
 1047232
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/vga-male-vga-male-18m-ecranat-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1047232/thumbnails/vga-male-vga-male-
 9/21/2020 10:38:24 AM 31,98 RON
 9/26/2020 9:09:43 AM 31,98 RON
 9/27/2020 12:16:50 PM 31,98 RON
+10/4/2020 8:22:59 PM 31,98 RON

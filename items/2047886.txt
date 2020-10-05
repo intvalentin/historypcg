@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n014o7070sff
 2047886
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-sff-procesor-intel-core-i7-9700-30ghz-coffee-lake-16gb-ram-512gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1990366/2047886/thumbnails/optiplex-7070-sff
 9/21/2020 12:02:20 AM 5.579,98 RON
 9/25/2020 1:57:30 PM 5.579,98 RON
 9/26/2020 4:25:50 PM 5.589,98 RON
+10/2/2020 8:33:40 PM 5.589,98 RON
+10/5/2020 10:11:20 AM 5.589,98 RON

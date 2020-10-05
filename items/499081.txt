@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asurf-001
 499081
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/kit-prindere-surf-hero/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/499081/thumbnails/kit-prindere-surf-hero-e
 9/22/2020 5:34:19 PM 149,00 RON
 9/26/2020 6:44:13 PM 149,00 RON
 9/28/2020 8:26:20 AM 149,00 RON
+10/5/2020 5:12:32 PM 149,00 RON

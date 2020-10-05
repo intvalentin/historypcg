@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w7u01a
 1715516
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-mfp-m436n-laser-monocrom-format-a3-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691852/1715516/thumbnails/laserjet-mfp-m436
 9/21/2020 2:02:04 PM 2.125,98 RON
 9/26/2020 10:03:24 AM 2.131,98 RON
 9/27/2020 1:21:32 PM 2.131,98 RON
+10/5/2020 1:05:40 PM 2.133,98 RON

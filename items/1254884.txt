@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hx1ee.001
 1254884
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-predator-xb1-xb271hk-27-inch-4k-4ms-black-red-g-sync-75hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/859765/1254884/thumbnails/predator-xb271hu-2
 9/21/2020 8:17:37 AM 3.483,98 RON
 9/25/2020 10:07:55 PM 3.495,98 RON
 9/27/2020 10:09:05 AM 3.495,98 RON
+10/2/2020 9:02:30 PM 3.493,98 RON
+10/4/2020 4:35:01 PM 3.493,98 RON
+10/5/2020 1:07:39 PM 3.493,98 RON

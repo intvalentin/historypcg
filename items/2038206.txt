@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru23331
 2038206
     Product link    
 https://www.pcgarage.ro/docking-stations/trust/dalyx-aluminium-7-in-1-usb-c/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2034042/2038206/thumbnails/dalyx-aluminium-7
 9/20/2020 11:39:43 PM 240,62 RON
 9/25/2020 8:46:19 PM 240,62 RON
 9/26/2020 10:45:47 PM 240,62 RON
+10/3/2020 8:42:49 PM 240,62 RON
+10/5/2020 11:28:52 AM 240,62 RON

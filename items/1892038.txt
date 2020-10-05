@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0077
 1892038
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/displayport-male-displayport-male-12-10m-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1275/1892038/thumbnails/displayport-male-dis
 9/21/2020 10:39:28 AM 159,98 RON
 9/26/2020 9:01:34 AM 159,98 RON
 9/27/2020 11:55:31 AM 159,98 RON
+10/4/2020 8:08:52 PM 159,98 RON

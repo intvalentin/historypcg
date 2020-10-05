@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc-189-vde-3m
 240669
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/cablu-alimentare-prelungitor-3-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/240669/thumbnails/cablu-alimentare-prelung
 9/21/2020 12:06:24 PM 23,99 RON
 9/26/2020 9:25:46 AM 23,99 RON
 9/27/2020 12:32:00 PM 23,99 RON
+10/4/2020 10:55:01 PM 16,79 RON

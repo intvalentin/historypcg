@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc10i3fnk2
 2025686
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc10i3fnk2-core-i3-10110u-21ghz-2x-ddr4-64gb-max-m2-ssd-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/9002/2025686/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:28 AM 1.494,98 RON
 9/25/2020 2:16:45 PM 1.519,98 RON
 9/26/2020 4:37:35 PM 1.519,98 RON
+10/2/2020 10:03:52 PM 1.469,98 RON
+10/5/2020 10:21:32 AM 1.469,98 RON

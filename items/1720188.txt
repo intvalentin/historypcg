@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cset1-us
 1720188
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/canyon/cne-cset1-us-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1692296/1720188/thumbnails/cne-cset1-us-blac
 9/21/2020 10:04:16 AM 29,98 RON
 9/26/2020 8:40:00 AM 29,98 RON
 9/27/2020 11:33:48 AM 29,98 RON
+10/3/2020 10:14:32 PM 29,98 RON
+10/5/2020 3:03:23 PM 29,98 RON

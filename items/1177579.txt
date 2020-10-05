@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f6w13a
 1177579
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-m426dw-laser-monocrom-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/1177579/thumbnails/laserjet-pro-m426d
 9/21/2020 2:37:25 PM 1.697,98 RON
 9/26/2020 10:12:16 AM 1.703,98 RON
 9/27/2020 1:30:55 PM 1.703,98 RON
+10/5/2020 2:46:49 PM 1.701,98 RON

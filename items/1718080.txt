@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90hu001cri
 1718080
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/ideacentre-510-15icb-procesor-intel-core-i3-8100-36ghz-coffee-lake-4gb-ddr4-1tb-hdd-gma-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1691852/1718080/thumbnails/ideacentre-510-15
 9/21/2020 12:02:24 AM 1.909,98 RON
 9/25/2020 2:01:57 PM 1.909,98 RON
 9/26/2020 4:30:15 PM 1.919,98 RON
+10/2/2020 8:06:16 PM 1.919,98 RON
+10/5/2020 10:08:23 AM 1.919,98 RON

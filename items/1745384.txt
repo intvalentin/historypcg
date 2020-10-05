@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2x4114_4x32_8x600
 1745384
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl380-gen10-rack-2u-2x-procesor-intel-xeon-silver-4114-22ghz-skylake-4x-32gb-rdimm-ddr4-8x-600gb-sas-sff-25-inch-smart-array-p408i-a/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1691840/1745384/thumbnails/proliant-dl380-ge
 9/21/2020 12:04:14 AM 45.568,61 RON
 9/25/2020 2:22:38 PM 45.699,93 RON
 9/26/2020 4:43:36 PM 45.726,19 RON
+10/3/2020 8:27:01 AM 45.696,17 RON
+10/5/2020 10:28:53 AM 45.696,17 RON

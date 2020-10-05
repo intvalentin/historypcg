@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3801b003aa
 1022581
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-6010c-scanner-format-a4-adf-duplex-usb-20/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/1022581/thumbnails/dr-6010c-scanner-f
 9/22/2020 10:44:49 AM 12.121,98 RON
 9/26/2020 2:02:55 PM 12.151,98 RON
 9/27/2020 5:10:11 PM 12.159,98 RON
+10/5/2020 10:27:01 AM 12.151,98 RON

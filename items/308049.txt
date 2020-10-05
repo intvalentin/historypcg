@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1427a
 308049
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-glossy-photo-914-mm-x-305-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/308049/thumbnails/universal-glossy-photo-9
 9/22/2020 10:34:06 AM 477,98 RON
 9/26/2020 1:56:22 PM 479,98 RON
 9/27/2020 5:04:16 PM 479,98 RON
+10/5/2020 9:29:53 AM 479,98 RON

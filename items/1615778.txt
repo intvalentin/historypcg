@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx80677e31245v6sr32b
 1615778
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e3-1245-v6-37ghz-box/
@@ -8,3 +8,5 @@ Intel Xeon Quad-Core E3-1245 v6 3.7GHz, box
 https://3.grgs.ro/images/products/1/1190677/1615778/thumbnails/xeon-quad-core-e3-1245-v5-35ghz-box-1b6ba0269a0339d029b25c4d11cbe069.jpg
     Pret    
 9/21/2020 12:04:21 AM 1.779,81 RON
+10/3/2020 8:36:30 AM 1.804,97 RON
+10/5/2020 10:30:23 AM 1.804,97 RON

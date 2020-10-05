@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-ra-01
 1523786
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/sports-dv-fitting/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1505170/1523786/thumbnails/sports-dv-fitting
 9/22/2020 5:32:01 PM 110,26 RON
 9/26/2020 6:40:31 PM 112,00 RON
 9/28/2020 8:22:37 AM 112,00 RON
+10/5/2020 4:46:27 PM 111,14 RON

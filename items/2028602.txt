@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0eb00ftri
 2028602
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a340-22iwl-22-inch-fhd-procesor-intel-core-i3-10110u-21ghz-comet-lake-4gb-ddr4-1tb-hdd-plus-128gb-ssd-uhd-graphics-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6166/2028602/thumbnails/22-quot-f0eb006xri-f
 9/21/2020 12:03:01 AM 2.679,98 RON
 9/25/2020 2:12:19 PM 2.679,98 RON
 9/26/2020 4:33:13 PM 2.689,98 RON
+10/2/2020 9:08:28 PM 2.689,98 RON
+10/5/2020 10:17:04 AM 2.689,98 RON

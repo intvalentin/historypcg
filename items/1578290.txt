@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st600mp0006
 1578290
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/enterprise-performance-15k-hdd-25-inch-600gb-15000rpm-256mb-12gb-s-sas/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1475558/1578290/thumbnails/exos-performance-
 9/21/2020 12:05:14 AM 1.207,42 RON
 9/25/2020 2:34:30 PM 1.223,83 RON
 9/26/2020 4:55:30 PM 1.234,27 RON
+10/3/2020 9:58:15 AM 1.205,75 RON
+10/5/2020 10:37:52 AM 1.224,49 RON

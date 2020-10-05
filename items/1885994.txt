@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297407ba01a12
 1885994
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/captivate-for-teams-1-user-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1798/1885994/thumbnails/captivate-for-teams-
 9/21/2020 1:53:54 PM 2.579,60 RON
 9/26/2020 9:59:43 AM 2.588,52 RON
 9/27/2020 1:08:46 PM 2.588,52 RON
+10/5/2020 12:12:01 PM 2.586,82 RON

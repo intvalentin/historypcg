@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-108
 358349
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-108/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/358349/thumbnails/dgs-108-292ca9f267b4bea8
 9/22/2020 11:33:48 AM 108,99 RON
 9/26/2020 2:35:24 PM 108,99 RON
 9/27/2020 6:37:04 PM 108,99 RON
+10/5/2020 4:09:31 PM 116,01 RON

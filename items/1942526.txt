@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pawi001
 1942526
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/pa-wi001-adaptor-wireless/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/1942526/thumbnails/pa-wi001-adaptor-wir
 9/22/2020 11:00:39 AM 401,98 RON
 9/26/2020 2:11:00 PM 403,98 RON
 9/27/2020 6:12:41 PM 403,98 RON
+10/5/2020 11:32:06 AM 403,98 RON

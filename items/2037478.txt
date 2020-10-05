@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r407640
 2037478
     Product link    
 https://www.pcgarage.ro/cartuse-ricoh/ricoh/toner-sp-c310a-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3041/2037478/thumbnails/toner-sp-c310a-magen
 9/21/2020 11:01:28 PM 560,76 RON
 9/26/2020 1:20:47 PM 560,76 RON
 9/27/2020 4:22:03 PM 560,76 RON
+10/4/2020 7:53:35 PM 560,76 RON

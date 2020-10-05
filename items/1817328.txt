@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lte3302-m432-eu01v1f
 1817328
     Product link    
 https://www.pcgarage.ro/routere-wireless/zyxel/lte3302-m432/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/753/1817328/thumbnails/lte3302-m432-7e9ae208
 9/22/2020 11:14:32 AM 611,02 RON
 9/26/2020 2:23:34 PM 613,40 RON
 9/27/2020 6:25:13 PM 613,40 RON
+10/5/2020 2:25:02 PM 612,21 RON

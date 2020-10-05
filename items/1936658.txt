@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3gy16a
 1936658
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-managed-e62665h-monocrom-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2554/1936658/thumbnails/laserjet-managed-e62
 9/21/2020 2:10:21 PM 14.645,98 RON
 9/26/2020 10:01:54 AM 14.695,98 RON
 9/27/2020 1:11:11 PM 14.661,98 RON
+10/5/2020 1:20:17 PM 14.685,98 RON

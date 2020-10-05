@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |min22043
 245761
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-8938707-magenta/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/245761/thumbnails/toner-magenta-tn-312m-3e
 9/22/2020 10:11:34 AM 225,98 RON
 9/26/2020 1:39:22 PM 227,98 RON
 9/27/2020 4:47:18 PM 225,98 RON
+10/4/2020 10:56:19 PM 227,98 RON

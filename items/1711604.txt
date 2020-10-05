@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f2a76a
 1711604
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-m527dn-laser-monocrom-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1703884/1711604/thumbnails/laserjet-enterpri
 9/21/2020 2:43:39 PM 6.785,98 RON
 9/26/2020 10:10:03 AM 6.809,98 RON
 9/27/2020 1:28:31 PM 6.809,98 RON
+10/5/2020 3:09:08 PM 6.803,98 RON

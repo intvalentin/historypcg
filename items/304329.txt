@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm45040
 304329
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/cablu-usb-20-m-usb-20-f-3m-shielded-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/304329/thumbnails/cablu-usb-20-m-usb-20-f-
 9/21/2020 11:51:10 AM 35,98 RON
 9/26/2020 9:22:06 AM 35,98 RON
 9/27/2020 12:28:00 PM 35,98 RON
+10/4/2020 10:22:17 PM 35,98 RON

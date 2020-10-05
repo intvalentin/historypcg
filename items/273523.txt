@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m7j-00015
 273523
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/microsoft/desktop-media-2000/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4/273523/thumbnails/desktop-media-2000-ef2af
 9/21/2020 10:04:16 AM 211,98 RON
 9/26/2020 8:40:44 AM 213,98 RON
 9/27/2020 11:34:33 AM 213,98 RON
+10/3/2020 10:10:38 PM 213,98 RON
+10/5/2020 3:03:22 PM 213,98 RON

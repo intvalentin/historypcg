@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp153-c80934252de96c5ce5bb8e0c479ac10d
 1465094
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-420-425-4320t-620-625/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/978807/1465094/thumbnails/baterie-laptop-hp-
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 4:01:57 PM 235,98 RON
 9/26/2020 6:01:47 PM 235,98 RON
+10/3/2020 5:27:33 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

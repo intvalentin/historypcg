@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg030
 2028414
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/spcgear/taste-kc104-pudding-dbl-shot-pbt/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/8840/2028414/thumbnails/taste-kc104-pudding-
 9/21/2020 8:10:02 AM 141,98 RON
 9/25/2020 2:41:52 PM 141,98 RON
 9/26/2020 5:02:49 PM 141,98 RON
+10/3/2020 11:11:53 AM 141,98 RON
+10/5/2020 10:47:27 AM 141,98 RON

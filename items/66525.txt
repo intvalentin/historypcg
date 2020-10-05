@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |018c2190e
 66525
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/cartus-36xla-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/66525/thumbnails/36xla-black-high-yield-pr
 9/21/2020 10:39:58 PM 229,98 RON
 9/26/2020 1:11:13 PM 229,98 RON
 9/27/2020 4:12:27 PM 229,98 RON
+10/4/2020 5:41:16 PM 229,98 RON

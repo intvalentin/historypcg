@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer c2 3ant
 858638
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/tp-link-archer-c2-ac750-wireless-dual-band-gigabit-router/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/858638/thumbnails/gigabit-archer-c2-d
 9/22/2020 11:17:46 AM 188,64 RON
 9/26/2020 2:25:03 PM 191,62 RON
 9/27/2020 6:26:43 PM 191,62 RON
+10/5/2020 2:12:38 PM 190,14 RON

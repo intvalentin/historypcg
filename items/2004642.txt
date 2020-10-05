@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bm009dri
 2004642
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-core-i3-9100-360ghz-coffee-lake-8gb-ddr4-512-gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3442/2004642/thumbnails/v530s-procesor-intel
 9/21/2020 12:01:59 AM 2.698,98 RON
 9/25/2020 1:54:35 PM 2.698,98 RON
 9/26/2020 4:22:53 PM 2.698,98 RON
+10/2/2020 7:29:25 PM 2.698,98 RON
+10/5/2020 10:04:36 AM 2.698,98 RON

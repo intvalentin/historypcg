@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mb169c+
 1505242
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/mb169c-plus-156-inch-5-ms-black-silver/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1427586/1505242/thumbnails/mb169c-plus-156-i
 9/21/2020 8:15:29 AM 1.331,98 RON
 9/25/2020 10:04:55 PM 1.181,98 RON
 9/27/2020 10:05:54 AM 1.181,98 RON
+10/2/2020 8:08:08 PM 1.181,98 RON
+10/3/2020 11:12:51 PM 1.181,98 RON
+10/5/2020 12:58:11 PM 1.181,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |map-ac1750(2-pk)
 1826376
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-lyra-dual-band-2-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1826376/thumbnails/gigabit-lyra-dual-ba
 9/22/2020 11:14:32 AM 1.078,09 RON
 9/26/2020 2:19:50 PM 1.081,20 RON
 9/27/2020 6:21:33 PM 1.094,70 RON
+10/5/2020 1:15:46 PM 1.415,74 RON

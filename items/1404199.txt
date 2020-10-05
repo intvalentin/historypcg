@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad7200(eu)
 1404199
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/talon-ad7200-tri-band-80211ad/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/1404199/thumbnails/talon-ad7200-tri-b
 9/22/2020 11:20:59 AM 1.189,99 RON
 9/26/2020 2:24:19 PM 1.189,99 RON
 9/27/2020 6:25:59 PM 1.189,99 RON
+10/5/2020 2:31:36 PM 1.189,99 RON

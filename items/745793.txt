@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q8749a
 745793
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/premium-vivid-colour-backlit-film-1372-mm-x-305-m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/745793/thumbnails/premium-vivid-colou
 9/22/2020 10:36:15 AM 1.497,98 RON
 9/26/2020 1:54:52 PM 1.503,98 RON
 9/27/2020 5:02:47 PM 1.503,98 RON
+10/5/2020 9:42:45 AM 1.501,98 RON

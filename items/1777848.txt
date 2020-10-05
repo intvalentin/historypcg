@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r03511
 1777848
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r03511-magenta/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1777848/thumbnails/toner-106r03511-magen
 9/22/2020 9:57:35 AM 565,98 RON
 9/26/2020 1:26:45 PM 567,98 RON
 9/27/2020 4:28:01 PM 567,98 RON
+10/4/2020 9:22:07 PM 567,98 RON

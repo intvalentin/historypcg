@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |33341a
 1485958
     Product link    
 https://www.pcgarage.ro/cabluri-componente/inline/4-pin-molex-male-4x-3-pin-fan-male/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427586/1485958/thumbnails/4-pin-molex-male-
 9/21/2020 12:10:32 PM 29,98 RON
 9/26/2020 9:27:15 AM 29,98 RON
 9/27/2020 12:33:37 PM 29,98 RON
+10/4/2020 11:10:35 PM 29,98 RON

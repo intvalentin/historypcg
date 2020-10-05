@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthg4000400
 1817128
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/mobile-drive-4tb-usb-c/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/753/1817128/thumbnails/mobile-drive-4tb-usb-
 9/21/2020 8:18:37 AM 679,98 RON
 9/25/2020 10:16:42 PM 699,98 RON
 9/27/2020 10:18:47 AM 699,98 RON
+10/2/2020 10:31:28 PM 689,98 RON
+10/5/2020 1:17:12 PM 689,98 RON

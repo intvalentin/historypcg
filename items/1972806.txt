@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dl380_4210_32gb_f800w
 1972806
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl380-gen10-rack-2u-procesor-intel-xeon-silver-4210-22ghz-cascade-lake-32gb-rdimm-ddr4-smart-array-p408i-a-sr-2x-800w-3yr-nbd/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8977/1972806/thumbnails/proliant-dl380-gen10
 9/21/2020 12:04:06 AM 11.613,76 RON
 9/25/2020 2:21:53 PM 11.647,23 RON
 9/26/2020 4:42:51 PM 11.653,92 RON
+10/2/2020 10:55:06 PM 11.646,27 RON
+10/5/2020 10:27:25 AM 11.646,27 RON

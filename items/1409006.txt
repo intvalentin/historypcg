@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gb-bace-3160
 1409006
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/gigabyte/brix-braswell-celeron-j3160-16ghz-1x-ddr3-8gb-max-hdd-25-inch-wi-fi-bluetooth-hdmi-vga-usb-30-microsd/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1263508/1409006/thumbnails/brix-braswell-cel
 9/21/2020 12:03:33 AM 574,98 RON
 9/25/2020 2:19:41 PM 584,98 RON
 9/26/2020 4:38:19 PM 599,98 RON
+10/2/2020 10:02:28 PM 584,98 RON
+10/5/2020 10:21:32 AM 584,98 RON

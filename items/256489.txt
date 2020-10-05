@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-ac603
 256489
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-ib-ac603-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/256489/thumbnails/icy-box-ib-ac603-white-7
 9/21/2020 10:24:23 AM 61,98 RON
 9/26/2020 8:55:37 AM 63,98 RON
 9/27/2020 11:49:32 AM 63,98 RON
+10/4/2020 5:08:18 PM 61,98 RON

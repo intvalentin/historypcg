@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.kx1ee.f01
 1624022
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-kg251qf-245-inch-1ms-black-red-freesync-144hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/5633/1624022/thumbnails/gaming-kg251qf-245-i
 9/21/2020 8:17:11 AM 1.149,99 RON
 9/25/2020 10:04:10 PM 1.149,99 RON
 9/27/2020 10:05:06 AM 1.149,99 RON
+10/2/2020 8:06:29 PM 1.149,99 RON
+10/3/2020 11:12:51 PM 1.149,99 RON
+10/5/2020 12:58:11 PM 1.149,99 RON

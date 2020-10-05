@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2165c001aa
 1781972
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-049-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1781972/thumbnails/drum-049-black-c1ee5
 9/21/2020 3:53:17 PM 363,98 RON
 9/26/2020 10:30:34 AM 365,98 RON
 9/27/2020 1:48:23 PM 363,98 RON
+10/5/2020 5:55:33 PM 363,98 RON

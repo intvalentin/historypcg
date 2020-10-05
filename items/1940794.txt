@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j8a11a
 1940794
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-m681f-laser-color-format-a4-retea-fax-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6835/1940794/thumbnails/laserjet-enterprise-
 9/21/2020 2:47:47 PM 20.209,98 RON
 9/26/2020 10:07:05 AM 20.279,98 RON
 9/27/2020 1:25:18 PM 20.279,98 RON
+10/5/2020 3:23:31 PM 20.267,98 RON

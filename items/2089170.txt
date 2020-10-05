@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg279qm
 2089170
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gamign-tuf-vg279qm-27-inch-1-ms-negru-g-sync-compatible-280-hz-oc/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/7008/2089170/thumbnails/gamign-tuf-vg279qm-2
 9/21/2020 8:16:01 AM 2.539,98 RON
 9/25/2020 9:43:31 PM 2.547,98 RON
 9/27/2020 9:39:15 AM 2.547,98 RON
+10/3/2020 10:43:32 PM 2.547,98 RON
+10/5/2020 12:45:34 PM 2.547,98 RON

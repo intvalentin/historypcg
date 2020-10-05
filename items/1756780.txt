@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs510tlp-100eus
 1756780
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-gs510tlp/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1756780/thumbnails/gigabit-gs510tlp-
 9/22/2020 11:42:26 AM 1.049,52 RON
 9/26/2020 2:39:52 PM 1.053,66 RON
 9/27/2020 6:41:31 PM 1.053,66 RON
+10/5/2020 5:02:23 PM 1.051,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx80621e54603
 468405
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-quad-core-e5-4603-2ghz/
@@ -8,3 +8,5 @@ Intel Xeon Quad-Core E5-4603 2.0GHz, box
 https://3.grgs.ro/images/products/1/5/468405/thumbnails/xeon-quad-core-e5-4603-20ghz-box-10416a1e6ec1bd0c191300efd87bd473.jpg
     Pret    
 9/21/2020 12:04:22 AM 3.359,97 RON
+10/3/2020 8:40:02 AM 3.407,45 RON
+10/5/2020 10:30:23 AM 3.407,45 RON

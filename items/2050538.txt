@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp60pa
 2050538
     Product link    
 https://www.pcgarage.ro/hartie/brother/simpla-a4-25-coli/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2050538/thumbnails/simpla-a4-25-coli-50
 9/22/2020 10:21:11 AM 30,98 RON
 9/26/2020 1:45:59 PM 31,98 RON
 9/27/2020 4:53:56 PM 31,98 RON
+10/4/2020 11:58:33 PM 31,98 RON

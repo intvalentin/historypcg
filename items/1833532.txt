@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mus-6b-01
 1833532
     Product link    
 https://www.pcgarage.ro/mouse/gembird/mus-6b-01-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/5631/1833532/thumbnails/mus-6b-01-black-b563
 9/21/2020 8:22:55 AM 11,98 RON
 9/26/2020 8:19:48 AM 11,98 RON
 9/27/2020 11:13:33 AM 11,98 RON
+10/3/2020 4:59:04 PM 11,98 RON
+10/5/2020 2:38:22 PM 11,98 RON

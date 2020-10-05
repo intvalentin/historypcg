@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg1024
 66255
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sg1024/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/66255/thumbnails/gigabit-tl-sg1024-1232d46
 9/22/2020 11:35:57 AM 464,10 RON
 9/26/2020 2:43:34 PM 420,77 RON
 9/27/2020 6:45:16 PM 420,77 RON
+10/5/2020 4:42:37 PM 420,77 RON

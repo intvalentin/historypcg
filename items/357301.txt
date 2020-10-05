@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st0024z
 357301
     Product link    
 https://www.pcgarage.ro/rack-uri/thermaltake/silver-river-5g-25-inch/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/357301/thumbnails/silver-river-5g-25-inch-
 9/21/2020 10:29:47 AM 149,98 RON
 9/26/2020 8:59:19 AM 153,98 RON
 9/27/2020 11:53:15 AM 153,98 RON
+10/4/2020 6:57:45 PM 151,98 RON

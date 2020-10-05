@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44973508
 820430
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/toner-44973508-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/820430/thumbnails/toner-44973508-blac
 9/21/2020 10:56:07 PM 549,98 RON
 9/26/2020 1:16:22 PM 553,98 RON
 9/27/2020 4:17:37 PM 553,98 RON
+10/4/2020 7:24:57 PM 551,98 RON

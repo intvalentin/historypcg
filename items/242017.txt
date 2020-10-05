@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a06v152
 242017
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a06v152-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/242017/thumbnails/toner-black-a06v152-b126
 9/22/2020 10:13:43 AM 361,98 RON
 9/26/2020 1:42:20 PM 355,98 RON
 9/27/2020 4:50:16 PM 355,98 RON
+10/4/2020 11:12:35 PM 357,98 RON

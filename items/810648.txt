@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm_sys-6027r-trf
 810648
     Product link    
 https://www.pcgarage.ro/servere/supermicro/superserver-6027r-trf-rack-2u-socket-1150-16x-ddr3-dimm-8x-hdd-35-inch-hot-plug/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/750014/810648/thumbnails/superserver-6027r-t
 9/21/2020 12:04:01 AM 6.339,34 RON
 9/25/2020 2:24:07 PM 6.425,53 RON
 9/26/2020 4:45:04 PM 6.480,30 RON
+10/2/2020 10:47:47 PM 6.420,72 RON
+10/5/2020 10:26:41 AM 6.428,93 RON

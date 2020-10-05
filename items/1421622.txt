@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3345v_dni
 1421622
     Product link    
 https://www.pcgarage.ro/multifunctionale/xerox/workcentre-3345dni-laser-monocrom-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1173769/1421622/thumbnails/workcentre-3345dn
 9/21/2020 1:55:57 PM 1.705,98 RON
 9/26/2020 10:12:16 AM 1.711,98 RON
 9/27/2020 1:30:55 PM 1.711,98 RON
+10/5/2020 2:47:39 PM 1.711,98 RON

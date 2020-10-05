@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0010
 1097374
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-20-male-usb-20-female-2m-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/255443/1097374/thumbnails/cu0010-1dea8d51ba7
 9/21/2020 11:55:19 AM 7,98 RON
 9/26/2020 9:24:19 AM 7,98 RON
 9/27/2020 12:30:23 PM 7,98 RON
+10/4/2020 9:56:58 PM 15,98 RON

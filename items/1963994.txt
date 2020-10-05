@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3515c004aa
 1963994
     Product link    
 https://www.pcgarage.ro/imprimante/canon/i-sensys-lbp325x-laser-monocrom-format-a4-duplex-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1963994/thumbnails/i-sensys-lbp325x-
 9/21/2020 3:14:46 PM 2.467,98 RON
 9/26/2020 10:22:25 AM 2.477,98 RON
 9/27/2020 1:39:40 PM 2.471,98 RON
+10/5/2020 4:57:10 PM 2.475,98 RON

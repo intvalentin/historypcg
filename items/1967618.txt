@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7pg56ea
 1967618
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/prodesk-400-g6-tower-procesor-intel-core-i7-9700-300ghz-coffee-lake-16gb-ddr4-512gb-ssd-radeon-r7-430-2gb-win-10-pro/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8977/1967618/thumbnails/prodesk-400-g6-tower
 9/21/2020 12:02:03 AM 4.629,98 RON
 9/25/2020 1:56:45 PM 4.499,98 RON
 9/26/2020 4:25:05 PM 4.509,98 RON
+10/2/2020 7:56:14 PM 4.859,98 RON
+10/5/2020 10:07:38 AM 4.799,98 RON

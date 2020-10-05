@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004291, 910-004287
 935977
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m280-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/255443/935977/thumbnails/m280-black-4b67b6b4
 9/21/2020 8:22:35 AM 106,18 RON
 9/26/2020 8:17:33 AM 106,18 RON
 9/27/2020 11:16:34 AM 106,18 RON
+10/3/2020 5:43:57 PM 106,18 RON
+10/5/2020 2:43:57 PM 139,98 RON

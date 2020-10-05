@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d9l20a
 1617230
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/officejet-pro-8730-e-all-in-one-inkjet-color-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1605610/1617230/thumbnails/officejet-pro-873
 9/21/2020 2:37:25 PM 1.543,98 RON
 9/26/2020 10:04:08 AM 1.547,98 RON
 9/27/2020 1:22:16 PM 1.545,98 RON
+10/5/2020 12:57:03 PM 1.547,98 RON

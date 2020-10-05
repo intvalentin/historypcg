@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ar3104
 89389
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/apc/netshelter-sx-24u/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4/89389/thumbnails/netshelter-sx-24u-f36a931
 9/21/2020 12:05:33 AM 7.966,12 RON
 9/25/2020 2:37:24 PM 7.975,79 RON
 9/26/2020 4:58:23 PM 7.989,08 RON
+10/3/2020 10:27:10 AM 7.988,91 RON
+10/5/2020 10:42:16 AM 7.988,43 RON

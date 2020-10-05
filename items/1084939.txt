@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tvs-871u-rp-i3-4g
 1084939
     Product link    
 https://www.pcgarage.ro/nas/qnap/tvs-871u-rp-i3-4-gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/1084939/thumbnails/tvs-871u-rp-i5-8-g
 9/22/2020 11:29:33 AM 10.088,27 RON
 9/26/2020 2:32:28 PM 10.122,95 RON
 9/27/2020 6:34:05 PM 10.122,95 RON
+10/5/2020 3:24:10 PM 10.116,30 RON

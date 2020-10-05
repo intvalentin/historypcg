@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |711944
 1437278
     Product link    
 https://www.pcgarage.ro/cabinete-metalice/intellinet/711944-15u-wall-mount-770-x-570-glass-door-gri/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1358815/1437278/thumbnails/711944-15u-wall-m
 9/21/2020 12:05:31 AM 660,77 RON
 9/25/2020 2:36:41 PM 662,68 RON
 9/26/2020 4:57:41 PM 663,06 RON
+10/3/2020 10:20:59 AM 662,62 RON
+10/5/2020 10:41:33 AM 662,62 RON

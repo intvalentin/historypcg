@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fc1005
 1620694
     Product link    
 https://www.pcgarage.ro/merchandise-csgo/fadecase/karambit-elite-free-hand/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1605610/1620694/thumbnails/karambit-elite-fr
 9/21/2020 8:10:21 AM 233,98 RON
 9/25/2020 2:44:05 PM 233,98 RON
 9/26/2020 5:05:03 PM 233,98 RON
+10/3/2020 11:19:35 AM 233,98 RON
+10/5/2020 10:48:56 AM 233,98 RON

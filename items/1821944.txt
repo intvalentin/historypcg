@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdmi_micro
 1821944
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/cablu-hdmi-male-microhdmi-male-15m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5147/1821944/thumbnails/hdmi_micro-a2a620be3
 9/22/2020 5:31:26 PM 34,31 RON
 9/26/2020 6:39:44 PM 34,31 RON
 9/28/2020 8:21:52 AM 34,31 RON
+10/5/2020 4:38:59 PM 34,31 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u81-00090
 1041062
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/optical-mouse-500-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/960827/1041062/thumbnails/optical-mouse-500-
 9/21/2020 8:22:39 AM 46,19 RON
 9/26/2020 8:16:48 AM 46,19 RON
 9/27/2020 11:10:32 AM 46,19 RON
+10/3/2020 4:47:09 PM 41,57 RON
+10/5/2020 2:36:55 PM 41,57 RON

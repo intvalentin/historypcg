@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fh303
 784592
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/fh303/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/784592/thumbnails/fh303-a61682a9cd66e
 9/22/2020 11:17:46 AM 101,30 RON
 9/26/2020 2:25:48 PM 102,90 RON
 9/27/2020 6:27:28 PM 102,90 RON
+10/5/2020 1:27:03 PM 102,11 RON

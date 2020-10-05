@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |11bm0098ri
 2004654
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/v530s-procesor-intel-core-i5-9400-290ghz-coffee-lake-8gb-ddr4-512-gb-ssd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/3442/2004654/thumbnails/v530s-procesor-intel
 9/21/2020 12:02:03 AM 2.389,98 RON
 9/25/2020 1:56:02 PM 2.389,98 RON
 9/26/2020 4:24:21 PM 2.389,98 RON
+10/2/2020 7:32:43 PM 2.389,98 RON
+10/5/2020 10:04:53 AM 2.389,98 RON

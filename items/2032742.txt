@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |czv-00080
 2032742
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/bluetooth-arc-touch-red/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/3041/2032742/thumbnails/bluetooth-arc-touch-
 9/21/2020 8:22:55 AM 349,98 RON
 9/26/2020 8:18:19 AM 351,98 RON
 9/27/2020 11:12:03 AM 351,98 RON
+10/3/2020 5:58:33 PM 351,98 RON
+10/5/2020 2:45:23 PM 351,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s041264
 744679
     Product link    
 https://www.pcgarage.ro/hartie/epson/matte-a3-plus-50-coli/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/744679/thumbnails/matte-a3-plus-50-co
 9/22/2020 10:27:39 AM 275,98 RON
 9/26/2020 1:49:42 PM 275,98 RON
 9/27/2020 4:57:38 PM 276,98 RON
+10/5/2020 8:36:09 AM 275,98 RON

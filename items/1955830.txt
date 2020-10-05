@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ha300-bk
 1955830
     Product link    
 https://www.pcgarage.ro/accesorii-gaming/redragon/stand-spectre-pro-rgb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1953966/1955830/thumbnails/stand-spectre-pro
 9/21/2020 8:09:54 AM 99,99 RON
 9/25/2020 2:40:23 PM 99,99 RON
 9/26/2020 5:01:21 PM 99,99 RON
+10/3/2020 10:51:23 AM 99,99 RON
+10/5/2020 10:45:12 AM 99,99 RON

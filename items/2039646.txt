@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs110-24p-hw-eu
 2039646
     Product link    
 https://www.pcgarage.ro/switch-uri/meraki-go/gigabit-gs110-24p-hw/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039646/thumbnails/gigabit-gs110-24-
 9/22/2020 11:45:40 AM 2.499,29 RON
 9/26/2020 2:36:09 PM 2.538,70 RON
 9/27/2020 6:37:48 PM 2.538,70 RON
+10/5/2020 5:19:03 PM 2.519,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |g1w46a
 1746696
     Product link    
 https://www.pcgarage.ro/imprimante/hp/pagewide-enterprise-m556dn-format-a4-retea-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1737700/1746696/thumbnails/color-laserjet-en
 9/21/2020 3:18:55 PM 3.815,98 RON
 9/26/2020 10:24:39 AM 3.829,98 RON
 9/27/2020 1:42:04 PM 3.819,98 RON
+10/5/2020 5:06:41 PM 3.825,98 RON

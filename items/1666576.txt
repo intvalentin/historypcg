@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0d50099ri
 1666576
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/215-ideacentre-520-fhd-touch-procesor-intel-core-i3-6006u-20ghz-skylake-4gb-1tb-gma-hd-520-win-10-home/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1573/1666576/thumbnails/215-ideacentre-520-f
 9/21/2020 12:03:10 AM 3.379,98 RON
 9/25/2020 2:14:33 PM 3.379,98 RON
 9/26/2020 4:35:27 PM 3.389,98 RON
+10/2/2020 9:18:16 PM 3.389,98 RON
+10/5/2020 10:17:49 AM 3.389,98 RON

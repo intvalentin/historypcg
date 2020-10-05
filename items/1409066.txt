@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ls32f351fuuxen
 1409066
     Product link    
 https://www.pcgarage.ro/monitoare-led/samsung/gaming-s32f351fuu-315-inch-5ms-white/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1178653/1409066/thumbnails/gaming-ls32f351fu
 9/21/2020 8:17:07 AM 1.047,98 RON
 9/25/2020 10:07:11 PM 1.047,98 RON
 9/27/2020 10:08:18 AM 1.047,98 RON
+10/2/2020 8:00:46 PM 1.047,98 RON
+10/3/2020 11:12:08 PM 1.047,98 RON
+10/5/2020 12:57:27 PM 1.047,98 RON

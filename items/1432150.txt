@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stel8000200
 1432150
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-hub-8tb-usb-30-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1052635/1432150/thumbnails/backup-plus-hub-6
 9/21/2020 8:18:42 AM 779,98 RON
 9/25/2020 10:18:57 PM 879,98 RON
 9/27/2020 10:21:10 AM 879,98 RON
+10/2/2020 10:33:58 PM 789,98 RON
+10/5/2020 1:17:12 PM 789,98 RON

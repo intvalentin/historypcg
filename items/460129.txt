@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm54576
 460129
     Product link    
 https://www.pcgarage.ro/cabluri-componente/hama/cablu-sata-iii-conectare-90-grade-60cm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/460129/thumbnails/cablu-sata-iii-conectare
 9/21/2020 12:08:28 PM 49,98 RON
 9/26/2020 9:26:31 AM 49,98 RON
 9/27/2020 12:32:50 PM 49,98 RON
+10/4/2020 11:04:02 PM 49,98 RON

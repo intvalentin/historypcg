@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vraynma
 2086838
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/chaosgroup/v-ray-next-pentru-maya-licenta-anuala/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7008/2086838/thumbnails/v-ray-next-pentru-ma
     Pret    
 9/26/2020 9:58:59 AM 2.419,86 RON
 9/27/2020 1:08:01 PM 2.419,86 RON
+10/5/2020 12:11:45 PM 2.423,48 RON

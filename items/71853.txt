@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-825
 71853
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/dir-825-wireless-n/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/71853/thumbnails/dir-825-wireless-n-e07148
 9/22/2020 11:13:28 AM 234,76 RON
 9/26/2020 2:22:49 PM 235,57 RON
 9/27/2020 6:24:29 PM 235,57 RON
+10/5/2020 12:34:20 PM 235,42 RON

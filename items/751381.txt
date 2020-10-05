@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kvr16r11d4+-+16i
 751381
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/valueram-ecc-rdimm-ddr3-16gb-1600mhz-cl11-dual-rank-x4-15v-w-ts-intel/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/472405/751381/thumbnails/valueram-ecc-rdimm-
 9/21/2020 12:04:41 AM 862,50 RON
 9/25/2020 2:29:17 PM 874,23 RON
 9/26/2020 4:50:18 PM 881,68 RON
+10/3/2020 9:02:00 AM 873,58 RON
+10/5/2020 10:33:23 AM 874,69 RON

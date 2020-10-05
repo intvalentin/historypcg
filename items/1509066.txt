@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sbx00002
 1509066
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/sbox/h-204-usb-20-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427466/1509066/thumbnails/h-204-usb-20-red-
 9/21/2020 10:17:00 AM 21,98 RON
 9/26/2020 8:49:42 AM 21,98 RON
 9/27/2020 11:43:32 AM 21,98 RON
+10/4/2020 4:38:35 PM 21,98 RON

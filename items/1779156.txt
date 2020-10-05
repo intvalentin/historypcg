@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-atkv
 1779156
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sata-iii-6g-8tb-7200-rpm-35-inch-512e/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/6115/1779156/thumbnails/hot-plug-sata-iii-6g
 9/21/2020 12:04:59 AM 2.009,20 RON
 9/25/2020 2:31:30 PM 2.014,99 RON
 9/26/2020 4:52:31 PM 2.016,15 RON
+10/3/2020 9:42:14 AM 2.014,82 RON
+10/5/2020 10:36:22 AM 2.014,82 RON

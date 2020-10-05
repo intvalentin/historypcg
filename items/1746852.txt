@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2228c026aa
 1746852
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts5150-white-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1737700/1746852/thumbnails/pixma-ts5150-whit
 9/21/2020 2:27:02 PM 395,98 RON
 9/26/2020 10:10:03 AM 395,98 RON
 9/27/2020 1:28:31 PM 395,98 RON
+10/5/2020 1:30:43 PM 395,98 RON

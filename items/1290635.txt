@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx80660e52609v4s
 1290635
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-octa-core-e5-2609-v4-170ghz-box/
@@ -8,3 +8,5 @@ Intel Xeon Octa-Core E5-2609 v4 1.70GHz, box
 https://4.grgs.ro/images/products/1/480523/1290635/thumbnails/xeon-hexa-core-e5-2609-v3-19ghz-box-b7012ed03958228d533c1d7a2332221d.jpg
     Pret    
 9/21/2020 12:04:21 AM 1.868,23 RON
+10/3/2020 8:36:47 AM 1.894,64 RON
+10/5/2020 10:30:23 AM 1.894,64 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |66a1gacbeu
 2030430
     Product link    
 https://www.pcgarage.ro/monitoare-led/lenovo/gaming-g34w-10-curbat-34-inch-4-ms-black-freesync-144hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/8840/2030430/thumbnails/monitor-lcd-34-quot-
 9/21/2020 8:15:22 AM 2.139,99 RON
 9/25/2020 9:56:01 PM 2.233,98 RON
 9/27/2020 9:56:18 AM 2.235,98 RON
+10/2/2020 8:43:25 PM 2.233,98 RON
+10/4/2020 4:32:47 PM 2.233,98 RON
+10/5/2020 1:05:27 PM 2.233,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0dy003pri
 1977818
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-730s-238-inch-fhd-procesor-intel-core-i5-8250u-16ghz-kaby-lake-r-8gb-ddr4-128gb-ssd-plus-1tb-hdd-uhd-620-free-dos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/753/1977818/thumbnails/ideacentre-730s-238-i
 9/21/2020 12:03:10 AM 4.139,98 RON
 9/25/2020 2:13:03 PM 4.139,98 RON
 9/26/2020 4:33:57 PM 4.149,98 RON
+10/2/2020 9:22:22 PM 4.149,98 RON
+10/5/2020 10:18:35 AM 4.149,98 RON

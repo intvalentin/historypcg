@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |per330e316g1t350w_400-atfs_win2016
 1740532
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r330-procesor-intel-xeon-e3-1220-v6-30ghz-kaby-lake-16gb-udimm-ddr4-2400mhz-1tb-hdd-plus-200gb-ssd-perc-h330-lff-35-inch-windows-server-2016-standard/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1094679/1740532/thumbnails/poweredge-r330-pr
 9/21/2020 12:04:06 AM 12.307,25 RON
 9/25/2020 2:22:38 PM 12.342,72 RON
 9/26/2020 4:43:36 PM 12.349,81 RON
+10/2/2020 10:55:56 PM 12.341,70 RON
+10/5/2020 10:27:25 AM 12.341,70 RON

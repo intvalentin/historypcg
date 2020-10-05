@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-dvi-vga
 208105
     Product link    
 https://www.pcgarage.ro/adaptoare/gembird/dvi-m-vga-f/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/208105/thumbnails/dvi-a-m-vga-f-a541eae0e8
 9/21/2020 12:17:05 PM 9,98 RON
 9/26/2020 9:33:55 AM 11,98 RON
 9/27/2020 12:40:45 PM 11,98 RON
+10/4/2020 11:29:47 PM 11,98 RON

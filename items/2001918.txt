@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-1677xu-rp-2700-64g
 2001918
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-1677xu-rp-2700-64gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8078/2001918/thumbnails/ts-1677xu-rp-2700-64
 9/22/2020 11:30:36 AM 28.507,71 RON
 9/26/2020 2:29:30 PM 28.589,87 RON
 9/27/2020 6:31:06 PM 28.606,30 RON
+10/5/2020 3:29:15 PM 28.587,52 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |au0013
 466017
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/adaptor-usb-30-sata-iii/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/466017/thumbnails/adaptor-usb-30-sata-iii-
 9/21/2020 12:29:29 PM 157,98 RON
 9/26/2020 9:33:55 AM 157,98 RON
 9/27/2020 12:40:45 PM 157,98 RON
+10/5/2020 12:01:08 AM 157,98 RON

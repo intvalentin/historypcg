@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v241fak-ba047d
 1978182
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/v241fak-238-inch-fhd-procesor-intel-core-i5-8265u-16ghz-whiskey-lake-8gb-ddr4-512gb-ssd-gma-uhd-620-freedos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1736364/1978182/thumbnails/215-quot-v222gak-
 9/21/2020 12:02:51 AM 3.099,98 RON
 9/25/2020 2:04:10 PM 3.099,98 RON
 9/26/2020 4:32:28 PM 3.099,98 RON
+10/2/2020 8:57:52 PM 3.489,98 RON
+10/5/2020 10:15:36 AM 3.489,98 RON

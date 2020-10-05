@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01513
 742670
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01513-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/742670/thumbnails/toner-106r01513-yel
 9/22/2020 9:59:44 AM 873,98 RON
 9/26/2020 1:28:14 PM 877,98 RON
 9/27/2020 4:29:30 PM 877,98 RON
+10/4/2020 9:34:22 PM 875,98 RON

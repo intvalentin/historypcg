@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dl380_2x4110_128gb
 1746708
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl380-gen10-rack-2u-2x-procesor-intel-xeon-silver-4110-21ghz-skylake-8x-16gb-rdimm-ddr4-fara-hdd-sff-25-inch-smart-array-p408i-a-windows-server-2016-standard-3yr-nbd/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1691840/1746708/thumbnails/proliant-dl380-ge
 9/21/2020 12:04:14 AM 29.693,11 RON
 9/25/2020 2:22:38 PM 29.778,68 RON
 9/26/2020 4:43:36 PM 29.795,79 RON
+10/3/2020 8:25:06 AM 29.776,23 RON
+10/5/2020 10:28:53 AM 29.776,23 RON

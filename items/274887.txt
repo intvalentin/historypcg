@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cis_e1200
 274887
     Product link    
 https://www.pcgarage.ro/routere-wireless/linksys/e1200/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/274887/thumbnails/e1200-e8a5f056d36cb9bdd0
 9/22/2020 11:13:28 AM 115,97 RON
 9/26/2020 2:22:49 PM 116,31 RON
 9/27/2020 6:24:29 PM 116,38 RON
+10/5/2020 12:12:53 PM 116,30 RON

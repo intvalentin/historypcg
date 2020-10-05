@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01379
 217277
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01379-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/217277/thumbnails/print-cartridge-high-cap
 9/22/2020 10:08:20 AM 809,98 RON
 9/26/2020 1:37:08 PM 813,98 RON
 9/27/2020 4:45:04 PM 813,98 RON
+10/4/2020 10:37:37 PM 813,98 RON

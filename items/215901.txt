@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce254a
 215901
     Product link    
 https://www.pcgarage.ro/consumabile/hp/color-laserjet-toner-collection-unit-ce254a/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/215901/thumbnails/color-laserjet-toner-col
 9/21/2020 4:05:45 PM 75,98 RON
 9/26/2020 10:32:48 AM 75,98 RON
 9/27/2020 1:50:46 PM 75,98 RON
+10/5/2020 5:35:18 PM 75,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo3845-0.5
 1666880
     Product link    
 https://www.pcgarage.ro/cabluri-audio/cabletech/s-pdif-optic-male-s-pdif-optic-male-05m-negru-3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1666880/thumbnails/s-pdif-optic-male
 9/21/2020 11:40:47 AM 33,98 RON
 9/26/2020 9:18:25 AM 33,98 RON
 9/27/2020 12:24:01 PM 33,98 RON
+10/4/2020 9:41:39 PM 33,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xb7a00037
 2060790
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/hdd-25-quot-2tb-72k-sata-6gb-hot-swap-512e/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6954/2060790/thumbnails/thinksystem-hdd-1tb-
 9/21/2020 12:05:04 AM 2.380,96 RON
 9/25/2020 2:30:01 PM 2.383,84 RON
 9/26/2020 4:51:03 PM 2.387,81 RON
+10/3/2020 9:43:50 AM 2.387,77 RON
+10/5/2020 10:36:22 AM 2.387,61 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p06453-b21+835955-b21+p04556-b21+865408-b21+870753-b21
 1864758
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-dl360-gen10-rack-1u-procesor-intel-xeon-silver-4110-21ghz-skylake-32gb-rdimm-ddr4-4x-240gb-ssd-plus-2x-300gb-sas-15k-sff-25-inch-smart-array-p408i-a-3yr-nbd/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/7399/1864758/thumbnails/proliant-dl360-gen10
 9/21/2020 12:04:10 AM 20.958,88 RON
 9/25/2020 2:21:54 PM 21.019,27 RON
 9/26/2020 4:42:51 PM 21.031,35 RON
+10/3/2020 8:22:10 AM 21.017,55 RON
+10/5/2020 10:28:09 AM 21.017,55 RON

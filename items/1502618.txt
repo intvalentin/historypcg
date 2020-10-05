@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-885l
 1502618
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dir-885l-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1416562/1502618/thumbnails/gigabit-dir-885l-
 9/22/2020 11:19:55 AM 958,94 RON
 9/26/2020 2:24:19 PM 962,24 RON
 9/27/2020 6:25:59 PM 962,24 RON
+10/5/2020 2:27:34 PM 961,61 RON

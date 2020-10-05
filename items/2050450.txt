@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fl01-bk
 2050450
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/orico/fl01-usb-20-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7960/2050450/thumbnails/fl01-usb-20-black-db
 9/21/2020 10:10:36 AM 17,98 RON
 9/26/2020 8:44:31 AM 19,98 RON
 9/27/2020 11:38:18 AM 19,98 RON
+10/3/2020 10:41:00 PM 19,98 RON

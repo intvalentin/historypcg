@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b241401
 1807120
     Product link    
 https://www.pcgarage.ro/scannere/epson/workforce-ds-310-format-a4-usb-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1802236/1807120/thumbnails/workforce-ds-310-
 9/22/2020 10:39:26 AM 1.063,98 RON
 9/26/2020 1:59:17 PM 1.065,98 RON
 9/27/2020 5:07:12 PM 1.067,98 RON
+10/5/2020 9:56:34 AM 1.065,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |blknuc7i3dnhnc2
 1757044
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc7i3dnhnc2-core-i3-7100u-24ghz-4gb-ddr4-1tb-hdd-wi-fi-bluetooth-hdmi-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1153/1757044/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:37 AM 2.304,98 RON
 9/25/2020 2:18:13 PM 2.354,98 RON
 9/26/2020 4:39:06 PM 2.354,98 RON
+10/2/2020 10:17:21 PM 2.334,98 RON
+10/5/2020 10:23:01 AM 2.334,98 RON

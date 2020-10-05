@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktd-pe6950+-+16g
 263367
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr2-16gb-667mhz-cl5-18v-dual-channel-kit-compatibil-dell/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/634551/263367/thumbnails/ecc-rdimm-ddr2-16gb
 9/21/2020 12:04:44 AM 3.499,39 RON
 9/25/2020 2:28:32 PM 3.577,20 RON
 9/26/2020 4:49:34 PM 3.576,43 RON
+10/3/2020 9:09:47 AM 3.548,85 RON
+10/5/2020 10:34:08 AM 3.548,85 RON

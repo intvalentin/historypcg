@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vg279q1r
 2089186
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-tuf-vg279q1r-27-inch-1-ms-negru-freesync-premium-144-hz/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/7008/2089186/thumbnails/gaming-tuf-vg279q1r-
 9/21/2020 8:15:54 AM 1.353,98 RON
 9/25/2020 9:43:31 PM 1.355,98 RON
 9/27/2020 9:39:15 AM 1.357,98 RON
+10/3/2020 10:32:35 PM 1.589,98 RON
+10/5/2020 12:44:06 PM 1.589,98 RON

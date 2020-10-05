@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |msa-uc3-sv
 1411482
     Product link    
 https://www.pcgarage.ro/rack-uri/orico/msa-uc3-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088254/1411482/thumbnails/orico-msa-uc3-usb
 9/21/2020 10:29:47 AM 101,98 RON
 9/26/2020 8:57:06 AM 103,98 RON
 9/27/2020 11:51:01 AM 103,98 RON
+10/4/2020 6:52:04 PM 101,98 RON

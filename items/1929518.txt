@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w1120a
 1929518
     Product link    
 https://www.pcgarage.ro/consumabile/hp/drum-120a-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6622/1929518/thumbnails/drum-120a-black-378e
 9/21/2020 3:55:22 PM 477,98 RON
 9/26/2020 10:29:50 AM 479,98 RON
 9/27/2020 1:47:38 PM 477,98 RON
+10/5/2020 6:01:46 PM 479,98 RON

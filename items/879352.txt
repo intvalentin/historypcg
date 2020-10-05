@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg2210p
 879352
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sg2210p/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/879352/thumbnails/tl-sg2210p-b0a72ed9
 9/22/2020 11:50:00 AM 463,41 RON
 9/26/2020 2:49:32 PM 463,41 RON
 9/27/2020 6:51:13 PM 463,41 RON
+10/5/2020 5:49:56 PM 463,41 RON

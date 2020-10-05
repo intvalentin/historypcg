@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lt5505
 1924730
     Product link    
 https://www.pcgarage.ro/accesorii-printing/brother/tava-250-coli-pentru-hl-l6400-dcp-l6000-mfc-l6000/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8629/1924730/thumbnails/tava-250-coli-pentru
 9/22/2020 10:53:20 AM 813,98 RON
 9/26/2020 2:08:47 PM 815,98 RON
 9/27/2020 6:10:28 PM 815,98 RON
+10/5/2020 11:05:53 AM 815,98 RON

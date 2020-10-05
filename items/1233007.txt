@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34um58-p
 1233007
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/34um58-p-34-inch-5ms-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1192525/1233007/thumbnails/34um58-p-527642b0
 9/21/2020 8:17:15 AM 1.525,98 RON
 9/25/2020 10:08:40 PM 1.537,98 RON
 9/27/2020 10:09:52 AM 1.537,98 RON
+10/2/2020 8:21:50 PM 1.539,98 RON
+10/4/2020 4:30:35 PM 1.539,98 RON
+10/5/2020 12:59:42 PM 1.539,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mdc00079
 1417146
     Product link    
 https://www.pcgarage.ro/mouse/logic/lm-22-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/959008/1417146/thumbnails/lm-22-black-11ab4e
 9/21/2020 8:23:08 AM 29,98 RON
 9/26/2020 8:22:01 AM 31,98 RON
 9/27/2020 11:15:47 AM 41,98 RON
+10/3/2020 5:25:05 PM 41,98 RON
+10/5/2020 2:40:56 PM 41,98 RON

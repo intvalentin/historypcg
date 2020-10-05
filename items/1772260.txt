@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1js05a4
 1772260
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/1js05a4-215-inch-5-ms-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/5015/1772260/thumbnails/1js05a4-215-inch-5-m
 9/21/2020 8:17:02 AM 935,98 RON
 9/25/2020 10:00:28 PM 937,98 RON
 9/27/2020 10:01:05 AM 937,98 RON
+10/2/2020 7:55:21 PM 937,98 RON
+10/3/2020 11:11:24 PM 937,98 RON
+10/5/2020 12:56:41 PM 937,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |des-105
 358351
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/des-105/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/358351/thumbnails/des-105-2dfe85e85b34a519
 9/22/2020 11:34:53 AM 70,59 RON
 9/26/2020 2:42:50 PM 70,83 RON
 9/27/2020 6:44:31 PM 70,83 RON
+10/5/2020 4:03:29 PM 70,78 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kt008b
 1450746
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/kt008b-35-inch-1x-sata-male-1x-msata-ssd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1141198/1450746/thumbnails/35-inch-1x-sata-m
 9/21/2020 12:33:38 PM 37,98 RON
 9/26/2020 9:36:09 AM 39,98 RON
 9/27/2020 12:43:09 PM 39,98 RON
+10/5/2020 8:05:43 AM 39,98 RON

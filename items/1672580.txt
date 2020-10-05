@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0d2003gri
 1672580
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/238-ideacentre-520-fhd-procesor-intel-core-i3-6006u-20ghz-skylake-4gb-1tb-hdd-gma-hd-520-freedos/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1594546/1672580/thumbnails/238-ideacentre-52
 9/21/2020 12:03:01 AM 2.379,98 RON
 9/25/2020 2:14:33 PM 2.389,98 RON
 9/26/2020 4:35:27 PM 2.389,98 RON
+10/2/2020 9:05:57 PM 2.389,98 RON
+10/5/2020 10:16:20 AM 2.389,98 RON

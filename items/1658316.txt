@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |27ud59-b
 1658316
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-27ud59-b-27-inch-4k-5ms-freesync/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/5286/1658316/thumbnails/gaming-27ud59-b-27-i
 9/21/2020 8:17:19 AM 1.677,98 RON
 9/25/2020 10:03:25 PM 1.691,98 RON
 9/27/2020 10:04:19 AM 1.691,98 RON
+10/2/2020 8:27:36 PM 1.693,98 RON
+10/4/2020 4:31:19 PM 1.693,98 RON
+10/5/2020 1:00:25 PM 1.693,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthn1000402
 1880434
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-slim-25-inch-1tb-usb-30-2/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1798/1880434/thumbnails/backup-plus-slim-25-
 9/21/2020 8:18:14 AM 269,98 RON
 9/25/2020 10:15:58 PM 269,98 RON
 9/27/2020 10:17:59 AM 269,98 RON
+10/2/2020 10:06:36 PM 269,98 RON
+10/5/2020 1:14:15 PM 289,98 RON

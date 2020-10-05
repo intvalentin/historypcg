@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kod27010
 1628450
     Product link    
 https://www.pcgarage.ro/hartie/kodak/4r-photo-ultra-premium-glossy-10x15-cm-20-coli/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3207/1628450/thumbnails/4r-ultra-premium-glo
     Pret    
 9/26/2020 1:46:44 PM 15,98 RON
 9/27/2020 4:54:40 PM 15,98 RON
+10/4/2020 11:56:14 PM 15,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a070450
 269733
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-a070450-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/269733/thumbnails/toner-a070450-cyan-5f177
 9/22/2020 10:14:48 AM 435,98 RON
 9/26/2020 1:40:51 PM 429,98 RON
 9/27/2020 4:48:47 PM 429,98 RON
+10/4/2020 11:18:02 PM 431,98 RON

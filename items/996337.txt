@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mfg.9yp-00003
 996337
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/winrntlrghts-sngl-olp-nl/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/996337/thumbnails/windows-rental-righ
 9/21/2020 1:04:29 PM 29,05 RON
 9/26/2020 9:47:07 AM 29,15 RON
 9/27/2020 12:55:08 PM 29,15 RON
+10/5/2020 9:57:39 AM 29,14 RON

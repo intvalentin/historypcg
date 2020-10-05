@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ptp950nwyj1
 1837104
     Product link    
 https://www.pcgarage.ro/imprimante/brother/pt-p950w-termica-monocrom-banda-36-mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3582/1837104/thumbnails/pt-p950w-termica-mon
 9/21/2020 3:00:10 PM 2.219,98 RON
 9/26/2020 10:19:27 AM 2.227,98 RON
 9/27/2020 1:36:30 PM 2.227,98 RON
+10/5/2020 3:55:01 PM 2.225,98 RON

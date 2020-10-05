@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-005198
 1773400
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m590-wireless-grey/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5015/1773400/thumbnails/m590-wireless-grey-f
 9/21/2020 8:23:25 AM 223,98 RON
 9/26/2020 8:20:33 AM 225,98 RON
 9/27/2020 11:14:18 AM 225,98 RON
+10/3/2020 5:56:27 PM 225,98 RON
+10/5/2020 2:44:41 PM 225,98 RON

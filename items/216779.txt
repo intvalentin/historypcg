@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e250a21e
 216779
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-e250a21e-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/216779/thumbnails/toner-cartridge-e250a21e
 9/21/2020 10:32:34 PM 817,98 RON
 9/26/2020 1:02:18 PM 819,98 RON
 9/27/2020 4:03:32 PM 819,98 RON
+10/4/2020 4:58:11 PM 819,98 RON

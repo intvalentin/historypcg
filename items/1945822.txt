@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs820rp+
 1945822
     Product link    
 https://www.pcgarage.ro/nas/synology/rs820rp-plus-2gb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5758/1945822/thumbnails/rs820-plus-2gb-1b53b
 9/22/2020 11:24:10 AM 6.744,30 RON
 9/26/2020 2:28:01 PM 6.763,71 RON
 9/27/2020 6:29:39 PM 6.767,60 RON
+10/5/2020 2:52:58 PM 6.853,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr3100
 15839
     Product link    
 https://www.pcgarage.ro/consumabile/brother/dr-3100-drum-for-hl-52xx/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/15839/thumbnails/117671.jpg
 9/21/2020 3:59:31 PM 825,98 RON
 9/26/2020 10:36:30 AM 829,98 RON
 9/27/2020 1:54:43 PM 829,98 RON
+10/5/2020 6:13:24 PM 827,98 RON

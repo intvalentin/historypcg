@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg1024d
 230387
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/tl-sg1024d/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/230387/thumbnails/tl-sg1024d-028d66ae265ef
 9/22/2020 11:33:49 AM 352,47 RON
 9/26/2020 2:43:34 PM 349,15 RON
 9/27/2020 6:45:15 PM 349,15 RON
+10/5/2020 4:39:53 PM 328,99 RON

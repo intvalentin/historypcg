@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a-cm-vga3in1-01
 1853782
     Product link    
 https://www.pcgarage.ro/docking-stations/gembird/1x-usb-31-tip-c-male-1x-vga-female-1x-usb-31-tip-c-female-1x-usb-30-female-negru/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1844684/1853782/thumbnails/1x-usb-31-tip-c-m
 9/20/2020 11:39:47 PM 87,98 RON
 9/25/2020 8:47:04 PM 88,98 RON
 9/26/2020 10:46:34 PM 88,98 RON
+10/3/2020 8:44:12 PM 88,98 RON
+10/5/2020 11:28:52 AM 88,98 RON

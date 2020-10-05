@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v222fak-ba023m
 2069406
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/v222fak-215-inch-fhd-procesor-intel-pentium-gold-6405u-24ghz-comet-lake-4gb-ram-256gb-ssd-uhd-graphics-camera-web-endlessos/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/5664/2069406/thumbnails/215-quot-v222uak-fhd
 9/21/2020 12:02:51 AM 2.359,98 RON
 9/25/2020 2:04:10 PM 2.369,98 RON
 9/26/2020 4:32:28 PM 2.369,98 RON
+10/2/2020 9:05:24 PM 2.369,98 RON
+10/5/2020 10:16:20 AM 2.369,98 RON

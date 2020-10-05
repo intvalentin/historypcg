@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d840ma-i58500006d
 2001858
     Product link    
 https://www.pcgarage.ro/sisteme-brand/asus/d840ma-procesor-intel-core-i5-8500-30ghz-coffee-lake-8gb-ddr4-256gb-ssd-uhd-630-endless-os/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8078/2001858/thumbnails/d840ma-procesor-inte
 9/21/2020 12:02:07 AM 3.199,98 RON
 9/25/2020 1:56:02 PM 3.199,98 RON
 9/26/2020 4:24:21 PM 3.209,98 RON
+10/2/2020 7:49:42 PM 3.209,98 RON
+10/5/2020 10:06:11 AM 3.209,98 RON

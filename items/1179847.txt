@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2860b005aa
 1179847
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/pbpclaf1-pcl-kit-af1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1112123/1179847/thumbnails/pbpclaf1-pcl-kit-
 9/22/2020 11:03:54 AM 1.683,98 RON
 9/26/2020 2:14:42 PM 1.689,98 RON
 9/27/2020 6:16:27 PM 1.689,98 RON
+10/5/2020 11:47:11 AM 1.689,98 RON

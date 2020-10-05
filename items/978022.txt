@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mgen2rc
 978022
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/apple/mac-mini-procesor-intel-core-i5-26ghz-haswell-8gb-ddr3-1tb-hdd-intel-iris-os-x-yosemite/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/812812/978022/thumbnails/mac-mini-procesor-i
 9/21/2020 12:03:42 AM 3.854,98 RON
 9/25/2020 2:19:41 PM 3.939,98 RON
 9/26/2020 4:40:35 PM 3.939,98 RON
+10/2/2020 10:23:38 PM 3.909,98 RON
+10/5/2020 10:23:46 AM 3.909,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc8i5inhpa2
 1966642
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-8-mainstream-g-nuc8i5inhpa-core-i5-8265u-16ghz-8gb-lpddr3-256gb-ssd-radeon-540x-2gb-wi-fi-bluetooth-hdmi-win-10-home/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/8977/1966642/thumbnails/nuc-8-mainstream-g-k
 9/21/2020 12:03:42 AM 3.474,98 RON
 9/25/2020 2:18:13 PM 3.554,98 RON
 9/26/2020 4:39:06 PM 3.554,98 RON
+10/2/2020 10:21:59 PM 3.524,98 RON
+10/5/2020 10:23:46 AM 3.524,98 RON

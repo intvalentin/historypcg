@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |covr-1103
 2026630
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-mesh-covr-1103-dual-band-3-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2026630/thumbnails/gigabit-mesh-covr-11
 9/22/2020 11:10:15 AM 858,57 RON
 9/26/2020 2:18:21 PM 860,80 RON
 9/27/2020 6:19:19 PM 861,31 RON
+10/5/2020 1:05:29 PM 620,29 RON

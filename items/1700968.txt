@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hb0ee.013
 1700968
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-be270u-27-inch-2k-5-ms-black-freesync-75-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1691840/1700968/thumbnails/gaming-be270u-27-
 9/21/2020 8:17:27 AM 2.243,98 RON
 9/25/2020 10:02:41 PM 2.249,98 RON
 9/27/2020 10:03:29 AM 2.249,98 RON
+10/2/2020 8:43:41 PM 2.249,98 RON
+10/4/2020 4:32:47 PM 2.249,98 RON
+10/5/2020 1:05:27 PM 2.249,98 RON

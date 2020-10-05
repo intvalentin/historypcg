@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pc-189-vde
 35031
     Product link    
 https://www.pcgarage.ro/cabluri-componente/gembird/cablu-alimentare-prelungitor-18-m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/35031/thumbnails/cablu-alimentare-prelungi
 9/21/2020 12:06:24 PM 17,98 RON
 9/26/2020 9:26:31 AM 17,98 RON
 9/27/2020 12:32:50 PM 17,98 RON
+10/4/2020 10:57:17 PM 17,98 RON

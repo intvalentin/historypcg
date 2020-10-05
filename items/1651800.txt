@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pm8-gr
 1651800
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/apc/essential-surgearrest-8x-schuko-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1649828/1651800/thumbnails/essential-surgear
 9/21/2020 12:50:08 PM 195,98 RON
 9/26/2020 9:43:32 AM 195,98 RON
 9/27/2020 12:51:09 PM 195,98 RON
+10/5/2020 9:38:49 AM 195,98 RON

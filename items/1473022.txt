@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smc00734
 1473022
     Product link    
 https://www.pcgarage.ro/carduri-memorie/goodram/sdhc-16gb-clasa-10-uhs-i-u1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1473022/thumbnails/sdhc-8gb-clasa-10
 9/20/2020 11:47:53 PM 49,07 RON
 9/25/2020 9:28:58 AM 49,21 RON
 9/26/2020 1:56:25 PM 49,24 RON
+10/4/2020 11:18:24 PM 49,21 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000022423
 1515046
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/dell/hot-plug-sata-iii-6g-4tb-7200-rpm-35-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1416578/1515046/thumbnails/dell-hot-plug-sat
 9/21/2020 12:04:55 AM 1.434,32 RON
 9/25/2020 2:32:16 PM 1.438,45 RON
 9/26/2020 4:53:14 PM 1.439,28 RON
+10/3/2020 9:38:00 AM 1.438,34 RON
+10/5/2020 10:35:37 AM 1.438,34 RON

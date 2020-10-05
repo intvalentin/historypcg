@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0234
 1685020
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-usb-30-male-1x-hdmi-female-plus-1x-vga-female-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1684696/1685020/thumbnails/1x-usb-30-male-1x
 9/21/2020 12:25:20 PM 277,98 RON
 9/26/2020 9:30:57 AM 279,98 RON
 9/27/2020 12:37:35 PM 279,98 RON
+10/5/2020 7:59:26 AM 279,98 RON

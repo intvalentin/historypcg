@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |auv330-16g-rrd
 1689708
     Product link    
 https://www.pcgarage.ro/memorii-externe/a-data/uv330-16gb-usb-30-red/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1634078/1689708/thumbnails/uv330-64gb-usb-30
 9/21/2020 8:21:34 AM 27,98 RON
 9/25/2020 10:56:49 PM 29,98 RON
 9/27/2020 11:00:18 AM 29,98 RON
+10/3/2020 2:09:28 PM 29,98 RON
+10/5/2020 2:25:47 PM 29,98 RON

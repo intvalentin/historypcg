@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1w10002
 1485162
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/hgst/ultrastar-7k2-2tb-sata-iii-7200-rpm-128mb/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/3207/1485162/thumbnails/non-hot-plug-ultrast
 9/21/2020 12:05:04 AM 593,27 RON
 9/25/2020 2:35:14 PM 606,46 RON
 9/26/2020 4:56:14 PM 606,33 RON
+10/3/2020 9:49:26 AM 601,66 RON
+10/5/2020 10:37:07 AM 601,66 RON

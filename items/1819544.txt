@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st1800mm0149
 1819544
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-10e2400-10k-sas-18tb-10000rpm-256mb-sed-512e/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/5147/1819544/thumbnails/exos-10e2400-10k-sas
 9/21/2020 12:05:18 AM 1.868,35 RON
 9/25/2020 2:33:01 PM 1.909,89 RON
 9/26/2020 4:53:59 PM 1.909,48 RON
+10/3/2020 10:09:14 AM 1.894,75 RON
+10/5/2020 10:39:21 AM 1.894,75 RON

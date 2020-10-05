@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mh750
 1592502
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mh750/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/953558/1592502/thumbnails/mh750-dd57712af8eb
 9/22/2020 5:41:28 PM 5.463,98 RON
 9/26/2020 6:50:55 PM 5.481,98 RON
 9/28/2020 8:33:08 AM 5.481,98 RON
+10/5/2020 5:50:09 PM 5.123,98 RON

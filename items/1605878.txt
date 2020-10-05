@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktd-pe424d8+-+16g
 1605878
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr4-16gb-2400mhz-cl17-12v-compatibil-dell-1/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1469758/1605878/thumbnails/ecc-rdimm-ddr4-16
 9/21/2020 12:04:27 AM 547,78 RON
 9/25/2020 2:26:19 PM 558,09 RON
 9/26/2020 4:47:20 PM 558,81 RON
+10/3/2020 8:42:59 AM 511,34 RON
+10/5/2020 10:31:08 AM 510,90 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pdm2
 2014198
     Product link    
 https://www.pcgarage.ro/adaptoare/orico/pdm2-1x-pci-e-male-2x-m2-pci-e-ssd/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2013982/2014198/thumbnails/pci-express-pdm2-
 9/21/2020 12:31:33 PM 53,98 RON
 9/26/2020 9:33:55 AM 53,98 RON
 9/27/2020 12:40:45 PM 53,98 RON
+10/5/2020 8:11:07 AM 53,98 RON

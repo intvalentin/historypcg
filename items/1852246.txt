@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b339.1005
 1852246
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/desk-3x-schuko-2x-rj45-cat-5e-1x-vga/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848774/1852246/thumbnails/desk-3x-schuko-2x
 9/21/2020 12:58:23 PM 661,98 RON
 9/26/2020 9:42:47 AM 661,98 RON
 9/27/2020 12:50:20 PM 661,98 RON
+10/5/2020 9:46:12 AM 661,98 RON

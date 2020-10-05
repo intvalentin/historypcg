@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a3cfwy1
 516765
     Product link    
 https://www.pcgarage.ro/accesorii-copiatoare/konica-minolta/df-624-reverse-document-feeder/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/516765/thumbnails/df-624-reverse-document-
 9/22/2020 10:38:21 AM 2.111,46 RON
 9/26/2020 1:58:32 PM 2.118,72 RON
 9/27/2020 5:06:26 PM 2.118,72 RON
+10/5/2020 9:48:53 AM 2.117,32 RON

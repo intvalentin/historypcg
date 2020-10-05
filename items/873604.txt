@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3521461
 873604
     Product link    
 https://www.pcgarage.ro/memorii-externe/intenso/alu-line-anthracite-8gb/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5/873604/thumbnails/alu-line-anthracite-8gb-
 9/21/2020 8:21:07 AM 19,98 RON
 9/26/2020 8:13:11 AM 19,98 RON
 9/27/2020 11:06:47 AM 19,98 RON
+10/3/2020 12:17:43 PM 19,98 RON
+10/5/2020 2:20:28 PM 19,98 RON

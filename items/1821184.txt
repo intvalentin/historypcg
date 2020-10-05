@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb4011igs5hacq2hnd
 1821184
     Product link    
 https://www.pcgarage.ro/routere-wireless/mikrotik/gigabit-4011igs-plus5hacq2hnd-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1821184/thumbnails/gigabit-4011igs-plus
 9/22/2020 11:10:15 AM 1.007,71 RON
 9/26/2020 2:19:50 PM 1.030,12 RON
 9/27/2020 6:21:33 PM 1.029,89 RON
+10/5/2020 1:12:16 PM 1.021,95 RON

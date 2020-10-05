@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u2790pqu
 2040106
     Product link    
 https://www.pcgarage.ro/monitoare-led/aoc/u2790pqu-27-inch-5-ms-argintiu-60-hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/2034042/2040106/thumbnails/u2790pqu-27-inch-
 9/21/2020 8:16:21 AM 1.487,98 RON
 9/25/2020 9:56:01 PM 1.493,98 RON
 9/27/2020 9:56:18 AM 1.493,98 RON
+10/2/2020 8:20:44 PM 1.493,98 RON
+10/4/2020 4:30:35 PM 1.489,98 RON
+10/5/2020 12:59:41 PM 1.489,98 RON

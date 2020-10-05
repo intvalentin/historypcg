@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chb1120
 1049662
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/hdmi-male-hdmi-male-v14-ethernet-20m-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1049662/thumbnails/hdmi-male-hdmi-mal
 9/21/2020 11:10:13 AM 463,98 RON
 9/26/2020 9:05:16 AM 455,98 RON
 9/27/2020 12:11:57 PM 455,98 RON
+10/4/2020 8:15:40 PM 459,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-25818b3549387b15e456f34eb6970332
 1499846
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g70-35/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472773/1499846/thumbnails/baterie-laptop-len
 9/20/2020 11:13:03 PM 241,98 RON
 9/25/2020 3:57:26 PM 245,98 RON
 9/26/2020 5:57:16 PM 245,98 RON
+10/5/2020 11:26:32 AM 243,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg25401
 1578366
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/l4150-inkjet-ciss-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469686/1578366/thumbnails/l4150-inkjet-ciss
 9/21/2020 2:12:25 PM 1.093,98 RON
 9/26/2020 10:10:47 AM 1.097,98 RON
 9/27/2020 1:29:18 PM 1.097,98 RON
+10/5/2020 12:48:23 PM 1.097,98 RON

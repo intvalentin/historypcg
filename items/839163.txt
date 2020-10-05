@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |32200213101
 839163
     Product link    
 https://www.pcgarage.ro/camere-web/genius/widecam-f100/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/802687/839163/thumbnails/widecam-f100-6870ea
 9/21/2020 10:08:32 AM 231,98 RON
 9/26/2020 8:43:42 AM 237,98 RON
 9/27/2020 11:37:31 AM 237,98 RON
+10/3/2020 10:31:31 PM 235,98 RON
+10/5/2020 3:05:49 PM 235,98 RON

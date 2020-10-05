@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004424
 1179499
     Product link    
 https://www.pcgarage.ro/mouse/logitech/m171-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/714621/1179499/thumbnails/m171-black-418f123
 9/21/2020 8:22:42 AM 61,18 RON
 9/26/2020 8:22:46 AM 61,18 RON
 9/27/2020 11:16:34 AM 61,18 RON
+10/3/2020 5:35:47 PM 61,18 RON
+10/5/2020 2:37:38 PM 61,18 RON

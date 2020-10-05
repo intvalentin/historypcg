@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1100-16
 281243
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1100-16/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/281243/thumbnails/dgs-1100-16-c1b8f2e1fdd4
 9/22/2020 11:34:53 AM 480,40 RON
 9/26/2020 2:42:50 PM 482,67 RON
 9/27/2020 6:44:31 PM 482,67 RON
+10/5/2020 4:46:58 PM 509,38 RON

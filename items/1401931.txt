@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-sg108pe
 1401931
     Product link    
 https://www.pcgarage.ro/switch-uri/tp-link/gigabit-tl-sg108pe/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/986897/1401931/thumbnails/gigabit-tl-sg108pe
 9/22/2020 11:34:53 AM 357,00 RON
 9/26/2020 2:41:21 PM 328,46 RON
 9/27/2020 6:43:01 PM 328,46 RON
+10/5/2020 4:38:53 PM 328,46 RON

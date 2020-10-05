@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n007o5070mff
 2047918
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-5070-mff-procesor-intel-core-i7-9700t-20ghz-coffee-lake-8gb-ram-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8977/2047918/thumbnails/optiplex-5070-mff-pr
 9/21/2020 12:02:20 AM 4.939,98 RON
 9/25/2020 1:57:30 PM 4.949,98 RON
 9/26/2020 4:25:50 PM 4.949,98 RON
+10/2/2020 8:31:27 PM 4.949,98 RON
+10/5/2020 10:11:20 AM 4.949,98 RON

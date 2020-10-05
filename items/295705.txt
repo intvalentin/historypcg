@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5482b003aa
 295705
     Product link    
 https://www.pcgarage.ro/scannere/canon/dr-m140/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/295705/thumbnails/dr-m140-2ec5796ee6d2f15a
 9/22/2020 10:40:31 AM 3.257,98 RON
 9/26/2020 2:03:40 PM 3.269,98 RON
 9/27/2020 5:10:55 PM 3.261,98 RON
+10/5/2020 10:19:37 AM 3.335,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rr4312s0-10000s
 1983174
     Product link    
 https://www.pcgarage.ro/nas/netgear/rr4312s0-16gb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/1983174/thumbnails/rr331200-8gb-98d75ae
 9/22/2020 11:30:36 AM 22.462,43 RON
 9/26/2020 2:29:30 PM 22.385,59 RON
 9/27/2020 6:31:06 PM 22.385,59 RON
+10/5/2020 3:28:17 PM 22.419,15 RON

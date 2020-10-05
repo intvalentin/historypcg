@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo108-8a55a70b5af79470f3dd47fbde5e0ad4
 1465910
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-3000-f40-3000-f40a-3000-f41-3000-f41a-3000-f41g/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1408706/1465910/thumbnails/baterie-laptop-le
 9/20/2020 11:12:00 PM 219,98 RON
 9/25/2020 3:59:42 PM 223,98 RON
 9/26/2020 5:59:31 PM 223,98 RON
+10/3/2020 5:06:09 PM 221,98 RON
+10/5/2020 11:14:13 AM 221,98 RON

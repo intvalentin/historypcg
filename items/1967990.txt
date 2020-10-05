@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp3881
 1967990
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vp3881-curbat-375-inch-5ms-negru-60-hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/8977/1967990/thumbnails/vp3881-curbat-38-inc
 9/21/2020 8:17:46 AM 7.815,98 RON
 9/25/2020 9:57:29 PM 7.837,98 RON
 9/27/2020 9:57:54 AM 7.843,98 RON
+10/2/2020 9:13:58 PM 7.837,98 RON
+10/4/2020 4:36:29 PM 7.837,98 RON
+10/5/2020 1:09:08 PM 7.837,98 RON

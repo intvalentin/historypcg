@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2987c006aa
 1907126
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts8250-black-inkjet-color-format-a4-wi-fi-bluetooth-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1907126/thumbnails/pixma-ts8250-blac
 9/21/2020 2:31:12 PM 801,98 RON
 9/26/2020 10:07:49 AM 805,98 RON
 9/27/2020 1:26:06 PM 805,98 RON
+10/5/2020 2:24:10 PM 803,98 RON

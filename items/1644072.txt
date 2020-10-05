@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg03401
 1644072
     Product link    
 https://www.pcgarage.ro/multifunctionale/epson/workforce-pro-wf-c5710dwf-inkjet-color-format-a4-fax-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1642372/1644072/thumbnails/workforce-pro-wf-
 9/21/2020 2:00:00 PM 983,98 RON
 9/26/2020 10:04:08 AM 985,98 RON
 9/27/2020 1:22:16 PM 985,98 RON
+10/5/2020 2:32:43 PM 1.015,98 RON

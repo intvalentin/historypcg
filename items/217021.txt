@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7722cx
 217021
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c7722cx-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/217021/thumbnails/cyan-extra-high-yield-pr
 9/21/2020 10:52:55 PM 3.221,98 RON
 9/26/2020 1:09:44 PM 3.231,98 RON
 9/27/2020 4:10:58 PM 3.231,98 RON
+10/4/2020 7:14:45 PM 3.229,98 RON

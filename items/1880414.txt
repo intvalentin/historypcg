@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthp4000400
 1880414
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-portable-25-inch-4tb-usb-30-3/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/5634/1880414/thumbnails/backup-plus-portable
 9/21/2020 8:18:19 AM 479,98 RON
 9/25/2020 10:15:58 PM 489,98 RON
 9/27/2020 10:17:59 AM 489,98 RON
+10/2/2020 10:23:59 PM 489,98 RON
+10/5/2020 1:16:28 PM 529,98 RON

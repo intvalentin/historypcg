@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-853bu-rp-8g
 1773224
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-853bu-rp-8gb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1773224/thumbnails/ts-853bu-4gb-ef57
 9/22/2020 11:29:33 AM 9.706,04 RON
 9/26/2020 2:30:59 PM 9.734,01 RON
 9/27/2020 6:32:34 PM 9.739,60 RON
+10/5/2020 3:23:20 PM 9.733,21 RON

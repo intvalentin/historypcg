@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |920-005694
 1398614
     Product link    
 https://www.pcgarage.ro/tastaturi/logitech/k740/
@@ -11,3 +11,5 @@ https://2.grgs.ro/images/products/1/1052635/1398614/thumbnails/k740-6de632cd5373
 9/21/2020 9:57:56 AM 437,98 RON
 9/26/2020 8:34:45 AM 439,98 RON
 9/27/2020 11:28:31 AM 439,98 RON
+10/3/2020 9:10:59 PM 441,98 RON
+10/5/2020 2:58:16 PM 441,98 RON

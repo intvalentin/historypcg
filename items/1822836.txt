@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1005hp-eu0101f
 1822836
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1005hp/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1821372/1822836/thumbnails/gigabit-gs1005hp-
 9/22/2020 11:40:16 AM 258,64 RON
 9/26/2020 2:38:22 PM 259,76 RON
 9/27/2020 6:40:02 PM 259,76 RON
+10/5/2020 4:36:24 PM 259,20 RON

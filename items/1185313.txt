@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-she500
 1185313
     Product link    
 https://www.pcgarage.ro/rack-uri/zalman/zm-she500-usb-30-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1086319/1185313/thumbnails/zm-she500-usb-30-
 9/21/2020 10:31:56 AM 343,98 RON
 9/26/2020 8:57:51 AM 351,98 RON
 9/27/2020 11:51:46 AM 351,98 RON
+10/4/2020 7:07:45 PM 349,98 RON

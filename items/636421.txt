@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |333.601
 636421
     Product link    
 https://www.pcgarage.ro/prize-si-prelungitoare/bachmann/pdu-19-333601/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929099/636421/thumbnails/pdu-19-333601-ac6a7
 9/21/2020 12:41:55 PM 105,98 RON
 9/26/2020 9:41:18 AM 99,98 RON
 9/27/2020 12:48:45 PM 99,98 RON
+10/5/2020 8:57:22 AM 99,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp249qgr
 2089158
     Product link    
 https://www.pcgarage.ro/monitoare-led/asus/gaming-vp249qgr-238-inch-1-ms-negru-freesync-144-hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/7008/2089158/thumbnails/gaming-vp249qgr-238-
 9/21/2020 8:17:07 AM 1.111,98 RON
 9/25/2020 9:54:32 PM 1.097,98 RON
 9/27/2020 9:54:42 AM 1.097,98 RON
+10/2/2020 8:02:42 PM 1.097,98 RON
+10/3/2020 11:12:08 PM 1.097,98 RON
+10/5/2020 12:57:27 PM 1.097,98 RON

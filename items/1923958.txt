@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs1350-26hp-eu0101f
 1923958
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-gs1350-26hp/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1923958/thumbnails/gigabit-gs1350-26hp-
 9/22/2020 11:44:35 AM 2.382,74 RON
 9/26/2020 2:37:38 PM 2.388,96 RON
 9/27/2020 6:39:18 PM 2.390,34 RON
+10/5/2020 5:17:26 PM 2.113,39 RON

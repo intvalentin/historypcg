@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p10812-421
 2007702
     Product link    
 https://www.pcgarage.ro/servere/hp/proliant-ml110-gen10-tower-45u-procesor-intel-xeon-silver-4208-21ghz-cascade-lake-16gb-rdimm-ddr4-no-hdd-dynamic-smart-array-s100i-4x-lff/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1692296/2007702/thumbnails/proliant-ml110-ge
 9/21/2020 12:03:51 AM 7.418,67 RON
 9/25/2020 2:21:09 PM 7.425,68 RON
 9/26/2020 4:42:05 PM 7.438,03 RON
+10/2/2020 10:33:23 PM 7.437,87 RON
+10/5/2020 10:25:13 AM 7.437,41 RON

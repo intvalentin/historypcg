@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-453bu-4g
 1575806
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-453bu-4g/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1508470/1575806/thumbnails/ts-453bu-4g-91836
 9/22/2020 11:27:24 AM 4.856,26 RON
 9/26/2020 2:32:28 PM 4.870,25 RON
 9/27/2020 6:34:05 PM 4.873,05 RON
+10/5/2020 3:13:39 PM 4.869,85 RON

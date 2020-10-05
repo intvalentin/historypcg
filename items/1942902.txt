@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nsw100-28-eu0101f
 1942902
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-nsw100-28/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5758/1942902/thumbnails/gigabit-nsw100-28-fa
 9/22/2020 11:52:09 AM 1.309,02 RON
 9/26/2020 2:45:48 PM 1.313,52 RON
 9/27/2020 6:47:29 PM 1.313,52 RON
+10/5/2020 6:02:37 PM 1.312,04 RON

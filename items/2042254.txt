@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032548
 2042254
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r340-1u-procesor-intel-xeon-e-2124-33ghz-coffee-lake-1x-8gb-udimm-ddr4-2666-mhz-1x-1tb-72k-sata-hdd-perc-h330/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1034/2042254/thumbnails/poweredge-r340-1u-pr
 9/21/2020 12:04:01 AM 6.583,55 RON
 9/25/2020 2:21:53 PM 6.602,52 RON
 9/26/2020 4:42:51 PM 6.606,32 RON
+10/2/2020 10:48:03 PM 6.601,98 RON
+10/5/2020 10:26:41 AM 6.601,98 RON

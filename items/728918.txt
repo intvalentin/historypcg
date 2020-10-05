@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gr297n
 728918
     Product link    
 https://www.pcgarage.ro/routere-wireless/sapido/gr297n-gigabit-super-high-power-cloud/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/728918/thumbnails/gr297n-gigabit-super-hig
 9/22/2020 11:18:51 AM 293,83 RON
 9/26/2020 2:25:48 PM 298,46 RON
 9/27/2020 6:27:28 PM 298,46 RON
+10/5/2020 2:19:17 PM 296,16 RON

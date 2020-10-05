@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |us-24-eu
 1765636
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-unifiswitch-us-24/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1765416/1765636/thumbnails/gigabit-unifiswit
 9/22/2020 11:34:53 AM 971,66 RON
 9/26/2020 2:47:17 PM 993,27 RON
 9/27/2020 6:48:58 PM 993,06 RON
+10/5/2020 5:59:05 PM 985,40 RON

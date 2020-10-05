@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm122101
 827189
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/hdmi-male-hdmi-male-v14-3m-ethernet-negru-11/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/827189/thumbnails/cablu-hdmi-m-hdmi-m
 9/21/2020 10:38:24 AM 65,98 RON
 9/26/2020 9:06:45 AM 65,98 RON
 9/27/2020 12:13:40 PM 65,98 RON
+10/4/2020 7:45:23 PM 65,98 RON

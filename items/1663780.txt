@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cv0102
 1663780
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-minidisplayport-male-1x-hdmi-female-alb/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1573/1663780/thumbnails/1x-minidisplayport-m
 9/21/2020 12:25:20 PM 63,98 RON
 9/26/2020 9:30:57 AM 65,98 RON
 9/27/2020 12:37:35 PM 65,98 RON
+10/4/2020 11:43:56 PM 65,98 RON

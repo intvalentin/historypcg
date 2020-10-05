@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktm2865+-+4g
 263615
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-rdimm-ddr2-4gb-400mhz-cl3-18v-dual-channel-kit-compatibil-ibm/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/931142/263615/thumbnails/ecc-rdimm-ddr2-4gb-
 9/21/2020 12:04:41 AM 737,00 RON
 9/25/2020 2:28:32 PM 753,38 RON
 9/26/2020 4:49:34 PM 753,22 RON
+10/3/2020 9:00:22 AM 747,41 RON
+10/5/2020 10:33:23 AM 747,41 RON

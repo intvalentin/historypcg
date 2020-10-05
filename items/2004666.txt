@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-853
 2004666
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dir-853-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8078/2004666/thumbnails/gigabit-dir-853-dual
 9/22/2020 11:15:37 AM 216,62 RON
 9/26/2020 2:22:50 PM 217,36 RON
 9/27/2020 6:24:29 PM 217,36 RON
+10/5/2020 2:14:53 PM 217,22 RON

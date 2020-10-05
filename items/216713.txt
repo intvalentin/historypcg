@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c5200ms
 216713
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c5200ms-magenta-return/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/216713/thumbnails/magenta-return-program-t
 9/21/2020 10:31:32 PM 627,98 RON
 9/26/2020 1:03:03 PM 629,98 RON
 9/27/2020 4:04:18 PM 627,98 RON
+10/4/2020 4:47:53 PM 629,98 RON

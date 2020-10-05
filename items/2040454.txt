@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032207
 2040454
     Product link    
 https://www.pcgarage.ro/sisteme-brand/dell/optiplex-7070-mt-procesor-intel-core-i7-9700-30ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8977/2040454/thumbnails/optiplex-7070-tower-
 9/21/2020 12:02:15 AM 5.099,98 RON
 9/25/2020 1:55:19 PM 5.119,98 RON
 9/26/2020 4:23:38 PM 5.119,98 RON
+10/2/2020 7:58:19 PM 5.119,98 RON
+10/5/2020 10:07:39 AM 5.119,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac19
 2069062
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-ac19-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2069062/thumbnails/gigabit-ac19-dual-ba
 9/22/2020 11:13:28 AM 309,22 RON
 9/26/2020 2:17:36 PM 314,34 RON
 9/27/2020 6:19:19 PM 314,27 RON
+10/5/2020 2:15:42 PM 229,15 RON

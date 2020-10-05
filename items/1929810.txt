@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer mr600
 1929810
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/gigabit-archer-mr600-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1929810/thumbnails/gigabit-archer-mr600
 9/22/2020 11:09:11 AM 721,94 RON
 9/26/2020 2:19:05 PM 721,94 RON
 9/27/2020 6:20:48 PM 721,94 RON
+10/5/2020 1:08:42 PM 721,87 RON

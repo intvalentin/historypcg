@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5sd78c
 2076110
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/deskjet-plus-6475-inkjet-color-format-a4-wi-fi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4525/2076110/thumbnails/deskjet-plus-6475-in
 9/21/2020 2:02:04 PM 483,98 RON
 9/26/2020 10:01:11 AM 483,98 RON
 9/27/2020 1:09:36 PM 483,98 RON
+10/5/2020 12:37:32 PM 481,98 RON

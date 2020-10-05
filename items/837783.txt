@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7383e9g
 837783
     Product link    
 https://www.pcgarage.ro/servere/lenovo/x3500-m4-procesor-intel-xeon-e5-2620-v2-21ghz-ivy-bridge-ep-1x-8gb-rdimm-ddr3-1600mhz-fara-hdd-sff-25-inch-m5110/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/735074/837783/thumbnails/x3500-m4-procesor-i
 9/21/2020 12:04:06 AM 13.472,99 RON
 9/25/2020 2:24:07 PM 13.511,82 RON
 9/26/2020 4:45:04 PM 13.519,58 RON
+10/2/2020 10:57:13 PM 13.510,71 RON
+10/5/2020 10:28:09 AM 13.510,71 RON

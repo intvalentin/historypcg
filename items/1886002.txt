@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |65297678ba01a12
 1886002
     Product link    
 https://www.pcgarage.ro/editare-grafica-si-audio/adobe/creative-cloud-for-teams-all-apps-with-adobe-stock-1-user-subscriptie-1-an/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1798/1886002/thumbnails/creative-cloud-for-t
 9/21/2020 1:53:54 PM 7.280,05 RON
 9/26/2020 9:59:43 AM 7.305,22 RON
 9/27/2020 1:08:46 PM 7.305,22 RON
+10/5/2020 12:31:26 PM 7.300,43 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-f4816974e5682ff6fd15da5cd096763f
 1574750
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp70-ms-175a/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1517618/1574750/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:49 PM 231,98 RON
 9/25/2020 3:46:55 PM 235,98 RON
 9/26/2020 5:46:47 PM 235,98 RON
+10/3/2020 6:00:14 PM 233,98 RON
+10/5/2020 11:21:01 AM 233,98 RON

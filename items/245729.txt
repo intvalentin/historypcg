@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |min21928
 245729
     Product link    
 https://www.pcgarage.ro/cartuse-konica-minolta/konica-minolta/toner-tn-210y-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/245729/thumbnails/toner-yellow-tn-210y-97a
 9/22/2020 10:13:43 AM 267,98 RON
 9/26/2020 1:41:35 PM 269,98 RON
 9/27/2020 4:49:31 PM 269,98 RON
+10/4/2020 11:09:34 PM 267,98 RON

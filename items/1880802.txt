@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |adsa-fp2
 1880802
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/1x-usb-30-male-1x-sata-25-inch-ssd-hdd-female-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1880802/thumbnails/1x-usb-30-male-1x-sa
 9/21/2020 12:33:38 PM 57,98 RON
 9/26/2020 9:34:39 AM 57,98 RON
 9/27/2020 12:41:33 PM 57,98 RON
+10/5/2020 8:11:41 AM 57,98 RON

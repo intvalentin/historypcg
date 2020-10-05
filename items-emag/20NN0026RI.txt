@@ -12,3 +12,4 @@ Laptop 2 in 1 Lenovo ThinkPad X390 2nd Gen cu procesor Intel Core i5-8265U pana 
 9/30/2020 9:53:58 AM 8999
 10/1/2020 11:23:55 PM 8999
 10/1/2020 11:28:22 PM 8999
+10/4/2020 9:08:46 PM 8999

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43870022
 78271
     Product link    
 https://www.pcgarage.ro/consumabile/oki/magenta-image-drum-43870022/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/78271/thumbnails/magenta-image-drum-438700
 9/21/2020 3:53:17 PM 335,98 RON
 9/26/2020 10:33:32 AM 335,98 RON
 9/27/2020 1:51:33 PM 335,98 RON
+10/5/2020 5:51:50 PM 335,98 RON

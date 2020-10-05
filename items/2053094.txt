@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl4541ockfs
 2053094
     Product link    
 https://www.pcgarage.ro/securitate-server/kaspersky/small-office-security-pentru-desktop-mobile-si-file-servers-european-edition-1-fileserver-10-useri-licenta-12-luni-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6472/2053094/thumbnails/small-office-securit
 9/21/2020 1:47:40 PM 1.175,90 RON
 9/26/2020 9:57:28 AM 1.179,29 RON
 9/27/2020 1:06:24 PM 1.179,96 RON
+10/5/2020 11:53:02 AM 1.179,20 RON

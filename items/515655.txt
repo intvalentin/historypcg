@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c746a1mg
 515655
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c746a1mg-magenta-return/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/515655/thumbnails/toner-magenta-c746-c748-
 9/21/2020 10:34:39 PM 1.295,98 RON
 9/26/2020 1:01:34 PM 1.301,98 RON
 9/27/2020 4:02:48 PM 1.297,98 RON
+10/4/2020 5:12:36 PM 1.299,98 RON

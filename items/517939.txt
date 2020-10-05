@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cx410dte
 517939
     Product link    
 https://www.pcgarage.ro/multifunctionale/lexmark/cx410dte-laser-color-format-a4-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/517939/thumbnails/cx410dte-cce498d6ace0f7a
 9/21/2020 2:43:39 PM 4.609,98 RON
 9/26/2020 10:15:51 AM 4.625,98 RON
 9/27/2020 1:33:20 PM 4.625,98 RON
+10/5/2020 3:07:43 PM 4.623,98 RON

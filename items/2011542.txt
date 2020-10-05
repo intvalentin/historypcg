@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h961040
 2011542
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eh-tw7000/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2011542/thumbnails/eh-tw7000-06dd9c807b
 9/22/2020 5:37:36 PM 4.599,98 RON
 9/26/2020 6:44:59 PM 4.461,98 RON
 9/28/2020 8:27:06 AM 4.463,98 RON
+10/5/2020 5:47:43 PM 4.461,98 RON

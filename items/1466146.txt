@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo155-9cd4926d1d2a764ab006f5e774dd5546
 1466146
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-g40-30-g40-45-g40-70-g40-70m/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1301183/1466146/thumbnails/baterie-laptop-le
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 3:59:42 PM 245,98 RON
 9/26/2020 5:59:31 PM 245,98 RON
+10/3/2020 8:36:56 PM 243,98 RON
+10/5/2020 11:22:32 AM 243,98 RON

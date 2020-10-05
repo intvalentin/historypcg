@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34um59-p
 1483721
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-34um59-p-34-inch-5-ms-black-freesync/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1408706/1483721/thumbnails/gaming-34um59-p-3
 9/21/2020 8:17:23 AM 1.869,98 RON
 9/25/2020 10:04:55 PM 1.885,98 RON
 9/27/2020 10:05:54 AM 1.885,98 RON
+10/2/2020 8:34:25 PM 1.887,98 RON
+10/4/2020 4:32:03 PM 1.887,98 RON
+10/5/2020 1:01:11 PM 1.887,98 RON

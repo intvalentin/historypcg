@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h842040
 1582194
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-s41/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/953558/1582194/thumbnails/eb-s41-b194adf9709
 9/22/2020 5:38:07 PM 1.677,98 RON
 9/26/2020 6:50:55 PM 1.683,98 RON
 9/28/2020 8:33:08 AM 1.683,98 RON
+10/5/2020 5:33:32 PM 1.681,98 RON

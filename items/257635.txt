@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1008p
 257635
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1008p/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/257635/thumbnails/dgs-1008p-7444e7c7186b0e
 9/22/2020 11:40:17 AM 339,31 RON
 9/26/2020 2:43:34 PM 339,31 RON
 9/27/2020 6:45:16 PM 339,31 RON
+10/5/2020 4:40:43 PM 339,31 RON

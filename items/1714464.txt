@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pds6000z1
 1714464
     Product link    
 https://www.pcgarage.ro/scannere/brother/pds-6000-a4-adf-duplex/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1689668/1714464/thumbnails/pds-6000-a4-adf-d
 9/22/2020 10:43:45 AM 8.177,98 RON
 9/26/2020 2:02:11 PM 8.205,98 RON
 9/27/2020 5:09:26 PM 8.205,98 RON
+10/5/2020 10:23:34 AM 8.199,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |musg-001-r
 823238
     Product link    
 https://www.pcgarage.ro/mouse/gembird/musg-001-red/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/798262/823238/thumbnails/musg-001-red-dfda9d
 9/21/2020 8:23:30 AM 21,98 RON
 9/26/2020 8:31:45 AM 21,98 RON
 9/27/2020 11:25:33 AM 21,98 RON
+10/3/2020 6:55:34 PM 21,98 RON
+10/5/2020 2:48:14 PM 21,98 RON

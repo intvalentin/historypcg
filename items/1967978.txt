@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp2458
 1967978
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vp2458-238-inch-5ms-negru-60-hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8977/1967978/thumbnails/monitor-lcd-24-quot-
 9/21/2020 8:17:11 AM 1.191,98 RON
 9/25/2020 9:57:29 PM 1.193,98 RON
 9/27/2020 9:57:54 AM 1.195,98 RON
+10/2/2020 8:09:14 PM 1.193,98 RON
+10/3/2020 11:12:51 PM 1.193,98 RON
+10/5/2020 12:58:11 PM 1.193,98 RON

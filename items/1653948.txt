@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm8066002032201sr2r6
 1653948
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-octa-core-e5-2620-v4-210ghz-tray-1/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/480523/1653948/thumbnails/xeon-hexa-core-e5-
 9/21/2020 12:04:22 AM 2.513,99 RON
 9/25/2020 2:25:33 PM 2.569,88 RON
 9/26/2020 4:46:34 PM 2.569,33 RON
+10/3/2020 8:38:41 AM 2.549,51 RON
+10/5/2020 10:30:23 AM 2.549,51 RON

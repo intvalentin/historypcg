@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |y4c11aw
 1447494
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/hp/elite-slice-g1-procesor-intel-core-i5-6500t-25ghz-skylake-8gb-500gb-hdd-gma-hd-530-wi-fi-win-10-pro/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1192525/1447494/thumbnails/elite-slice-g1-pr
 9/21/2020 12:03:42 AM 4.704,98 RON
 9/25/2020 2:18:58 PM 4.719,98 RON
 9/26/2020 4:39:51 PM 4.719,98 RON
+10/2/2020 10:25:51 PM 4.719,98 RON
+10/5/2020 10:23:46 AM 4.719,98 RON

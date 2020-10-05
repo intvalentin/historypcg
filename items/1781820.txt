@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0223
 1781820
     Product link    
 https://www.pcgarage.ro/adaptoare/logilink/1x-msata-1x-25-inch-sata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1779504/1781820/thumbnails/1x-msata-1x-25-in
 9/21/2020 12:27:24 PM 93,98 RON
 9/26/2020 9:30:57 AM 97,98 RON
 9/27/2020 12:37:35 PM 97,98 RON
+10/4/2020 11:49:10 PM 93,98 RON

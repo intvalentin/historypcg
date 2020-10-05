@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01625
 1164619
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01625-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025741/1164619/thumbnails/toner-106r01625-y
 9/22/2020 10:08:20 AM 1.095,98 RON
 9/26/2020 1:34:10 PM 1.099,98 RON
 9/27/2020 4:42:06 PM 1.099,98 RON
+10/4/2020 10:42:56 PM 1.097,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5wh-00002
 275961
     Product link    
 https://www.pcgarage.ro/camere-web/microsoft/lifecam-studio-for-business/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/4/275961/thumbnails/lifecam-studio-for-busin
 9/21/2020 10:09:34 AM 335,98 RON
 9/26/2020 8:43:42 AM 341,98 RON
 9/27/2020 11:37:31 AM 341,98 RON
+10/3/2020 10:34:26 PM 339,98 RON
+10/5/2020 3:06:31 PM 339,98 RON

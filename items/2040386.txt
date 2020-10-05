@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-a8342h41
 2040386
     Product link    
 https://www.pcgarage.ro/docking-stations/anker/premium-usb-c-hdmi-4k-cu-power-delivery-silver/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2034042/2040386/thumbnails/premium-usb-c-hdm
 9/20/2020 11:39:47 PM 241,98 RON
 9/25/2020 8:46:19 PM 241,98 RON
 9/26/2020 10:45:47 PM 241,98 RON
+10/3/2020 8:46:23 PM 241,98 RON
+10/5/2020 11:28:52 AM 241,98 RON

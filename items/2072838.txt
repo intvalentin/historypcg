@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usw-flex-mini
 2072838
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-usw-flex-mini/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072838/thumbnails/gigabit-usw-flex-min
 9/22/2020 11:48:55 AM 185,52 RON
 9/26/2020 2:44:19 PM 164,87 RON
 9/27/2020 6:46:00 PM 164,87 RON
+10/5/2020 5:42:39 PM 164,87 RON

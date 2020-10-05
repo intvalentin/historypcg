@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jl386a
 1660192
     Product link    
 https://www.pcgarage.ro/switch-uri/hp/gigabit-officeconnect-1920s-48g-poe/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5286/1660192/thumbnails/gigabit-officeconnec
 9/22/2020 11:54:19 AM 2.984,29 RON
 9/26/2020 2:48:02 PM 2.992,89 RON
 9/27/2020 6:49:43 PM 2.994,61 RON
+10/5/2020 6:12:32 PM 2.992,64 RON

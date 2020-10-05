@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d5d-00004
 1040877
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/mobile-4000-white/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/782584/1040877/thumbnails/mobile-4000-black-
 9/21/2020 8:22:50 AM 151,98 RON
 9/26/2020 8:22:46 AM 151,98 RON
 9/27/2020 11:16:34 AM 151,98 RON
+10/3/2020 5:51:44 PM 151,98 RON
+10/5/2020 2:44:41 PM 151,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hc7ee.p01
 1974394
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/predator-cg7-cg437kpbmiiipp-43-inch-1-ms-negru-144-hz/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/8486/1974394/thumbnails/predator-cg7-cg437kp
 9/21/2020 8:17:46 AM 8.015,98 RON
 9/25/2020 9:57:29 PM 8.037,98 RON
 9/27/2020 9:57:54 AM 8.041,98 RON
+10/2/2020 9:14:14 PM 8.037,98 RON
+10/4/2020 4:36:29 PM 8.037,98 RON
+10/5/2020 1:09:08 PM 8.037,98 RON

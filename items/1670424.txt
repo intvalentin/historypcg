@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |chdhz-103
 1670424
     Product link    
 https://www.pcgarage.ro/camere-video-actiune/gopro/fusion/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1573/1670424/thumbnails/fusion-ab914c32214b1
 9/22/2020 5:30:51 PM 2.199,98 RON
 9/26/2020 6:38:14 PM 2.199,98 RON
 9/28/2020 8:20:22 AM 2.199,98 RON
+10/5/2020 4:36:22 PM 2.199,98 RON

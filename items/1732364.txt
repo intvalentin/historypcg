@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc8i5beh2
 1732364
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i5beh2-core-i5-8259u-23ghz-2x-ddr4-32gb-max-m2-ssd-hdd-25-inch-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1728700/1732364/thumbnails/nuc-next-unit-of-
 9/21/2020 12:03:28 AM 1.694,98 RON
 9/25/2020 2:16:45 PM 1.729,98 RON
 9/26/2020 4:38:19 PM 1.729,98 RON
+10/2/2020 10:04:25 PM 1.714,98 RON
+10/5/2020 10:21:32 AM 1.714,98 RON

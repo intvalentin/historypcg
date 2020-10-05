@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m2d20
 2053602
     Product link    
 https://www.pcgarage.ro/accesorii-nas/synology/m2d20-adaptor-m2-ssd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2053602/thumbnails/m2d20-adaptor-m2-ssd
 9/22/2020 11:32:45 AM 1.170,18 RON
 9/26/2020 2:33:55 PM 1.173,55 RON
 9/27/2020 6:35:33 PM 1.174,23 RON
+10/5/2020 3:51:21 PM 1.173,46 RON

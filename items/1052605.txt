@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e6b69a
 1052605
     Product link    
 https://www.pcgarage.ro/imprimante/hp/laserjet-enterprise-m605n-monocrom-format-a4-retea/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986897/1052605/thumbnails/laserjet-enterpris
 9/21/2020 3:16:50 PM 3.351,98 RON
 9/26/2020 10:26:07 AM 3.363,98 RON
 9/27/2020 1:43:40 PM 3.363,98 RON
+10/5/2020 5:02:42 PM 3.361,98 RON

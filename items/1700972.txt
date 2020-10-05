@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.hp0ee.001
 1700972
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/pe270k-27-inch-4k-4-ms-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1692136/1700972/thumbnails/pe270k-27-inch-4k
 9/21/2020 8:17:32 AM 2.791,98 RON
 9/25/2020 10:02:41 PM 2.799,98 RON
 9/27/2020 10:03:29 AM 2.801,98 RON
+10/2/2020 8:54:17 PM 2.799,98 RON
+10/4/2020 4:34:16 PM 2.799,98 RON
+10/5/2020 1:06:55 PM 2.799,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h851040
 1574386
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eh-tw5600/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469758/1574386/thumbnails/eh-tw5600-f100368
 9/22/2020 5:35:58 PM 3.561,98 RON
 9/26/2020 6:46:28 PM 3.575,98 RON
 9/28/2020 8:28:36 AM 3.575,98 RON
+10/5/2020 5:42:41 PM 3.459,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01335
 216639
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-106r01335-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/216639/thumbnails/toner-cartridge-cyan-pen
 9/22/2020 10:02:57 AM 201,98 RON
 9/26/2020 1:37:09 PM 203,98 RON
 9/27/2020 4:45:04 PM 203,98 RON
+10/4/2020 9:54:55 PM 203,98 RON

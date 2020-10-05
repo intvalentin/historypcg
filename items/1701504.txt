@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m7200
 1701504
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/m7200/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1701504/thumbnails/m7200-6cda882bd65
 9/22/2020 11:07:02 AM 278,99 RON
 9/26/2020 2:16:52 PM 278,99 RON
 9/27/2020 6:18:35 PM 278,99 RON
+10/5/2020 12:37:10 PM 278,99 RON

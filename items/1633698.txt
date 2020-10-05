@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hdepw10gea51f
 1633698
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/toshiba/nearline-sata-14tb-7200-rpm-35-inch-256mb/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1630882/1633698/thumbnails/dysk-twardy-toshi
 9/21/2020 12:05:23 AM 2.641,60 RON
 9/25/2020 2:34:30 PM 2.693,35 RON
 9/26/2020 4:55:30 PM 2.696,16 RON
+10/3/2020 10:14:37 AM 2.677,96 RON
+10/5/2020 10:40:06 AM 2.675,17 RON

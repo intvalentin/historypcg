@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gmf-00042
 476927
     Product link    
 https://www.pcgarage.ro/mouse/microsoft/wireless-mobile-3500-bluetrack-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1/476927/thumbnails/wireless-mobile-3500-blu
 9/21/2020 8:22:42 AM 109,99 RON
 9/26/2020 8:24:16 AM 109,99 RON
 9/27/2020 11:18:02 AM 109,99 RON
+10/3/2020 5:44:13 PM 109,99 RON
+10/5/2020 2:43:13 PM 109,99 RON

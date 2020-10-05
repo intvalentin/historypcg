@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0xv0rd
 264111
     Product link    
 https://www.pcgarage.ro/consumabile/konica-minolta/drum-a0xv0rd-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/264111/thumbnails/drum-a0xv0rd-black-a16e4
 9/21/2020 3:57:27 PM 679,98 RON
 9/26/2020 10:32:48 AM 683,98 RON
 9/27/2020 1:50:46 PM 681,98 RON
+10/5/2020 6:09:11 PM 681,98 RON

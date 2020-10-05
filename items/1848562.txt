@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1vr14a
 1848562
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-mfp-m433a-laser-monocrom-format-a3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1844684/1848562/thumbnails/laserjet-mfp-m433
 9/21/2020 2:37:25 PM 1.697,98 RON
 9/26/2020 10:09:18 AM 1.703,98 RON
 9/27/2020 1:27:43 PM 1.699,98 RON
+10/5/2020 2:47:05 PM 1.701,98 RON

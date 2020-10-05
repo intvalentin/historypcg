@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rs2418+
 1719820
     Product link    
 https://www.pcgarage.ro/nas/synology/rackstation-rs2418-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1703884/1719820/thumbnails/rackstation-rs241
 9/22/2020 11:29:33 AM 9.431,24 RON
 9/26/2020 2:31:43 PM 9.458,40 RON
 9/27/2020 6:33:21 PM 9.463,84 RON
+10/5/2020 3:22:04 PM 9.460,21 RON

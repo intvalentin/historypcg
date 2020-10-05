@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t5d-03321
 2026562
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/office-home-and-business-2019-romana-32-bit-x64-1-pc-medialess-retail/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9002/2026562/thumbnails/office-home-and-busi
 9/21/2020 1:21:17 PM 1.352,06 RON
 9/26/2020 9:50:04 AM 1.355,58 RON
 9/27/2020 12:58:23 PM 1.356,36 RON
+10/5/2020 10:59:47 AM 1.355,47 RON

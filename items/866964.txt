@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acntsac1
 866964
     Product link    
 https://www.pcgarage.ro/cabluri-componente/noctua/cablu-molex-m-3-pini-m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/851375/866964/thumbnails/cablu-molex-f-4-pin
 9/21/2020 12:06:24 PM 37,98 RON
 9/26/2020 9:26:31 AM 37,98 RON
 9/27/2020 12:32:50 PM 37,98 RON
+10/4/2020 11:03:28 PM 37,99 RON

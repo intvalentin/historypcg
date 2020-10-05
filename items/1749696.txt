@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9h.lgvla.tse
 1749696
     Product link    
 https://www.pcgarage.ro/monitoare-led/benq/ew3270u-315-inch-4k-4-ms-silver-black-usb-c/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/6763/1749696/thumbnails/ew3270u-315-inch-4k-
 9/21/2020 8:17:23 AM 2.155,98 RON
 9/25/2020 10:01:12 PM 2.161,98 RON
 9/27/2020 10:01:55 AM 2.161,98 RON
+10/2/2020 8:46:38 PM 2.315,98 RON
+10/4/2020 4:33:31 PM 2.313,98 RON
+10/5/2020 1:06:10 PM 2.313,98 RON

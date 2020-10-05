@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac9
 1428654
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/gigabit-ac9-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1088099/1428654/thumbnails/gigabit-ac9-dual-
 9/22/2020 11:13:28 AM 213,93 RON
 9/26/2020 2:21:19 PM 210,35 RON
 9/27/2020 6:23:00 PM 161,48 RON
+10/5/2020 12:32:01 PM 162,72 RON

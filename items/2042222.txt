@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032832
 2042222
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r240-procesor-intel-xeon-e-2134-35ghz-coffee-lake-2x-16gb-ddr4-ecc-udimm-2x-12tb-hdd-sas-72k-12g-perc-h330/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1990366/2042222/thumbnails/poweredge-r240-pr
 9/21/2020 12:03:51 AM 8.343,45 RON
 9/25/2020 2:20:25 PM 8.367,49 RON
 9/26/2020 4:41:21 PM 8.372,30 RON
+10/2/2020 10:51:49 PM 8.366,80 RON
+10/5/2020 10:27:25 AM 8.366,80 RON

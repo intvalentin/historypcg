@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rhva525st
 256089
     Product link    
 https://www.pcgarage.ro/rack-uri/vantec/nexstar-se-mrk-525st/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/256089/thumbnails/nexstar-se-mrk-525st-b16
 9/21/2020 10:29:47 AM 99,98 RON
 9/26/2020 8:59:19 AM 99,98 RON
 9/27/2020 11:53:15 AM 99,98 RON
+10/4/2020 6:51:47 PM 99,98 RON

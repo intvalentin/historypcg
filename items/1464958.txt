@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp129-1f0daeb799fd412c2472f625afe9ea46
 1464958
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-pavilion-dv3000-dv3100-dv3500/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1457254/1464958/thumbnails/baterie-laptop-hp
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 4:01:57 PM 235,98 RON
 9/26/2020 6:01:47 PM 235,98 RON
+10/3/2020 5:27:17 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

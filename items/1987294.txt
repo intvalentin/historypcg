@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90gc0030-bst000
 1987294
     Product link    
 https://www.pcgarage.ro/i-love-gaming/asus/rog-light-spot-white-xs/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1977958/1987294/thumbnails/rog-light-spot-wh
 9/21/2020 8:10:31 AM 98,99 RON
 9/25/2020 2:45:30 PM 98,99 RON
 9/26/2020 5:06:28 PM 98,99 RON
+10/3/2020 11:33:52 AM 98,99 RON
+10/5/2020 10:51:05 AM 98,99 RON

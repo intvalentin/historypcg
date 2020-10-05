@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xb7a00027
 2009074
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/lenovo/sas-12tb-10000-rpm-25-inch/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4338/2009074/thumbnails/sas-12g-512e-18tb-10
 9/21/2020 12:04:59 AM 1.461,99 RON
 9/25/2020 2:30:46 PM 1.466,20 RON
 9/26/2020 4:51:46 PM 1.467,04 RON
+10/3/2020 9:38:32 AM 1.466,08 RON
+10/5/2020 10:35:37 AM 1.466,08 RON

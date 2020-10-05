@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |qq2-00012
 827028
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/licenta-electronica-office-365-personal-1-an-5-pc-all-languages-esd/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/827028/thumbnails/365-personal-subscr
 9/21/2020 1:21:17 PM 299,99 RON
 9/26/2020 9:50:48 AM 299,99 RON
 9/27/2020 12:59:14 PM 299,99 RON
+10/5/2020 10:19:03 AM 299,99 RON

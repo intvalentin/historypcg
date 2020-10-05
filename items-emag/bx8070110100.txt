@@ -7,3 +7,4 @@ Procesor Intel® Core™ i3-10100 Comet Lake, 3.6GHz, 6MB, Socket 1200
     Pret    
 10/1/2020 7:44:01 AM 636
 10/2/2020 8:40:48 AM 636
+10/4/2020 9:48:53 PM 636

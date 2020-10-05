@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm29195
 368391
     Product link    
 https://www.pcgarage.ro/cablu-periferice/hama/cablu-usb-a-m-usb-b-m-5m-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/368391/thumbnails/cablu-usb-a-m-usb-b-m-5m
 9/21/2020 11:44:56 AM 25,19 RON
 9/26/2020 9:19:52 AM 25,19 RON
 9/27/2020 12:25:38 PM 25,19 RON
+10/4/2020 9:52:43 PM 20,15 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agtlm-001
 1526530
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/gopro/large-tube-mount/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/953558/1526530/thumbnails/large-tube-mount-8
 9/22/2020 5:32:35 PM 249,00 RON
 9/26/2020 6:40:30 PM 249,00 RON
 9/28/2020 8:22:37 AM 249,00 RON
+10/5/2020 4:54:31 PM 249,00 RON

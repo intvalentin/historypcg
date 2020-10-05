@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v222fak-ba062d
 2063782
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/asus/v222fak-215-inch-fhd-procesor-intel-i3-10110u-21ghz-comet-lake-8gb-ram-256gb-ssd-uhd-graphics-camera-web-endlessos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/5664/2063782/thumbnails/215-quot-v222uak-fhd
 9/21/2020 12:02:48 AM 2.439,98 RON
 9/25/2020 2:02:41 PM 2.439,98 RON
 9/26/2020 4:31:00 PM 2.439,98 RON
+10/2/2020 8:54:56 PM 2.909,98 RON
+10/5/2020 10:14:53 AM 2.909,98 RON

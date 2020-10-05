@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |862976-b21
 2037370
     Product link    
 https://www.pcgarage.ro/memorii-server/hp/ecc-udimm-ddr4-16gb-2400mhz-cl17-12v-2rx8-3/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2034042/2037370/thumbnails/ecc-udimm-ddr4-16
 9/21/2020 12:04:36 AM 725,49 RON
 9/25/2020 2:27:03 PM 727,58 RON
 9/26/2020 4:48:05 PM 727,99 RON
+10/3/2020 8:57:45 AM 727,52 RON
+10/5/2020 10:32:38 AM 727,52 RON

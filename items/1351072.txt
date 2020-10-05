@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |34uc88-b
 1351072
     Product link    
 https://www.pcgarage.ro/monitoare-led/lg/gaming-34uc88-b-curbat-34-inch-5ms-black-freesync-75hz/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/959008/1351072/thumbnails/monitor-lg-34uc88-
 9/21/2020 8:17:37 AM 3.541,98 RON
 9/25/2020 10:07:55 PM 3.571,98 RON
 9/27/2020 10:09:05 AM 3.571,98 RON
+10/2/2020 9:03:23 PM 3.575,98 RON
+10/4/2020 4:35:01 PM 3.575,98 RON
+10/5/2020 1:07:39 PM 3.575,98 RON

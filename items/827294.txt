@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm122120
 827294
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/hdmi-male-microhdmi-male-v14-15m-ethernet-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/827294/thumbnails/cablu-hdmi-m-tip-a-hdmi-
 9/21/2020 10:39:28 AM 103,98 RON
 9/26/2020 9:10:27 AM 103,98 RON
 9/27/2020 12:17:39 PM 103,98 RON
+10/4/2020 8:39:07 PM 103,98 RON

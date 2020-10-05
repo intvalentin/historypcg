@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fqc-09131
 1101048
     Product link    
 https://www.pcgarage.ro/sisteme-de-operare/microsoft/licenta-electronica-windows-10-pro-esd-32-64-bit-all-languages-fpp/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986897/1101048/thumbnails/licenta-electronic
 9/21/2020 1:04:29 PM 994,99 RON
 9/26/2020 9:46:25 AM 994,99 RON
 9/27/2020 12:54:23 PM 994,99 RON
+10/5/2020 9:55:57 AM 994,99 RON

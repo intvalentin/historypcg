@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sj-mc-01
 1523730
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/sjcam/sj4000-waterproof-case-car-charger/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469694/1523730/thumbnails/sj4000-waterproof
 9/22/2020 5:34:19 PM 138,13 RON
 9/26/2020 6:43:31 PM 140,31 RON
 9/28/2020 8:25:38 AM 140,31 RON
+10/5/2020 5:10:55 PM 139,23 RON

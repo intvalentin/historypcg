@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sthh2000402
 1821268
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/seagate/backup-plus-touch-2tb-25-inch-usb-30-white/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5147/1821268/thumbnails/backup-plus-touch-2t
 9/21/2020 8:18:56 AM 349,98 RON
 9/25/2020 10:22:40 PM 359,98 RON
 9/27/2020 10:25:11 AM 359,98 RON
+10/3/2020 8:20:41 AM 359,98 RON
+10/5/2020 1:20:55 PM 399,98 RON

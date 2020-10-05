@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |24b6020
 1939642
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-24b6020-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6835/1939642/thumbnails/toner-24b6020-black-
 9/21/2020 10:36:45 PM 2.051,98 RON
 9/26/2020 12:29:25 PM 2.059,98 RON
 9/27/2020 3:59:46 PM 2.053,98 RON
+10/4/2020 5:21:07 PM 2.057,98 RON

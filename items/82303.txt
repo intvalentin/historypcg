@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |00c5220ms
 82303
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c5220ms-magenta-return/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/82303/thumbnails/magenta-return-program-to
 9/21/2020 10:32:34 PM 825,98 RON
 9/26/2020 1:03:47 PM 827,98 RON
 9/27/2020 4:05:02 PM 825,98 RON
+10/4/2020 4:58:27 PM 827,98 RON

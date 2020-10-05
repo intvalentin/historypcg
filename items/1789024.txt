@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1js08a4
 1789024
     Product link    
 https://www.pcgarage.ro/monitoare-led/hp/z24i-24-inch-5-ms-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/6440/1789024/thumbnails/z24i-24-inch-5-ms-bl
 9/21/2020 8:17:07 AM 1.129,98 RON
 9/25/2020 10:00:28 PM 1.133,98 RON
 9/27/2020 10:01:05 AM 1.133,98 RON
+10/2/2020 8:04:39 PM 1.133,98 RON
+10/3/2020 11:12:08 PM 1.133,98 RON
+10/5/2020 12:57:27 PM 1.133,98 RON

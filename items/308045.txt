@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1422a
 308045
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-satin-photo-1067-mm-x-305-m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/308045/thumbnails/universal-satin-photo-10
 9/22/2020 10:35:11 AM 643,98 RON
 9/26/2020 1:57:05 PM 645,98 RON
 9/27/2020 5:05:00 PM 645,98 RON
+10/5/2020 9:33:27 AM 645,98 RON

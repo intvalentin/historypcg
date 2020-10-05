@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |klq-00474
 2026566
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/365-business-standard-2019-romana-subscriptie-1-an-1-utilizator-medialess-retail/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9002/2026566/thumbnails/365-business-standar
 9/21/2020 1:21:17 PM 705,04 RON
 9/26/2020 9:50:04 AM 706,90 RON
 9/27/2020 12:58:23 PM 707,30 RON
+10/5/2020 10:20:33 AM 706,83 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9.9670046e9
 1574570
     Product link    
 https://www.pcgarage.ro/accesorii-printing/konica-minolta/stand-dk-514-pentru-bizhub-c227/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1475558/1574570/thumbnails/stand-dk-514-pent
 9/22/2020 11:01:43 AM 471,98 RON
 9/26/2020 2:13:13 PM 473,98 RON
 9/27/2020 6:14:58 PM 473,98 RON
+10/5/2020 11:34:28 AM 473,98 RON

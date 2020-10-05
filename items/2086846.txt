@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dvb4248gl
 2086846
     Product link    
 https://www.pcgarage.ro/routere-wireless/xiaomi/gigabit-mi-alot-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7008/2086846/thumbnails/gigabit-mi-alot-dual
 9/22/2020 11:13:28 AM 209,91 RON
 9/26/2020 2:16:52 PM 210,63 RON
 9/27/2020 6:18:35 PM 210,63 RON
+10/5/2020 12:34:04 PM 210,49 RON

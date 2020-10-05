@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8vr89ea
 2004774
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/290-g3-mt-procesor-intel-core-i5-9500-30ghz-coffee-lake-4gb-ddr4-1-tb-hdd-uhd-630-freedos/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1979534/2004774/thumbnails/290-g3-mt-proceso
 9/21/2020 12:02:03 AM 2.149,98 RON
 9/25/2020 1:56:02 PM 2.149,98 RON
 9/26/2020 4:24:21 PM 2.149,98 RON
+10/2/2020 7:31:54 PM 2.149,98 RON
+10/5/2020 10:04:53 AM 2.149,98 RON

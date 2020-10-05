@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |013r00607
 16123
     Product link    
 https://www.pcgarage.ro/cartuse-xerox/xerox/toner-013r00607-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/16123/thumbnails/print-cartridge-pentru-wc
 9/22/2020 10:02:57 AM 387,98 RON
 9/26/2020 1:38:36 PM 389,98 RON
 9/27/2020 4:46:32 PM 389,98 RON
+10/4/2020 9:58:57 PM 387,98 RON

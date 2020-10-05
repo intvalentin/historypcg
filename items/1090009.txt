@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |910-004362
 1090009
     Product link    
 https://www.pcgarage.ro/mouse/logitech/mx-master/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1025736/1090009/thumbnails/mx-master-9bb9fb5
 9/21/2020 8:24:10 AM 463,98 RON
 9/26/2020 8:31:00 AM 467,98 RON
 9/27/2020 11:24:48 AM 467,98 RON
+10/3/2020 8:54:21 PM 467,98 RON
+10/5/2020 2:56:04 PM 467,98 RON

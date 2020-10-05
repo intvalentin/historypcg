@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gc110p-100pes
 1928942
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-gc110p-100pes/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1928942/thumbnails/gigabit-gc110p-100pe
 9/22/2020 11:51:04 AM 694,99 RON
 9/26/2020 2:45:48 PM 692,59 RON
 9/27/2020 6:47:29 PM 692,59 RON
+10/5/2020 5:56:36 PM 691,33 RON

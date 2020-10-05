@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t5d-03183
 1747768
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/licenta-electronica-office-home-and-business-2019-all-languages-esd/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1736364/1747768/thumbnails/licenta-electroni
 9/21/2020 1:21:17 PM 1.148,99 RON
 9/26/2020 9:50:48 AM 1.148,99 RON
 9/27/2020 12:59:14 PM 1.148,99 RON
+10/5/2020 10:23:29 AM 1.148,99 RON

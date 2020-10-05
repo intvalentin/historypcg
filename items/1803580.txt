@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |stfr1000800
 1803580
     Product link    
 https://www.pcgarage.ro/hard-disk-uri-externe/lacie/rugged-25-inch-1tb-usb-c-orange/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4338/1803580/thumbnails/rugged-25-inch-1tb-u
 9/21/2020 8:18:33 AM 439,98 RON
 9/25/2020 10:16:42 PM 449,98 RON
 9/27/2020 10:18:47 AM 449,98 RON
+10/2/2020 10:23:09 PM 439,98 RON
+10/5/2020 1:16:28 PM 439,98 RON

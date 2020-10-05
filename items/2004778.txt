@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7ph85ea
 2004778
     Product link    
 https://www.pcgarage.ro/sisteme-brand/hp/prodesk-400-g6-mt-procesor-intel-core-i3-8100-36ghz-coffee-lake-4gb-ddr4-256gb-ssd-uhd-630-win-10-pro/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6835/2004778/thumbnails/prodesk-400-g6-mt-pr
 9/21/2020 12:02:24 AM 3.019,98 RON
 9/25/2020 1:58:15 PM 3.019,98 RON
 9/26/2020 4:26:34 PM 3.029,98 RON
+10/2/2020 8:15:04 PM 3.029,98 RON
+10/5/2020 10:09:08 AM 3.029,98 RON

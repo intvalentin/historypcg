@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90jb003eri
 1651736
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/legion-y520-tower-procesor-intel-core-i5-8400-28ghz-coffee-lake-16gb-ddr4-256gb-ssd-geforce-gtx-1060-3gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1457334/1651736/thumbnails/legion-y520t-25ik
 9/21/2020 12:02:33 AM 4.829,98 RON
 9/25/2020 2:01:57 PM 4.839,98 RON
 9/26/2020 4:30:15 PM 4.849,98 RON
+10/2/2020 8:30:04 PM 4.849,98 RON
+10/5/2020 10:11:20 AM 4.849,98 RON

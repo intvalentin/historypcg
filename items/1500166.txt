@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo191-5adba9a7ee65ae0adf701cb1ae46a64b
 1500166
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-110-15ast/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/978807/1500166/thumbnails/baterie-laptop-len
 9/20/2020 11:12:14 PM 227,98 RON
 9/25/2020 3:55:56 PM 231,98 RON
 9/26/2020 5:55:46 PM 231,98 RON
+10/3/2020 5:23:11 PM 229,98 RON
+10/5/2020 11:16:29 AM 229,98 RON

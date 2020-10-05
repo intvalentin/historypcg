@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xi.acc-17241, bgx4020gl
 1826292
     Product link    
 https://www.pcgarage.ro/accesorii-camere-video-actiune/xiaomi/mi-action-camera-gimbal/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5147/1826292/thumbnails/mi-action-camera-gim
 9/22/2020 5:33:10 PM 564,40 RON
 9/26/2020 6:39:44 PM 573,29 RON
 9/28/2020 8:21:52 AM 573,29 RON
+10/5/2020 4:59:42 PM 568,87 RON

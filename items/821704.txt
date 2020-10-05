@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1510-28
 821704
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1510-28/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/815230/821704/thumbnails/dgs-1510-28-23be1be
 9/22/2020 11:52:09 AM 1.521,01 RON
 9/26/2020 2:49:32 PM 1.525,37 RON
 9/27/2020 6:51:13 PM 1.526,24 RON
+10/5/2020 6:03:59 PM 1.525,23 RON

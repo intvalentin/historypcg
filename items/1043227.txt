@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9576b001aa
 1043227
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-c1335if-laser-color-format-a4-fax-retea-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025736/1043227/thumbnails/imagerunner-c1335
 9/21/2020 2:08:16 PM 6.533,98 RON
 9/26/2020 10:04:52 AM 6.555,98 RON
 9/27/2020 1:23:00 PM 6.541,98 RON
+10/5/2020 1:17:33 PM 6.551,98 RON

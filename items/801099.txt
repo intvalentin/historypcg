@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a2w79a
 801099
     Product link    
 https://www.pcgarage.ro/imprimante/hp/hp-color-laserjet-m855x-plus-printer-a3-46-ppm-retea-amp-usb-20-duplex-max-1200x1200-dpi-800mhz-procesor-hp-pcl-5c-hp-pcl-6-hp-post-script-3-emulation/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/782584/801099/thumbnails/laserjet-enterprise
 9/21/2020 3:23:03 PM 28.441,98 RON
 9/26/2020 10:26:52 AM 28.541,98 RON
 9/27/2020 1:44:28 PM 28.541,98 RON
+10/5/2020 5:20:11 PM 28.521,98 RON

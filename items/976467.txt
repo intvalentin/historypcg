@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kth-pl316llq+-+32g
 976467
     Product link    
 https://www.pcgarage.ro/memorii-server/kingston/ecc-lrdimm-ddr3-32gb-1600mhz-cl11-135v-quad-rank-compatibil-hp-compaq/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/498497/976467/thumbnails/ecc-lrdimm-ddr3-32g
 9/21/2020 12:04:44 AM 2.200,87 RON
 9/25/2020 2:29:16 PM 2.230,79 RON
 9/26/2020 4:50:18 PM 2.249,81 RON
+10/3/2020 9:08:44 AM 2.229,14 RON
+10/5/2020 10:34:08 AM 2.231,98 RON

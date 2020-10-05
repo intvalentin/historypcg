@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5462e5g
 1073724
     Product link    
 https://www.pcgarage.ro/servere/lenovo/x3650-m5-procesor-intel-xeon-e5-2630-v3-24ghz-haswell-1x-8gb-rdimm-ddr4-2133mhz-fara-hdd-sff-25-inch-m5210/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/991247/1073724/thumbnails/x3650-m5-procesor-
 9/21/2020 12:04:10 AM 18.887,37 RON
 9/25/2020 2:23:23 PM 18.941,80 RON
 9/26/2020 4:44:20 PM 18.952,68 RON
+10/3/2020 8:21:20 AM 18.940,24 RON
+10/5/2020 10:28:09 AM 18.940,24 RON

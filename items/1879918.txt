@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-2660
 1879918
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-dir-2660-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1879918/thumbnails/gigabit-dir-2660-dua
 9/22/2020 11:08:06 AM 571,14 RON
 9/26/2020 2:19:05 PM 573,11 RON
 9/27/2020 6:20:48 PM 573,11 RON
+10/5/2020 12:49:42 PM 572,73 RON

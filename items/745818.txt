@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q1416a
 745818
     Product link    
 https://www.pcgarage.ro/hartie-plottere/hp/universal-heavyweight-coated-1524-mm-x-305-m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/745818/thumbnails/universal-heavyweig
 9/22/2020 10:34:06 AM 373,98 RON
 9/26/2020 1:54:52 PM 375,98 RON
 9/27/2020 5:02:47 PM 375,98 RON
+10/5/2020 9:27:26 AM 375,98 RON

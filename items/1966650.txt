@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxnuc8i7inhx
 1966650
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-8-mainstream-g-kit-nuc8i7inhx-core-i7-8565u-18ghz-8gb-lpddr3-radeon-540x-2gb-m2-ssd-wi-fi-bluetooth-hdmi/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/8977/1966650/thumbnails/nuc-8-mainstream-g-k
 9/21/2020 12:03:42 AM 3.129,98 RON
 9/25/2020 2:18:13 PM 3.199,98 RON
 9/26/2020 4:39:06 PM 3.199,98 RON
+10/2/2020 10:19:34 PM 3.174,98 RON
+10/5/2020 10:23:01 AM 3.174,98 RON

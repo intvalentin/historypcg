@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d340mc-i59500011d
 2047930
     Product link    
 https://www.pcgarage.ro/sisteme-brand/asus/d340mc-procesor-intel-core-i5-9500-30ghz-coffee-lake-8gb-ram-512gb-ssd-uhd-630-endless-os/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/8486/2047930/thumbnails/d340mc-procesor-inte
 9/21/2020 12:02:07 AM 2.909,98 RON
 9/25/2020 1:54:35 PM 2.799,98 RON
 9/26/2020 4:22:53 PM 2.799,98 RON
+10/2/2020 7:29:41 PM 2.799,98 RON
+10/5/2020 10:04:36 AM 2.799,98 RON

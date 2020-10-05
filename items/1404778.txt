@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zm-ve500-bk
 1404778
     Product link    
 https://www.pcgarage.ro/rack-uri/zalman/zm-ve500-usb-30-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/959008/1404778/thumbnails/zm-ve500-usb-30-bl
 9/21/2020 10:31:56 AM 345,98 RON
 9/26/2020 8:57:50 AM 353,98 RON
 9/27/2020 11:51:46 AM 353,98 RON
+10/4/2020 7:08:02 PM 351,98 RON

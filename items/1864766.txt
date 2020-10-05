@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c11cg26403
 1864766
     Product link    
 https://www.pcgarage.ro/imprimante/epson/ecotank-m1140-inkjet-monocrom-format-a4-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1864766/thumbnails/ecotank-m1140-inkjet
 9/21/2020 2:53:57 PM 881,98 RON
 9/26/2020 10:19:27 AM 885,98 RON
 9/27/2020 1:36:30 PM 885,98 RON
+10/5/2020 3:41:24 PM 883,98 RON

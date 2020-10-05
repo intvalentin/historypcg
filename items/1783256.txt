@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wdbmut0040jwt-eesn
 1783256
     Product link    
 https://www.pcgarage.ro/nas/western-digital/my-cloud-home-4tb/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1783256/thumbnails/my-cloud-home-4tb-0e
 9/22/2020 11:25:14 AM 1.616,57 RON
 9/26/2020 2:30:15 PM 1.650,03 RON
 9/27/2020 6:32:34 PM 1.650,03 RON
+10/5/2020 3:00:07 PM 1.767,89 RON

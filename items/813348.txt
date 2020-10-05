@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |57324315
 813348
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-c360-core-i3-4130t-290ghz-4gb-1tb-gma-hd-free-dos-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/714621/813348/thumbnails/195-quot-ideacentre
 9/21/2020 12:03:05 AM 2.539,98 RON
 9/25/2020 2:16:01 PM 2.549,98 RON
 9/26/2020 4:36:52 PM 2.549,98 RON
+10/2/2020 9:07:21 PM 2.549,98 RON
+10/5/2020 10:16:20 AM 2.549,98 RON

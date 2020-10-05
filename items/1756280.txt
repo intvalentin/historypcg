@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |boxnuc8i3cysm2
 1756280
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/intel/nuc-next-unit-of-computing-nuc8i3cysm2-core-i3-8121u-22ghz-8gb-ddr4-1tb-hdd-radeon-540-2gb-wi-fi-bluetooth-hdmi-win-10-home/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6763/1756280/thumbnails/nuc-next-unit-of-com
 9/21/2020 12:03:37 AM 2.294,98 RON
 9/25/2020 2:18:58 PM 2.349,98 RON
 9/26/2020 4:39:51 PM 2.349,98 RON
+10/2/2020 10:16:48 PM 2.329,98 RON
+10/5/2020 10:23:01 AM 2.329,98 RON

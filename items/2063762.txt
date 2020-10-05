@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0ey0060ri
 2063762
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-3-27-inch-fhd-procesor-intel-core-i5-10400t-20ghz-comet-lake-8gb-ram-512gb-ssd-uhd-630-camera-web-freedos/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6954/2063762/thumbnails/ideacentre-3-27-inch
 9/21/2020 12:02:56 AM 3.599,98 RON
 9/25/2020 2:04:10 PM 3.879,98 RON
 9/26/2020 4:32:28 PM 3.889,98 RON
+10/2/2020 9:20:15 PM 3.889,98 RON
+10/5/2020 10:17:49 AM 3.889,98 RON

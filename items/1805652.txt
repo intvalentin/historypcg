@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |teg-s24d
 1805652
     Product link    
 https://www.pcgarage.ro/switch-uri/trendnet/gigabit-teg-s24d/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4338/1805652/thumbnails/gigabit-teg-s24d-953
 9/22/2020 11:39:12 AM 145,43 RON
 9/26/2020 2:38:23 PM 145,43 RON
 9/27/2020 6:40:02 PM 145,43 RON
+10/5/2020 4:28:45 PM 145,43 RON

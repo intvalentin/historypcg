@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus190-30feb457351b5174d6736a8810e2055c
 1800240
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-vivobook-f200ca/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4338/1800240/thumbnails/baterie-laptop-asus-
 9/20/2020 11:12:49 PM 231,98 RON
 9/25/2020 3:08:28 PM 237,98 RON
 9/26/2020 5:36:17 PM 237,98 RON
+10/3/2020 6:29:19 PM 235,98 RON
+10/5/2020 11:21:46 AM 235,98 RON

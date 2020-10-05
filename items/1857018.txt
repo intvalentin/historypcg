@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |st12000nm0008
 1857018
     Product link    
 https://www.pcgarage.ro/unitati-de-stocare-server/seagate/exos-x14-hdd-12tb-7200rpm-sata-iii-256mb-35-inch/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1848774/1857018/thumbnails/exos-x14-hdd-12tb
 9/21/2020 12:04:59 AM 2.093,64 RON
 9/25/2020 2:31:30 PM 2.235,59 RON
 9/26/2020 4:52:31 PM 2.238,39 RON
+10/3/2020 9:43:18 AM 2.223,00 RON
+10/5/2020 10:36:22 AM 2.221,60 RON

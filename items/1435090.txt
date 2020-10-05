@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |us-8-150w
 1435090
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-unifiswitch-8-port-150w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/986897/1435090/thumbnails/gigabit-unifiswitc
 9/22/2020 11:34:53 AM 976,76 RON
 9/26/2020 2:40:36 PM 992,91 RON
 9/27/2020 6:42:17 PM 992,91 RON
+10/5/2020 5:01:01 PM 990,56 RON

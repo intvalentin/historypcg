@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6818a
 65625
     Product link    
 https://www.pcgarage.ro/hartie/hp/superior-glossy-inkjet-paper-c6818a/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/65625/thumbnails/professional-glossy-inkje
 9/22/2020 10:22:16 AM 88,98 RON
 9/26/2020 1:47:28 PM 89,98 RON
 9/27/2020 4:55:25 PM 88,98 RON
+10/5/2020 8:01:10 AM 89,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pds6000fz1
 1937290
     Product link    
 https://www.pcgarage.ro/scannere/brother/pds-6000f-format-a4/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2554/1937290/thumbnails/pds-5000f-format-a4-
 9/22/2020 10:44:49 AM 11.637,98 RON
 9/26/2020 2:00:46 PM 11.677,98 RON
 9/27/2020 5:08:42 PM 11.677,98 RON
+10/5/2020 10:26:45 AM 11.669,98 RON

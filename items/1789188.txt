@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru22336
 1789188
     Product link    
 https://www.pcgarage.ro/mouse/trust/yvi-pink/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/6440/1789188/thumbnails/yvi-pink-85df191f067
 9/21/2020 8:23:08 AM 33,98 RON
 9/26/2020 8:19:48 AM 33,98 RON
 9/27/2020 11:13:33 AM 33,98 RON
+10/3/2020 5:18:53 PM 33,98 RON
+10/5/2020 2:40:11 PM 33,98 RON

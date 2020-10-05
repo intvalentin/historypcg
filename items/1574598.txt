@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi107-5661837ad6b53b8b52b87d98acb0d33f
 1574598
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge60-2oe/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1489074/1574598/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:39 PM 231,98 RON
 9/25/2020 3:48:25 PM 235,98 RON
 9/26/2020 5:48:17 PM 235,98 RON
+10/3/2020 5:49:05 PM 233,98 RON
+10/5/2020 11:19:30 AM 233,98 RON

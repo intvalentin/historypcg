@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3775c026aa
 2025606
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts8351-inkjet-color-format-a4-duplex-wifi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2025606/thumbnails/pixma-ts8351-inkjet-
 9/21/2020 2:31:12 PM 789,98 RON
 9/26/2020 10:06:21 AM 791,98 RON
 9/27/2020 1:24:32 PM 789,98 RON
+10/5/2020 2:23:37 PM 791,98 RON

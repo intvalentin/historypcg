@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bdpm20
 1777988
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/logilink/displayport-male-displayport-male-v12-2m-negru-3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1777988/thumbnails/displayport-male-disp
 9/21/2020 10:35:11 AM 73,98 RON
 9/26/2020 9:03:03 AM 73,98 RON
 9/27/2020 11:56:59 AM 73,98 RON
+10/4/2020 7:50:08 PM 73,98 RON

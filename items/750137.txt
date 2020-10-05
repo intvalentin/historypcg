@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcp9020cdwyj1
 750137
     Product link    
 https://www.pcgarage.ro/multifunctionale/brother/dcp-9020cdw-laser-color-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/634551/750137/thumbnails/dcp-9020cdw-0dc1fa3
 9/21/2020 2:37:25 PM 1.571,98 RON
 9/26/2020 10:13:46 AM 1.577,98 RON
 9/27/2020 1:32:32 PM 1.577,98 RON
+10/5/2020 2:43:32 PM 1.575,98 RON

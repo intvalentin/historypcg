@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acntsrc7
 867039
     Product link    
 https://www.pcgarage.ro/cabluri-componente/noctua/cablu-4-pin-f-4-pin-m-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/867039/thumbnails/cablu-3-pin-f-3-pin
 9/21/2020 12:08:28 PM 37,98 RON
 9/26/2020 9:25:46 AM 37,98 RON
 9/27/2020 12:32:00 PM 37,98 RON
+10/4/2020 11:03:11 PM 37,98 RON

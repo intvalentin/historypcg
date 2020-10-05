@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rail-a03-57
 1748260
     Product link    
 https://www.pcgarage.ro/accesorii-nas/qnap/rail-a03-57-rail-kit/
@@ -8,3 +8,4 @@ Qnap RAIL-A03-57 Rail Kit
 https://2.grgs.ro/images/products/1/1737700/1748260/thumbnails/rail-a03-57-rail-kit-1d796452b2995a2d642a006fa361ae11.jpg
     Pret    
 9/22/2020 11:32:45 AM 1.095,11 RON
+10/5/2020 3:32:27 PM 1.098,17 RON

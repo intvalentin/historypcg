@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1008mp
 1152868
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dgs-1008mp-poe/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/1152868/thumbnails/dgs-1008mp-poe-53a
 9/22/2020 11:34:53 AM 559,41 RON
 9/26/2020 2:41:21 PM 561,33 RON
 9/27/2020 6:43:01 PM 561,33 RON
+10/5/2020 4:48:51 PM 560,96 RON

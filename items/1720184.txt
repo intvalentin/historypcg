@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cmb1
 1720184
     Product link    
 https://www.pcgarage.ro/hub-uri-usb/canyon/cne-cmb1-usb-20-black-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1692136/1720184/thumbnails/cne-cmb1-black-si
 9/21/2020 10:17:00 AM 25,98 RON
 9/26/2020 8:48:58 AM 25,98 RON
 9/27/2020 11:42:47 AM 25,98 RON
+10/4/2020 4:39:25 PM 25,98 RON

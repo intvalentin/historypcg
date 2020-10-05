@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000033743
 2042270
     Product link    
 https://www.pcgarage.ro/servere/dell/poweredge-r340-1u-procesor-intel-xeon-e-2144g-36ghz-coffee-lake-2x-8gb-udimm-ddr4-2666mhz-2x-480gb-sata-ssd-perc-h330/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1034/2042270/thumbnails/poweredge-r340-1u-pr
 9/21/2020 12:03:56 AM 9.942,77 RON
 9/25/2020 2:20:25 PM 9.971,42 RON
 9/26/2020 4:41:21 PM 9.977,15 RON
+10/2/2020 10:53:11 PM 9.970,60 RON
+10/5/2020 10:27:25 AM 9.970,60 RON

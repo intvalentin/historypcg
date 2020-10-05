@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b11b231401
 996797
     Product link    
 https://www.pcgarage.ro/scannere/epson/perfection-v19/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472405/996797/thumbnails/perfection-v19-298f
 9/22/2020 10:39:26 AM 367,98 RON
 9/26/2020 2:00:01 PM 367,98 RON
 9/27/2020 5:07:57 PM 367,98 RON
+10/5/2020 9:51:44 AM 367,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cu0007
 1436914
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-20-tip-a-male-usb-20-tip-b-male-18m-gri/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1408706/1436914/thumbnails/usb-20-tip-a-male
 9/21/2020 11:49:05 AM 7,98 RON
 9/26/2020 9:20:37 AM 7,98 RON
 9/27/2020 12:26:26 PM 7,98 RON
+10/4/2020 9:56:05 PM 13,98 RON

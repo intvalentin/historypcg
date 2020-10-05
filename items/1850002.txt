@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1156c005aa
 1850002
     Product link    
 https://www.pcgarage.ro/accesorii-printing/canon/mc-31-cartus-de-mentenanta/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1848722/1850002/thumbnails/mc-31-cartus-de-m
 9/22/2020 10:53:20 AM 301,98 RON
 9/26/2020 2:13:13 PM 303,98 RON
 9/27/2020 6:14:58 PM 301,98 RON
+10/5/2020 11:03:04 AM 303,98 RON

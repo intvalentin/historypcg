@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dir-882
 1651844
     Product link    
 https://www.pcgarage.ro/routere-wireless/d-link/gigabit-exo-dir-882-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/530/1651844/thumbnails/gigabit-exo-dir-882-d
 9/22/2020 11:11:19 AM 410,48 RON
 9/26/2020 2:20:34 PM 409,97 RON
 9/27/2020 6:22:17 PM 409,97 RON
+10/5/2020 12:43:18 PM 409,97 RON

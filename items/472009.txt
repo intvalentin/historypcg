@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sata-molex
 472009
     Product link    
 https://www.pcgarage.ro/adaptoare/inter-tech/adaptor-alimentare-sata-molex/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/472009/thumbnails/adaptor-alimentare-sata-
 9/21/2020 12:17:05 PM 15,98 RON
 9/26/2020 9:33:55 AM 15,98 RON
 9/27/2020 12:39:56 PM 15,98 RON
+10/4/2020 11:30:43 PM 15,98 RON

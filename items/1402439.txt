@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p1917s-05
 1402439
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/p1917s-19-inch-6ms-gtg-black/
@@ -10,3 +10,8 @@ https://5.grgs.ro/images/products/1/1146523/1402439/thumbnails/p1917s-19-inch-6m
 9/21/2020 8:16:58 AM 849,98 RON
 9/25/2020 10:07:11 PM 857,98 RON
 9/27/2020 10:08:18 AM 857,98 RON
+10/2/2020 7:34:27 PM 857,98 RON
+10/2/2020 7:35:10 PM 857,98 RON
+10/2/2020 7:52:09 PM 857,98 RON
+10/3/2020 11:10:39 PM 857,98 RON
+10/5/2020 12:55:57 PM 857,98 RON

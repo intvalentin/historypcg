@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f0ek00a4ri
 2063754
     Product link    
 https://www.pcgarage.ro/sisteme-all-in-one/lenovo/ideacentre-a540-27-inch-2k-procesor-intel-core-i7-9700t-20ghz-coffee-lake-16gb-ddr4-512gb-ssd-plus-1tb-hdd-uhd-630-camera-web-win-10-home/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/1979534/2063754/thumbnails/ideacentre-a540-2
 9/21/2020 12:02:51 AM 7.099,98 RON
 9/25/2020 2:03:26 PM 7.099,98 RON
 9/26/2020 4:31:44 PM 7.099,98 RON
+10/2/2020 9:03:05 PM 7.099,98 RON
+10/5/2020 10:16:20 AM 7.099,98 RON

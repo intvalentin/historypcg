@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |epss045287
 748106
     Product link    
 https://www.pcgarage.ro/hartie-plottere/epson/presentation-hires-120-610-mm-x-30-m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/748106/thumbnails/presentation-hires-
 9/22/2020 10:31:57 AM 101,98 RON
 9/26/2020 1:54:08 PM 101,98 RON
 9/27/2020 5:02:02 PM 101,98 RON
+10/5/2020 8:52:20 AM 101,98 RON

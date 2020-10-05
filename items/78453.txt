@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gm-m7600
 78453
     Product link    
 https://www.pcgarage.ro/mouse/gigabyte/gm-m7600/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2/78453/thumbnails/gm-m7600-f44a498d8a04e19d
 9/21/2020 8:24:01 AM 67,17 RON
 9/26/2020 8:33:15 AM 67,17 RON
 9/27/2020 11:27:03 AM 67,17 RON
+10/3/2020 8:35:33 PM 67,17 RON
+10/5/2020 2:53:48 PM 67,17 RON

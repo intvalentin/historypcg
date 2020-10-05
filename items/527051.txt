@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnr-msow06b
 527051
     Product link    
 https://www.pcgarage.ro/mouse/canyon/cnr-msow06b-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/4/527051/thumbnails/cnr-msow06b-38ee883b8e24
 9/21/2020 8:23:34 AM 23,98 RON
 9/26/2020 8:32:30 AM 23,98 RON
 9/27/2020 11:26:18 AM 23,98 RON
+10/3/2020 6:58:53 PM 23,98 RON
+10/5/2020 2:48:14 PM 23,98 RON

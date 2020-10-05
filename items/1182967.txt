@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rt-ac1200g+-ro
 1182967
     Product link    
 https://www.pcgarage.ro/routere-wireless/asus/gigabit-rt-ac1200g-plus-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1000151/1182967/thumbnails/gigabit-rt-ac1200
 9/22/2020 11:08:06 AM 359,30 RON
 9/26/2020 2:21:19 PM 360,34 RON
 9/27/2020 6:23:00 PM 360,54 RON
+10/5/2020 12:42:04 PM 376,69 RON

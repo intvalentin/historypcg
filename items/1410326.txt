@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bio8020041
 1410326
     Product link    
 https://www.pcgarage.ro/i-love-gaming/bioworld-europe/call-of-duty-black-ops-3/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/960827/1410326/thumbnails/call-of-duty-black
 9/21/2020 8:10:45 AM 53,98 RON
 9/25/2020 3:01:51 PM 53,98 RON
 9/26/2020 5:29:35 PM 53,98 RON
+10/3/2020 11:59:27 AM 53,98 RON
+10/5/2020 10:53:19 AM 53,98 RON

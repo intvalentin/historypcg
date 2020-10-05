@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |271e1sca+-+00
 1964526
     Product link    
 https://www.pcgarage.ro/monitoare-led/philips/271e1sca-curbat-27-inch-4-ms-black-freesync-75hz/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1960570/1964526/thumbnails/271e1sca-curbat-2
 9/21/2020 8:16:21 AM 783,98 RON
 9/25/2020 9:58:13 PM 785,98 RON
 9/27/2020 9:58:41 AM 785,98 RON
+10/2/2020 7:23:53 PM 779,98 RON
+10/3/2020 10:14:45 PM 821,98 RON
+10/5/2020 12:38:59 PM 821,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h6f25aa
 1451802
     Product link    
 https://www.pcgarage.ro/mouse/hp/ultra-mobile/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1192525/1451802/thumbnails/ultra-mobile-08d6
 9/21/2020 8:23:30 AM 109,98 RON
 9/26/2020 8:29:31 AM 109,98 RON
 9/27/2020 11:23:18 AM 109,98 RON
+10/3/2020 8:42:26 PM 109,98 RON
+10/5/2020 2:54:33 PM 109,98 RON

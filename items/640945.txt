@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf069a
 640945
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-enterprise-700-mfp-m725z-plus-laser-color-format-a3-retea-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/640945/thumbnails/laserjet-enterprise-700-
 9/21/2020 2:47:47 PM 26.361,98 RON
 9/26/2020 10:15:51 AM 26.451,98 RON
 9/27/2020 1:33:20 PM 26.451,98 RON
+10/5/2020 3:25:03 PM 26.435,98 RON

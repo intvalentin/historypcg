@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |va2719-sh
 1716252
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/va2719-sh-27-inch-5-ms-black/
@@ -10,3 +10,7 @@ https://4.grgs.ro/images/products/1/1703884/1716252/thumbnails/va2719-sh-27-inch
 9/21/2020 8:16:48 AM 685,98 RON
 9/25/2020 10:01:56 PM 687,98 RON
 9/27/2020 10:02:42 AM 759,98 RON
+10/2/2020 7:22:47 PM 759,98 RON
+10/2/2020 7:50:40 PM 759,98 RON
+10/3/2020 11:09:55 PM 759,98 RON
+10/5/2020 12:55:11 PM 759,98 RON

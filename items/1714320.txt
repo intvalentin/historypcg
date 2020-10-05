@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr3400
 1714320
     Product link    
 https://www.pcgarage.ro/consumabile/brother/drum-dr3400/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1714320/thumbnails/drum-dr3400-d6543
 9/21/2020 3:57:27 PM 709,98 RON
 9/26/2020 10:31:19 AM 711,98 RON
 9/27/2020 1:49:10 PM 711,98 RON
+10/5/2020 6:11:15 PM 711,98 RON

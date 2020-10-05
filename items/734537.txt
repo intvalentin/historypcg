@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1210-24p
 734537
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/dgs-1210-24p/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/734537/thumbnails/dgs-1210-24p-33c5f1
 9/22/2020 11:43:31 AM 1.522,42 RON
 9/26/2020 2:42:50 PM 1.527,65 RON
 9/27/2020 6:44:31 PM 1.527,65 RON
+10/5/2020 5:08:41 PM 1.479,44 RON

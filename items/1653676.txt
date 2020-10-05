@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |um.kx1ee.d01
 1653676
     Product link    
 https://www.pcgarage.ro/monitoare-led/acer/gaming-kg251qdbmiipx-245-inch-1-ms-black-freesync-240hz/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1416562/1653676/thumbnails/gaming-kg221qbmix
 9/21/2020 8:17:15 AM 1.375,98 RON
 9/25/2020 10:04:10 PM 1.379,98 RON
 9/27/2020 10:05:06 AM 1.379,98 RON
+10/2/2020 8:16:58 PM 1.377,98 RON
+10/3/2020 11:13:36 PM 1.377,98 RON
+10/5/2020 12:58:54 PM 1.377,98 RON

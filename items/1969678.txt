@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |90l2003yri
 1969678
     Product link    
 https://www.pcgarage.ro/sisteme-brand/lenovo/gaming-legion-c530-cube-procesor-intel-core-i5-9400f-29ghz-coffee-lake-16gb-ddr4-512gb-ssd-plus-1tb-hdd-geforce-rtx-2060-6gb-freedos/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1723568/1969678/thumbnails/legion-c530-cube-
 9/21/2020 12:02:38 AM 5.699,98 RON
 9/25/2020 1:59:44 PM 5.709,98 RON
 9/26/2020 4:28:03 PM 5.719,98 RON
+10/2/2020 8:34:14 PM 5.719,98 RON
+10/5/2020 10:11:20 AM 5.719,98 RON

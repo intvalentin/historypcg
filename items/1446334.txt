@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |x6u00ea
 1446334
     Product link    
 https://www.pcgarage.ro/sisteme-nettop/hp/elite-slice-g1-procesor-intel-core-i3-6100t-25ghz-skylake-4gb-500gb-hdd-gma-hd-530-wi-fi-win-10-pro/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1192525/1446334/thumbnails/elite-slice-g1-pr
 9/21/2020 12:03:42 AM 3.859,98 RON
 9/25/2020 2:19:41 PM 3.869,98 RON
 9/26/2020 4:40:35 PM 3.874,98 RON
+10/2/2020 10:23:05 PM 3.869,98 RON
+10/5/2020 10:23:46 AM 3.869,98 RON

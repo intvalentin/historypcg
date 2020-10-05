@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jl255a
 1968842
     Product link    
 https://www.pcgarage.ro/switch-uri/hpe/aruba-2930f-24g-poe-plus-4sfp-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1968842/thumbnails/aruba-2930f-24g-poe-
 9/22/2020 11:46:45 AM 10.778,77 RON
 9/26/2020 2:36:53 PM 10.806,94 RON
 9/27/2020 6:38:33 PM 10.813,16 RON
+10/5/2020 5:34:33 PM 10.806,06 RON

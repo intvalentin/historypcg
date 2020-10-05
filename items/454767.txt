@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm8062301071705
 454767
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/quad-core-xeon-e3-1290-36ghz/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/714621/454767/thumbnails/xeon-quad-core-e3-1
 9/21/2020 12:04:17 AM 4.954,39 RON
 9/25/2020 2:24:50 PM 5.064,54 RON
 9/26/2020 4:45:50 PM 5.063,46 RON
+10/3/2020 8:30:25 AM 5.024,40 RON
+10/5/2020 10:29:38 AM 5.024,40 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pcem2-dc
 1801440
     Product link    
 https://www.pcgarage.ro/adaptoare/axagon/pcem2-dc-1x-pci-e-male-2x-m2-pci-e-sata/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1801440/thumbnails/pci-e-30-4x-dual-m2-
 9/21/2020 12:21:12 PM 141,98 RON
 9/26/2020 9:35:24 AM 141,98 RON
 9/27/2020 12:42:20 PM 141,98 RON
+10/5/2020 8:23:48 AM 141,98 RON

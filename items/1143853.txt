@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a20
 1143853
     Product link    
 https://www.pcgarage.ro/cabluri-audio/genesis/jack-35-mm-male-2x-jack-35-mm-female-02m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/1143853/thumbnails/jack-35-mm-male-2x
 9/21/2020 11:40:47 AM 37,98 RON
 9/26/2020 9:18:25 AM 37,98 RON
 9/27/2020 12:24:01 PM 37,98 RON
+10/4/2020 9:41:55 PM 37,98 RON

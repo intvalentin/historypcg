@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-105av3-eu0101f
 1177639
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/es-105a-v3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/800612/1177639/thumbnails/es-105a-v2-e8551eb
 9/22/2020 11:38:07 AM 62,65 RON
 9/26/2020 2:41:21 PM 62,86 RON
 9/27/2020 6:43:01 PM 62,86 RON
+10/5/2020 4:02:06 PM 61,27 RON

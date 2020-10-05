@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm122107
 827226
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/hama/hdmi-male-hdmi-male-v14-75m-ethernet-negru-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/812812/827226/thumbnails/cablu-hdmi-m-hdmi-m
 9/21/2020 10:43:46 AM 165,98 RON
 9/26/2020 9:06:45 AM 165,98 RON
 9/27/2020 12:13:40 PM 165,98 RON
+10/4/2020 8:09:26 PM 165,98 RON

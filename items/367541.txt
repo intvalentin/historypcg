@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc-hdmid-6
 367541
     Product link    
 https://www.pcgarage.ro/cabluri-audio-video/gembird/cablu-1x-hdmi-m-1x-micro-hdmi-m-18m/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/367541/thumbnails/cablu-1x-hdmi-m-1x-micro
 9/21/2020 10:35:11 AM 23,98 RON
 9/26/2020 9:07:30 AM 23,98 RON
 9/27/2020 12:14:33 PM 23,98 RON
+10/4/2020 7:22:03 PM 23,98 RON

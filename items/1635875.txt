@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t6b70a
 1635875
     Product link    
 https://www.pcgarage.ro/multifunctionale/hp/laserjet-pro-mfp-m180n-laser-color-format-a4-retea/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1634078/1635875/thumbnails/laserjet-pro-mfp-
 9/21/2020 2:33:16 PM 935,98 RON
 9/26/2020 10:10:47 AM 939,98 RON
 9/27/2020 1:29:18 PM 939,98 RON
+10/5/2020 2:30:18 PM 939,98 RON

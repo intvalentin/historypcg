@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |44059107
 78223
     Product link    
 https://www.pcgarage.ro/cartuse-oki/oki/toner-color-cyan-seria-c810-c830/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/78223/thumbnails/toner-color-cyan-seria-c8
 9/21/2020 10:59:18 PM 959,98 RON
 9/26/2020 1:19:18 PM 961,98 RON
 9/27/2020 4:20:32 PM 959,98 RON
+10/4/2020 7:42:36 PM 961,98 RON

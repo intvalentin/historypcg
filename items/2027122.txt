@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |deco p9(2-pack)
 2027122
     Product link    
 https://www.pcgarage.ro/routere-wireless/tp-link/gigabit-deco-p9-dual-band-2-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9002/2027122/thumbnails/gigabit-deco-p9-dual
 9/22/2020 11:19:55 AM 1.024,83 RON
 9/26/2020 2:22:50 PM 1.024,83 RON
 9/27/2020 6:24:29 PM 1.024,83 RON
+10/5/2020 2:28:39 PM 1.024,83 RON

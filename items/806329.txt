@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f303
 806329
     Product link    
 https://www.pcgarage.ro/routere-wireless/tenda/f303/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/806329/thumbnails/f303-5576981437221a
 9/22/2020 11:17:46 AM 101,30 RON
 9/26/2020 2:25:03 PM 102,90 RON
 9/27/2020 6:26:43 PM 102,90 RON
+10/5/2020 1:27:19 PM 102,11 RON

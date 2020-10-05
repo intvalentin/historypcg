@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |area-51 r4
 1628274
     Product link    
 https://www.pcgarage.ro/sisteme-brand/alienware/area-51-r4-procesor-intel-core-i9-7980xe-26ghz-skylake-x-64gb-ddr4-512gb-ssd-plus-2tb-hdd-2x-geforce-gtx-1080-ti-11gb-win-10-home/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/3207/1628274/thumbnails/area-51-r4-procesor-
 9/21/2020 12:02:15 AM 47.549,98 RON
 9/25/2020 1:57:30 PM 47.549,98 RON
 9/26/2020 4:25:49 PM 47.549,98 RON
+10/2/2020 8:04:53 PM 47.549,98 RON
+10/5/2020 10:08:23 AM 47.549,98 RON

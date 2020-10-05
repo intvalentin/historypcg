@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |buam220
 1663088
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/usb-20-male-tip-a-microusb-20-male-tip-b-2m-negru-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1573/1663088/thumbnails/usb-20-male-tip-a-mi
 9/21/2020 11:53:14 AM 55,98 RON
 9/26/2020 9:19:52 AM 53,98 RON
 9/27/2020 12:25:38 PM 53,98 RON
+10/4/2020 10:28:58 PM 55,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vx3211-mh
 1716248
     Product link    
 https://www.pcgarage.ro/monitoare-led/viewsonic/vx3211-mh-315-inch-3-ms-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1692296/1716248/thumbnails/vx3211-mh-315-inc
 9/21/2020 8:17:07 AM 1.113,98 RON
 9/25/2020 10:02:41 PM 1.115,98 RON
 9/27/2020 10:03:29 AM 1.117,98 RON
+10/2/2020 8:03:49 PM 1.115,98 RON
+10/3/2020 11:12:08 PM 1.115,98 RON
+10/5/2020 12:57:27 PM 1.115,98 RON

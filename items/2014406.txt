@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i458739
 2014406
     Product link    
 https://www.pcgarage.ro/scannere/iris/iriscan-book-5-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2013982/2014406/thumbnails/iriscan-book-5-wh
 9/22/2020 10:39:26 AM 625,98 RON
 9/26/2020 1:59:17 PM 625,98 RON
 9/27/2020 5:07:11 PM 625,98 RON
+10/5/2020 9:53:44 AM 625,98 RON

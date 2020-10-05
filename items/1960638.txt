@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3630c005aa
 1960638
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/imagerunner-1643if-laser-mono-format-a4-duplex-reta-wi-fi-fax/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1960570/1960638/thumbnails/imagerunner-1643i
 9/21/2020 2:41:34 PM 3.827,98 RON
 9/26/2020 10:06:21 AM 3.841,98 RON
 9/27/2020 1:24:33 PM 3.831,98 RON
+10/5/2020 3:06:07 PM 3.837,98 RON

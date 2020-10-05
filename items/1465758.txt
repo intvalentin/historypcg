@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi104-f023d3d449e372f0acb1589088bbfae6
 1465758
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-megabook-m675-m677-ms1034-ms-1632-ms-16323/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1169071/1465758/thumbnails/baterie-laptop-ms
 9/20/2020 11:12:19 PM 231,98 RON
 9/25/2020 4:00:27 PM 235,98 RON
 9/26/2020 6:00:15 PM 235,98 RON
+10/3/2020 5:28:37 PM 233,98 RON
+10/5/2020 11:17:14 AM 233,98 RON

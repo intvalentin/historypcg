@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m393a2k43bb1-ctd
 2025526
     Product link    
 https://www.pcgarage.ro/memorii-server/samsung/ecc-rdimm-ddr4-16gb-2666mhz-cl19-12v-1/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/9002/2025526/thumbnails/ecc-rdimm-ddr4-16gb-
 9/21/2020 12:04:32 AM 474,68 RON
 9/25/2020 2:27:03 PM 485,23 RON
 9/26/2020 4:48:05 PM 485,13 RON
+10/3/2020 8:55:19 AM 481,38 RON
+10/5/2020 10:32:38 AM 481,38 RON

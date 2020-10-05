@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aa0048
 1437174
     Product link    
 https://www.pcgarage.ro/cablu-periferice/logilink/otg-usb-30-tip-a-female-usb-30-male-02m-negru/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1437174/thumbnails/otg-usb-30-tip-a-f
 9/21/2020 11:57:23 AM 17,98 RON
 9/26/2020 9:23:34 AM 17,98 RON
 9/27/2020 12:29:37 PM 17,98 RON
+10/4/2020 10:47:20 PM 35,98 RON

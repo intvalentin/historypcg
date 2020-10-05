@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ts-431xeu-2g
 1617234
     Product link    
 https://www.pcgarage.ro/nas/qnap/ts-431xeu-2gb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1594546/1617234/thumbnails/ts-431xeu-2gb-746
 9/22/2020 11:23:06 AM 3.057,88 RON
 9/26/2020 2:31:43 PM 3.066,71 RON
 9/27/2020 6:30:22 PM 3.285,17 RON
+10/5/2020 3:06:46 PM 3.066,45 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pp3-00023
 1185739
     Product link    
 https://www.pcgarage.ro/kit-tastatura-plus-mouse/microsoft/wireless-desktop-3050-layout-us/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/815230/1185739/thumbnails/wireless-desktop-3
 9/21/2020 10:04:16 AM 239,98 RON
 9/26/2020 8:40:44 AM 239,98 RON
 9/27/2020 11:34:33 AM 239,98 RON
+10/3/2020 10:11:44 PM 273,98 RON
+10/5/2020 3:03:22 PM 273,98 RON

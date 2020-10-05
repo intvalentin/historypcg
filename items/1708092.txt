@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1367c006aa
 1708092
     Product link    
 https://www.pcgarage.ro/multifunctionale/canon/pixma-ts5050-black-inkjet-color-format-a4-wifi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692136/1708092/thumbnails/pixma-ts5050-blac
 9/21/2020 2:27:02 PM 403,98 RON
 9/26/2020 10:10:03 AM 405,98 RON
 9/27/2020 1:28:31 PM 405,98 RON
+10/5/2020 2:11:01 PM 405,98 RON

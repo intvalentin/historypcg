@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |014n1070e
 89699
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/cartus-100xl-magenta-return/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/89699/thumbnails/14n1070e-5ff65c2d56cc520d
 9/21/2020 10:37:49 PM 123,98 RON
 9/26/2020 1:14:56 PM 123,98 RON
 9/27/2020 4:16:10 PM 123,98 RON
+10/4/2020 5:31:38 PM 123,98 RON

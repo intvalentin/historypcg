@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p4317q
 1351688
     Product link    
 https://www.pcgarage.ro/monitoare-led/dell/p4317q-43-inch-4k-8ms-black-silver/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/498497/1351688/thumbnails/p4317q-43-inch-8ms
 9/21/2020 8:17:37 AM 3.191,98 RON
 9/25/2020 10:07:55 PM 3.217,98 RON
 9/27/2020 10:09:05 AM 3.217,98 RON
+10/2/2020 8:59:44 PM 3.221,98 RON
+10/4/2020 4:35:01 PM 3.221,98 RON
+10/5/2020 1:07:39 PM 3.221,98 RON

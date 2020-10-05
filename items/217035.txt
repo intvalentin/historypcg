@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c780a2kg
 217035
     Product link    
 https://www.pcgarage.ro/cartuse-lexmark/lexmark/toner-c780a2kg-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/217035/thumbnails/black-print-cartridge-c7
 9/21/2020 10:45:22 PM 1.113,98 RON
 9/26/2020 1:09:44 PM 1.117,98 RON
 9/27/2020 4:10:58 PM 1.117,98 RON
+10/4/2020 6:10:33 PM 1.115,98 RON

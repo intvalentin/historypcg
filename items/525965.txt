@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0106
 525965
     Product link    
 https://www.pcgarage.ro/rack-uri/logilink/ua0106/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/525965/thumbnails/ua0106-a53eeb0066b69a3fe
 9/21/2020 10:20:11 AM 55,98 RON
 9/26/2020 8:55:37 AM 55,98 RON
 9/27/2020 11:49:32 AM 55,98 RON
+10/4/2020 5:06:39 PM 55,98 RON

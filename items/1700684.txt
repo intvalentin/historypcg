@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcpl6600dwrf1
 1700684
     Product link    
 https://www.pcgarage.ro/multifunctionale/brother/dcp-l6600dw-laser-monocrom-format-a4-retea-wi-fi-duplex/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1684696/1700684/thumbnails/dcp-l6600dw-laser
 9/21/2020 2:08:16 PM 3.281,98 RON
 9/26/2020 10:03:24 AM 3.293,98 RON
 9/27/2020 1:21:32 PM 3.293,98 RON
+10/5/2020 1:11:36 PM 3.291,98 RON

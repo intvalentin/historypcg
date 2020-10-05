@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib-183m2
 1801340
     Product link    
 https://www.pcgarage.ro/rack-uri/raidsonic/icy-box-ib-183m2-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1801340/thumbnails/icy-box-ib-183m2-bla
 9/21/2020 10:20:11 AM 73,98 RON
 9/26/2020 8:52:40 AM 73,98 RON
 9/27/2020 11:46:35 AM 73,98 RON
+10/4/2020 6:28:54 PM 73,98 RON
