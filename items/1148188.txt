@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72101gc1e
 1148188
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/w515t-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929094/1148188/thumbnails/w515t-white-5879c3
 9/22/2020 5:42:31 PM 11.599,98 RON
 9/26/2020 6:53:53 PM 11.639,98 RON
 9/28/2020 8:36:08 AM 11.639,98 RON
+10/5/2020 7:05:18 PM 11.625,98 RON

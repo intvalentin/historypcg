@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn5500
 16055
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/tn-5500-fhl7050n/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/16055/thumbnails/114873.jpg
 9/21/2020 5:35:33 PM 619,98 RON
 9/26/2020 10:58:02 AM 621,98 RON
 9/27/2020 2:17:52 PM 621,98 RON
+10/5/2020 10:11:34 PM 621,98 RON

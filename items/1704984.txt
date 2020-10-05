@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |el1600usbiec
 1704984
     Product link    
 https://www.pcgarage.ro/ups/eaton/ellipse-eco-1600va-iec-usb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1704984/thumbnails/ellipse-eco-1600v
 9/22/2020 12:47:51 PM 1.269,81 RON
 9/26/2020 3:18:14 PM 1.269,81 RON
 9/27/2020 7:29:33 PM 1.269,81 RON
+10/5/2020 10:29:09 PM 1.269,81 RON

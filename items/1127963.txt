@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xs728t-100nes
 1127963
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-xs728t-100nes/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/1127963/thumbnails/netgear-prosafe-sm
 9/22/2020 12:04:30 PM 11.259,91 RON
 9/26/2020 2:48:47 PM 11.289,94 RON
 9/27/2020 6:50:28 PM 11.289,94 RON
+10/5/2020 6:44:26 PM 11.269,56 RON

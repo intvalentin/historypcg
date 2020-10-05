@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba087976
 1851998
     Product link    
 https://www.pcgarage.ro/baterii/varta/ag10-lr54-blister-10-buc/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1848774/1851998/thumbnails/ag10-lr54-blister
     Pret    
 9/22/2020 6:01:41 PM 4,75 RON
 9/26/2020 7:20:05 PM 4,75 RON
+10/5/2020 10:30:52 PM 4,75 RON

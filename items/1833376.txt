@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |brcs101
 1833376
     Product link    
 https://www.pcgarage.ro/genti-huse/case-logic/bryker-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/5631/1833376/thumbnails/bryker-black-bb95a15
     Pret    
 9/22/2020 5:57:42 PM 78,83 RON
 9/26/2020 7:14:06 PM 79,73 RON
+10/5/2020 6:58:07 PM 78,85 RON

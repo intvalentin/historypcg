@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx1600mi
 2089874
     Product link    
 https://www.pcgarage.ro/ups/apc/bx1600mi-1600-va/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7008/2089874/thumbnails/bx750mi-750-va-a08fd
     Pret    
 9/26/2020 3:24:14 PM 1.067,29 RON
 9/27/2020 7:35:37 PM 1.067,29 RON
+10/5/2020 11:39:37 PM 1.051,81 RON

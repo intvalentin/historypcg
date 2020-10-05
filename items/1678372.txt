@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000-led-li-t10
 1678372
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1000-line-interactive-1000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1678372/thumbnails/powermust-1000-li
 9/22/2020 12:53:15 PM 441,22 RON
 9/26/2020 3:27:57 PM 448,28 RON
 9/27/2020 7:39:21 PM 448,18 RON
+10/5/2020 11:22:36 PM 444,72 RON

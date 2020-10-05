@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usw-pro-24-poe
 1991034
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-usw-pro-24-poe/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990366/1991034/thumbnails/gigabit-usw-pro-2
 9/22/2020 11:54:19 AM 3.471,24 RON
 9/26/2020 2:45:03 PM 3.525,97 RON
 9/27/2020 6:46:44 PM 3.525,97 RON
+10/5/2020 6:33:48 PM 3.487,24 RON

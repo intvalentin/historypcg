@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usg60w-eu0102f
 998632
     Product link    
 https://www.pcgarage.ro/firewall/zyxel/zywall-usg-60w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/815230/998632/thumbnails/zywall-usg-60w-6f20
 9/22/2020 12:30:40 PM 3.744,75 RON
 9/26/2020 3:08:30 PM 3.759,47 RON
 9/27/2020 7:20:01 PM 3.759,47 RON
+10/5/2020 6:03:01 PM 3.753,43 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dmg-19
 1893782
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/poweron/dmg-19-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1893782/thumbnails/dmg-19-dual-band-d64
 9/22/2020 12:06:40 PM 71,92 RON
 9/26/2020 2:51:45 PM 73,06 RON
 9/27/2020 6:53:23 PM 73,06 RON
+10/5/2020 6:53:00 PM 72,26 RON

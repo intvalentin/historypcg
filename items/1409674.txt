@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vpj00047
 1409674
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sbox/psm-100-180x180-100-inch/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929094/1409674/thumbnails/psm-100-180x180-10
 9/22/2020 5:44:49 PM 273,93 RON
 9/26/2020 6:56:54 PM 274,83 RON
 9/28/2020 8:39:05 AM 274,83 RON
+10/5/2020 7:25:25 PM 274,52 RON

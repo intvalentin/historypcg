@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |asl-u3-sv-pro
 1824448
     Product link    
 https://www.pcgarage.ro/placi-de-retea/orico/gigabit-asl-u3-pro-usb-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1824448/thumbnails/gigabit-asl-u3-pro-u
 9/22/2020 12:10:51 PM 108,72 RON
 9/26/2020 2:54:40 PM 110,43 RON
 9/27/2020 6:56:15 PM 110,43 RON
+10/5/2020 7:11:48 PM 109,22 RON

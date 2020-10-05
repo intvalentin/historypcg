@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vba430ae
 824772
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/nikon/d610-body-negru/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2/824772/thumbnails/d610-body-negru-6b8f76db
     Pret    
 9/22/2020 5:48:44 PM 2.998,99 RON
 9/26/2020 7:02:50 PM 2.998,99 RON
+10/5/2020 5:43:56 PM 3.999,98 RON

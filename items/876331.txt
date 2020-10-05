@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt rb2011il-in
 876331
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/rb2011il-in/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/876331/thumbnails/rb2011il-in-2c2bf99e4fae
 9/22/2020 12:11:56 PM 453,15 RON
 9/26/2020 2:56:53 PM 453,15 RON
 9/27/2020 6:58:31 PM 453,15 RON
+10/5/2020 7:22:25 PM 453,15 RON

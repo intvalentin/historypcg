@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li065is-az01b
 369303
     Product link    
 https://www.pcgarage.ro/ups/njoy/isis-650l/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/369303/thumbnails/isis-650l-361f2cea1bbfb0
 9/22/2020 12:54:20 PM 272,56 RON
 9/26/2020 3:31:40 PM 276,86 RON
 9/27/2020 7:43:04 PM 276,86 RON
+10/5/2020 11:12:52 PM 273,81 RON

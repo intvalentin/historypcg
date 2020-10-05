@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032243
 1943146
     Product link    
 https://www.pcgarage.ro/ups/eaton/9e3ki-3000va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/1943146/thumbnails/9e3ki-3000va-68ade85
 9/22/2020 12:51:05 PM 4.281,24 RON
 9/26/2020 3:15:59 PM 4.281,24 RON
 9/27/2020 7:27:20 PM 4.281,24 RON
+10/5/2020 10:57:58 PM 4.281,24 RON

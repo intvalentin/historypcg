@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wbs510
 1396939
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/wbs510/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1109408/1396939/thumbnails/wbs510-f46be389d9
 9/22/2020 12:24:22 PM 352,12 RON
 9/26/2020 2:59:54 PM 352,12 RON
 9/27/2020 7:01:29 PM 352,12 RON
+10/5/2020 7:45:51 PM 352,12 RON

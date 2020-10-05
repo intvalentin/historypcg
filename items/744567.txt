@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |91-010-204001b
 744567
     Product link    
 https://www.pcgarage.ro/media-convertoare/zyxel/sfp-sx-d-trasceiver/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/744567/thumbnails/sfp-sx-d-5036ca6e60
 9/22/2020 12:34:56 PM 529,35 RON
 9/26/2020 3:11:34 PM 531,17 RON
 9/27/2020 7:22:55 PM 531,17 RON
+10/5/2020 6:22:38 PM 513,47 RON

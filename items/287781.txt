@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp2000+-+eu
 287781
     Product link    
 https://www.pcgarage.ro/incarcatoare/energizer/sp2000/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4/287781/thumbnails/sp2000-bed56b6f56ef62bcf
     Pret    
 9/22/2020 5:59:23 PM 160,77 RON
 9/26/2020 7:16:20 PM 162,60 RON
+10/5/2020 10:13:23 PM 160,81 RON

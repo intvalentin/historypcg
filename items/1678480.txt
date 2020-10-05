@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2000-lcd-on-r20
 1678480
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-2000-online-lcd-rm-2000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1678480/thumbnails/powermust-2000-on
 9/22/2020 12:50:01 PM 2.430,55 RON
 9/26/2020 3:18:59 PM 2.468,88 RON
 9/27/2020 7:30:18 PM 2.468,88 RON
+10/5/2020 10:46:21 PM 2.441,76 RON

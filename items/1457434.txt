@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.78e01gc0e
 1457434
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/eh400-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1355324/1457434/thumbnails/eh400-white-0cc5f
 9/22/2020 5:40:20 PM 3.371,98 RON
 9/26/2020 6:51:39 PM 3.383,98 RON
 9/28/2020 8:33:53 AM 3.383,98 RON
+10/5/2020 6:41:00 PM 3.381,98 RON

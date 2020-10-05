@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h670040
 1298439
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-536wi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/1298439/thumbnails/eb-536wi-810bfea5a
 9/22/2020 5:42:00 PM 7.397,98 RON
 9/26/2020 6:53:53 PM 7.423,98 RON
 9/28/2020 8:36:08 AM 7.423,98 RON
+10/5/2020 6:59:09 PM 7.417,98 RON

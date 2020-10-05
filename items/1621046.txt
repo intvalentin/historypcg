@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba082694
 1621046
     Product link    
 https://www.pcgarage.ro/baterii/varta/alkaline-v27a-blister-1-buc-1/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1605610/1621046/thumbnails/alkaline-v27a-bli
     Pret    
 9/22/2020 6:01:41 PM 11,78 RON
 9/26/2020 7:20:50 PM 11,78 RON
+10/5/2020 10:34:35 PM 11,78 RON

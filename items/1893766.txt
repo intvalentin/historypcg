@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dmg-09
 1893766
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/poweron/dmg-09/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1893766/thumbnails/dmg-09-1c13ad048b160
 9/22/2020 12:06:40 PM 56,04 RON
 9/26/2020 2:51:45 PM 56,92 RON
 9/27/2020 6:53:23 PM 56,92 RON
+10/5/2020 6:51:10 PM 56,30 RON

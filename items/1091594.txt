@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rd-5g30
 1091594
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/rd-5g30/
@@ -8,3 +8,4 @@ Ubiquiti RD-5G30
 https://5.grgs.ro/images/products/1/800612/1091594/thumbnails/rd-5g30-e9e88f23923e524095a7e2f81bc1e1cd.jpg
     Pret    
 9/22/2020 12:38:10 PM 670,21 RON
+10/5/2020 6:35:40 PM 673,30 RON

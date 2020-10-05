@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-hd-5
 1778716
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-unifi-uap-ac-hd-dual-band-5-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1778716/thumbnails/gigabit-unifi-uap-ac
 9/22/2020 12:27:32 PM 7.766,36 RON
 9/26/2020 3:01:23 PM 7.888,82 RON
 9/27/2020 7:02:58 PM 7.888,82 RON
+10/5/2020 5:50:42 PM 7.802,16 RON

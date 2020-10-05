@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa808da
 258625
     Product link    
 https://www.pcgarage.ro/obiective/nikon/af-s-nikkor-28-300mm-f-35-56g-ed-vr/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4/258625/thumbnails/af-s-nikkor-28-300mm-f-3
     Pret    
 9/22/2020 5:56:01 PM 4.399,00 RON
 9/26/2020 7:12:36 PM 4.399,00 RON
+10/5/2020 6:45:58 PM 4.399,00 RON

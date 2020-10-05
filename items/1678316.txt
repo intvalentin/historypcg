@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |600-led-li-r10
 1678316
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-600-plus-625va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1664860/1678316/thumbnails/powermust-600-plu
 9/22/2020 12:55:25 PM 302,16 RON
 9/26/2020 3:27:57 PM 307,01 RON
 9/27/2020 7:39:21 PM 306,93 RON
+10/5/2020 11:14:58 PM 304,56 RON

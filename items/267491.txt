@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm46565
 267491
     Product link    
 https://www.pcgarage.ro/acumulatori/hama/micro-hr03-nimh-battery-500-mah/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4/267491/thumbnails/micro-hr03-nimh-battery-
     Pret    
 9/22/2020 6:00:00 PM 19,83 RON
 9/26/2020 7:17:07 PM 19,83 RON
+10/5/2020 10:16:18 PM 19,83 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72902gc1e
 1352010
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/eh319usti/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1352010/thumbnails/eh319usti-95a721c
 9/22/2020 5:42:00 PM 7.429,98 RON
 9/26/2020 6:53:09 PM 7.455,98 RON
 9/28/2020 8:35:23 AM 7.455,98 RON
+10/5/2020 6:59:25 PM 7.445,98 RON

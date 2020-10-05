@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ity2-tw060b
 784106
     Product link    
 https://www.pcgarage.ro/ups/socomec/itys-2-6000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/784106/thumbnails/itys-2-6000va-d52a4a64c1
 9/22/2020 12:52:10 PM 8.574,66 RON
 9/26/2020 3:22:45 PM 8.599,20 RON
 9/27/2020 7:34:07 PM 8.604,14 RON
+10/5/2020 11:05:33 PM 8.598,49 RON

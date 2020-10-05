@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nic-r1
 208441
     Product link    
 https://www.pcgarage.ro/placi-de-retea/gembird/nic-r1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/208441/thumbnails/nic-r1-daee7d8ca80c3c683
 9/22/2020 12:09:48 PM 17,11 RON
 9/26/2020 2:55:24 PM 17,38 RON
 9/27/2020 6:57:00 PM 17,38 RON
+10/5/2020 7:08:30 PM 17,19 RON

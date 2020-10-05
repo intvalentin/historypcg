@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md475qb+-+a
 467279
     Product link    
 https://www.pcgarage.ro/mp3-playere/apple/ipod-nano-generatia-a-7-a-16gb-pink/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4/467279/thumbnails/ipod-nano-7th-gen-16gb-p
     Pret    
 9/22/2020 6:13:46 PM 1.170,67 RON
 9/26/2020 7:25:20 PM 1.183,96 RON
+10/5/2020 11:21:48 PM 1.170,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce246a
 2050158
     Product link    
 https://www.pcgarage.ro/consumabile/hp/fuser-kit-ce246a/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2050158/thumbnails/fuser-kit-ce246a-
 9/21/2020 4:03:41 PM 1.433,98 RON
 9/26/2020 10:29:50 AM 1.439,98 RON
 9/27/2020 1:47:38 PM 1.435,98 RON
+10/5/2020 6:43:57 PM 1.437,98 RON

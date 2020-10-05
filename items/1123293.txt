@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cps600e
 1123293
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/cps600e-600v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/991247/1123293/thumbnails/cps600e-600v-6979a
 9/22/2020 12:57:34 PM 634,01 RON
 9/26/2020 3:29:27 PM 636,19 RON
 9/27/2020 7:40:50 PM 636,19 RON
+10/5/2020 10:16:22 PM 635,47 RON

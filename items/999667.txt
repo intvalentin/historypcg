@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx950u-gr
 999667
     Product link    
 https://www.pcgarage.ro/ups/apc/back-ups-950va-schuko-sockets/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/843505/999667/thumbnails/back-ups-950va-schu
 9/22/2020 12:39:15 PM 548,99 RON
 9/26/2020 3:14:30 PM 548,99 RON
 9/27/2020 7:25:51 PM 548,99 RON
+10/5/2020 10:12:41 PM 548,99 RON

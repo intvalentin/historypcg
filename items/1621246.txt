@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba082882
 1621246
     Product link    
 https://www.pcgarage.ro/baterii/varta/lithium-cr2-blister/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1605610/1621246/thumbnails/lithium-cr2-blist
     Pret    
 9/22/2020 6:03:25 PM 29,60 RON
 9/26/2020 7:20:05 PM 29,60 RON
+10/5/2020 10:55:11 PM 29,60 RON

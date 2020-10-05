@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eg-ups-002
 640813
     Product link    
 https://www.pcgarage.ro/ups/gembird/eg-ups-002/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/640813/thumbnails/eg-ups-002-c59bc244f8cef
 9/22/2020 12:42:29 PM 309,83 RON
 9/26/2020 3:30:56 PM 313,97 RON
 9/27/2020 7:42:19 PM 313,97 RON
+10/5/2020 6:58:17 PM 319,65 RON

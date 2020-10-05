@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wap1200
 999702
     Product link    
 https://www.pcgarage.ro/access-point-uri/edimax/wap1200/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/999702/thumbnails/wap1200-1a09ea881ae
 9/22/2020 12:25:26 PM 939,09 RON
 9/26/2020 3:05:30 PM 954,08 RON
 9/27/2020 7:03:42 PM 953,88 RON
+10/5/2020 5:42:45 PM 946,53 RON

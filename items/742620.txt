@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |013r00657
 742620
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-013r00657-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/2/742620/thumbnails/drum-013r00657-black-0c2
 9/21/2020 5:02:22 PM 1.561,98 RON
 9/26/2020 10:38:44 AM 1.567,98 RON
 9/27/2020 1:57:12 PM 1.567,98 RON
+10/5/2020 8:00:24 PM 1.565,98 RON
+10/5/2020 5:37:15 PM 1.565,98 RON

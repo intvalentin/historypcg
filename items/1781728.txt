@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2218c003aa
 1781728
     Product link    
 https://www.pcgarage.ro/camere-video/canon/xa11-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6115/1781728/thumbnails/xa11-black-81c23da3d
     Pret    
 9/22/2020 5:52:35 PM 6.681,98 RON
 9/26/2020 7:07:21 PM 6.705,98 RON
+10/5/2020 6:11:46 PM 6.697,98 RON

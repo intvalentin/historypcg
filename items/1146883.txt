@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9194b001aa
 1146883
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/pgi-1500xlm-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/991247/1146883/thumbnails/pgi-1500xlm-magent
 9/21/2020 6:09:43 PM 75,98 RON
 9/26/2020 11:09:09 AM 75,98 RON
 9/27/2020 2:30:28 PM 75,98 RON
+10/5/2020 11:22:49 PM 75,98 RON

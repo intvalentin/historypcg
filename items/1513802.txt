@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sv1905c003aa
 1513802
     Product link    
 https://www.pcgarage.ro/videoproiectoare/canon/lv-hd420/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1475542/1513802/thumbnails/lv-hd420-4df14bf7
 9/22/2020 5:41:28 PM 6.607,98 RON
 9/26/2020 6:50:55 PM 6.629,98 RON
 9/28/2020 8:33:08 AM 6.629,98 RON
+10/5/2020 6:57:16 PM 6.621,98 RON

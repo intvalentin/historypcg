@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |am-5g19
 1090459
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/am-5g19/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/1090459/thumbnails/am-5g19-77502bc947
 9/22/2020 12:37:04 PM 701,27 RON
 9/26/2020 3:13:03 PM 701,27 RON
 9/27/2020 7:24:23 PM 701,27 RON
+10/5/2020 6:36:44 PM 701,27 RON

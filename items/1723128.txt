@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |scrm601
 1723128
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/ssk/scrm601-usb-30/
@@ -8,3 +8,4 @@ SSK SCRM601 USB 3.0
 https://5.grgs.ro/images/products/1/8674/1723128/thumbnails/scrm601-usb-30-df4e0dcc6769aa83adf30430a6b6549e.jpg
     Pret    
 9/26/2020 7:08:52 PM 48,58 RON
+10/5/2020 6:24:32 PM 48,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwa-131
 92485
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/d-link/dwa-131/
@@ -8,3 +8,4 @@ D-Link DWA-131
 https://5.grgs.ro/images/products/1/2/92485/thumbnails/dwa-131-625a58095a50ce49a71e74d781c6b500.jpg
     Pret    
 9/22/2020 12:06:40 PM 49,15 RON
+10/5/2020 6:50:21 PM 49,26 RON

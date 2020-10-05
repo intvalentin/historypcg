@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp1600elcd
 2043398
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/vp1600elcd-1600va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2043398/thumbnails/vp1200elcd-1200va-6d
 9/22/2020 12:39:15 PM 798,99 RON
 9/26/2020 3:14:30 PM 798,99 RON
 9/27/2020 7:25:51 PM 798,99 RON
+10/5/2020 6:45:35 PM 748,99 RON

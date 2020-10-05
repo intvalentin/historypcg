@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upa152v
 1393584
     Product link    
 https://www.pcgarage.ro/ups/delta/agilon-family-vx-series-1500va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1146523/1393584/thumbnails/agilon-family-vx-
 9/22/2020 12:57:34 PM 811,00 RON
 9/26/2020 3:29:27 PM 823,79 RON
 9/27/2020 7:40:50 PM 823,79 RON
+10/5/2020 11:35:37 PM 814,74 RON

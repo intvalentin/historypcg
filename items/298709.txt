@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tk-895y
 298709
     Product link    
 https://www.pcgarage.ro/consumabile/kyocera/toner-tk-895y-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/929099/298709/thumbnails/toner-tk-895y-yello
 9/21/2020 4:14:04 PM 393,98 RON
 9/26/2020 10:38:00 AM 395,98 RON
 9/27/2020 1:56:22 PM 395,98 RON
+10/5/2020 7:15:52 PM 395,98 RON

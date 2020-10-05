@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kyotk130
 245203
     Product link    
 https://www.pcgarage.ro/consumabile/kyocera/toner-tk-130/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/245203/thumbnails/toner-tk-130-68f70818444
 9/21/2020 4:16:09 PM 499,98 RON
 9/26/2020 10:40:58 AM 501,98 RON
 9/27/2020 1:59:33 PM 501,98 RON
+10/5/2020 7:20:43 PM 501,98 RON

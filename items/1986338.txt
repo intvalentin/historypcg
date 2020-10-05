@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-23175
 1986338
     Product link    
 https://www.pcgarage.ro/microfoane/trust/gxt-248-luno/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1979534/1986338/thumbnails/gxt-248-luno-f684
     Pret    
 9/22/2020 5:47:02 PM 261,15 RON
 9/26/2020 6:59:54 PM 261,15 RON
+10/5/2020 7:57:33 PM 261,15 RON

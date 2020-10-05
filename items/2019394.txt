@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |o1
 2019394
     Product link    
 https://www.pcgarage.ro/antene/tenda/o1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8491/2019394/thumbnails/o1-c6afb0a91b9d07594
 9/22/2020 12:37:04 PM 155,04 RON
 9/26/2020 3:13:03 PM 155,58 RON
 9/27/2020 7:24:23 PM 155,58 RON
+10/5/2020 6:28:12 PM 131,72 RON

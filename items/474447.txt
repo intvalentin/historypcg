@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npl-0800-d
 474447
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-pl-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/474447/thumbnails/netys-pl-800va-6d59c3b24
 9/22/2020 12:45:42 PM 489,34 RON
 9/26/2020 3:23:29 PM 491,02 RON
 9/27/2020 7:34:52 PM 480,34 RON
+10/5/2020 10:08:53 PM 479,80 RON

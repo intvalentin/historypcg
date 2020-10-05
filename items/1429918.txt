@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa830da
 1429918
     Product link    
 https://www.pcgarage.ro/obiective/nikon/70-200mm-f-28e-fl-ed-vr-af-s-nikkor/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1190677/1429918/thumbnails/70-200mm-f-28e-fl
     Pret    
 9/22/2020 5:56:32 PM 9.998,99 RON
 9/26/2020 7:11:51 PM 9.998,99 RON
+10/5/2020 6:49:06 PM 10.999,00 RON

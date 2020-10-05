@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jg962a
 1968850
     Product link    
 https://www.pcgarage.ro/switch-uri/hp/gigabit-1950-24g-2sfp-plus-2xgt-poe-plus/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1968850/thumbnails/gigabit-1950-24g-2sf
 9/22/2020 11:55:24 AM 4.222,16 RON
 9/26/2020 2:45:03 PM 4.233,19 RON
 9/27/2020 6:46:44 PM 4.235,62 RON
+10/5/2020 6:38:16 PM 4.232,84 RON

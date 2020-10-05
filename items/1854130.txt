@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3454c005aa
 1854130
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/canon/eos-250d-body-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1848722/1854130/thumbnails/eos-250d-body-bla
     Pret    
 9/22/2020 5:48:44 PM 2.855,98 RON
 9/26/2020 7:02:08 PM 2.863,98 RON
+10/5/2020 5:42:35 PM 2.863,98 RON

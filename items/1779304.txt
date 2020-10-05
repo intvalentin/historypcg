@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |is-m5
 1779304
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/isostation-is-m5/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1779304/thumbnails/isostation-is-m5-5e03
 9/22/2020 12:37:04 PM 552,30 RON
 9/26/2020 3:13:03 PM 535,80 RON
 9/27/2020 7:24:23 PM 535,80 RON
+10/5/2020 6:30:04 PM 529,91 RON

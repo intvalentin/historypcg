@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3000-lcd-lis-r20
 1678468
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-3000-netguard-lcd-3000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1678468/thumbnails/powermust-3000-ne
 9/22/2020 12:43:33 PM 2.439,76 RON
 9/26/2020 3:18:59 PM 2.478,76 RON
 9/27/2020 7:30:18 PM 2.478,22 RON
+10/5/2020 10:46:38 PM 2.459,11 RON

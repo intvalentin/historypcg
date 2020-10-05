@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |be550g-gr
 89331
     Product link    
 https://www.pcgarage.ro/ups/apc/es-8-outlet-550va-230v-be550g-gr/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/89331/thumbnails/es-8-outlet-550va-230v-be
 9/22/2020 12:56:30 PM 540,93 RON
 9/26/2020 3:32:23 PM 542,79 RON
 9/27/2020 7:43:46 PM 542,79 RON
+10/5/2020 11:27:46 PM 542,18 RON

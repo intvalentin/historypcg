@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.70701gc0e
 1147998
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x402-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/929094/1147998/thumbnails/x402-white-b9b2d88
 9/22/2020 5:39:49 PM 2.975,98 RON
 9/26/2020 6:53:53 PM 2.985,98 RON
 9/28/2020 8:36:08 AM 2.985,98 RON
+10/5/2020 6:36:14 PM 2.983,98 RON

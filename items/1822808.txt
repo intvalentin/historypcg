@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vpn2s-zz0101f
 1822808
     Product link    
 https://www.pcgarage.ro/routere/zyxel/gigabit-zywall-vpn2s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5147/1822808/thumbnails/gigabit-zywall-vpn2s
 9/22/2020 12:13:01 PM 855,96 RON
 9/26/2020 2:56:53 PM 858,90 RON
 9/27/2020 6:58:31 PM 858,90 RON
+10/5/2020 7:30:33 PM 857,93 RON

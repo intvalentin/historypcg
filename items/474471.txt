@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npr-3300-rt
 474471
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-pr-rt-3300va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/474471/thumbnails/netys-pr-rt-3300va-e093a
 9/22/2020 12:51:05 PM 4.739,84 RON
 9/26/2020 3:22:45 PM 4.172,72 RON
 9/27/2020 7:34:07 PM 4.011,74 RON
+10/5/2020 10:57:26 PM 4.007,21 RON

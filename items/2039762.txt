@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pfs-2
 2039762
     Product link    
 https://www.pcgarage.ro/accesorii-proiectoare/sbox/projector-pfs-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2039762/thumbnails/projector-pfs-2-9
 9/22/2020 5:43:38 PM 328,86 RON
 9/26/2020 6:55:23 PM 329,95 RON
 9/28/2020 8:37:35 AM 329,95 RON
+10/5/2020 7:15:28 PM 329,57 RON

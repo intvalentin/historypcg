@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |txm431-sr
 1139473
     Product link    
 https://www.pcgarage.ro/media-convertoare/tp-link/gigabit-txm431-sr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/1139473/thumbnails/gigabit-txm431-sr-
 9/22/2020 12:34:56 PM 173,13 RON
 9/26/2020 3:11:34 PM 173,13 RON
 9/27/2020 7:22:55 PM 173,13 RON
+10/5/2020 6:21:48 PM 173,13 RON

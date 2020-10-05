@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h878540
 1849998
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-700u/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1844684/1849998/thumbnails/eb-700u-c0ba20887
 9/22/2020 5:42:31 PM 16.699,98 RON
 9/26/2020 6:48:42 PM 16.747,98 RON
 9/28/2020 8:31:36 AM 16.755,98 RON
+10/5/2020 7:08:35 PM 16.745,98 RON

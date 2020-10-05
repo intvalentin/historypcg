@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |is-5ac-eu
 1864578
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/isostation-is-5ac/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1864578/thumbnails/isostation-is-m5-5e03
 9/22/2020 12:38:10 PM 626,77 RON
 9/26/2020 3:13:47 PM 636,65 RON
 9/27/2020 7:25:07 PM 636,65 RON
+10/5/2020 6:35:07 PM 629,66 RON

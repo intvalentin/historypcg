@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa806da
 258623
     Product link    
 https://www.pcgarage.ro/obiective/nikon/af-s-dx16-35mm-f-4g-ed-vr/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3/258623/thumbnails/af-s-dx16-35mm-f-4g-ed-v
     Pret    
 9/22/2020 5:56:32 PM 6.199,00 RON
 9/26/2020 7:11:51 PM 6.199,00 RON
+10/5/2020 6:46:46 PM 6.199,00 RON

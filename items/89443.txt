@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |42918106
 89443
     Product link    
 https://www.pcgarage.ro/consumabile/oki/magenta-image-drum-42918106/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/89443/thumbnails/magenta-image-drum-429181
 9/21/2020 3:59:31 PM 935,98 RON
 9/26/2020 10:34:17 AM 939,98 RON
 9/27/2020 1:51:33 PM 939,98 RON
+10/5/2020 6:36:57 PM 937,98 RON

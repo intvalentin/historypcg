@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cps1500pie
 1123333
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/cps1500pie-1500va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/802687/1123333/thumbnails/cps1500pie-1500va-
 9/22/2020 12:48:56 PM 1.861,03 RON
 9/26/2020 3:20:30 PM 1.867,42 RON
 9/27/2020 7:31:50 PM 1.867,42 RON
+10/5/2020 10:34:43 PM 1.865,32 RON

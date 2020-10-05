@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gs2210-24hp-eu0101f
 883331
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gs2210-24hp/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/883331/thumbnails/gs2210-24hp-70cdbc7
 9/22/2020 11:45:40 AM 4.121,87 RON
 9/26/2020 2:42:05 PM 4.138,44 RON
 9/27/2020 6:51:13 PM 4.138,44 RON
+10/5/2020 6:34:19 PM 3.513,12 RON

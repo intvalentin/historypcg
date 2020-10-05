@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1500-lcd-li-t30
 1678432
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1500-line-interactive-lcd-1500va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1666176/1678432/thumbnails/powermust-1000-li
 9/22/2020 12:42:29 PM 652,33 RON
 9/26/2020 3:18:59 PM 662,61 RON
 9/27/2020 7:30:18 PM 662,61 RON
+10/5/2020 10:17:12 PM 655,33 RON

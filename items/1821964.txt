@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1995c001aa
 1821964
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-581xxl-cyan/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5147/1821964/thumbnails/cartus-cli-581xxl-cy
 9/21/2020 6:09:43 PM 95,98 RON
 9/26/2020 11:05:26 AM 95,98 RON
 9/27/2020 2:26:30 PM 95,98 RON
+10/5/2020 11:28:16 PM 95,98 RON

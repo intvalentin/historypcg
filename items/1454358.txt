@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |re305
 1454358
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/tp-link/re305-dual-band/
@@ -8,3 +8,4 @@ TP-LINK RE305 Dual-Band
 https://3.grgs.ro/images/products/1/1088099/1454358/thumbnails/re305-dual-band-76e5666fc686353c411fd27e44a34c25.jpg
     Pret    
 9/22/2020 12:32:49 PM 149,18 RON
+10/5/2020 6:15:02 PM 149,18 RON

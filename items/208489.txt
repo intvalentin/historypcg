@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-ps110u
 208489
     Product link    
 https://www.pcgarage.ro/print-servere/tp-link/tl-ps110u/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/208489/thumbnails/tl-ps110u-60c0c8b996c968
 9/22/2020 12:33:51 PM 192,31 RON
 9/26/2020 3:10:44 PM 192,31 RON
 9/27/2020 7:22:10 PM 192,31 RON
+10/5/2020 6:17:08 PM 208,30 RON

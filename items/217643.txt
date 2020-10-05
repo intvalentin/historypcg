@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |clt-r407
 217643
     Product link    
 https://www.pcgarage.ro/consumabile/samsung/drum-clt-r407/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/217643/thumbnails/drum-unit-clt-r407-b4741
 9/21/2020 4:16:09 PM 533,98 RON
 9/26/2020 10:41:43 AM 533,98 RON
 9/27/2020 2:00:21 PM 533,98 RON
+10/5/2020 7:22:51 PM 533,98 RON

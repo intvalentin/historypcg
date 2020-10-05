@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ci-02
 1936978
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/inter-tech/ac-ci-02-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2554/1936978/thumbnails/ac-ci-02-black-152e1
     Pret    
 9/22/2020 5:53:10 PM 47,05 RON
 9/26/2020 7:08:07 PM 47,59 RON
+10/5/2020 6:16:39 PM 47,06 RON

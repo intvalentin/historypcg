@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kyotd81y
 245273
     Product link    
 https://www.pcgarage.ro/consumabile/kyocera/toner-yellow-td-81y/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/4/245273/thumbnails/toner-yellow-td-81y-1384
 9/21/2020 5:02:22 PM 1.513,98 RON
 9/26/2020 10:40:58 AM 1.517,98 RON
 9/27/2020 1:59:33 PM 1.515,98 RON
+10/5/2020 8:00:08 PM 1.515,98 RON
+10/5/2020 5:37:15 PM 1.515,98 RON

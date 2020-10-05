@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0tk0rd
 280563
     Product link    
 https://www.pcgarage.ro/consumabile/konica-minolta/drum-a0tk0rd-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/280563/thumbnails/drum-a0tk0rd-black-3b546
 9/21/2020 4:24:28 PM 1.021,98 RON
 9/26/2020 10:38:44 AM 1.005,98 RON
 9/27/2020 1:57:57 PM 1.005,98 RON
+10/5/2020 7:47:17 PM 1.011,98 RON

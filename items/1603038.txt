@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r-010
 1603038
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/inter-tech/argus-r-010-usb-20/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1594546/1603038/thumbnails/argus-r-010-card-
     Pret    
 9/22/2020 5:53:45 PM 95,09 RON
 9/26/2020 7:08:07 PM 96,17 RON
+10/5/2020 6:21:14 PM 95,12 RON

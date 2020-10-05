@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wre2206-eu0101f
 1767208
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/zyxel/wre2206/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1767208/thumbnails/wre2206-f988617e1
 9/22/2020 12:31:44 PM 156,15 RON
 9/26/2020 3:09:16 PM 156,73 RON
 9/27/2020 7:20:43 PM 156,73 RON
+10/5/2020 6:08:15 PM 151,96 RON

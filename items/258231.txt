@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa129da
 258231
     Product link    
 https://www.pcgarage.ro/obiective/nikon/35mm-f-2d-af-nikkor/
@@ -8,3 +8,4 @@ Nikon 35mm f/2D AF NIKKOR
 https://4.grgs.ro/images/products/1/4/258231/thumbnails/35mm-f-2d-af-nikkor-dd4e09119b87694a65dd7f51b9dcdac1.jpg
     Pret    
 9/22/2020 5:56:32 PM 1.699,00 RON
+10/5/2020 6:52:05 PM 1.699,00 RON

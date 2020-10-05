@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg026
 1852650
     Product link    
 https://www.pcgarage.ro/microfoane/spcgear/sm900/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1844684/1852650/thumbnails/sm900-f2d16dc8f82
     Pret    
 9/22/2020 5:48:08 PM 583,01 RON
 9/26/2020 6:59:54 PM 584,68 RON
+10/5/2020 8:01:37 PM 584,63 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jru11.001
 2056286
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/pl1520i/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2056286/thumbnails/pl1520i-85099fb5232e
 9/22/2020 5:37:36 PM 5.335,98 RON
 9/26/2020 6:47:57 PM 5.351,98 RON
 9/28/2020 8:30:05 AM 5.355,98 RON
+10/5/2020 6:51:24 PM 5.345,98 RON

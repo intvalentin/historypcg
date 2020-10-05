@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72902gc0e
 1351989
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/eh320usti/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986897/1351989/thumbnails/eh320usti-3a1247e6
 9/22/2020 5:42:00 PM 7.725,98 RON
 9/26/2020 6:53:09 PM 7.753,98 RON
 9/28/2020 8:35:23 AM 7.753,98 RON
+10/5/2020 7:00:13 PM 7.743,98 RON

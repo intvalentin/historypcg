@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mftrstudio
 1626578
     Product link    
 https://www.pcgarage.ro/microfoane/tracer/studio/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5633/1626578/thumbnails/studio-cb86d4165c085
     Pret    
 9/22/2020 5:47:02 PM 45,39 RON
 9/26/2020 7:00:38 PM 45,39 RON
+10/5/2020 7:50:12 PM 45,39 RON

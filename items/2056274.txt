@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jr311.001
 2056274
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/pd1320wi/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2056274/thumbnails/pd1320wi-7efa628e156
 9/22/2020 5:37:36 PM 4.407,98 RON
 9/26/2020 6:47:57 PM 4.421,98 RON
 9/28/2020 8:30:05 AM 4.423,98 RON
+10/5/2020 6:47:52 PM 4.419,98 RON

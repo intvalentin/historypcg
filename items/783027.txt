@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-wpa4220kit
 783027
     Product link    
 https://www.pcgarage.ro/powerline/tp-link/tl-wpa4220kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/783027/thumbnails/tl-wpa4220kit-1ce6e
 9/22/2020 12:28:35 PM 284,34 RON
 9/26/2020 3:07:41 PM 284,34 RON
 9/27/2020 7:05:52 PM 284,34 RON
+10/5/2020 5:53:54 PM 318,25 RON

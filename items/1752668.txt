@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310155
 1752668
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-lp-tower-1000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692296/1752668/thumbnails/keor-lp-2000va-9c
 9/22/2020 12:58:39 PM 1.308,50 RON
 9/26/2020 3:26:28 PM 1.311,99 RON
 9/27/2020 7:37:51 PM 1.311,99 RON
+10/5/2020 11:42:53 PM 1.309,61 RON

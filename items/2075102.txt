@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ftdcfast
 2075102
     Product link    
 https://www.pcgarage.ro/trepiede/tnb/fast-shot-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/4525/2075102/thumbnails/fast-shot-black-7491
     Pret    
 9/22/2020 5:58:49 PM 145,51 RON
 9/26/2020 7:15:36 PM 145,51 RON
+10/5/2020 10:10:29 PM 145,51 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bk650ei
 7117
     Product link    
 https://www.pcgarage.ro/ups/apc/bk650ei/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/7117/thumbnails/bk650eisfl230.jpg
 9/22/2020 12:41:25 PM 678,16 RON
 9/26/2020 3:24:14 PM 680,09 RON
 9/27/2020 7:35:37 PM 680,49 RON
+10/5/2020 10:19:02 PM 680,04 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |je007a
 264919
     Product link    
 https://www.pcgarage.ro/switch-uri/hp/v1910-24g-poe-je007a/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/264919/thumbnails/v1910-24g-poe-je007a-e57
 9/22/2020 11:55:24 AM 4.295,92 RON
 9/26/2020 2:51:00 PM 4.310,68 RON
 9/27/2020 6:52:41 PM 4.310,68 RON
+10/5/2020 6:38:39 PM 4.305,82 RON

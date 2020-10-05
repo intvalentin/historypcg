@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jma001da
 1732716
     Product link    
 https://www.pcgarage.ro/obiective/nikon/z-50mm-f-18-s-nikkor/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1723568/1732716/thumbnails/z-50mm-f-18-s-nik
     Pret    
 9/22/2020 5:56:01 PM 2.498,99 RON
 9/26/2020 7:11:51 PM 2.498,99 RON
+10/5/2020 6:44:54 PM 2.699,00 RON

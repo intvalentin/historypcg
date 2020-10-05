@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc225xly
 1161857
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/cartus-lc-225-xl-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/986422/1161857/thumbnails/cartus-lc-225-xl-y
 9/21/2020 5:08:32 PM 81,98 RON
 9/26/2020 10:52:06 AM 81,98 RON
 9/27/2020 2:11:29 PM 81,98 RON
+10/5/2020 6:26:44 PM 81,98 RON

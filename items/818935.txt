@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa137da
 818935
     Product link    
 https://www.pcgarage.ro/obiective/nikon/af-s-nikkor-35mm-f-18g-ed/
@@ -8,3 +8,4 @@ Nikon AF-S NIKKOR 35mm f/1.8G ED
 https://4.grgs.ro/images/products/1/782584/818935/thumbnails/af-s-nikkor-35mm-f-18g-ed-18fb072d8f9f8920677509362bf30256.png
     Pret    
 9/26/2020 7:11:51 PM 2.749,00 RON
+10/5/2020 6:45:10 PM 2.749,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3616c030aa
 1968786
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/canon/eos-90d-black-plus-obiectiv-ef-s-18-55mm-f-35-56-is-stm/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/8977/1968786/thumbnails/eos-90d-black-plus-o
     Pret    
 9/22/2020 5:49:16 PM 7.213,98 RON
 9/26/2020 7:02:08 PM 7.233,98 RON
+10/5/2020 5:45:58 PM 7.233,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00348
 1905714
     Product link    
 https://www.pcgarage.ro/acumulatori/panasonic/eneloop-lite-r03-aaa-550mah-blister-4buc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1202/1905714/thumbnails/eneloop-lite-r03-aaa
     Pret    
 9/22/2020 6:00:33 PM 42,90 RON
 9/26/2020 7:17:07 PM 43,05 RON
+10/5/2020 10:22:15 PM 43,00 RON

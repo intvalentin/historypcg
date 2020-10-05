@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp900epfclcd
 273863
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/cp900epfclcd-900va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/273863/thumbnails/cp900epfclcd-900va-0d026
 9/22/2020 12:41:25 PM 881,72 RON
 9/26/2020 3:23:30 PM 885,22 RON
 9/27/2020 7:34:52 PM 885,22 RON
+10/5/2020 10:20:58 PM 765,13 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dur-312
 2039458
     Product link    
 https://www.pcgarage.ro/baterii/duracell/312-6buc/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3041/2039458/thumbnails/312-6buc-1668ac89122
     Pret    
 9/22/2020 6:03:25 PM 41,06 RON
 9/26/2020 7:19:20 PM 41,06 RON
+10/5/2020 11:00:36 PM 41,06 RON

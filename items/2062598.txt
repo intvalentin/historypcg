@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdl-0700
 2062598
     Product link    
 https://www.pcgarage.ro/microfoane/antlion-audio/modmic-wireless/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6954/2062598/thumbnails/modmic-wireless-e027
     Pret    
 9/22/2020 5:46:30 PM 704,30 RON
 9/26/2020 6:58:22 PM 715,56 RON
+10/5/2020 7:45:53 PM 709,88 RON

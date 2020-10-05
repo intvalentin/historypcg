@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0628b001aa
 15187
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-5-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/15187/thumbnails/cartus-pgi-5-black-c37b73
 9/21/2020 6:09:43 PM 75,98 RON
 9/26/2020 11:17:13 AM 75,98 RON
 9/27/2020 2:37:36 PM 75,98 RON
+10/5/2020 11:21:58 PM 75,98 RON

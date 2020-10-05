@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l8139d
 260305
     Product link    
 https://www.pcgarage.ro/placi-de-retea/tenda/l8139d/
@@ -8,3 +8,4 @@ Tenda L8139D
 https://2.grgs.ro/images/products/1/4/260305/thumbnails/l8139d-ec0841a0a07a07020a5f381fb7ff3f2b.jpg
     Pret    
 9/22/2020 12:10:51 PM 17,88 RON
+10/5/2020 7:15:00 PM 17,96 RON

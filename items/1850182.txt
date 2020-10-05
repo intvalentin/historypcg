@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln856011060007
 1850182
     Product link    
 https://www.pcgarage.ro/ups/legrand/inform-guardian-600va-360w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848774/1850182/thumbnails/inform-guardian-6
 9/22/2020 12:55:25 PM 333,02 RON
 9/26/2020 3:26:28 PM 333,90 RON
 9/27/2020 7:37:50 PM 333,90 RON
+10/5/2020 11:16:38 PM 333,31 RON

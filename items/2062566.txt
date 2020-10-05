@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdl-1500
 2062566
     Product link    
 https://www.pcgarage.ro/microfoane/antlion-audio/modmic-usb/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2062566/thumbnails/modmic-usb-c7342910d
     Pret    
 9/22/2020 5:46:30 PM 481,89 RON
 9/26/2020 6:58:22 PM 489,60 RON
+10/5/2020 7:45:05 PM 485,71 RON

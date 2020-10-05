@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pla5405v2-eu0201f
 1777876
     Product link    
 https://www.pcgarage.ro/powerline/zyxel/gigabit-pla5405-v2-kit/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1777876/thumbnails/gigabit-pla5405-v2-k
 9/22/2020 12:28:36 PM 369,03 RON
 9/26/2020 3:06:59 PM 369,62 RON
 9/27/2020 7:05:09 PM 369,62 RON
+10/5/2020 5:57:01 PM 369,20 RON

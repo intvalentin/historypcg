@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt rb2011ils-in
 876321
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/rb2011ils-in/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/862960/876321/thumbnails/rb2011ils-in-f68fcb
 9/22/2020 12:11:56 PM 521,26 RON
 9/26/2020 2:56:53 PM 521,26 RON
 9/27/2020 6:58:31 PM 521,26 RON
+10/5/2020 7:22:41 PM 478,04 RON

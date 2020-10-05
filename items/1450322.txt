@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eap245
 1450322
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/gigabit-eap245-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025736/1450322/thumbnails/gigabit-eap245-du
 9/22/2020 12:20:03 PM 447,99 RON
 9/26/2020 2:59:08 PM 447,99 RON
 9/27/2020 7:00:44 PM 447,99 RON
+10/5/2020 7:49:58 PM 508,06 RON

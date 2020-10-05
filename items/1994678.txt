@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dsm-01
 1994678
     Product link    
 https://www.pcgarage.ro/microfoane/white-shark/dsm-01-zonis/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1990682/1994678/thumbnails/dsm-01-zonis-e3ed
     Pret    
 9/22/2020 5:45:57 PM 378,99 RON
 9/26/2020 6:58:22 PM 378,99 RON
+10/5/2020 7:39:28 PM 378,99 RON

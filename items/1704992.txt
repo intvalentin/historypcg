@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |61062
 1704992
     Product link    
 https://www.pcgarage.ro/ups/eaton/protection-station-650din/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1691840/1704992/thumbnails/protection-statio
 9/22/2020 12:56:30 PM 446,04 RON
 9/26/2020 3:27:13 PM 446,04 RON
 9/27/2020 7:38:35 PM 446,04 RON
+10/5/2020 11:22:52 PM 446,04 RON

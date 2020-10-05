@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h741040
 1594994
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-685wi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469686/1594994/thumbnails/eb-685w-365651707
 9/22/2020 5:42:31 PM 12.155,98 RON
 9/26/2020 6:50:11 PM 12.197,98 RON
 9/28/2020 8:32:20 AM 12.197,98 RON
+10/5/2020 7:06:23 PM 12.189,98 RON

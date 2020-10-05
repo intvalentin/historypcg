@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pw201a
 949075
     Product link    
 https://www.pcgarage.ro/powerline/tenda/pw201a/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/949075/thumbnails/pw201a-09ce8021258c
 9/22/2020 12:28:36 PM 138,09 RON
 9/26/2020 3:07:41 PM 140,28 RON
 9/27/2020 7:05:52 PM 140,27 RON
+10/5/2020 5:54:43 PM 139,18 RON

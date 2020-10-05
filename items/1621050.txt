@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba081533
 1621050
     Product link    
 https://www.pcgarage.ro/baterii/varta/alkaline-v625u-blister-1-buc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1605610/1621050/thumbnails/alkaline-v625u-bl
     Pret    
 9/22/2020 6:02:16 PM 7,43 RON
 9/26/2020 7:20:50 PM 7,43 RON
+10/5/2020 10:32:09 PM 7,43 RON

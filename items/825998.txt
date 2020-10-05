@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac9127b005aa
 825998
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/canon/eos-1200d-plus-obiectiv-ef-s-18-55mm-f-35-56-is/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/472405/825998/thumbnails/eos-1200d-plus-obie
     Pret    
 9/22/2020 5:48:44 PM 1.965,98 RON
 9/26/2020 7:02:50 PM 1.971,98 RON
+10/5/2020 5:41:46 PM 1.969,98 RON

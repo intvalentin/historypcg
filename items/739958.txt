@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8287b001aa
 739958
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pg-545-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/480523/739958/thumbnails/cartus-pg-545-black
 9/21/2020 5:50:05 PM 69,99 RON
 9/26/2020 11:02:28 AM 69,99 RON
 9/27/2020 2:23:21 PM 69,99 RON
+10/5/2020 10:56:34 PM 69,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp5200lo
 461011
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sopar/lorenzo-111-inch/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/461011/thumbnails/lorenzo-111-inch-8eac136
 9/22/2020 5:45:24 PM 2.346,73 RON
 9/26/2020 6:56:54 PM 2.354,81 RON
 9/28/2020 8:39:05 AM 2.354,81 RON
+10/5/2020 7:32:12 PM 2.353,26 RON

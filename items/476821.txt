@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |int4811652
 476821
     Product link    
 https://www.pcgarage.ro/medii-stocare/intenso/dvd-plusr-47gb-16x-printable-slim-case-10-bucati/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/476821/thumbnails/dvd-plusr-47gb-16x-print
     Pret    
 9/22/2020 6:14:21 PM 37,01 RON
 9/26/2020 7:26:07 PM 37,13 RON
+10/5/2020 11:26:47 PM 37,09 RON

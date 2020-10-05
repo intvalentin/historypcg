@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fgcevd1004mmrt
 2037854
     Product link    
 https://www.pcgarage.ro/ups/tecnoware/fgcevd1004mmrt-1000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3041/2037854/thumbnails/fgcevd1004mmrt-1000v
 9/22/2020 12:50:01 PM 2.572,58 RON
 9/26/2020 3:15:14 PM 2.579,94 RON
 9/27/2020 7:26:35 PM 2.581,43 RON
+10/5/2020 10:47:10 PM 2.579,74 RON

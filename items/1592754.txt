@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li065re-cg01b
 1592754
     Product link    
 https://www.pcgarage.ro/ups/njoy/renton-650/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475542/1592754/thumbnails/renton-650-35bbb5
 9/22/2020 12:54:20 PM 193,68 RON
 9/26/2020 3:28:42 PM 196,73 RON
 9/27/2020 7:40:05 PM 196,73 RON
+10/5/2020 11:11:13 PM 194,57 RON

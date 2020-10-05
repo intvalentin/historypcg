@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i24
 2061890
     Product link    
 https://www.pcgarage.ro/access-point-uri/tenda/gigabit-i24-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2061890/thumbnails/gigabit-i24-dual-ban
 9/22/2020 12:21:08 PM 220,88 RON
 9/26/2020 2:57:39 PM 225,80 RON
 9/27/2020 6:59:15 PM 225,76 RON
+10/5/2020 7:39:09 PM 215,42 RON

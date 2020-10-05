@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa824da
 1188847
     Product link    
 https://www.pcgarage.ro/obiective/nikon/24-70mm-f-28e-ed-vr-af-s-nikkor/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/991247/1188847/thumbnails/24-70mm-f-28e-ed-v
     Pret    
 9/22/2020 5:56:32 PM 9.799,00 RON
 9/26/2020 7:11:51 PM 9.799,00 RON
+10/5/2020 6:48:51 PM 9.799,00 RON

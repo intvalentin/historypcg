@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li200is-az01b
 369313
     Product link    
 https://www.pcgarage.ro/ups/njoy/isis-2000l/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/369313/thumbnails/isis-2000l-01af460600c0a
 9/22/2020 12:57:34 PM 803,79 RON
 9/26/2020 3:30:56 PM 816,47 RON
 9/27/2020 7:42:19 PM 816,47 RON
+10/5/2020 11:35:20 PM 807,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dur-13
 2039450
     Product link    
 https://www.pcgarage.ro/baterii/duracell/13-6buc/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3041/2039450/thumbnails/13-6buc-ed890b319f06
     Pret    
 9/22/2020 6:03:25 PM 41,06 RON
 9/26/2020 7:19:20 PM 41,06 RON
+10/5/2020 11:00:20 PM 41,06 RON

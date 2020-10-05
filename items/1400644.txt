@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm091
 1400644
     Product link    
 https://www.pcgarage.ro/microfoane/somic/senicc-sm091/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1173769/1400644/thumbnails/senicc-sm091-0c02
     Pret    
 9/22/2020 5:47:02 PM 83,14 RON
 9/26/2020 7:00:38 PM 84,09 RON
+10/5/2020 7:52:27 PM 83,16 RON

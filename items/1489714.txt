@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba081530
 1489714
     Product link    
 https://www.pcgarage.ro/baterii/varta/max-tech-aaa-r3-4buc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1358815/1489714/thumbnails/max-tech-aaa-r3-4
     Pret    
 9/22/2020 6:02:50 PM 25,85 RON
 9/26/2020 7:21:35 PM 25,85 RON
+10/5/2020 10:51:56 PM 25,85 RON

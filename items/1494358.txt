@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dz088402
 1494358
     Product link    
 https://www.pcgarage.ro/ups/ted/2000va-led-schuko/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427466/1494358/thumbnails/700va-led-schuko-
 9/22/2020 12:43:33 PM 814,06 RON
 9/26/2020 3:19:44 PM 814,06 RON
 9/27/2020 7:31:06 PM 814,06 RON
+10/5/2020 10:22:04 PM 814,06 RON

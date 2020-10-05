@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |108r01121
 742655
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-108r01121-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/742655/thumbnails/drum-108r01121-blac
 9/21/2020 4:01:36 PM 1.337,98 RON
 9/26/2020 10:32:03 AM 1.341,98 RON
 9/27/2020 1:49:58 PM 1.341,98 RON
+10/5/2020 6:42:34 PM 1.339,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt rbomnitiku-5hnd
 876830
     Product link    
 https://www.pcgarage.ro/access-point-uri/mikrotik/rbomnitiku-5hnd/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/862960/876830/thumbnails/rbomnitiku-5hnd-6f4
 9/22/2020 12:23:17 PM 402,90 RON
 9/26/2020 3:05:30 PM 408,34 RON
 9/27/2020 7:03:42 PM 408,34 RON
+10/5/2020 8:01:28 PM 405,11 RON
+10/5/2020 5:37:10 PM 405,11 RON

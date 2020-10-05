@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vba560ae
 2072442
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/nikon/d780-body-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4273/2072442/thumbnails/d780-body-black-490f
     Pret    
 9/22/2020 5:48:44 PM 9.998,99 RON
 9/26/2020 7:02:08 PM 9.998,99 RON
+10/5/2020 5:40:57 PM 11.999,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r3j26a
 1947814
     Product link    
 https://www.pcgarage.ro/access-point-uri/hpe/gigabit-aruba-instant-on-ap11d-dual-band-plus-adaptor-alimentare/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1947814/thumbnails/gigabit-aruba-instan
 9/22/2020 12:25:26 PM 779,21 RON
 9/26/2020 3:00:38 PM 781,24 RON
 9/27/2020 7:02:13 PM 781,69 RON
+10/5/2020 5:40:35 PM 781,18 RON

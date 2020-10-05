@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5033-541
 1179535
     Product link    
 https://www.pcgarage.ro/microfoane/axis/t8353b-phantom-power/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/735074/1179535/thumbnails/t8353b-phantom-pow
     Pret    
 9/22/2020 5:48:08 PM 2.724,48 RON
 9/26/2020 7:00:38 PM 2.733,85 RON
+10/5/2020 5:38:22 PM 2.732,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e1p0a16be1z1
 1809024
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/uhd51/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1802236/1809024/thumbnails/uhd51-8108b0cea90
 9/22/2020 5:41:28 PM 6.279,98 RON
 9/26/2020 6:49:26 PM 6.295,98 RON
 9/28/2020 8:31:36 AM 6.299,98 RON
+10/5/2020 6:55:12 PM 6.295,98 RON

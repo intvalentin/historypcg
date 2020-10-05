@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |el650iec
 1705056
     Product link    
 https://www.pcgarage.ro/ups/eaton/ellipse-eco-650va-iec/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/1705056/thumbnails/ellipse-eco-650va-
 9/22/2020 12:56:30 PM 469,85 RON
 9/26/2020 3:27:13 PM 469,85 RON
 9/27/2020 7:38:35 PM 469,85 RON
+10/5/2020 11:23:57 PM 469,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pce-ac51
 1701872
     Product link    
 https://www.pcgarage.ro/placi-de-retea-wireless/asus/pce-ac51-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1689668/1701872/thumbnails/pce-ac51-dual-ban
 9/22/2020 12:07:43 PM 159,92 RON
 9/26/2020 2:53:13 PM 160,38 RON
 9/27/2020 6:54:49 PM 160,46 RON
+10/5/2020 7:04:02 PM 168,35 RON

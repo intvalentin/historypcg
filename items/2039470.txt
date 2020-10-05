@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ray-10
 2039470
     Product link    
 https://www.pcgarage.ro/baterii/varta/rayovac-10-6buc/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3041/2039470/thumbnails/rayovac-10-6buc-c055
     Pret    
 9/22/2020 6:03:25 PM 32,13 RON
 9/26/2020 7:19:20 PM 32,13 RON
+10/5/2020 10:56:48 PM 32,13 RON

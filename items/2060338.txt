@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer t5e
 2060338
     Product link    
 https://www.pcgarage.ro/placi-de-retea-wireless/tp-link/archer-t5e-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2060338/thumbnails/archer-t5e-dual-band
 9/22/2020 12:07:43 PM 158,99 RON
 9/26/2020 2:53:12 PM 158,99 RON
 9/27/2020 6:54:49 PM 158,99 RON
+10/5/2020 7:00:27 PM 158,99 RON

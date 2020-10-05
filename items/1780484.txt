@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4793b003aa
 1780484
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-38-39-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1780484/thumbnails/drum-c-exv-38-39-bla
 9/21/2020 4:22:23 PM 809,98 RON
 9/26/2020 10:38:00 AM 813,98 RON
 9/27/2020 1:56:22 PM 813,98 RON
+10/5/2020 7:40:15 PM 811,98 RON

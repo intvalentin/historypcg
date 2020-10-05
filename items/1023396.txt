@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e1p1d0j1e001
 1023396
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/w304m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/959008/1023396/thumbnails/w304m-a8908ac15dd0
 9/22/2020 5:40:54 PM 4.757,98 RON
 9/26/2020 6:53:53 PM 4.773,98 RON
 9/28/2020 8:36:08 AM 4.773,98 RON
+10/5/2020 6:48:44 PM 4.769,98 RON

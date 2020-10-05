@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-m-pro-5
 1862918
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-ac-mesh-pro-dual-band-5pack/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6115/1862918/thumbnails/gigabit-ac-mesh-pro-
 9/22/2020 12:24:22 PM 4.925,36 RON
 9/26/2020 2:58:24 PM 4.925,36 RON
 9/27/2020 7:00:00 PM 4.925,36 RON
+10/5/2020 7:58:28 PM 4.925,36 RON
+10/5/2020 5:37:10 PM 4.925,36 RON

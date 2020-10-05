@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3782b002aa
 252399
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-34-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/252399/thumbnails/toner-c-exv-34-black-c9d
 9/21/2020 5:54:14 PM 153,98 RON
 9/26/2020 11:12:52 AM 155,98 RON
 9/27/2020 2:34:23 PM 153,98 RON
+10/5/2020 11:37:13 PM 153,98 RON

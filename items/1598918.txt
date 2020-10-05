@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz19-02290100-r3m1
 1598918
     Product link    
 https://www.pcgarage.ro/microfoane/razer/seiren-x/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1475558/1598918/thumbnails/seiren-x-20cc3aff
     Pret    
 9/22/2020 5:45:57 PM 706,96 RON
 9/26/2020 7:00:38 PM 618,86 RON
+10/5/2020 5:37:19 PM 618,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |er-4
 1779220
     Product link    
 https://www.pcgarage.ro/routere/ubiquiti-networks/gigabit-edgerouter-4/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/761/1779220/thumbnails/gigabit-edgerouter-4-
 9/22/2020 12:11:56 PM 1.141,87 RON
 9/26/2020 2:56:53 PM 930,95 RON
 9/27/2020 6:58:31 PM 930,95 RON
+10/5/2020 7:30:50 PM 928,56 RON

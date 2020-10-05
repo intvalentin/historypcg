@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln879011101100
 975492
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-1000va-lcd/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/975492/thumbnails/guardian-1000va-d7a148f5
 9/22/2020 12:56:30 PM 586,38 RON
 9/26/2020 3:30:11 PM 587,94 RON
 9/27/2020 7:41:34 PM 587,94 RON
+10/5/2020 11:29:08 PM 586,93 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |113r00776
 1048057
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-113r00776-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025736/1048057/thumbnails/drum-113r00776-bl
 9/21/2020 4:03:41 PM 1.821,98 RON
 9/26/2020 10:32:03 AM 1.827,98 RON
 9/27/2020 1:49:58 PM 1.827,98 RON
+10/5/2020 6:46:04 PM 1.825,98 RON

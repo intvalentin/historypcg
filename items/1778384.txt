@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-m
 1778384
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-ac-mesh-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/761/1778384/thumbnails/gigabit-ac-mesh-dual-
 9/22/2020 12:20:03 PM 476,30 RON
 9/26/2020 2:59:08 PM 495,79 RON
 9/27/2020 7:00:44 PM 495,79 RON
+10/5/2020 7:48:35 PM 438,99 RON

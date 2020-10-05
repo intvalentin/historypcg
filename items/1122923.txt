@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |value1000eilcd
 1122923
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/value-1000-ei-lcd-1000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1122923/thumbnails/value1000-ei-lcd-
 9/22/2020 12:45:42 PM 476,90 RON
 9/26/2020 3:20:30 PM 478,54 RON
 9/27/2020 7:31:50 PM 478,54 RON
+10/5/2020 10:08:37 PM 478,00 RON

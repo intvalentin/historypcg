@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li150h1-az01b
 1415438
     Product link    
 https://www.pcgarage.ro/ups/njoy/horus-1500-plus/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1187917/1415438/thumbnails/horus-1500-plus-f
 9/22/2020 12:40:20 PM 478,96 RON
 9/26/2020 3:20:30 PM 490,99 RON
 9/27/2020 7:31:50 PM 490,99 RON
+10/5/2020 11:24:30 PM 488,99 RON

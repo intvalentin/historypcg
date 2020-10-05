@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |er-12
 1968202
     Product link    
 https://www.pcgarage.ro/routere/ubiquiti-networks/gigabit-er-12/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/8977/1968202/thumbnails/gigabit-er-12-3840f0
     Pret    
 9/26/2020 2:56:09 PM 1.398,14 RON
 9/27/2020 6:57:45 PM 1.397,84 RON
+10/5/2020 7:25:38 PM 1.180,58 RON

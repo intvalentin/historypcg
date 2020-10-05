@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9456b001aa
 1780492
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-34-magenta-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1780492/thumbnails/drum-c-exv-34-cyan-c0
 9/21/2020 3:59:31 PM 909,98 RON
 9/26/2020 10:30:34 AM 913,98 RON
 9/27/2020 1:48:23 PM 911,98 RON
+10/5/2020 6:34:52 PM 911,98 RON

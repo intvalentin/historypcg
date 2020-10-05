@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mc704zm+-+a
 241243
     Product link    
 https://www.pcgarage.ro/placi-de-retea/apple/usb-ethernet-adapter/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3/241243/thumbnails/usb-ethernet-adapter-594
     Pret    
 9/26/2020 2:55:24 PM 177,43 RON
 9/27/2020 6:57:00 PM 177,43 RON
+10/5/2020 7:14:12 PM 177,43 RON

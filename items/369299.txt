@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li060sp-az01b
 369299
     Product link    
 https://www.pcgarage.ro/ups/njoy/septu-600/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/369299/thumbnails/septu-600-0090025e5d9847
 9/22/2020 12:54:20 PM 233,53 RON
 9/26/2020 3:31:40 PM 237,21 RON
 9/27/2020 7:43:04 PM 237,21 RON
+10/5/2020 11:11:46 PM 234,61 RON

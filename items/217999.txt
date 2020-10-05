@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |106r01368
 217999
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/waste-cartrudge-pentru-workcentre-6400s/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/217999/thumbnails/waste-cartrudge-oebtry-w
 9/21/2020 4:12:00 PM 297,98 RON
 9/26/2020 10:43:12 AM 299,98 RON
 9/27/2020 2:01:56 PM 299,98 RON
+10/5/2020 7:10:22 PM 299,98 RON

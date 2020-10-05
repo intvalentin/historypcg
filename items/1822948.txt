@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0545c001aa
 1822948
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1000mbk-matte-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5147/1822948/thumbnails/cartus-pfi-1000b-mat
 9/21/2020 6:13:52 PM 227,98 RON
 9/26/2020 11:05:26 AM 227,98 RON
 9/27/2020 2:26:30 PM 227,98 RON
+10/5/2020 11:42:17 PM 227,98 RON

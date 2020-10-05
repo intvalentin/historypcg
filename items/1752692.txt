@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310171
 1752692
     Product link    
 https://www.pcgarage.ro/ups/legrand/daker-dk-plus-2000va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1752692/thumbnails/daker-dk-plus-200
 9/22/2020 12:50:01 PM 2.783,19 RON
 9/26/2020 3:17:29 PM 2.790,57 RON
 9/27/2020 7:28:49 PM 2.790,57 RON
+10/5/2020 10:48:48 PM 2.785,57 RON

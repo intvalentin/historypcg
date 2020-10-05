@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72801gc0e
 1352563
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x320ust/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/959008/1352563/thumbnails/x320usti-3ecb3d880
 9/22/2020 5:40:54 PM 4.901,98 RON
 9/26/2020 6:53:09 PM 4.919,98 RON
 9/28/2020 8:35:23 AM 4.919,98 RON
+10/5/2020 6:49:50 PM 4.913,98 RON

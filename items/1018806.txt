@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cmp-mic10
 1018806
     Product link    
 https://www.pcgarage.ro/microfoane/konig/cmp-mic10-usb-20/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/714621/1018806/thumbnails/cmp-mic10-usb-20-c
     Pret    
 9/22/2020 5:47:36 PM 141,64 RON
 9/26/2020 7:01:20 PM 141,64 RON
+10/5/2020 7:55:11 PM 141,64 RON

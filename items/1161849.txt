@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc225xlc
 1161849
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/cartus-lc-225-xl-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1052635/1161849/thumbnails/cartus-lc-225-xl-
 9/21/2020 5:08:32 PM 83,98 RON
 9/26/2020 10:52:06 AM 81,98 RON
 9/27/2020 2:11:29 PM 81,98 RON
+10/5/2020 6:26:11 PM 81,98 RON

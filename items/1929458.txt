@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hse251
 1929458
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/banda-236-mm-black-on-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6622/1929458/thumbnails/banda-236-mm-black-o
 9/21/2020 5:27:14 PM 103,98 RON
 9/26/2020 10:47:40 AM 103,98 RON
 9/27/2020 2:06:44 PM 103,98 RON
+10/5/2020 6:35:58 PM 103,98 RON

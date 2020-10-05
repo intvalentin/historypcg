@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upli-li100co-az01b
 1950258
     Product link    
 https://www.pcgarage.ro/ups/njoy/code-1000-1000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6166/1950258/thumbnails/code-1000-1000va-18e
 9/22/2020 12:46:46 PM 692,92 RON
 9/26/2020 3:15:59 PM 703,85 RON
 9/27/2020 7:37:06 PM 703,29 RON
+10/5/2020 11:33:58 PM 763,28 RON

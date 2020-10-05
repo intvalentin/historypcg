@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr1200
 15831
     Product link    
 https://www.pcgarage.ro/consumabile/brother/drum-unit-dr1200-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/15831/thumbnails/117672.jpg
 9/21/2020 4:03:41 PM 1.741,98 RON
 9/26/2020 10:36:30 AM 1.747,98 RON
 9/27/2020 1:54:43 PM 1.747,98 RON
+10/5/2020 6:45:01 PM 1.745,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jqz11.005
 1833312
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/ul5310w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1833312/thumbnails/u5330w-a770d13cf46c6
 9/22/2020 5:42:00 PM 8.809,98 RON
 9/26/2020 6:49:26 PM 8.833,98 RON
 9/28/2020 8:31:36 AM 8.839,98 RON
+10/5/2020 7:01:38 PM 8.833,98 RON

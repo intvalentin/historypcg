@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gsm7248p-100nes
 1928874
     Product link    
 https://www.pcgarage.ro/switch-uri/netgear/gigabit-gsm7248p-100nes/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6622/1928874/thumbnails/gigabit-gsm7248p-100
 9/22/2020 11:55:24 AM 6.976,68 RON
 9/26/2020 2:45:48 PM 6.952,82 RON
 9/27/2020 6:47:29 PM 6.952,82 RON
+10/5/2020 6:42:07 PM 6.940,30 RON

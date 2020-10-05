@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-wpa8630kit
 1398364
     Product link    
 https://www.pcgarage.ro/powerline/tp-link/gigabit-tl-wpa8630-kit-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1146523/1398364/thumbnails/gigabit-tl-wpa863
 9/22/2020 12:29:38 PM 675,87 RON
 9/26/2020 3:06:59 PM 675,87 RON
 9/27/2020 7:05:09 PM 675,87 RON
+10/5/2020 5:59:22 PM 675,87 RON

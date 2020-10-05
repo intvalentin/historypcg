@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt rb2011uias-in
 876326
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/rb2011uias-in/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/798262/876326/thumbnails/rb2011uias-in-267b4
 9/22/2020 12:11:56 PM 563,00 RON
 9/26/2020 2:56:53 PM 563,00 RON
 9/27/2020 6:58:31 PM 563,00 RON
+10/5/2020 7:23:14 PM 520,35 RON

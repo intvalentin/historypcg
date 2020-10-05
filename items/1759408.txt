@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mic-01
 1759408
     Product link    
 https://www.pcgarage.ro/microfoane/marvo/mic-01/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1153/1759408/thumbnails/mic-01-f05b49794fe1e
     Pret    
 9/22/2020 5:45:57 PM 74,76 RON
 9/26/2020 6:59:04 PM 74,76 RON
+10/5/2020 7:41:39 PM 74,76 RON

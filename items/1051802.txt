@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-outdoor
 1051802
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-unifi-ap-ac-outdoor/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/986422/1051802/thumbnails/unifi-ap-outdoor-b
 9/22/2020 12:26:31 PM 2.548,83 RON
 9/26/2020 3:05:30 PM 2.589,02 RON
 9/27/2020 7:03:42 PM 2.589,02 RON
+10/5/2020 5:48:19 PM 2.560,58 RON

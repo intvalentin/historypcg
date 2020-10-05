@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps2200rt3-230
 1971250
     Product link    
 https://www.pcgarage.ro/ups/vertiv/ps2200rt3-230-2200va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8486/1971250/thumbnails/ps1000rt3-230-1000va
 9/22/2020 12:50:01 PM 3.073,86 RON
 9/26/2020 3:15:59 PM 3.082,06 RON
 9/27/2020 7:27:20 PM 3.082,06 RON
+10/5/2020 10:52:30 PM 3.076,48 RON

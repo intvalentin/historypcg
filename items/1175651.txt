@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |etv90058
 1175651
     Product link    
 https://www.pcgarage.ro/accesorii-proiectoare/sbox/pm-300/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1155213/1175651/thumbnails/pm-300-15d355e57e
 9/22/2020 5:43:38 PM 433,67 RON
 9/26/2020 6:55:23 PM 435,09 RON
 9/28/2020 8:37:35 AM 435,09 RON
+10/5/2020 7:22:11 PM 434,60 RON

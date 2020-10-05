@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |125011119
 813439
     Product link    
 https://www.pcgarage.ro/aparate-foto-mirrorless/sony/a6000-negru-plus-obiectiv-e-sel-16-50mm-f-35-56-pz-oss/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/813439/thumbnails/a6000-negru-plus-obiecti
     Pret    
 9/22/2020 5:51:31 PM 2.478,26 RON
 9/26/2020 7:05:53 PM 2.478,26 RON
+10/5/2020 6:02:49 PM 2.478,26 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |113r00762
 742645
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-113r00762-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/742645/thumbnails/drum-113r00762-blac
 9/21/2020 3:25:09 PM 1.103,98 RON
 9/26/2020 10:32:03 AM 1.107,98 RON
 9/27/2020 1:49:58 PM 1.107,98 RON
+10/5/2020 6:38:17 PM 1.105,98 RON

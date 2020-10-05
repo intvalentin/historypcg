@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb1100ahx4
 1821196
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/gigabit-rb1100ahx4-dude-edition/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5147/1821196/thumbnails/gigabit-rb1100ahx4-d
 9/22/2020 12:13:01 PM 1.498,14 RON
 9/26/2020 2:56:09 PM 1.531,47 RON
 9/27/2020 6:57:45 PM 1.531,13 RON
+10/5/2020 7:26:11 PM 1.519,32 RON

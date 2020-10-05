@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npe-2000-lcd
 474457
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-pe-2000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/474457/thumbnails/netys-pe-2000va-6d187c67
 9/22/2020 12:41:25 PM 1.161,54 RON
 9/26/2020 3:23:29 PM 1.165,53 RON
 9/27/2020 7:34:52 PM 1.127,53 RON
+10/5/2020 10:27:32 PM 1.126,26 RON

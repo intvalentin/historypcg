@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5s1000i
 826023
     Product link    
 https://www.pcgarage.ro/ups/eaton/ups-1-1faze-1000va-5s-1000i/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/498497/826023/thumbnails/5s-1000i-1000va-fa0
 9/22/2020 12:58:39 PM 1.008,34 RON
 9/26/2020 3:30:11 PM 1.008,34 RON
 9/27/2020 7:41:34 PM 1.008,34 RON
+10/5/2020 11:38:19 PM 1.008,34 RON

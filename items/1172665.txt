@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-1620
 1172665
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/d-link/dap-1620-ac1200-wi-fi/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/1172665/thumbnails/dap-1620-ac1200-wi
 9/22/2020 12:32:49 PM 208,98 RON
 9/26/2020 3:10:00 PM 249,17 RON
 9/27/2020 7:21:27 PM 249,17 RON
+10/5/2020 6:15:35 PM 209,46 RON

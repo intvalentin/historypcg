@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-2610
 1678524
     Product link    
 https://www.pcgarage.ro/access-point-uri/d-link/gigabit-dap2610-dual_band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1663772/1678524/thumbnails/gigabit-dap2610-d
 9/22/2020 12:21:08 PM 508,73 RON
 9/26/2020 2:59:08 PM 510,47 RON
 9/27/2020 7:00:44 PM 510,47 RON
+10/5/2020 5:38:27 PM 464,02 RON

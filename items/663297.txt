@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwa-171
 663297
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/d-link/dwa-171/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/663297/thumbnails/dwa-171-1cab8089a0e2c1ee
 9/22/2020 12:05:35 PM 87,03 RON
 9/26/2020 2:52:29 PM 87,33 RON
 9/27/2020 6:54:06 PM 87,33 RON
+10/5/2020 6:54:54 PM 87,23 RON

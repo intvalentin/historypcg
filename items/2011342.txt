@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba085601
 2011342
     Product link    
 https://www.pcgarage.ro/baterii/varta/lithium-crp2-6v-blister/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/9943/2011342/thumbnails/lithium-crp2-6v-blis
     Pret    
 9/22/2020 6:03:59 PM 59,26 RON
 9/26/2020 7:20:05 PM 59,26 RON
+10/5/2020 11:04:40 PM 59,26 RON

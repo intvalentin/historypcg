@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3s700din
 1704980
     Product link    
 https://www.pcgarage.ro/ups/eaton/3s-700va-din-230v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1690716/1704980/thumbnails/3s-700va-din-230v
 9/22/2020 12:56:30 PM 432,34 RON
 9/26/2020 3:27:13 PM 432,34 RON
 9/27/2020 7:38:35 PM 432,34 RON
+10/5/2020 11:22:20 PM 432,34 RON

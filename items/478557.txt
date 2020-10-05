@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j9772a
 478557
     Product link    
 https://www.pcgarage.ro/switch-uri/hp/2530-48g-poe-plus/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/478557/thumbnails/2530-48g-poe-plus-ec4291
 9/22/2020 11:55:24 AM 6.672,87 RON
 9/26/2020 2:50:16 PM 6.691,96 RON
 9/27/2020 6:51:58 PM 6.695,81 RON
+10/5/2020 6:41:19 PM 6.691,41 RON

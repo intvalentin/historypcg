@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |101r00421
 218183
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/transfer-unit-pentru-phaser-7400/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3/218183/thumbnails/transfer-unit-pentru-pha
 9/21/2020 5:02:22 PM 1.505,98 RON
 9/26/2020 10:43:12 AM 1.511,98 RON
 9/27/2020 2:01:56 PM 1.511,98 RON
+10/5/2020 7:59:03 PM 1.509,98 RON
+10/5/2020 5:37:15 PM 1.509,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |re300
 1880722
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/tp-link/re300-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5634/1880722/thumbnails/re300-dual-band-da75
 9/22/2020 12:31:44 PM 151,83 RON
 9/26/2020 3:09:16 PM 151,83 RON
 9/27/2020 7:20:43 PM 151,83 RON
+10/5/2020 6:07:59 PM 151,83 RON

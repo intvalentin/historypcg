@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rp-ac55
 1714648
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/asus/gigabit-rp-ac55-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1714648/thumbnails/gigabit-rp-ac55-d
 9/22/2020 12:31:44 PM 376,46 RON
 9/26/2020 3:09:16 PM 377,53 RON
 9/27/2020 7:20:43 PM 377,74 RON
+10/5/2020 6:10:38 PM 318,23 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u10
 2072830
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/tenda/u10-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2072830/thumbnails/u10-dual-band-cef471
 9/22/2020 12:06:40 PM 96,39 RON
 9/26/2020 2:51:44 PM 97,98 RON
 9/27/2020 6:53:23 PM 97,95 RON
+10/5/2020 6:53:33 PM 76,92 RON

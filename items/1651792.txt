@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srt3000xli
 1651792
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-3000va-230v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/530/1651792/thumbnails/smart-ups-srt-3000va-
 9/22/2020 12:53:15 PM 13.220,90 RON
 9/26/2020 3:19:44 PM 13.258,63 RON
 9/27/2020 7:31:05 PM 13.266,23 RON
+10/5/2020 11:08:44 PM 13.597,19 RON

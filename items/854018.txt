@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc121y
 854018
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/cerneala-lc121-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/854018/thumbnails/cerneala-lc121-yell
 9/21/2020 5:16:50 PM 51,98 RON
 9/26/2020 10:53:35 AM 51,98 RON
 9/27/2020 2:13:07 PM 51,98 RON
+10/5/2020 5:58:03 PM 51,98 RON

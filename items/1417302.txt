@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72u01gc0e
 1417302
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x416-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1094679/1417302/thumbnails/x416-white-447ede
 9/22/2020 5:40:20 PM 3.721,98 RON
 9/26/2020 6:52:24 PM 3.733,98 RON
 9/28/2020 8:34:38 AM 3.733,98 RON
+10/5/2020 6:43:40 PM 3.729,98 RON

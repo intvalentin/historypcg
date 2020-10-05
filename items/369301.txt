@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li062sh-az01b
 369301
     Product link    
 https://www.pcgarage.ro/ups/njoy/shed-625/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/369301/thumbnails/shed-625-1c472a111331215
 9/22/2020 12:44:37 PM 270,79 RON
 9/26/2020 3:23:29 PM 275,06 RON
 9/27/2020 7:34:52 PM 275,06 RON
+10/5/2020 6:56:23 PM 270,92 RON

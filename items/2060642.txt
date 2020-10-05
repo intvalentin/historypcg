@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.js311.007
 2060642
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/h6541bdi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6954/2060642/thumbnails/h6541bdi-086413772a9
 9/22/2020 5:39:49 PM 2.987,98 RON
 9/26/2020 6:47:12 PM 2.909,98 RON
 9/28/2020 8:29:20 AM 2.911,98 RON
+10/5/2020 6:34:38 PM 2.909,98 RON

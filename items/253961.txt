@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc1100valbp
 253961
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/lc1100-value-blister-pack-4-culori/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/253961/thumbnails/lc1100-value-blister-pac
 9/21/2020 5:29:19 PM 213,98 RON
 9/26/2020 10:55:04 AM 215,98 RON
 9/27/2020 2:14:42 PM 215,98 RON
+10/5/2020 6:45:48 PM 213,98 RON

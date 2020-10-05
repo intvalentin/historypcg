@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6496b001aa
 798346
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-550-pigment-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/798346/thumbnails/cartus-pgi-550-pigment-b
 9/21/2020 6:07:39 PM 67,98 RON
 9/26/2020 11:09:54 AM 67,98 RON
 9/27/2020 2:31:16 PM 67,98 RON
+10/5/2020 11:17:54 PM 67,98 RON

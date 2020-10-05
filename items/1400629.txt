@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m12
 1400629
     Product link    
 https://www.pcgarage.ro/microfoane/somic/salar-m12/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1263508/1400629/thumbnails/salar-m12-2913863
     Pret    
 9/22/2020 5:47:36 PM 101,10 RON
 9/26/2020 7:00:38 PM 102,25 RON
+10/5/2020 7:53:33 PM 101,13 RON

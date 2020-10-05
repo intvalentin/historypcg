@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sjl4005gl
 1832848
     Product link    
 https://www.pcgarage.ro/videoproiectoare/xiaomi/mi-laser-projector-150/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1832848/thumbnails/mi-laser-projector-1
 9/22/2020 5:38:07 PM 8.789,98 RON
 9/26/2020 6:49:26 PM 8.927,98 RON
 9/28/2020 8:31:36 AM 8.927,98 RON
+10/5/2020 7:01:54 PM 8.859,98 RON

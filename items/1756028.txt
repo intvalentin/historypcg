@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln856011150005
 1756028
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-1500-lcd/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472773/1756028/thumbnails/guardian-1500-lcd-
 9/22/2020 12:57:34 PM 736,88 RON
 9/26/2020 3:26:28 PM 738,87 RON
 9/27/2020 7:37:50 PM 738,87 RON
+10/5/2020 11:33:41 PM 737,55 RON

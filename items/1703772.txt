@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smc1500ic
 1703772
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-c-1500va-lcd-with-smart-connect/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1690716/1703772/thumbnails/smart-ups-c-1500v
 9/22/2020 12:40:20 PM 2.398,99 RON
 9/26/2020 3:14:30 PM 2.398,99 RON
 9/27/2020 7:25:51 PM 2.398,99 RON
+10/5/2020 6:47:40 PM 2.328,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li080h1-az01b
 1415294
     Product link    
 https://www.pcgarage.ro/ups/njoy/horus-800-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1126098/1415294/thumbnails/horus-800-plus-29
 9/22/2020 12:39:15 PM 278,99 RON
 9/26/2020 3:20:30 PM 278,99 RON
 9/27/2020 7:31:50 PM 278,99 RON
+10/5/2020 6:41:10 PM 258,99 RON

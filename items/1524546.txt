@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00040
 1524546
     Product link    
 https://www.pcgarage.ro/baterii/panasonic/lr6ege-aa-lr6-2buc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1363661/1524546/thumbnails/lr6ege-aa-lr6-2bu
     Pret    
 9/22/2020 6:04:34 PM 20,82 RON
 9/26/2020 7:23:06 PM 20,88 RON
+10/5/2020 11:10:18 PM 20,86 RON

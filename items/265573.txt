@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm4105
 265573
     Product link    
 https://www.pcgarage.ro/trepiede/hama/star-5/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4/265573/thumbnails/star-5-0602bf37824f7b357
     Pret    
 9/22/2020 5:58:49 PM 86,47 RON
 9/26/2020 7:15:36 PM 86,47 RON
+10/5/2020 7:07:46 PM 86,47 RON

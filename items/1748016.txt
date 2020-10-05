@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt2200ic
 1748016
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-2200va-lcd-230v-smartconnect/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/1748016/thumbnails/smart-ups-2200va-lcd-23
 9/22/2020 12:51:05 PM 4.665,39 RON
 9/26/2020 3:17:29 PM 4.807,00 RON
 9/27/2020 7:28:49 PM 4.681,44 RON
+10/5/2020 10:58:47 PM 4.678,36 RON

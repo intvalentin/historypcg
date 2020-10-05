@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81384360
 1297970
     Product link    
 https://www.pcgarage.ro/acumulatori/duracell/aaak4-750mah/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/367655/1297970/thumbnails/aaak4-750mah-bc667
     Pret    
 9/22/2020 6:00:00 PM 49,85 RON
 9/26/2020 7:17:07 PM 49,85 RON
+10/5/2020 10:17:25 PM 49,85 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1250-52xmp
 2026642
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dgs-1250-52xmp/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9002/2026642/thumbnails/gigabit-dgs-1250-52x
 9/22/2020 11:55:24 AM 4.646,25 RON
 9/26/2020 2:45:03 PM 4.658,38 RON
 9/27/2020 6:46:44 PM 4.661,06 RON
+10/5/2020 6:39:10 PM 4.657,99 RON

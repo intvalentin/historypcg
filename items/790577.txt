@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dub-1312
 790577
     Product link    
 https://www.pcgarage.ro/placi-de-retea/d-link/dub-1312/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/790577/thumbnails/dub-1312-b374be2299
 9/22/2020 12:09:48 PM 135,57 RON
 9/26/2020 2:55:24 PM 136,04 RON
 9/27/2020 6:57:00 PM 136,04 RON
+10/5/2020 7:13:23 PM 135,88 RON

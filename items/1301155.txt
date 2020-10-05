@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac0585c011aa
 1301155
     Product link    
 https://www.pcgarage.ro/blitz-uri-si-surse-de-lumina/canon/speedlite-430-ex-iii-rt/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1178653/1301155/thumbnails/speedlite-430-ex-
     Pret    
 9/22/2020 5:57:06 PM 1.579,67 RON
 9/26/2020 7:13:20 PM 1.579,67 RON
+10/5/2020 6:56:01 PM 1.579,67 RON

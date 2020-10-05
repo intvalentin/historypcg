@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-22400
 1726448
     Product link    
 https://www.pcgarage.ro/microfoane/trust/gxt-252-emita-plus/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1723568/1726448/thumbnails/gxt-252-emita-plu
     Pret    
 9/22/2020 5:45:57 PM 468,99 RON
 9/26/2020 6:58:22 PM 468,99 RON
+10/5/2020 7:40:01 PM 468,99 RON

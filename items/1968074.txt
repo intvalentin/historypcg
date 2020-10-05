@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jre11.001
 1968074
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/p1655/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8977/1968074/thumbnails/p1655-df6226c2d20c0d
 9/22/2020 5:40:20 PM 3.559,98 RON
 9/26/2020 6:48:42 PM 3.569,98 RON
 9/28/2020 8:30:51 AM 3.571,98 RON
+10/5/2020 6:42:52 PM 3.569,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upa102v
 1393579
     Product link    
 https://www.pcgarage.ro/ups/delta/agilon-family-vx-series-1000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/1393579/thumbnails/agilon-family-vx-s
 9/22/2020 12:56:30 PM 598,11 RON
 9/26/2020 3:29:27 PM 607,54 RON
 9/27/2020 7:40:50 PM 607,54 RON
+10/5/2020 11:29:24 PM 600,87 RON

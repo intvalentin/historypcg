@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |879011081100
 1422306
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-800ap-lcd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1416562/1422306/thumbnails/guardian-800va-lc
 9/22/2020 12:56:30 PM 511,01 RON
 9/26/2020 3:29:26 PM 512,77 RON
 9/27/2020 7:40:50 PM 512,77 RON
+10/5/2020 11:25:19 PM 512,19 RON

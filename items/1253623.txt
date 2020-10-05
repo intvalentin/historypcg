@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pf1000u
 1253623
     Product link    
 https://www.pcgarage.ro/videoproiectoare/lg/pf1000u-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1000151/1253623/thumbnails/pf1000u-black-663
 9/22/2020 5:40:54 PM 5.387,98 RON
 9/26/2020 6:53:53 PM 5.401,98 RON
 9/28/2020 8:36:08 AM 5.401,98 RON
+10/5/2020 6:51:40 PM 5.391,98 RON

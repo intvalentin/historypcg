@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li100is-az01b
 369309
     Product link    
 https://www.pcgarage.ro/ups/njoy/isis-1000l/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/369309/thumbnails/isis-1000l-90b7428b7bb94
 9/22/2020 12:56:30 PM 443,26 RON
 9/26/2020 3:31:40 PM 450,35 RON
 9/27/2020 7:43:04 PM 450,25 RON
+10/5/2020 11:23:08 PM 446,77 RON

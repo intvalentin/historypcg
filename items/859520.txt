@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srt6krmxli
 859520
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-6000va-rm-230v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/859520/thumbnails/smart-ups-srt-6000va-rm-
 9/22/2020 12:53:15 PM 18.662,72 RON
 9/26/2020 3:21:16 PM 19.886,28 RON
 9/27/2020 7:32:35 PM 19.833,31 RON
+10/5/2020 11:10:23 PM 19.820,29 RON

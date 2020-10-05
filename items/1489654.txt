@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba084874
 1489654
     Product link    
 https://www.pcgarage.ro/baterii/duracell/basic-lrv08-2buc/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1431858/1489654/thumbnails/basic-lrv08-2buc-
     Pret    
 9/22/2020 6:02:50 PM 21,42 RON
 9/26/2020 7:21:35 PM 21,42 RON
+10/5/2020 10:49:34 PM 21,42 RON

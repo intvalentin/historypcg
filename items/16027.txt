@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn12y
 16027
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/toner-tn12-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/16027/thumbnails/117605.jpg
 9/21/2020 5:37:37 PM 939,98 RON
 9/26/2020 10:58:02 AM 941,98 RON
 9/27/2020 2:17:52 PM 941,98 RON
+10/5/2020 10:19:45 PM 941,98 RON

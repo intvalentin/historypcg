@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h740040
 1805628
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-695wi/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1804216/1805628/thumbnails/eb-695wi-c2d44cd8
 9/22/2020 5:42:31 PM 13.881,98 RON
 9/26/2020 6:49:26 PM 13.921,98 RON
 9/28/2020 8:31:36 AM 13.929,98 RON
+10/5/2020 7:07:47 PM 13.921,98 RON

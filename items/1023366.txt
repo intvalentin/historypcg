@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e1p1d0n1e031
 1023366
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x600-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/1023366/thumbnails/x600-9e4feb4ff6428954c6
 9/22/2020 5:41:28 PM 6.513,98 RON
 9/26/2020 6:53:53 PM 6.535,98 RON
 9/28/2020 8:36:08 AM 6.535,98 RON
+10/5/2020 6:56:00 PM 6.527,98 RON

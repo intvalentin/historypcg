@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm186020
 2044426
     Product link    
 https://www.pcgarage.ro/microfoane/urage/stream-800-hd-studio/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1034/2044426/thumbnails/stream-800-hd-studio
     Pret    
 9/22/2020 5:46:30 PM 527,26 RON
 9/26/2020 6:58:22 PM 527,26 RON
+10/5/2020 7:45:22 PM 527,26 RON

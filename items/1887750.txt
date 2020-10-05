@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |radium 200
 1887750
     Product link    
 https://www.pcgarage.ro/microfoane/genesis/radium-200/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1885090/1887750/thumbnails/radium-200-fe3b0e
     Pret    
 9/22/2020 5:46:30 PM 183,69 RON
 9/26/2020 6:59:04 PM 183,69 RON
+10/5/2020 7:42:28 PM 183,69 RON

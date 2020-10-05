@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pbe-5ac-400-iso-eu
 1970762
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/powerbeam-5ac-400mm-isolator/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970762/thumbnails/powerbeam-5ac-400mm-
 9/22/2020 12:38:10 PM 645,39 RON
 9/26/2020 3:13:03 PM 655,56 RON
 9/27/2020 7:24:23 PM 655,56 RON
+10/5/2020 6:35:23 PM 648,36 RON

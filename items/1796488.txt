@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mx825st
 1796488
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mx825st/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6361/1796488/thumbnails/mx825st-b15cfcda13ea
 9/22/2020 5:37:04 PM 3.559,98 RON
 9/26/2020 6:49:26 PM 3.569,98 RON
 9/28/2020 8:31:36 AM 3.571,98 RON
+10/5/2020 6:42:35 PM 3.569,98 RON

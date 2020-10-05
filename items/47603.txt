@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acc26-1191201
 47603
     Product link    
 https://www.pcgarage.ro/obiective/canon/ef-50mm-f-25-compact-macro/
@@ -8,3 +8,4 @@ Canon EF 50mm f/2.5 Compact-macro
 https://2.grgs.ro/images/products/1/4/47603/thumbnails/ef-50mm-f-25-compact-macro-2cc12650076bc6e50d998d61abc33b50.jpg
     Pret    
 9/22/2020 5:56:32 PM 1.458,37 RON
+10/5/2020 6:50:10 PM 1.461,52 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-1665
 877545
     Product link    
 https://www.pcgarage.ro/access-point-uri/d-link/dap-1665/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/877545/thumbnails/dap-1665-921aac2eec
 9/22/2020 12:21:08 PM 370,85 RON
 9/26/2020 2:59:54 PM 372,13 RON
 9/27/2020 7:01:29 PM 372,13 RON
+10/5/2020 7:46:24 PM 371,71 RON

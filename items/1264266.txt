@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb941-2nd-tc
 1264266
     Product link    
 https://www.pcgarage.ro/access-point-uri/mikrotik/hap-lite/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1169071/1264266/thumbnails/hap-lite-eec6668e
 9/22/2020 12:21:08 PM 101,78 RON
 9/26/2020 2:59:54 PM 103,40 RON
 9/27/2020 7:01:29 PM 103,37 RON
+10/5/2020 7:34:37 PM 97,85 RON

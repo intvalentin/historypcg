@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dxs-1100-10ts
 1255066
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dxs-1100-10ts/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1190677/1255066/thumbnails/gigabit-dxs-1100-
 9/22/2020 11:55:24 AM 4.341,79 RON
 9/26/2020 2:48:02 PM 4.356,71 RON
 9/27/2020 6:49:43 PM 4.356,71 RON
+10/5/2020 6:38:55 PM 4.351,80 RON

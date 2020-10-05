@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-21753
 1631306
     Product link    
 https://www.pcgarage.ro/microfoane/trust/gxt-252-emita/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3207/1631306/thumbnails/gxt-252-emita-81f0d5
     Pret    
 9/22/2020 5:45:57 PM 398,99 RON
 9/26/2020 6:58:22 PM 398,99 RON
+10/5/2020 7:39:45 PM 398,99 RON

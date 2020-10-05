@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upli-li080co-az01b
 1950262
     Product link    
 https://www.pcgarage.ro/ups/njoy/code-800-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1950262/thumbnails/code-800-800va-8fe68
 9/22/2020 12:45:42 PM 485,17 RON
 9/26/2020 3:25:43 PM 492,92 RON
 9/27/2020 7:37:06 PM 492,82 RON
+10/5/2020 11:25:35 PM 512,63 RON

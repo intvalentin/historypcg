@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn321c
 1161821
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/toner-tn-321-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/1161821/thumbnails/toner-tn-321-cyan-
 9/21/2020 5:31:23 PM 391,98 RON
 9/26/2020 10:52:06 AM 393,98 RON
 9/27/2020 2:11:29 PM 393,98 RON
+10/5/2020 7:01:34 PM 393,98 RON

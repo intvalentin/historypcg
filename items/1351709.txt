@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e1p1d0h1e001
 1351709
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/x304m-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/480523/1351709/thumbnails/x304m-9fe0f7eb0d5a
 9/22/2020 5:40:54 PM 4.185,98 RON
 9/26/2020 6:53:09 PM 4.199,98 RON
 9/28/2020 8:35:23 AM 4.199,98 RON
+10/5/2020 6:46:00 PM 4.195,98 RON

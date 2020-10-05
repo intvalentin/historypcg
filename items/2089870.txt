@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx1200mi
 2089870
     Product link    
 https://www.pcgarage.ro/ups/apc/bx1200mi-1200-va/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7008/2089870/thumbnails/bx750mi-750-va-a08fd
     Pret    
 9/26/2020 3:24:14 PM 806,38 RON
 9/27/2020 7:35:37 PM 806,38 RON
+10/5/2020 11:34:46 PM 794,73 RON

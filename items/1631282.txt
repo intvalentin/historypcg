@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1500-led-lig-t10
 1631282
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1500eg-1500va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1630882/1631282/thumbnails/powermust-1500eg-
 9/22/2020 12:46:46 PM 627,90 RON
 9/26/2020 3:19:44 PM 616,54 RON
 9/27/2020 7:31:06 PM 616,54 RON
+10/5/2020 10:15:50 PM 630,79 RON

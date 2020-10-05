@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |o2
 1981966
     Product link    
 https://www.pcgarage.ro/access-point-uri/tenda/o2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/370411/1981966/thumbnails/o2-cbfebefe36d333e
 9/22/2020 12:22:12 PM 164,66 RON
 9/26/2020 2:57:39 PM 168,31 RON
 9/27/2020 6:59:16 PM 168,27 RON
+10/5/2020 7:37:04 PM 166,97 RON

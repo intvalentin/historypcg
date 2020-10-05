@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba086201
 1845800
     Product link    
 https://www.pcgarage.ro/baterii/duracell/basic-aaa-r3-12buc/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1844684/1845800/thumbnails/basic-aaa-r3-12bu
     Pret    
 9/22/2020 6:01:41 PM 74,11 RON
 9/26/2020 7:20:05 PM 74,11 RON
+10/5/2020 11:06:02 PM 74,54 RON

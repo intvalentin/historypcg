@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |amo-5g10
 1090624
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/amo-5g10/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/959008/1090624/thumbnails/amo-5g10-be7f2fef8
 9/22/2020 12:37:04 PM 611,40 RON
 9/26/2020 3:13:03 PM 611,55 RON
 9/27/2020 7:24:23 PM 611,55 RON
+10/5/2020 6:34:35 PM 611,55 RON

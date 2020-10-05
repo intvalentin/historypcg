@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |74c0z50
 1778852
     Product link    
 https://www.pcgarage.ro/consumabile/lexmark/imaging-unit-74c0z50-color/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778852/thumbnails/imaging-unit-74c0z50-
 9/21/2020 4:01:36 PM 1.363,98 RON
 9/26/2020 10:30:34 AM 1.365,98 RON
 9/27/2020 1:48:23 PM 1.367,98 RON
+10/5/2020 6:43:07 PM 1.365,98 RON

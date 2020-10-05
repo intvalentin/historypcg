@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |879001061100
 1422562
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-600ap/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025741/1422562/thumbnails/guardian-600va-07
 9/22/2020 12:55:25 PM 368,46 RON
 9/26/2020 3:28:42 PM 369,73 RON
 9/27/2020 7:40:05 PM 369,73 RON
+10/5/2020 11:18:33 PM 369,31 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb3011uias-rm
 2072474
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/gigabit-rb3011uias-rm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2072474/thumbnails/gigabit-rb3011uias-r
 9/22/2020 12:13:01 PM 752,26 RON
 9/26/2020 2:56:53 PM 768,98 RON
 9/27/2020 6:58:31 PM 768,81 RON
+10/5/2020 7:30:12 PM 762,88 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm4010
 262667
     Product link    
 https://www.pcgarage.ro/trepiede/hama/flexi-m/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4/262667/thumbnails/flexi-m-a96fe12381036560
     Pret    
 9/22/2020 5:58:49 PM 16,42 RON
 9/26/2020 7:15:36 PM 16,42 RON
+10/5/2020 7:06:56 PM 16,42 RON

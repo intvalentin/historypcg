@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba086200
 1845796
     Product link    
 https://www.pcgarage.ro/baterii/duracell/basic-aa-r6-12buc/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1054/1845796/thumbnails/basic-aa-r6-12buc-a1
     Pret    
 9/22/2020 6:03:59 PM 74,11 RON
 9/26/2020 7:20:05 PM 74,11 RON
+10/5/2020 11:05:45 PM 74,54 RON

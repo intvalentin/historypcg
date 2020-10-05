@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba083461
 1489738
     Product link    
 https://www.pcgarage.ro/baterii/varta/max-tech-aa-r6-4buc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/472773/1489738/thumbnails/max-tech-aa-r6-4bu
     Pret    
 9/22/2020 6:02:50 PM 25,85 RON
 9/26/2020 7:21:35 PM 25,85 RON
+10/5/2020 10:52:12 PM 25,85 RON

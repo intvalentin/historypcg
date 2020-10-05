@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8287b005aa
 739973
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/pachet-pg-545-4-culori/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/498497/739973/thumbnails/pachet-pg-545-4-cul
 9/21/2020 5:56:19 PM 143,98 RON
 9/26/2020 11:09:54 AM 145,98 RON
 9/27/2020 2:31:16 PM 145,98 RON
+10/5/2020 11:36:18 PM 143,98 RON

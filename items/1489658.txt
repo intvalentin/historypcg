@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba085171
 1489658
     Product link    
 https://www.pcgarage.ro/baterii/duracell/basic-mn27/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1301183/1489658/thumbnails/mn27-81e9356d27c2
     Pret    
 9/22/2020 6:02:16 PM 14,03 RON
 9/26/2020 7:21:35 PM 14,03 RON
+10/5/2020 10:36:30 PM 14,14 RON

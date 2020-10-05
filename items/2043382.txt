@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vp1000elcd
 2043382
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/vp1000elcd-1000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2043382/thumbnails/vp700elcd-700va-c44e
 9/22/2020 12:45:42 PM 474,44 RON
 9/26/2020 3:15:14 PM 476,07 RON
 9/27/2020 7:26:35 PM 476,07 RON
+10/5/2020 10:08:04 PM 458,45 RON

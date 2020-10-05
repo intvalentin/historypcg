@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-scpc600va
 1821932
     Product link    
 https://www.pcgarage.ro/ups/silvercloud/safepc-650avr-600va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1821372/1821932/thumbnails/safepc-650avr-600
 9/22/2020 12:44:37 PM 285,60 RON
 9/26/2020 3:16:43 PM 285,60 RON
 9/27/2020 7:28:04 PM 285,60 RON
+10/5/2020 6:57:12 PM 285,60 RON

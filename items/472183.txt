@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dwa-182
 472183
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/d-link/dwa-182/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/472183/thumbnails/dwa-182-051ff1278f055dd5
 9/22/2020 12:05:36 PM 146,53 RON
 9/26/2020 2:52:29 PM 146,94 RON
 9/27/2020 6:54:06 PM 147,03 RON
+10/5/2020 6:57:22 PM 146,92 RON

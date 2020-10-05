@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |113r00607
 217965
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-unit-pentru-copycentre-c35-digital-copier/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/217965/thumbnails/drum-unit-pentru-copycen
 9/21/2020 5:00:17 PM 1.289,98 RON
 9/26/2020 10:43:12 AM 1.293,98 RON
 9/27/2020 2:01:56 PM 1.293,98 RON
+10/5/2020 7:54:31 PM 1.293,98 RON

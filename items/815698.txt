@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eac-mic004
 815698
     Product link    
 https://www.pcgarage.ro/microfoane/tt-esports/tt-esports-chao-echo/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/634551/815698/thumbnails/tt-esports-chao-ech
     Pret    
 9/22/2020 5:47:36 PM 100,88 RON
 9/26/2020 7:01:20 PM 102,03 RON
+10/5/2020 7:53:16 PM 100,91 RON

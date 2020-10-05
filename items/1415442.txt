@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-li200h1-az01b
 1415442
     Product link    
 https://www.pcgarage.ro/ups/njoy/horus-2000-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1187917/1415442/thumbnails/horus-2000-plus-e
 9/22/2020 12:46:46 PM 614,92 RON
 9/26/2020 3:20:30 PM 618,99 RON
 9/27/2020 7:31:50 PM 618,99 RON
+10/5/2020 10:15:12 PM 618,99 RON

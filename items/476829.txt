@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |int1801622
 476829
     Product link    
 https://www.pcgarage.ro/medii-stocare/intenso/cd-r-700mb-52x-printable-slim-case-10-buc/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2/476829/thumbnails/cd-r-700mb-52x-printable
     Pret    
 9/22/2020 6:14:21 PM 40,48 RON
 9/26/2020 7:26:07 PM 40,61 RON
+10/5/2020 11:27:37 PM 40,56 RON

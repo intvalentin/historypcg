@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt rb750up
 876243
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/rb750up/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/746930/876243/thumbnails/rb750up-8e18cf741b9
 9/22/2020 12:11:56 PM 266,91 RON
 9/26/2020 2:56:53 PM 258,10 RON
 9/27/2020 6:58:31 PM 258,04 RON
+10/5/2020 7:20:57 PM 256,06 RON

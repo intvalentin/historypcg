@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |archer t6e
 1149018
     Product link    
 https://www.pcgarage.ro/placi-de-retea-wireless/tp-link/archer-t6e-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1149018/thumbnails/archer-t6e-dual-b
 9/22/2020 12:07:43 PM 158,99 RON
 9/26/2020 2:53:12 PM 158,99 RON
 9/27/2020 6:54:49 PM 158,99 RON
+10/5/2020 7:00:11 PM 158,99 RON

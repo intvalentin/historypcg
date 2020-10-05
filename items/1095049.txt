@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pbe-m2-400
 1095049
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/powerbeam-m2-400/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/1095049/thumbnails/powerbeam-m5-400-
 9/22/2020 12:38:10 PM 397,16 RON
 9/26/2020 3:13:47 PM 403,42 RON
 9/27/2020 7:25:07 PM 403,42 RON
+10/5/2020 6:32:14 PM 398,99 RON

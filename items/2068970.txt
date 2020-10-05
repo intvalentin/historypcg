@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fgcexapl1500
 2068970
     Product link    
 https://www.pcgarage.ro/ups/tecnoware/ups-exa-plus-1500va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2068970/thumbnails/ups-exa-plus-1500va-
 9/22/2020 12:47:51 PM 1.276,19 RON
 9/26/2020 3:15:14 PM 1.279,86 RON
 9/27/2020 7:26:35 PM 1.280,60 RON
+10/5/2020 11:42:20 PM 1.279,77 RON

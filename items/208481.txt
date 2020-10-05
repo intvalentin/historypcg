@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-ant2406a
 208481
     Product link    
 https://www.pcgarage.ro/antene/tp-link/tl-ant2406a/
@@ -8,3 +8,4 @@ TP-LINK TL-ANT2406A
 https://1.grgs.ro/images/products/1/3/208481/thumbnails/tl-ant2406a-9d5be1f52ac8adb301c0edbc49ecabd5.jpg
     Pret    
 9/22/2020 12:38:10 PM 71,67 RON
+10/5/2020 6:31:42 PM 72,24 RON

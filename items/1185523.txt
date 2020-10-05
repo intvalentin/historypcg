@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sv8678b003aa
 1185523
     Product link    
 https://www.pcgarage.ro/videoproiectoare/canon/xeed-wux400st/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/815230/1185523/thumbnails/xeed-wux400st-c9dc
 9/22/2020 5:43:02 PM 26.589,98 RON
 9/26/2020 6:53:53 PM 26.681,98 RON
 9/28/2020 8:36:08 AM 26.681,98 RON
+10/5/2020 7:10:53 PM 26.651,98 RON

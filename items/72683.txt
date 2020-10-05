@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa128da
 72683
     Product link    
 https://www.pcgarage.ro/obiective/nikon/28mm-f-28d-af-nikkor/
@@ -8,3 +8,4 @@ Nikon 28mm f/2.8D AF NIKKOR
 https://4.grgs.ro/images/products/1/4/72683/thumbnails/28mm-f-28d-af-nikkor-a551947327095a5a10dcba14636c6fe3.jpg
     Pret    
 9/22/2020 5:56:32 PM 1.699,00 RON
+10/5/2020 6:51:48 PM 1.699,00 RON

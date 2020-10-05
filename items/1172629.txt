@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-1330
 1172629
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/d-link/dap-1330-n300-wi-fi/
@@ -8,3 +8,4 @@ D-Link DAP-1330 N300 Wi-Fi
 https://4.grgs.ro/images/products/1/1126098/1172629/thumbnails/dap-1330-n300-wi-fi-2db58446d4d5d6ce0ad9ea972e1c30e9.jpg
     Pret    
 9/22/2020 12:32:49 PM 125,39 RON
+10/5/2020 6:13:55 PM 125,67 RON

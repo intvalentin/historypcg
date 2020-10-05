@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |800-led-off-t10
 1678308
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-800-offline-led-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1678308/thumbnails/powermust-800-off
 9/22/2020 12:40:20 PM 251,54 RON
 9/26/2020 3:18:59 PM 250,96 RON
 9/27/2020 7:30:18 PM 250,96 RON
+10/5/2020 6:53:37 PM 248,21 RON

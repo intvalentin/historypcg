@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00019
 1521854
     Product link    
 https://www.pcgarage.ro/baterii/panasonic/r6rz-aa-lr6-4buc/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1457254/1521854/thumbnails/r6rz-aa-lr6-4buc-
     Pret    
 9/22/2020 6:04:00 PM 12,14 RON
 9/26/2020 7:23:06 PM 12,18 RON
+10/5/2020 11:08:13 PM 12,17 RON

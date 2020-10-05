@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |br1300mi
 1928930
     Product link    
 https://www.pcgarage.ro/ups/apc/pro-br-1300va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6622/1928930/thumbnails/pro-br-650va-802b8e8
 9/22/2020 12:47:51 PM 1.631,61 RON
 9/26/2020 3:16:43 PM 1.637,21 RON
 9/27/2020 7:28:04 PM 1.637,21 RON
+10/5/2020 10:33:08 PM 1.668,11 RON

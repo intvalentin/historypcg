@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6510b001aa
 515965
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-551-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/515965/thumbnails/cli-551m-44bb67addf74457
 9/21/2020 6:07:39 PM 63,98 RON
 9/26/2020 11:12:07 AM 63,98 RON
 9/27/2020 2:33:38 PM 63,98 RON
+10/5/2020 11:07:42 PM 59,98 RON

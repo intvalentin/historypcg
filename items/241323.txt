@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pfa441
 241323
     Product link    
 https://www.pcgarage.ro/consumabile/philips/cartus-pfa441-negru/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/800612/241323/thumbnails/cartus-pfa441-negru
 9/21/2020 4:09:55 PM 231,98 RON
 9/26/2020 10:38:00 AM 233,98 RON
 9/27/2020 1:56:22 PM 233,98 RON
+10/5/2020 7:04:03 PM 233,98 RON

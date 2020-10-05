@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa014da
 58315
     Product link    
 https://www.pcgarage.ro/obiective/nikon/normal-lenses-af-s-nikkor-50mm-f-14g/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/58315/thumbnails/normal-lenses-af-s-nikkor
     Pret    
 9/22/2020 5:56:01 PM 2.199,00 RON
 9/26/2020 7:12:36 PM 2.199,00 RON
+10/5/2020 6:43:51 PM 2.199,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0388c001aa
 1187089
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-571-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1112123/1187089/thumbnails/cartus-cli-571-ye
 9/21/2020 6:05:34 PM 61,98 RON
 9/26/2020 11:07:40 AM 61,98 RON
 9/27/2020 2:28:53 PM 61,98 RON
+10/5/2020 11:09:32 PM 61,98 RON

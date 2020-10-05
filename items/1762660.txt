@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln856011100006
 1762660
     Product link    
 https://www.pcgarage.ro/ups/legrand/inform-guardian-1000va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1517618/1762660/thumbnails/guardian-800va-7e
 9/22/2020 12:56:30 PM 552,47 RON
 9/26/2020 3:26:28 PM 553,96 RON
 9/27/2020 7:37:50 PM 553,96 RON
+10/5/2020 11:28:19 PM 552,98 RON

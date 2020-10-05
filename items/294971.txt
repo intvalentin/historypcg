@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4370b002aa
 294971
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-729-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/294971/thumbnails/toner-729-black-3abb3f80
 9/21/2020 6:11:48 PM 217,98 RON
 9/26/2020 11:10:38 AM 219,98 RON
 9/27/2020 2:32:03 PM 217,98 RON
+10/5/2020 11:40:25 PM 217,98 RON

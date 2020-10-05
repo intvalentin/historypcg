@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uma-d
 1860358
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/gigabit-unifimesh-antenna-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1860358/thumbnails/gigabit-unifimesh-an
 9/22/2020 12:37:04 PM 490,25 RON
 9/26/2020 3:13:03 PM 475,91 RON
 9/27/2020 7:24:23 PM 475,91 RON
+10/5/2020 6:29:48 PM 470,69 RON

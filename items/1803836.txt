@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2052c001aa
 1803836
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-581xl-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1802236/1803836/thumbnails/cartus-cli-581xl-
 9/21/2020 5:54:14 PM 63,98 RON
 9/26/2020 11:05:26 AM 65,98 RON
 9/27/2020 2:26:30 PM 65,98 RON
+10/5/2020 11:17:20 PM 65,98 RON

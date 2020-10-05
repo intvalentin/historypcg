@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fsa03901
 258955
     Product link    
 https://www.pcgarage.ro/blitz-uri-si-surse-de-lumina/nikon/sb-700-af-speedlight/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4/258955/thumbnails/sb-700-af-speedlight-b9b
     Pret    
 9/22/2020 5:57:06 PM 1.348,99 RON
 9/26/2020 7:13:20 PM 1.348,99 RON
+10/5/2020 6:54:25 PM 1.499,00 RON

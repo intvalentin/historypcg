@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |iap1200
 1861810
     Product link    
 https://www.pcgarage.ro/access-point-uri/edimax-technology/gigabit-iap1200-dual-band/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1236/1861810/thumbnails/gigabit-iap1200-dual
 9/22/2020 12:24:22 PM 423,94 RON
 9/26/2020 3:01:23 PM 433,34 RON
 9/27/2020 7:02:58 PM 433,25 RON
+10/5/2020 8:01:44 PM 429,92 RON
+10/5/2020 5:37:10 PM 429,92 RON

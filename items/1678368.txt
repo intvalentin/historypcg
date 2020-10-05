@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000-led-lig-t10
 1678368
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1000eg-1000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1678368/thumbnails/powermust-1000eg-
 9/22/2020 12:54:20 PM 409,80 RON
 9/26/2020 3:27:57 PM 416,35 RON
 9/27/2020 7:39:21 PM 416,26 RON
+10/5/2020 11:21:14 PM 413,05 RON

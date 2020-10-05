@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t544200
 33091
     Product link    
 https://www.pcgarage.ro/consumabile/epson/ultrachrome-ink-cartridge-cyan-t5442/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/33091/thumbnails/epson-cart.png
 9/21/2020 4:18:14 PM 569,98 RON
 9/26/2020 10:46:10 AM 571,98 RON
 9/27/2020 2:05:06 PM 569,98 RON
+10/5/2020 7:26:48 PM 569,98 RON

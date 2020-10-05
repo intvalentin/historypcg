@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hx-micqc-bk
 1832200
     Product link    
 https://www.pcgarage.ro/microfoane/hyperx/hyperx-quadcast/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5664/1832200/thumbnails/hyperx-quadcast-53cb
     Pret    
 9/22/2020 5:47:02 PM 901,71 RON
 9/26/2020 6:59:54 PM 916,12 RON
+10/5/2020 5:37:50 PM 908,86 RON

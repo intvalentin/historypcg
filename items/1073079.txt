@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310047
 1073079
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-line-rt-2200va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986422/1073079/thumbnails/keor-line-rt-2200v
 9/22/2020 1:00:49 PM 2.759,45 RON
 9/26/2020 3:21:16 PM 2.766,79 RON
 9/27/2020 7:32:35 PM 2.766,79 RON
+10/5/2020 10:53:19 PM 3.167,73 RON

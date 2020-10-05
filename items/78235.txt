@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |43460208
 78235
     Product link    
 https://www.pcgarage.ro/consumabile/oki/black-image-drum-43460208/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/78235/thumbnails/black-image-drum-43460208
 9/21/2020 4:11:59 PM 245,98 RON
 9/26/2020 10:40:58 AM 247,98 RON
 9/27/2020 1:59:33 PM 247,98 RON
+10/5/2020 7:04:52 PM 245,98 RON

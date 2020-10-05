@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac8546b005aa
 1092614
     Product link    
 https://www.pcgarage.ro/obiective/canon/ef-s-55-250mm-f-4-56-is-stm/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/798262/1092614/thumbnails/ef-s-55-250mm-f-4-
     Pret    
 9/22/2020 5:56:32 PM 1.649,10 RON
 9/26/2020 7:12:36 PM 1.654,76 RON
+10/5/2020 6:51:32 PM 1.653,69 RON

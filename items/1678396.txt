@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1500-led-li-t10
 1678396
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1500-line-interactive-1500va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1666176/1678396/thumbnails/powermust-1500-li
 9/22/2020 12:42:29 PM 613,01 RON
 9/26/2020 3:18:59 PM 622,80 RON
 9/27/2020 7:30:18 PM 622,67 RON
+10/5/2020 10:14:56 PM 617,86 RON

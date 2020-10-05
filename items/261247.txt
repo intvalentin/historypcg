@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4544b001aa
 261247
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-526-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/261247/thumbnails/cli526gy-grey-ink-cartri
 9/21/2020 6:07:39 PM 65,98 RON
 9/26/2020 11:13:36 AM 65,98 RON
 9/27/2020 2:35:12 PM 65,98 RON
+10/5/2020 11:17:05 PM 65,98 RON

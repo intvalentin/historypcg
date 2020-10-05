@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |42918108
 89439
     Product link    
 https://www.pcgarage.ro/consumabile/oki/black-image-drum-42918108/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/89439/thumbnails/black-image-drum-42918108
 9/21/2020 4:24:28 PM 921,98 RON
 9/26/2020 10:40:58 AM 925,98 RON
 9/27/2020 1:59:33 PM 923,98 RON
+10/5/2020 6:36:25 PM 937,98 RON

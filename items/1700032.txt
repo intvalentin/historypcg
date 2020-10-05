@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bv1000i-gr
 1700032
     Product link    
 https://www.pcgarage.ro/ups/apc/bv1000i-gr-1000-va-schuko/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1689668/1700032/thumbnails/bv500i-gr-500-va-
 9/22/2020 12:41:25 PM 511,94 RON
 9/26/2020 3:27:57 PM 513,70 RON
 9/27/2020 7:39:21 PM 520,37 RON
+10/5/2020 11:25:52 PM 520,03 RON

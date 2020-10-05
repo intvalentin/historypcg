@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310332
 1978842
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-pdu-schuko-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/370411/1978842/thumbnails/keor-pdu-schuko-80
 9/22/2020 12:57:34 PM 646,69 RON
 9/26/2020 3:24:59 PM 648,40 RON
 9/27/2020 7:36:21 PM 648,40 RON
+10/5/2020 11:30:13 PM 647,23 RON

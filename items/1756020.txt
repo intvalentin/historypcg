@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cre-x1
 1756020
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/axagon/cre-x1-usb-20/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1749840/1756020/thumbnails/cre-x1-usb-20-60f
     Pret    
 9/22/2020 5:53:10 PM 59,02 RON
 9/26/2020 7:08:07 PM 59,24 RON
+10/5/2020 6:18:18 PM 59,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pf1500g
 1253761
     Product link    
 https://www.pcgarage.ro/videoproiectoare/lg/pf1500g-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/746930/1253761/thumbnails/pf1500g-white-6f4b
 9/22/2020 5:40:54 PM 4.403,98 RON
 9/26/2020 6:53:53 PM 4.415,98 RON
 9/28/2020 8:36:08 AM 4.415,98 RON
+10/5/2020 6:48:08 PM 4.407,98 RON

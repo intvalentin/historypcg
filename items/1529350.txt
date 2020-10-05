@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1790c002aa
 1529350
     Product link    
 https://www.pcgarage.ro/aparate-foto-bridge/canon/sx430is-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1461878/1529350/thumbnails/sx430is-black-202
     Pret    
 9/22/2020 5:49:49 PM 1.169,98 RON
 9/26/2020 7:03:36 PM 1.173,98 RON
+10/5/2020 5:47:46 PM 1.173,98 RON

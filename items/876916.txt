@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |micro1000-s
 876916
     Product link    
 https://www.pcgarage.ro/ups/kstar/micropower-micro-1000-shucko/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/853128/876916/thumbnails/micropower-micro-10
 9/22/2020 12:40:20 PM 374,09 RON
 9/26/2020 3:21:16 PM 379,99 RON
 9/27/2020 7:32:35 PM 379,99 RON
+10/5/2020 7:02:19 PM 375,81 RON

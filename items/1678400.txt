@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2000-led-li-t10
 1678400
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-2000-line-interactive-2000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1663772/1678400/thumbnails/powermust-2000-li
 9/22/2020 12:57:34 PM 698,80 RON
 9/26/2020 3:27:57 PM 709,97 RON
 9/27/2020 7:39:21 PM 709,81 RON
+10/5/2020 11:32:23 PM 704,34 RON

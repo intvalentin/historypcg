@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba084745
 1619810
     Product link    
 https://www.pcgarage.ro/baterii/duracell/turbomax-alcalina-aa-r6-blister/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1605610/1619810/thumbnails/turbomax-alcalina
     Pret    
 9/22/2020 6:01:07 PM 17,39 RON
 9/26/2020 7:18:36 PM 17,39 RON
+10/5/2020 10:58:10 PM 33,56 RON

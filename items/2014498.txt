@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp3180
 2014498
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sopar/profesional-350-x-350-cm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2014498/thumbnails/profesional-350-x
 9/22/2020 5:44:49 PM 527,87 RON
 9/26/2020 6:56:54 PM 529,37 RON
 9/28/2020 8:39:05 AM 529,68 RON
+10/5/2020 7:28:09 PM 529,33 RON

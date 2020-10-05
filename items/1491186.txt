@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |989-000171
 1491186
     Product link    
 https://www.pcgarage.ro/microfoane/logitech/group-expansion-x-2/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1457254/1491186/thumbnails/group-expansion-m
     Pret    
 9/22/2020 5:46:30 PM 1.466,17 RON
 9/26/2020 6:59:04 PM 1.463,70 RON
+10/5/2020 7:46:59 PM 1.461,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ua0184a
 1425058
     Product link    
 https://www.pcgarage.ro/placi-de-retea/logilink/gigabit-ua0184a-usb-30/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/842306/1425058/thumbnails/gigabit-ua0184a-us
 9/22/2020 12:09:48 PM 112,83 RON
 9/26/2020 2:55:24 PM 111,82 RON
 9/27/2020 6:57:00 PM 111,82 RON
+10/5/2020 7:12:05 PM 112,69 RON

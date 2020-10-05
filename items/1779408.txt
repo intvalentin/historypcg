@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr1000ert2u
 1779408
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/pr1000ert2u-1000va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6115/1779408/thumbnails/pr1500ertxl2u-1500va
 9/22/2020 12:50:01 PM 2.598,87 RON
 9/26/2020 3:16:43 PM 2.609,44 RON
 9/27/2020 7:28:04 PM 2.609,44 RON
+10/5/2020 10:47:43 PM 2.604,15 RON

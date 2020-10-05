@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eap320
 1401927
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/gigabit-eap320-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1052635/1401927/thumbnails/gigabit-eap320-du
 9/22/2020 12:25:26 PM 859,75 RON
 9/26/2020 3:05:30 PM 859,75 RON
 9/27/2020 7:03:42 PM 859,75 RON
+10/5/2020 5:41:08 PM 859,75 RON

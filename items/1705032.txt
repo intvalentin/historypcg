@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elp1200din
 1705032
     Product link    
 https://www.pcgarage.ro/ups/eaton/ellipse-pro-1200va-din/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/1705032/thumbnails/ellipse-pro-1200va-din-
 9/22/2020 12:58:39 PM 1.237,06 RON
 9/26/2020 3:27:13 PM 1.237,06 RON
 9/27/2020 7:38:35 PM 1.237,06 RON
+10/5/2020 11:41:49 PM 1.237,06 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npr-1500-mt
 474459
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-pr-mt-1500va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/474459/thumbnails/netys-pr-mt-1500va-b3b07
 9/22/2020 12:47:51 PM 1.497,23 RON
 9/26/2020 3:23:29 PM 1.502,37 RON
 9/27/2020 7:34:52 PM 1.502,37 RON
+10/5/2020 10:32:03 PM 1.500,68 RON

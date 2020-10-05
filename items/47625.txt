@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acc21-6261201
 47625
     Product link    
 https://www.pcgarage.ro/obiective/canon/ef-50mm-f-14-usm/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4/47625/thumbnails/ef-50mm-f-14-usm-c0dfd1bb
     Pret    
 9/22/2020 5:56:01 PM 1.721,62 RON
 9/26/2020 7:11:51 PM 1.721,62 RON
+10/5/2020 6:52:21 PM 1.721,39 RON

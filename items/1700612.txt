@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ph6kit
 1700612
     Product link    
 https://www.pcgarage.ro/powerline/tenda/gigabit-ph6kit/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1691840/1700612/thumbnails/gigabit-ph6kit-0c
 9/22/2020 12:28:36 PM 256,46 RON
 9/26/2020 3:06:59 PM 260,56 RON
 9/27/2020 7:05:09 PM 260,51 RON
+10/5/2020 5:52:50 PM 229,03 RON

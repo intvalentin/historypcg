@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9630a003ba
 215841
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-11-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/215841/thumbnails/black-toner-cartridge-c-
 9/21/2020 4:01:36 PM 1.057,98 RON
 9/26/2020 10:32:48 AM 1.061,98 RON
 9/27/2020 1:50:46 PM 1.059,98 RON
+10/5/2020 6:37:45 PM 1.059,98 RON

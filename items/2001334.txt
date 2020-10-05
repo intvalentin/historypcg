@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smv1500cai
 2001334
     Product link    
 https://www.pcgarage.ro/ups/apc/easy-ups-smv-1500-va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2001334/thumbnails/easy-ups-smv-1500
 9/22/2020 12:50:01 PM 2.483,51 RON
 9/26/2020 3:15:14 PM 2.492,04 RON
 9/27/2020 7:26:35 PM 2.492,04 RON
+10/5/2020 10:46:54 PM 2.489,23 RON

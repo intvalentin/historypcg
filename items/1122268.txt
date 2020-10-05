@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |re450
 1122268
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/tp-link/re450/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/1122268/thumbnails/tp-link-re450-wire
 9/22/2020 12:31:44 PM 278,99 RON
 9/26/2020 3:10:00 PM 304,37 RON
 9/27/2020 7:21:27 PM 304,37 RON
+10/5/2020 6:09:36 PM 298,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |micro2000-s
 876931
     Product link    
 https://www.pcgarage.ro/ups/kstar/micropower-micro-2000-shucko/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/843505/876931/thumbnails/micropower-micro-20
 9/22/2020 12:39:15 PM 488,99 RON
 9/26/2020 3:15:14 PM 438,99 RON
 9/27/2020 7:26:35 PM 438,99 RON
+10/5/2020 11:30:30 PM 655,28 RON

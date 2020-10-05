@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |el1200usbiec
 1705044
     Product link    
 https://www.pcgarage.ro/ups/eaton/ellipse-eco-1200-usb-iec-1200va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/472405/1705044/thumbnails/ellipse-eco-1200-u
 9/22/2020 12:47:51 PM 934,78 RON
 9/26/2020 3:18:14 PM 934,78 RON
 9/27/2020 7:29:33 PM 934,78 RON
+10/5/2020 10:25:19 PM 934,78 RON

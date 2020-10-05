@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r-004
 1603042
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/inter-tech/argus-r-004-usb-20/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1496454/1603042/thumbnails/argus-r-004-card-
     Pret    
 9/22/2020 5:53:45 PM 81,59 RON
 9/26/2020 7:08:07 PM 82,52 RON
+10/5/2020 6:20:41 PM 81,61 RON

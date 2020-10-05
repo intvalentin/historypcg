@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |600-led-lig-t10
 1631294
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-600eg-650va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1630882/1631294/thumbnails/powermust-400eg-4
 9/22/2020 12:43:33 PM 218,16 RON
 9/26/2020 3:19:44 PM 221,60 RON
 9/27/2020 7:31:06 PM 221,60 RON
+10/5/2020 6:50:41 PM 219,17 RON

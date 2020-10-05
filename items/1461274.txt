@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wap571-e-k9
 1461274
     Product link    
 https://www.pcgarage.ro/access-point-uri/cisco/gigabit-wap571-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1416562/1461274/thumbnails/gigabit-wap571-du
 9/22/2020 12:21:08 PM 1.377,61 RON
 9/26/2020 2:59:08 PM 1.396,11 RON
 9/27/2020 7:00:44 PM 1.396,11 RON
+10/5/2020 7:55:01 PM 1.385,12 RON

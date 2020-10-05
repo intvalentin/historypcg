@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |108r00972
 742705
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/drum-108r00972-magenta/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/742705/thumbnails/drum-108r00972-mage
 9/21/2020 4:16:09 PM 513,98 RON
 9/26/2020 10:38:44 AM 515,98 RON
 9/27/2020 1:57:12 PM 515,98 RON
+10/5/2020 7:21:32 PM 513,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crs106-1c-5s
 2050054
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/gigabit-crs106-1c-5s/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2050054/thumbnails/gigabit-crs106-1c
 9/22/2020 12:13:01 PM 248,72 RON
 9/26/2020 2:56:53 PM 254,26 RON
 9/27/2020 6:58:31 PM 254,21 RON
+10/5/2020 7:28:51 PM 252,25 RON

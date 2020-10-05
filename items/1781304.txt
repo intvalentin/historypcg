@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acb-ac
 1781304
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-airmax-aircube-dual-band/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6115/1781304/thumbnails/gigabit-airmax-aircu
 9/22/2020 12:21:08 PM 381,89 RON
 9/26/2020 2:58:24 PM 389,38 RON
 9/27/2020 7:00:00 PM 389,38 RON
+10/5/2020 7:47:13 PM 386,30 RON

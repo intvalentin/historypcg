@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |amo-2g10
 1091764
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/amo-2g10/
@@ -8,3 +8,4 @@ Ubiquiti AMO-2G10
 https://3.grgs.ro/images/products/1/472405/1091764/thumbnails/amo-2g10-34a0db9c1c6731a4aba5e45f57cbce4f.jpg
     Pret    
 9/22/2020 12:38:10 PM 850,17 RON
+10/5/2020 6:38:11 PM 854,09 RON

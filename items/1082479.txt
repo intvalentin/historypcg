@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psa650mt3-230u
 1082479
     Product link    
 https://www.pcgarage.ro/ups/emerson/liebert-psa-650va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1000151/1082479/thumbnails/liebert-psa-500va
 9/22/2020 12:45:42 PM 526,46 RON
 9/26/2020 3:21:16 PM 528,51 RON
 9/27/2020 7:32:35 PM 528,51 RON
+10/5/2020 10:09:59 PM 527,56 RON

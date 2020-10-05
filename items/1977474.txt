@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pahu3001
 1977474
     Product link    
 https://www.pcgarage.ro/consumabile/brother/cap-de-printare-pahu3001-300dpi/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1977474/thumbnails/cap-de-printare-pa
 9/21/2020 5:00:17 PM 1.143,98 RON
 9/26/2020 10:37:15 AM 1.147,98 RON
 9/27/2020 1:55:33 PM 1.145,98 RON
+10/5/2020 7:51:33 PM 1.145,98 RON

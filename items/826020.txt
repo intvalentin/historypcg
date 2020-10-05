@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5s700i
 826020
     Product link    
 https://www.pcgarage.ro/ups/eaton/5s-700i-700va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/480523/826020/thumbnails/5s-700i-700va-bc49a
 9/22/2020 12:46:46 PM 633,42 RON
 9/26/2020 3:22:00 PM 633,42 RON
 9/27/2020 7:33:23 PM 633,42 RON
+10/5/2020 10:16:06 PM 633,42 RON

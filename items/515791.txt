@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6409b001aa
 515791
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-72-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/515791/thumbnails/pgi-72gy-1e7532e6cb0d1df
 9/21/2020 6:05:34 PM 59,98 RON
 9/26/2020 11:12:07 AM 59,98 RON
 9/27/2020 2:33:38 PM 59,98 RON
+10/5/2020 11:05:46 PM 59,98 RON

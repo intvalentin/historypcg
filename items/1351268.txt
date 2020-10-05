@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |utl-u2-bk
 1351268
     Product link    
 https://www.pcgarage.ro/placi-de-retea/orico/utl-u2-rj-45-lan-usb-20/
@@ -8,3 +8,4 @@ Orico UTL-U2 RJ-45 LAN - USB 2.0
 https://3.grgs.ro/images/products/1/862960/1351268/thumbnails/orico-utl-u2-usb-20-fast-ethernet-adapter-16400154b841dc04d37e870a3a2bef13.jpg
     Pret    
 9/22/2020 12:10:51 PM 47,56 RON
+10/5/2020 7:16:22 PM 47,78 RON

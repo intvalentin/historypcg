@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |value1500eilcd
 1122948
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/value-1500-ei-lcd-1500va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/812812/1122948/thumbnails/value1500-ei-lcd-1
 9/22/2020 12:43:33 PM 870,06 RON
 9/26/2020 3:29:27 PM 873,05 RON
 9/27/2020 7:40:50 PM 873,05 RON
+10/5/2020 11:36:26 PM 872,06 RON

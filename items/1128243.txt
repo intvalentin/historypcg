@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dxs-1210-10ts
 1128243
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dxs-1210-10ts/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1109408/1128243/thumbnails/gigabit-dxs-1210-
 9/22/2020 11:54:19 AM 4.135,32 RON
 9/26/2020 2:48:47 PM 4.147,15 RON
 9/27/2020 6:50:28 PM 4.149,54 RON
+10/5/2020 6:37:12 PM 4.146,80 RON

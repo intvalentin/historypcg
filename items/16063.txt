@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn3060
 16063
     Product link    
 https://www.pcgarage.ro/consumabile/brother/tn-3060-toner-for-hl51xx/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/16063/thumbnails/117608.jpg
 9/21/2020 4:16:09 PM 519,98 RON
 9/26/2020 10:46:10 AM 521,98 RON
 9/27/2020 2:05:06 PM 521,98 RON
+10/5/2020 7:22:04 PM 521,98 RON

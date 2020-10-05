@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc420i
 7123
     Product link    
 https://www.pcgarage.ro/ups/apc/sc420i/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/7123/thumbnails/65863ad4-5056-9170-d3bc9fd
 9/22/2020 12:58:39 PM 994,27 RON
 9/26/2020 3:32:23 PM 997,08 RON
 9/27/2020 7:43:46 PM 997,65 RON
+10/5/2020 11:38:36 PM 1.017,63 RON

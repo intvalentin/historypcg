@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz19-03060100-r3m1
 1975098
     Product link    
 https://www.pcgarage.ro/microfoane/razer/seiren-emote/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6472/1975098/thumbnails/seiren-emote-190c36a
     Pret    
 9/22/2020 5:46:30 PM 1.144,29 RON
 9/26/2020 6:59:04 PM 1.147,56 RON
+10/5/2020 7:46:25 PM 1.147,47 RON

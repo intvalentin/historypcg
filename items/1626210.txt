@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |colonna-silver
 1626210
     Product link    
 https://www.pcgarage.ro/microfoane/arozzi/colonna-silver/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5633/1626210/thumbnails/colonna-silver-9ac15
     Pret    
 9/22/2020 5:47:36 PM 467,63 RON
 9/26/2020 7:00:38 PM 475,00 RON
+10/5/2020 8:00:48 PM 471,34 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s053038ba
 266965
     Product link    
 https://www.pcgarage.ro/consumabile/epson/fuser-unit-al-m4000/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4/266965/thumbnails/fuser-unit-al-m4000-6c4f
 9/21/2020 4:01:36 PM 1.389,98 RON
 9/26/2020 10:39:29 AM 1.393,98 RON
 9/27/2020 1:57:57 PM 1.391,98 RON
+10/5/2020 7:57:57 PM 1.393,98 RON
+10/5/2020 5:37:15 PM 1.393,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usb-n13
 91971
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/asus/asus-usb-n13/
@@ -8,3 +8,4 @@ ASUS USB-N13
 https://3.grgs.ro/images/products/1/3/91971/thumbnails/asus-usb-n13-dcbf3cf6c56f1460931d2b7daa6cd69c.jpg
     Pret    
 9/22/2020 12:06:40 PM 81,91 RON
+10/5/2020 6:54:21 PM 82,13 RON

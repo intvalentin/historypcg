@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |am-5g16
 1090614
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/am-5g16/
@@ -8,3 +8,4 @@ Ubiquiti AM-5G16
 https://5.grgs.ro/images/products/1/859765/1090614/thumbnails/am-5g16-3a6bacc4d7177e5a0ccb7a623750b5b8.jpg
     Pret    
 9/22/2020 12:38:10 PM 397,19 RON
+10/5/2020 6:32:30 PM 399,44 RON

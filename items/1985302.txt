@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |micro3000-s
 1985302
     Product link    
 https://www.pcgarage.ro/ups/kstar/micropower-micro-3000-shucko/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/843505/1985302/thumbnails/micropower-micro-2
 9/22/2020 12:47:51 PM 1.322,77 RON
 9/26/2020 3:15:14 PM 1.343,62 RON
 9/27/2020 7:26:35 PM 1.343,62 RON
+10/5/2020 10:29:25 PM 1.328,86 RON

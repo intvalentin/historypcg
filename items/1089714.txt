@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eap220
 1089714
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/gigabit-eap220/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/750014/1089714/thumbnails/eap120-dbb7dcbdeca
 9/22/2020 12:24:22 PM 350,75 RON
 9/26/2020 3:05:30 PM 350,75 RON
 9/27/2020 7:03:42 PM 350,75 RON
+10/5/2020 8:01:12 PM 350,75 RON
+10/5/2020 5:37:10 PM 350,75 RON

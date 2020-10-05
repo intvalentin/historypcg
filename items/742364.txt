@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2777b003ba
 742364
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-28-3-culori/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/742364/thumbnails/drum-c-exv-28-3-culori-0
 9/21/2020 5:02:21 PM 1.323,98 RON
 9/26/2020 10:38:44 AM 1.327,98 RON
 9/27/2020 1:57:12 PM 1.327,98 RON
+10/5/2020 7:55:52 PM 1.325,98 RON

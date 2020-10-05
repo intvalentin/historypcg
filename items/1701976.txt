@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-3000-52x
 1701976
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dgs-3000-52x/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1701976/thumbnails/gigabit-dgs-3000-
 9/22/2020 11:55:24 AM 4.195,52 RON
 9/26/2020 2:47:17 PM 4.209,94 RON
 9/27/2020 6:49:43 PM 4.209,94 RON
+10/5/2020 6:38:00 PM 4.205,19 RON

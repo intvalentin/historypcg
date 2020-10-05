@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-2230
 1186741
     Product link    
 https://www.pcgarage.ro/access-point-uri/d-link/dap-2230/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/1186741/thumbnails/dap-2230-764663504
 9/22/2020 12:22:12 PM 292,35 RON
 9/26/2020 2:59:54 PM 293,54 RON
 9/27/2020 7:01:29 PM 293,54 RON
+10/5/2020 7:43:45 PM 333,38 RON

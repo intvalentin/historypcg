@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn4100
 16061
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/tn-4100-for-hl6050-6050d-6050dn/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/16061/thumbnails/114871.jpg
 9/21/2020 5:33:28 PM 549,98 RON
 9/26/2020 10:57:18 AM 551,98 RON
 9/27/2020 2:17:05 PM 551,98 RON
+10/5/2020 10:09:28 PM 551,98 RON

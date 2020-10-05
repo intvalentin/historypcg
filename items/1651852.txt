@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-1325
 1651852
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/d-link/dap-1325-n300-wi-fi/
@@ -8,3 +8,4 @@ D-Link DAP-1325 N300 Wi-Fi
 https://1.grgs.ro/images/products/1/530/1651852/thumbnails/dap-1325-n300-wi-fi-20b4983791e8e0e88e212a12bfb622ea.jpg
     Pret    
 9/22/2020 12:32:49 PM 93,78 RON
+10/5/2020 6:07:26 PM 111,50 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usw-48-poe
 2072842
     Product link    
 https://www.pcgarage.ro/switch-uri/ubiquiti-networks/gigabit-usw-48-poe/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4273/2072842/thumbnails/gigabit-usw-48-poe-d
 9/22/2020 11:54:19 AM 4.066,26 RON
 9/26/2020 2:44:19 PM 4.133,80 RON
 9/27/2020 6:46:00 PM 4.132,92 RON
+10/5/2020 6:35:56 PM 4.101,07 RON

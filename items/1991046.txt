@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nsg100-zz0101f
 1991046
     Product link    
 https://www.pcgarage.ro/routere/zyxel/gigabit-nsg100-nebula-cloud-manage-security-gateway/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/370411/1991046/thumbnails/gigabit-nsg100-neb
 9/22/2020 12:13:01 PM 3.153,62 RON
 9/26/2020 2:56:09 PM 3.161,85 RON
 9/27/2020 6:57:45 PM 3.163,67 RON
+10/5/2020 7:27:31 PM 2.553,78 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa811da
 258627
     Product link    
 https://www.pcgarage.ro/obiective/nikon/af-s-nikkor-24-120mm-f-4g-ed-vr/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/4/258627/thumbnails/af-s-nikkor-24-120mm-f-4
     Pret    
 9/22/2020 5:56:01 PM 5.599,00 RON
 9/26/2020 7:12:36 PM 5.599,00 RON
+10/5/2020 6:46:14 PM 5.599,00 RON

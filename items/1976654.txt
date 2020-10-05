@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310184
 1976654
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-sp-800va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1976654/thumbnails/keor-sp-600va-372
 9/22/2020 12:41:25 PM 483,08 RON
 9/26/2020 3:15:59 PM 483,08 RON
 9/27/2020 7:27:20 PM 483,08 RON
+10/5/2020 10:09:10 PM 483,08 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w1720
 1948122
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/w1720/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6166/1948122/thumbnails/w1720-0987563ef46660
 9/22/2020 5:41:28 PM 6.547,98 RON
 9/26/2020 6:48:42 PM 6.565,98 RON
 9/28/2020 8:30:51 AM 6.569,98 RON
+10/5/2020 6:56:16 PM 6.565,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5227b005aa
 301733
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cl-541-3-culori/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/301733/thumbnails/cl-541-ink-cartridge-66d
 9/21/2020 6:09:43 PM 97,98 RON
 9/26/2020 11:13:36 AM 97,98 RON
 9/27/2020 2:35:12 PM 97,98 RON
+10/5/2020 11:28:50 PM 97,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3454c007aa
 1905474
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/canon/eos-250d-black-plus-obiectiv-18-55-is-stm/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1848722/1905474/thumbnails/eos-250d-body-bla
     Pret    
 9/22/2020 5:48:44 PM 3.249,98 RON
 9/26/2020 7:02:08 PM 3.259,98 RON
+10/5/2020 5:39:20 PM 3.259,98 RON

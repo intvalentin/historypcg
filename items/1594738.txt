@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h796040
 1594738
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eb-1795f/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469770/1594738/thumbnails/eb-1795f-604c4da2
 9/22/2020 5:42:00 PM 8.431,98 RON
 9/26/2020 6:50:55 PM 8.459,98 RON
 9/28/2020 8:33:08 AM 8.459,98 RON
+10/5/2020 7:01:22 PM 8.455,98 RON

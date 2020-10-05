@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gx20-hw-eu
 2039710
     Product link    
 https://www.pcgarage.ro/firewall/meraki-go/gigabit-gx20-hw/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039710/thumbnails/gigabit-gx20-hw-4
 9/22/2020 12:30:40 PM 710,48 RON
 9/26/2020 3:08:30 PM 721,68 RON
 9/27/2020 7:20:01 PM 721,68 RON
+10/5/2020 6:00:20 PM 713,75 RON

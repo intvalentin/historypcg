@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn04m
 16025
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/tn-04m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/16025/thumbnails/rosu.jpg
 9/21/2020 5:37:37 PM 881,98 RON
 9/26/2020 10:58:02 AM 883,98 RON
 9/27/2020 2:17:52 PM 883,98 RON
+10/5/2020 10:18:40 PM 883,98 RON

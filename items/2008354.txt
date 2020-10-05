@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0765
 2008354
     Product link    
 https://www.pcgarage.ro/microfoane/krugermatz/warrior-1/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8078/2008354/thumbnails/warrior-c8d086f22c09
     Pret    
 9/22/2020 5:47:02 PM 278,16 RON
 9/26/2020 6:59:54 PM 278,16 RON
+10/5/2020 7:57:50 PM 278,16 RON

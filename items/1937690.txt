@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3879c006aa
 1937690
     Product link    
 https://www.pcgarage.ro/aparate-foto-compacte/canon/zoemini-s-white/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2554/1937690/thumbnails/zoemini-s-white-8d05
     Pret    
 9/22/2020 5:50:59 PM 677,98 RON
 9/26/2020 7:05:07 PM 679,98 RON
+10/5/2020 6:01:33 PM 679,98 RON

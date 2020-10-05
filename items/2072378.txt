@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jma706da
 2072378
     Product link    
 https://www.pcgarage.ro/obiective/nikon/z-dx-16-50mm-f-35-63-vr/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4273/2072378/thumbnails/z-dx-16-50mm-f-35-63
     Pret    
 9/22/2020 5:56:01 PM 1.498,99 RON
 9/26/2020 7:11:51 PM 1.498,99 RON
+10/5/2020 6:43:35 PM 1.799,00 RON

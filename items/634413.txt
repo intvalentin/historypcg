@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn245c
 634413
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/toner-tn-245-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/634413/thumbnails/toner-tn-245-cyan-3150ef
 9/21/2020 5:33:28 PM 425,98 RON
 9/26/2020 10:53:35 AM 427,98 RON
 9/27/2020 2:13:07 PM 427,98 RON
+10/5/2020 7:05:55 PM 425,98 RON

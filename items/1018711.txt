@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm131596
 1018711
     Product link    
 https://www.pcgarage.ro/microfoane/hama/thomson-m150/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/255443/1018711/thumbnails/thomson-m150-4f7c2
     Pret    
 9/22/2020 5:45:57 PM 30,77 RON
 9/26/2020 6:58:22 PM 30,77 RON
+10/5/2020 7:41:56 PM 91,62 RON

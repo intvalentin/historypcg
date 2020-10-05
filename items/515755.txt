@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4874b001aa
 515755
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-29-magenta/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/515755/thumbnails/pgi-29m-90f22c64c84f13fc
 9/21/2020 6:11:48 PM 119,98 RON
 9/26/2020 11:12:51 AM 119,98 RON
 9/27/2020 2:34:23 PM 119,98 RON
+10/5/2020 11:34:09 PM 119,98 RON

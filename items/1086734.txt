@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bk-4lcce-2be
 1086734
     Product link    
 https://www.pcgarage.ro/acumulatori/panasonic/eneloop-lite-r03-aaa-550mah-blister-2buc/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/480523/1086734/thumbnails/eneloop-lite-r03-a
     Pret    
 9/22/2020 6:00:00 PM 21,05 RON
 9/26/2020 7:17:50 PM 21,12 RON
+10/5/2020 10:19:53 PM 21,09 RON

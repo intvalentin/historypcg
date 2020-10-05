@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310331
 1978846
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-pdu-iec-800va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/370411/1978846/thumbnails/keor-pdu-iec-800va
 9/22/2020 12:57:34 PM 619,27 RON
 9/26/2020 3:24:59 PM 620,89 RON
 9/27/2020 7:36:21 PM 620,89 RON
+10/5/2020 11:29:40 PM 619,80 RON

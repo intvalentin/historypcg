@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hr01-u3-v1-bk-pro
 1770684
     Product link    
 https://www.pcgarage.ro/placi-de-retea/orico/gigabit-hr01-u3-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1770684/thumbnails/gigabit-hr01-u3-pro-
 9/22/2020 12:09:48 PM 81,54 RON
 9/26/2020 2:54:40 PM 82,82 RON
 9/27/2020 6:56:15 PM 82,82 RON
+10/5/2020 7:10:26 PM 81,91 RON

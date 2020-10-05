@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s015091
 14641
     Product link    
 https://www.pcgarage.ro/consumabile/epson/ribon-negru-c13s015091/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/14641/thumbnails/ribon-negru-c13s015091-ae
 9/21/2020 4:07:50 PM 141,98 RON
 9/26/2020 10:41:43 AM 141,98 RON
 9/27/2020 2:00:21 PM 141,98 RON
+10/5/2020 6:57:54 PM 141,98 RON

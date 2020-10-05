@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-pro-5
 1408778
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-unifi-ap-pro-dual-band-5-bucati/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1025741/1408778/thumbnails/gigabit-unifi-ap-
 9/22/2020 12:24:22 PM 3.340,71 RON
 9/26/2020 2:59:09 PM 4.002,50 RON
 9/27/2020 7:00:44 PM 4.001,65 RON
+10/5/2020 7:58:12 PM 3.401,54 RON
+10/5/2020 5:37:10 PM 3.401,54 RON

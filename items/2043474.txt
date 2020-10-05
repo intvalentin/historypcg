@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |re505x
 2043474
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/tp-link/gigabit-re505x-dual-band/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1034/2043474/thumbnails/gigabit-re505x-dual-
 9/22/2020 12:31:44 PM 328,99 RON
 9/26/2020 3:09:16 PM 328,99 RON
 9/27/2020 7:20:43 PM 328,99 RON
+10/5/2020 6:11:10 PM 376,21 RON

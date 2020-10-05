@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx1400ui
 999642
     Product link    
 https://www.pcgarage.ro/ups/apc/back-ups-1400va-iec-sockets/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/849800/999642/thumbnails/back-ups-1400va-iec
 9/22/2020 12:40:20 PM 738,99 RON
 9/26/2020 3:14:30 PM 738,99 RON
 9/27/2020 7:25:51 PM 738,99 RON
+10/5/2020 6:45:02 PM 698,99 RON

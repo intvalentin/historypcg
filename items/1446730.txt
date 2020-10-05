@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nrt2-u3300
 1446730
     Product link    
 https://www.pcgarage.ro/ups/socomec/netsys-rt2-3300va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1355324/1446730/thumbnails/netsys-rt2-3300va
 9/22/2020 12:51:05 PM 4.667,33 RON
 9/26/2020 3:20:30 PM 4.680,69 RON
 9/27/2020 7:31:50 PM 4.683,38 RON
+10/5/2020 10:59:03 PM 4.680,32 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap750mc
 282721
     Product link    
 https://www.pcgarage.ro/acumulatori/energizer/ap750mc/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4/282721/thumbnails/ap750mc-35fb45c99704631e
     Pret    
 9/22/2020 6:00:33 PM 45,53 RON
 9/26/2020 7:17:50 PM 46,04 RON
+10/5/2020 10:22:31 PM 45,54 RON

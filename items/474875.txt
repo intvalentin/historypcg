@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa815da
 474875
     Product link    
 https://www.pcgarage.ro/obiective/nikon/nikkor-70-200mm-f-4g-ed-vr-af-s/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2/474875/thumbnails/nikkor-70-200mm-f-4g-ed-
     Pret    
 9/22/2020 5:56:01 PM 5.998,99 RON
 9/26/2020 7:11:51 PM 5.998,99 RON
+10/5/2020 6:47:02 PM 6.999,00 RON

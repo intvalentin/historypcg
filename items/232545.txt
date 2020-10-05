@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lc985c
 232545
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/lc985c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/232545/thumbnails/lc985c-873e30303e3f36756
 9/21/2020 5:14:46 PM 47,98 RON
 9/26/2020 10:55:48 AM 47,98 RON
 9/27/2020 2:15:29 PM 47,98 RON
+10/5/2020 5:54:19 PM 47,98 RON

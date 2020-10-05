@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dm-01
 1104968
     Product link    
 https://www.pcgarage.ro/microfoane/fenda/dm-01/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/750014/1104968/thumbnails/dm-01-92223ba18014
     Pret    
 9/22/2020 5:47:02 PM 67,83 RON
 9/26/2020 7:00:38 PM 67,83 RON
+10/5/2020 7:51:21 PM 67,83 RON

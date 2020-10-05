@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdl-1420
 2062562
     Product link    
 https://www.pcgarage.ro/microfoane/antlion-audio/modmic-uni/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6954/2062562/thumbnails/modmic-uni-220942533
     Pret    
 9/22/2020 5:46:30 PM 319,35 RON
 9/26/2020 6:58:22 PM 324,47 RON
+10/5/2020 7:43:00 PM 321,90 RON

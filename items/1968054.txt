@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dgs-1510-28xmp
 1968054
     Product link    
 https://www.pcgarage.ro/switch-uri/d-link/gigabit-dgs-1510-28xmp/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1968054/thumbnails/gigabit-dgs-1510-28x
 9/22/2020 11:55:24 AM 4.182,69 RON
 9/26/2020 2:45:48 PM 4.194,75 RON
 9/27/2020 6:47:29 PM 4.197,16 RON
+10/5/2020 6:37:44 PM 4.194,40 RON

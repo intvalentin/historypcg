@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5sc3000irt
 1704972
     Product link    
 https://www.pcgarage.ro/ups/eaton/5sc-3000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1689668/1704972/thumbnails/5sc-3000va-68f768
 9/22/2020 12:52:10 PM 6.163,91 RON
 9/26/2020 3:18:14 PM 6.163,91 RON
 9/27/2020 7:29:33 PM 6.163,91 RON
+10/5/2020 11:00:58 PM 6.163,91 RON

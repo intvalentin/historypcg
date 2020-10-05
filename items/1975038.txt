@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upcmtls615hcaaz01b
 1975038
     Product link    
 https://www.pcgarage.ro/ups/njoy/cadu-1500-1500-va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6472/1975038/thumbnails/cadu-1500-1500-va-b4
 9/22/2020 12:42:29 PM 525,79 RON
 9/26/2020 3:15:59 PM 528,99 RON
 9/27/2020 7:27:20 PM 528,99 RON
+10/5/2020 10:10:15 PM 528,99 RON

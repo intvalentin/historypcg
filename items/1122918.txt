@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |value600eilcd
 1122918
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/value-600-ei-lcd-600va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1122918/thumbnails/value600-ei-lcd-6
 9/22/2020 12:44:37 PM 343,76 RON
 9/26/2020 3:21:16 PM 344,94 RON
 9/27/2020 7:32:35 PM 344,94 RON
+10/5/2020 7:00:25 PM 344,55 RON

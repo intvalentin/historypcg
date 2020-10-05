@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt1000rmi2uc
 1687632
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-1000va-lcd-rm-2u-230v-smartconnect/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8968/1687632/thumbnails/smart-ups-1000va-lcd
 9/22/2020 12:51:05 PM 3.609,55 RON
 9/26/2020 3:18:59 PM 3.148,35 RON
 9/27/2020 7:30:18 PM 3.143,71 RON
+10/5/2020 10:53:03 PM 3.140,16 RON

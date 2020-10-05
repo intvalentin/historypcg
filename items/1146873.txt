@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9182b001aa
 1146873
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/pgi-1500xlb-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929099/1146873/thumbnails/pgi-1500xlb-black-
 9/21/2020 5:52:09 PM 121,98 RON
 9/26/2020 11:08:25 AM 123,98 RON
 9/27/2020 2:29:40 PM 121,98 RON
+10/5/2020 11:35:29 PM 123,98 RON

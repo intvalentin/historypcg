@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-pa8010p starter kit
 998922
     Product link    
 https://www.pcgarage.ro/powerline/tp-link/av1200/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/255443/998922/thumbnails/av1200-7ec2404c51bb
 9/22/2020 12:28:35 PM 346,63 RON
 9/26/2020 3:06:59 PM 346,63 RON
 9/27/2020 7:05:09 PM 346,63 RON
+10/5/2020 5:54:11 PM 346,63 RON

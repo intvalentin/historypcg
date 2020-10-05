@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000-lcd-on-r20
 1678472
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1000-online-lcd-rm-1000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1666176/1678472/thumbnails/powermust-1000-on
 9/22/2020 12:41:25 PM 1.410,00 RON
 9/26/2020 3:18:59 PM 1.432,23 RON
 9/27/2020 7:30:18 PM 1.432,23 RON
+10/5/2020 10:29:41 PM 1.416,50 RON

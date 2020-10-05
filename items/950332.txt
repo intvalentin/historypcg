@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aj9543b002aa
 950332
     Product link    
 https://www.pcgarage.ro/aparate-foto-bridge/canon/powershot-sx60-hs-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/722028/950332/thumbnails/powershot-sx60-hs-b
     Pret    
 9/22/2020 5:49:49 PM 2.027,98 RON
 9/26/2020 7:03:36 PM 2.033,98 RON
+10/5/2020 5:48:50 PM 2.031,98 RON

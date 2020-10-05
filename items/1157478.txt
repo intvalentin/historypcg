@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lbe-m5-23
 1157478
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/lite-beam-m5/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1157478/thumbnails/lite-beam-m5-d5ef
 9/22/2020 12:37:04 PM 243,26 RON
 9/26/2020 3:13:03 PM 250,42 RON
 9/27/2020 7:24:23 PM 250,42 RON
+10/5/2020 6:28:44 PM 248,46 RON

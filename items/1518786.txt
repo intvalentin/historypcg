@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba001303
 1518786
     Product link    
 https://www.pcgarage.ro/baterii/varta/v4034px/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/978807/1518786/thumbnails/v4034px-445b6da535
     Pret    
 9/22/2020 6:02:50 PM 25,24 RON
 9/26/2020 7:21:35 PM 25,24 RON
+10/5/2020 10:51:39 PM 25,24 RON

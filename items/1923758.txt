@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dmg-18
 1923758
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/power-on/dmg-18-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8629/1923758/thumbnails/dmg-18-dual-band-c23
 9/22/2020 12:06:40 PM 67,83 RON
 9/26/2020 2:51:45 PM 68,90 RON
 9/27/2020 6:53:23 PM 68,90 RON
+10/5/2020 6:51:43 PM 68,14 RON

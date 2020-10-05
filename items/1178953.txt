@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9254b001aa
 1178953
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-2500-xl-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/859765/1178953/thumbnails/cartus-pgi-2500-xl
 9/21/2020 5:56:19 PM 147,98 RON
 9/26/2020 11:08:25 AM 147,98 RON
 9/27/2020 2:29:40 PM 147,98 RON
+10/5/2020 11:36:56 PM 147,98 RON

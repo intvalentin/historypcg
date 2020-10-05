@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.71l01gc0e
 1417350
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/w319ust-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1417350/thumbnails/w319ust-white-1e24
 9/22/2020 5:41:28 PM 5.581,98 RON
 9/26/2020 6:52:24 PM 5.601,98 RON
 9/28/2020 8:34:38 AM 5.601,98 RON
+10/5/2020 6:52:45 PM 5.595,98 RON

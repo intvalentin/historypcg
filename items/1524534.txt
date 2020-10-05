@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usg-pro-4
 1524534
     Product link    
 https://www.pcgarage.ro/routere/ubiquiti-networks/gigabit-unifirouter-pro-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1508470/1524534/thumbnails/gigabit-unifirout
 9/22/2020 12:11:56 PM 1.380,06 RON
 9/26/2020 2:56:09 PM 1.402,11 RON
 9/27/2020 6:57:45 PM 1.401,82 RON
+10/5/2020 7:25:55 PM 1.391,00 RON

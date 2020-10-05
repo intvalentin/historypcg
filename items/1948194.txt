@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w5700
 1948194
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/w5700/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1948194/thumbnails/w5700-92a784e8f554e1
 9/22/2020 5:42:31 PM 12.965,98 RON
 9/26/2020 6:48:42 PM 13.003,98 RON
 9/28/2020 8:30:51 AM 13.009,98 RON
+10/5/2020 7:06:59 PM 13.001,98 RON

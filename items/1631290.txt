@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |400-led-lig-t10
 1631290
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-400eg-450va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1631290/thumbnails/powermust-400eg-4
 9/22/2020 12:43:33 PM 204,98 RON
 9/26/2020 3:19:44 PM 208,21 RON
 9/27/2020 7:31:06 PM 208,21 RON
+10/5/2020 6:49:35 PM 205,92 RON

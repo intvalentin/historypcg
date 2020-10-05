@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt2200rmi2uc
 1741552
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-2200va-lcd-rm-2u-230v-with-smartconnect/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/1741552/thumbnails/smart-ups-2200va-rm-2u-
 9/22/2020 12:52:10 PM 6.674,02 RON
 9/26/2020 3:17:29 PM 6.693,12 RON
 9/27/2020 7:28:49 PM 6.696,96 RON
+10/5/2020 11:02:49 PM 6.689,41 RON

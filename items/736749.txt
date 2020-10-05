@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elp850iec
 736749
     Product link    
 https://www.pcgarage.ro/ups/eaton/ellipse-pro-850va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/736749/thumbnails/ellipse-pro-850va-c
 9/22/2020 12:58:39 PM 1.058,47 RON
 9/26/2020 3:30:56 PM 1.058,47 RON
 9/27/2020 7:42:19 PM 1.058,47 RON
+10/5/2020 11:40:09 PM 1.058,47 RON

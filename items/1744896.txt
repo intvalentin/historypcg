@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln856011060006
 1744896
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-600va-360w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1736364/1744896/thumbnails/guardian-600va-36
 9/22/2020 12:55:25 PM 327,66 RON
 9/26/2020 3:26:28 PM 328,52 RON
 9/27/2020 7:37:51 PM 328,52 RON
+10/5/2020 11:16:19 PM 327,93 RON

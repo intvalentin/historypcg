@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wap1750
 880006
     Product link    
 https://www.pcgarage.ro/access-point-uri/edimax/wap1750/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/880006/thumbnails/wap1750-1b770238575
 9/22/2020 12:25:26 PM 1.073,77 RON
 9/26/2020 3:05:30 PM 1.090,91 RON
 9/27/2020 7:03:42 PM 1.090,69 RON
+10/5/2020 5:44:35 PM 1.082,28 RON

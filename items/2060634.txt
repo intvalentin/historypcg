@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hu70ls.aeu
 2060634
     Product link    
 https://www.pcgarage.ro/videoproiectoare/lg/hu70ls/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6954/2060634/thumbnails/hu70ls-eb2f553fa082f
 9/22/2020 5:42:00 PM 8.227,98 RON
 9/26/2020 6:47:12 PM 8.251,98 RON
 9/28/2020 8:29:20 AM 8.255,98 RON
+10/5/2020 7:00:50 PM 8.249,98 RON

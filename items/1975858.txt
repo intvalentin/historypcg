@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upol-ol300ep-cg01b
 1975858
     Product link    
 https://www.pcgarage.ro/ups/njoy/echo-pro-3000-3000-va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1975858/thumbnails/echo-pro-1000-1000-v
 9/22/2020 12:43:33 PM 1.415,77 RON
 9/26/2020 3:15:59 PM 1.438,10 RON
 9/27/2020 7:27:20 PM 1.438,10 RON
+10/5/2020 10:29:58 PM 1.422,30 RON

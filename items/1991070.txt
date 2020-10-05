@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-flexhd-eu
 1991070
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-uap-flexhd-dual-band/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/1991070/thumbnails/gigabit-uap-flexh
 9/22/2020 12:25:26 PM 945,12 RON
 9/26/2020 3:00:38 PM 960,03 RON
 9/27/2020 7:02:13 PM 960,03 RON
+10/5/2020 5:43:02 PM 949,48 RON

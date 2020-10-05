@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |micro1200-1
 785465
     Product link    
 https://www.pcgarage.ro/ups/kstar/micropower-micro-1200/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/714621/785465/thumbnails/micropower-micro-12
 9/22/2020 12:56:30 PM 428,75 RON
 9/26/2020 3:30:56 PM 435,51 RON
 9/27/2020 7:42:19 PM 435,51 RON
+10/5/2020 11:21:47 PM 430,73 RON

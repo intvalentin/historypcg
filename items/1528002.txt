@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kom0553
 1528002
     Product link    
 https://www.pcgarage.ro/ups/quer/micropower-1000va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475490/1528002/thumbnails/micropower-1000va
 9/22/2020 12:44:37 PM 354,44 RON
 9/26/2020 3:19:44 PM 354,44 RON
 9/27/2020 7:31:06 PM 354,44 RON
+10/5/2020 7:01:31 PM 354,44 RON

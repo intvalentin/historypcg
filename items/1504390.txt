@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |alm22000
 1504390
     Product link    
 https://www.pcgarage.ro/genti-huse/nikon/l2x-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1355434/1504390/thumbnails/l2x-black-81eb9d4
     Pret    
 9/22/2020 5:57:42 PM 49,00 RON
 9/26/2020 7:14:06 PM 49,00 RON
+10/5/2020 6:57:34 PM 49,00 RON

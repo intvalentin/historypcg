@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0058831
 1494362
     Product link    
 https://www.pcgarage.ro/ups/ted/3000va-led-schuko/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1427466/1494362/thumbnails/700va-led-schuko-
 9/22/2020 12:47:51 PM 985,92 RON
 9/26/2020 3:19:44 PM 985,92 RON
 9/27/2020 7:31:06 PM 985,92 RON
+10/5/2020 10:26:41 PM 985,92 RON

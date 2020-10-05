@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-810
 1936970
     Product link    
 https://www.pcgarage.ro/placi-de-retea/inter-tech/gigabit-argus-it-810/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/1936970/thumbnails/gigabit-argus-it-810
 9/22/2020 12:10:51 PM 56,39 RON
 9/26/2020 2:55:24 PM 57,27 RON
 9/27/2020 6:57:00 PM 57,27 RON
+10/5/2020 7:17:45 PM 56,64 RON

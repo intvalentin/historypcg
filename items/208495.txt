@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-wa901nd
 208495
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/tl-wa901nd/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/4/208495/thumbnails/tl-wa901nd-ec659d03cad62
 9/22/2020 12:24:22 PM 168,61 RON
 9/26/2020 3:05:30 PM 168,61 RON
 9/27/2020 7:03:42 PM 168,61 RON
+10/5/2020 7:59:34 PM 168,61 RON
+10/5/2020 5:37:10 PM 168,61 RON

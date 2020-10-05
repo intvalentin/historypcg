@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spg052
 2084034
     Product link    
 https://www.pcgarage.ro/microfoane/spcgear/sm950t/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3354/2084034/thumbnails/sm950t-49b1f1e1a3e41
     Pret    
 9/22/2020 5:46:30 PM 535,99 RON
 9/26/2020 6:59:04 PM 537,52 RON
+10/5/2020 8:01:20 PM 537,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usg60-eu0101f
 1134573
     Product link    
 https://www.pcgarage.ro/firewall/zyxel/gigabit-zywall-usg60/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/1134573/thumbnails/zywall-usg-60-557d
 9/22/2020 12:30:40 PM 2.787,15 RON
 9/26/2020 3:08:30 PM 2.798,72 RON
 9/27/2020 7:20:01 PM 2.798,72 RON
+10/5/2020 6:01:09 PM 2.705,19 RON

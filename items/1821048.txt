@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sfera-black
 1821048
     Product link    
 https://www.pcgarage.ro/microfoane/arozzi/sfera-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5147/1821048/thumbnails/sfera-black-3a7827dd
     Pret    
 9/22/2020 5:47:36 PM 256,63 RON
 9/26/2020 6:59:54 PM 260,73 RON
+10/5/2020 7:56:28 PM 258,66 RON

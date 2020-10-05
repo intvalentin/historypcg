@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nwa5123-ac-eu0101f
 1822772
     Product link    
 https://www.pcgarage.ro/access-point-uri/zyxel/gigabit-nwa51213-ac-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5147/1822772/thumbnails/gigabit-nwa51213-ac-
 9/22/2020 12:23:17 PM 962,84 RON
 9/26/2020 2:58:24 PM 1.045,71 RON
 9/27/2020 7:00:00 PM 1.046,32 RON
+10/5/2020 7:53:08 PM 933,52 RON

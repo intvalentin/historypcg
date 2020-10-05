@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crs328-24p-4s+rm
 2072566
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/gigabit-crs328-24p-4s-plusrm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2072566/thumbnails/gigabit-crs328-24p-4
 9/22/2020 12:13:01 PM 1.679,00 RON
 9/26/2020 2:56:09 PM 1.716,32 RON
 9/27/2020 6:57:45 PM 1.715,96 RON
+10/5/2020 7:26:43 PM 1.702,71 RON

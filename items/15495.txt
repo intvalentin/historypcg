@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6836a002aa
 15495
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-5-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/15495/thumbnails/toner-c-exv5-ir1600-ir200
 9/21/2020 6:09:43 PM 109,98 RON
 9/26/2020 11:16:29 AM 111,98 RON
 9/27/2020 2:37:35 PM 109,98 RON
+10/5/2020 11:30:44 PM 109,98 RON

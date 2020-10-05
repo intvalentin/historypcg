@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |amo-5g13
 1091619
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/amo-5g13/
@@ -8,3 +8,4 @@ Ubiquiti AMO-5G13
 https://5.grgs.ro/images/products/1/849800/1091619/thumbnails/amo-5g13-dcaaf14b096804c23373abada9d5a7bb.jpg
     Pret    
 9/22/2020 12:38:10 PM 804,25 RON
+10/5/2020 6:37:55 PM 810,63 RON

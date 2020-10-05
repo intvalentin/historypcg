@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn04bk
 16033
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/tn-04bk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/16033/thumbnails/negru.jpg
 9/21/2020 5:47:59 PM 813,98 RON
 9/26/2020 11:01:01 AM 817,98 RON
 9/27/2020 2:21:43 PM 817,98 RON
+10/5/2020 10:54:56 PM 815,98 RON

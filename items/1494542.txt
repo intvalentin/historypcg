@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gdl-0420
 1494542
     Product link    
 https://www.pcgarage.ro/microfoane/antlion-audio/modmic-40-muted/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1475490/1494542/thumbnails/modmic-40-muted-d
     Pret    
 9/22/2020 5:47:36 PM 319,99 RON
 9/26/2020 7:00:38 PM 319,99 RON
+10/5/2020 7:58:54 PM 319,99 RON

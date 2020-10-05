@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vba480ae
 1387749
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/nikon/d500-body/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/851375/1387749/thumbnails/d500-body-03628251
     Pret    
 9/22/2020 5:49:16 PM 7.699,98 RON
 9/26/2020 7:02:08 PM 7.699,98 RON
+10/5/2020 5:46:14 PM 7.699,98 RON

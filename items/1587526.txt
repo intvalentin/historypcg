@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v11h849040
 1587526
     Product link    
 https://www.pcgarage.ro/videoproiectoare/epson/eh-tw650/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1500686/1587526/thumbnails/eh-tw650-bdf572a7
 9/22/2020 5:39:49 PM 2.987,98 RON
 9/26/2020 6:50:55 PM 2.997,98 RON
 9/28/2020 8:33:08 AM 2.997,98 RON
+10/5/2020 6:36:47 PM 2.995,98 RON

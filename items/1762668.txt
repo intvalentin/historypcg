@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln856011080007
 1762668
     Product link    
 https://www.pcgarage.ro/ups/legrand/inform-guardian-lcd-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3442/1762668/thumbnails/inform-guardian-lcd-
 9/22/2020 12:55:25 PM 392,25 RON
 9/26/2020 3:26:28 PM 393,28 RON
 9/27/2020 7:37:50 PM 393,28 RON
+10/5/2020 11:19:40 PM 392,59 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dub-e100
 43653
     Product link    
 https://www.pcgarage.ro/placi-de-retea/d-link/dub-e100/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/43653/thumbnails/dub-e100-a005823cbb7879bd
 9/22/2020 12:09:48 PM 118,99 RON
 9/26/2020 2:54:40 PM 98,99 RON
 9/27/2020 6:56:15 PM 98,99 RON
+10/5/2020 7:07:40 PM 98,99 RON

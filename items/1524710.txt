@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00032
 1524710
     Product link    
 https://www.pcgarage.ro/baterii/panasonic/lr14apb-lr14-2buc/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1358815/1524710/thumbnails/lr14apb-lr14-2buc
     Pret    
 9/22/2020 6:04:34 PM 24,29 RON
 9/26/2020 7:23:06 PM 24,37 RON
+10/5/2020 11:11:06 PM 24,34 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3000-lcd-on-r20
 1623682
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-3000-rm-3000va-lcd/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5633/1623682/thumbnails/powermust-3000-rm-30
 9/22/2020 12:50:01 PM 2.695,57 RON
 9/26/2020 3:19:44 PM 2.810,15 RON
 9/27/2020 7:31:06 PM 2.810,15 RON
+10/5/2020 10:48:32 PM 2.779,28 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eap110
 1088419
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/eap110/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1088254/1088419/thumbnails/eap110-1593b74191
 9/22/2020 12:21:08 PM 159,58 RON
 9/26/2020 2:59:54 PM 159,58 RON
 9/27/2020 7:01:29 PM 159,58 RON
+10/5/2020 7:36:31 PM 159,57 RON

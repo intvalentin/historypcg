@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tc101
 1929462
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/banda-laminata-12-mm-black-on-clear-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6622/1929462/thumbnails/banda-laminata-12-mm
 9/21/2020 5:41:47 PM 63,98 RON
 9/26/2020 11:00:16 AM 63,98 RON
 9/27/2020 2:20:15 PM 63,98 RON
+10/5/2020 10:29:53 PM 63,98 RON

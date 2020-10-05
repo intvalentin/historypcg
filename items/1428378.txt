@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap300
 1428378
     Product link    
 https://www.pcgarage.ro/access-point-uri/tp-link/gigabit-ap300-dual-band/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/986422/1428378/thumbnails/gigabit-ap300-dual
 9/22/2020 12:25:26 PM 448,24 RON
 9/26/2020 3:05:30 PM 448,24 RON
 9/27/2020 7:03:42 PM 448,24 RON
+10/5/2020 8:02:17 PM 448,24 RON
+10/5/2020 5:37:10 PM 448,24 RON

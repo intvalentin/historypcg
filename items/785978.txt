@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf364a
 785978
     Product link    
 https://www.pcgarage.ro/consumabile/hp/drum-828a-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/959008/785978/thumbnails/drum-828a-yellow-73
 9/21/2020 4:01:36 PM 1.353,98 RON
 9/26/2020 10:31:19 AM 1.359,98 RON
 9/27/2020 1:49:11 PM 1.355,98 RON
+10/5/2020 6:42:50 PM 1.343,98 RON

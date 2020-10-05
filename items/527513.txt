@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6509b009aa
 527513
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-551-4-culori/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/527513/thumbnails/cartus-cli-551-4-culori-
 9/21/2020 5:56:19 PM 211,98 RON
 9/26/2020 11:10:38 AM 211,98 RON
 9/27/2020 2:32:03 PM 211,98 RON
+10/5/2020 11:40:09 PM 211,98 RON

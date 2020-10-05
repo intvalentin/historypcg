@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ocm815b
 1190443
     Product link    
 https://www.pcgarage.ro/accesorii-proiectoare/optoma/suport-prindere-pe-tavan-negru/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/1190443/thumbnails/suport-prindere-pe
 9/22/2020 5:44:12 PM 319,11 RON
 9/26/2020 6:56:07 PM 320,16 RON
 9/28/2020 8:38:20 AM 320,16 RON
+10/5/2020 7:20:51 PM 319,80 RON

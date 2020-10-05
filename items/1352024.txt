@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72702gc0e
 1352024
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/w320usti/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1109408/1352024/thumbnails/w320usti-3488a1c7
 9/22/2020 5:41:28 PM 6.239,98 RON
 9/26/2020 6:53:09 PM 6.261,98 RON
 9/28/2020 8:35:23 AM 6.261,98 RON
+10/5/2020 6:54:55 PM 6.255,98 RON

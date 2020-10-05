@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dr200
 15837
     Product link    
 https://www.pcgarage.ro/consumabile/brother/drum-unit-dr200-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/15837/thumbnails/28347.jpg
 9/21/2020 4:24:28 PM 937,98 RON
 9/26/2020 10:46:10 AM 941,98 RON
 9/27/2020 2:05:06 PM 939,98 RON
+10/5/2020 7:45:56 PM 941,98 RON

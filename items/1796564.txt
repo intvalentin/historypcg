@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mx863ust
 1796564
     Product link    
 https://www.pcgarage.ro/videoproiectoare/benq/mx863ust/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6361/1796564/thumbnails/mx863ust-f9bd8739e2e
 9/22/2020 5:42:00 PM 7.263,98 RON
 9/26/2020 6:49:26 PM 7.283,98 RON
 9/28/2020 8:31:36 AM 7.287,98 RON
+10/5/2020 6:58:36 PM 7.283,98 RON

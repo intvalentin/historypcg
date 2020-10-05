@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apple md480
 467283
     Product link    
 https://www.pcgarage.ro/mp3-playere/apple/ipod-nano-generatia-a-7-a-16gb-silver/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5/467283/thumbnails/ipod-nano-7th-gen-16gb-s
     Pret    
 9/22/2020 6:13:46 PM 1.170,67 RON
 9/26/2020 7:24:35 PM 1.183,96 RON
+10/5/2020 11:23:02 PM 1.170,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sc450rmi1u
 76935
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-sc-450va-230v-1u-rackmount-tower/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/76935/thumbnails/smart-ups-sc-450va-230v-1
 9/22/2020 12:43:33 PM 1.412,07 RON
 9/26/2020 3:23:30 PM 1.416,92 RON
 9/27/2020 7:34:52 PM 1.416,92 RON
+10/5/2020 10:31:15 PM 1.455,14 RON

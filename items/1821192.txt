@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb4011igs+rm
 1821192
     Product link    
 https://www.pcgarage.ro/routere/mikrotik/gigabit-4011igs-plus/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5147/1821192/thumbnails/gigabit-4011igs-plus
 9/22/2020 12:11:56 PM 868,96 RON
 9/26/2020 2:56:09 PM 888,28 RON
 9/27/2020 6:57:45 PM 888,08 RON
+10/5/2020 7:24:37 PM 881,25 RON

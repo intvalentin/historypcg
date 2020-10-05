@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nwd6605-eu0101f
 814609
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/zyxel/nwd6605/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/480523/814609/thumbnails/nwd6605-d7d20a70c9b
 9/22/2020 12:06:40 PM 185,72 RON
 9/26/2020 2:52:29 PM 186,59 RON
 9/27/2020 6:54:06 PM 186,59 RON
+10/5/2020 6:58:10 PM 188,32 RON

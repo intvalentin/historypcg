@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310082
 1703140
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-multiplug-800va-480w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1689668/1703140/thumbnails/keor-multiplug-80
 9/22/2020 12:42:29 PM 441,28 RON
 9/26/2020 3:18:14 PM 442,45 RON
 9/27/2020 7:29:33 PM 442,45 RON
+10/5/2020 7:06:58 PM 441,67 RON

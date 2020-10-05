@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3925c016aa
 1996410
     Product link    
 https://www.pcgarage.ro/aparate-foto-d-slr/canon/eos-850d-black-plus-obiectiv-ef-s-18-55mm-f-35-56-is-stm/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1990682/1996410/thumbnails/eos-850d-black-pl
     Pret    
 9/22/2020 5:48:44 PM 5.153,98 RON
 9/26/2020 7:02:08 PM 5.167,98 RON
+10/5/2020 5:39:52 PM 5.167,98 RON

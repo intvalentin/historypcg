@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c8556a
 214793
     Product link    
 https://www.pcgarage.ro/consumabile/hp/fuser-kit-c8556a/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/214793/thumbnails/fuser-kit-c8556a-b9b9407
 9/21/2020 5:00:17 PM 1.291,98 RON
 9/26/2020 10:44:41 AM 1.295,98 RON
 9/27/2020 2:03:31 PM 1.295,98 RON
+10/5/2020 7:55:35 PM 1.295,98 RON

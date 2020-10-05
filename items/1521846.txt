@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00026
 1521846
     Product link    
 https://www.pcgarage.ro/baterii/panasonic/6f22rz-6lr61/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1301183/1521846/thumbnails/6f22rz-529475b571
     Pret    
 9/22/2020 6:03:59 PM 10,41 RON
 9/26/2020 7:23:06 PM 10,44 RON
+10/5/2020 11:07:40 PM 10,43 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npe-0650
 474463
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-650va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/474463/thumbnails/netys-pe-650va-afecf86d8
 9/22/2020 12:55:25 PM 318,44 RON
 9/26/2020 3:23:29 PM 327,26 RON
 9/27/2020 7:34:52 PM 306,31 RON
+10/5/2020 6:57:45 PM 305,96 RON

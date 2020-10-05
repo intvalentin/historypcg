@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mr.jla11.001
 1260841
     Product link    
 https://www.pcgarage.ro/videoproiectoare/acer/h6517st-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/498497/1260841/thumbnails/h6517st-white-c878
 9/22/2020 5:39:49 PM 2.835,98 RON
 9/26/2020 6:53:53 PM 2.843,98 RON
 9/28/2020 8:36:08 AM 2.843,98 RON
+10/5/2020 6:33:50 PM 2.837,98 RON

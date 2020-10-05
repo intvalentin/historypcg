@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tz161
 216299
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/banda-laminata-tz161/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/216299/thumbnails/tz161-banda-laminata-108
 9/21/2020 5:25:09 PM 95,98 RON
 9/26/2020 10:55:49 AM 95,98 RON
 9/27/2020 2:15:29 PM 95,98 RON
+10/5/2020 6:33:26 PM 95,98 RON

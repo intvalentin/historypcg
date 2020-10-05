@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |br1200si
 2069654
     Product link    
 https://www.pcgarage.ro/ups/apc/br1200si-1200va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2069654/thumbnails/br1200si-1200va-65d0
 9/22/2020 12:48:56 PM 2.052,15 RON
 9/26/2020 3:15:14 PM 2.058,07 RON
 9/27/2020 7:26:35 PM 2.059,26 RON
+10/5/2020 10:37:04 PM 2.057,90 RON

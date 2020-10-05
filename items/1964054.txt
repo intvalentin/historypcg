@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dap-2662
 1964054
     Product link    
 https://www.pcgarage.ro/access-point-uri/d-link/gigabit-dap-2662-dual-band/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1261/1964054/thumbnails/gigabit-dap-2662-dua
 9/22/2020 12:20:03 PM 568,99 RON
 9/26/2020 2:57:39 PM 548,99 RON
 9/27/2020 6:59:15 PM 548,99 RON
+10/5/2020 7:32:41 PM 548,99 RON

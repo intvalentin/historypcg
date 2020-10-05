@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81470509
 1298117
     Product link    
 https://www.pcgarage.ro/incarcatoare/duracell/cef22/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1126098/1298117/thumbnails/cef22-aab29237c7b
     Pret    
 9/22/2020 5:59:23 PM 237,53 RON
 9/26/2020 7:16:20 PM 237,53 RON
+10/5/2020 10:13:55 PM 237,53 RON

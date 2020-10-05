@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3787b003ba
 530287
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-c-exv-34-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/530287/thumbnails/drum-c-exv-34-cyan-af22e
 9/21/2020 4:22:23 PM 809,98 RON
 9/26/2020 10:38:44 AM 813,98 RON
 9/27/2020 1:57:12 PM 813,98 RON
+10/5/2020 7:39:27 PM 811,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |aio600-s
 1452742
     Product link    
 https://www.pcgarage.ro/ups/kstar/600va-schuko/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1263508/1452742/thumbnails/600va-led-schuko-
 9/22/2020 12:44:37 PM 236,59 RON
 9/26/2020 3:20:30 PM 240,32 RON
 9/27/2020 7:31:50 PM 240,32 RON
+10/5/2020 6:52:20 PM 237,68 RON

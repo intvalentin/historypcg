@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |micro1200-s
 876921
     Product link    
 https://www.pcgarage.ro/ups/kstar/micropower-micro-1200-schuko/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/876921/thumbnails/micropower-micro-1200-sc
 9/22/2020 12:45:42 PM 427,17 RON
 9/26/2020 3:21:16 PM 433,91 RON
 9/27/2020 7:32:35 PM 433,91 RON
+10/5/2020 7:06:09 PM 429,14 RON

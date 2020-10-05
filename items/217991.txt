@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |008r13021
 217991
     Product link    
 https://www.pcgarage.ro/consumabile/xerox/waste-toner-bottle-pentru-workcentre-7132/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/217991/thumbnails/waste-toner-bottle-pentr
 9/21/2020 4:14:04 PM 319,98 RON
 9/26/2020 10:43:12 AM 319,98 RON
 9/27/2020 2:01:56 PM 319,98 RON
+10/5/2020 7:10:54 PM 319,98 RON

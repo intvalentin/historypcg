@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fsa906ba
 258003
     Product link    
 https://www.pcgarage.ro/blitz-uri-si-surse-de-lumina/nikon/remote-kit-r1/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4/258003/thumbnails/remote-kit-r1-a985688dbb
     Pret    
 9/22/2020 5:57:06 PM 2.599,00 RON
 9/26/2020 7:13:20 PM 2.599,00 RON
+10/5/2020 6:56:17 PM 2.599,00 RON

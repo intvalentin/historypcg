@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |600-lcd-li-t10
 1660908
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-600-line-interactive-t10-lcd-600va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5286/1660908/thumbnails/powermust-600-line-i
 9/22/2020 12:54:20 PM 270,67 RON
 9/26/2020 3:28:42 PM 274,94 RON
 9/27/2020 7:40:05 PM 274,94 RON
+10/5/2020 11:12:35 PM 271,92 RON

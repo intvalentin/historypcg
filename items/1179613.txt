@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0666c001aa
 1179613
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-gi-490-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/849800/1179613/thumbnails/cartus-gi-490-yell
 9/21/2020 6:03:29 PM 31,98 RON
 9/26/2020 11:08:25 AM 31,98 RON
 9/27/2020 2:29:40 PM 31,98 RON
+10/5/2020 10:58:13 PM 31,98 RON

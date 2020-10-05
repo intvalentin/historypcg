@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310039
 975462
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-multiplug-800va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/975462/thumbnails/keor-multiplug-800v
 9/22/2020 12:56:30 PM 475,57 RON
 9/26/2020 3:30:11 PM 477,21 RON
 9/27/2020 7:41:34 PM 477,21 RON
+10/5/2020 11:24:13 PM 476,67 RON

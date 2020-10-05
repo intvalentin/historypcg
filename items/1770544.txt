@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xgs3700-24hp-zz0101f
 1770544
     Product link    
 https://www.pcgarage.ro/switch-uri/zyxel/gigabit-xgs3700-24hp/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1765416/1770544/thumbnails/gigabit-xgs3700-2
 9/22/2020 12:04:30 PM 13.084,81 RON
 9/26/2020 2:47:17 PM 13.137,27 RON
 9/27/2020 6:48:58 PM 13.137,27 RON
+10/5/2020 6:45:30 PM 13.112,42 RON

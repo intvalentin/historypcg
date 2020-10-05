@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vna930e1
 1432442
     Product link    
 https://www.pcgarage.ro/aparate-foto-bridge/nikon/coolpix-b700-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1301253/1432442/thumbnails/coolpix-b700-blac
     Pret    
 9/22/2020 5:49:50 PM 2.299,98 RON
 9/26/2020 7:03:36 PM 2.299,98 RON
+10/5/2020 5:49:06 PM 2.299,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uf-rj45-10g
 1863962
     Product link    
 https://www.pcgarage.ro/media-convertoare/ubiquiti-networks/uf-rj45-10g/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1863962/thumbnails/uf-rj45-10g-f0074f80
 9/22/2020 12:35:58 PM 369,40 RON
 9/26/2020 3:11:34 PM 374,37 RON
 9/27/2020 7:22:55 PM 374,37 RON
+10/5/2020 6:24:59 PM 371,35 RON

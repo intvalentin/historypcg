@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn321m
 1161825
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/toner-tn-321-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/960827/1161825/thumbnails/toner-tn-321-magen
 9/21/2020 5:31:23 PM 391,98 RON
 9/26/2020 10:52:06 AM 393,98 RON
 9/27/2020 2:11:29 PM 393,98 RON
+10/5/2020 7:01:50 PM 393,98 RON

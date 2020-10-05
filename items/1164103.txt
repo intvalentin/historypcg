@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tn2320
 1164103
     Product link    
 https://www.pcgarage.ro/cartuse-brother/brother/toner-tn2320-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/1164103/thumbnails/toner-tn2320-black-5ac9
 9/21/2020 5:10:37 PM 321,98 RON
 9/26/2020 10:51:21 AM 321,98 RON
 9/27/2020 2:10:42 PM 321,98 RON
+10/5/2020 6:55:19 PM 321,98 RON

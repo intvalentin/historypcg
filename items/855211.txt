@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ac9519b005aa
 855211
     Product link    
 https://www.pcgarage.ro/obiective/canon/ef-s-10-18mm-f-45-56-is-stm/
@@ -8,3 +8,4 @@ Canon EF-S 10-18mm f/4.5-5.6 IS STM
 https://3.grgs.ro/images/products/1/746930/855211/thumbnails/ef-s-10-18mm-f-45-56-is-stm-b8e2689b69788c48274969b8b139edfc.jpg
     Pret    
 9/22/2020 5:56:32 PM 1.219,12 RON
+10/5/2020 6:49:38 PM 1.219,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru23791
 2062202
     Product link    
 https://www.pcgarage.ro/microfoane/trust/gxt-212-mico-usb/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2062202/thumbnails/gxt-212-mico-usb-807
     Pret    
 9/22/2020 5:45:57 PM 78,99 RON
 9/26/2020 6:58:22 PM 78,99 RON
+10/5/2020 7:53:49 PM 106,83 RON

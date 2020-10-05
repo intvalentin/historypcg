@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb385a
 215427
     Product link    
 https://www.pcgarage.ro/consumabile/hp/drum-cb385a-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/215427/thumbnails/cyan-drum-cb385a-9ef0a04
 9/21/2020 4:01:36 PM 1.151,98 RON
 9/26/2020 10:35:46 AM 1.155,98 RON
 9/27/2020 1:53:09 PM 1.155,98 RON
+10/5/2020 6:39:24 PM 1.153,98 RON

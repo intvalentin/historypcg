@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |879001101100
 1424234
     Product link    
 https://www.pcgarage.ro/ups/inform/guardian-1000ap/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1173769/1424234/thumbnails/inform-guardian-a
 9/22/2020 12:57:34 PM 654,35 RON
 9/26/2020 3:28:42 PM 656,60 RON
 9/27/2020 7:40:05 PM 656,60 RON
+10/5/2020 11:30:45 PM 655,86 RON

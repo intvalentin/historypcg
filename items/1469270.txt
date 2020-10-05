@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ut1500e
 1469270
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/ut1500e-1500va-schuko/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175596/1469270/thumbnails/ut1500e-1500va-sc
 9/22/2020 12:54:20 PM 555,49 RON
 9/26/2020 3:28:42 PM 557,40 RON
 9/27/2020 7:40:05 PM 557,40 RON
+10/5/2020 10:13:34 PM 556,77 RON

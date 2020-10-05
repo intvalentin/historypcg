@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ws1-150
 1495302
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/a-plus/ws1-150-150-x-150-cm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175596/1495302/thumbnails/ws1-150-150-x-150
 9/22/2020 5:44:49 PM 172,55 RON
 9/26/2020 6:56:54 PM 172,64 RON
 9/28/2020 8:39:05 AM 172,64 RON
+10/5/2020 7:24:30 PM 172,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r3j24a
 1923366
     Product link    
 https://www.pcgarage.ro/access-point-uri/hpe/gigabit-aruba-instant-on-ap12-dual-band-plus-adaptor-alimentare/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1923366/thumbnails/gigabit-aruba-instan
 9/22/2020 12:25:26 PM 863,48 RON
 9/26/2020 3:00:39 PM 865,73 RON
 9/27/2020 7:02:13 PM 866,23 RON
+10/5/2020 5:41:24 PM 865,67 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tr-20378
 1502522
     Product link    
 https://www.pcgarage.ro/microfoane/trust/mico/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1363661/1502522/thumbnails/mico-ad736e8ac8c5
     Pret    
 9/22/2020 5:47:36 PM 108,53 RON
 9/26/2020 7:00:38 PM 108,53 RON
+10/5/2020 7:54:06 PM 108,53 RON

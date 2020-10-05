@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1500epfclcd
 823267
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/cp1500epfclcd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/823267/thumbnails/cp1500epfclcd-6081e
 9/22/2020 12:58:39 PM 1.298,03 RON
 9/26/2020 3:30:11 PM 1.302,49 RON
 9/27/2020 7:41:34 PM 1.302,49 RON
+10/5/2020 11:42:37 PM 1.301,03 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fsa04201
 981872
     Product link    
 https://www.pcgarage.ro/blitz-uri-si-surse-de-lumina/nikon/sb-500-af-speedlight/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/929099/981872/thumbnails/sb-500-af-speedligh
     Pret    
 9/22/2020 5:57:06 PM 1.099,00 RON
 9/26/2020 7:13:20 PM 1.099,00 RON
+10/5/2020 6:55:45 PM 1.099,00 RON

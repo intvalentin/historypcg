@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |er-x-sfp
 1094279
     Product link    
 https://www.pcgarage.ro/routere/ubiquiti-networks/gigabit-edgerouter-er-x-sfp/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/782584/1094279/thumbnails/gigabit-edgerouter
 9/22/2020 12:11:56 PM 377,86 RON
 9/26/2020 2:56:09 PM 383,82 RON
 9/27/2020 6:57:45 PM 383,82 RON
+10/5/2020 7:21:52 PM 379,60 RON

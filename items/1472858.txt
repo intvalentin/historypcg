@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |exp2546+-+12
 1472858
     Product link    
 https://www.pcgarage.ro/mp3-playere/philips/exp2546-12-blue/
@@ -8,3 +8,4 @@ Philips EXP2546/12 Blue
 https://1.grgs.ro/images/products/1/1434070/1472858/thumbnails/exp2546-blue-4a61aac556fcbb5bf77f58a85bf8bbe9.jpg
     Pret    
 9/26/2020 7:24:35 PM 356,99 RON
+10/5/2020 11:17:58 PM 356,99 RON

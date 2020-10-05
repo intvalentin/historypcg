@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm77323
 267475
     Product link    
 https://www.pcgarage.ro/acumulatori/hama/dp-323-li-ion-battery/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4/267475/thumbnails/dp-323-li-ion-battery-8a
     Pret    
 9/22/2020 6:00:33 PM 145,85 RON
 9/26/2020 7:17:50 PM 145,85 RON
+10/5/2020 10:23:35 PM 145,85 RON

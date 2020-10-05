@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp5180lo
 461005
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sopar/lorenzo-100-inch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/461005/thumbnails/lorenzo-100-inch-866aa9a
 9/22/2020 5:45:24 PM 1.963,50 RON
 9/26/2020 6:57:39 PM 1.963,50 RON
 9/28/2020 8:39:50 AM 1.963,50 RON
+10/5/2020 7:31:57 PM 2.232,26 RON

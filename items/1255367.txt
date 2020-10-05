@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uap-ac-lr
 1255367
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/gigabit-unifi-ap-lr-dual-band/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/367655/1255367/thumbnails/gigabit-unifi-ap-l
 9/22/2020 12:24:22 PM 478,99 RON
 9/26/2020 2:57:39 PM 478,99 RON
 9/27/2020 6:59:15 PM 478,99 RON
+10/5/2020 7:32:25 PM 498,99 RON

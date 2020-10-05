@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2785b002aa
 216603
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-33-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/216603/thumbnails/toner-c-exv33-black-8685
 9/21/2020 5:50:05 PM 198,99 RON
 9/26/2020 11:02:28 AM 198,99 RON
 9/27/2020 2:23:21 PM 198,99 RON
+10/5/2020 10:57:57 PM 178,99 RON

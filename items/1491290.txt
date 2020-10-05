@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |95.72301gc0e
 1491290
     Product link    
 https://www.pcgarage.ro/videoproiectoare/optoma/wu515-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1141198/1491290/thumbnails/wu515-white-abe1b
 9/22/2020 5:42:31 PM 16.703,98 RON
 9/26/2020 6:50:55 PM 16.761,98 RON
 9/28/2020 8:33:08 AM 16.761,98 RON
+10/5/2020 7:09:34 PM 16.741,98 RON

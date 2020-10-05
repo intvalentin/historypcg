@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |v207072be000
 1541630
     Product link    
 https://www.pcgarage.ro/aparate-foto-mirrorless/olympus/e-m10-mark-iii-negru-pancake-zoom/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/953558/1541630/thumbnails/e-m10-mark-iii-neg
     Pret    
 9/22/2020 5:51:31 PM 3.871,37 RON
 9/26/2020 7:05:53 PM 3.871,37 RON
+10/5/2020 6:04:26 PM 3.871,37 RON

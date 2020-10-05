@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ba081479
 1618922
     Product link    
 https://www.pcgarage.ro/baterii/duracell/lithium-cr1616-4/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1594546/1618922/thumbnails/lithium-cr1616-89
     Pret    
 9/22/2020 6:01:41 PM 11,85 RON
 9/26/2020 7:20:50 PM 11,85 RON
+10/5/2020 10:34:51 PM 11,89 RON

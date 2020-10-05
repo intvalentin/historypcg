@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2632c003aa
 2069590
     Product link    
 https://www.pcgarage.ro/videoproiectoare/canon/lx-mu500z/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2069590/thumbnails/lx-mu500z-eab634c02a
 9/22/2020 5:42:31 PM 11.325,98 RON
 9/26/2020 6:47:12 PM 11.357,98 RON
 9/28/2020 8:29:20 AM 11.363,98 RON
+10/5/2020 7:05:02 PM 11.355,98 RON

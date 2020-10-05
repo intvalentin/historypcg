@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000032508
 1954262
     Product link    
 https://www.pcgarage.ro/media-convertoare/dahua/pft3950/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1953966/1954262/thumbnails/pft3950-cd5b1fe53
 9/22/2020 12:34:56 PM 160,60 RON
 9/26/2020 3:11:34 PM 161,16 RON
 9/27/2020 7:22:55 PM 161,16 RON
+10/5/2020 6:23:28 PM 160,97 RON

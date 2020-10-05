@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acb-isp
 1939458
     Product link    
 https://www.pcgarage.ro/access-point-uri/ubiquiti-networks/airmax-aircube/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6115/1939458/thumbnails/gigabit-airmax-aircu
 9/22/2020 12:24:22 PM 148,94 RON
 9/26/2020 3:00:39 PM 151,28 RON
 9/27/2020 7:02:13 PM 151,28 RON
+10/5/2020 7:59:18 PM 149,62 RON
+10/5/2020 5:37:10 PM 149,62 RON

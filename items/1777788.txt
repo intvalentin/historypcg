@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310081
 1777788
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-multiplug-600va-2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6115/1777788/thumbnails/keor-multiplug-600va
 9/22/2020 12:42:29 PM 371,94 RON
 9/26/2020 3:16:43 PM 372,94 RON
 9/27/2020 7:28:04 PM 372,94 RON
+10/5/2020 7:02:03 PM 372,24 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00044
 1524730
     Product link    
 https://www.pcgarage.ro/baterii/panasonic/lrv08/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1427586/1524730/thumbnails/lrv08-c4c90a40692
     Pret    
 9/22/2020 6:04:00 PM 12,14 RON
 9/26/2020 7:23:06 PM 12,18 RON
+10/5/2020 11:09:13 PM 12,17 RON

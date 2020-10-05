@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2178c001aa
 2029118
     Product link    
 https://www.pcgarage.ro/consumabile/canon/drum-053/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8840/2029118/thumbnails/drum-053-d9ddf769ab7
 9/21/2020 4:24:28 PM 883,98 RON
 9/26/2020 10:37:15 AM 885,98 RON
 9/27/2020 1:55:33 PM 883,98 RON
+10/5/2020 7:43:14 PM 885,98 RON

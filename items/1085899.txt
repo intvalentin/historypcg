@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |98-lic-g0848
 1085899
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-848eg-850va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1052635/1085899/thumbnails/powermust-848eg-8
 9/22/2020 12:54:20 PM 258,47 RON
 9/26/2020 3:29:27 PM 258,47 RON
 9/27/2020 7:40:50 PM 258,47 RON
+10/5/2020 11:12:03 PM 258,47 RON

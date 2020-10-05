@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |en-9130txl
 64
     Product link    
 https://www.pcgarage.ro/placi-de-retea/edimax/en-9130txl/
@@ -8,3 +8,4 @@ Edimax EN-9130TXL
 https://1.grgs.ro/images/products/1/1/64/thumbnails/edimax_en-9150txl.jpg
     Pret    
 9/22/2020 12:10:51 PM 23,84 RON
+10/5/2020 7:15:34 PM 23,95 RON

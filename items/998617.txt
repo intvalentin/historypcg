@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usg40w-eu0102f
 998617
     Product link    
 https://www.pcgarage.ro/firewall/zyxel/gigabit-zywall-usg40w-utm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/480523/998617/thumbnails/zywall-usg-40w-a6f2
 9/22/2020 12:30:40 PM 2.833,87 RON
 9/26/2020 3:08:30 PM 2.844,85 RON
 9/27/2020 7:20:01 PM 2.844,85 RON
+10/5/2020 6:02:13 PM 2.839,65 RON
