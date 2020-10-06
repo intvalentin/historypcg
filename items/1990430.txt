@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ipmax20
 1990430
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-ipmax2-plus-2-camere-ip-720p/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/370411/1990430/thumbnails/house-ipmax2-plus-
 9/22/2020 3:07:49 PM 599,76 RON
 9/26/2020 4:36:46 PM 599,76 RON
 9/27/2020 8:40:27 PM 599,76 RON
+10/6/2020 5:18:27 PM 599,76 RON

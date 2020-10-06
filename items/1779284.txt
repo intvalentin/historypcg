@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eth-sp-g2
 1779284
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/eth-sp-g2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1779284/thumbnails/eth-sp-g2-3928c38ee4b
 9/22/2020 1:31:02 PM 69,12 RON
 9/26/2020 3:40:33 PM 70,13 RON
 9/27/2020 7:52:02 PM 70,13 RON
+10/6/2020 9:29:17 AM 69,21 RON

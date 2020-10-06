@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpc00571
 1803792
     Product link    
 https://www.pcgarage.ro/casti/sbox/hs-bt890b-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1802236/1803792/thumbnails/hs-bt890b-black-9
 9/22/2020 3:53:10 PM 63,98 RON
 9/26/2020 5:01:12 PM 63,98 RON
 9/27/2020 9:04:53 PM 63,98 RON
+10/6/2020 8:16:05 PM 63,98 RON

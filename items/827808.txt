@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs1716a-at-g
 827808
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs1716a/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/714621/827808/thumbnails/switch-kvm-cs1716a-
 9/22/2020 3:46:47 PM 2.025,90 RON
 9/26/2020 4:54:35 PM 2.031,69 RON
 9/27/2020 8:58:12 PM 2.032,87 RON
+10/6/2020 8:03:08 PM 2.030,57 RON

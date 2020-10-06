@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t15994010
 634483
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t1599-orange/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/634483/thumbnails/cartus-t1599-orange-9dc2
 9/21/2020 8:43:02 PM 95,98 RON
 9/26/2020 11:37:16 AM 95,98 RON
 9/27/2020 2:59:55 PM 95,98 RON
+10/6/2020 12:40:45 PM 95,98 RON

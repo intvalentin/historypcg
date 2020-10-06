@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t653400
 527131
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t6534-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/527131/thumbnails/cartus-t6534-yellow-3b69
 9/21/2020 8:51:43 PM 481,98 RON
 9/26/2020 11:38:00 AM 481,98 RON
 9/27/2020 3:00:43 PM 483,98 RON
+10/6/2020 1:27:00 PM 481,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t543200
 33075
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-t543200-cyan/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/33075/thumbnails/epson-cart.png
 9/21/2020 8:48:27 PM 351,98 RON
 9/26/2020 11:46:55 AM 351,98 RON
 9/27/2020 3:10:15 PM 351,98 RON
+10/6/2020 1:13:19 PM 351,98 RON

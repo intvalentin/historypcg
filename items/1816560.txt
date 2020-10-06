@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508596
 1816560
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/hd-100-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/753/1816560/thumbnails/hd-100-black-00d33d51
 9/22/2020 3:55:16 PM 189,98 RON
 9/26/2020 5:01:12 PM 189,98 RON
 9/27/2020 9:04:53 PM 189,98 RON
+10/6/2020 8:43:07 PM 189,98 RON

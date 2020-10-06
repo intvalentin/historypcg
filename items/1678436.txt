@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1500-lcd-lis-r20
 1678436
     Product link    
 https://www.pcgarage.ro/ups/mustek/powermust-1500-netguard-lcd-1500va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664860/1678436/thumbnails/powermust-1500-ne
 9/22/2020 12:48:56 PM 1.682,26 RON
 9/26/2020 3:27:57 PM 1.665,34 RON
 9/27/2020 7:39:21 PM 1.664,98 RON
+10/6/2020 7:52:23 AM 1.652,14 RON

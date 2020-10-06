@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf108x
 1839360
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/vcf108x-prima-latte-ii/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2863/1839360/thumbnails/vcf108x-prima-latte-
     Pret    
 9/22/2020 7:05:01 PM 799,46 RON
 9/26/2020 8:24:13 PM 799,46 RON
+10/6/2020 2:42:51 PM 799,46 RON

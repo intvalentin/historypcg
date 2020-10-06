@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad-hdp-pcldbk-00
 1073584
     Product link    
 https://www.pcgarage.ro/casti/thermaltake/over-head-luxa2-lavi-d-wireless-wired/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/812812/1073584/thumbnails/over-head-luxa2-la
 9/22/2020 4:10:05 PM 205,98 RON
 9/26/2020 5:10:51 PM 209,98 RON
 9/27/2020 9:14:38 PM 209,98 RON
+10/6/2020 10:18:20 PM 205,98 RON

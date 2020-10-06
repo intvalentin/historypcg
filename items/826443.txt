@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |eea111
 826443
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/electrolux/eea111/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1173769/826443/thumbnails/1eea111-8de83028eb
     Pret    
 9/22/2020 7:04:30 PM 338,99 RON
 9/26/2020 8:26:27 PM 338,99 RON
+10/6/2020 2:36:57 PM 333,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2165fwd-i2.8
 1962634
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2165fwd-i-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1960570/1962634/thumbnails/ds-2cd2165fwd-i-2
 9/22/2020 3:31:45 PM 766,99 RON
 9/26/2020 4:48:43 PM 769,18 RON
 9/27/2020 8:52:20 PM 769,62 RON
+10/6/2020 7:14:30 PM 768,75 RON

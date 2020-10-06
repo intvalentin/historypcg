@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3483b002aa
 261495
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-726-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/261495/thumbnails/toner-726-black-2da2fda6
 9/21/2020 6:30:59 PM 349,98 RON
 9/26/2020 11:13:36 AM 349,98 RON
 9/27/2020 2:35:12 PM 349,98 RON
+10/6/2020 8:04:22 AM 319,98 RON

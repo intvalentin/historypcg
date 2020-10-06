@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-t220-m-28
 2000154
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-t220-m-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/2000154/thumbnails/hiwatch-hwt-t220-
 9/22/2020 3:35:00 PM 115,54 RON
 9/26/2020 4:47:58 PM 115,87 RON
 9/27/2020 8:51:36 PM 115,94 RON
+10/6/2020 6:47:40 PM 115,81 RON

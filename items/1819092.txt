@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51mf8360aa000
 1819092
     Product link    
 https://www.pcgarage.ro/boxe/creative/stage-11-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/753/1819092/thumbnails/stage-11-black-cf9315
 9/22/2020 4:45:12 PM 498,99 RON
 9/26/2020 5:41:24 PM 498,99 RON
 9/28/2020 7:50:28 AM 498,99 RON
+10/6/2020 8:40:10 PM 493,98 RON

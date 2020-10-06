@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-cip
 2085998
     Product link    
 https://www.pcgarage.ro/accesorii-fitness/toorx/protectie-pentru-bara-fitness/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3354/2085998/thumbnails/protectie-pentru-bar
     Pret    
 9/22/2020 7:47:05 PM 79,00 RON
 9/26/2020 9:23:40 PM 79,00 RON
+10/6/2020 9:36:44 PM 79,00 RON

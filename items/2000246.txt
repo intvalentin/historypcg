@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b323-z
 2000246
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b323-z-27-135mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2000246/thumbnails/hiwatch-hwt-b323-
 9/22/2020 3:27:27 PM 246,32 RON
 9/26/2020 4:41:16 PM 247,02 RON
 9/27/2020 8:44:57 PM 247,16 RON
+10/6/2020 6:01:40 PM 246,89 RON

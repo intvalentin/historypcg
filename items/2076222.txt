@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bw-is4
 2076222
     Product link    
 https://www.pcgarage.ro/senzori-smart/blitzwolf/senzor-de-temperatura-si-umiditate-bw-is4/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4525/2076222/thumbnails/senzor-de-temperatur
     Pret    
 9/22/2020 7:37:23 PM 182,39 RON
 9/26/2020 9:15:30 PM 182,39 RON
+10/6/2020 8:35:19 PM 182,39 RON

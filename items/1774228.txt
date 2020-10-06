@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp3903za01
 1774228
     Product link    
 https://www.pcgarage.ro/boxe/kef/ls50-wireless-20-nocturne-by-marcel-wanders/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5015/1774228/thumbnails/ls50-wireless-20-noc
 9/22/2020 4:52:41 PM 9.773,98 RON
 9/26/2020 5:43:36 PM 9.773,98 RON
 9/28/2020 7:52:45 AM 9.773,98 RON
+10/6/2020 8:57:26 PM 9.773,98 RON

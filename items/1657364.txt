@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpm-600bg
 1657364
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/heinner/daily-chef-600-hpm-600bg/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1649828/1657364/thumbnails/daily-chef-600-hp
     Pret    
 9/22/2020 7:29:33 PM 432,99 RON
 9/26/2020 9:06:26 PM 432,99 RON
+10/6/2020 7:31:24 PM 432,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr3000ert2u
 1779416
     Product link    
 https://www.pcgarage.ro/ups/cyberpower/pr3000ert2u-3000va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6115/1779416/thumbnails/pr1500ertxl2u-1500va
 9/22/2020 1:01:53 PM 4.608,86 RON
 9/26/2020 3:26:28 PM 4.624,70 RON
 9/27/2020 7:37:50 PM 4.624,70 RON
+10/6/2020 8:04:56 AM 4.619,49 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0897b001aa
 14895
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-102-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1/14895/thumbnails/can500m.jpg
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:16:29 AM 295,98 RON
 9/27/2020 2:37:36 PM 295,98 RON
+10/6/2020 7:53:26 AM 295,98 RON

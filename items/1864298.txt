@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acup-sn000mp-cg01b
 1864298
     Product link    
 https://www.pcgarage.ro/accesorii-ups/njoy/card-snmp-cg01b/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1864298/thumbnails/card-snmp-cg01b-a285
 9/22/2020 1:23:29 PM 545,26 RON
 9/26/2020 3:36:55 PM 553,86 RON
 9/27/2020 7:48:18 PM 553,86 RON
+10/6/2020 8:58:50 AM 547,78 RON

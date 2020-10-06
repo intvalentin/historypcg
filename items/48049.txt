@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1320b006aa
 48049
     Product link    
 https://www.pcgarage.ro/detalii-produs/48049/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/722028/48049/thumbnails/cartus-de-mentenanta
     Pret    
 9/26/2020 11:27:36 AM 327,98 RON
 9/27/2020 2:49:34 PM 327,98 RON
+10/6/2020 9:38:58 AM 325,98 RON

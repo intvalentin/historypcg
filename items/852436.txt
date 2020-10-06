@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hcm-1100d
 852436
     Product link    
 https://www.pcgarage.ro/cafetiere/heinner/savory-1100d/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1141198/852436/thumbnails/1savory-1100d-4209
     Pret    
 9/22/2020 7:08:43 PM 164,99 RON
 9/26/2020 8:29:22 PM 92,39 RON
+10/6/2020 3:18:16 PM 92,39 RON

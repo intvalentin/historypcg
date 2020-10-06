@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2096s
 1296962
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-10m-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/1296962/thumbnails/primeline-cat6-pat
 9/22/2020 2:48:29 PM 47,29 RON
 9/26/2020 4:02:06 PM 47,45 RON
 9/27/2020 8:13:44 PM 47,45 RON
+10/6/2020 2:37:32 PM 47,40 RON

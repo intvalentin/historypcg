@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0638
 1452430
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/street-2-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1141198/1452430/thumbnails/street-2-white-47
 9/22/2020 3:51:01 PM 141,98 RON
 9/26/2020 5:03:25 PM 141,98 RON
 9/27/2020 9:07:07 PM 141,98 RON
+10/6/2020 8:37:10 PM 141,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn050ae
 973077
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-951-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/929099/973077/thumbnails/cartus-951-cyan-949
 9/22/2020 9:02:33 AM 105,98 RON
 9/26/2020 11:59:31 AM 105,98 RON
 9/27/2020 3:34:00 PM 105,98 RON
+10/6/2020 2:34:47 PM 105,98 RON

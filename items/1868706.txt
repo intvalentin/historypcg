@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1666713
 1868706
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bang-ampolufsen/beosound-2-gva-brass-tone/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1867706/1868706/thumbnails/beosound-2-gva-br
 9/22/2020 5:17:26 PM 9.146,15 RON
 9/26/2020 5:58:24 PM 9.146,15 RON
 9/28/2020 8:07:37 AM 9.146,15 RON
+10/6/2020 11:24:44 PM 9.146,15 RON

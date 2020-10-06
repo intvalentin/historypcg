@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwc-p100-d+-+w
 2000402
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwc-p100-d-w-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/2000402/thumbnails/hiwatch-hwc-p100-
 9/22/2020 3:36:05 PM 207,12 RON
 9/26/2020 4:47:13 PM 207,70 RON
 9/27/2020 8:50:51 PM 207,83 RON
+10/6/2020 6:54:55 PM 207,59 RON

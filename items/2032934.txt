@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hac-hfw1230t-a-poc
 2032934
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/hac-hfw1230t-a-poc-36mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3041/2032934/thumbnails/hac-hfw1230t-a-poc-3
 9/22/2020 3:25:17 PM 196,54 RON
 9/26/2020 4:47:13 PM 197,22 RON
 9/27/2020 8:50:51 PM 197,22 RON
+10/6/2020 5:52:38 PM 197,19 RON

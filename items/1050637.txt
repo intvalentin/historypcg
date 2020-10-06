@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6705b001aa
 1050637
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-107pb-photo-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/802687/1050637/thumbnails/cartus-pfi-107pb-p
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:09:09 AM 295,98 RON
 9/27/2020 2:30:28 PM 295,98 RON
+10/6/2020 7:57:10 AM 295,98 RON

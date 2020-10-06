@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf333a
 1026111
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-654a-magenta/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/714621/1026111/thumbnails/toner-654a-magenta
 9/22/2020 9:24:46 AM 2.021,98 RON
 9/26/2020 12:01:00 PM 2.027,98 RON
 9/27/2020 3:35:37 PM 2.027,98 RON
+10/6/2020 6:05:31 PM 2.025,98 RON

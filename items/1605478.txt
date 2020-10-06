@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cre191756
 1605478
     Product link    
 https://www.pcgarage.ro/boxe-portabile/creative/muvo-2c-purple/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1594546/1605478/thumbnails/muvo-2c-purple-7b
 9/22/2020 5:09:52 PM 180,38 RON
 9/26/2020 6:02:07 PM 181,00 RON
 9/28/2020 8:11:20 AM 181,00 RON
+10/6/2020 10:41:11 PM 180,97 RON

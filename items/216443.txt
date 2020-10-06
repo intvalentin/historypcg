@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t04854010
 216443
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t0485-light-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/216443/thumbnails/cartus-light-cyan-t0485-
 9/21/2020 8:44:07 PM 113,98 RON
 9/26/2020 11:44:41 AM 113,98 RON
 9/27/2020 3:07:52 PM 113,98 RON
+10/6/2020 12:44:59 PM 113,98 RON

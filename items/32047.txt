@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4962a
 32047
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-83-uv-magenta-plus-cleaner/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/32047/thumbnails/83-uv-magenta-printhead-a
 9/22/2020 9:33:06 AM 947,98 RON
 9/26/2020 12:26:29 PM 949,98 RON
 9/27/2020 3:56:50 PM 949,98 RON
+10/6/2020 7:33:45 PM 949,98 RON

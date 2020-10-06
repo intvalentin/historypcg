@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce270ac
 1905962
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce270ac-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/8629/1905962/thumbnails/toner-ce270ac-black-
 9/22/2020 9:21:35 AM 1.377,98 RON
 9/26/2020 11:54:20 AM 1.381,98 RON
 9/27/2020 3:18:12 PM 1.381,98 RON
+10/6/2020 5:44:23 PM 1.379,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6431b001aa
 517721
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-550xl-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/517721/thumbnails/pgi-550xlb-black-ink-dcb
 9/21/2020 7:23:12 PM 77,98 RON
 9/26/2020 11:22:24 AM 77,98 RON
 9/27/2020 2:44:00 PM 77,98 RON
+10/6/2020 9:14:16 AM 77,98 RON

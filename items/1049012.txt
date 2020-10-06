@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k330-bk
 1049012
     Product link    
 https://www.pcgarage.ro/casti/microlab/k330-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862955/1049012/thumbnails/k330-black-ae6bc78
 9/22/2020 4:06:50 PM 65,98 RON
 9/26/2020 5:11:35 PM 67,98 RON
 9/27/2020 9:15:23 PM 67,98 RON
+10/6/2020 9:58:31 PM 65,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5311b001aa
 729329
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-206-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/729329/thumbnails/cartus-pfi-206-blue-c095
 9/21/2020 7:03:17 PM 659,98 RON
 9/26/2020 11:09:54 AM 661,98 RON
 9/27/2020 2:31:16 PM 661,98 RON
+10/6/2020 8:43:39 AM 661,98 RON

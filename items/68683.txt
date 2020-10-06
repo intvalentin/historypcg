@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc18
 68683
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-18/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/68683/thumbnails/replacement-battery-cartr
 9/22/2020 1:25:39 PM 772,02 RON
 9/26/2020 3:38:23 PM 774,68 RON
 9/27/2020 7:49:48 PM 774,68 RON
+10/6/2020 9:00:42 AM 804,46 RON

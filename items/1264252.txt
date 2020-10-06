@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d322e
 1264252
     Product link    
 https://www.pcgarage.ro/uscatoare-de-par/babyliss/expert-plus-2100-negru/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1094679/1264252/thumbnails/1expert-plus-2100
     Pret    
 9/22/2020 6:53:12 PM 99,99 RON
 9/26/2020 8:08:33 PM 99,99 RON
+10/6/2020 12:09:15 PM 99,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0335-001
 231821
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/q1910-e-thermal-network-camera/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/231821/thumbnails/q1910-e-thermal-network-
 9/22/2020 3:42:31 PM 17.758,37 RON
 9/26/2020 4:52:24 PM 17.809,18 RON
 9/27/2020 8:56:00 PM 17.819,40 RON
+10/6/2020 7:45:42 PM 17.799,30 RON

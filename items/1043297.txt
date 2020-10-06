@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9453b001aa
 1043297
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-034c-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/1043297/thumbnails/toner-034c-cyan-98
 9/21/2020 6:03:29 PM 869,98 RON
 9/26/2020 11:09:09 AM 871,98 RON
 9/27/2020 2:30:28 PM 869,98 RON
+10/6/2020 8:54:09 AM 871,98 RON

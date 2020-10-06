@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn049ae
 303011
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-950-black/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4/303011/thumbnails/950-black-officejet-ink-
 9/22/2020 9:03:37 AM 149,98 RON
 9/26/2020 12:03:59 PM 149,98 RON
 9/27/2020 3:38:51 PM 149,98 RON
+10/6/2020 2:44:50 PM 149,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2051s
 1252645
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-2m-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1141198/1252645/thumbnails/cat6-patch-cable-
 9/22/2020 2:24:45 PM 10,06 RON
 9/26/2020 4:20:24 PM 10,09 RON
 9/27/2020 8:24:03 PM 10,09 RON
+10/6/2020 11:07:24 AM 10,08 RON

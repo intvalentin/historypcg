@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0986b001aa
 33393
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-710-high-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5/33393/thumbnails/toner-negru-710-high-capa
     Pret    
 9/26/2020 11:23:09 AM 1.021,98 RON
 9/27/2020 2:44:47 PM 1.021,98 RON
+10/6/2020 10:47:19 AM 1.019,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-7332hqhi-k4
 1864314
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/ds-7332hqhi-k4-32-canale/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1864314/thumbnails/ds-7332hqhi-k4-32-ca
 9/22/2020 3:11:02 PM 3.669,44 RON
 9/26/2020 4:38:16 PM 3.679,91 RON
 9/27/2020 8:41:57 PM 3.682,02 RON
+10/6/2020 5:39:14 PM 3.677,88 RON

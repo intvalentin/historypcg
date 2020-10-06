@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce56d8t-itme28
 1891658
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce56d8t-itme-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1275/1891658/thumbnails/ds-2ce56d8t-itme-28m
 9/22/2020 3:26:22 PM 224,18 RON
 9/26/2020 4:44:15 PM 224,82 RON
 9/27/2020 8:47:54 PM 224,95 RON
+10/6/2020 5:57:45 PM 224,70 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sh-903-rd
 1446270
     Product link    
 https://www.pcgarage.ro/casti/somic/sh903-white-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/1446270/thumbnails/sh903-white-red-1
 9/22/2020 3:49:57 PM 29,98 RON
 9/26/2020 5:03:25 PM 29,98 RON
 9/27/2020 9:07:07 PM 29,98 RON
+10/6/2020 8:09:20 PM 29,98 RON

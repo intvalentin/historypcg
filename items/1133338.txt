@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fpc-5004e
 1133338
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-ftp-stranded-cable-305m-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1094679/1133338/thumbnails/cat5e-ftp-strande
 9/22/2020 2:53:52 PM 368,04 RON
 9/26/2020 4:34:34 PM 373,85 RON
 9/27/2020 8:38:16 PM 373,85 RON
+10/6/2020 3:22:24 PM 369,74 RON

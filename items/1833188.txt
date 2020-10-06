@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcs-4705e
 1833188
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/dcs-4705e-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5631/1833188/thumbnails/dcs-4703e-36mm-3c73f
 9/22/2020 3:31:45 PM 700,70 RON
 9/26/2020 4:45:00 PM 632,80 RON
 9/27/2020 8:48:39 PM 632,80 RON
+10/6/2020 6:28:49 PM 632,70 RON

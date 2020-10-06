@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-a023
 1637620
     Product link    
 https://www.pcgarage.ro/senzori-smart/pni/a023-senzor-de-fum/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1630882/1637620/thumbnails/a023-senzor-de-fu
     Pret    
 9/22/2020 7:37:23 PM 49,98 RON
 9/26/2020 9:16:13 PM 49,98 RON
+10/6/2020 8:25:19 PM 49,98 RON

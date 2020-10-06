@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt3000rmi2u
 257929
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-3000va-lcd-rm-2u-230v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/257929/thumbnails/smart-ups-3000va-lcd-rm-
 9/22/2020 1:02:58 PM 8.778,07 RON
 9/26/2020 3:31:40 PM 8.808,24 RON
 9/27/2020 7:43:04 PM 8.808,24 RON
+10/6/2020 8:11:54 AM 8.798,31 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2787b002aa
 289381
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-37-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/798262/289381/thumbnails/toner-c-exv-37-blac
 9/21/2020 6:30:59 PM 375,98 RON
 9/26/2020 11:13:36 AM 377,98 RON
 9/27/2020 2:35:12 PM 375,98 RON
+10/6/2020 8:15:17 AM 375,98 RON

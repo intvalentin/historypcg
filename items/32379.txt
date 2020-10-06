@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9461a
 32379
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-91-magenta-plus-yellow/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/32379/thumbnails/91-magenta-and-yellow-pri
 9/22/2020 9:17:16 AM 1.005,98 RON
 9/26/2020 12:09:53 PM 1.009,98 RON
 9/27/2020 3:44:25 PM 1.007,98 RON
+10/6/2020 7:04:04 PM 819,98 RON

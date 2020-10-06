@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000811
 840270
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z200-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/746930/840270/thumbnails/z200-white-9e325ba4
 9/22/2020 4:52:41 PM 179,98 RON
 9/26/2020 5:52:29 PM 179,98 RON
 9/28/2020 8:01:41 AM 179,98 RON
+10/6/2020 8:24:35 PM 179,98 RON

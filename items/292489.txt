@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31710011100
 292489
     Product link    
 https://www.pcgarage.ro/casti/genius/hs-05a/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/292489/thumbnails/hs-05a-7bc4a876967c0ae5d
 9/22/2020 4:06:50 PM 63,98 RON
 9/26/2020 5:13:05 PM 65,98 RON
 9/27/2020 9:16:52 PM 65,98 RON
+10/6/2020 9:57:09 PM 63,98 RON

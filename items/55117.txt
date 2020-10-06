@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jug-00014
 55117
     Product link    
 https://www.pcgarage.ro/casti/microsoft/lifechat-lx-3000/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/55117/thumbnails/over-head-lifechat-lx-300
 9/22/2020 4:02:33 PM 165,98 RON
 9/26/2020 5:06:23 PM 171,98 RON
 9/27/2020 9:10:07 PM 171,98 RON
+10/6/2020 8:04:55 PM 164,99 RON

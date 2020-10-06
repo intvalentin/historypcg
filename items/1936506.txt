@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ae5225ti-a
 1936506
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ae5225ti-a-48-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2554/1936506/thumbnails/ds-2ae5225ti-a-48-12
 9/22/2020 3:32:50 PM 1.727,28 RON
 9/26/2020 4:43:30 PM 1.732,21 RON
 9/27/2020 8:47:10 PM 1.733,19 RON
+10/6/2020 6:39:41 PM 1.731,25 RON

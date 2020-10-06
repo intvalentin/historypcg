@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ins-8023af-i
 1094114
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/sursa-alimentare-poe-instant-8023af-i/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/931142/1094114/thumbnails/sursa-alimentare-p
 9/22/2020 1:32:07 PM 99,85 RON
 9/26/2020 3:41:18 PM 101,20 RON
 9/27/2020 7:52:46 PM 101,20 RON
+10/6/2020 9:32:30 AM 99,85 RON

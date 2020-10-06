@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo9c
 829864
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo-9c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/802687/829864/thumbnails/solo-9c-47025345e26
 9/22/2020 4:46:16 PM 1.069,98 RON
 9/26/2020 5:45:49 PM 1.087,98 RON
 9/28/2020 7:54:59 AM 1.087,98 RON
+10/6/2020 9:55:17 PM 1.073,98 RON

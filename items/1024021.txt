@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce412l
 1024021
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/305l-yellow/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/798262/1024021/thumbnails/305l-yellow-736d1c
 9/22/2020 9:29:59 AM 327,98 RON
 9/26/2020 12:22:01 PM 329,98 RON
 9/27/2020 3:52:20 PM 329,98 RON
+10/6/2020 6:43:58 PM 329,98 RON

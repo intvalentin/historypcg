@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcs-2800lh-eu
 1950226
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/dcs-2800lh-19mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1950226/thumbnails/dcs-2800lh-eu-b0403e
 9/22/2020 3:31:45 PM 822,67 RON
 9/26/2020 4:42:45 PM 825,49 RON
 9/27/2020 8:46:26 PM 825,49 RON
+10/6/2020 6:35:54 PM 825,36 RON

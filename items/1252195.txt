@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2021s
 1252195
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-05m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/1252195/thumbnails/cat6-patch-cable-f
 9/22/2020 2:37:42 PM 17,34 RON
 9/26/2020 4:20:24 PM 17,40 RON
 9/27/2020 8:24:03 PM 17,40 RON
+10/6/2020 1:01:27 PM 17,38 RON

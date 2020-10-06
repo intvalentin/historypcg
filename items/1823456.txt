@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f9j81a
 1823456
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-729-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1821372/1823456/thumbnails/hp-f9j81a-ink-729
 9/22/2020 9:23:41 AM 1.833,98 RON
 9/26/2020 11:56:34 AM 1.839,98 RON
 9/27/2020 3:20:34 PM 1.835,98 RON
+10/6/2020 6:02:55 PM 1.837,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q2610a
 33455
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-10a-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/33455/thumbnails/laserjet-q2610a-black-pri
 9/22/2020 9:33:06 AM 851,98 RON
 9/26/2020 12:26:29 PM 855,98 RON
 9/27/2020 3:56:50 PM 853,98 RON
+10/6/2020 7:07:18 PM 855,98 RON

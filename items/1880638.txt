@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hac-cr12wifi
 1880638
     Product link    
 https://www.pcgarage.ro/aer-conditionat/heinner/crystal-hac-cr12wifi-12000-btu-clasa-a-plus-plus-wi-fi-inverter/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5634/1880638/thumbnails/crystal-hac-cr12wifi
     Pret    
 9/22/2020 6:18:58 PM 1.319,99 RON
 9/26/2020 7:33:37 PM 1.319,99 RON
+10/6/2020 8:06:08 AM 1.319,99 RON

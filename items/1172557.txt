@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em113913
 1172557
     Product link    
 https://www.pcgarage.ro/senzori-smart/orvibo/wiwo-g1/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/843505/1172557/thumbnails/wiwo-g1-ca5527894a
     Pret    
 9/22/2020 7:37:57 PM 623,70 RON
 9/26/2020 9:16:13 PM 625,75 RON
+10/6/2020 8:37:59 PM 625,65 RON

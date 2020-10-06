@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9px2200irtn
 1705012
     Product link    
 https://www.pcgarage.ro/ups/eaton/9px-2200va-2u-lcd-rt2u-with-network-card/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1358815/1705012/thumbnails/9px-1000va-2u-lcd
 9/22/2020 1:02:58 PM 8.035,36 RON
 9/26/2020 3:27:13 PM 8.035,36 RON
 9/27/2020 7:38:35 PM 8.035,36 RON
+10/6/2020 8:11:05 AM 8.035,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9422a004aa
 15985
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-707-magenta/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2/15985/thumbnails/crg-707m-toner-cartridge-
     Pret    
 9/26/2020 11:26:53 AM 377,98 RON
 9/27/2020 2:48:47 PM 377,98 RON
+10/6/2020 9:40:54 AM 377,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1142u
 2043598
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat-5e-patch-cable-u-utp-50m-gray/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1779504/2043598/thumbnails/cat-5e-patch-cabl
 9/22/2020 1:37:28 PM 65,21 RON
 9/26/2020 3:45:02 PM 45,42 RON
 9/27/2020 7:56:31 PM 45,42 RON
+10/6/2020 10:37:37 AM 45,42 RON

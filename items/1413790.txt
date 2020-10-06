@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s3120+-+06
 1413790
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/philips/s3120-06/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1416578/1413790/thumbnails/1s3120-06-2d6f890
     Pret    
 9/22/2020 6:35:52 PM 333,98 RON
 9/26/2020 7:55:47 PM 333,98 RON
+10/6/2020 10:36:45 AM 260,99 RON

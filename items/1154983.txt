@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf226a
 1154983
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-26a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1025736/1154983/thumbnails/toner-26a-black-2
 9/22/2020 8:59:19 AM 577,98 RON
 9/26/2020 11:59:31 AM 579,98 RON
 9/27/2020 3:34:00 PM 579,98 RON
+10/6/2020 4:30:20 PM 579,98 RON

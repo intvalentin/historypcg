@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax_0625-001
 967662
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p1427-le/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/851375/967662/thumbnails/p1427-le-7f9a50bb7a
 9/22/2020 3:41:29 PM 4.461,20 RON
 9/26/2020 4:50:57 PM 4.473,97 RON
 9/27/2020 8:54:34 PM 4.476,53 RON
+10/6/2020 7:40:39 PM 4.471,48 RON

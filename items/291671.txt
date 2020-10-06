@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sm-300
 291671
     Product link    
 https://www.pcgarage.ro/preparare-paine/heinner/delice-300/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1152773/291671/thumbnails/sandwich-maker-del
     Pret    
 9/22/2020 7:16:02 PM 99,99 RON
 9/26/2020 8:39:50 PM 99,99 RON
+10/6/2020 4:55:42 PM 99,99 RON

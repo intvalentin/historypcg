@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3ja23ae
 1837264
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-963-cyan/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/736/1837264/thumbnails/cartus-963-cyan-3a797
 9/22/2020 9:02:33 AM 101,98 RON
 9/26/2020 11:55:49 AM 101,98 RON
 9/27/2020 3:19:47 PM 101,98 RON
+10/6/2020 2:33:40 PM 101,98 RON

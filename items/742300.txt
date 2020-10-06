@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t16324010
 742300
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-16xl-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/742300/thumbnails/cartus-16xl-cyan-4a
 9/21/2020 7:37:18 PM 75,98 RON
 9/26/2020 11:36:31 AM 75,98 RON
 9/27/2020 2:59:07 PM 75,98 RON
+10/6/2020 12:15:59 PM 75,98 RON

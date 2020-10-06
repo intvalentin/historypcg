@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |so1811465
 2074230
     Product link    
 https://www.pcgarage.ro/huburi-inteligente/somfy/unitate-de-comanda-connexoon-io-wireless-2-aplicatii/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4525/2074230/thumbnails/unitate-de-comanda-c
     Pret    
 9/22/2020 7:34:02 PM 1.130,50 RON
 9/26/2020 9:10:56 PM 1.130,50 RON
+10/6/2020 7:59:50 PM 1.130,50 RON

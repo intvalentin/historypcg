@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dch-z310
 1456654
     Product link    
 https://www.pcgarage.ro/senzori-smart/d-link/dch-z310-detector-de-fum/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1126098/1456654/thumbnails/dch-z310-detector
     Pret    
 9/22/2020 7:37:57 PM 356,81 RON
 9/26/2020 9:16:13 PM 357,99 RON
+10/6/2020 8:37:28 PM 357,93 RON

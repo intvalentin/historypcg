@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310174
 1741912
     Product link    
 https://www.pcgarage.ro/ups/legrand/daker-dk-plus-6000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1741912/thumbnails/daker-dk-plus-600
 9/22/2020 1:01:53 PM 6.821,57 RON
 9/26/2020 3:26:28 PM 6.839,75 RON
 9/27/2020 7:37:51 PM 6.839,75 RON
+10/6/2020 8:09:26 AM 6.827,41 RON

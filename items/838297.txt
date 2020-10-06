@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pt-111e
 838297
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/edimax/pt-111e/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/838297/thumbnails/pt-111e-ac2ea898fa1e7e81
 9/22/2020 3:38:14 PM 588,68 RON
 9/26/2020 4:50:57 PM 597,96 RON
 9/27/2020 8:54:34 PM 597,96 RON
+10/6/2020 7:07:32 PM 590,71 RON

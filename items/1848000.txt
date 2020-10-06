@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2000a
 1848000
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-658a-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6622/1848000/thumbnails/toner-658a-black-366
 9/22/2020 9:32:05 AM 751,98 RON
 9/26/2020 12:21:17 PM 753,98 RON
 9/27/2020 3:51:36 PM 753,98 RON
+10/6/2020 6:59:45 PM 753,98 RON

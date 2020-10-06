@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce263ac
 2013706
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce263ac-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/9943/2013706/thumbnails/toner-ce263ac-magent
 9/22/2020 9:36:19 AM 1.619,98 RON
 9/26/2020 12:15:05 PM 1.625,98 RON
 9/27/2020 3:50:01 PM 1.625,98 RON
+10/6/2020 7:51:04 PM 1.623,98 RON

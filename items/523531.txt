@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-19-1
 523531
     Product link    
 https://www.pcgarage.ro/casti/a4tech/hs-19-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/523531/thumbnails/hs-19-1-38d456497543d6f1
 9/22/2020 4:05:47 PM 43,98 RON
 9/26/2020 5:12:20 PM 41,98 RON
 9/27/2020 9:16:08 PM 41,98 RON
+10/6/2020 9:51:44 PM 43,98 RON

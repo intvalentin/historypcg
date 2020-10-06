@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf543x
 1906170
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-203x-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/8629/1906170/thumbnails/toner-203x-magenta-6
 9/22/2020 9:10:50 AM 513,98 RON
 9/26/2020 11:53:36 AM 515,98 RON
 9/27/2020 3:17:24 PM 515,98 RON
+10/6/2020 4:21:17 PM 517,98 RON

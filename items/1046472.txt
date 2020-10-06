@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf402a
 1046472
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-201a-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/859765/1046472/thumbnails/toner-201a-yellow-
 9/22/2020 8:51:50 AM 407,98 RON
 9/26/2020 12:00:15 PM 405,98 RON
 9/27/2020 3:34:49 PM 405,98 RON
+10/6/2020 3:45:08 PM 405,98 RON

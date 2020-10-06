@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-7316huhi-k4
 1962398
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/ds-7316huhi-k4-16-canale/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1960570/1962398/thumbnails/ds-7316huhi-k4-16
 9/22/2020 3:11:02 PM 3.141,04 RON
 9/26/2020 4:38:16 PM 3.150,00 RON
 9/27/2020 8:41:57 PM 3.151,81 RON
+10/6/2020 5:38:42 PM 3.148,26 RON

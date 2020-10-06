@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t580200
 33201
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t5802-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/33201/thumbnails/ep580200.jpg
 9/21/2020 8:47:22 PM 271,98 RON
 9/26/2020 11:47:38 AM 271,98 RON
 9/27/2020 3:11:01 PM 271,98 RON
+10/6/2020 1:03:16 PM 271,98 RON

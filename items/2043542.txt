@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2027s
 2043542
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-05m-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1109408/2043542/thumbnails/primeline-cat6-pa
 9/22/2020 2:40:56 PM 19,66 RON
 9/26/2020 3:46:30 PM 19,72 RON
 9/27/2020 7:57:16 PM 19,72 RON
+10/6/2020 1:25:37 PM 19,70 RON

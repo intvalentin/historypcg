@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq8022s
 2042522
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat81-patch-cable-s-ftp-05m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2042522/thumbnails/cat81-patch-cable-s-
 9/22/2020 2:19:22 PM 34,23 RON
 9/26/2020 3:47:16 PM 34,34 RON
 9/27/2020 7:58:45 PM 34,34 RON
+10/6/2020 2:23:16 PM 34,30 RON

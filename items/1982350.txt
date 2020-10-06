@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.42332white
 1982350
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/hd-350bt-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1982350/thumbnails/hd-350bt-white-2f1
 9/22/2020 3:47:50 PM 469,98 RON
 9/26/2020 4:58:58 PM 469,98 RON
 9/27/2020 9:02:39 PM 469,98 RON
+10/6/2020 9:12:19 PM 469,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2029s
 1296983
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-05m-pink/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/722028/1296983/thumbnails/primeline-cat6-pat
 9/22/2020 2:40:56 PM 19,66 RON
 9/26/2020 4:02:06 PM 19,72 RON
 9/27/2020 8:13:44 PM 19,72 RON
+10/6/2020 1:25:05 PM 19,70 RON

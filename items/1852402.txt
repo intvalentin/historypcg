@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3024c002aa
 1852402
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-054-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848774/1852402/thumbnails/toner-crg054bk-bl
 9/21/2020 6:28:54 PM 333,98 RON
 9/26/2020 11:04:42 AM 335,98 RON
 9/27/2020 2:25:42 PM 333,98 RON
+10/6/2020 9:39:30 AM 333,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000431
 222511
     Product link    
 https://www.pcgarage.ro/boxe/logitech/surround-sound-speakers-z506/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/222511/thumbnails/surround-sound-speakers-
 9/22/2020 5:00:13 PM 469,98 RON
 9/26/2020 5:53:56 PM 471,98 RON
 9/28/2020 8:03:08 AM 471,98 RON
+10/6/2020 9:42:47 PM 469,98 RON

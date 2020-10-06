@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31731017100
 517441
     Product link    
 https://www.pcgarage.ro/boxe/genius/sw-g51-3500/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/517441/thumbnails/sw-g51-3500-9eaf19901267
 9/22/2020 4:49:28 PM 305,98 RON
 9/26/2020 5:45:49 PM 309,98 RON
 9/28/2020 7:54:59 AM 377,98 RON
+10/6/2020 8:36:53 PM 391,98 RON

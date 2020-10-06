@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rk4120
 2069242
     Product link    
 https://www.pcgarage.ro/fierbatoare/concept/rk4120/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4273/2069242/thumbnails/rk4120-cad1fcdd9ed68
     Pret    
 9/22/2020 7:21:06 PM 185,98 RON
 9/26/2020 8:55:58 PM 185,98 RON
+10/6/2020 5:55:14 PM 185,98 RON

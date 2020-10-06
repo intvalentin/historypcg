@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |peacg01
 2055830
     Product link    
 https://www.pcgarage.ro/huburi-inteligente/perenio/control-gateway/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7193/2055830/thumbnails/control-gateway-a9d2
     Pret    
 9/22/2020 7:34:02 PM 500,40 RON
 9/26/2020 9:10:56 PM 506,08 RON
+10/6/2020 7:59:18 PM 499,94 RON

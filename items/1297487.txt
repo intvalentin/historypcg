@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1057u
 1297487
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-2m-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/1297487/thumbnails/cat5e-patch-cable-
 9/22/2020 2:32:18 PM 14,16 RON
 9/26/2020 4:01:21 PM 14,16 RON
 9/27/2020 8:12:56 PM 14,16 RON
+10/6/2020 12:12:51 PM 14,16 RON

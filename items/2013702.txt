@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce262ac
 2013702
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce262ac-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/9943/2013702/thumbnails/toner-ce262ac-yellow
 9/22/2020 9:36:19 AM 1.631,98 RON
 9/26/2020 12:15:05 PM 1.637,98 RON
 9/27/2020 3:50:01 PM 1.637,98 RON
+10/6/2020 7:51:35 PM 1.635,98 RON

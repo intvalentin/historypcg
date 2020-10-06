@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01707-001
 2011614
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m3065-v-31mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9943/2011614/thumbnails/m3065-v-31mm-3b6407d
 9/22/2020 3:32:50 PM 1.788,47 RON
 9/26/2020 4:40:31 PM 1.793,58 RON
 9/27/2020 8:44:14 PM 1.794,62 RON
+10/6/2020 6:39:57 PM 1.792,60 RON

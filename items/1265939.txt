@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2111u
 1265939
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-20m-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1265939/thumbnails/econline-cat6-pat
 9/22/2020 3:01:26 PM 48,39 RON
 9/26/2020 4:33:50 PM 47,91 RON
 9/27/2020 8:37:31 PM 47,91 RON
+10/6/2020 4:37:18 PM 48,39 RON

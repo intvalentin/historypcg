@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0454b002aa
 15357
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-21-magenta/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3/15357/thumbnails/toner-c-exv-21-magenta-67
     Pret    
 9/26/2020 11:26:08 AM 487,98 RON
 9/27/2020 2:48:00 PM 487,98 RON
+10/6/2020 9:44:44 AM 487,98 RON

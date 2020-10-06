@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fr5000
 2063578
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/concept/friteuza-fr5000/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2063578/thumbnails/friteuza-fr5000-709f
     Pret    
 9/22/2020 7:27:50 PM 493,98 RON
 9/26/2020 8:59:42 PM 493,98 RON
+10/6/2020 7:02:37 PM 493,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |38000119
 116344
     Product link    
 https://www.pcgarage.ro/cuptoare-cu-microunde/candy/cmw-2070m/
@@ -8,3 +8,4 @@ Candy CMW 2070M
 https://4.grgs.ro/images/products/1/1173769/116344/thumbnails/1cuptor-cu-microunde-candy-cmw-2070m-a8a22e846d3e88565c6fdb016176f94a.jpg
     Pret    
 9/22/2020 7:03:56 PM 223,98 RON
+10/6/2020 2:17:01 PM 223,98 RON

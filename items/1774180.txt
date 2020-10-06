@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lsxwhite
 1774180
     Product link    
 https://www.pcgarage.ro/boxe/kef/lsx-20-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5015/1774180/thumbnails/lsx-20-white-f91dcb3
 9/22/2020 4:52:41 PM 4.827,98 RON
 9/26/2020 5:44:20 PM 4.827,98 RON
 9/28/2020 7:53:30 AM 4.827,98 RON
+10/6/2020 8:55:32 PM 4.827,98 RON

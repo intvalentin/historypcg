@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5502-731
 735862
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/cablu-date-5502-731-outdoor/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/735862/thumbnails/cablu-date-5502-731-outd
 9/22/2020 3:43:37 PM 457,89 RON
 9/26/2020 4:53:10 PM 459,20 RON
 9/27/2020 8:56:45 PM 459,46 RON
+10/6/2020 7:50:16 PM 458,94 RON

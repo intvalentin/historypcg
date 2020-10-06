@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax_0407-001
 783077
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3367-ve/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/783077/thumbnails/p3367-ve-688e6076c6
 9/22/2020 3:41:29 PM 6.695,13 RON
 9/26/2020 4:51:42 PM 6.714,29 RON
 9/27/2020 8:55:18 PM 6.718,13 RON
+10/6/2020 7:43:08 PM 6.710,56 RON

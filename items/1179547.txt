@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0372c004aa
 1179547
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-570-multi-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/1179547/thumbnails/cartus-pgi-570-mul
 9/21/2020 5:56:19 PM 269,98 RON
 9/26/2020 11:08:25 AM 271,98 RON
 9/27/2020 2:29:40 PM 269,98 RON
+10/6/2020 7:50:43 AM 271,98 RON

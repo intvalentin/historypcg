@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2216b001aa
 219683
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-302-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3/219683/thumbnails/pfi-302bk-black-pigment-
     Pret    
 9/26/2020 11:23:54 AM 723,98 RON
 9/27/2020 2:45:34 PM 723,98 RON
+10/6/2020 10:36:25 AM 723,98 RON

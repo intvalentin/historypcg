@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax_0485-001
 961746
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3364-lv-6mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/961746/thumbnails/p3364-lv-6mm-d68669e70a9
 9/22/2020 3:41:29 PM 4.461,20 RON
 9/26/2020 4:50:57 PM 4.473,97 RON
 9/27/2020 8:54:34 PM 4.476,53 RON
+10/6/2020 7:40:23 PM 4.471,48 RON

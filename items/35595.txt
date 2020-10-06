@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000029
 35595
     Product link    
 https://www.pcgarage.ro/boxe/logitech/s-150-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/35595/thumbnails/s-150-black-36a930a9a86cb
 9/22/2020 4:46:16 PM 97,98 RON
 9/26/2020 5:46:33 PM 99,98 RON
 9/28/2020 7:55:43 AM 99,98 RON
+10/6/2020 9:10:38 PM 95,98 RON

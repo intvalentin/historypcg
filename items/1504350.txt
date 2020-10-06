@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |baa843sa
 1504350
     Product link    
 https://www.pcgarage.ro/binocluri/nikon/prostaff-7s-10x30/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1489074/1504350/thumbnails/prostaff-7s-10x30
     Pret    
 9/22/2020 6:16:04 PM 1.299,00 RON
 9/26/2020 7:27:36 PM 1.299,00 RON
+10/6/2020 7:47:41 AM 1.299,00 RON

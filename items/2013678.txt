@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9731ac
 2013678
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-c9731ac-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/9943/2013678/thumbnails/toner-c9731ac-cyan-5
 9/22/2020 9:25:48 AM 2.375,98 RON
 9/26/2020 11:49:08 AM 2.383,98 RON
 9/27/2020 3:12:39 PM 2.383,98 RON
+10/6/2020 6:11:36 PM 2.379,98 RON

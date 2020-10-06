@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ci91x1
 1481210
     Product link    
 https://www.pcgarage.ro/ondulatoare-de-par/remington/ci91x1/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1427586/1481210/thumbnails/ci91x1-cb9d8ad9d0
     Pret    
 9/22/2020 6:58:50 PM 175,19 RON
 9/26/2020 8:14:35 PM 175,19 RON
+10/6/2020 1:14:44 PM 175,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens422821
 1521390
     Product link    
 https://www.pcgarage.ro/boxe/energy-sistem/tower5-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1520902/1521390/thumbnails/tower5-white-46f9
 9/22/2020 5:00:13 PM 471,98 RON
 9/26/2020 5:49:31 PM 473,98 RON
 9/28/2020 7:58:42 AM 473,98 RON
+10/6/2020 9:43:37 PM 473,98 RON

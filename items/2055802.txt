@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pecls01
 2055802
     Product link    
 https://www.pcgarage.ro/senzori-smart/perenio/leak-sensor/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7193/2055802/thumbnails/leak-sensor-776eb180
     Pret    
 9/22/2020 7:37:23 PM 195,29 RON
 9/26/2020 9:15:30 PM 197,51 RON
+10/6/2020 8:27:44 PM 195,11 RON

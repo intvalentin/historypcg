@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2443g0-iw-28
 1953818
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2443g0-iw-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1953818/thumbnails/ds-2cd2483g0-iw-28mm
 9/22/2020 3:30:41 PM 623,15 RON
 9/26/2020 4:42:45 PM 624,92 RON
 9/27/2020 8:46:26 PM 625,29 RON
+10/6/2020 6:26:59 PM 624,58 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wz0009
 498127
     Product link    
 https://www.pcgarage.ro/accesorii-retea/logilink/cleste-sertizat-wz0009/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1/498127/thumbnails/cleste-sertizat-wz0009-a
 9/22/2020 1:29:57 PM 34,85 RON
 9/26/2020 3:42:02 PM 34,97 RON
 9/27/2020 7:53:30 PM 34,97 RON
+10/6/2020 9:24:42 AM 34,93 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-5m-r
 1775436
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-5m-red-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1774300/1775436/thumbnails/cat5e-patch-cable
 9/22/2020 2:37:42 PM 17,17 RON
 9/26/2020 3:53:09 PM 17,44 RON
 9/27/2020 8:04:45 PM 17,44 RON
+10/6/2020 1:01:11 PM 17,25 RON

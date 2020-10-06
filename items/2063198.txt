@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r830779
 2063198
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-utp-1m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2063198/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:01:26 PM 43,91 RON
 9/26/2020 4:26:21 PM 44,03 RON
 9/27/2020 8:30:01 PM 44,08 RON
+10/6/2020 4:33:02 PM 40,48 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39613rosu
 1857506
     Product link    
 https://www.pcgarage.ro/casti/jbl/e35-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848722/1857506/thumbnails/e35-red-9be6639c4
 9/22/2020 3:57:19 PM 285,98 RON
 9/26/2020 4:59:43 PM 285,98 RON
 9/27/2020 9:03:24 PM 285,98 RON
+10/6/2020 8:58:34 PM 285,98 RON

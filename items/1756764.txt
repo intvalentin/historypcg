@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pwup-bp06pba-az01b
 1756764
     Product link    
 https://www.pcgarage.ro/accesorii-ups/njoy/balder-battery-pack-2u-1500/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1749840/1756764/thumbnails/balder-battery-pa
 9/22/2020 1:25:39 PM 924,08 RON
 9/26/2020 3:37:39 PM 938,65 RON
 9/27/2020 7:49:03 PM 938,65 RON
+10/6/2020 9:01:14 AM 928,34 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpc00469
 1508926
     Product link    
 https://www.pcgarage.ro/casti/sbox/hs-501-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457334/1508926/thumbnails/hs-501-black-7b89
 9/22/2020 3:53:10 PM 49,98 RON
 9/26/2020 5:03:25 PM 49,98 RON
 9/27/2020 9:07:07 PM 49,98 RON
+10/6/2020 8:14:43 PM 49,98 RON

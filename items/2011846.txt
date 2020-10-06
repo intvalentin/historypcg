@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0805-002
 2011846
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m3045-wv-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9943/2011846/thumbnails/m3065-v-31mm-3b6407d
 9/22/2020 3:40:24 PM 1.987,92 RON
 9/26/2020 4:47:13 PM 1.993,62 RON
 9/27/2020 8:50:51 PM 1.994,75 RON
+10/6/2020 7:33:24 PM 1.992,51 RON

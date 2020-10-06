@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |le1200i, c0700647
 9333
     Product link    
 https://www.pcgarage.ro/stabilizatoare-tensiune/apc/line-r-1200va-automatic-voltage-regulator/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/9333/thumbnails/line-r-1200va-automatic-vo
 9/22/2020 1:20:15 PM 259,99 RON
 9/26/2020 3:33:11 PM 259,99 RON
 9/27/2020 7:44:31 PM 259,99 RON
+10/6/2020 8:28:32 AM 370,37 RON

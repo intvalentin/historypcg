@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0887b001aa
 32487
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-101-photo-cyan/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5/32487/thumbnails/toner-photo-cyan-pfi-101-
     Pret    
 9/26/2020 11:23:09 AM 313,98 RON
 9/27/2020 2:44:47 PM 313,98 RON
+10/6/2020 9:34:44 AM 313,98 RON

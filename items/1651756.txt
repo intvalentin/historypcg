@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-001269
 1651756
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z211-21-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/530/1651756/thumbnails/z211-21-black-4c60af9
 9/22/2020 4:53:45 PM 145,98 RON
 9/26/2020 5:48:47 PM 147,98 RON
 9/28/2020 7:57:57 AM 147,98 RON
+10/6/2020 8:23:45 PM 145,98 RON

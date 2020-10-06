@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apcrbc124
 1415326
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/apc-baterie-de-rezerva-124/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929099/1415326/thumbnails/apc-baterie-de-rez
 9/22/2020 1:23:29 PM 495,49 RON
 9/26/2020 3:34:41 PM 496,90 RON
 9/27/2020 7:46:04 PM 497,19 RON
+10/6/2020 8:41:57 AM 504,54 RON

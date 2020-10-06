@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea891c10
 1660768
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/krups/evidence-ea891c10-metalic/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5286/1660768/thumbnails/evidence-ea891c10-me
     Pret    
 9/22/2020 7:07:07 PM 2.847,99 RON
 9/26/2020 8:24:57 PM 2.847,99 RON
+10/6/2020 3:04:15 PM 2.799,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1025s
 1279148
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-05m-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025736/1279148/thumbnails/cat5e-patch-cable
 9/22/2020 2:31:13 PM 13,01 RON
 9/26/2020 4:16:41 PM 13,05 RON
 9/27/2020 8:18:59 PM 13,05 RON
+10/6/2020 12:00:36 PM 13,04 RON

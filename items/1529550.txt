@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0650g
 1529550
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/f5a-gold/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1475490/1529550/thumbnails/f5a-gold-c00cb1ab
 9/22/2020 3:57:19 PM 371,98 RON
 9/26/2020 5:02:41 PM 371,98 RON
 9/27/2020 9:06:23 PM 371,98 RON
+10/6/2020 9:05:35 PM 361,98 RON

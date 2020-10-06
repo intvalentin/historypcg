@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl120
 1880734
     Product link    
 https://www.pcgarage.ro/becuri-inteligente/tp-link/bec-led-kl120/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5634/1880734/thumbnails/bec-led-kl120-17f469
     Pret    
 9/22/2020 7:40:13 PM 147,98 RON
 9/26/2020 9:18:27 PM 127,99 RON
+10/6/2020 8:50:16 PM 127,99 RON

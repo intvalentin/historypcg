@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r509864
 2069346
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6-patch-cable-s-ftp-lsfrzh-75m-gray/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2069346/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:05:45 PM 141,13 RON
 9/26/2020 4:25:36 PM 141,54 RON
 9/27/2020 8:29:16 PM 141,61 RON
+10/6/2020 4:56:56 PM 130,11 RON

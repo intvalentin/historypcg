@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-0.5m-bl
 1732736
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-05m-blue-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1728700/1732736/thumbnails/cat5e-patch-cable
 9/22/2020 2:12:54 PM 6,13 RON
 9/26/2020 3:53:55 PM 6,23 RON
 9/27/2020 8:05:30 PM 6,23 RON
+10/6/2020 10:38:43 AM 6,16 RON

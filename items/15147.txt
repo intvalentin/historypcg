@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8191a002aa
 15147
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-bci-15-cyan-twin-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/15147/thumbnails/52449.jpg
 9/21/2020 7:24:17 PM 147,98 RON
 9/26/2020 11:27:36 AM 147,98 RON
 9/27/2020 2:49:34 PM 147,98 RON
+10/6/2020 9:23:09 AM 147,98 RON

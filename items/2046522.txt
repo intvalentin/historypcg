@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8891a002af
 2046522
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-bci-6-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2045418/2046522/thumbnails/cartus-bci-6-red-
 9/21/2020 7:22:07 PM 59,98 RON
 9/26/2020 11:17:13 AM 59,98 RON
 9/27/2020 2:38:22 PM 59,98 RON
+10/6/2020 9:08:39 AM 59,98 RON

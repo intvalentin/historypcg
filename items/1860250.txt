@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-cep4ro
 1860250
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/cns-cep4ro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1860250/thumbnails/cns-cep4ro-pink-106d
 9/22/2020 4:31:13 PM 23,98 RON
 9/26/2020 5:33:12 PM 23,98 RON
 9/28/2020 7:42:15 AM 23,98 RON
+10/6/2020 10:42:04 PM 23,98 RON

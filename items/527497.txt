@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6270b002aa
 527497
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-731-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/527497/thumbnails/toner-731-magenta-b1222f
 9/21/2020 6:28:54 PM 309,98 RON
 9/26/2020 11:11:22 AM 309,98 RON
 9/27/2020 2:32:51 PM 309,98 RON
+10/6/2020 8:01:13 AM 313,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf230a
 1462878
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-30a-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1086319/1462878/thumbnails/toner-30a-black-0
 9/22/2020 9:06:42 AM 331,98 RON
 9/26/2020 11:58:02 AM 333,98 RON
 9/27/2020 3:32:21 PM 333,98 RON
+10/6/2020 3:26:49 PM 327,98 RON

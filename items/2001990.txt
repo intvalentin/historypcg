@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2032x
 2001990
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-415x-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/8078/2001990/thumbnails/toner-415x-yellow-f8
 9/22/2020 8:55:03 AM 1.157,98 RON
 9/26/2020 11:49:52 AM 1.159,98 RON
 9/27/2020 3:13:26 PM 1.159,98 RON
+10/6/2020 5:31:19 PM 1.159,98 RON

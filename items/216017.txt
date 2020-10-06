@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce278a
 216017
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-78a-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/216017/thumbnails/black-print-cartridge-ce
 9/22/2020 8:55:03 AM 419,98 RON
 9/26/2020 12:06:13 PM 419,98 RON
 9/27/2020 3:41:13 PM 419,98 RON
+10/6/2020 3:49:40 PM 419,98 RON

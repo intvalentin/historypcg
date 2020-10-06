@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r830824
 2063214
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-utp-15m-gray-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2063214/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:01:26 PM 46,79 RON
 9/26/2020 4:26:21 PM 46,93 RON
 9/27/2020 8:30:01 PM 46,96 RON
+10/6/2020 4:34:06 PM 43,15 RON

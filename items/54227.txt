@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc656ae
 54227
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-901-3-culori/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2/54227/thumbnails/cc656ae400x400.jpg
 9/22/2020 9:03:37 AM 131,98 RON
 9/26/2020 12:12:51 PM 131,98 RON
 9/27/2020 3:48:27 PM 131,98 RON
+10/6/2020 2:40:33 PM 131,98 RON

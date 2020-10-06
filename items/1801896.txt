@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens446605
 1801896
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/smart-speaker-3-talk-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4338/1801896/thumbnails/smart-speaker-3-talk
 9/22/2020 5:13:06 PM 374,98 RON
 9/26/2020 6:00:38 PM 376,27 RON
 9/28/2020 8:09:51 AM 376,27 RON
+10/6/2020 11:01:56 PM 376,21 RON

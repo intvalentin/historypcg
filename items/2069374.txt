@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r830720
 2069374
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6-patch-cable-u-utp-2m-gray-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2069374/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:01:26 PM 44,63 RON
 9/26/2020 4:25:36 PM 44,77 RON
 9/27/2020 8:29:16 PM 44,79 RON
+10/6/2020 4:33:50 PM 41,15 RON

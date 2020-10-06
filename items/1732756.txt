@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-10m-bl
 1732756
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-10m-blue-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1728700/1732756/thumbnails/cat5e-patch-cable
 9/22/2020 1:40:42 PM 12,95 RON
 9/26/2020 3:53:55 PM 13,16 RON
 9/27/2020 8:05:30 PM 13,16 RON
+10/6/2020 11:58:22 AM 13,01 RON

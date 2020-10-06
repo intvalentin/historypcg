@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upc-5051e-so-out
 1133583
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-utp-solid-cable-305m-exterior-negru/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/498497/1133583/thumbnails/cat5e-utp-solid-ca
 9/22/2020 3:05:45 PM 498,08 RON
 9/26/2020 4:33:50 PM 505,93 RON
 9/27/2020 8:37:31 PM 505,93 RON
+10/6/2020 3:24:04 PM 500,38 RON

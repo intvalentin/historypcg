@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e3sups30khb1
 1953842
     Product link    
 https://www.pcgarage.ro/ups/apc/easy-ups-3s-30000va-400v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6997/1953842/thumbnails/easy-ups-3s-30000va-
 9/22/2020 1:19:11 PM 41.841,62 RON
 9/26/2020 3:25:43 PM 41.961,33 RON
 9/27/2020 7:37:06 PM 41.985,45 RON
+10/6/2020 8:22:51 AM 43.012,29 RON

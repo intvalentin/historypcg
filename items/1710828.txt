@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npc06szdb-wt005m
 1710828
     Product link    
 https://www.pcgarage.ro/cabluri-retea/commscope/cat6-patch-cable-s-ftp-5m-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1710828/thumbnails/cat6-patch-cable-
 9/22/2020 3:04:40 PM 131,11 RON
 9/26/2020 4:30:04 PM 131,50 RON
 9/27/2020 8:33:47 PM 131,57 RON
+10/6/2020 4:57:12 PM 131,42 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hac-hfw1500d-0360b
 1996730
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/hac-hfw1500d-36mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/1996730/thumbnails/hac-hfw1500d-36mm
 9/22/2020 3:36:05 PM 253,15 RON
 9/26/2020 4:47:58 PM 254,03 RON
 9/27/2020 8:51:36 PM 254,03 RON
+10/6/2020 6:56:30 PM 253,98 RON

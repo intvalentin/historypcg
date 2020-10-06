@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pbaseeu1
 1822988
     Product link    
 https://www.pcgarage.ro/boxe/sonos/playbase-10-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1821372/1822988/thumbnails/playbase-10-white
 9/22/2020 4:51:36 PM 3.505,98 RON
 9/26/2020 5:43:36 PM 3.505,98 RON
 9/28/2020 7:52:45 AM 3.505,98 RON
+10/6/2020 8:53:08 PM 3.505,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p2v81a
 1823504
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-746-300ml-chromatic-red/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1821372/1823504/thumbnails/cartus-746-300ml-
 9/22/2020 9:12:58 AM 695,98 RON
 9/26/2020 11:55:49 AM 697,98 RON
 9/27/2020 3:19:47 PM 695,98 RON
+10/6/2020 4:43:17 PM 725,98 RON

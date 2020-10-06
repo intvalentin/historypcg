@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens445639
 1745356
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/music-box-1-plus-slate/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6748/1745356/thumbnails/music-box-1-plus-sla
 9/22/2020 5:05:33 PM 101,46 RON
 9/26/2020 6:01:22 PM 101,81 RON
 9/28/2020 8:10:35 AM 101,81 RON
+10/6/2020 10:22:00 PM 101,80 RON

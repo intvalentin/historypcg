@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ipc-cb2c20-zs-2812
 2014846
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/ipc-cb2c20-zs-28-12mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/9943/2014846/thumbnails/ipc-cb2c20-zs-28-12m
 9/22/2020 3:29:36 PM 518,52 RON
 9/26/2020 4:40:31 PM 520,30 RON
 9/27/2020 8:44:13 PM 520,30 RON
+10/6/2020 6:23:12 PM 520,22 RON

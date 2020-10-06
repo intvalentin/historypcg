@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fc-sm-100
 1939530
     Product link    
 https://www.pcgarage.ro/cabluri-retea/ubiquiti-networks/10gigabit-single-mode-fiber-3048m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1939530/thumbnails/10gigabit-single-mod
 9/22/2020 3:05:45 PM 344,38 RON
 9/26/2020 4:27:50 PM 349,81 RON
 9/27/2020 8:31:30 PM 349,81 RON
+10/6/2020 5:02:53 PM 345,96 RON

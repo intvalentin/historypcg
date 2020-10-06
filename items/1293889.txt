@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3084s
 1293889
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-75m-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1146523/1293889/thumbnails/primeline-cat6a-p
 9/22/2020 2:48:29 PM 47,52 RON
 9/26/2020 4:05:05 PM 47,69 RON
 9/27/2020 8:16:45 PM 47,69 RON
+10/6/2020 2:39:40 PM 47,63 RON

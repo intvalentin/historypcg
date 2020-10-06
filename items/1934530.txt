@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2366c001aa
 1934530
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-110m-magenta/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2554/1934530/thumbnails/cartus-pfi-110m-mage
 9/21/2020 6:30:59 PM 361,98 RON
 9/26/2020 11:03:13 AM 363,98 RON
 9/27/2020 2:24:07 PM 361,98 RON
+10/6/2020 8:12:55 AM 361,98 RON

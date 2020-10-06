@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0781c001aa
 1459938
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1700-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1175596/1459938/thumbnails/cartus-pfi-1700-g
     Pret    
 9/26/2020 11:20:11 AM 1.155,98 RON
 9/27/2020 2:41:32 PM 1.151,98 RON
+10/6/2020 10:50:49 AM 1.153,98 RON

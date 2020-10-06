@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2789b002aa
 370221
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-28-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/4/370221/thumbnails/toner-c-exv-28-black-e7f
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:13:36 AM 297,98 RON
 9/27/2020 2:35:12 PM 297,98 RON
+10/6/2020 7:59:35 AM 297,98 RON

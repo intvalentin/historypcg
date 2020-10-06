@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zw120 eu
 1848494
     Product link    
 https://www.pcgarage.ro/senzori-smart/aeotec/senzor-usa-geam-gen5/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1054/1848494/thumbnails/senzor-z-wave-usa-ge
     Pret    
 9/22/2020 7:37:57 PM 152,71 RON
 9/26/2020 9:16:13 PM 155,12 RON
+10/6/2020 8:35:03 PM 153,42 RON

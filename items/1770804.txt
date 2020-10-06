@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap4421
 1770804
     Product link    
 https://www.pcgarage.ro/ups/apc/rack-ats-10a-230v/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5015/1770804/thumbnails/rack-ats-10a-230v-ad
 9/22/2020 1:01:53 PM 4.336,45 RON
 9/26/2020 3:26:28 PM 4.348,85 RON
 9/27/2020 7:37:50 PM 4.351,35 RON
+10/6/2020 8:03:52 AM 4.348,50 RON

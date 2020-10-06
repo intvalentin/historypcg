@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c112-eu-cr-ne
 1735296
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/nespresso/citiz-cherry-red-c112-eu/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1728700/1735296/thumbnails/citiz-cherry-red-
     Pret    
 9/22/2020 7:06:04 PM 679,99 RON
 9/26/2020 8:24:57 PM 679,99 RON
+10/6/2020 2:42:03 PM 679,99 RON

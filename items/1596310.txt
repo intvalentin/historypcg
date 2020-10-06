@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1246c002aa
 1596310
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-045h-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1508470/1596310/thumbnails/toner-045h-black-
 9/21/2020 5:58:23 PM 413,98 RON
 9/26/2020 11:06:56 AM 415,98 RON
 9/27/2020 2:28:05 PM 415,98 RON
+10/6/2020 8:19:22 AM 415,98 RON

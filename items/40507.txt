@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc2
 40507
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/rbc2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/40507/thumbnails/rbc2-c122c86eac2f5bc3fcb8
 9/22/2020 1:21:21 PM 298,08 RON
 9/26/2020 3:35:26 PM 299,10 RON
 9/27/2020 7:46:48 PM 299,10 RON
+10/6/2020 8:39:51 AM 317,37 RON

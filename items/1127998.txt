@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mt s-rj01
 1127998
     Product link    
 https://www.pcgarage.ro/accesorii-retea/mikrotik/transceiver-gigabit-s-rj01/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1053670/1127998/thumbnails/transceiver-gigab
 9/22/2020 1:32:07 PM 151,90 RON
 9/26/2020 3:41:18 PM 153,92 RON
 9/27/2020 7:52:46 PM 153,92 RON
+10/6/2020 9:33:52 AM 152,74 RON

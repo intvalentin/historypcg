@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2015s
 1656984
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-025m-green/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1187917/1656984/thumbnails/primeline-cat6-pa
 9/22/2020 2:36:37 PM 16,48 RON
 9/26/2020 3:55:23 PM 16,53 RON
 9/27/2020 8:06:59 PM 16,53 RON
+10/6/2020 12:54:27 PM 16,51 RON

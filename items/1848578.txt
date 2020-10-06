@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zw100 eu
 1848578
     Product link    
 https://www.pcgarage.ro/senzori-smart/aeotec/multisensor-6/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1844684/1848578/thumbnails/multisensor-6-ecc
     Pret    
 9/22/2020 7:37:57 PM 305,77 RON
 9/26/2020 9:16:13 PM 310,58 RON
+10/6/2020 8:36:56 PM 307,18 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |epst653100
 272053
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t6531-photo-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/272053/thumbnails/cartus-negru-t6531-5c6e7
 9/21/2020 8:50:38 PM 481,98 RON
 9/26/2020 11:39:29 AM 481,98 RON
 9/27/2020 3:02:17 PM 483,98 RON
+10/6/2020 1:25:56 PM 481,98 RON

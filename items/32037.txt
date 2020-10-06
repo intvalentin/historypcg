@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4953a
 32037
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-81-dye-yellow-plus-cleaner/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/3/32037/thumbnails/81-dye-yellow-printhead-a
 9/22/2020 9:18:21 AM 1.089,98 RON
 9/26/2020 12:09:53 PM 1.093,98 RON
 9/27/2020 3:44:25 PM 1.091,98 RON
+10/6/2020 5:25:13 PM 1.093,98 RON

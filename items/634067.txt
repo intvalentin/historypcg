@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz134a
 634067
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-711-cyan-tripple-pack/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/5/634067/thumbnails/cartus-711-cyan-tripple-
 9/22/2020 8:53:59 AM 311,98 RON
 9/26/2020 12:03:14 PM 311,98 RON
 9/27/2020 3:38:03 PM 311,98 RON
+10/6/2020 3:25:06 PM 311,98 RON

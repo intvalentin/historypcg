@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l0r13a
 1424930
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-981y-cyan/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/986897/1424930/thumbnails/cartus-981y-cyan-f
 9/22/2020 9:34:10 AM 1.039,98 RON
 9/26/2020 11:58:02 AM 1.041,98 RON
 9/27/2020 3:32:21 PM 1.039,98 RON
+10/6/2020 5:18:51 PM 1.041,98 RON

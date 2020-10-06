@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d8j07a
 2050078
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-980-cyan/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/2045418/2050078/thumbnails/cartus-980-cyan-c
 9/22/2020 9:31:01 AM 449,98 RON
 9/26/2020 12:14:21 PM 451,98 RON
 9/27/2020 3:50:01 PM 451,98 RON
+10/6/2020 6:50:24 PM 451,98 RON

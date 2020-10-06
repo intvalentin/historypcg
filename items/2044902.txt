@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bc1100
 2044902
     Product link    
 https://www.pcgarage.ro/cantare-de-bucatarie/ufesa/bc1100/
@@ -8,3 +8,4 @@ Ufesa BC1100
 https://4.grgs.ro/images/products/1/1034/2044902/thumbnails/bc1100-2996f6149c90fdd727f2df8515d00618.jpg
     Pret    
 9/26/2020 9:07:55 PM 77,98 RON
+10/6/2020 7:39:55 PM 77,98 RON

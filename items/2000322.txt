@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b240-28
 2000322
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hikvision-hiwatch-hwt-b240-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/2000322/thumbnails/hiwatch-hwt-b240-
 9/22/2020 3:35:00 PM 131,85 RON
 9/26/2020 4:47:13 PM 132,22 RON
 9/27/2020 8:50:51 PM 132,29 RON
+10/6/2020 6:48:30 PM 132,15 RON

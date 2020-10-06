@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl130
 1880726
     Product link    
 https://www.pcgarage.ro/becuri-inteligente/tp-link/bec-led-kl130/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/5634/1880726/thumbnails/bec-led-kl130-09d18b
     Pret    
 9/22/2020 7:40:13 PM 167,98 RON
 9/26/2020 9:18:27 PM 158,99 RON
+10/6/2020 8:50:32 PM 158,99 RON

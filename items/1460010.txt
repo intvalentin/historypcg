@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0817c001aa
 1460010
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1300-grey/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1094679/1460010/thumbnails/cartus-pfi-1300-g
     Pret    
 9/26/2020 11:19:27 AM 659,98 RON
 9/27/2020 2:40:46 PM 657,98 RON
+10/6/2020 10:31:51 AM 659,98 RON

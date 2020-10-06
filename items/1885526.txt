@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf244a
 1885526
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-44a-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1798/1885526/thumbnails/toner-44a-black-28db
 9/22/2020 8:52:54 AM 237,98 RON
 9/26/2020 11:55:05 AM 241,98 RON
 9/27/2020 3:18:59 PM 241,98 RON
+10/6/2020 3:10:18 PM 241,98 RON

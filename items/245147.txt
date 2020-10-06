@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lh-30
 245147
     Product link    
 https://www.pcgarage.ro/casti/modecom/lh-30/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/245147/thumbnails/lh-30-fb46ce9602074193ed
 9/22/2020 4:05:47 PM 41,98 RON
 9/26/2020 5:13:05 PM 41,98 RON
 9/27/2020 9:16:52 PM 41,98 RON
+10/6/2020 9:50:06 PM 41,98 RON

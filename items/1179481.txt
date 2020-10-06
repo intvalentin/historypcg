@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0548-001
 1179481
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m3037-pve/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/1179481/thumbnails/m3037-pve-120446b7
 9/22/2020 3:41:29 PM 5.312,22 RON
 9/26/2020 4:50:12 PM 5.327,42 RON
 9/27/2020 8:53:49 PM 5.330,47 RON
+10/6/2020 7:41:30 PM 5.324,46 RON

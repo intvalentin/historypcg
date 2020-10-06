@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce71h0t-pirl28
 1878242
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce71h0t-pirl-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1868718/1878242/thumbnails/ds-2ce71d0t-pirl-
 9/22/2020 3:36:05 PM 202,96 RON
 9/26/2020 4:49:27 PM 203,53 RON
 9/27/2020 8:53:05 PM 203,65 RON
+10/6/2020 6:54:07 PM 203,42 RON

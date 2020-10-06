@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce390x
 273367
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-90x-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/4/273367/thumbnails/90x-black-toner-cartridg
 9/22/2020 9:22:40 AM 1.523,98 RON
 9/26/2020 12:04:43 PM 1.529,98 RON
 9/27/2020 3:39:38 PM 1.529,98 RON
+10/6/2020 5:51:50 PM 1.529,98 RON

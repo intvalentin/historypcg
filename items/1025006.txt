@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apc_ap9880
 1025006
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/cablu-adaptor-iec-c14-schuko-06m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/812812/1025006/thumbnails/cablu-adaptor-iec-
 9/22/2020 1:24:34 PM 305,75 RON
 9/26/2020 3:38:23 PM 306,62 RON
 9/27/2020 7:49:47 PM 306,80 RON
+10/6/2020 8:55:21 AM 306,58 RON

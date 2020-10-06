@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo19
 1881542
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo-19-20-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5634/1881542/thumbnails/solo-19-20-black-b55
 9/22/2020 5:02:22 PM 1.195,98 RON
 9/26/2020 5:47:17 PM 1.215,98 RON
 9/28/2020 7:56:28 AM 1.215,98 RON
+10/6/2020 9:56:55 PM 1.199,98 RON

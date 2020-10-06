@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-7608ni-k2
 1851726
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/ds-7608ni-k2-8-canale-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6748/1851726/thumbnails/ds-7608ni-k2-8-canal
 9/22/2020 3:11:02 PM 703,30 RON
 9/26/2020 4:38:16 PM 705,30 RON
 9/27/2020 8:41:57 PM 705,71 RON
+10/6/2020 5:33:04 PM 704,91 RON

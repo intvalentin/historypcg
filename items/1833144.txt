@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bhp-kix-bk
 1833144
     Product link    
 https://www.pcgarage.ro/casti/gembird/kyoto-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5631/1833144/thumbnails/kyoto-black-c5a00e8d
 9/22/2020 4:03:37 PM 63,98 RON
 9/26/2020 5:07:52 PM 65,98 RON
 9/27/2020 9:11:39 PM 65,98 RON
+10/6/2020 8:17:24 PM 63,98 RON

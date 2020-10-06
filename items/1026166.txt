@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf313a
 1026166
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-826a-magenta/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1025736/1026166/thumbnails/toner-826a-magent
 9/21/2020 10:26:09 PM 2.525,98 RON
 9/26/2020 12:01:00 PM 2.719,98 RON
 9/27/2020 3:35:37 PM 2.713,98 RON
+10/6/2020 6:15:22 PM 2.733,98 RON
+10/6/2020 6:22:20 PM 2.733,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2965b001aa
 65269
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-703-magenta/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/65269/thumbnails/cartus-pfi-703-magenta-9e
 9/21/2020 7:19:56 PM 1.139,98 RON
 9/26/2020 11:10:38 AM 1.143,98 RON
 9/27/2020 2:32:03 PM 1.141,98 RON
+10/6/2020 8:59:53 AM 1.141,98 RON

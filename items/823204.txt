@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mhs-dtw-r
 823204
     Product link    
 https://www.pcgarage.ro/casti/gembird/over-head-mhs-dtr-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/823204/thumbnails/over-head-mhs-dtr-red-b9
 9/22/2020 4:05:47 PM 43,98 RON
 9/26/2020 5:05:39 PM 43,98 RON
 9/27/2020 9:09:22 PM 43,98 RON
+10/6/2020 9:52:17 PM 43,98 RON

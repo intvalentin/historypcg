@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uvc-nvr-2tb
 1778700
     Product link    
 https://www.pcgarage.ro/video-recorder/ubiquiti-networks/unifi-nvr-2tb/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/849800/1778700/thumbnails/unifi-nvr-be089eda
     Pret    
 9/22/2020 3:11:02 PM 1.901,19 RON
 9/26/2020 4:38:16 PM 1.850,94 RON
+10/6/2020 5:37:51 PM 1.830,60 RON

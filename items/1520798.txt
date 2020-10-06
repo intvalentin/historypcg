@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo2781-1.8
 1520798
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/utp-18m-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1510154/1520798/thumbnails/utp-05m-gri-1ea74
 9/22/2020 3:00:21 PM 24,63 RON
 9/26/2020 4:30:05 PM 24,63 RON
 9/27/2020 8:33:47 PM 24,63 RON
+10/6/2020 4:28:43 PM 24,63 RON

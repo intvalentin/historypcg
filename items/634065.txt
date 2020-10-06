@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz133a
 634065
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-711-black/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3/634065/thumbnails/cartus-711-black-0431dc1
 9/22/2020 8:50:46 AM 309,98 RON
 9/26/2020 12:03:14 PM 309,98 RON
 9/27/2020 3:38:03 PM 309,98 RON
+10/6/2020 6:41:48 PM 289,98 RON

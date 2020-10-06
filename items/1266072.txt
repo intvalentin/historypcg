@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2035u
 1266072
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-1m-green/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1088099/1266072/thumbnails/econline-cat6-pat
 9/22/2020 2:36:37 PM 16,19 RON
 9/26/2020 4:18:10 PM 16,24 RON
 9/27/2020 8:21:49 PM 16,24 RON
+10/6/2020 12:49:51 PM 16,23 RON

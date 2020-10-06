@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0319-002
 222853
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/p7701/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/222853/thumbnails/p7701-ff057fce94e53ad5b4
 9/22/2020 3:43:37 PM 2.490,62 RON
 9/26/2020 4:53:10 PM 2.497,74 RON
 9/27/2020 8:56:46 PM 2.499,17 RON
+10/6/2020 7:51:43 PM 2.496,36 RON

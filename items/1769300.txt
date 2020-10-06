@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s350db
 1769300
     Product link    
 https://www.pcgarage.ro/boxe/edifier/s350db-21-black-wood/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1765416/1769300/thumbnails/s350db-21-black-w
 9/22/2020 4:48:24 PM 1.231,98 RON
 9/26/2020 5:44:20 PM 1.249,98 RON
 9/28/2020 7:53:30 AM 1.249,98 RON
+10/6/2020 8:49:19 PM 1.235,98 RON

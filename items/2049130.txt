@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d665e
 2049130
     Product link    
 https://www.pcgarage.ro/uscatoare-de-par/babyliss/salon-air-brilliance-d665e/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2045418/2049130/thumbnails/salon-air-brillia
     Pret    
 9/22/2020 6:54:55 PM 439,99 RON
 9/26/2020 8:07:02 PM 439,99 RON
+10/6/2020 12:22:18 PM 439,99 RON

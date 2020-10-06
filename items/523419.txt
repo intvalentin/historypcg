@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00033
 523419
     Product link    
 https://www.pcgarage.ro/casti/plantronics/400-dsp-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/523419/thumbnails/over-head-400-dsp-black-
 9/22/2020 4:11:10 PM 303,98 RON
 9/26/2020 5:12:20 PM 303,98 RON
 9/27/2020 9:16:08 PM 303,98 RON
+10/6/2020 8:59:42 PM 303,98 RON

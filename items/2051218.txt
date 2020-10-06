@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r813486
 2051218
     Product link    
 https://www.pcgarage.ro/accesorii-retea/rm/r813486-patch-panel/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2051218/thumbnails/r813486-patch-panel-
 9/22/2020 1:32:07 PM 199,70 RON
 9/26/2020 3:39:49 PM 200,28 RON
 9/27/2020 7:51:17 PM 200,40 RON
+10/6/2020 9:35:14 AM 200,26 RON

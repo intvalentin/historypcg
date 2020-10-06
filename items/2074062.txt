@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll161101
 2074062
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tellur/apollo-black-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4525/2074062/thumbnails/apollo-black-2c480e5
 9/22/2020 5:12:02 PM 247,95 RON
 9/26/2020 5:54:41 PM 248,80 RON
 9/28/2020 8:03:53 AM 248,80 RON
+10/6/2020 10:54:07 PM 248,76 RON

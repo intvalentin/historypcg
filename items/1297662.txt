@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1034u
 1297662
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-1m-red-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/812812/1297662/thumbnails/cat5e-patch-cable-
 9/22/2020 2:26:54 PM 10,70 RON
 9/26/2020 4:01:21 PM 10,73 RON
 9/27/2020 8:12:56 PM 10,73 RON
+10/6/2020 11:19:20 AM 10,72 RON

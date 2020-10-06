@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bt100
 1819300
     Product link    
 https://www.pcgarage.ro/casti-in-ear/scosche/bt100-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/753/1819300/thumbnails/bt100-black-525207e3d
 9/22/2020 4:23:49 PM 105,98 RON
 9/26/2020 5:25:01 PM 105,98 RON
 9/27/2020 9:23:26 PM 105,98 RON
+10/6/2020 11:30:11 PM 105,98 RON

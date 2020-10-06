@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc643ee
 54219
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-300-3-culori/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/54219/thumbnails/300-ink-cartridge-color-f
 9/22/2020 8:51:50 AM 107,98 RON
 9/26/2020 12:12:06 PM 109,98 RON
 9/27/2020 3:46:48 PM 107,98 RON
+10/6/2020 2:35:20 PM 107,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uc-patch-rj45-bl
 2040030
     Product link    
 https://www.pcgarage.ro/cabluri-retea/ubiquiti-networks/cat6-patch-cable-uc-022m-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2034042/2040030/thumbnails/cat6-patch-cable-
 9/22/2020 2:52:47 PM 27,01 RON
 9/26/2020 3:47:59 PM 27,42 RON
 9/27/2020 7:58:45 PM 27,42 RON
+10/6/2020 2:15:41 PM 27,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2057s
 1252981
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-2m-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025741/1252981/thumbnails/cat6-patch-cable-
 9/22/2020 1:41:47 PM 10,06 RON
 9/26/2020 4:19:40 PM 10,09 RON
 9/27/2020 8:23:18 PM 10,09 RON
+10/6/2020 11:08:14 AM 10,08 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c1q41a
 2050138
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-773c-light-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/2045418/2050138/thumbnails/cartus-773c-light
 9/22/2020 9:16:11 AM 971,98 RON
 9/26/2020 11:49:08 AM 975,98 RON
 9/27/2020 3:12:39 PM 975,98 RON
+10/6/2020 5:03:16 PM 973,98 RON

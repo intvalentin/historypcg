@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf360x
 1041247
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-508x-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/2/1041247/thumbnails/toner-508x-black-6b75c3
 9/22/2020 9:19:25 AM 1.113,98 RON
 9/26/2020 12:01:00 PM 1.125,98 RON
 9/27/2020 3:35:37 PM 1.125,98 RON
+10/6/2020 5:28:39 PM 1.123,98 RON

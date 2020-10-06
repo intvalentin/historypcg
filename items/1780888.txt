@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc533ac
 1780888
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-304a-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1779504/1780888/thumbnails/toner-304a-magent
 9/22/2020 9:11:54 AM 645,98 RON
 9/26/2020 11:57:17 AM 647,98 RON
 9/27/2020 3:31:36 PM 645,98 RON
+10/6/2020 4:35:26 PM 647,98 RON

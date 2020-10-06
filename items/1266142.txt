@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2066u
 1266142
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-3m-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1173769/1266142/thumbnails/econline-cat6-pat
 9/22/2020 1:37:28 PM 14,99 RON
 9/26/2020 3:45:02 PM 14,99 RON
 9/27/2020 7:56:31 PM 14,99 RON
+10/6/2020 10:35:59 AM 14,99 RON

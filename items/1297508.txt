@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1087u
 1297508
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-75m-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1297508/thumbnails/cat5e-patch-cable-
 9/22/2020 1:37:28 PM 8,39 RON
 9/26/2020 3:45:02 PM 8,39 RON
 9/27/2020 7:56:31 PM 8,39 RON
+10/6/2020 10:33:28 AM 8,39 RON

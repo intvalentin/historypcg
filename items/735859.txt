@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5503-681
 735859
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/alimentator-ps-k-t-c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/735859/thumbnails/alimentator-ps-k-t-
 9/22/2020 3:43:37 PM 228,94 RON
 9/26/2020 4:53:10 PM 229,59 RON
 9/27/2020 8:56:46 PM 229,74 RON
+10/6/2020 7:49:26 PM 229,47 RON

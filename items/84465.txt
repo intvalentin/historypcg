@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ib201sp
 84465
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/kguard/box-ip-cam-ib201sp/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/84465/thumbnails/box-ip-cam-ib201sp-08c1d4
 9/22/2020 3:29:36 PM 472,14 RON
 9/26/2020 4:46:29 PM 479,67 RON
 9/27/2020 8:50:07 PM 479,57 RON
+10/6/2020 6:22:24 PM 474,31 RON

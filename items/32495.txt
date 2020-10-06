@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0891b001aa
 32495
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-101-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/32495/thumbnails/toner-albastru-pfi-101-8e
 9/21/2020 6:13:52 PM 227,98 RON
 9/26/2020 11:23:09 AM 227,98 RON
 9/27/2020 2:44:47 PM 227,98 RON
+10/6/2020 8:03:49 AM 317,98 RON

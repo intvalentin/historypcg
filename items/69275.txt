@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb382a
 69275
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cb382a-yellow/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/69275/thumbnails/color-laserjet-cb382a-yel
 9/22/2020 9:24:46 AM 1.899,98 RON
 9/26/2020 12:06:58 PM 1.907,98 RON
 9/27/2020 3:42:02 PM 1.907,98 RON
+10/6/2020 6:04:42 PM 1.907,98 RON

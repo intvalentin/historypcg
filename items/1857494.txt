@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39613negru
 1857494
     Product link    
 https://www.pcgarage.ro/casti/jbl/e35-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1848722/1857494/thumbnails/e35-black-1ba6328
 9/22/2020 4:03:37 PM 411,98 RON
 9/26/2020 5:07:52 PM 411,98 RON
 9/27/2020 9:11:39 PM 411,98 RON
+10/6/2020 10:26:34 PM 411,98 RON

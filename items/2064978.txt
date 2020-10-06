@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201211075
 2064978
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/ipl-silk-expert-pro-3-pl3011/
@@ -8,3 +8,4 @@ Braun IPL Silk-Expert Pro 3 PL3011
 https://5.grgs.ro/images/products/1/4917/2064978/thumbnails/ipl-silk-expert-pro-3-pl3011-6114a30a52addf2fa315c5382d38fc7b.jpg
     Pret    
 9/26/2020 8:12:20 PM 1.119,98 RON
+10/6/2020 1:08:28 PM 1.119,98 RON

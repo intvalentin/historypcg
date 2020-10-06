@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |356.174
 2061702
     Product link    
 https://www.pcgarage.ro/accesorii-ups/bachmann/cablu-adaptor-ups-iec-c19-iec-c20-16a-2m-negru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1868718/2061702/thumbnails/cablu-iec-c19-mal
 9/22/2020 1:24:34 PM 61,54 RON
 9/26/2020 3:36:10 PM 61,54 RON
 9/27/2020 7:47:33 PM 61,54 RON
+10/6/2020 8:49:54 AM 61,54 RON

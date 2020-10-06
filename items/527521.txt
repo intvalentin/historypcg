@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4541b006aa
 527521
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-526-3-culori/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/527521/thumbnails/canon-cli-526-3-culori-5
 9/21/2020 5:54:14 PM 183,98 RON
 9/26/2020 11:10:38 AM 185,98 RON
 9/27/2020 2:43:12 PM 165,98 RON
+10/6/2020 9:23:58 AM 165,98 RON

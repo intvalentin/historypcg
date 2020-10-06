@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |div-macc-b
 1819248
     Product link    
 https://www.pcgarage.ro/boxe-portabile/divoom/macchiato-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/753/1819248/thumbnails/macchiato-black-ef1b7
 9/22/2020 5:12:02 PM 232,75 RON
 9/26/2020 6:00:38 PM 232,75 RON
 9/28/2020 8:09:06 AM 232,75 RON
+10/6/2020 10:50:56 PM 232,75 RON

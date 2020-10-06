@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00052
 287653
     Product link    
 https://www.pcgarage.ro/casti/plantronics/audio-628/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/287653/thumbnails/audio-628-22b72f91bb0750
 9/22/2020 4:02:33 PM 191,98 RON
 9/26/2020 5:13:05 PM 191,98 RON
 9/27/2020 9:16:52 PM 191,98 RON
+10/6/2020 10:17:14 PM 191,98 RON

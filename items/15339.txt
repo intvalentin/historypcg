@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0260b002aa
 15339
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-17-magenta/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3/15339/thumbnails/toner-c-exv17-purpuriu-pe
     Pret    
 9/26/2020 11:25:23 AM 771,98 RON
 9/27/2020 2:47:10 PM 771,98 RON
+10/6/2020 10:39:54 AM 769,98 RON

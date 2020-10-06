@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |az127+-+12
 2016410
     Product link    
 https://www.pcgarage.ro/multimedia/philips/az127-microsistem-audio/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2013982/2016410/thumbnails/az127-microsistem
     Pret    
 9/22/2020 6:17:13 PM 299,99 RON
 9/26/2020 7:29:08 PM 431,36 RON
+10/6/2020 7:54:54 AM 431,36 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sh-401
 1583350
     Product link    
 https://www.pcgarage.ro/casti/somic/sh-401-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469770/1583350/thumbnails/sh-401-black-a79b
 9/22/2020 4:04:42 PM 19,98 RON
 9/26/2020 5:08:37 PM 19,98 RON
 9/27/2020 9:12:23 PM 19,98 RON
+10/6/2020 9:42:43 PM 19,98 RON

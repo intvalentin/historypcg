@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uf-sm-1g-s
 1851710
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/u-fiber-single-mode-sfp-2-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848774/1851710/thumbnails/u-fiber-single-mo
 9/22/2020 1:35:21 PM 145,13 RON
 9/26/2020 3:43:31 PM 145,13 RON
 9/27/2020 7:55:03 PM 145,13 RON
+10/6/2020 10:22:56 AM 145,13 RON

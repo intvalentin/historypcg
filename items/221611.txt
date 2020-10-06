@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smx1000i
 221611
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-x-1000va-rack-tower-lcd-230v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/221611/thumbnails/smart-ups-x-1000va-rack-
 9/22/2020 1:00:49 PM 3.356,26 RON
 9/26/2020 3:32:23 PM 3.455,96 RON
 9/27/2020 7:43:46 PM 3.457,96 RON
+10/6/2020 8:00:10 AM 3.455,69 RON

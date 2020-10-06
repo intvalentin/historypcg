@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-28-2
 241789
     Product link    
 https://www.pcgarage.ro/casti/a4tech/hs-28-silver-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/241789/thumbnails/hs-28-silver-black-209cb
 9/22/2020 4:05:46 PM 39,98 RON
 9/26/2020 5:13:05 PM 39,98 RON
 9/27/2020 9:16:52 PM 39,98 RON
+10/6/2020 9:49:01 PM 39,98 RON

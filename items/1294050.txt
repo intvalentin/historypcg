@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3088s
 1294050
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-75m-orange/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1113903/1294050/thumbnails/primeline-cat6a-p
 9/22/2020 2:20:27 PM 47,52 RON
 9/26/2020 4:04:20 PM 47,69 RON
 9/27/2020 8:16:00 PM 47,69 RON
+10/6/2020 2:39:07 PM 47,63 RON

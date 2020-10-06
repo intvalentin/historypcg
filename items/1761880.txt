@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcs-5030l
 1761880
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/dcs-5050l-238mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1153/1761880/thumbnails/dcs-5050l-238mm-8f9e
 9/22/2020 3:37:10 PM 380,25 RON
 9/26/2020 4:50:12 PM 381,35 RON
 9/27/2020 8:53:49 PM 381,56 RON
+10/6/2020 7:05:18 PM 523,63 RON

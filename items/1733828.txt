@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-1m-y
 1733828
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-1m-yellow-3/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1728700/1733828/thumbnails/cat5e-patch-cable
 9/22/2020 2:22:36 PM 7,36 RON
 9/26/2020 3:53:10 PM 7,47 RON
 9/27/2020 8:04:45 PM 7,47 RON
+10/6/2020 10:47:59 AM 7,39 RON

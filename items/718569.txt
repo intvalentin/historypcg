@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hksb-3000
 718569
     Product link    
 https://www.pcgarage.ro/cantare-de-bucatarie/heinner/quick-3000/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1664860/718569/thumbnails/quick-3000-37b6b45
     Pret    
 9/22/2020 7:30:06 PM 33,12 RON
 9/26/2020 9:07:55 PM 33,12 RON
+10/6/2020 7:36:06 PM 33,12 RON

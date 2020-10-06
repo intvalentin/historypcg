@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3064s
 1293875
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-3m-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1146523/1293875/thumbnails/primeline-cat6a-p
 9/22/2020 2:46:20 PM 25,66 RON
 9/26/2020 4:05:05 PM 25,42 RON
 9/27/2020 8:16:45 PM 25,42 RON
+10/6/2020 2:12:46 PM 25,66 RON

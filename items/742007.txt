@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s050591
 742007
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-s050591-magenta/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/742007/thumbnails/toner-s050591-magenta-44
 9/21/2020 8:54:58 PM 1.077,98 RON
 9/26/2020 11:36:31 AM 1.081,98 RON
 9/27/2020 2:59:07 PM 1.081,98 RON
+10/6/2020 1:58:41 PM 1.081,98 RON

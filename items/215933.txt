@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce263a
 215933
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce263a-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/215933/thumbnails/magenta-print-cartridge-
 9/22/2020 9:22:40 AM 1.545,98 RON
 9/26/2020 12:06:13 PM 1.551,98 RON
 9/27/2020 3:41:13 PM 1.551,98 RON
+10/6/2020 5:53:12 PM 1.551,98 RON

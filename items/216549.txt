@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2575b002ba
 216549
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-717-yellow/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/216549/thumbnails/crg-717y-yellow-toner-ca
     Pret    
 9/26/2020 11:23:09 AM 639,98 RON
 9/27/2020 2:44:47 PM 639,98 RON
+10/6/2020 10:28:26 AM 639,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9px1500irtn
 1705020
     Product link    
 https://www.pcgarage.ro/ups/eaton/9px-1500va-2u-lcd-rt2u-with-network-card/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1705020/thumbnails/9px-1000va-2u-lcd
 9/22/2020 1:02:58 PM 7.345,34 RON
 9/26/2020 3:27:13 PM 7.345,34 RON
 9/27/2020 7:38:35 PM 7.345,34 RON
+10/6/2020 8:09:58 AM 7.345,34 RON

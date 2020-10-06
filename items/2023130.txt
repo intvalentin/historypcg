@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-cv246-a0-1c2wfr
 2023130
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ezviz/cs-cv246-1c2-4mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/2023130/thumbnails/vs-cv246-3b1-4mm-
 9/22/2020 3:26:22 PM 223,08 RON
 9/26/2020 4:40:31 PM 223,71 RON
 9/27/2020 8:44:13 PM 223,84 RON
+10/6/2020 6:10:56 PM 323,51 RON

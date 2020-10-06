@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9456a
 32369
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-70-red/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/32369/thumbnails/70-red-ink-cartridge-with
 9/22/2020 9:08:45 AM 393,98 RON
 9/26/2020 12:10:37 PM 395,98 RON
 9/27/2020 3:45:13 PM 393,98 RON
+10/6/2020 3:41:21 PM 393,98 RON

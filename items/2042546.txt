@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq8092s
 2042546
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat81-patch-cable-s-ftp-10m-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2042546/thumbnails/cat81-patch-cable-s-
 9/22/2020 2:50:38 PM 142,80 RON
 9/26/2020 3:47:16 PM 143,29 RON
 9/27/2020 7:58:45 PM 143,29 RON
+10/6/2020 3:12:43 PM 143,13 RON

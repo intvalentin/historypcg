@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ipda1.3mpx
 1990710
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/pni/da13mpx-36mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/1990710/thumbnails/da13mpx-25mm-6f89
 9/22/2020 3:28:31 PM 320,11 RON
 9/26/2020 4:42:01 PM 320,11 RON
 9/27/2020 8:45:42 PM 320,11 RON
+10/6/2020 6:09:40 PM 320,11 RON

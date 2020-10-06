@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c319e
 1126808
     Product link    
 https://www.pcgarage.ro/ondulatoare-de-par/babyliss/pro-180-small/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1358815/1126808/thumbnails/1pro-180-small-b3
     Pret    
 9/22/2020 6:58:16 PM 84,49 RON
 9/26/2020 8:14:35 PM 84,49 RON
+10/6/2020 1:10:36 PM 84,49 RON

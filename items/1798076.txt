@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pulsemini2iblack
 1798076
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bluesound/pulse-mini-2i-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6361/1798076/thumbnails/pulse-mini-black-d3d
 9/22/2020 5:16:21 PM 2.346,01 RON
 9/26/2020 6:00:38 PM 2.346,01 RON
 9/28/2020 8:09:51 AM 2.346,01 RON
+10/6/2020 11:21:05 PM 2.346,01 RON

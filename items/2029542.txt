@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-100739
 2029542
     Product link    
 https://www.pcgarage.ro/biciclete-fitness/nautilus/bicicleta-exercitii-u626/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8840/2029542/thumbnails/bicicleta-exercitii-
     Pret    
 9/22/2020 7:50:31 PM 3.299,00 RON
 9/26/2020 9:31:10 PM 3.299,00 RON
+10/6/2020 10:22:35 PM 3.499,00 RON

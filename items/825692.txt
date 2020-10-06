@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nd-233e
 825692
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/edimax/edimax-5-3mpx-varifocal-poe-true-day-amp-night-dome-network-ip-camera-onvif/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/825692/thumbnails/nd-233e-117fac99ab7
 9/22/2020 3:40:24 PM 2.609,39 RON
 9/26/2020 4:50:57 PM 2.609,39 RON
 9/27/2020 8:54:34 PM 2.609,39 RON
+10/6/2020 7:34:28 PM 2.609,39 RON

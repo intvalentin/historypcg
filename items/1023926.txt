@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce411l
 1023926
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/305l-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/750014/1023926/thumbnails/ce411l-cyan-032e58
 9/22/2020 9:28:58 AM 327,98 RON
 9/26/2020 12:22:01 PM 329,98 RON
 9/27/2020 3:52:20 PM 329,98 RON
+10/6/2020 6:43:25 PM 329,98 RON

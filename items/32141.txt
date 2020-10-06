@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c5073a
 32141
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-83-uv-cyan-triple-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/32141/thumbnails/83-uv-cyan-ink-cartridge-
 9/21/2020 10:27:15 PM 3.793,98 RON
 9/26/2020 12:24:15 PM 3.807,98 RON
 9/27/2020 3:54:34 PM 3.807,98 RON
+10/6/2020 8:11:54 PM 3.805,98 RON

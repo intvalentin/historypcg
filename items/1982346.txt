@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.42332black
 1982346
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/hd-350bt-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1979534/1982346/thumbnails/hd-350bt-black-02
 9/22/2020 3:47:50 PM 469,98 RON
 9/26/2020 4:58:58 PM 469,98 RON
 9/27/2020 9:02:39 PM 469,98 RON
+10/6/2020 9:12:03 PM 469,98 RON

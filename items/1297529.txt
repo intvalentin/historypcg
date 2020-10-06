@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1016u
 1297529
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-025m-blue-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/798262/1297529/thumbnails/cat5e-patch-cable-
 9/22/2020 2:22:36 PM 8,21 RON
 9/26/2020 4:01:21 PM 8,21 RON
 9/27/2020 8:12:56 PM 8,21 RON
+10/6/2020 10:51:20 AM 8,21 RON

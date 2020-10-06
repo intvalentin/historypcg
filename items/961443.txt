@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a500
 961443
     Product link    
 https://www.pcgarage.ro/casti/somic/over-head-a500/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862955/961443/thumbnails/over-head-a500-6112
 9/22/2020 4:05:47 PM 44,99 RON
 9/26/2020 5:11:36 PM 44,99 RON
 9/27/2020 9:15:23 PM 44,99 RON
+10/6/2020 9:53:57 PM 44,99 RON

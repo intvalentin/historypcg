@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dem-311gt
 43559
     Product link    
 https://www.pcgarage.ro/accesorii-retea/d-link/dem-311gt/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/43559/thumbnails/dem-311gt.jpg
 9/22/2020 1:32:07 PM 255,10 RON
 9/26/2020 3:42:02 PM 255,84 RON
 9/27/2020 7:53:30 PM 256,00 RON
+10/6/2020 9:36:01 AM 255,83 RON

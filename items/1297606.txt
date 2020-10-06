@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1066u
 1297606
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-3m-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/798262/1297606/thumbnails/cat5e-patch-cable-
 9/22/2020 1:39:37 PM 16,48 RON
 9/26/2020 4:33:05 PM 16,53 RON
 9/27/2020 8:36:46 PM 16,53 RON
+10/6/2020 12:55:31 PM 16,54 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce250xd
 738055
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-504x-black-twin-pack/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/472405/738055/thumbnails/toner-504x-black-tw
 9/22/2020 9:37:23 AM 1.729,98 RON
 9/26/2020 12:22:01 PM 1.735,98 RON
 9/27/2020 3:52:20 PM 1.735,98 RON
+10/6/2020 7:54:48 PM 1.735,98 RON

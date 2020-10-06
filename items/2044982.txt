@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pr2000
 2044982
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/ufesa/gratar-electric-pr2000/
@@ -8,3 +8,4 @@ Ufesa Gratar electric PR2000
 https://1.grgs.ro/images/products/1/1034/2044982/thumbnails/gratar-electric-pr2000-2f9e2aa87ea542266a9e5e06049d5136.jpg
     Pret    
 9/26/2020 9:00:26 PM 293,98 RON
+10/6/2020 6:51:26 PM 293,98 RON

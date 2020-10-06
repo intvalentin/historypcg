@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo11
 1881578
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo-11-20-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5634/1881578/thumbnails/solo-11-20-black-28a
 9/22/2020 5:01:18 PM 657,98 RON
 9/26/2020 5:47:17 PM 667,98 RON
 9/28/2020 7:56:28 AM 667,98 RON
+10/6/2020 9:49:19 PM 659,98 RON

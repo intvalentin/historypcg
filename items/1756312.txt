@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1249c002aa
 1756312
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-crg046c-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1749840/1756312/thumbnails/toner-crg046c-cya
 9/21/2020 6:33:04 PM 479,98 RON
 9/26/2020 11:06:11 AM 479,98 RON
 9/27/2020 2:27:17 PM 479,98 RON
+10/6/2020 8:23:54 AM 479,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce311a
 246659
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-126a-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4/246659/thumbnails/126a-cyan-laserjet-toner
 9/22/2020 8:58:15 AM 305,98 RON
 9/26/2020 12:04:43 PM 303,98 RON
 9/27/2020 3:39:38 PM 307,98 RON
+10/6/2020 3:22:43 PM 303,98 RON

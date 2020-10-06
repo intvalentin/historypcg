@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1066s
 1287114
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-3m-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1025741/1287114/thumbnails/cat5e-patch-cable
 9/22/2020 2:45:15 PM 23,68 RON
 9/26/2020 4:16:41 PM 23,09 RON
 9/27/2020 8:18:59 PM 23,09 RON
+10/6/2020 2:01:36 PM 23,68 RON

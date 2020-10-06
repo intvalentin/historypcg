@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1102d
 2042990
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-s-ftp-15m-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1034/2042990/thumbnails/cat5e-patch-cable-s-
 9/22/2020 2:20:27 PM 36,54 RON
 9/26/2020 3:46:30 PM 36,66 RON
 9/27/2020 7:58:01 PM 36,66 RON
+10/6/2020 2:29:50 PM 36,62 RON

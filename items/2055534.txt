@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pht14196
 2055534
     Product link    
 https://www.pcgarage.ro/boxe/google/nest-mini-2nd-gen-charchoal/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2055534/thumbnails/nest-mini-2nd-gen-ch
 9/22/2020 4:46:16 PM 179,98 RON
 9/26/2020 5:46:33 PM 181,98 RON
 9/28/2020 7:55:43 AM 181,98 RON
+10/6/2020 8:25:08 PM 179,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |244773
 1980162
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tronsmart/element-splash-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1980162/thumbnails/element-splash-bla
 9/22/2020 5:04:29 PM 58,99 RON
 9/26/2020 5:56:55 PM 80,48 RON
 9/28/2020 8:06:07 AM 80,48 RON
+10/6/2020 10:16:54 PM 81,05 RON

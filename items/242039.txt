@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce322a
 242039
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-128a-yellow/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/4/242039/thumbnails/128a-yellow-print-cartri
 9/22/2020 9:07:43 AM 361,98 RON
 9/26/2020 12:05:28 PM 361,98 RON
 9/27/2020 3:40:25 PM 361,98 RON
+10/6/2020 3:31:20 PM 359,98 RON

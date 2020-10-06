@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-7104huhi-k1
 1892510
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/ds-7104huhi-k1-4-canale/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1275/1892510/thumbnails/ds-7104huhi-k1-4-can
 9/22/2020 3:09:57 PM 515,10 RON
 9/26/2020 4:38:16 PM 516,57 RON
 9/27/2020 8:41:57 PM 516,87 RON
+10/6/2020 5:30:38 PM 516,29 RON

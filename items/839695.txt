@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310007
 839695
     Product link    
 https://www.pcgarage.ro/ups/legrand/niky-s-2000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/480523/839695/thumbnails/niky-s-2000va-ffc16
 9/22/2020 12:59:44 PM 1.891,15 RON
 9/26/2020 3:30:11 PM 1.896,18 RON
 9/27/2020 7:41:34 PM 1.896,18 RON
+10/6/2020 7:53:11 AM 1.892,80 RON

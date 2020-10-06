@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |981-000338
 287555
     Product link    
 https://www.pcgarage.ro/casti/logitech/h800/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/287555/thumbnails/h800-44bfc64133f431677d9
 9/22/2020 3:58:21 PM 485,98 RON
 9/26/2020 5:06:23 PM 485,98 RON
 9/27/2020 9:10:07 PM 485,98 RON
+10/6/2020 9:13:42 PM 485,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |acmp-12a
 1635855
     Product link    
 https://www.pcgarage.ro/aer-conditionat/star-light/acmp-12a-12000-btu/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1630882/1635855/thumbnails/acmp-12a-12000-bt
     Pret    
 9/22/2020 6:18:58 PM 1.099,99 RON
 9/26/2020 7:34:21 PM 1.099,99 RON
+10/6/2020 8:04:16 AM 999,99 RON

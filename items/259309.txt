@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0341-001
 259309
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m1114/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/259309/thumbnails/m1114-8857ee0dcf2c5338b8
 9/22/2020 3:40:24 PM 2.858,89 RON
 9/26/2020 4:52:24 PM 2.867,08 RON
 9/27/2020 8:56:00 PM 2.868,72 RON
+10/6/2020 7:35:34 PM 2.865,49 RON

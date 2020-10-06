@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2802b002aa
 635559
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-29-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/635559/thumbnails/toner-c-exv-29-yellow-37
 9/21/2020 6:33:04 PM 515,98 RON
 9/26/2020 11:10:38 AM 517,98 RON
 9/27/2020 2:32:03 PM 517,98 RON
+10/6/2020 8:24:59 AM 517,98 RON

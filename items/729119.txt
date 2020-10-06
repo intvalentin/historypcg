@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6689b001aa
 729119
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-706-blue/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2/729119/thumbnails/cartus-pfi-706-blue-8839
     Pret    
 9/26/2020 11:20:56 AM 1.275,98 RON
 9/27/2020 2:42:21 PM 1.275,98 RON
+10/6/2020 11:00:39 AM 1.273,98 RON

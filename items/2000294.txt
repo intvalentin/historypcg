@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b223-m-28
 2000294
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b223-m-28mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/2000294/thumbnails/hiwatch-hwt-b223-
 9/22/2020 3:25:17 PM 140,10 RON
 9/26/2020 4:41:16 PM 140,50 RON
 9/27/2020 8:44:57 PM 140,59 RON
+10/6/2020 5:46:45 PM 140,42 RON

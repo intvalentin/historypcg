@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.41483alb
 1955734
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/pulse-4-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1953966/1955734/thumbnails/pulse-4-white-f37
 9/22/2020 5:15:17 PM 1.091,35 RON
 9/26/2020 5:56:55 PM 1.091,35 RON
 9/28/2020 8:06:07 AM 1.068,35 RON
+10/6/2020 11:14:44 PM 1.091,35 RON

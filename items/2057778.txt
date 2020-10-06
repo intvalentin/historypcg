@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |so1061
 2057778
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/concept/deshidrator-de-alimente-so1060/
@@ -8,3 +8,4 @@ Concept Deshidrator de alimente SO1060
 https://4.grgs.ro/images/products/1/7193/2057778/thumbnails/deshidrator-de-alimente-so1060-4a70148a88d80dc23fe6ee5d505cb21b.jpg
     Pret    
 9/26/2020 8:59:42 PM 209,98 RON
+10/6/2020 6:42:49 PM 209,98 RON

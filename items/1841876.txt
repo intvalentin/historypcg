@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2887c001aa
 1841876
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-120m-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6599/1841876/thumbnails/cartus-pfi-120m-mage
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:05:26 AM 295,98 RON
 9/27/2020 2:26:30 PM 295,98 RON
+10/6/2020 7:58:30 AM 295,98 RON

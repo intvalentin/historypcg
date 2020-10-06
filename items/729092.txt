@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6681b001aa
 729092
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-706-photo-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/472405/729092/thumbnails/cartus-pfi-706-phot
     Pret    
 9/26/2020 11:20:56 AM 1.275,98 RON
 9/27/2020 2:42:21 PM 1.275,98 RON
+10/6/2020 11:01:27 AM 1.273,98 RON

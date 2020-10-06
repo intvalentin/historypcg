@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01742-001
 1990306
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/tm3101-pendant-wall-mount/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1990306/thumbnails/tm3101-pendant-wal
 9/22/2020 3:43:37 PM 270,56 RON
 9/26/2020 4:53:09 PM 271,35 RON
 9/27/2020 8:56:45 PM 271,49 RON
+10/6/2020 7:47:31 PM 271,19 RON

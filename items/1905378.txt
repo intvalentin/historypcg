@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39131
 1905378
     Product link    
 https://www.pcgarage.ro/casti/meze/empyrean-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1905378/thumbnails/empyrean-black-cb
 9/22/2020 4:13:16 PM 16.797,98 RON
 9/26/2020 5:07:08 PM 16.797,98 RON
 9/27/2020 9:10:51 PM 16.797,98 RON
+10/6/2020 10:37:32 PM 16.797,98 RON

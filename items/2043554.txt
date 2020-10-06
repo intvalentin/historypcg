@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1084s
 2043554
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-75m-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/853128/2043554/thumbnails/cat5e-patch-cable-
 9/22/2020 2:18:18 PM 16,53 RON
 9/26/2020 3:45:46 PM 16,59 RON
 9/27/2020 7:57:16 PM 16,59 RON
+10/6/2020 12:57:10 PM 16,57 RON

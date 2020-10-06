@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0814c001aa
 1460038
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1300-yellow/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1358815/1460038/thumbnails/cartus-pfi-1300-y
     Pret    
 9/26/2020 11:07:40 AM 659,98 RON
 9/27/2020 2:28:53 PM 657,98 RON
+10/6/2020 8:42:01 AM 659,98 RON

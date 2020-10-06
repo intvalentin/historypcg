@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |upc-7004-so
 1133443
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat7-utp-unshielded-solid-305m-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/859765/1133443/thumbnails/cat7-utp-unshielde
 9/22/2020 2:52:47 PM 1.213,91 RON
 9/26/2020 4:21:08 PM 1.233,05 RON
 9/27/2020 8:24:48 PM 1.233,05 RON
+10/6/2020 5:16:52 PM 1.219,51 RON

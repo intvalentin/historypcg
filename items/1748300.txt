@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru22867
 1748300
     Product link    
 https://www.pcgarage.ro/boxe-portabile/trust/vigor-brown-timber/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1748300/thumbnails/vigor-brown-timbe
 9/22/2020 5:05:33 PM 174,08 RON
 9/26/2020 6:00:38 PM 174,08 RON
 9/28/2020 8:09:51 AM 174,08 RON
+10/6/2020 10:37:29 PM 174,08 RON

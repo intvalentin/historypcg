@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1035525
 2025806
     Product link    
 https://www.pcgarage.ro/boxe-portabile/urbanista/sydney-white-mist/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/9002/2025806/thumbnails/sydney-white-mist-1c
 9/22/2020 5:09:52 PM 156,00 RON
 9/26/2020 5:56:10 PM 156,00 RON
 9/28/2020 8:05:23 AM 156,00 RON
+10/6/2020 10:35:36 PM 156,00 RON

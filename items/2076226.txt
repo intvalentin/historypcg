@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bw-is3
 2076226
     Product link    
 https://www.pcgarage.ro/senzori-smart/blitzwolf/senzor-de-miscare-pir-bw-is3/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4525/2076226/thumbnails/senzor-de-miscare-pi
     Pret    
 9/22/2020 7:37:23 PM 124,19 RON
 9/26/2020 9:15:30 PM 124,19 RON
+10/6/2020 8:26:23 PM 124,19 RON

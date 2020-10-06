@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-001256
 1455458
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z625-21-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/960827/1455458/thumbnails/z625-21-black-8a52
 9/22/2020 4:47:20 PM 885,98 RON
 9/26/2020 5:45:04 PM 887,98 RON
 9/28/2020 7:54:15 AM 887,98 RON
+10/6/2020 8:46:07 PM 803,98 RON

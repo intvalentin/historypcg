@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2932b009aa
 527523
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-520-black-twin-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/527523/thumbnails/toner-pgi-520-black-twin
 9/21/2020 7:23:12 PM 115,98 RON
 9/26/2020 11:21:40 AM 117,98 RON
 9/27/2020 2:43:11 PM 117,98 RON
+10/6/2020 9:19:55 AM 117,98 RON

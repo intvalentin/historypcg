@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3627c001aa
 2029070
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-059-h-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8840/2029070/thumbnails/toner-059-h-black-00
     Pret    
 9/26/2020 11:17:57 AM 1.051,98 RON
 9/27/2020 2:38:22 PM 1.049,98 RON
+10/6/2020 10:48:35 AM 1.051,98 RON

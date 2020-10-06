@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll161061
 1691948
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tellur/electra-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1691840/1691948/thumbnails/electra-black-f21
 9/22/2020 5:05:33 PM 93,66 RON
 9/26/2020 6:02:07 PM 93,98 RON
 9/28/2020 8:10:36 AM 93,98 RON
+10/6/2020 10:19:22 PM 93,96 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a5+b-230v-eu
 1651932
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/a5-plus-20-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1649828/1651932/thumbnails/a5-plus-black-e03
 9/22/2020 5:02:23 PM 1.839,98 RON
 9/26/2020 5:48:47 PM 1.839,98 RON
 9/28/2020 7:57:57 AM 1.839,98 RON
+10/6/2020 10:01:17 PM 1.839,98 RON

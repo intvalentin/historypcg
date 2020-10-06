@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s050663
 742053
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-s050663-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/742053/thumbnails/toner-s050663-black-6ec6
 9/21/2020 7:34:02 PM 1.051,98 RON
 9/26/2020 11:32:48 AM 1.053,98 RON
 9/27/2020 2:55:07 PM 1.055,98 RON
+10/6/2020 11:57:36 AM 1.053,98 RON

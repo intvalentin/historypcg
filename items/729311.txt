@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5304b001aa
 729311
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-206-cyan/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/634551/729311/thumbnails/cartus-pfi-206-cyan
     Pret    
 9/26/2020 11:20:56 AM 645,98 RON
 9/27/2020 2:42:21 PM 645,98 RON
+10/6/2020 10:30:47 AM 645,98 RON

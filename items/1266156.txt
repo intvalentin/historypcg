@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2086u
 1266156
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-75m-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1173769/1266156/thumbnails/econline-cat6-pat
 9/22/2020 2:38:46 PM 18,38 RON
 9/26/2020 4:18:10 PM 18,45 RON
 9/27/2020 8:21:49 PM 18,45 RON
+10/6/2020 1:13:16 PM 18,43 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ipc-hdw1230s-28
 1905170
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/ipc-hdw1230s-28mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1899326/1905170/thumbnails/ipc-hdw1230s-28mm
 9/22/2020 3:25:17 PM 175,18 RON
 9/26/2020 4:44:15 PM 161,72 RON
 9/27/2020 8:47:54 PM 161,72 RON
+10/6/2020 5:50:14 PM 175,75 RON

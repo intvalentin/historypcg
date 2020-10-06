@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs64us-at
 827658
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs64us/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/827658/thumbnails/cs64us-5fc9f2fc64a5
 9/22/2020 3:46:47 PM 309,28 RON
 9/26/2020 4:55:18 PM 310,16 RON
 9/27/2020 8:58:55 PM 310,35 RON
+10/6/2020 8:00:58 PM 309,99 RON

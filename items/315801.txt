@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |~3761
 315801
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cablu-utp-pp12-2m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/315801/thumbnails/cablu-utp-pp12-2m-a8e1a5
 9/22/2020 1:38:33 PM 9,99 RON
 9/26/2020 4:24:07 PM 9,99 RON
 9/27/2020 8:27:47 PM 9,99 RON
+10/6/2020 11:15:00 AM 10,60 RON

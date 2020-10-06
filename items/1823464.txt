@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f9k16a
 1823464
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-728-300ml-magenta/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1821372/1823464/thumbnails/cartus-728-300ml-
 9/22/2020 9:17:16 AM 1.011,98 RON
 9/26/2020 11:56:34 AM 1.015,98 RON
 9/27/2020 3:20:34 PM 1.005,98 RON
+10/6/2020 5:17:15 PM 1.015,98 RON

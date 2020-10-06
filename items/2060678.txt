@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce100-a7-g
 2060678
     Product link    
 https://www.pcgarage.ro/kvm/aten/ce100-a7-g-vga-cat5-mini-extender/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2060678/thumbnails/ce100-a7-g-vga-cat5-
 9/22/2020 3:45:44 PM 631,42 RON
 9/26/2020 4:54:35 PM 633,59 RON
 9/27/2020 8:58:12 PM 633,59 RON
+10/6/2020 7:56:56 PM 633,49 RON

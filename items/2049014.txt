@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf126x-01
 2049014
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/barista-max-vcf126x-01/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2045418/2049014/thumbnails/barista-max-vcf12
     Pret    
 9/22/2020 7:07:07 PM 2.787,99 RON
 9/26/2020 8:22:43 PM 2.787,99 RON
+10/6/2020 3:03:59 PM 2.787,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce018a
 248645
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-771-magenta-plus-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4/248645/thumbnails/hp-771-magenta-yellow-de
 9/22/2020 9:15:07 AM 887,98 RON
 9/26/2020 12:05:28 PM 891,98 RON
 9/27/2020 3:40:25 PM 889,98 RON
+10/6/2020 4:56:51 PM 889,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds2cd7a26g0pizhs12
 2065122
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd7a26g0-p-izhs-28-12mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2065122/thumbnails/ds-2cd7a26g0-p-izhs-
 9/22/2020 3:41:29 PM 5.594,59 RON
 9/26/2020 4:46:29 PM 5.610,59 RON
 9/27/2020 8:50:07 PM 5.613,82 RON
+10/6/2020 7:42:37 PM 5.607,48 RON

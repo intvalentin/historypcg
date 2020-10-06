@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ip640
 1990666
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/pni/ip640-28-12mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1977958/1990666/thumbnails/ip640-28-12mm-dbb
 9/22/2020 3:38:15 PM 621,18 RON
 9/26/2020 4:47:58 PM 621,18 RON
 9/27/2020 8:51:36 PM 621,18 RON
+10/6/2020 7:08:20 PM 621,18 RON

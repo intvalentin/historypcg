@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n101.21efoo
 882310
     Product link    
 https://www.pcgarage.ro/cabluri-retea/nexans/cablu-retea-utp-cat-6-3m-orange/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/843505/882310/thumbnails/cablu-retea-utp-cat
 9/22/2020 2:20:27 PM 61,17 RON
 9/26/2020 4:24:07 PM 61,33 RON
 9/27/2020 8:27:47 PM 61,38 RON
+10/6/2020 2:44:03 PM 61,31 RON

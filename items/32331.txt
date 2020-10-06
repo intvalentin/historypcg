@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9425a
 32331
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-85-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/32331/thumbnails/85-cyan-ink-cartridge-wit
 9/22/2020 9:27:53 AM 227,98 RON
 9/26/2020 12:27:58 PM 227,98 RON
 9/27/2020 3:58:19 PM 227,98 RON
+10/6/2020 6:35:20 PM 227,98 RON

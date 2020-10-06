@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9391ae
 32271
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-88xl-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/2/32271/thumbnails/88xl-cyan-158bcd761c96876
 9/22/2020 9:27:53 AM 155,98 RON
 9/26/2020 12:28:40 PM 155,98 RON
 9/27/2020 3:59:01 PM 155,98 RON
+10/6/2020 6:29:32 PM 155,98 RON

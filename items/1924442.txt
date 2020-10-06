@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf303ac
 1924442
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cf303ac-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/6622/1924442/thumbnails/toner-cf303ac-magent
 9/22/2020 9:25:48 AM 2.629,98 RON
 9/26/2020 11:52:51 AM 2.639,98 RON
 9/27/2020 3:16:37 PM 2.639,98 RON
+10/6/2020 6:14:17 PM 2.635,98 RON

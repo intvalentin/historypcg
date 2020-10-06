@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpm-1000wh
 1988446
     Product link    
 https://www.pcgarage.ro/roboti-de-bucatarie/heinner/hpm-1000wh/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/370411/1988446/thumbnails/hpm-1000wh-6aace73
     Pret    
 9/22/2020 7:18:19 PM 449,99 RON
 9/26/2020 8:42:52 PM 653,98 RON
+10/6/2020 5:29:47 PM 653,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2963b003aa
 742339
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-703-black-triple-pack/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2/742339/thumbnails/cartus-pfi-703-black-tri
     Pret    
 9/26/2020 11:20:56 AM 3.031,98 RON
 9/27/2020 2:41:33 PM 3.031,98 RON
+10/6/2020 11:03:36 AM 3.027,98 RON

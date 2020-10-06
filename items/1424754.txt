@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l0s07ae
 1424754
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-973x-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1416562/1424754/thumbnails/cartus-973x-black
 9/22/2020 8:59:19 AM 571,98 RON
 9/26/2020 11:58:46 AM 573,98 RON
 9/27/2020 3:33:10 PM 573,98 RON
+10/6/2020 4:30:36 PM 589,98 RON

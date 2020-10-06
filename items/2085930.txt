@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1822618
 2085930
     Product link    
 https://www.pcgarage.ro/prize-inteligente/somfy/priza-inteligenta-io-230v-plug-play-tip-f/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3354/2085930/thumbnails/priza-inteligenta-io
     Pret    
 9/22/2020 7:35:44 PM 554,54 RON
 9/26/2020 9:13:11 PM 554,54 RON
+10/6/2020 8:16:34 PM 554,54 RON

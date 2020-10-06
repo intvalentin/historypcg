@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2045u
 1635723
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-15m-verde/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1635723/thumbnails/cat6-patch-cable-
 9/22/2020 2:42:01 PM 20,71 RON
 9/26/2020 4:30:04 PM 20,71 RON
 9/27/2020 8:33:47 PM 20,71 RON
+10/6/2020 4:24:56 PM 20,71 RON

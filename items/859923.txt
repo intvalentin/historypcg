@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srt10krmxli
 859923
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-10000va-rm-230v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/812812/859923/thumbnails/smart-ups-srt-10000
 9/22/2020 1:19:11 PM 36.743,76 RON
 9/26/2020 3:30:11 PM 33.143,80 RON
 9/27/2020 7:41:34 PM 33.162,85 RON
+10/6/2020 8:22:19 AM 33.141,08 RON

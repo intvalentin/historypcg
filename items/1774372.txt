@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.37683black
 1774372
     Product link    
 https://www.pcgarage.ro/casti/kef/m400-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1774300/1774372/thumbnails/m400-black-123c37
 9/22/2020 3:56:18 PM 247,98 RON
 9/26/2020 5:01:57 PM 247,98 RON
 9/27/2020 9:05:38 PM 247,98 RON
+10/6/2020 8:51:57 PM 247,98 RON

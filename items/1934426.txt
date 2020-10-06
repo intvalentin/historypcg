@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9824b001aa
 1934426
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-707y-yellow/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6811/1934426/thumbnails/cartus-pfi-707y-yell
     Pret    
 9/26/2020 11:18:42 AM 1.015,98 RON
 9/27/2020 2:39:57 PM 1.011,98 RON
+10/6/2020 10:46:15 AM 1.013,98 RON

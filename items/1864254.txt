@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39841black
 1864254
     Product link    
 https://www.pcgarage.ro/boxe-portabile/audioengine/512-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1864254/thumbnails/512-black-fadd3a2732
 9/22/2020 5:14:11 PM 643,09 RON
 9/26/2020 5:58:24 PM 643,09 RON
 9/28/2020 8:07:37 AM 643,09 RON
+10/6/2020 11:08:54 PM 643,09 RON

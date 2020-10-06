@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf281x
 1026236
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-81x-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/498497/1026236/thumbnails/toner-81x-black-f4
 9/22/2020 9:21:35 AM 1.501,98 RON
 9/26/2020 12:01:00 PM 1.507,98 RON
 9/27/2020 3:35:37 PM 1.507,98 RON
+10/6/2020 5:50:17 PM 1.507,98 RON

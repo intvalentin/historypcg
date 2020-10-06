@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c250x
 305643
     Product link    
 https://www.pcgarage.ro/storcatoare/heinner/citrus-250/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1025741/305643/thumbnails/citrus-250-8031fb2
     Pret    
 9/22/2020 7:17:08 PM 37,35 RON
 9/26/2020 8:40:38 PM 37,35 RON
+10/6/2020 5:02:19 PM 37,35 RON

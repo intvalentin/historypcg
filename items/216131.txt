@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch562ee
 216131
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-301-3-culori/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3/216131/thumbnails/301-tri-colour-ink-cartr
 9/22/2020 8:56:07 AM 97,98 RON
 9/26/2020 12:06:13 PM 97,98 RON
 9/27/2020 3:41:13 PM 97,98 RON
+10/6/2020 2:32:33 PM 97,98 RON

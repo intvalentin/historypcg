@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2221b001aa
 47819
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-702-grey/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2/47819/thumbnails/cartus-pfi-702-grey-8c595
     Pret    
 9/26/2020 11:11:22 AM 1.299,98 RON
 9/27/2020 2:32:51 PM 1.295,98 RON
+10/6/2020 10:57:45 AM 1.271,98 RON

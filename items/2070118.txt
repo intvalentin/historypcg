@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-pvcmat1
 2070118
     Product link    
 https://www.pcgarage.ro/accesorii-fitness/techfit/covor-protectie/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/4273/2070118/thumbnails/covor-protectie-f7b8
     Pret    
 9/22/2020 7:45:56 PM 99,00 RON
 9/26/2020 9:23:40 PM 99,00 RON
+10/6/2020 9:39:15 PM 99,00 RON

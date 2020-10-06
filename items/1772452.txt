@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hbs-180bb
 1772452
     Product link    
 https://www.pcgarage.ro/cantare/heinner/bamboo-hbs-180bb/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5015/1772452/thumbnails/bamboo-hbs-180bb-ee0
     Pret    
 9/22/2020 6:38:41 PM 109,99 RON
 9/26/2020 7:59:31 PM 109,99 RON
+10/6/2020 11:06:58 AM 109,99 RON

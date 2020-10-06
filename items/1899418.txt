@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a3161g11
 1899418
     Product link    
 https://www.pcgarage.ro/boxe-portabile/anker/soundcore-flare-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1899326/1899418/thumbnails/soundcore-flare-b
 9/22/2020 5:12:01 PM 206,68 RON
 9/26/2020 5:57:40 PM 207,39 RON
 9/28/2020 8:06:52 AM 207,39 RON
+10/6/2020 10:48:43 PM 207,36 RON

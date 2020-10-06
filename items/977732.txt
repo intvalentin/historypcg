@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce56c2t-irm+-+2.8mm
 977732
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce56c2t-irm-28-mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/977732/thumbnails/ds-2ce56c2t-irm-28-mm-60
 9/22/2020 3:36:05 PM 222,65 RON
 9/26/2020 4:50:57 PM 226,22 RON
 9/27/2020 8:54:34 PM 226,17 RON
+10/6/2020 6:55:43 PM 223,68 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp0139
 1287709
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-flat-u-utp-10m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1287709/thumbnails/cat5e-patch-cable
 9/22/2020 3:00:21 PM 22,21 RON
 9/26/2020 4:33:05 PM 21,97 RON
 9/27/2020 8:36:46 PM 21,97 RON
+10/6/2020 4:27:04 PM 22,21 RON

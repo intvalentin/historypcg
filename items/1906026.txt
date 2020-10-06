@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6625a
 1906026
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-17-tri-color/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/8629/1906026/thumbnails/cartus-color-nr17-c6
 9/22/2020 9:28:58 AM 277,98 RON
 9/26/2020 12:21:17 PM 279,98 RON
 9/27/2020 3:51:36 PM 279,98 RON
+10/6/2020 6:41:15 PM 279,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fw-headph-1001-redxx
 459935
     Product link    
 https://www.pcgarage.ro/casti/fanny-wang/1001-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/459935/thumbnails/1001-red-db549e2318e4292
 9/22/2020 4:09:00 PM 127,98 RON
 9/26/2020 5:13:05 PM 129,98 RON
 9/27/2020 9:16:52 PM 129,98 RON
+10/6/2020 10:09:39 PM 127,98 RON

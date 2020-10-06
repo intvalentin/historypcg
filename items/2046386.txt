@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |div-moc-r
 2046386
     Product link    
 https://www.pcgarage.ro/boxe-portabile/divoom/mocha-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2045418/2046386/thumbnails/mocha-red-d3d6ceb
 9/22/2020 5:14:11 PM 505,99 RON
 9/26/2020 5:55:26 PM 505,99 RON
 9/28/2020 8:04:38 AM 505,99 RON
+10/6/2020 11:04:25 PM 505,99 RON

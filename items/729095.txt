@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6682b001aa
 729095
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-706-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/729095/thumbnails/cartus-pfi-706-cyan
 9/21/2020 7:19:56 PM 1.293,98 RON
 9/26/2020 11:09:54 AM 1.299,98 RON
 9/27/2020 2:31:16 PM 1.295,98 RON
+10/6/2020 9:02:13 AM 1.297,98 RON

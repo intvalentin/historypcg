@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1394c002aa
 1935070
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv54b-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/1935070/thumbnails/toner-c-exv54b-black
 9/21/2020 5:54:14 PM 245,98 RON
 9/26/2020 11:03:13 AM 247,98 RON
 9/27/2020 2:24:07 PM 247,98 RON
+10/6/2020 7:47:50 AM 247,98 RON

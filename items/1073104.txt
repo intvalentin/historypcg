@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310046
 1073104
     Product link    
 https://www.pcgarage.ro/ups/legrand/keor-line-rt-1500va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/986422/1073104/thumbnails/keor-line-rt-2200v
 9/22/2020 1:00:49 PM 2.751,72 RON
 9/26/2020 3:29:27 PM 2.759,04 RON
 9/27/2020 7:40:50 PM 2.759,04 RON
+10/6/2020 7:58:17 AM 2.754,06 RON

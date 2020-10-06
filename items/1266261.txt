@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1092s
 1266261
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-10m-gray/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/849800/1266261/thumbnails/cat5e-patch-cable-
 9/22/2020 2:18:18 PM 20,47 RON
 9/26/2020 4:17:25 PM 20,54 RON
 9/27/2020 8:21:05 PM 20,54 RON
+10/6/2020 1:47:03 PM 21,13 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dpe-302ge
 2039942
     Product link    
 https://www.pcgarage.ro/accesorii-retea/d-link/digabit-dpe-302ge-externder-poe/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2034042/2039942/thumbnails/digabit-dpe-302ge
 9/22/2020 1:35:21 PM 621,02 RON
 9/26/2020 3:42:02 PM 622,81 RON
 9/27/2020 7:53:30 PM 623,16 RON
+10/6/2020 10:26:41 AM 622,74 RON

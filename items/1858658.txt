@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |charge4white
 1858658
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/charge-4-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1236/1858658/thumbnails/charge-4-white-10852
 9/22/2020 5:15:16 PM 803,84 RON
 9/26/2020 5:58:24 PM 803,84 RON
 9/28/2020 8:07:37 AM 780,85 RON
+10/6/2020 11:12:20 PM 826,85 RON

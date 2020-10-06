@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2046u
 1635727
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-15m-albastru/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1630882/1635727/thumbnails/cat6-patch-cable-
 9/22/2020 3:00:21 PM 20,71 RON
 9/26/2020 4:30:04 PM 20,71 RON
 9/27/2020 8:33:47 PM 20,71 RON
+10/6/2020 1:35:19 PM 20,71 RON

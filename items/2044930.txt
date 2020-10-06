@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |be0908
 2044930
     Product link    
 https://www.pcgarage.ro/cantare/ufesa/be0908/
@@ -8,3 +8,4 @@ Ufesa BE0908
 https://4.grgs.ro/images/products/1/1034/2044930/thumbnails/be0908-0835e267118f778549947df42381b820.jpg
     Pret    
 9/26/2020 7:58:47 PM 77,98 RON
+10/6/2020 11:02:59 AM 77,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508676
 2044882
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/rs-175-u-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2044882/thumbnails/rs-175-u-black-791fc
 9/22/2020 4:12:14 PM 1.103,98 RON
 9/26/2020 5:07:08 PM 1.103,98 RON
 9/27/2020 9:10:51 PM 1.103,98 RON
+10/6/2020 9:31:32 PM 1.103,98 RON

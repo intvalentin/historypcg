@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1046u
 1783300
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat-5e-patch-cable-u-utp-15m-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/761/1783300/thumbnails/cat-5e-patch-cable-u-
 9/22/2020 2:57:06 PM 13,59 RON
 9/26/2020 4:28:35 PM 13,57 RON
 9/27/2020 8:32:18 PM 13,57 RON
+10/6/2020 12:07:54 PM 13,57 RON

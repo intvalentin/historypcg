@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo2781-10
 1520802
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/utp-10m-gri/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1510154/1520802/thumbnails/utp-05m-gri-1ea74
 9/22/2020 2:15:03 PM 34,99 RON
 9/26/2020 3:56:08 PM 34,99 RON
 9/27/2020 8:07:43 PM 34,99 RON
+10/6/2020 2:24:42 PM 34,99 RON

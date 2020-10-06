@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kab0107
 1524034
     Product link    
 https://www.pcgarage.ro/cabluri-retea/cabletech/ftp-305m-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1434070/1524034/thumbnails/ftp-305m-93e0bda5
 9/22/2020 3:05:45 PM 506,51 RON
 9/26/2020 4:30:04 PM 506,51 RON
 9/27/2020 8:33:47 PM 506,51 RON
+10/6/2020 5:05:20 PM 506,51 RON

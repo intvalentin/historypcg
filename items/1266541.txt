@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1073s
 1266541
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-5m-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1187917/1266541/thumbnails/cat5e-patch-cable
 9/22/2020 1:37:28 PM 12,99 RON
 9/26/2020 3:45:02 PM 12,99 RON
 9/27/2020 7:56:31 PM 12,99 RON
+10/6/2020 10:34:51 AM 12,99 RON

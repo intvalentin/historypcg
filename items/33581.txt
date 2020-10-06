@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q7581a
 33581
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q7581a-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/33581/thumbnails/color-laserjet-q7581a-cya
 9/22/2020 9:34:10 AM 1.063,98 RON
 9/26/2020 12:25:44 PM 1.067,98 RON
 9/27/2020 3:56:04 PM 1.057,98 RON
+10/6/2020 7:37:29 PM 1.067,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6658b001aa
 729059
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-306-cyan/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5/729059/thumbnails/cartus-pfi-306-cyan-d955
     Pret    
 9/26/2020 11:21:40 AM 737,98 RON
 9/27/2020 2:42:21 PM 735,98 RON
+10/6/2020 10:37:14 AM 735,98 RON

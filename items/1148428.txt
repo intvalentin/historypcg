@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-001054
 1148428
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z533/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1025736/1148428/thumbnails/z533-08b936f46066
 9/22/2020 4:52:41 PM 435,98 RON
 9/26/2020 5:51:00 PM 435,98 RON
 9/28/2020 8:00:11 AM 435,98 RON
+10/6/2020 9:42:14 PM 435,98 RON

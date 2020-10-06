@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xf-1000rd
 1183639
     Product link    
 https://www.pcgarage.ro/storcatoare/heinner/turbomax-1000-rosu/
@@ -8,3 +8,4 @@ Heinner TurboMax 1000 rosu
 https://5.grgs.ro/images/products/1/1141198/1183639/thumbnails/1xf-1000rd-954f6a17af9e1b9c168ee7202fd47e43.jpg
     Pret    
 9/22/2020 7:17:43 PM 272,73 RON
+10/6/2020 5:06:35 PM 272,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-ht1002-300
 2062062
     Product link    
 https://www.pcgarage.ro/biciclete-fitness/kettler/bicicleta-fitness-avior-m-cycle-m/
@@ -8,3 +8,4 @@ Kettler Bicicleta fitness avior m (cycle m)
 https://5.grgs.ro/images/products/1/6954/2062062/thumbnails/bicicleta-fitness-avior-m-cycle-m-da7b137f9f88df035e354ea17b1bcbc7.jpg
     Pret    
 9/26/2020 9:30:26 PM 1.598,99 RON
+10/6/2020 10:19:19 PM 1.599,00 RON

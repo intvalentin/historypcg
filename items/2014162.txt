@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru21662
 2014162
     Product link    
 https://www.pcgarage.ro/casti/trust/reno-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2014162/thumbnails/reno-black-242947
 9/22/2020 3:48:53 PM 79,98 RON
 9/26/2020 4:57:29 PM 79,98 RON
 9/27/2020 9:01:07 PM 79,98 RON
+10/6/2020 8:22:04 PM 79,98 RON

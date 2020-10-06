@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401453
 2086046
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/somfy/sirena-de-interior-io-compatibil-cu-tahoma-somfy-cu-senzori-si-detectori-suplimentari-somfy/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2086046/thumbnails/sirena-de-interior-i
     Pret    
 9/22/2020 7:35:11 PM 653,31 RON
 9/26/2020 9:11:41 PM 653,31 RON
+10/6/2020 8:08:25 PM 653,31 RON

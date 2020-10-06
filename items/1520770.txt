@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo2779d-0.5
 1520770
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/utp-05m-verde/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1520770/thumbnails/utp-1m-verde-4cce
 9/22/2020 2:22:36 PM 7,14 RON
 9/26/2020 3:56:08 PM 7,14 RON
 9/27/2020 8:07:43 PM 7,14 RON
+10/6/2020 10:44:46 AM 7,14 RON

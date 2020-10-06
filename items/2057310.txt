@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r845855
 2057310
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-utp-15m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2057310/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:04:40 PM 101,10 RON
 9/26/2020 4:27:05 PM 101,39 RON
 9/27/2020 8:30:45 PM 101,46 RON
+10/6/2020 4:53:00 PM 93,25 RON

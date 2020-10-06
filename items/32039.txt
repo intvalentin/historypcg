@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4954a
 32039
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-81-dye-light-cyan-plus-cleaner/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/32039/thumbnails/81-dye-light-cyan-printhe
 9/22/2020 9:19:25 AM 1.179,98 RON
 9/26/2020 12:09:53 PM 1.183,98 RON
 9/27/2020 3:44:25 PM 1.181,98 RON
+10/6/2020 5:33:28 PM 1.181,98 RON

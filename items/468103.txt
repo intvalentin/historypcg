@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sdv07
 468103
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/pni/p2p-ir/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/468103/thumbnails/p2p-ir-a33532af35a8f18b4
 9/22/2020 3:29:36 PM 390,32 RON
 9/26/2020 4:46:29 PM 390,32 RON
 9/27/2020 8:50:07 PM 390,32 RON
+10/6/2020 6:13:36 PM 390,32 RON

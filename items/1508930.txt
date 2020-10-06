@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cpc00470
 1508930
     Product link    
 https://www.pcgarage.ro/casti/sbox/hs-501-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/978807/1508930/thumbnails/hs-501-red-6bbff46
 9/22/2020 4:05:47 PM 49,98 RON
 9/26/2020 5:09:22 PM 49,98 RON
 9/27/2020 9:13:08 PM 49,98 RON
+10/6/2020 9:55:15 PM 49,98 RON

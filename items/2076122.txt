@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01162-001
 2076122
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/q1786-le-43-137mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2076122/thumbnails/q1786-le-43-137mm-f1
 9/22/2020 3:33:55 PM 9.301,37 RON
 9/26/2020 4:39:02 PM 9.327,98 RON
 9/27/2020 8:42:42 PM 9.333,33 RON
+10/6/2020 6:44:29 PM 9.322,81 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dem-cb50
 1361608
     Product link    
 https://www.pcgarage.ro/cabluri-retea/d-link/cablu-stacking-cx4-05m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1112123/1361608/thumbnails/cablu-stacking-cx
 9/22/2020 3:06:47 PM 753,94 RON
 9/26/2020 4:33:05 PM 756,10 RON
 9/27/2020 8:36:46 PM 756,54 RON
+10/6/2020 5:06:44 PM 755,68 RON

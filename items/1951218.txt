@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2051g1-idw1
 1951218
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2051g1-idw1-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6997/1951218/thumbnails/ds-2cd2051g1-idw1-28
 9/22/2020 3:37:10 PM 458,33 RON
 9/26/2020 4:48:43 PM 459,64 RON
 9/27/2020 8:52:20 PM 459,90 RON
+10/6/2020 7:03:46 PM 459,39 RON

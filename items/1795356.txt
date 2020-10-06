@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00364
 1795356
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/panasonic/es-ll21-k503sh/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3049/1795356/thumbnails/es-ll21-k503sh-adc0a
     Pret    
 9/22/2020 6:35:52 PM 389,99 RON
 9/26/2020 7:55:02 PM 389,99 RON
+10/6/2020 10:44:36 AM 499,99 RON

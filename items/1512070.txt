@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elrack
 1512070
     Product link    
 https://www.pcgarage.ro/accesorii-ups/eaton/sine-montare-ups-in-rack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1512070/thumbnails/sine-montare-ups-
 9/22/2020 1:22:25 PM 280,07 RON
 9/26/2020 3:34:41 PM 280,07 RON
 9/27/2020 7:46:04 PM 280,07 RON
+10/6/2020 8:38:44 AM 280,07 RON

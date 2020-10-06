@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plb00109
 1826080
     Product link    
 https://www.pcgarage.ro/casti/plantronics/voyager-8200-uc-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1826080/thumbnails/voyager-8200-uc-whit
 9/22/2020 4:12:14 PM 1.719,98 RON
 9/26/2020 5:07:52 PM 1.725,98 RON
 9/27/2020 9:11:39 PM 1.725,98 RON
+10/6/2020 10:36:44 PM 1.725,98 RON

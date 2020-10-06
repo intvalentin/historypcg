@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |be1520
 2044934
     Product link    
 https://www.pcgarage.ro/cantare/ufesa/be1520/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1034/2044934/thumbnails/be1520-59b833f37ea10
     Pret    
 9/22/2020 6:38:08 PM 79,19 RON
 9/26/2020 7:58:47 PM 59,50 RON
+10/6/2020 10:59:58 AM 59,50 RON

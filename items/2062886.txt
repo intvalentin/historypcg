@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pyv4007gl
 2062886
     Product link    
 https://www.pcgarage.ro/ecosistem-xiaomi/xiaomi/mi-smart-fan-1c/
@@ -8,3 +8,4 @@ Xiaomi Mi Smart Fan 1C, 38W, 3 setari de viteza, Wi-Fi, control prin aplicatia M
 https://4.grgs.ro/images/products/1/6954/2062886/thumbnails/mi-smart-fan-1c-27d2dc904e75c05fb7b92c836917ce02.jpg
     Pret    
 9/26/2020 9:08:39 PM 195,99 RON
+10/6/2020 7:50:13 PM 195,99 RON

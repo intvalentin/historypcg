@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2052s
 1294778
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-2m-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1187917/1294778/thumbnails/primeline-cat6-pa
 9/22/2020 1:38:33 PM 13,41 RON
 9/26/2020 4:33:05 PM 13,46 RON
 9/27/2020 8:36:46 PM 13,46 RON
+10/6/2020 3:43:15 PM 13,44 RON

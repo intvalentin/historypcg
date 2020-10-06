@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2960b001aa
 65259
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-303-magenta/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/65259/thumbnails/toner-magenta-pfi-303-e31
 9/21/2020 7:01:12 PM 609,98 RON
 9/26/2020 11:12:52 AM 611,98 RON
 9/27/2020 2:34:23 PM 609,98 RON
+10/6/2020 8:37:26 AM 609,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201175445
 1697740
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/braun/series-5-5140s/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1692296/1697740/thumbnails/series-5-5140s-22
     Pret    
 9/22/2020 6:36:27 PM 653,98 RON
 9/26/2020 7:55:47 PM 653,98 RON
+10/6/2020 10:49:25 AM 1.019,99 RON

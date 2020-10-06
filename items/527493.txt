@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6272b002aa
 527493
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-731-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/527493/thumbnails/toner-731-black-1f6dcedf
 9/21/2020 6:13:52 PM 269,98 RON
 9/26/2020 11:11:22 AM 271,98 RON
 9/27/2020 2:32:51 PM 271,98 RON
+10/6/2020 7:50:26 AM 271,98 RON

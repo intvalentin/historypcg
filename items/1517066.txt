@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n420.555
 1517066
     Product link    
 https://www.pcgarage.ro/accesorii-retea/nexans/conector-lanmark-5-cat5e-snap-in/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1190677/1517066/thumbnails/conector-lanmark-
 9/22/2020 1:29:57 PM 24,54 RON
 9/26/2020 3:40:33 PM 24,63 RON
 9/27/2020 7:52:02 PM 24,63 RON
+10/6/2020 9:23:04 AM 24,60 RON

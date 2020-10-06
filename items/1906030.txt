@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4844a
 1906030
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-10-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/8629/1906030/thumbnails/cartus-black-nr10-c4
 9/22/2020 9:05:40 AM 265,98 RON
 9/26/2020 11:53:36 AM 267,98 RON
 9/27/2020 3:17:24 PM 267,98 RON
+10/6/2020 3:15:57 PM 267,98 RON

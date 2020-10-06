@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce340a
 634673
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-651a-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/2/634673/thumbnails/toner-651a-black-9036ba8
 9/22/2020 8:55:03 AM 919,98 RON
 9/26/2020 12:03:14 PM 923,98 RON
 9/27/2020 3:38:03 PM 923,98 RON
+10/6/2020 5:00:34 PM 911,98 RON

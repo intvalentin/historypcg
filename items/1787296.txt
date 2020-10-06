@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp3062u
 1787296
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6a-patch-cable-u-utp-3m-gray/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1779504/1787296/thumbnails/cat6a-patch-cable
 9/22/2020 2:57:06 PM 12,45 RON
 9/26/2020 4:28:35 PM 12,21 RON
 9/27/2020 8:32:18 PM 12,21 RON
+10/6/2020 11:48:37 AM 12,45 RON

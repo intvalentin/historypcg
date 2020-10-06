@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc532a
 65769
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cc532a-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2/65769/thumbnails/cc532a400x400.jpg
 9/22/2020 9:11:54 AM 641,98 RON
 9/26/2020 12:13:36 PM 643,98 RON
 9/27/2020 3:48:27 PM 641,98 RON
+10/6/2020 4:33:37 PM 641,98 RON

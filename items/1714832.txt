@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dsh-c310
 1714832
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/omna/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1692136/1714832/thumbnails/omna-bea23d1efe05
 9/22/2020 3:29:36 PM 452,36 RON
 9/26/2020 4:45:44 PM 453,66 RON
 9/27/2020 8:49:23 PM 453,93 RON
+10/6/2020 6:15:44 PM 453,42 RON
+10/6/2020 7:03:30 PM 453,42 RON

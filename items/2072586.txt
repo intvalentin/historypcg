@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-sh02
 2072586
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-sh02-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4273/2072586/thumbnails/abts-sh02-black-4caa
 9/22/2020 5:13:06 PM 339,72 RON
 9/26/2020 5:55:26 PM 339,72 RON
 9/28/2020 8:04:38 AM 339,72 RON
+10/6/2020 11:01:09 PM 362,95 RON

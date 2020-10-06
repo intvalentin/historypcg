@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz102ae
 364339
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-650-3-culori/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5/364339/thumbnails/650-tri-colour-ink-cartr
 9/22/2020 8:50:46 AM 54,99 RON
 9/26/2020 11:48:23 AM 54,99 RON
 9/27/2020 3:11:51 PM 54,99 RON
+10/6/2020 2:11:53 PM 49,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9405a
 32293
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-70-light-cyan-plus-light-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/32293/thumbnails/70-light-cyan-and-light-m
 9/22/2020 9:07:43 AM 367,98 RON
 9/26/2020 12:11:22 PM 367,98 RON
 9/27/2020 3:46:00 PM 367,98 RON
+10/6/2020 3:32:29 PM 367,98 RON

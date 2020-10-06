@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-m10
 2057910
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-m10-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7193/2057910/thumbnails/abts-m10-black-410e0
 9/22/2020 5:09:52 PM 155,61 RON
 9/26/2020 5:55:26 PM 155,61 RON
 9/28/2020 8:04:38 AM 155,61 RON
+10/6/2020 10:45:33 PM 192,37 RON

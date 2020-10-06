@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39612alb
 1857474
     Product link    
 https://www.pcgarage.ro/casti/jbl/tune-600btnc-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1848722/1857474/thumbnails/tune-600btnc-whit
 9/22/2020 3:58:21 PM 511,98 RON
 9/26/2020 5:00:27 PM 511,98 RON
 9/27/2020 9:04:08 PM 511,98 RON
+10/6/2020 9:15:47 PM 511,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce260x
 215927
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce260x-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/215927/thumbnails/black-print-cartridge-ce
 9/22/2020 9:35:14 AM 1.295,98 RON
 9/26/2020 12:22:46 PM 1.299,98 RON
 9/27/2020 3:53:05 PM 1.299,98 RON
+10/6/2020 7:41:47 PM 1.299,98 RON

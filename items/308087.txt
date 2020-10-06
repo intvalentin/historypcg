@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce401a
 308087
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-507a-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/4/308087/thumbnails/507a-cyan-laserjet-toner
 9/22/2020 8:52:54 AM 1.179,98 RON
 9/26/2020 12:04:43 PM 1.183,98 RON
 9/27/2020 3:39:38 PM 1.183,98 RON
+10/6/2020 5:33:44 PM 1.187,98 RON

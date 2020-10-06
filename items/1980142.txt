@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |357167
 1980142
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tronsmart/element-t2-plus-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6472/1980142/thumbnails/element-t2-plus-blac
 9/22/2020 5:05:33 PM 124,57 RON
 9/26/2020 5:56:55 PM 124,57 RON
 9/28/2020 8:06:07 AM 124,57 RON
+10/6/2020 10:28:24 PM 125,45 RON

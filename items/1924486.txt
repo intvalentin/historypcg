@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf302ac
 1924486
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cf302ac-yellow/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/6622/1924486/thumbnails/toner-cf302ac-yellow
 9/22/2020 9:25:48 AM 2.637,98 RON
 9/26/2020 11:52:51 AM 2.647,98 RON
 9/27/2020 3:16:37 PM 2.647,98 RON
+10/6/2020 6:14:33 PM 2.643,98 RON

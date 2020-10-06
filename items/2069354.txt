@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r509858
 2069354
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6-patch-cable-s-ftp-lsfrzh-1m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2069354/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:03:36 PM 76,85 RON
 9/26/2020 4:25:36 PM 77,06 RON
 9/27/2020 8:29:16 PM 77,11 RON
+10/6/2020 4:49:16 PM 70,85 RON

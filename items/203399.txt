@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000418
 203399
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z130/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/203399/thumbnails/z130-556156639111d971425
 9/22/2020 4:53:45 PM 131,98 RON
 9/26/2020 5:53:56 PM 133,98 RON
 9/28/2020 8:03:08 AM 133,98 RON
+10/6/2020 8:24:18 PM 157,98 RON

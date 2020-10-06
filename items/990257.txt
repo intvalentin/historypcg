@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dch-s150+-+e
 990257
     Product link    
 https://www.pcgarage.ro/senzori-smart/d-link/senzor-de-miscare-wi-fi-dch-s150-e/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/959008/990257/thumbnails/senzor-de-miscare-w
     Pret    
 9/22/2020 7:37:57 PM 274,07 RON
 9/26/2020 9:16:13 PM 274,97 RON
+10/6/2020 8:36:23 PM 274,93 RON

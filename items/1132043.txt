@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0510
 1132043
     Product link    
 https://www.pcgarage.ro/boxe/krugermatz/inspire-20/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/1132043/thumbnails/inspire-20-b919f27
 9/22/2020 5:01:18 PM 661,98 RON
 9/26/2020 5:51:00 PM 661,98 RON
 9/28/2020 8:00:11 AM 661,98 RON
+10/6/2020 9:49:36 PM 661,98 RON

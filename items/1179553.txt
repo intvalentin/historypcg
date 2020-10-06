@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0335c001aa
 1179553
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-571xl-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/1179553/thumbnails/cartus-cli-571xl-g
 9/21/2020 7:22:07 PM 67,98 RON
 9/26/2020 11:20:11 AM 67,98 RON
 9/27/2020 2:41:32 PM 67,98 RON
+10/6/2020 9:13:44 AM 67,98 RON

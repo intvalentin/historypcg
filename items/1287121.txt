@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1076s
 1287121
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-5m-blue/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1025741/1287121/thumbnails/cat5e-patch-cable
 9/22/2020 2:13:58 PM 11,45 RON
 9/26/2020 4:16:41 PM 11,49 RON
 9/27/2020 8:18:59 PM 11,49 RON
+10/6/2020 11:32:21 AM 11,47 RON

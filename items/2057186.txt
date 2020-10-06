@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r2000db-br
 2057186
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r2000db-20-brown/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057186/thumbnails/r2000db-20-brown-65e
 9/22/2020 4:50:33 PM 1.175,98 RON
 9/26/2020 5:41:24 PM 1.195,98 RON
 9/28/2020 7:50:29 AM 1.195,98 RON
+10/6/2020 8:49:03 PM 1.179,98 RON

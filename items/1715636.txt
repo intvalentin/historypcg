@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf256x
 1715636
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-56x-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1689668/1715636/thumbnails/toner-56x-black-2
 9/22/2020 8:51:50 AM 233,98 RON
 9/26/2020 11:57:17 AM 235,98 RON
 9/27/2020 3:31:37 PM 233,98 RON
+10/6/2020 3:08:56 PM 231,98 RON

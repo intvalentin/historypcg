@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf310ac
 2013750
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-826a-black-1/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/9943/2013750/thumbnails/toner-826a-black-1d5
 9/22/2020 9:23:41 AM 1.731,98 RON
 9/26/2020 11:49:08 AM 1.737,98 RON
 9/27/2020 3:12:39 PM 1.737,98 RON
+10/6/2020 5:59:41 PM 1.735,98 RON

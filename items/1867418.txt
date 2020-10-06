@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cv2u01efd-iw28
 1867418
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cv2u01efd-iw-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1867418/thumbnails/ds-2cv2u01efd-iw-
 9/22/2020 3:35:00 PM 181,21 RON
 9/26/2020 4:49:27 PM 181,73 RON
 9/27/2020 8:53:05 PM 181,84 RON
+10/6/2020 6:52:00 PM 181,63 RON

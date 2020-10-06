@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1097u
 1297522
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-10m-yellow-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/735074/1297522/thumbnails/cat5e-patch-cable-
 9/22/2020 1:39:37 PM 15,49 RON
 9/26/2020 4:01:21 PM 15,55 RON
 9/27/2020 8:12:56 PM 15,55 RON
+10/6/2020 12:40:58 PM 15,53 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp3988ga
 1774404
     Product link    
 https://www.pcgarage.ro/casti/kef/space-one-wireless-titanium/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1774300/1774404/thumbnails/space-one-wireles
 9/22/2020 4:01:28 PM 957,98 RON
 9/26/2020 5:01:57 PM 957,98 RON
 9/27/2020 9:05:38 PM 957,98 RON
+10/6/2020 9:29:56 PM 957,98 RON

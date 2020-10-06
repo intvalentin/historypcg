@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn684ee
 248573
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-364xl-black/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4/248573/thumbnails/364xl-black-ink-cartridg
 9/22/2020 8:51:50 AM 113,98 RON
 9/26/2020 12:05:28 PM 113,98 RON
 9/27/2020 3:40:25 PM 113,98 RON
+10/6/2020 2:38:01 PM 113,98 RON

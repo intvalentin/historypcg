@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2966b003aa
 742354
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-703-yellow-triple-pack/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/714621/742354/thumbnails/cartus-pfi-703-yell
     Pret    
 9/26/2020 11:20:11 AM 3.031,98 RON
 9/27/2020 2:41:33 PM 3.031,98 RON
+10/6/2020 11:04:24 AM 3.027,98 RON

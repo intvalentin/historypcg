@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax_ 0640-001
 990982
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3904-r/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/960827/990982/thumbnails/p3904-r-ab22ba30347
 9/22/2020 3:40:24 PM 2.506,52 RON
 9/26/2020 4:50:57 PM 2.513,69 RON
 9/27/2020 8:54:34 PM 2.515,14 RON
+10/6/2020 7:34:12 PM 2.512,29 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r509876
 2057322
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-utp-10m-gray-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2057322/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:04:40 PM 126,40 RON
 9/26/2020 4:27:05 PM 126,76 RON
 9/27/2020 8:30:45 PM 126,83 RON
+10/6/2020 4:55:52 PM 116,55 RON

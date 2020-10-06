@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb318ee
 65277
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-364-cyan/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/65277/thumbnails/364-cyan-ink-cartridge-cb
 9/22/2020 9:01:29 AM 57,98 RON
 9/26/2020 12:06:58 PM 57,98 RON
 9/27/2020 3:42:02 PM 57,98 RON
+10/6/2020 2:19:27 PM 57,98 RON

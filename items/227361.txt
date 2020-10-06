@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000403
 227361
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z623-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/227361/thumbnails/z623-black-95464f0a7b44a
 9/22/2020 5:01:18 PM 803,98 RON
 9/26/2020 5:53:56 PM 805,98 RON
 9/28/2020 8:02:25 AM 805,98 RON
+10/6/2020 9:52:53 PM 805,98 RON

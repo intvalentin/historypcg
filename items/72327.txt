@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2450b002aa
 72327
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-24-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/72327/thumbnails/c-exv-24-toner-y-91e06105
 9/21/2020 7:01:12 PM 635,98 RON
 9/26/2020 11:13:36 AM 637,98 RON
 9/27/2020 2:35:12 PM 635,98 RON
+10/6/2020 8:37:58 AM 637,98 RON

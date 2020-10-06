@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0202-052
 6936
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/net-software-camera-station-4-channel/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/6936/thumbnails/prs1c-2840554w345.jpg
 9/22/2020 3:43:37 PM 2.324,11 RON
 9/26/2020 4:53:10 PM 2.330,77 RON
 9/27/2020 8:56:46 PM 2.332,10 RON
+10/6/2020 7:51:27 PM 2.329,47 RON

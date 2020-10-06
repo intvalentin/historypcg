@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cbtsp2bo
 1728900
     Product link    
 https://www.pcgarage.ro/boxe-portabile/canyon/cne-cbtsp2-black-orange/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8674/1728900/thumbnails/cne-cbtsp2-black-ora
 9/22/2020 5:18:31 PM 33,11 RON
 9/26/2020 6:05:50 PM 33,64 RON
 9/28/2020 8:15:06 AM 33,64 RON
+10/6/2020 11:26:23 PM 33,23 RON

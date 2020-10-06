@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc27
 89347
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-27/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/89347/thumbnails/replacement-battery-cartr
 9/22/2020 1:27:50 PM 2.652,32 RON
 9/26/2020 3:38:23 PM 2.661,44 RON
 9/27/2020 7:49:48 PM 2.661,44 RON
+10/6/2020 9:11:04 AM 2.742,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t10014010
 218435
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t1001-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/218435/thumbnails/cartus-black-t1001-durab
 9/21/2020 8:45:12 PM 143,98 RON
 9/26/2020 11:46:10 AM 143,98 RON
 9/27/2020 3:09:29 PM 143,98 RON
+10/6/2020 12:52:25 PM 143,98 RON

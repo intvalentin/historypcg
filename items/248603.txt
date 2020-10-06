@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch647a
 248603
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-761-grey-plus-dark-grey/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4/248603/thumbnails/761-grey-dark-grey-desig
 9/22/2020 9:32:05 AM 743,98 RON
 9/26/2020 12:22:46 PM 747,98 RON
 9/27/2020 3:53:05 PM 747,98 RON
+10/6/2020 6:58:53 PM 745,98 RON

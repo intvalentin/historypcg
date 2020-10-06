@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n122.5cla2
 1939170
     Product link    
 https://www.pcgarage.ro/cabluri-retea/nexans/slimflex-patch-cord-dsc-dlc-lszh-2m-aqua/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1939170/thumbnails/slimflex-patch-cord-
 9/22/2020 3:04:40 PM 131,23 RON
 9/26/2020 4:27:50 PM 131,60 RON
 9/27/2020 8:31:30 PM 131,68 RON
+10/6/2020 4:57:28 PM 131,53 RON

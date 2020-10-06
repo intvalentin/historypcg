@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t02040110
 216385
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t020-tri-color/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/216385/thumbnails/cartus-color-t020-c13t02
 9/21/2020 8:46:17 PM 227,98 RON
 9/26/2020 11:45:26 AM 229,98 RON
 9/27/2020 3:08:40 PM 227,98 RON
+10/6/2020 12:59:03 PM 227,98 RON

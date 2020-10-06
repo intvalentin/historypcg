@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens427963
 1521386
     Product link    
 https://www.pcgarage.ro/boxe/energy-sistem/tower1-10-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1521386/thumbnails/tower1-10-white-b
 9/22/2020 4:59:09 PM 281,98 RON
 9/26/2020 5:49:31 PM 281,98 RON
 9/28/2020 7:58:42 AM 281,98 RON
+10/6/2020 9:30:34 PM 281,98 RON

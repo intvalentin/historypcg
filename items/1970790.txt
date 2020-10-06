@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uvc-g3-bullet-3
 1970790
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ubiquiti-networks/g3-af-36mm-3-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1970790/thumbnails/g3-af-36mm-3-pack-6e3
 9/22/2020 3:40:24 PM 1.968,88 RON
 9/26/2020 4:47:58 PM 1.999,93 RON
 9/27/2020 8:51:36 PM 1.999,93 RON
+10/6/2020 7:33:08 PM 1.975,67 RON

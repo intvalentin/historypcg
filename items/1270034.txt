@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1054s
 1270034
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-2m-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/853128/1270034/thumbnails/cat5e-patch-cable-
 9/22/2020 2:39:51 PM 19,08 RON
 9/26/2020 4:16:41 PM 19,14 RON
 9/27/2020 8:18:59 PM 19,14 RON
+10/6/2020 1:18:37 PM 19,12 RON

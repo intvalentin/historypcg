@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0398-001
 278143
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m5013/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/278143/thumbnails/m5013-030f2e03c77f58882e
 9/22/2020 3:40:24 PM 2.985,22 RON
 9/26/2020 4:52:24 PM 2.993,76 RON
 9/27/2020 8:56:00 PM 2.995,48 RON
+10/6/2020 7:36:07 PM 2.992,10 RON

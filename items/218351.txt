@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t591700
 218351
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-light-black-c13t591700/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/735074/218351/thumbnails/cartus-t591700-ligh
 9/21/2020 8:57:06 PM 1.531,98 RON
 9/26/2020 11:43:12 AM 1.537,98 RON
 9/27/2020 3:06:17 PM 1.533,98 RON
+10/6/2020 2:07:53 PM 1.535,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q5951ac
 1924454
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q5951ac-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/6622/1924454/thumbnails/toner-q5951ac-cyan-0
 9/22/2020 9:37:23 AM 1.749,98 RON
 9/26/2020 12:15:49 PM 1.755,98 RON
 9/27/2020 3:50:51 PM 1.755,98 RON
+10/6/2020 7:55:04 PM 1.755,98 RON

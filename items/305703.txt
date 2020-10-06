@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pf-70
 305703
     Product link    
 https://www.pcgarage.ro/fierbatoare/heinner/imenium-70/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1025741/305703/thumbnails/imenium-70-1668625
     Pret    
 9/22/2020 7:19:22 PM 71,34 RON
 9/26/2020 8:45:07 PM 71,34 RON
+10/6/2020 5:36:34 PM 111,99 RON

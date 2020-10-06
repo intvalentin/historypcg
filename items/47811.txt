@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2217b001aa
 47811
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-302-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/3/47811/thumbnails/cartus-pfi-302-grey-cfdf2
     Pret    
 9/26/2020 11:21:40 AM 723,98 RON
 9/27/2020 2:43:12 PM 723,98 RON
+10/6/2020 10:35:09 AM 723,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39215black
 1862362
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/a2-plus-wireless-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/530/1862362/thumbnails/a2-plus-30-black-77a8
 9/22/2020 5:02:22 PM 1.333,98 RON
 9/26/2020 5:48:02 PM 1.333,98 RON
 9/28/2020 7:57:13 AM 1.333,98 RON
+10/6/2020 9:59:10 PM 1.333,98 RON

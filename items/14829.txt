@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1496b001aa
 14829
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-301-photo-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2/14829/thumbnails/pfi-301-71eb5ef29ea8af39a
     Pret    
 9/26/2020 11:26:53 AM 723,98 RON
 9/27/2020 2:48:47 PM 723,98 RON
+10/6/2020 10:32:56 AM 723,98 RON

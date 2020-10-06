@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2016s
 2043546
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-025m-blue/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1094679/2043546/thumbnails/cat6-patch-cable-
 9/22/2020 2:18:17 PM 15,61 RON
 9/26/2020 3:45:46 PM 15,66 RON
 9/27/2020 7:57:16 PM 15,66 RON
+10/6/2020 12:42:53 PM 15,65 RON

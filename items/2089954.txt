@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ucg250-12
 2089954
     Product link    
 https://www.pcgarage.ro/accesorii-ups/ultracell/ul-ucg250-12-250-va-12-ah/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2089954/thumbnails/ul-ucg250-12-250-va-
     Pret    
 9/26/2020 3:35:26 PM 2.289,64 RON
 9/27/2020 7:46:48 PM 2.289,64 RON
+10/6/2020 9:09:27 AM 2.287,05 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-506823
 1879770
     Product link    
 https://www.pcgarage.ro/multimedia/sennheiser/rr-flex-receiver-secundar-wireless/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5634/1879770/thumbnails/rr-flex-receiver-sec
     Pret    
 9/22/2020 6:16:39 PM 593,11 RON
 9/26/2020 7:29:08 PM 593,11 RON
+10/6/2020 7:55:26 AM 593,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cz135a
 634069
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-711-magenta-tripple-pack/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/2/634069/thumbnails/cartus-711-magenta-tripp
 9/22/2020 8:53:59 AM 311,98 RON
 9/26/2020 12:03:14 PM 311,98 RON
 9/27/2020 3:38:03 PM 311,98 RON
+10/6/2020 3:25:23 PM 311,98 RON

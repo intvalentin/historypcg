@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q6472a
 33551
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q6472a-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1/33551/thumbnails/c00430284.jpg
 9/22/2020 9:33:06 AM 825,98 RON
 9/26/2020 12:28:40 PM 827,98 RON
 9/27/2020 3:59:01 PM 827,98 RON
+10/6/2020 7:05:52 PM 827,98 RON

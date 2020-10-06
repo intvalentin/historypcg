@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn636a
 217675
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-772-cyan/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/217675/thumbnails/772-cyan-ink-cartridge-c
 9/22/2020 9:12:58 AM 689,98 RON
 9/26/2020 12:06:57 PM 691,98 RON
 9/27/2020 3:42:02 PM 689,98 RON
+10/6/2020 4:40:38 PM 691,98 RON

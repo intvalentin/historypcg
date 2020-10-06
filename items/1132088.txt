@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0640
 1132088
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/over-head-model-soul-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/782584/1132088/thumbnails/over-head-model-so
 9/22/2020 4:03:37 PM 125,98 RON
 9/26/2020 5:10:51 PM 125,98 RON
 9/27/2020 9:14:38 PM 125,98 RON
+10/6/2020 10:09:03 PM 125,98 RON

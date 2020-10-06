@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |urz3412
 1528754
     Product link    
 https://www.pcgarage.ro/stabilizatoare-tensiune/kemot/automat-1000va/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1475558/1528754/thumbnails/automat-1000va-e9
 9/22/2020 1:20:15 PM 214,14 RON
 9/26/2020 3:33:11 PM 214,14 RON
 9/27/2020 7:44:31 PM 214,14 RON
+10/6/2020 8:25:47 AM 215,32 RON

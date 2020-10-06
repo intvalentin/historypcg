@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srtl1500rmxli
 1695852
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-li-ion-1500va-rm-230v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1692136/1695852/thumbnails/smart-ups-srt-li-
 9/22/2020 1:18:08 PM 11.225,45 RON
 9/26/2020 3:27:57 PM 11.264,03 RON
 9/27/2020 7:39:21 PM 11.264,03 RON
+10/6/2020 8:16:06 AM 11.545,72 RON

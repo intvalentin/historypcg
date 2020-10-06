@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t03314010
 216393
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t0331-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/216393/thumbnails/cartus-black-t0331-c13t0
 9/21/2020 8:44:07 PM 117,98 RON
 9/26/2020 11:45:26 AM 119,98 RON
 9/27/2020 3:08:40 PM 117,98 RON
+10/6/2020 12:45:14 PM 117,98 RON

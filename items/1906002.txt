@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf279a
 1906002
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-79a-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/6622/1906002/thumbnails/toner-cf279a-black-9
 9/22/2020 9:06:41 AM 289,98 RON
 9/26/2020 11:52:07 AM 289,98 RON
 9/27/2020 3:15:49 PM 289,98 RON
+10/6/2020 3:21:04 PM 289,98 RON

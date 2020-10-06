@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0909b001aa
 14807
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-701-grey/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5/14807/thumbnails/toner-gri-pfi-701-c1203b9
     Pret    
 9/26/2020 11:23:09 AM 1.273,98 RON
 9/27/2020 2:44:47 PM 1.273,98 RON
+10/6/2020 10:54:34 AM 1.271,98 RON

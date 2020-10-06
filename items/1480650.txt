@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ep4010+-+00
 1480650
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/philips/ep4010-00/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/842306/1480650/thumbnails/ep4010-00-31f90455
     Pret    
 9/22/2020 7:08:10 PM 2.501,98 RON
 9/26/2020 8:27:54 PM 2.501,98 RON
+10/6/2020 3:13:01 PM 2.501,98 RON

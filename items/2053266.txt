@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r302312
 2053266
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6-patch-cable-u-utp-lszh-2m-gray/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2053266/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:02:31 PM 58,64 RON
 9/26/2020 4:27:06 PM 58,81 RON
 9/27/2020 8:30:45 PM 58,86 RON
+10/6/2020 4:41:40 PM 54,07 RON

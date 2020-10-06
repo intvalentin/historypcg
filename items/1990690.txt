@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ip12mpx
 1990690
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/pni/ip12mp-36mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/1990690/thumbnails/ip12mp-36mm-b0c99
 9/22/2020 3:25:17 PM 142,80 RON
 9/26/2020 4:42:01 PM 142,80 RON
 9/27/2020 8:46:26 PM 142,80 RON
+10/6/2020 5:47:16 PM 142,80 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d3010
 1481186
     Product link    
 https://www.pcgarage.ro/uscatoare-de-par/remington/d3010/
@@ -8,3 +8,4 @@ Remington D3010
 https://3.grgs.ro/images/products/1/1434070/1481186/thumbnails/d3010-2e2621003907d383bc1fb8a902d6c38b.jpg
     Pret    
 9/26/2020 8:10:02 PM 197,98 RON
+10/6/2020 12:43:35 PM 197,98 RON

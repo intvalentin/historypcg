@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce742a
 214685
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce742a-yellow/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3/214685/thumbnails/print-cartridge-ce742a-g
 9/22/2020 8:51:51 AM 1.413,98 RON
 9/26/2020 12:06:58 PM 1.449,98 RON
 9/27/2020 3:42:02 PM 1.449,98 RON
+10/6/2020 5:49:45 PM 1.449,98 RON

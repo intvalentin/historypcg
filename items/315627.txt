@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b77-3164
 315627
     Product link    
 https://www.pcgarage.ro/boxe/microlab/b-77/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/315627/thumbnails/b-77-17ff2597250916e5d00
 9/22/2020 4:54:50 PM 283,98 RON
 9/26/2020 5:53:14 PM 287,98 RON
 9/28/2020 8:02:25 AM 287,98 RON
+10/6/2020 9:30:51 PM 283,98 RON

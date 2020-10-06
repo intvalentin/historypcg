@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bt-c1
 1954778
     Product link    
 https://www.pcgarage.ro/multimedia/aukey/bt-c1-adaptor-bluetooth-grey/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1953966/1954778/thumbnails/bt-c1-adaptor-blu
     Pret    
 9/22/2020 6:16:39 PM 149,99 RON
 9/26/2020 7:29:52 PM 179,44 RON
+10/6/2020 7:59:08 AM 179,44 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rm7000
 2063242
     Product link    
 https://www.pcgarage.ro/roboti-de-bucatarie/concept/rm7000/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2063242/thumbnails/rm7000-5f27214b27f2a
     Pret    
 9/22/2020 7:18:19 PM 1.377,98 RON
 9/26/2020 8:42:09 PM 1.377,98 RON
+10/6/2020 5:26:13 PM 1.377,98 RON

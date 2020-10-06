@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0853c001aa
 1460090
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1100-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1094679/1460090/thumbnails/cartus-pfi-1100-y
 9/21/2020 7:21:02 PM 347,98 RON
 9/26/2020 11:06:56 AM 349,98 RON
 9/27/2020 2:28:05 PM 347,98 RON
+10/6/2020 8:11:19 AM 347,98 RON

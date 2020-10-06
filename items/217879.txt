@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t01340110
 217879
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t013-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/217879/thumbnails/cartus-black-t013-8daa3f
 9/21/2020 8:45:12 PM 143,98 RON
 9/26/2020 11:46:10 AM 143,98 RON
 9/27/2020 3:09:29 PM 143,98 RON
+10/6/2020 12:52:09 PM 143,98 RON

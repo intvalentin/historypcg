@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru23549
 2057854
     Product link    
 https://www.pcgarage.ro/boxe-portabile/trust/rokko-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057854/thumbnails/rokko-black-16918295
 9/22/2020 5:10:57 PM 187,90 RON
 9/26/2020 5:55:26 PM 188,44 RON
 9/28/2020 8:04:38 AM 188,55 RON
+10/6/2020 10:42:16 PM 188,33 RON

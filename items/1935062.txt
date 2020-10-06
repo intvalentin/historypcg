@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1397c002aa
 1935062
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv54y-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/1935062/thumbnails/toner-c-exv54y-yello
 9/21/2020 5:54:14 PM 353,98 RON
 9/26/2020 11:03:13 AM 355,98 RON
 9/27/2020 2:24:07 PM 353,98 RON
+10/6/2020 8:11:51 AM 355,98 RON

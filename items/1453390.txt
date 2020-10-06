@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psb00109
 1453390
     Product link    
 https://www.pcgarage.ro/boxe-portabile/sbox/bt-160-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1175596/1453390/thumbnails/bt-160-blue-412eb
 9/22/2020 5:18:31 PM 37,46 RON
 9/26/2020 6:07:20 PM 37,59 RON
 9/28/2020 8:16:36 AM 37,59 RON
+10/6/2020 11:27:14 PM 37,59 RON

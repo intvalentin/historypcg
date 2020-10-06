@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2354c001aa
 1934486
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-710bk-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/1934486/thumbnails/cartus-pfi-710bk-bla
 9/21/2020 7:19:56 PM 1.127,98 RON
 9/26/2020 11:03:57 AM 1.131,98 RON
 9/27/2020 2:24:54 PM 1.129,98 RON
+10/6/2020 8:58:33 AM 1.131,98 RON

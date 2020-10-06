@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r845853
 2063222
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-utp-75m-gray-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7960/2063222/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:02:31 PM 61,09 RON
 9/26/2020 4:26:21 PM 61,26 RON
 9/27/2020 8:30:01 PM 61,31 RON
+10/6/2020 4:43:13 PM 56,33 RON

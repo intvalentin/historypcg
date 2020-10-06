@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwi-d120h
 2000426
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwi-d120h-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/2000426/thumbnails/hiwatch-hwi-d120h
 9/22/2020 3:27:27 PM 252,77 RON
 9/26/2020 4:40:31 PM 253,48 RON
 9/27/2020 8:44:57 PM 253,64 RON
+10/6/2020 6:02:28 PM 253,36 RON

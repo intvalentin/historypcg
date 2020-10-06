@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mes25c0
 956544
     Product link    
 https://www.pcgarage.ro/storcatoare/bosch/mes25c0/
@@ -8,3 +8,4 @@ Bosch MES25C0
 https://4.grgs.ro/images/products/1/960827/956544/thumbnails/1mes25c0-9029431febb8a655a8a977d1b08b1c68.jpg
     Pret    
 9/22/2020 7:17:43 PM 409,99 RON
+10/6/2020 5:18:28 PM 487,35 RON

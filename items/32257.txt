@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9383a
 32257
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-72-magenta-plus-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32257/thumbnails/72-magenta-and-cyan-print
 9/22/2020 9:29:59 AM 357,98 RON
 9/26/2020 12:23:31 PM 357,98 RON
 9/27/2020 3:53:50 PM 357,98 RON
+10/6/2020 3:44:35 PM 397,98 RON

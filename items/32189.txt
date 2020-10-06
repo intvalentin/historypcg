@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6657ae
 32189
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-57-3-culori/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/2/32189/thumbnails/57-tri-colour-inkjet-12d7
 9/22/2020 8:58:15 AM 289,98 RON
 9/26/2020 12:12:51 PM 289,98 RON
 9/27/2020 3:47:37 PM 289,98 RON
+10/6/2020 3:20:48 PM 289,98 RON

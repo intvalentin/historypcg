@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-chs01b
 1628238
     Product link    
 https://www.pcgarage.ro/casti/canyon/cne-chs01b-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3207/1628238/thumbnails/cne-chs01b-black-149
 9/22/2020 4:04:42 PM 21,98 RON
 9/26/2020 5:08:37 PM 21,98 RON
 9/27/2020 9:12:23 PM 21,98 RON
+10/6/2020 9:43:50 PM 21,98 RON

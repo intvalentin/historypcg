@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo29
 1985018
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo29-20/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1977958/1985018/thumbnails/solo29-20-59788f5
 9/22/2020 5:01:18 PM 775,98 RON
 9/26/2020 5:47:17 PM 787,98 RON
 9/28/2020 7:56:28 AM 787,98 RON
+10/6/2020 9:52:20 PM 779,98 RON

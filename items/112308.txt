@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ae2160+-+00c
 112308
     Product link    
 https://www.pcgarage.ro/multimedia/philips/ae2160-radio-portabil/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2013982/112308/thumbnails/ae2160-radio-porta
     Pret    
 9/22/2020 6:17:13 PM 179,99 RON
 9/26/2020 7:29:52 PM 252,86 RON
+10/6/2020 7:53:18 AM 252,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1200433
 1888202
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bang-ampolufsen/beoplay-m5-bronze-tone/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1885090/1888202/thumbnails/beoplay-m5-bronze
 9/22/2020 5:16:21 PM 2.733,76 RON
 9/26/2020 5:57:40 PM 2.733,76 RON
 9/28/2020 8:06:52 AM 2.733,76 RON
+10/6/2020 11:22:08 PM 2.733,76 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bg3010+-+15
 1723200
     Product link    
 https://www.pcgarage.ro/aparate-de-tuns/philips/bg3010-15-corporal/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8674/1723200/thumbnails/bg3010-15-corporal-d
     Pret    
 9/22/2020 6:24:06 PM 145,98 RON
 9/26/2020 7:50:32 PM 145,98 RON
+10/6/2020 9:16:11 AM 126,99 RON

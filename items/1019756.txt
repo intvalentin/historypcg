@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf046x-01
 1019756
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/prima-latte-vcf046x-rosu/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/367655/1019756/thumbnails/prima-latte-rosu-d
     Pret    
 9/22/2020 7:04:30 PM 598,99 RON
 9/26/2020 8:22:43 PM 598,99 RON
+10/6/2020 2:28:01 PM 598,99 RON

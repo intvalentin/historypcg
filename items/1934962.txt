@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce16d0t-i2fb28
 1934962
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce16d0t-i2pfbm-28mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2554/1934962/thumbnails/ds-2ce16d0t-i2pfbp-2
 9/22/2020 3:35:00 PM 149,88 RON
 9/26/2020 4:48:43 PM 150,31 RON
 9/27/2020 8:52:21 PM 150,40 RON
+10/6/2020 6:49:51 PM 150,23 RON

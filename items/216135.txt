@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch564ee
 216135
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-301xl-3-culori/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/216135/thumbnails/301xl-tri-colour-ink-car
 9/22/2020 9:03:37 AM 163,98 RON
 9/26/2020 12:06:13 PM 165,98 RON
 9/27/2020 3:41:13 PM 165,98 RON
+10/6/2020 3:00:11 PM 165,98 RON

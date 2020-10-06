@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kabsi patch art al-oem-306
 1504462
     Product link    
 https://www.pcgarage.ro/cabluri-retea/art/cat5e-patch-cable-15m-grey-4/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1415042/1504462/thumbnails/cat5e-patch-cable
 9/22/2020 3:00:21 PM 25,70 RON
 9/26/2020 4:31:34 PM 25,47 RON
 9/27/2020 8:35:17 PM 25,47 RON
+10/6/2020 2:13:02 PM 25,70 RON

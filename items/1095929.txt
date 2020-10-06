@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hsa-1000xmc
 1095929
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/heinner/hsa-1000xmc/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1649828/1095929/thumbnails/aparat-de-gatit-c
     Pret    
 9/22/2020 7:23:21 PM 157,88 RON
 9/26/2020 8:58:56 PM 153,99 RON
+10/6/2020 6:10:42 PM 153,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01500-001
 2076118
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3719-ple-3-6mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4525/2076118/thumbnails/p3719-ple-3-6mm-0327
 9/22/2020 3:42:31 PM 10.631,08 RON
 9/26/2020 4:46:29 PM 10.661,50 RON
 9/27/2020 8:50:07 PM 10.667,62 RON
+10/6/2020 6:44:45 PM 10.655,59 RON

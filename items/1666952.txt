@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc47
 1666952
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/acumulator-rbc47/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1666176/1666952/thumbnails/acumulator-rbc47-
 9/22/2020 1:24:34 PM 183,03 RON
 9/26/2020 3:37:39 PM 183,55 RON
 9/27/2020 7:49:03 PM 183,64 RON
+10/6/2020 8:53:42 AM 189,12 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h-200
 1404762
     Product link    
 https://www.pcgarage.ro/boxe/microlab/h-200-21/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1263508/1404762/thumbnails/h-200-21-84fa3974
 9/22/2020 5:01:18 PM 801,98 RON
 9/26/2020 5:50:15 PM 813,98 RON
 9/28/2020 7:59:27 AM 813,98 RON
+10/6/2020 9:52:37 PM 803,98 RON

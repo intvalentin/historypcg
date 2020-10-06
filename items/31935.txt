@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4811a
 31935
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-11-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/31935/thumbnails/11-cyan-printhead-c4811a-
 9/22/2020 9:28:58 AM 245,98 RON
 9/26/2020 12:11:22 PM 299,98 RON
 9/27/2020 3:46:48 PM 295,98 RON
+10/6/2020 3:21:20 PM 299,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81325965
 118236
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/braun/170/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1192525/118236/thumbnails/1170-09060e7aa319c
     Pret    
 9/22/2020 6:35:18 PM 189,98 RON
 9/26/2020 7:56:31 PM 189,98 RON
+10/6/2020 10:32:37 AM 189,98 RON

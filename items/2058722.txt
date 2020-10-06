@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rb-m300be-c
 2058722
     Product link    
 https://www.pcgarage.ro/casti/panasonic/rb-m300be-c-cream/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2058722/thumbnails/rb-m300be-c-cream-c8
 9/22/2020 4:11:10 PM 447,98 RON
 9/26/2020 5:06:23 PM 447,98 RON
 9/27/2020 9:10:51 PM 447,98 RON
+10/6/2020 10:27:07 PM 447,98 RON

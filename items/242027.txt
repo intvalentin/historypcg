@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce270a
 242027
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-ce270a-black/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4/242027/thumbnails/black-print-cartridge-ce
 9/22/2020 9:00:24 AM 1.319,98 RON
 9/26/2020 12:06:13 PM 1.323,98 RON
 9/27/2020 3:41:13 PM 1.319,98 RON
+10/6/2020 5:41:58 PM 1.323,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0620
 2008346
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/f6a-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2008346/thumbnails/f6a-black-cde20a5
 9/22/2020 4:04:42 PM 355,98 RON
 9/26/2020 5:07:08 PM 355,98 RON
 9/27/2020 9:10:51 PM 355,98 RON
+10/6/2020 10:24:28 PM 355,98 RON

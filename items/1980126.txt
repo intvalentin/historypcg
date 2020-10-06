@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |364443
 1980126
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tronsmart/element-t6-mini-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1980126/thumbnails/element-t6-mini-blac
 9/22/2020 5:04:29 PM 98,44 RON
 9/26/2020 5:56:55 PM 98,44 RON
 9/28/2020 8:06:07 AM 98,44 RON
+10/6/2020 10:19:39 PM 99,13 RON

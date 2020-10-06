@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r1280dbb
 1513218
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r1280db-20-brown/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1263508/1513218/thumbnails/r1280db-20-brown-
 9/22/2020 5:00:13 PM 539,98 RON
 9/26/2020 5:49:31 PM 547,98 RON
 9/28/2020 7:58:42 AM 547,98 RON
+10/6/2020 9:46:22 PM 541,98 RON

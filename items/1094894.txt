@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tc-pro
 1094894
     Product link    
 https://www.pcgarage.ro/cabluri-retea/ubiquiti-networks/tough-pro-cat5e-24-awg-outdoor-shielded-305m-gray/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/1094894/thumbnails/tough-pro-cat5e-24
 9/22/2020 2:54:56 PM 676,98 RON
 9/26/2020 4:23:23 PM 697,48 RON
 9/27/2020 8:27:47 PM 697,48 RON
+10/6/2020 3:26:13 PM 690,91 RON

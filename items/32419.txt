@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9503ae
 32419
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-57-3-culori-twin-pack/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32419/thumbnails/57-tri-colour-inkjet-prin
 9/22/2020 9:29:59 AM 413,98 RON
 9/26/2020 12:27:13 PM 415,98 RON
 9/27/2020 3:57:34 PM 415,98 RON
+10/6/2020 6:48:31 PM 415,98 RON

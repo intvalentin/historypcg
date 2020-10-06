@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq4052s
 2042586
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat7-patch-cable-s-ftp-2m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1034/2042586/thumbnails/cat7-patch-cable-s-f
 9/22/2020 2:54:56 PM 20,12 RON
 9/26/2020 4:27:50 PM 20,19 RON
 9/27/2020 8:31:30 PM 20,19 RON
+10/6/2020 4:22:51 PM 20,17 RON

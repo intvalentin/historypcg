@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.35467mistyblue
 1648424
     Product link    
 https://www.pcgarage.ro/boxe-portabile/vifa/helsinki-misty-blue/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1642372/1648424/thumbnails/helsinki-misty-bl
 9/22/2020 5:16:21 PM 1.379,08 RON
 9/26/2020 6:02:07 PM 1.379,08 RON
 9/28/2020 8:11:20 AM 1.379,08 RON
+10/6/2020 11:18:09 PM 1.379,08 RON

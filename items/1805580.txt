@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tk-cu06
 1805580
     Product link    
 https://www.pcgarage.ro/kvm/trendnet/cablu-kvm-tk-cu06/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1804216/1805580/thumbnails/cablu-kvm-tk-cu06
 9/22/2020 3:45:44 PM 13,29 RON
 9/26/2020 4:54:35 PM 13,29 RON
 9/27/2020 8:58:12 PM 13,29 RON
+10/6/2020 7:54:30 PM 9,30 RON

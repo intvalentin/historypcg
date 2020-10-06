@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb316ee
 65273
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-364-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/65273/thumbnails/364-black-ink-cartridge-c
 9/22/2020 8:56:07 AM 63,98 RON
 9/26/2020 12:06:58 PM 63,98 RON
 9/27/2020 3:42:02 PM 63,98 RON
+10/6/2020 2:20:54 PM 63,98 RON

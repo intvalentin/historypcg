@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s050747
 2069094
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-al-c300-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2069094/thumbnails/toner-al-c300-yellow
 9/21/2020 8:57:07 PM 1.541,98 RON
 9/26/2020 11:34:17 AM 1.547,98 RON
 9/27/2020 2:56:43 PM 1.547,98 RON
+10/6/2020 2:09:47 PM 1.547,98 RON

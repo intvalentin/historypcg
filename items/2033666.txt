@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2123g0-i-28
 2033666
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2123g0-i-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3041/2033666/thumbnails/ds-2cd2123g0-i-28mm-
 9/22/2020 3:37:10 PM 572,73 RON
 9/26/2020 4:46:29 PM 574,37 RON
 9/27/2020 8:50:51 PM 574,70 RON
+10/6/2020 7:07:16 PM 574,06 RON

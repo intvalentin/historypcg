@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |agm734-10000s
 1928882
     Product link    
 https://www.pcgarage.ro/accesorii-retea/netgear/gigabit-agm734/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6622/1928882/thumbnails/gigabit-agm734-10000
 9/22/2020 1:35:21 PM 950,57 RON
 9/26/2020 3:42:47 PM 953,15 RON
 9/27/2020 7:54:15 PM 953,15 RON
+10/6/2020 10:28:17 AM 951,39 RON

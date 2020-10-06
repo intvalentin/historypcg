@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-1ln5eu-g+-+cca
 2010730
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hikvision/rola-cablu-cat5eutp-305m-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/9943/2010730/thumbnails/rola-cablu-cat5eutp-
 9/22/2020 2:54:56 PM 251,77 RON
 9/26/2020 4:27:50 PM 252,50 RON
 9/27/2020 8:31:30 PM 252,64 RON
+10/6/2020 5:02:04 PM 252,36 RON

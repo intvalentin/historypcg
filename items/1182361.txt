@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r1600tiii
 1182361
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r1600tiii/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/1182361/thumbnails/r1600tiii-40fae79a
 9/22/2020 5:00:13 PM 537,98 RON
 9/26/2020 5:51:00 PM 547,98 RON
 9/28/2020 8:00:11 AM 547,98 RON
+10/6/2020 8:42:16 PM 539,98 RON

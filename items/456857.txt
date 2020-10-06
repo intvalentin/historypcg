@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tl-poe200
 456857
     Product link    
 https://www.pcgarage.ro/accesorii-retea/tp-link/tl-poe200/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/456857/thumbnails/tl-poe200-3c460112e1e343
 9/22/2020 1:32:07 PM 122,74 RON
 9/26/2020 3:42:02 PM 122,74 RON
 9/27/2020 7:53:30 PM 122,74 RON
+10/6/2020 9:33:36 AM 122,74 RON

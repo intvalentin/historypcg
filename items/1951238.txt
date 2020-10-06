@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf463x
 1951238
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-656x-magenta/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6997/1951238/thumbnails/toner-656x-magenta-c
 9/22/2020 9:25:48 AM 2.395,98 RON
 9/26/2020 11:50:37 AM 2.403,98 RON
 9/27/2020 3:14:14 PM 2.397,98 RON
+10/6/2020 6:12:08 PM 2.401,98 RON

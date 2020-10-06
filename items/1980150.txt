@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |322485
 1980150
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tronsmart/element-force-plus-soundpulse-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6472/1980150/thumbnails/element-force-plus-s
 9/22/2020 5:12:02 PM 231,93 RON
 9/26/2020 5:56:55 PM 231,93 RON
 9/28/2020 8:06:07 AM 231,93 RON
+10/6/2020 10:51:13 PM 233,56 RON

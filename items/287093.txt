@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs1716i-at-g
 287093
     Product link    
 https://www.pcgarage.ro/kvm/aten/cs1716i/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/287093/thumbnails/cs1716i-01dd127a3d80ea83
 9/22/2020 3:46:47 PM 3.627,88 RON
 9/26/2020 4:55:18 PM 3.638,26 RON
 9/27/2020 8:58:55 PM 3.640,35 RON
+10/6/2020 8:03:41 PM 3.636,24 RON

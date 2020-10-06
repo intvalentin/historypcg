@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9451b001aa
 1043302
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-034y-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/722028/1043302/thumbnails/toner-034y-yellow-
 9/21/2020 6:03:29 PM 869,98 RON
 9/26/2020 11:09:09 AM 871,98 RON
 9/27/2020 2:30:28 PM 869,98 RON
+10/6/2020 8:55:11 AM 871,98 RON

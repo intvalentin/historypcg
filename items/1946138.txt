@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508234
 1946138
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/momentum-3-wireless-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5758/1946138/thumbnails/momentum-3-wireless-
 9/22/2020 4:02:33 PM 1.851,98 RON
 9/26/2020 4:58:58 PM 1.851,98 RON
 9/27/2020 9:02:39 PM 1.851,98 RON
+10/6/2020 9:40:21 PM 1.851,98 RON

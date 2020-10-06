@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r305045
 2062446
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-5e-patch-cable-sf-utp-75m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2062446/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:04:40 PM 98,22 RON
 9/26/2020 4:26:21 PM 98,51 RON
 9/27/2020 8:30:01 PM 98,56 RON
+10/6/2020 4:52:12 PM 90,58 RON

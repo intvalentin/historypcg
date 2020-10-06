@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lsxgreen
 1774184
     Product link    
 https://www.pcgarage.ro/boxe/kef/lsx-20-green/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5015/1774184/thumbnails/lsx-20-green-98ac3aa
 9/22/2020 4:52:41 PM 4.827,98 RON
 9/26/2020 5:44:20 PM 4.827,98 RON
 9/28/2020 7:52:45 AM 4.827,98 RON
+10/6/2020 8:55:48 PM 4.827,98 RON

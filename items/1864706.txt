@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r2750db
 1864706
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r2750db-20-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1864706/thumbnails/r2750db-20-black-4bd
 9/22/2020 5:01:18 PM 1.161,98 RON
 9/26/2020 5:47:18 PM 1.179,98 RON
 9/28/2020 7:56:28 AM 1.179,98 RON
+10/6/2020 8:48:46 PM 1.165,98 RON

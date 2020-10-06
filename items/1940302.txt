@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cbtsp6
 1940302
     Product link    
 https://www.pcgarage.ro/boxe-portabile/canyon/cne-cbtsp6-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6835/1940302/thumbnails/cne-cbtsp6-black-ae4
 9/22/2020 5:19:35 PM 82,78 RON
 9/26/2020 6:04:21 PM 84,09 RON
 9/28/2020 8:13:34 AM 84,09 RON
+10/6/2020 11:33:09 PM 83,07 RON

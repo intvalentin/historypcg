@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |patchcord cat6 15m green
 1837440
     Product link    
 https://www.pcgarage.ro/cabluri-retea/lanberg/cat6-patch-cable-15m-green-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3582/1837440/thumbnails/cat6-patch-cable-15m
 9/22/2020 2:12:54 PM 55,60 RON
 9/26/2020 3:49:30 PM 55,60 RON
 9/27/2020 8:01:02 PM 55,60 RON
+10/6/2020 2:42:58 PM 55,60 RON

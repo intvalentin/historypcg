@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |npr-b1700-rt
 1702340
     Product link    
 https://www.pcgarage.ro/accesorii-ups/socomec/extensie-baterie-ups-socomec-npr-1700-rt/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692296/1702340/thumbnails/extensie-baterie-
 9/22/2020 1:26:45 PM 1.948,17 RON
 9/26/2020 3:37:39 PM 1.954,86 RON
 9/27/2020 7:49:03 PM 1.954,86 RON
+10/6/2020 9:07:38 AM 1.952,66 RON

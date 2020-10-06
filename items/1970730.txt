@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01532-001
 1970730
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p1375-28-10mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/1970730/thumbnails/p1375-28-10mm-d21bcc
 9/22/2020 3:33:55 PM 4.314,94 RON
 9/26/2020 4:42:45 PM 4.327,28 RON
 9/27/2020 8:46:26 PM 4.329,77 RON
+10/6/2020 6:43:23 PM 4.324,88 RON

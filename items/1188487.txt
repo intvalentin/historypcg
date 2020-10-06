@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |8516b002aa
 1188487
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-47-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/959008/1188487/thumbnails/toner-c-exv-47-bla
 9/21/2020 7:24:17 PM 179,98 RON
 9/26/2020 11:20:11 AM 179,98 RON
 9/27/2020 2:41:32 PM 179,98 RON
+10/6/2020 9:24:30 AM 179,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4368b002aa
 294967
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-729-magenta/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/294967/thumbnails/toner-729-magenta-48daf0
 9/21/2020 7:21:01 PM 255,98 RON
 9/26/2020 11:10:38 AM 259,98 RON
 9/27/2020 2:32:03 PM 259,98 RON
+10/6/2020 7:48:22 AM 259,98 RON

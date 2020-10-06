@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pug-c6b-80-bk
 2007806
     Product link    
 https://www.pcgarage.ro/cabluri-retea/orico/cat6-pug-c6b-8m-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8078/2007806/thumbnails/cat6-pug-c6b-8m-blac
 9/22/2020 2:19:22 PM 27,08 RON
 9/26/2020 3:48:00 PM 27,51 RON
 9/27/2020 7:59:33 PM 27,51 RON
+10/6/2020 2:15:08 PM 27,20 RON

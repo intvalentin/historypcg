@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39215white
 1862370
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/a2-plus-wireless-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/530/1862370/thumbnails/a2-plus-20-white-e4a5
 9/22/2020 5:02:22 PM 1.333,98 RON
 9/26/2020 5:48:02 PM 1.333,98 RON
 9/28/2020 7:57:13 AM 1.333,98 RON
+10/6/2020 10:00:28 PM 1.333,98 RON

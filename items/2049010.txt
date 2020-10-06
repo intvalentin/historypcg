@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf125x-01
 2049010
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/barista-mini-vcf125x-01/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2045418/2049010/thumbnails/barista-mini-vcf1
     Pret    
 9/22/2020 7:06:04 PM 1.411,19 RON
 9/26/2020 8:22:43 PM 1.411,19 RON
+10/6/2020 2:44:43 PM 1.394,39 RON

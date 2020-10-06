@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf451a
 1924502
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-655a-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/6622/1924502/thumbnails/toner-cf451a-cyan-c9
 9/22/2020 9:21:35 AM 1.389,98 RON
 9/26/2020 11:52:07 AM 1.393,98 RON
 9/27/2020 3:16:37 PM 1.393,98 RON
+10/6/2020 5:44:39 PM 1.391,98 RON

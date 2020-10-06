@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kab0100cca
 1523950
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/utp-305m-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1508470/1523950/thumbnails/utp-305m-fded9d21
 9/22/2020 2:21:32 PM 182,78 RON
 9/26/2020 3:55:23 PM 182,78 RON
 9/27/2020 8:06:59 PM 182,78 RON
+10/6/2020 3:17:01 PM 187,34 RON

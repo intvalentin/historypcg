@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens426737
 1462226
     Product link    
 https://www.pcgarage.ro/casti/energy-sistem/dj2-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1462226/thumbnails/dj2-white-609aa70
 9/22/2020 4:06:50 PM 81,98 RON
 9/26/2020 5:09:22 PM 81,98 RON
 9/27/2020 9:13:08 PM 81,98 RON
+10/6/2020 10:03:10 PM 81,98 RON

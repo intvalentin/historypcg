@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b140-p-28
 2000186
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b140-p-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990366/2000186/thumbnails/hiwatch-hwt-b140-
 9/22/2020 3:24:13 PM 114,61 RON
 9/26/2020 4:41:16 PM 114,94 RON
 9/27/2020 8:45:41 PM 115,01 RON
+10/6/2020 5:43:45 PM 114,88 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3053s
 1293819
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-2m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/722028/1293819/thumbnails/primeline-cat6a-pa
 9/22/2020 2:39:51 PM 19,08 RON
 9/26/2020 4:15:11 PM 19,14 RON
 9/27/2020 8:17:29 PM 19,14 RON
+10/6/2020 1:20:16 PM 19,12 RON

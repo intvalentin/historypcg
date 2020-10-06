@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9423a
 32327
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-85-light-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32327/thumbnails/85-light-cyan-printhead-c
 9/22/2020 9:05:40 AM 259,98 RON
 9/26/2020 12:27:58 PM 243,98 RON
 9/27/2020 3:58:19 PM 243,98 RON
+10/6/2020 6:37:33 PM 243,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcm900b
 1734040
     Product link    
 https://www.pcgarage.ro/cafetiere/daewoo/dcm900b/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1728700/1734040/thumbnails/dcm900b-86169cc5e
     Pret    
 9/22/2020 7:08:43 PM 109,79 RON
 9/26/2020 8:28:39 PM 109,79 RON
+10/6/2020 3:25:41 PM 179,99 RON

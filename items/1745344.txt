@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens446001
 1745344
     Product link    
 https://www.pcgarage.ro/casti-in-ear/energy-sistem/style-1-plus-red/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1736364/1745344/thumbnails/style-1-plus-red-
 9/22/2020 4:19:39 PM 35,98 RON
 9/26/2020 5:26:30 PM 35,98 RON
 9/27/2020 9:24:55 PM 35,98 RON
+10/6/2020 10:52:49 PM 35,98 RON

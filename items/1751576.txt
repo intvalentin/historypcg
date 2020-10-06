@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201163343
 1751576
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/braun/300-red-3-flex/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1749840/1751576/thumbnails/300-red-3-flex-2a
     Pret    
 9/22/2020 6:35:52 PM 259,98 RON
 9/26/2020 7:55:02 PM 259,98 RON
+10/6/2020 10:41:20 AM 323,98 RON

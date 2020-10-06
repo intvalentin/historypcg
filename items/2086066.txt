@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401354
 2086066
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/somfy/unitate-de-comanda-somfy-tahoma-diy-pentru-controlul-intregii-locuinte-compatibil-cu-alexa-google-home/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7008/2086066/thumbnails/unitate-de-comanda-s
     Pret    
 9/22/2020 7:35:11 PM 1.998,01 RON
 9/26/2020 9:11:41 PM 1.998,01 RON
+10/6/2020 8:10:04 PM 1.998,01 RON

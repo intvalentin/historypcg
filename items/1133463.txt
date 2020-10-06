@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pp12-1.5m
 1133463
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-patch-cable-utp-15m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1053670/1133463/thumbnails/cat5e-patch-cable
 9/22/2020 2:53:52 PM 9,57 RON
 9/26/2020 4:33:50 PM 9,72 RON
 9/27/2020 8:37:31 PM 9,72 RON
+10/6/2020 11:02:45 AM 9,61 RON

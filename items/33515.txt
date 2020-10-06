@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q5945a
 33515
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q5945a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/33515/thumbnails/laserjet-q5945a-black-pri
 9/22/2020 9:20:30 AM 1.333,98 RON
 9/26/2020 12:08:27 PM 1.337,98 RON
 9/27/2020 3:43:38 PM 1.337,98 RON
+10/6/2020 5:42:46 PM 1.337,98 RON

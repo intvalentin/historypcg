@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp3072u
 1787328
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6a-patch-cable-u-utp-5m-gray/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1779504/1787328/thumbnails/cat6a-patch-cable
 9/22/2020 2:15:03 PM 16,73 RON
 9/26/2020 3:50:14 PM 16,49 RON
 9/27/2020 8:01:47 PM 16,49 RON
+10/6/2020 3:53:09 PM 16,73 RON

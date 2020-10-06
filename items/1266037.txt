@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2074u
 1266037
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-5m-red/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/746930/1266037/thumbnails/econline-cat6-patc
 9/22/2020 2:31:13 PM 13,53 RON
 9/26/2020 4:18:55 PM 13,57 RON
 9/27/2020 8:22:33 PM 13,57 RON
+10/6/2020 12:05:44 PM 13,56 RON

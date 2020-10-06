@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b6y37a
 635601
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-771c-photo-black-triple-pack/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/635601/thumbnails/cartus-771c-photo-black-
 9/21/2020 10:27:14 PM 3.467,98 RON
 9/26/2020 12:22:01 PM 3.477,98 RON
 9/27/2020 3:52:20 PM 3.479,98 RON
+10/6/2020 8:06:36 PM 3.477,98 RON

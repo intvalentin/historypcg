@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1085u
 1297445
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-75m-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/1297445/thumbnails/cat5e-patch-cable-utp-0
 9/22/2020 2:27:59 PM 11,91 RON
 9/26/2020 4:02:06 PM 11,95 RON
 9/27/2020 8:13:44 PM 11,95 RON
+10/6/2020 11:37:45 AM 11,94 RON

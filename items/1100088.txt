@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbgpoe
 1100088
     Product link    
 https://www.pcgarage.ro/accesorii-retea/mikrotik/gigabit-rbgpoe-adaptor-fastethernet-poe-9-48v/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1053670/1100088/thumbnails/gigabit-rbgpoe-ad
 9/22/2020 1:29:57 PM 30,06 RON
 9/26/2020 3:41:18 PM 30,06 RON
 9/27/2020 7:52:46 PM 30,06 RON
+10/6/2020 9:42:32 AM 30,06 RON

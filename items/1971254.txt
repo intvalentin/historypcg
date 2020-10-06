@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ps3000rt3-230
 1971254
     Product link    
 https://www.pcgarage.ro/ups/vertiv/ps3000rt3-230-3000va/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8486/1971254/thumbnails/ps1000rt3-230-1000va
 9/22/2020 1:00:49 PM 3.510,24 RON
 9/26/2020 3:25:43 PM 3.519,63 RON
 9/27/2020 7:37:06 PM 3.519,63 RON
+10/6/2020 8:00:58 AM 3.513,24 RON

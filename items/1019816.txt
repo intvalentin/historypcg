@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf045x-01
 1019816
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/prima-latte-argintiu/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1175596/1019816/thumbnails/1prima-latte-argi
     Pret    
 9/22/2020 7:04:30 PM 598,99 RON
 9/26/2020 8:22:43 PM 598,99 RON
+10/6/2020 2:28:18 PM 598,99 RON

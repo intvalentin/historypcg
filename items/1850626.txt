@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |panther
 1850626
     Product link    
 https://www.pcgarage.ro/boxe/natec/panther-20-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848722/1850626/thumbnails/panther-20-black-
 9/22/2020 4:48:24 PM 49,98 RON
 9/26/2020 5:42:51 PM 49,98 RON
 9/28/2020 7:52:01 AM 49,98 RON
+10/6/2020 8:17:59 PM 49,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq4082s
 2042598
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat7-patch-cable-s-ftp-75m-gray/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2042598/thumbnails/cat7-patch-cable-s-f
 9/22/2020 1:39:37 PM 55,27 RON
 9/26/2020 3:47:16 PM 55,46 RON
 9/27/2020 7:58:45 PM 55,46 RON
+10/6/2020 2:42:42 PM 55,40 RON

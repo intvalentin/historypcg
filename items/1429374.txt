@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vst071x-01
 1429374
     Product link    
 https://www.pcgarage.ro/preparare-paine/breville/panini-maker-duraceramic/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1263508/1429374/thumbnails/panini-maker-dura
     Pret    
 9/22/2020 7:14:19 PM 395,99 RON
 9/26/2020 8:38:21 PM 395,99 RON
+10/6/2020 4:46:30 PM 249,47 RON

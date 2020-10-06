@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-50
 2058142
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-50-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2058142/thumbnails/abts-50-black-cdfa0e
 9/22/2020 5:05:33 PM 220,22 RON
 9/26/2020 5:55:26 PM 220,22 RON
 9/28/2020 8:04:38 AM 220,22 RON
+10/6/2020 10:53:03 PM 240,38 RON

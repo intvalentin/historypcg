@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |22000-56
 1115743
     Product link    
 https://www.pcgarage.ro/cafetiere/russell-hobbs/22000-56/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4917/1115743/thumbnails/chester-22000-56-9e0
     Pret    
 9/22/2020 7:08:43 PM 319,99 RON
 9/26/2020 8:28:39 PM 319,99 RON
+10/6/2020 3:17:43 PM 319,99 RON

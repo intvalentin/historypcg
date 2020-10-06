@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r12u-rd
 2055342
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r12u-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2055342/thumbnails/r12u-red-b40db67b665
 9/22/2020 4:48:24 PM 91,98 RON
 9/26/2020 5:42:08 PM 91,98 RON
 9/28/2020 7:51:16 AM 91,98 RON
+10/6/2020 8:20:11 PM 89,98 RON

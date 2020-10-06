@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |326684
 1637656
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/tchibo/cafissimo-mini-classy-white-alb/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1630882/1637656/thumbnails/cafissimo-mini-cl
     Pret    
 9/22/2020 7:05:01 PM 223,99 RON
 9/26/2020 8:25:42 PM 223,99 RON
+10/6/2020 2:31:01 PM 179,99 RON

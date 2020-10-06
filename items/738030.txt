@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b6y10a
 738030
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-771c-yellow/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/735074/738030/thumbnails/cartus-771c-yellow-
 9/22/2020 9:20:30 AM 1.217,98 RON
 9/26/2020 12:02:29 PM 1.221,98 RON
 9/27/2020 3:37:15 PM 1.221,98 RON
+10/6/2020 5:36:58 PM 1.221,98 RON

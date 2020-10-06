@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch648a
 248607
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-761-matte-black-plus-matte-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4/248607/thumbnails/761-matte-black-matte-bl
 9/22/2020 9:14:02 AM 759,98 RON
 9/26/2020 12:05:28 PM 761,98 RON
 9/27/2020 3:40:25 PM 761,98 RON
+10/6/2020 4:48:54 PM 761,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb541a
 54209
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-125a-cyan/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/54209/thumbnails/color-laserjet-cb541a-cya
 9/22/2020 9:07:43 AM 383,98 RON
 9/26/2020 12:10:37 PM 385,98 RON
 9/27/2020 3:45:13 PM 385,98 RON
+10/6/2020 3:36:45 PM 385,98 RON

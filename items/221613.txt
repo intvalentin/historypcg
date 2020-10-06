@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smx1500rmi2u
 221613
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-x-1500va-rack-tower-lcd-230v/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/221613/thumbnails/smart-ups-x-1500va-rack-
 9/22/2020 1:01:53 PM 5.236,54 RON
 9/26/2020 3:31:40 PM 5.380,24 RON
 9/27/2020 7:43:04 PM 5.383,33 RON
+10/6/2020 8:05:28 AM 5.379,79 RON

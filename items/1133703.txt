@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fpc-5004e-l+-+100
 1133703
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-ftp-stranded-cable-cca-100m-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/1133703/thumbnails/cat5e-utp-stranded
 9/22/2020 3:04:40 PM 117,44 RON
 9/26/2020 4:33:50 PM 119,29 RON
 9/27/2020 8:37:31 PM 119,29 RON
+10/6/2020 3:10:16 PM 117,98 RON

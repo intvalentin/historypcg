@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ae1530+-+00
 112336
     Product link    
 https://www.pcgarage.ro/multimedia/philips/ae1530-radio-portabil/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2013982/112336/thumbnails/ae1530-radio-porta
     Pret    
 9/22/2020 6:16:39 PM 99,99 RON
 9/26/2020 7:29:52 PM 154,68 RON
+10/6/2020 7:51:25 AM 154,68 RON

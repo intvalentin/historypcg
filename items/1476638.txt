@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51mf8245aa000
 1476638
     Product link    
 https://www.pcgarage.ro/boxe/creative/sound-blasterx-katana/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1126098/1476638/thumbnails/sound-blasterx-ka
 9/22/2020 4:51:36 PM 1.283,98 RON
 9/26/2020 5:45:04 PM 1.283,98 RON
 9/28/2020 7:54:15 AM 1.283,98 RON
+10/6/2020 9:58:38 PM 1.283,98 RON

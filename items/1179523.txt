@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0776-001
 1179523
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p1435-e/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/849800/1179523/thumbnails/p1435-e-fec0c2fcb9
 9/22/2020 3:41:29 PM 4.979,79 RON
 9/26/2020 4:50:12 PM 4.994,04 RON
 9/27/2020 8:53:49 PM 4.996,91 RON
+10/6/2020 7:40:55 PM 4.991,28 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t543400
 33079
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t543400-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2/33079/thumbnails/epson-cart.png
 9/21/2020 8:49:32 PM 351,98 RON
 9/26/2020 11:46:55 AM 351,98 RON
 9/27/2020 3:10:15 PM 351,98 RON
+10/6/2020 1:13:51 PM 351,98 RON

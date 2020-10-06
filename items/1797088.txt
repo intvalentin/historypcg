@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-852225007060
 1797088
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/a5-plus-wireless-20-white/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6361/1797088/thumbnails/a5-plus-wireless-whi
 9/22/2020 5:02:23 PM 2.299,98 RON
 9/26/2020 5:48:02 PM 2.299,98 RON
 9/28/2020 7:57:13 AM 2.299,98 RON
+10/6/2020 10:03:12 PM 2.299,98 RON

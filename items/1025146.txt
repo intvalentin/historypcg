@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t692500
 1025146
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-black-t6925/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/735074/1025146/thumbnails/cartus-black-t6925
 9/21/2020 7:29:43 PM 315,98 RON
 9/26/2020 11:32:48 AM 315,98 RON
 9/27/2020 2:54:20 PM 317,98 RON
+10/6/2020 11:37:01 AM 315,98 RON

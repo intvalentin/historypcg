@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf320a
 1026201
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-652a-black/
@@ -12,3 +12,4 @@ https://1.grgs.ro/images/products/1/853128/1026201/thumbnails/toner-hp-652a-blac
 9/22/2020 9:18:21 AM 1.103,98 RON
 9/26/2020 12:01:00 PM 1.107,98 RON
 9/27/2020 3:35:37 PM 1.107,98 RON
+10/6/2020 5:28:06 PM 1.107,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s8670
 117776
     Product link    
 https://www.pcgarage.ro/aparate-de-coafat/remington/s8670/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1301253/117776/thumbnails/1s8670-1a38cb1eca2
     Pret    
 9/22/2020 6:56:01 PM 129,99 RON
 9/26/2020 8:10:48 PM 129,99 RON
+10/6/2020 12:47:48 PM 199,99 RON

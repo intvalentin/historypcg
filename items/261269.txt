@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |net1000-pr-1u
 261269
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-pr-1000va-rack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/261269/thumbnails/netys-pr-1000va-rack-24c
 9/22/2020 12:59:44 PM 2.092,75 RON
 9/26/2020 3:31:40 PM 2.099,88 RON
 9/27/2020 7:43:04 PM 2.095,18 RON
+10/6/2020 7:54:33 AM 2.097,45 RON

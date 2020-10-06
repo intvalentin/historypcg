@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |981-000406
 270531
     Product link    
 https://www.pcgarage.ro/casti/logitech/h390/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/270531/thumbnails/h390-cf5e8f5f66661cfcdd2
 9/22/2020 4:03:37 PM 179,98 RON
 9/26/2020 5:13:05 PM 181,98 RON
 9/27/2020 9:16:52 PM 181,98 RON
+10/6/2020 10:16:25 PM 181,98 RON

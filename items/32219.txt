@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9351ae
 32219
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-21-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1/32219/thumbnails/c9351ae400x400.jpg
 9/22/2020 8:53:59 AM 111,98 RON
 9/26/2020 12:13:36 PM 111,98 RON
 9/27/2020 3:48:27 PM 111,98 RON
+10/6/2020 2:37:44 PM 111,98 RON

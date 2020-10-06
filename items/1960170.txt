@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f5000
 1960170
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/remington/style-series-f5-f5000/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1261/1960170/thumbnails/style-series-f5-f500
     Pret    
 9/22/2020 6:35:52 PM 277,19 RON
 9/26/2020 7:55:02 PM 277,19 RON
+10/6/2020 10:37:49 AM 277,19 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ne105838
 1736756
     Product link    
 https://www.pcgarage.ro/masini-de-tocat/tefal/odm-ne105/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1736364/1736756/thumbnails/odm-ne105-c4edb41
     Pret    
 9/22/2020 7:22:14 PM 229,99 RON
 9/26/2020 8:57:29 PM 228,99 RON
+10/6/2020 6:02:21 PM 228,99 RON

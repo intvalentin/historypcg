@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f6u18ae
 1424802
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-953xl-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1263508/1424802/thumbnails/cartus-953xl-yell
 9/22/2020 8:53:59 AM 149,98 RON
 9/26/2020 11:58:46 AM 149,98 RON
 9/27/2020 3:33:10 PM 149,98 RON
+10/6/2020 2:56:25 PM 151,98 RON

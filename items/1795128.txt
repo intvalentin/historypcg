@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shplug01
 1795128
     Product link    
 https://www.pcgarage.ro/prize-inteligente/tnb/smart-wifi-wall-plug/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3049/1795128/thumbnails/smart-wifi-wall-plug
     Pret    
 9/22/2020 7:35:44 PM 130,13 RON
 9/26/2020 9:13:11 PM 130,13 RON
+10/6/2020 8:15:13 PM 130,13 RON

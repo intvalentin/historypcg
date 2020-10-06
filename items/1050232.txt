@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m-1910
 1050232
     Product link    
 https://www.pcgarage.ro/boxe/microlab/m-1910/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/851375/1050232/thumbnails/m-1910-aa484143fd4
 9/22/2020 5:00:13 PM 473,98 RON
 9/26/2020 5:51:45 PM 481,98 RON
 9/28/2020 8:00:56 AM 481,98 RON
+10/6/2020 9:44:10 PM 475,98 RON

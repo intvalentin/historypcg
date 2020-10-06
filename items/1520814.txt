@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo4011-0.5
 1520814
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/eco-line-utp-05m-gri/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1516422/1520814/thumbnails/eco-line-utp-05m-
 9/22/2020 2:24:45 PM 9,88 RON
 9/26/2020 3:56:08 PM 9,88 RON
 9/27/2020 8:07:43 PM 9,88 RON
+10/6/2020 11:06:01 AM 9,88 RON

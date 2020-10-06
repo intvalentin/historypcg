@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ap9631
 89395
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/network-management-card-2-with-environmental-monitoring/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/89395/thumbnails/network-management-card-2
 9/22/2020 1:23:30 PM 3.074,41 RON
 9/26/2020 3:35:26 PM 3.083,20 RON
 9/27/2020 7:46:48 PM 3.084,98 RON
+10/6/2020 8:45:45 AM 3.176,63 RON

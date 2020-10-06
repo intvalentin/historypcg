@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2661b002aa
 216579
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-718-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/216579/thumbnails/cyan-toner-cartridge-crg
 9/21/2020 5:50:05 PM 521,98 RON
 9/26/2020 11:14:19 AM 523,98 RON
 9/27/2020 2:35:58 PM 523,98 RON
+10/6/2020 8:25:49 AM 523,98 RON

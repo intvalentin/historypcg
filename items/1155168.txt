@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-2pr-cat6
 1155168
     Product link    
 https://www.pcgarage.ro/accesorii-retea/itb/priza-dubla-aplicata-cat6-utp/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/1155168/thumbnails/priza-dubla-aplica
 9/22/2020 1:31:02 PM 29,45 RON
 9/26/2020 3:40:33 PM 29,55 RON
 9/27/2020 7:52:02 PM 29,55 RON
+10/6/2020 9:23:21 AM 29,52 RON

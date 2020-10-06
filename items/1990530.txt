@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-wf550-8
 1990530
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-wifi550-nvr-plus-8-camere-wifi/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/1990530/thumbnails/house-wifi550-nvr
 9/22/2020 3:08:52 PM 1.800,47 RON
 9/26/2020 4:36:03 PM 1.800,47 RON
 9/27/2020 8:39:44 PM 1.800,47 RON
+10/6/2020 5:23:00 PM 1.800,47 RON

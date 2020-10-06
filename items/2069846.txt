@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rm mini 3
 2069846
     Product link    
 https://www.pcgarage.ro/huburi-inteligente/broadlink/rm-mini-3-wi-fi-4g/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4273/2069846/thumbnails/rm-mini-3-wi-fi-4g-a
     Pret    
 9/22/2020 7:34:02 PM 89,10 RON
 9/26/2020 9:10:56 PM 89,10 RON
+10/6/2020 7:57:42 PM 89,10 RON

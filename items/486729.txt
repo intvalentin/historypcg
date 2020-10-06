@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmr08r2
 486729
     Product link    
 https://www.pcgarage.ro/detalii-produs/486729/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1443558/486729/thumbnails/1mmr08r2-3323611e7
     Pret    
 9/22/2020 7:10:55 PM 166,03 RON
 9/26/2020 8:35:18 PM 130,06 RON
+10/6/2020 3:53:09 PM 130,06 RON

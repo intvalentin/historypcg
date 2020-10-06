@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |81458380
 883394
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/se810-face/
@@ -8,3 +8,4 @@ Braun SE810 Face
 https://2.grgs.ro/images/products/1/1355434/883394/thumbnails/1se810-face-7c19b265e6294de496b7480afc1059ef.jpg
     Pret    
 9/22/2020 6:57:44 PM 333,98 RON
+10/6/2020 1:02:37 PM 333,98 RON

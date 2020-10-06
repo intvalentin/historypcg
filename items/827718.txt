@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs1734b-a7-g
 827718
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs1734b/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/2/827718/thumbnails/switch-kvm-cs1734b-b42cc
 9/22/2020 3:46:47 PM 719,57 RON
 9/26/2020 4:54:35 PM 721,64 RON
 9/27/2020 8:58:12 PM 722,06 RON
+10/6/2020 8:01:46 PM 721,23 RON

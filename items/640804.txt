@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31710146100
 640804
     Product link    
 https://www.pcgarage.ro/casti/genius/over-ear-hs-300n/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5/640804/thumbnails/hs-300n-c6367920508eaacc
 9/22/2020 4:04:42 PM 33,98 RON
 9/26/2020 5:12:20 PM 35,98 RON
 9/27/2020 9:16:08 PM 35,98 RON
+10/6/2020 9:45:30 PM 33,98 RON

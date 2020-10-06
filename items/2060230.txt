@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nk4003
 2060230
     Product link    
 https://www.pcgarage.ro/accesorii-retea/logilink/mufa-rj-45-pentru-cablu-ftp-sftp-metalica/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6954/2060230/thumbnails/mufa-rj-45-pentru-ca
 9/22/2020 1:31:02 PM 15,63 RON
 9/26/2020 3:39:49 PM 15,68 RON
 9/27/2020 7:51:17 PM 15,68 RON
+10/6/2020 9:20:20 AM 15,66 RON

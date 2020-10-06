@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0210110026
 2033002
     Product link    
 https://www.pcgarage.ro/fierbatoare/delonghi/icona-vintage-kbov2001bk/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3041/2033002/thumbnails/icona-vintage-kbov20
     Pret    
 9/22/2020 7:20:31 PM 279,98 RON
 9/26/2020 8:44:21 PM 279,98 RON
+10/6/2020 5:45:03 PM 279,98 RON

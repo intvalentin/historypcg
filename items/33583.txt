@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q7582a
 33583
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q7582a-yellow/
@@ -12,3 +12,4 @@ https://4.grgs.ro/images/products/1/3/33583/thumbnails/color-laserjet-q7582a-yel
 9/22/2020 9:18:21 AM 1.063,98 RON
 9/26/2020 12:08:27 PM 1.067,98 RON
 9/27/2020 3:43:38 PM 1.067,98 RON
+10/6/2020 5:22:01 PM 1.065,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb331ee
 32429
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-338-black-twin-pack/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32429/thumbnails/338-black-inkjet-print-ca
 9/22/2020 8:57:11 AM 181,98 RON
 9/26/2020 12:11:22 PM 181,98 RON
 9/27/2020 3:46:01 PM 181,98 RON
+10/6/2020 3:02:28 PM 181,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2079s
 2043550
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-5m-pink/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1034/2043550/thumbnails/cat6-patch-cable-f-u
 9/22/2020 2:39:51 PM 18,85 RON
 9/26/2020 3:45:46 PM 18,91 RON
 9/27/2020 7:57:16 PM 18,91 RON
+10/6/2020 1:17:32 PM 18,89 RON

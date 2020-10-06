@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2053u
 1265967
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-2m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/722028/1265967/thumbnails/econline-cat6-patc
 9/22/2020 2:42:01 PM 20,23 RON
 9/26/2020 4:18:55 PM 20,30 RON
 9/27/2020 8:22:33 PM 20,30 RON
+10/6/2020 1:29:57 PM 20,28 RON

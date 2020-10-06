@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb381a
 69277
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cb381a-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/69277/thumbnails/color-laserjet-cb381a-cya
 9/22/2020 9:00:24 AM 1.877,98 RON
 9/26/2020 12:06:58 PM 1.885,98 RON
 9/27/2020 3:42:02 PM 1.885,98 RON
+10/6/2020 6:04:10 PM 1.885,98 RON

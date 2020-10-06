@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cre190773
 1605466
     Product link    
 https://www.pcgarage.ro/boxe-portabile/creative/muvo-2c-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1541210/1605466/thumbnails/muvo-2c-blue-7690
 9/22/2020 5:09:52 PM 180,38 RON
 9/26/2020 6:02:51 PM 181,00 RON
 9/28/2020 8:11:20 AM 181,00 RON
+10/6/2020 10:39:40 PM 180,97 RON

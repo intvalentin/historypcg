@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t636600
 218483
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t636600-light-magenta/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/218483/thumbnails/cartus-vivid-light-magen
 9/21/2020 8:56:03 PM 1.461,98 RON
 9/26/2020 11:40:58 AM 1.465,98 RON
 9/27/2020 3:03:54 PM 1.465,98 RON
+10/6/2020 2:05:27 PM 1.465,98 RON

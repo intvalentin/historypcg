@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uf-sm-10g-s-20
 2004266
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/u-fiber-single-mode-bidi-sfp-plus-20-pack/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1844684/2004266/thumbnails/u-fiber-single-mo
 9/22/2020 1:36:24 PM 9.162,32 RON
 9/26/2020 3:42:47 PM 9.285,24 RON
 9/27/2020 7:54:15 PM 9.285,24 RON
+10/6/2020 10:32:28 AM 9.212,83 RON

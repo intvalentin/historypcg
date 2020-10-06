@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9e15ki
 1704160
     Product link    
 https://www.pcgarage.ro/ups/eaton/9e15ki-15000va-hardwire/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1689668/1704160/thumbnails/9e10ki-10000va-ha
 9/22/2020 1:18:08 PM 16.724,17 RON
 9/26/2020 3:27:13 PM 16.724,17 RON
 9/27/2020 7:38:35 PM 16.724,17 RON
+10/6/2020 8:18:34 AM 16.724,17 RON

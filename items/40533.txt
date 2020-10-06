@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc43
 40533
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-43/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/40533/thumbnails/replacement-battery-cartr
 9/22/2020 1:23:30 PM 2.134,48 RON
 9/26/2020 3:35:26 PM 2.141,82 RON
 9/27/2020 7:46:48 PM 2.141,82 RON
+10/6/2020 8:44:41 AM 2.139,41 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |net-vision7card
 1703452
     Product link    
 https://www.pcgarage.ro/accesorii-ups/socomec/net-vision7card/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1692136/1703452/thumbnails/net-vision7card-7
 9/22/2020 1:23:30 PM 1.477,90 RON
 9/26/2020 3:34:41 PM 1.482,12 RON
 9/27/2020 7:46:04 PM 1.482,97 RON
+10/6/2020 8:43:35 AM 1.482,00 RON

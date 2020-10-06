@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1067s
 1287170
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-3m-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/735074/1287170/thumbnails/cat5e-patch-cable-
 9/22/2020 2:44:10 PM 21,68 RON
 9/26/2020 4:15:56 PM 21,75 RON
 9/27/2020 8:18:14 PM 21,75 RON
+10/6/2020 1:55:41 PM 21,73 RON

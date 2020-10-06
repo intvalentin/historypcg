@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ip620
 1990718
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/pni/ip620-28-8mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1977958/1990718/thumbnails/ip640-28-12mm-dbb
 9/22/2020 3:37:10 PM 571,20 RON
 9/26/2020 4:47:58 PM 571,20 RON
 9/27/2020 8:51:36 PM 571,20 RON
+10/6/2020 7:06:43 PM 571,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201113898
 1706812
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/braun/3050cc/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1691852/1706812/thumbnails/3050cc-be6ea7294c
     Pret    
 9/22/2020 6:35:52 PM 467,98 RON
 9/26/2020 7:55:02 PM 467,98 RON
+10/6/2020 10:47:46 AM 645,98 RON

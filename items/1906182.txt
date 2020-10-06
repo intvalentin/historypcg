@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t0b29a
 1906182
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-982x-yellow/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6811/1906182/thumbnails/cartus-982x-yellow-4
 9/22/2020 9:33:06 AM 883,98 RON
 9/26/2020 12:15:05 PM 837,98 RON
 9/27/2020 3:50:01 PM 839,98 RON
+10/6/2020 7:06:41 PM 837,98 RON

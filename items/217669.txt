@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn633a
 217669
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-772-photo-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/217669/thumbnails/772-photo-black-cn633a-a
 9/22/2020 9:32:05 AM 673,98 RON
 9/26/2020 12:22:46 PM 675,98 RON
 9/27/2020 3:53:50 PM 675,98 RON
+10/6/2020 6:56:16 PM 675,98 RON

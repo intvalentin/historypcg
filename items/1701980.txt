@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcs-2670l
 1701980
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/dcs-2670l/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1692136/1701980/thumbnails/dcs-2670l-79acaf5
 9/22/2020 3:39:19 PM 824,40 RON
 9/26/2020 4:50:12 PM 827,24 RON
 9/27/2020 8:53:49 PM 827,24 RON
+10/6/2020 7:15:51 PM 827,10 RON

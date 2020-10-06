@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.34037black
 1652096
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/hd6-20-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1649828/1652096/thumbnails/hd6-20-black-9477
 9/22/2020 4:51:36 PM 3.587,98 RON
 9/26/2020 5:44:20 PM 3.587,98 RON
 9/28/2020 7:53:30 AM 3.587,98 RON
+10/6/2020 8:53:24 PM 3.587,98 RON

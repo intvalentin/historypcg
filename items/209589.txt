@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmc-710
 209589
     Product link    
 https://www.pcgarage.ro/casti/modecom/mc-710-x-cellence/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/209589/thumbnails/mc-710-x-cellence-113bc5
 9/22/2020 4:07:55 PM 95,98 RON
 9/26/2020 5:13:05 PM 95,98 RON
 9/27/2020 9:16:52 PM 95,98 RON
+10/6/2020 10:04:15 PM 95,98 RON

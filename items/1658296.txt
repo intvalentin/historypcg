@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-001301
 1658296
     Product link    
 https://www.pcgarage.ro/boxe/logitech/g560-lightsync-21-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5286/1658296/thumbnails/g560-lightsync-21-bl
 9/22/2020 4:53:45 PM 1.047,98 RON
 9/26/2020 5:48:47 PM 1.053,98 RON
 9/28/2020 7:57:57 AM 1.053,98 RON
+10/6/2020 9:55:01 PM 1.051,98 RON

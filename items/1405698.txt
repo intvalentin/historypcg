@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |m-100
 1405698
     Product link    
 https://www.pcgarage.ro/boxe/microlab/m-100-21-10w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1405698/thumbnails/m-100-21-10w-53a4
 9/22/2020 4:57:00 PM 117,98 RON
 9/26/2020 5:50:15 PM 119,98 RON
 9/28/2020 7:59:27 AM 119,98 RON
+10/6/2020 9:13:35 PM 117,98 RON

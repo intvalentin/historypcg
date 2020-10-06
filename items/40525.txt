@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc31
 40525
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-31/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/40525/thumbnails/replacement-battery-cartr
 9/22/2020 1:26:45 PM 1.398,76 RON
 9/26/2020 3:39:04 PM 1.403,57 RON
 9/27/2020 7:50:31 PM 1.403,57 RON
+10/6/2020 9:05:11 AM 1.440,33 RON

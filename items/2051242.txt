@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r813509
 2051242
     Product link    
 https://www.pcgarage.ro/accesorii-retea/rm/r813509-modul-de-conectare-cat6a-1x-rj45/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2051242/thumbnails/r813509-modul-de-con
 9/22/2020 1:31:02 PM 30,48 RON
 9/26/2020 3:39:49 PM 30,56 RON
 9/27/2020 7:51:17 PM 30,58 RON
+10/6/2020 9:23:52 AM 30,56 RON

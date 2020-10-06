@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |peirc01
 2055870
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/perenio/indoor-motor-pir-36mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7193/2055870/thumbnails/indoor-motor-pir-36m
 9/22/2020 3:28:31 PM 318,42 RON
 9/26/2020 4:39:47 PM 323,44 RON
 9/27/2020 8:43:26 PM 323,44 RON
+10/6/2020 6:09:24 PM 319,51 RON

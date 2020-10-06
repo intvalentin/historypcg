@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs62z-a7
 827663
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs62/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/722028/827663/thumbnails/switch-kvm-cs62-2c9
 9/22/2020 3:45:44 PM 101,30 RON
 9/26/2020 4:55:18 PM 101,59 RON
 9/27/2020 8:58:55 PM 101,64 RON
+10/6/2020 7:58:19 PM 101,53 RON

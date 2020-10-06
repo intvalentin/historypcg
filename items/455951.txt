@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0520-002
 455951
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m1014/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/455951/thumbnails/m1014-edb383a986dc16cb0b
 9/22/2020 3:39:19 PM 1.276,52 RON
 9/26/2020 4:51:42 PM 1.280,18 RON
 9/27/2020 8:55:18 PM 1.280,92 RON
+10/6/2020 7:21:12 PM 1.279,47 RON

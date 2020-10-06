@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2de7225iw-ae
 1949894
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2de7225iw-ae-48-120mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6166/1949894/thumbnails/ds-2de7225iw-ae-48-1
 9/22/2020 3:40:24 PM 2.843,77 RON
 9/26/2020 4:48:43 PM 2.851,89 RON
 9/27/2020 8:52:20 PM 2.853,53 RON
+10/6/2020 7:35:15 PM 2.850,31 RON

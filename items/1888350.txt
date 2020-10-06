@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-s4
 1888350
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-s4-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1885090/1888350/thumbnails/abts-s4-black-909
 9/22/2020 5:07:43 PM 106,28 RON
 9/26/2020 5:57:40 PM 106,28 RON
 9/28/2020 8:06:52 AM 106,28 RON
+10/6/2020 10:23:53 PM 106,28 RON

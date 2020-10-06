@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ch645a
 248609
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-761-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4/248609/thumbnails/761-yellow-designjet-pri
 9/22/2020 9:14:02 AM 759,98 RON
 9/26/2020 12:05:28 PM 761,98 RON
 9/27/2020 3:40:25 PM 761,98 RON
+10/6/2020 4:49:10 PM 761,98 RON

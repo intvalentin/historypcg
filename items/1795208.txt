@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shbulb01
 1795208
     Product link    
 https://www.pcgarage.ro/becuri-inteligente/tnb/bec-led-6w-wi-fi/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3049/1795208/thumbnails/bec-led-wi-fi-2e5456
     Pret    
 9/22/2020 7:39:38 PM 129,98 RON
 9/26/2020 9:19:11 PM 129,98 RON
+10/6/2020 8:52:40 PM 129,98 RON

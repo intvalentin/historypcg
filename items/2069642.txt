@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz04-02490100-r3m1
 2069642
     Product link    
 https://www.pcgarage.ro/casti/razer/opus-wireless-midnight-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4273/2069642/thumbnails/opus-wireless-midnig
 9/22/2020 4:01:28 PM 1.169,98 RON
 9/26/2020 4:56:01 PM 1.173,98 RON
 9/27/2020 8:59:38 PM 1.173,98 RON
+10/6/2020 9:34:27 PM 1.171,98 RON

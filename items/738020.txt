@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b6y08a
 738020
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-771c-chromatic-red/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/472405/738020/thumbnails/cartus-771c-chromat
 9/22/2020 9:19:25 AM 1.217,98 RON
 9/26/2020 12:02:29 PM 1.221,98 RON
 9/27/2020 3:37:15 PM 1.231,98 RON
+10/6/2020 5:40:23 PM 1.233,98 RON

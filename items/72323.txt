@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2448b002aa
 72323
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-24-cyan/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/72323/thumbnails/c-exv-24-toner-c-53d19aef
 9/21/2020 7:03:17 PM 661,98 RON
 9/26/2020 11:13:36 AM 663,98 RON
 9/27/2020 2:35:12 PM 661,98 RON
+10/6/2020 8:42:17 AM 661,98 RON

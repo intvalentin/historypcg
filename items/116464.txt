@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |esam3000b
 116464
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/delonghi/esam3000b/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1000151/116464/thumbnails/1esam3000b-d550a80
     Pret    
 9/22/2020 7:04:30 PM 1.379,99 RON
 9/26/2020 8:22:43 PM 1.379,99 RON
+10/6/2020 2:29:40 PM 1.379,99 RON

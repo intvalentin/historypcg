@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2141s
 1294960
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-50m-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1109408/1294960/thumbnails/primeline-cat6-pa
 9/22/2020 2:50:38 PM 143,69 RON
 9/26/2020 4:03:35 PM 142,45 RON
 9/27/2020 8:15:16 PM 142,45 RON
+10/6/2020 4:58:01 PM 144,30 RON

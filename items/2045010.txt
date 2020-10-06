@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |afm400
 2045010
     Product link    
 https://www.pcgarage.ro/blendere-amp-tocatoare/bestron/blender-afm400/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1034/2045010/thumbnails/blender-afm400-2ba8c
     Pret    
 9/22/2020 7:10:21 PM 139,99 RON
 9/26/2020 8:30:53 PM 122,50 RON
+10/6/2020 3:31:59 PM 122,50 RON

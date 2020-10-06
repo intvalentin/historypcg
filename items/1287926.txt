@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3111s
 1287926
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-20m-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1053670/1287926/thumbnails/primeline-cat6a-p
 9/22/2020 2:16:08 PM 103,02 RON
 9/26/2020 4:15:56 PM 103,38 RON
 9/27/2020 8:18:14 PM 103,38 RON
+10/6/2020 3:09:11 PM 109,43 RON

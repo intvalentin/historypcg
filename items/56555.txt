@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3115b001aa
 56555
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-kp108in-plus-hartie/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/56555/thumbnails/cartus-kp108in-plus-harti
 9/21/2020 7:24:17 PM 157,98 RON
 9/26/2020 11:27:36 AM 159,98 RON
 9/27/2020 2:49:34 PM 159,98 RON
+10/6/2020 9:23:41 AM 157,98 RON

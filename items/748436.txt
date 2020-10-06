@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s9600
 748436
     Product link    
 https://www.pcgarage.ro/placi-pentru-indreptat-parul/remington/s9600/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1175596/748436/thumbnails/1s9600-d8332a4487b
     Pret    
 9/22/2020 6:59:23 PM 146,70 RON
 9/26/2020 8:15:18 PM 146,70 RON
+10/6/2020 1:23:17 PM 146,70 RON

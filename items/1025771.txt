@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf322a
 1025771
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-653a-yellow/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/746930/1025771/thumbnails/toner-653a-yellow-
 9/22/2020 9:23:41 AM 1.779,98 RON
 9/26/2020 12:01:45 PM 1.785,98 RON
 9/27/2020 3:36:24 PM 1.785,98 RON
+10/6/2020 6:01:50 PM 1.783,98 RON

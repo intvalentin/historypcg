@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mcp3000n
 1982690
     Product link    
 https://www.pcgarage.ro/storcatoare/bosch/mcp3000n/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1977958/1982690/thumbnails/mcp3500n-a0d7761a
     Pret    
 9/22/2020 7:17:08 PM 82,99 RON
 9/26/2020 8:40:38 PM 82,99 RON
+10/6/2020 5:02:51 PM 82,99 RON

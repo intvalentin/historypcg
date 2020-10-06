@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb322ee
 65285
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-364xl-photo-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/2/65285/thumbnails/cb322ee-9c79ec0d724cba931
 9/22/2020 9:02:33 AM 115,98 RON
 9/26/2020 12:12:51 PM 115,98 RON
 9/27/2020 3:47:37 PM 115,98 RON
+10/6/2020 2:38:18 PM 115,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1112u
 969372
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-20m-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/472405/969372/thumbnails/cat5e-patch-cable-u
 9/22/2020 1:38:33 PM 31,01 RON
 9/26/2020 4:24:07 PM 30,54 RON
 9/27/2020 8:27:47 PM 30,54 RON
+10/6/2020 2:21:05 PM 31,01 RON

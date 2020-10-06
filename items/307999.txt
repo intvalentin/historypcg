@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fc530u-3164-01002
 307999
     Product link    
 https://www.pcgarage.ro/boxe/microlab/fc-530u/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/307999/thumbnails/fc-530u-2258b082f3397874
 9/22/2020 4:49:28 PM 407,98 RON
 9/26/2020 5:45:49 PM 413,98 RON
 9/28/2020 7:54:59 AM 413,98 RON
+10/6/2020 9:41:18 PM 409,98 RON

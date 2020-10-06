@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |baa785sa
 1498750
     Product link    
 https://www.pcgarage.ro/binocluri/nikon/monarch-7-8x42/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1475558/1498750/thumbnails/monarch-7-8x42-52
     Pret    
 9/22/2020 6:16:04 PM 2.899,00 RON
 9/26/2020 7:27:37 PM 2.899,00 RON
+10/6/2020 7:49:35 AM 2.899,00 RON

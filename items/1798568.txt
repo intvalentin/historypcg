@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pulse2iblack
 1798568
     Product link    
 https://www.pcgarage.ro/boxe/bluesound/pulse-2i-10-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6361/1798568/thumbnails/pulse-2-black-c61e7f
 9/22/2020 4:51:36 PM 3.495,98 RON
 9/26/2020 5:43:36 PM 3.495,98 RON
 9/28/2020 7:52:45 AM 3.495,98 RON
+10/6/2020 8:52:36 PM 3.495,98 RON

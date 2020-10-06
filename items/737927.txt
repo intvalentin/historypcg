@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0621b029aa
 737927
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-8-3-culori/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/737927/thumbnails/cartus-cli-8-3-culori-b5
 9/21/2020 7:24:17 PM 177,98 RON
 9/26/2020 11:20:56 AM 177,98 RON
 9/27/2020 2:41:33 PM 177,98 RON
+10/6/2020 9:24:14 AM 177,98 RON

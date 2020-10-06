@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hd 206
 1456258
     Product link    
 https://www.pcgarage.ro/casti/sennheiser/hd-206-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/986422/1456258/thumbnails/hd-206-black-bc429
 9/22/2020 3:47:50 PM 148,99 RON
 9/26/2020 4:56:01 PM 148,99 RON
 9/27/2020 8:59:38 PM 148,99 RON
+10/6/2020 8:07:58 PM 148,99 RON

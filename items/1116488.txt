@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201140719
 1116488
     Product link    
 https://www.pcgarage.ro/placi-pentru-indreptat-parul/braun/placa-de-intins-parul-st300/
@@ -8,3 +8,4 @@ Braun ST300
 https://4.grgs.ro/images/products/1/1169071/1116488/thumbnails/1st300-54082f5e9c74b8e284fabb57bc2cfd24.jpg
     Pret    
 9/22/2020 6:59:23 PM 131,98 RON
+10/6/2020 1:28:52 PM 181,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce16h0t-itfs28
 2029326
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce16h0t-itfs-28mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8840/2029326/thumbnails/ds-2ce16h0t-itfs-28m
 9/22/2020 3:36:05 PM 202,96 RON
 9/26/2020 4:47:13 PM 203,53 RON
 9/27/2020 8:50:51 PM 203,65 RON
+10/6/2020 6:54:23 PM 203,42 RON

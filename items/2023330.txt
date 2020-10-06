@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru22948
 2023330
     Product link    
 https://www.pcgarage.ro/boxe/trust/gemi-rgb-20-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/9002/2023330/thumbnails/gemi-rgb-20-black-a4
 9/22/2020 4:46:16 PM 59,98 RON
 9/26/2020 5:42:08 PM 59,98 RON
 9/28/2020 7:51:16 AM 59,98 RON
+10/6/2020 9:04:02 PM 53,98 RON

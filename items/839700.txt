@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310020
 839700
     Product link    
 https://www.pcgarage.ro/ups/legrand/niky-s-1500va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/634551/839700/thumbnails/niky-s-1500va-caa8d
 9/22/2020 12:59:44 PM 1.456,72 RON
 9/26/2020 3:30:11 PM 1.460,61 RON
 9/27/2020 7:41:34 PM 1.460,61 RON
+10/6/2020 7:50:12 AM 1.457,96 RON

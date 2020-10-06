@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000912
 1054299
     Product link    
 https://www.pcgarage.ro/multimedia/logitech/adaptor-audio-bluetooth-2x-rca/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1052635/1054299/thumbnails/adaptor-audio-blu
     Pret    
 9/22/2020 6:16:39 PM 196,13 RON
 9/26/2020 7:29:52 PM 195,76 RON
+10/6/2020 7:52:46 AM 195,41 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2097u
 1266219
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-10m-yellow/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/367655/1266219/thumbnails/econline-cat6-patc
 9/22/2020 2:45:15 PM 25,32 RON
 9/26/2020 4:17:25 PM 25,41 RON
 9/27/2020 8:21:05 PM 25,41 RON
+10/6/2020 2:12:28 PM 25,38 RON

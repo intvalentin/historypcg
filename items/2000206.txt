@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-t320-vf
 2000206
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-t320-vf-28-12mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990682/2000206/thumbnails/hiwatch-hwt-t320-
 9/22/2020 3:25:17 PM 180,83 RON
 9/26/2020 4:41:16 PM 181,34 RON
 9/27/2020 8:44:57 PM 181,44 RON
+10/6/2020 5:50:46 PM 181,24 RON

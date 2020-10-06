@@ -1,0 +1,8 @@
+    Cod    
+i2c1
+    Product link    
+https://www.emag.ro/control-pwm-motor-9-60v-10a-incapsulat-i2c1/pd/DRGTMYMBM/
+    Name    
+Control PWM motor 9-60V 10A incapsulat
+    Pret    
+10/6/2020 12:09:22 PM 90

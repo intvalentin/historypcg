@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce312a
 246661
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-126a-yellow/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/4/246661/thumbnails/126a-yellow-laserjet-ton
 9/22/2020 9:06:41 AM 301,98 RON
 9/26/2020 12:04:43 PM 303,98 RON
 9/27/2020 3:39:38 PM 303,98 RON
+10/6/2020 3:23:00 PM 303,98 RON

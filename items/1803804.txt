@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2107c001aa
 1803804
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartu-cli-581pb-photo-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4338/1803804/thumbnails/cartu-cli-581pb-phot
 9/21/2020 7:21:02 PM 53,98 RON
 9/26/2020 11:18:42 AM 53,98 RON
 9/27/2020 2:39:58 PM 53,98 RON
+10/6/2020 9:03:53 AM 53,98 RON

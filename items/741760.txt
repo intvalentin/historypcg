@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b3p19a
 741760
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-727-large-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1/741760/thumbnails/cartus-727-large-grey-e3
 9/22/2020 9:08:45 AM 393,98 RON
 9/26/2020 12:01:45 PM 349,98 RON
 9/27/2020 3:36:24 PM 349,98 RON
+10/6/2020 3:41:54 PM 395,98 RON

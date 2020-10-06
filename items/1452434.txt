@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0639
 1452434
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/street-2-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1086319/1452434/thumbnails/street-2-ride-cfd
 9/22/2020 4:09:00 PM 147,98 RON
 9/26/2020 5:10:06 PM 147,98 RON
 9/27/2020 9:13:53 PM 147,98 RON
+10/6/2020 10:14:00 PM 147,98 RON

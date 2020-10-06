@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1087d
 2043078
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-s-ftp-75m-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2043078/thumbnails/cat5e-patch-cable-s-
 9/22/2020 2:38:46 PM 18,15 RON
 9/26/2020 3:46:30 PM 18,22 RON
 9/27/2020 7:58:01 PM 18,22 RON
+10/6/2020 1:08:43 PM 18,20 RON

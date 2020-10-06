@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uck-g2
 1939414
     Product link    
 https://www.pcgarage.ro/video-recorder/ubiquiti-networks/unifi-cloud-key-g2/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6835/1939414/thumbnails/unifi-cloud-key-g2-8
 9/22/2020 3:11:02 PM 857,50 RON
 9/26/2020 4:38:16 PM 871,21 RON
 9/27/2020 8:41:57 PM 871,02 RON
+10/6/2020 5:35:26 PM 861,46 RON

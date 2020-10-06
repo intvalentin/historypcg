@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0620b027aa
 454589
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-cli-8-multi-pack/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/454589/thumbnails/cli-8-multi-pack-bk-pc-p
     Pret    
 9/26/2020 11:23:54 AM 289,98 RON
 9/27/2020 2:45:34 PM 289,98 RON
+10/6/2020 9:30:41 AM 289,98 RON

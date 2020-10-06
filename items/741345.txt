@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hr2738+-+00
 741345
     Product link    
 https://www.pcgarage.ro/storcatoare/philips/hr2738-00/
@@ -8,3 +8,4 @@ Philips HR2738/00
 https://1.grgs.ro/images/products/1/1408706/741345/thumbnails/1hr2738-00-3e1ea468bd1f3e2f3cfea9643a5f66e1.jpg
     Pret    
 9/22/2020 7:17:08 PM 93,50 RON
+10/6/2020 5:03:07 PM 86,99 RON

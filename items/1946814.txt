@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |it-lc10000bk
 1946814
     Product link    
 https://www.pcgarage.ro/detalii-produs/1946814/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6166/1946814/thumbnails/cat5-patch-cable-utp
 9/22/2020 2:30:08 PM 12,46 RON
 9/26/2020 3:48:44 PM 12,66 RON
 9/27/2020 8:00:18 PM 12,66 RON
+10/6/2020 11:50:16 AM 12,52 RON

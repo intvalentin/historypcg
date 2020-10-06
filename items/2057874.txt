@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru21658
 2057874
     Product link    
 https://www.pcgarage.ro/casti/trust/como-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7193/2057874/thumbnails/como-black-ab8078490
 9/22/2020 3:54:14 PM 117,98 RON
 9/26/2020 4:56:45 PM 117,98 RON
 9/27/2020 9:00:23 PM 117,98 RON
+10/6/2020 8:28:25 PM 117,98 RON

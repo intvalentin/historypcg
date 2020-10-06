@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r302335
 2069342
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6-patch-cable-s-ftp-lsfrzh-3m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7960/2069342/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:03:36 PM 90,13 RON
 9/26/2020 4:25:36 PM 90,39 RON
 9/27/2020 8:29:16 PM 90,44 RON
+10/6/2020 4:51:40 PM 83,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ci95
 230161
     Product link    
 https://www.pcgarage.ro/ondulatoare-de-par/remington/ci95/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1112123/230161/thumbnails/ci95-988b3e88dc3a2
     Pret    
 9/22/2020 6:58:16 PM 95,99 RON
 9/26/2020 8:14:35 PM 95,99 RON
+10/6/2020 1:11:14 PM 95,99 RON

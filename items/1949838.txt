@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2141g1idw128
 1949838
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2141g1-idw1-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1949838/thumbnails/ds-2cd2141g1-idw1-28
 9/22/2020 3:37:10 PM 446,88 RON
 9/26/2020 4:48:43 PM 448,16 RON
 9/27/2020 8:52:20 PM 448,42 RON
+10/6/2020 7:03:30 PM 447,91 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srt1000xli
 2053838
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-1000va-230v/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472773/2053838/thumbnails/smart-ups-srt-2200
 9/22/2020 1:00:49 PM 3.965,91 RON
 9/26/2020 3:24:59 PM 4.073,79 RON
 9/27/2020 7:36:21 PM 4.076,14 RON
+10/6/2020 8:02:15 AM 4.073,46 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0907b001aa
 14811
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-701-green/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3/14811/thumbnails/pfi-701-verde-ipf8000-900
     Pret    
 9/26/2020 11:24:39 AM 1.273,98 RON
 9/27/2020 2:46:23 PM 1.273,98 RON
+10/6/2020 10:55:06 AM 1.271,98 RON

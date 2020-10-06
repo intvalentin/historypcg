@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1200363
 1828640
     Product link    
 https://www.pcgarage.ro/boxe/bang-ampolufsen/beoplay-a9-10-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5664/1828640/thumbnails/beoplay-a9-black-bcb
 9/22/2020 4:52:41 PM 11.409,98 RON
 9/26/2020 5:43:36 PM 11.409,98 RON
 9/28/2020 7:52:45 AM 11.409,98 RON
+10/6/2020 8:57:42 PM 11.409,98 RON

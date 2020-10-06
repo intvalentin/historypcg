@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k290
 1500302
     Product link    
 https://www.pcgarage.ro/casti/microlab/k290-black-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1489074/1500302/thumbnails/k290-black-blue-b
 9/22/2020 4:06:50 PM 53,98 RON
 9/26/2020 5:09:22 PM 53,98 RON
 9/27/2020 9:13:08 PM 53,98 RON
+10/6/2020 9:56:19 PM 53,98 RON

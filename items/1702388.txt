@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dem-cb300s
 1702388
     Product link    
 https://www.pcgarage.ro/cabluri-retea/d-link/cablu-stacking-cu-atasare-directa-sfp-plus-3m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1126098/1702388/thumbnails/cablu-stacking-cu
 9/22/2020 3:06:47 PM 897,14 RON
 9/26/2020 4:30:04 PM 899,70 RON
 9/27/2020 8:33:47 PM 900,23 RON
+10/6/2020 5:16:35 PM 899,20 RON

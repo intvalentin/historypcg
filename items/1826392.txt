@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srtl3000rmxli-nc
 1826392
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-li-ion-3000va-rm-230v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1821372/1826392/thumbnails/smart-ups-srt-li-
 9/22/2020 1:18:08 PM 23.963,98 RON
 9/26/2020 3:26:28 PM 24.032,45 RON
 9/27/2020 7:37:50 PM 24.046,24 RON
+10/6/2020 8:20:59 AM 24.608,46 RON

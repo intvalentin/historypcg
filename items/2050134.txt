@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c1q40a
 2050134
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-773c-yellow/
@@ -12,3 +12,4 @@ https://5.grgs.ro/images/products/1/2045418/2050134/thumbnails/cartus-773c-yello
 9/22/2020 9:18:21 AM 1.091,98 RON
 9/26/2020 11:49:08 AM 1.095,98 RON
 9/27/2020 3:12:39 PM 1.095,98 RON
+10/6/2020 5:25:29 PM 1.093,98 RON

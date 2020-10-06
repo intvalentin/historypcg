@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31730979100
 251665
     Product link    
 https://www.pcgarage.ro/boxe/genius/sw-hf51-4500/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/251665/thumbnails/sw-hf51-4500-e84da1ab647
 9/22/2020 5:00:13 PM 473,98 RON
 9/26/2020 5:53:14 PM 481,98 RON
 9/28/2020 8:02:25 AM 481,98 RON
+10/6/2020 9:43:54 PM 475,98 RON

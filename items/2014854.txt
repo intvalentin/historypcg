@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hac-hfw1801d-0360b
 2014854
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/hac-hfw1801d-36mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2013982/2014854/thumbnails/hac-hfw1801d-36mm
 9/22/2020 3:36:05 PM 296,58 RON
 9/26/2020 4:47:13 PM 297,60 RON
 9/27/2020 8:50:51 PM 297,60 RON
+10/6/2020 6:59:28 PM 297,56 RON

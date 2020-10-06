@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n115.p2a020du
 1607630
     Product link    
 https://www.pcgarage.ro/cabluri-retea/nexans/cat5e-patch-cable-utp-2m-gri/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1594546/1607630/thumbnails/cat5e-patch-cable
 9/22/2020 3:00:21 PM 24,11 RON
 9/26/2020 4:30:04 PM 24,18 RON
 9/27/2020 8:33:47 PM 24,20 RON
+10/6/2020 4:28:10 PM 24,16 RON

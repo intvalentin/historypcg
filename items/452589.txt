@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnr-fsp01
 452589
     Product link    
 https://www.pcgarage.ro/boxe/canyon/cnr-fsp01/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/452589/thumbnails/cnr-fsp01-1e9d72c5ab1429
 9/22/2020 4:54:50 PM 31,98 RON
 9/26/2020 5:53:14 PM 31,98 RON
 9/28/2020 8:02:25 AM 31,98 RON
+10/6/2020 9:01:12 PM 31,98 RON

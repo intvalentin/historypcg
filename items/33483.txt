@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q3960a
 33483
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q3960a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/33483/thumbnails/color-laserjet-q3960a-bla
 9/22/2020 9:31:01 AM 507,98 RON
 9/26/2020 12:26:29 PM 509,98 RON
 9/27/2020 3:57:34 PM 509,98 RON
+10/6/2020 6:51:29 PM 509,98 RON

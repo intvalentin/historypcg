@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn628ae
 1082724
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-971xl-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/849800/1082724/thumbnails/cartus-971xl-yello
 9/22/2020 9:10:50 AM 525,98 RON
 9/26/2020 11:59:31 AM 527,98 RON
 9/27/2020 3:34:00 PM 527,98 RON
+10/6/2020 4:23:54 PM 527,98 RON

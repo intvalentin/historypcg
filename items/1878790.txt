@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fs-kabel c19
 1878790
     Product link    
 https://www.pcgarage.ro/accesorii-ups/fortron/cablu-iec-c19-male-iec-c20-female/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1868718/1878790/thumbnails/cablu-iec-c19-mal
 9/22/2020 1:24:34 PM 31,88 RON
 9/26/2020 3:36:55 PM 32,39 RON
 9/27/2020 7:48:18 PM 32,39 RON
+10/6/2020 8:46:34 AM 32,15 RON

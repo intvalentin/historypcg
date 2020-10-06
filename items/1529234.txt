@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9px3000irt2u
 1529234
     Product link    
 https://www.pcgarage.ro/ups/eaton/9px-3000va-2u-lcd/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1434070/1529234/thumbnails/9px-2200va-2u-lcd
 9/22/2020 1:02:58 PM 10.353,61 RON
 9/26/2020 3:28:42 PM 10.353,61 RON
 9/27/2020 7:40:05 PM 10.353,61 RON
+10/6/2020 8:15:02 AM 10.353,61 RON

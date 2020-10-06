@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2890c001aa
 1841964
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/canon-pfi-320bk-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6599/1841964/thumbnails/canon-pfi-320bk-blac
 9/21/2020 7:01:12 PM 547,98 RON
 9/26/2020 11:04:42 AM 549,98 RON
 9/27/2020 2:25:42 PM 549,98 RON
+10/6/2020 8:33:36 AM 549,98 RON

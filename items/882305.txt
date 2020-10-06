@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n101.21ecoo
 882305
     Product link    
 https://www.pcgarage.ro/cabluri-retea/nexans/cablu-retea-utp-cat-6-1m-orange/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/882305/thumbnails/cablu-retea-lszh-cat-6-1
 9/22/2020 2:46:20 PM 33,53 RON
 9/26/2020 4:24:07 PM 33,65 RON
 9/27/2020 8:27:47 PM 33,65 RON
+10/6/2020 2:23:00 PM 33,61 RON

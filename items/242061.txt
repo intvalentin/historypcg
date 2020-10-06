@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce255xd
 242061
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-55x-black-twin-pack/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/4/242061/thumbnails/dual-pack-black-ce255xd-
 9/22/2020 9:00:24 AM 2.177,98 RON
 9/26/2020 12:22:46 PM 2.105,98 RON
 9/27/2020 3:41:13 PM 2.183,98 RON
+10/6/2020 6:07:23 PM 2.183,98 RON

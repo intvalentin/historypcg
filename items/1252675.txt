@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2112s
 1252675
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-20m-grey/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/862960/1252675/thumbnails/cat6-patch-cable-f
 9/22/2020 2:16:08 PM 52,84 RON
 9/26/2020 4:20:24 PM 53,02 RON
 9/27/2020 8:24:03 PM 53,02 RON
+10/6/2020 2:42:08 PM 52,96 RON

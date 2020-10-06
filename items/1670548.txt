@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |srt3000rmxli-nc
 1670548
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-srt-3000va-rm-230v-network-card/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1664836/1670548/thumbnails/smart-ups-srt-300
 9/22/2020 1:18:08 PM 13.778,00 RON
 9/26/2020 3:27:57 PM 14.158,52 RON
 9/27/2020 7:39:21 PM 14.166,65 RON
+10/6/2020 8:17:30 AM 14.157,35 RON

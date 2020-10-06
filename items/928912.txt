@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf283a
 928912
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-83a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/722028/928912/thumbnails/toner-83a-black-092
 9/22/2020 8:55:03 AM 341,98 RON
 9/26/2020 12:01:45 PM 343,98 RON
 9/27/2020 3:36:24 PM 343,98 RON
+10/6/2020 3:28:10 PM 341,98 RON

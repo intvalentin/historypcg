@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-28-3
 241791
     Product link    
 https://www.pcgarage.ro/casti/a4tech/hs-28-orange-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/241791/thumbnails/hs-28-orange-black-36f4b
 9/22/2020 4:02:33 PM 39,98 RON
 9/26/2020 5:13:05 PM 39,98 RON
 9/27/2020 9:16:52 PM 39,98 RON
+10/6/2020 8:14:10 PM 49,98 RON

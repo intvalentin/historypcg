@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce16d8t-itpf28
 1935054
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce16d8t-itpf-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/1935054/thumbnails/ds-2ce16d8t-itpf-28m
 9/22/2020 3:35:00 PM 180,73 RON
 9/26/2020 4:48:43 PM 181,24 RON
 9/27/2020 8:52:21 PM 181,36 RON
+10/6/2020 6:51:28 PM 181,14 RON

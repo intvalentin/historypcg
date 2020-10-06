@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4907ae
 215671
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-940xl-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/215671/thumbnails/940xl-cyan-ink-cartridge
 9/22/2020 9:03:37 AM 153,98 RON
 9/26/2020 12:06:57 PM 153,98 RON
 9/27/2020 3:42:02 PM 153,98 RON
+10/6/2020 2:57:47 PM 153,98 RON

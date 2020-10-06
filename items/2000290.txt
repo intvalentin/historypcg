@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b340-vf
 2000290
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b340-vf-28-12mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/2000290/thumbnails/hiwatch-hwt-b340-
 9/22/2020 3:26:22 PM 205,39 RON
 9/26/2020 4:41:16 PM 205,97 RON
 9/27/2020 8:44:57 PM 206,09 RON
+10/6/2020 5:56:07 PM 205,86 RON

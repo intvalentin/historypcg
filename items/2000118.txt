@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-cv310-a0-1b2wfr
 2000118
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ezviz/cs-cv310-1b2-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1990682/2000118/thumbnails/cs-cv310-3b1-28mm
 9/22/2020 3:33:55 PM 537,14 RON
 9/26/2020 4:47:58 PM 538,67 RON
 9/27/2020 8:51:36 PM 538,98 RON
+10/6/2020 7:05:53 PM 538,38 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2087u
 1266212
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-75m-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/367655/1266212/thumbnails/econline-cat6-patc
 9/22/2020 1:40:42 PM 18,38 RON
 9/26/2020 4:17:25 PM 18,45 RON
 9/27/2020 8:21:05 PM 18,45 RON
+10/6/2020 1:13:32 PM 18,43 RON

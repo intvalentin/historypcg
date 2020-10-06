@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-30m
 1729852
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-30m-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1723568/1729852/thumbnails/cat5e-patch-cable
 9/22/2020 1:41:47 PM 36,69 RON
 9/26/2020 3:53:55 PM 37,27 RON
 9/27/2020 8:05:30 PM 37,27 RON
+10/6/2020 2:30:06 PM 36,86 RON

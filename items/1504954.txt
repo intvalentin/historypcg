@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1092u
 1504954
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-10m-grey-3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1457254/1504954/thumbnails/cat5e-patch-cable
 9/22/2020 2:34:27 PM 15,49 RON
 9/26/2020 3:56:53 PM 15,55 RON
 9/27/2020 8:08:28 PM 15,55 RON
+10/6/2020 12:41:48 PM 15,53 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fpc-5004e-l
 1133668
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-ftp-7-x-018mm-stranded-cable-cca-305m-gri/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/472405/1133668/thumbnails/cat5e-utp-stranded
 9/22/2020 2:53:52 PM 216,26 RON
 9/26/2020 4:33:50 PM 219,67 RON
 9/27/2020 8:37:31 PM 219,67 RON
+10/6/2020 3:18:23 PM 217,25 RON

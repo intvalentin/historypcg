@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t636100
 218481
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t636100-photo-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3/218481/thumbnails/cartus-photo-black-ultra
 9/21/2020 7:34:03 PM 1.461,98 RON
 9/26/2020 11:33:33 AM 1.465,98 RON
 9/27/2020 2:55:55 PM 1.463,98 RON
+10/6/2020 11:59:25 AM 1.463,98 RON

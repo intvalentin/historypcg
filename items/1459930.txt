@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0776c001aa
 1459930
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1700-cyan/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1152773/1459930/thumbnails/cartus-pfi-1700-c
     Pret    
 9/26/2020 11:20:11 AM 1.155,98 RON
 9/27/2020 2:41:32 PM 1.151,98 RON
+10/6/2020 10:50:15 AM 1.153,98 RON

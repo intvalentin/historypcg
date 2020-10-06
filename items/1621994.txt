@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2017s
 1621994
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-025m-yellow-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1605610/1621994/thumbnails/cat6-patch-cable-
 9/22/2020 2:38:46 PM 18,33 RON
 9/26/2020 4:30:04 PM 17,73 RON
 9/27/2020 8:33:47 PM 17,73 RON
+10/6/2020 4:18:47 PM 18,33 RON

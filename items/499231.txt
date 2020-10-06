@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf212a
 499231
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-131a-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/5/499231/thumbnails/131a-laserjet-galben-38e
 9/22/2020 8:58:15 AM 453,98 RON
 9/26/2020 12:03:14 PM 457,98 RON
 9/27/2020 3:38:03 PM 455,98 RON
+10/6/2020 3:54:18 PM 459,98 RON

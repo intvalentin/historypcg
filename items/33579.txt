@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q7570a
 33579
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-70a-black/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3/33579/thumbnails/laserjet-q7570a-black-pri
 9/22/2020 9:26:49 AM 1.081,98 RON
 9/26/2020 12:25:00 PM 1.085,98 RON
 9/27/2020 3:56:04 PM 1.085,98 RON
+10/6/2020 5:29:11 PM 1.135,98 RON

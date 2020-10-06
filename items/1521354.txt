@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens428762
 1521354
     Product link    
 https://www.pcgarage.ro/casti/energy-sistem/1-bluetooth-white/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1521354/thumbnails/1-bluetooth-white
 9/22/2020 3:54:14 PM 129,98 RON
 9/26/2020 5:03:25 PM 129,98 RON
 9/27/2020 9:07:07 PM 129,98 RON
+10/6/2020 8:34:09 PM 129,98 RON

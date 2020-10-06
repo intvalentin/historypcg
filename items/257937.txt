@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt1500rmi2u
 257937
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-1500va-lcd-rm-2u-230v/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/257937/thumbnails/smart-ups-1500va-lcd-rm-
 9/22/2020 1:00:49 PM 4.079,05 RON
 9/26/2020 3:31:40 PM 4.093,07 RON
 9/27/2020 7:43:04 PM 4.093,07 RON
+10/6/2020 8:02:32 AM 4.088,45 RON

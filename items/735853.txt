@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0535-001
 735853
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m3024-lve/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/735853/thumbnails/m3024-lve-00d123c2d
 9/22/2020 3:40:24 PM 3.065,00 RON
 9/26/2020 4:51:42 PM 3.073,76 RON
 9/27/2020 8:55:18 PM 3.075,54 RON
+10/6/2020 7:36:24 PM 3.072,06 RON

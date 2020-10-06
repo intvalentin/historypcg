@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru21661
 2057866
     Product link    
 https://www.pcgarage.ro/casti/trust/quasar-black-2/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2057866/thumbnails/quasar-black-7dc0f4a
 9/22/2020 3:53:10 PM 45,98 RON
 9/26/2020 4:56:45 PM 47,98 RON
 9/27/2020 9:00:23 PM 47,98 RON
+10/6/2020 8:13:37 PM 47,98 RON

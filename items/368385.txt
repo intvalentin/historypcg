@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm41898
 368385
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hama/cat5e-patch-cable-10m-grey/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/368385/thumbnails/cat5e-patch-cable-10m-gr
 9/22/2020 2:49:34 PM 80,73 RON
 9/26/2020 4:24:07 PM 80,73 RON
 9/27/2020 8:27:47 PM 80,73 RON
+10/6/2020 3:02:25 PM 80,73 RON

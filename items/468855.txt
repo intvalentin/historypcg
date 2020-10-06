@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r 503
 468855
     Product link    
 https://www.pcgarage.ro/masini-de-tocat/rohnson/r-503/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1053670/468855/thumbnails/1r-503-f3235ac8f1e
     Pret    
 9/22/2020 7:22:48 PM 192,98 RON
 9/26/2020 8:58:13 PM 192,98 RON
+10/6/2020 6:07:28 PM 192,98 RON

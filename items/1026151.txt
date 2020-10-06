@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf312a
 1026151
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-826a-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1025741/1026151/thumbnails/toner-826a-yellow
 9/22/2020 9:25:48 AM 2.725,98 RON
 9/26/2020 12:01:00 PM 2.735,98 RON
 9/27/2020 3:35:37 PM 2.735,98 RON
+10/6/2020 6:22:20 PM 2.733,98 RON

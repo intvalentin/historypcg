@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2012s
 1501902
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-025m-grey-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1415042/1501902/thumbnails/cat6-patch-cable-
 9/22/2020 2:34:27 PM 15,61 RON
 9/26/2020 3:56:53 PM 15,66 RON
 9/27/2020 8:08:28 PM 15,66 RON
+10/6/2020 12:42:04 PM 15,65 RON

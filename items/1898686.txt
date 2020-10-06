@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2072a
 1898686
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-117a-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1202/1898686/thumbnails/toner-117a-yellow-98
 9/22/2020 8:57:11 AM 225,98 RON
 9/26/2020 11:55:05 AM 229,98 RON
 9/27/2020 3:18:59 PM 229,98 RON
+10/6/2020 3:07:34 PM 225,98 RON

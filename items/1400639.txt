@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n2-bl
 1400639
     Product link    
 https://www.pcgarage.ro/casti/somic/over-head-n2-new-york-blue/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1025736/1400639/thumbnails/n2-new-york-blue-
 9/22/2020 3:55:16 PM 193,98 RON
 9/26/2020 5:04:10 PM 195,98 RON
 9/27/2020 9:07:52 PM 195,98 RON
+10/6/2020 8:44:56 PM 193,98 RON

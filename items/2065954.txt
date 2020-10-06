@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-cep4b
 2065954
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/cns-cep4b-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2065954/thumbnails/cns-cep4b-black-65f1
 9/22/2020 4:16:29 PM 23,98 RON
 9/26/2020 5:14:31 PM 23,98 RON
 9/27/2020 9:18:19 PM 23,98 RON
+10/6/2020 10:42:36 PM 23,98 RON

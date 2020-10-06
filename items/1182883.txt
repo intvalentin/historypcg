@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rcat5ecu
 1182883
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cablu-retea-utp-cat5e-cupru-rola-305m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/849800/1182883/thumbnails/cablu-retea-utp-ca
 9/22/2020 2:51:42 PM 360,45 RON
 9/26/2020 4:20:24 PM 366,13 RON
 9/27/2020 8:24:48 PM 366,13 RON
+10/6/2020 3:21:51 PM 362,11 RON

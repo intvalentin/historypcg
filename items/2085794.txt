@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401507
 2085794
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/somfy/camera-video-hd-de-interior-vedere-pe-timp-de-noapte-zoom-de-8x-compatibil-cu-tahoma-amazon-alexa-ifttt-si-nest/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3354/2085794/thumbnails/camera-video-hd-de-i
     Pret    
 9/22/2020 7:35:11 PM 1.307,81 RON
 9/26/2020 9:11:41 PM 1.307,81 RON
+10/6/2020 8:09:32 PM 1.307,81 RON

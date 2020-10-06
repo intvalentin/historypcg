@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb383a
 69273
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cb383a-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/69273/thumbnails/color-laserjet-cb383a-mag
 9/22/2020 9:24:46 AM 1.899,98 RON
 9/26/2020 12:06:58 PM 1.907,98 RON
 9/27/2020 3:42:02 PM 1.907,98 RON
+10/6/2020 6:04:26 PM 1.907,98 RON

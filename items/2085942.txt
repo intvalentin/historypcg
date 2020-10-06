@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401497
 2085942
     Product link    
 https://www.pcgarage.ro/kituri-inteligente/somfy/pachet-somfy-home-alarm-sirena-de-interior-brelocuri-si-intellitag/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3354/2085942/thumbnails/pachet-somfy-home-al
     Pret    
 9/22/2020 7:36:49 PM 2.819,11 RON
 9/26/2020 9:14:40 PM 2.819,11 RON
+10/6/2020 8:22:08 PM 2.819,11 RON

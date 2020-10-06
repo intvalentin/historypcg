@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc17
 40503
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-17/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/40503/thumbnails/replacement-battery-cartr
 9/22/2020 1:21:21 PM 258,90 RON
 9/26/2020 3:33:57 PM 258,90 RON
 9/27/2020 7:45:16 PM 258,90 RON
+10/6/2020 8:31:29 AM 237,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401323
 2085922
     Product link    
 https://www.pcgarage.ro/senzori-smart/somfy/senzor-de-fum-tahoma-cu-alarma-integrata-pentru-detectarea-incendiilor/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3354/2085922/thumbnails/senzor-de-fum-tahoma
     Pret    
 9/22/2020 7:37:57 PM 677,11 RON
 9/26/2020 9:15:30 PM 677,11 RON
+10/6/2020 8:34:47 PM 677,11 RON

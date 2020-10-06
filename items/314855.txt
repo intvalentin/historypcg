@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |br1200g-gr
 314855
     Product link    
 https://www.pcgarage.ro/ups/apc/power-saving-back-ups-pro-1200/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/314855/thumbnails/br1200g-gr-1200va-720w-d
 9/22/2020 12:48:56 PM 1.888,62 RON
 9/26/2020 3:31:40 PM 1.875,74 RON
 9/27/2020 7:43:04 PM 1.876,83 RON
+10/6/2020 7:54:01 AM 1.969,00 RON

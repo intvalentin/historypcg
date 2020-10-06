@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000815
 840266
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z150-white/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/782584/840266/thumbnails/z150-white-bf0ffeb7
 9/22/2020 4:57:00 PM 123,98 RON
 9/26/2020 5:52:29 PM 123,98 RON
 9/28/2020 7:54:59 AM 121,98 RON
+10/6/2020 8:22:33 PM 121,98 RON

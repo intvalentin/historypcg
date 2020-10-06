@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bw-sc1
 2076190
     Product link    
 https://www.pcgarage.ro/cantare/blitzwolf/smart-bw-sc1/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4525/2076190/thumbnails/smart-bw-sc1-265b353
     Pret    
 9/22/2020 6:38:08 PM 210,79 RON
 9/26/2020 7:58:47 PM 210,79 RON
+10/6/2020 11:04:38 AM 210,79 RON

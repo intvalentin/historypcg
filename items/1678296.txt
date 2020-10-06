@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000-led-avr-t10
 1678296
     Product link    
 https://www.pcgarage.ro/stabilizatoare-tensiune/mustek/powermate-1000-1000va-schuko/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1664836/1678296/thumbnails/powermate-1000-10
 9/22/2020 1:20:15 PM 134,17 RON
 9/26/2020 3:33:11 PM 136,29 RON
 9/27/2020 7:44:31 PM 136,29 RON
+10/6/2020 8:27:27 AM 134,79 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c5062a
 32119
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-90-small-magenta/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32119/thumbnails/90-magenta-ink-cartridge-
 9/22/2020 9:33:06 AM 833,98 RON
 9/26/2020 12:26:29 PM 835,98 RON
 9/27/2020 3:56:50 PM 833,98 RON
+10/6/2020 7:06:24 PM 835,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s051170
 217819
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-s051170-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3/217819/thumbnails/imaging-cartridge-c13s05
 9/21/2020 8:57:07 PM 1.657,98 RON
 9/26/2020 11:40:14 AM 1.663,98 RON
 9/27/2020 3:03:07 PM 1.663,98 RON
+10/6/2020 2:10:52 PM 1.661,98 RON

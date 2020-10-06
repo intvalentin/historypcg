@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psa1500mt3-230u
 1082919
     Product link    
 https://www.pcgarage.ro/ups/emerson/liebert-psa-1500va/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/802687/1082919/thumbnails/liebert-psa-1000va
 9/22/2020 12:59:44 PM 1.536,93 RON
 9/26/2020 3:29:27 PM 1.541,03 RON
 9/27/2020 7:40:50 PM 1.541,03 RON
+10/6/2020 7:51:34 AM 1.538,27 RON

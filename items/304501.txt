@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm41897
 304501
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hama/cat5e-patch-cable-75m-grey/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4/304501/thumbnails/cat5e-patch-cable-75m-gr
 9/22/2020 2:49:34 PM 63,69 RON
 9/26/2020 4:24:52 PM 63,69 RON
 9/27/2020 8:28:31 PM 63,69 RON
+10/6/2020 2:56:11 PM 63,69 RON

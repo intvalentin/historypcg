@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |beam1eu1
 1822912
     Product link    
 https://www.pcgarage.ro/boxe/sonos/beam-10-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5147/1822912/thumbnails/beam-10-white-a2568a
 9/22/2020 4:51:36 PM 2.067,98 RON
 9/26/2020 5:43:36 PM 2.067,98 RON
 9/28/2020 7:52:45 AM 2.067,98 RON
+10/6/2020 8:52:03 PM 2.067,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201190530
 1693004
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/sensosmart-se5500/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1690716/1693004/thumbnails/sensosmart-se5500
     Pret    
 9/22/2020 6:57:10 PM 299,98 RON
 9/26/2020 8:13:05 PM 299,98 RON
+10/6/2020 1:05:30 PM 459,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |poe-24-12w-5p-eu
 1903498
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/poe-24-12w-5p-5-pack/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1202/1903498/thumbnails/poe-24-12w-5p-5-pack
 9/22/2020 1:35:21 PM 236,01 RON
 9/26/2020 3:42:47 PM 239,73 RON
 9/27/2020 7:54:15 PM 239,73 RON
+10/6/2020 10:24:47 AM 237,10 RON

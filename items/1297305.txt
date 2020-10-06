@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1065u
 1297305
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-utp-3m-green-1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/1297305/thumbnails/cat5e-patch-cable-utp-0
 9/22/2020 2:36:37 PM 16,48 RON
 9/26/2020 4:02:06 PM 16,53 RON
 9/27/2020 8:13:44 PM 16,53 RON
+10/6/2020 12:53:38 PM 16,51 RON

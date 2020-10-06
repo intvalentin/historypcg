@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq3057s
 1288080
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6a-patch-cable-s-ftp-10g-2m-yellow/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/931142/1288080/thumbnails/primeline-cat6a-pa
 9/22/2020 2:39:51 PM 19,08 RON
 9/26/2020 4:15:11 PM 19,14 RON
 9/27/2020 8:17:29 PM 19,14 RON
+10/6/2020 1:19:59 PM 19,12 RON

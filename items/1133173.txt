@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fpc-5004e-so+-+100c
 1133173
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-ftp-solid-cable-100m-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/862955/1133173/thumbnails/cat5e-ftp-solid-ca
 9/22/2020 3:05:45 PM 146,93 RON
 9/26/2020 4:21:08 PM 149,25 RON
 9/27/2020 8:24:48 PM 149,25 RON
+10/6/2020 3:15:06 PM 147,61 RON

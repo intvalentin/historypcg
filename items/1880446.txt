@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tc-cct
 1880446
     Product link    
 https://www.pcgarage.ro/accesorii-retea/trendnet/cleste-sertizat-tc-cct/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5634/1880446/thumbnails/cleste-sertizat-tc-c
 9/22/2020 1:32:07 PM 35,36 RON
 9/26/2020 3:39:49 PM 35,36 RON
 9/27/2020 7:51:17 PM 35,36 RON
+10/6/2020 9:24:59 AM 35,36 RON

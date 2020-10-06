@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6269b002aa
 527499
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-731-yellow/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/527499/thumbnails/toner-731-yellow-b0a33d1
 9/21/2020 5:56:19 PM 309,98 RON
 9/26/2020 11:11:22 AM 309,98 RON
 9/27/2020 2:32:51 PM 309,98 RON
+10/6/2020 8:00:57 AM 311,98 RON

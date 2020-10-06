@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru19019
 307945
     Product link    
 https://www.pcgarage.ro/boxe/trust/tytan-21/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/307945/thumbnails/tytan-21-c2e5de7a663ef03
 9/22/2020 4:49:28 PM 275,98 RON
 9/26/2020 5:45:49 PM 277,98 RON
 9/28/2020 7:54:59 AM 277,98 RON
+10/6/2020 8:29:44 PM 277,98 RON

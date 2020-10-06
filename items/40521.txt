@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc3
 40521
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-3/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/40521/thumbnails/replacement-battery-cartr
 9/22/2020 1:25:39 PM 512,13 RON
 9/26/2020 3:39:04 PM 513,89 RON
 9/27/2020 7:50:31 PM 513,89 RON
+10/6/2020 8:58:18 AM 528,60 RON

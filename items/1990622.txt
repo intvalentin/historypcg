@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-house1hd
 1990622
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-plus-4-camere-pni-ip1mp/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1979534/1990622/thumbnails/house-plus-4-came
 9/22/2020 3:07:49 PM 1.245,34 RON
 9/26/2020 4:36:03 PM 1.245,34 RON
 9/27/2020 8:39:44 PM 1.245,34 RON
+10/6/2020 5:20:35 PM 1.245,34 RON

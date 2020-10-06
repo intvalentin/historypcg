@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sd519ae
 1679848
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-901-dual-pack/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1666176/1679848/thumbnails/cartus-901-dual-p
 9/22/2020 9:05:40 AM 259,98 RON
 9/26/2020 11:57:17 AM 259,98 RON
 9/27/2020 3:31:37 PM 259,98 RON
+10/6/2020 3:14:20 PM 259,98 RON

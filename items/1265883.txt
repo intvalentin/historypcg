@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2021u
 1265883
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/econline-cat6-patch-cable-u-utp-05m-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1112123/1265883/thumbnails/econline-cat6-pat
 9/22/2020 2:32:18 PM 13,59 RON
 9/26/2020 4:18:55 PM 13,63 RON
 9/27/2020 8:22:33 PM 13,63 RON
+10/6/2020 12:08:28 PM 13,62 RON

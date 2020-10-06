@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs-7p
 75393
     Product link    
 https://www.pcgarage.ro/casti/a4tech/hs-7p/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/75393/thumbnails/hs-7p-860e7b3da16ba069a43
 9/22/2020 3:53:10 PM 41,98 RON
 9/26/2020 5:06:23 PM 41,98 RON
 9/27/2020 9:10:07 PM 41,98 RON
+10/6/2020 9:51:11 PM 43,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce79u1t-it3zf
 1878158
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce79u1t-it3zf-27-135mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1868718/1878158/thumbnails/ds-2ce79u1t-it3zf
 9/22/2020 3:30:41 PM 628,16 RON
 9/26/2020 4:45:00 PM 629,96 RON
 9/27/2020 8:48:39 PM 630,32 RON
+10/6/2020 6:27:15 PM 629,61 RON

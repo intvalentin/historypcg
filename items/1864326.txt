@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds2cd4a26fwdizhs+-+p
 1864326
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd4a26fwd-izhs-p-28-12mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1864326/thumbnails/ds-2cd4a26fwd-izhs-p
 9/22/2020 3:41:29 PM 5.593,22 RON
 9/26/2020 4:49:27 PM 5.609,22 RON
 9/27/2020 8:53:05 PM 5.612,45 RON
+10/6/2020 7:42:21 PM 5.606,11 RON

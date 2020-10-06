@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2798b002aa
 635557
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-29-magenta/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/5/635557/thumbnails/toner-c-exv-29-magenta-8
 9/21/2020 6:33:04 PM 515,98 RON
 9/26/2020 11:10:38 AM 517,98 RON
 9/27/2020 2:32:03 PM 517,98 RON
+10/6/2020 8:24:43 AM 517,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9371a
 32243
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-72-large-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/32243/thumbnails/72-cyan-ink-cartridge-wit
 9/22/2020 8:58:15 AM 371,98 RON
 9/26/2020 12:10:37 PM 373,98 RON
 9/27/2020 3:45:13 PM 373,98 RON
+10/6/2020 3:33:18 PM 373,98 RON

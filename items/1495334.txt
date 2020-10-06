@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s5672+-+41
 1495334
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/philips/multiprecision-blade-s5672-41/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1434070/1495334/thumbnails/multiprecision-bl
     Pret    
 9/22/2020 6:37:02 PM 697,98 RON
 9/26/2020 7:57:17 PM 697,98 RON
+10/6/2020 10:56:14 AM 697,98 RON

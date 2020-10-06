@@ -14,3 +14,5 @@ Program contabilitate, Ciel Conta V7 Monopost, o singura statie cu asistenta de 
 10/5/2020 12:01:13 AM 2259
 10/5/2020 8:03:04 AM 58
 10/5/2020 5:26:46 PM 138
+10/6/2020 6:27:10 PM 63
+10/6/2020 6:48:05 PM 41

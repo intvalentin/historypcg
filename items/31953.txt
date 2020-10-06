@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4822a
 31953
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-80-magenta-plus-cleaner/
@@ -12,3 +12,4 @@ https://3.grgs.ro/images/products/1/3/31953/thumbnails/80-magenta-printhead-and-
 9/22/2020 9:18:21 AM 1.083,98 RON
 9/26/2020 12:09:53 PM 1.087,98 RON
 9/27/2020 3:44:25 PM 1.085,98 RON
+10/6/2020 5:23:52 PM 1.087,98 RON

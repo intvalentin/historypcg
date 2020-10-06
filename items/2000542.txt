@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwn-4104mh-4p
 2000542
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/hiwatch-hwn-4104mh-4p-4-canale/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/2000542/thumbnails/hiwatch-hwn-4104m
 9/22/2020 3:09:57 PM 446,83 RON
 9/26/2020 4:37:31 PM 448,10 RON
 9/27/2020 8:41:12 PM 448,36 RON
+10/6/2020 5:29:50 PM 447,86 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b18
 1050037
     Product link    
 https://www.pcgarage.ro/boxe/microlab/b-18-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/1050037/thumbnails/b-18-d549cbbe54a3c
 9/22/2020 4:55:55 PM 85,98 RON
 9/26/2020 5:51:45 PM 87,98 RON
 9/28/2020 8:00:56 AM 87,98 RON
+10/6/2020 9:09:15 PM 85,98 RON

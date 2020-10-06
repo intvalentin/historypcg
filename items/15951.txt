@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6812a002aa
 15951
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1/15951/thumbnails/30996.jpg
 9/21/2020 7:19:09 PM 807,98 RON
 9/26/2020 11:16:29 AM 809,98 RON
 9/27/2020 2:37:36 PM 807,98 RON
+10/6/2020 8:52:43 AM 809,98 RON

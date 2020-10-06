@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kl60
 2000858
     Product link    
 https://www.pcgarage.ro/becuri-inteligente/tp-link/bec-led-kl60/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1990366/2000858/thumbnails/bec-led-kl60-1bbb
     Pret    
 9/22/2020 7:39:38 PM 101,98 RON
 9/26/2020 9:18:27 PM 88,99 RON
+10/6/2020 8:49:44 PM 88,99 RON

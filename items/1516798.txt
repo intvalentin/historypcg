@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sb-pwr-inj2-eu
 1516798
     Product link    
 https://www.pcgarage.ro/accesorii-retea/cisco/poe-injector-30w-sb-pwr-inj2/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1355434/1516798/thumbnails/poe-injector-30w-
 9/22/2020 1:35:21 PM 396,43 RON
 9/26/2020 3:43:31 PM 401,82 RON
 9/27/2020 7:55:03 PM 401,82 RON
+10/6/2020 10:25:37 AM 398,62 RON

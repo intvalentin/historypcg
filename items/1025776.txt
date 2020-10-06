@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf320x
 1025776
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-653x-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/991247/1025776/thumbnails/toner-653x-black-7
 9/22/2020 9:20:30 AM 1.331,98 RON
 9/26/2020 12:01:45 PM 1.335,98 RON
 9/27/2020 3:36:24 PM 1.335,98 RON
+10/6/2020 5:42:30 PM 1.333,98 RON

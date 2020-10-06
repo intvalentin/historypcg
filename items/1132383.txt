@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pp6-5m
 1132383
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat6-patch-cable-ftp-5m-grey-1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/991247/1132383/thumbnails/cat6-patch-cable-f
 9/22/2020 2:52:47 PM 16,19 RON
 9/26/2020 4:34:35 PM 16,44 RON
 9/27/2020 8:38:16 PM 16,44 RON
+10/6/2020 3:51:15 PM 16,26 RON

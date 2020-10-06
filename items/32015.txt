@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4934a
 32015
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-81-dye-light-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/32015/thumbnails/81-dye-light-cyan-ink-car
 9/22/2020 9:19:25 AM 1.155,98 RON
 9/26/2020 12:08:27 PM 1.159,98 RON
 9/27/2020 3:43:38 PM 1.157,98 RON
+10/6/2020 5:30:31 PM 1.157,98 RON

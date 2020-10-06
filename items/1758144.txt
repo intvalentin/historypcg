@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6948b002aa
 1758144
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-exv45y-yellow/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1153/1758144/thumbnails/toner-exv45y-yellow-
     Pret    
 9/26/2020 11:19:27 AM 1.033,98 RON
 9/27/2020 2:40:46 PM 1.033,98 RON
+10/6/2020 10:48:19 AM 1.033,98 RON

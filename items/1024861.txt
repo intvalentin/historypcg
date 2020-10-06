@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s050584
 1024861
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-m2400-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/634551/1024861/thumbnails/toner-return-m2400
 9/21/2020 8:54:58 PM 865,98 RON
 9/26/2020 11:36:31 AM 867,98 RON
 9/27/2020 2:59:07 PM 867,98 RON
+10/6/2020 1:57:22 PM 867,98 RON

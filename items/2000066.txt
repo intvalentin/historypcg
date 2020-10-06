@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-w2d-b2-eup
 2000066
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/ezviz/cs-w2d-plus-2-camere-c3a/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990682/2000066/thumbnails/cs-w2d-plus-2-cam
 9/22/2020 3:08:52 PM 1.795,92 RON
 9/26/2020 4:36:03 PM 1.801,06 RON
 9/27/2020 8:39:44 PM 1.802,10 RON
+10/6/2020 5:22:43 PM 1.800,06 RON

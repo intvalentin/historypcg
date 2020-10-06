@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll491041
 2074058
     Product link    
 https://www.pcgarage.ro/boxe/tellur/basic-20-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2074058/thumbnails/basic-20-black-45545
 9/22/2020 4:48:24 PM 37,98 RON
 9/26/2020 5:41:24 PM 37,98 RON
 9/28/2020 7:50:29 AM 37,98 RON
+10/6/2020 8:16:33 PM 37,98 RON

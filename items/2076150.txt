@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r1855db-mb
 2076150
     Product link    
 https://www.pcgarage.ro/boxe/edifier/r1855db-20-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4525/2076150/thumbnails/r1855db-20-black-8a9
 9/22/2020 5:01:18 PM 735,98 RON
 9/26/2020 5:46:33 PM 745,98 RON
 9/28/2020 7:55:43 AM 745,98 RON
+10/6/2020 9:50:41 PM 737,98 RON

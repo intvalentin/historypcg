@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbpoe
 1100083
     Product link    
 https://www.pcgarage.ro/accesorii-retea/mikrotik/rbpoe-adaptor-fastethernet-poe-10-28v/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1088254/1100083/thumbnails/rbpoe-adaptor-fas
 9/22/2020 1:31:02 PM 17,26 RON
 9/26/2020 3:41:18 PM 17,26 RON
 9/27/2020 7:52:46 PM 17,26 RON
+10/6/2020 9:20:36 AM 17,26 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vcf109x
 1839564
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/breville/vcf109x-prima-latte-ii/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2863/1839564/thumbnails/vcf109x-prima-latte-
     Pret    
 9/22/2020 7:05:01 PM 799,79 RON
 9/26/2020 8:24:13 PM 799,79 RON
+10/6/2020 2:43:07 PM 799,79 RON

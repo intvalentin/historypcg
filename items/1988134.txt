@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce38d8t-pir-28
 1988134
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce38d8t-pir-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/370411/1988134/thumbnails/ds-2ce38d8t-pir-28
 9/22/2020 3:26:22 PM 202,96 RON
 9/26/2020 4:42:45 PM 203,53 RON
 9/27/2020 8:46:26 PM 203,65 RON
+10/6/2020 5:55:03 PM 203,42 RON

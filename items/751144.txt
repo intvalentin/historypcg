@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs1708a-at-g
 751144
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs1708a/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/634551/751144/thumbnails/switch-kvm-cs1708a-
 9/22/2020 3:46:47 PM 1.739,94 RON
 9/26/2020 4:55:18 PM 1.744,91 RON
 9/27/2020 8:58:55 PM 1.745,92 RON
+10/6/2020 8:02:50 PM 1.743,96 RON

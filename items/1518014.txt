@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cbtsp3bo
 1518014
     Product link    
 https://www.pcgarage.ro/boxe-portabile/canyon/cbtsp3-black-orange/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1427582/1518014/thumbnails/cne-cbtsp3-black-
 9/22/2020 5:05:33 PM 43,05 RON
 9/26/2020 6:02:52 PM 43,73 RON
 9/28/2020 8:12:05 AM 43,73 RON
+10/6/2020 10:12:08 PM 43,20 RON

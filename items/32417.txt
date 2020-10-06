@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9502ae
 32417
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-56-black-twin-pack/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/3/32417/thumbnails/56-black-inkjet-print-car
 9/22/2020 9:28:58 AM 267,98 RON
 9/26/2020 12:27:58 PM 267,98 RON
 9/27/2020 3:58:19 PM 267,98 RON
+10/6/2020 6:40:42 PM 267,98 RON

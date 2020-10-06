@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |apcrbc109
 976447
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-109/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/802687/976447/thumbnails/replacement-battery
 9/22/2020 1:22:25 PM 594,50 RON
 9/26/2020 3:34:41 PM 596,20 RON
 9/27/2020 7:46:04 PM 596,54 RON
+10/6/2020 8:42:30 AM 613,18 RON

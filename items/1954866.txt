@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0288c001aa
 1954866
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-crg039h-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1953966/1954866/thumbnails/toner-crg039h-bla
     Pret    
 9/26/2020 11:17:58 AM 1.177,98 RON
 9/27/2020 2:39:09 PM 1.175,98 RON
+10/6/2020 10:53:18 AM 1.175,98 RON

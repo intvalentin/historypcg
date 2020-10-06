@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r305041
 2062450
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-5e-patch-cable-sf-utp-15m-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7960/2062450/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:02:31 PM 54,31 RON
 9/26/2020 4:26:21 PM 54,45 RON
 9/27/2020 8:30:01 PM 54,50 RON
+10/6/2020 4:38:56 PM 50,08 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20179
 1424138
     Product link    
 https://www.pcgarage.ro/boxe/trust/arys-20-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929094/1424138/thumbnails/arys-20-black-4f6f
 9/22/2020 4:47:20 PM 107,98 RON
 9/26/2020 5:45:04 PM 107,98 RON
 9/28/2020 7:54:15 AM 107,98 RON
+10/6/2020 8:21:59 PM 101,98 RON

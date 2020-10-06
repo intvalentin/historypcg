@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea8155
 1135123
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/krups/espresseria-ea8155/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1178653/1135123/thumbnails/1espresseria-ea81
     Pret    
 9/22/2020 7:06:35 PM 1.679,99 RON
 9/26/2020 8:25:43 PM 1.679,99 RON
+10/6/2020 3:10:53 PM 1.489,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401490
 2085770
     Product link    
 https://www.pcgarage.ro/senzori-smart/somfy/senzor-de-miscare-pentru-interior-compatibil-cu-somfy-one-one-plus-home-alarm/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3354/2085770/thumbnails/senzor-de-miscare-pe
     Pret    
 9/22/2020 7:37:57 PM 474,81 RON
 9/26/2020 9:16:13 PM 474,81 RON
+10/6/2020 8:37:43 PM 474,81 RON

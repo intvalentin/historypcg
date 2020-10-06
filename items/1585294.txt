@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1cc20ae
 1585294
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-903xl-3-culori-plus-hartie-80g-50-coli-plus-hartie-180g-25-coli/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/1516422/1585294/thumbnails/cartus-903xl-3-cu
 9/22/2020 8:57:11 AM 233,98 RON
 9/26/2020 11:57:17 AM 233,98 RON
 9/27/2020 3:31:37 PM 233,98 RON
+10/6/2020 3:09:12 PM 233,98 RON

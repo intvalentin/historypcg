@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00472
 1942710
     Product link    
 https://www.pcgarage.ro/epilatoare/panasonic/es-el9a-s503/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5758/1942710/thumbnails/es-el9a-s503-aa2dbac
     Pret    
 9/22/2020 6:57:10 PM 464,99 RON
 9/26/2020 8:12:20 PM 464,99 RON
+10/6/2020 1:07:40 PM 699,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce56h0t-irmmfc
 2073462
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce56h0t-irmmfc-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2554/2073462/thumbnails/ds-2ce56h0t-it3f-28m
 9/22/2020 3:25:17 PM 165,12 RON
 9/26/2020 4:39:02 PM 165,59 RON
 9/27/2020 8:42:42 PM 165,69 RON
+10/6/2020 5:49:09 PM 165,51 RON

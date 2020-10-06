@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b3p06a
 741730
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-727/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/735074/741730/thumbnails/printhead-727-black
 9/22/2020 9:21:35 AM 1.401,98 RON
 9/26/2020 12:01:45 PM 1.405,98 RON
 9/27/2020 3:36:24 PM 1.403,98 RON
+10/6/2020 5:46:15 PM 1.403,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-1ln6-ue-w
 1867482
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hikvision/rola-cablu-cat6-u-utp-305m-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1864870/1867482/thumbnails/rola-cablu-cat6-u
 9/22/2020 2:53:52 PM 471,75 RON
 9/26/2020 4:28:35 PM 473,11 RON
 9/27/2020 8:32:18 PM 473,38 RON
+10/6/2020 5:05:04 PM 472,85 RON

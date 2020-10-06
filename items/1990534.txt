@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-wf550-8hdd
 1990534
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-wifi550-nvr-plus-8-camere-wifi-plus-hdd-2-tb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1990366/1990534/thumbnails/house-wifi550-nvr
 9/22/2020 3:07:49 PM 1.779,05 RON
 9/26/2020 4:36:03 PM 1.779,05 RON
 9/27/2020 8:39:44 PM 1.779,05 RON
+10/6/2020 5:23:59 PM 2.200,31 RON

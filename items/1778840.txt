@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uvc-g3-led
 1778840
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/ubiquiti-networks/ir-range-extender/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6115/1778840/thumbnails/ir-range-extender-91
 9/22/2020 3:43:37 PM 374,05 RON
 9/26/2020 4:53:09 PM 379,05 RON
 9/27/2020 8:56:45 PM 379,05 RON
+10/6/2020 7:49:59 PM 375,34 RON

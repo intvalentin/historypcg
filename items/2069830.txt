@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ir-300zb
 2069830
     Product link    
 https://www.pcgarage.ro/huburi-inteligente/orvibo/telecomanda-ir-prin-protocol-zigbee/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4273/2069830/thumbnails/telecomanda-ir-prin-
     Pret    
 9/22/2020 7:34:02 PM 199,65 RON
 9/26/2020 9:10:56 PM 199,65 RON
+10/6/2020 7:58:30 PM 199,65 RON

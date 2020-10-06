@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t2-gr
 1521738
     Product link    
 https://www.pcgarage.ro/casti/microlab/t2-green/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1516422/1521738/thumbnails/t2-green-47217490
 9/22/2020 4:09:00 PM 149,98 RON
 9/26/2020 5:08:37 PM 151,98 RON
 9/27/2020 9:13:08 PM 151,98 RON
+10/6/2020 10:14:47 PM 149,98 RON

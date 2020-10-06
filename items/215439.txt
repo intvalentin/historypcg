@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc364a
 215439
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cc364a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/215439/thumbnails/black-print-cartridge-cc
 9/22/2020 9:16:11 AM 905,98 RON
 9/26/2020 12:06:13 PM 907,98 RON
 9/27/2020 3:41:13 PM 907,98 RON
+10/6/2020 7:30:29 PM 881,98 RON

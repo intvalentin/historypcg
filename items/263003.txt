@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000468
 263003
     Product link    
 https://www.pcgarage.ro/boxe/logitech/z906/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/263003/thumbnails/z906-c349e1bd9fcb78bb411
 9/22/2020 4:46:16 PM 1.529,98 RON
 9/26/2020 5:45:49 PM 1.529,98 RON
 9/28/2020 7:55:43 AM 1.529,98 RON
+10/6/2020 8:51:14 PM 1.697,98 RON

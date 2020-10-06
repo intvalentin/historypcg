@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lic-kav-zz0034f
 1881218
     Product link    
 https://www.pcgarage.ro/accesorii-retea/zyxel/licenta-zywall-firewall-e-icard-24-luni-kaspersky-anti-virus-pentru-usg40-usg40w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5634/1881218/thumbnails/licenta-zywall-firew
 9/22/2020 1:36:24 PM 1.526,43 RON
 9/26/2020 3:43:31 PM 1.531,67 RON
 9/27/2020 7:55:02 PM 1.531,67 RON
+10/6/2020 10:30:52 AM 1.529,95 RON

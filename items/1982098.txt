@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |gmr4014gl
 1982098
     Product link    
 https://www.pcgarage.ro/smart-home-gadget/xiaomi/mi-priza-smart-wi-fi-zigbee/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1979534/1982098/thumbnails/mi-priza-smart-wi
     Pret    
 9/22/2020 7:30:41 PM 79,99 RON
 9/26/2020 9:08:40 PM 79,99 RON
+10/6/2020 7:45:34 PM 79,99 RON

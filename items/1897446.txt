@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em197316
 1897446
     Product link    
 https://www.pcgarage.ro/boxe-portabile/harman-kardon/onyx-studio-5-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/3944/1897446/thumbnails/onyx-studio-5-gray-4
 9/22/2020 5:15:16 PM 791,18 RON
 9/26/2020 5:57:40 PM 793,44 RON
 9/28/2020 8:06:52 AM 793,89 RON
+10/6/2020 11:11:31 PM 793,00 RON

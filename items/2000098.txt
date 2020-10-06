@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-cv246-b0-3b2wfr
 2000098
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ezviz/cs-cv246-3b2-4mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990366/2000098/thumbnails/vs-cv246-3b1-4mm-
 9/22/2020 3:37:10 PM 376,46 RON
 9/26/2020 4:47:58 PM 377,53 RON
 9/27/2020 8:51:36 PM 377,76 RON
+10/6/2020 7:00:48 PM 377,33 RON

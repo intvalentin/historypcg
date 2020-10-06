@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |9822b001aa
 1934438
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-707c-cyan/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6811/1934438/thumbnails/cartus-pfi-707c-cyan
     Pret    
 9/26/2020 11:18:42 AM 1.015,98 RON
 9/27/2020 2:39:57 PM 1.011,98 RON
+10/6/2020 10:47:03 AM 1.013,98 RON

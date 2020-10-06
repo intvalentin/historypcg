@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3481b002aa
 252397
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-724-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/252397/thumbnails/toner-negru-724-3d098a36
 9/21/2020 7:03:18 PM 663,98 RON
 9/26/2020 11:12:52 AM 665,98 RON
 9/27/2020 2:34:23 PM 663,98 RON
+10/6/2020 8:44:11 AM 663,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1486b001aa
 14849
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-301-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5/14849/thumbnails/toner-negru-pfi-301-2f3b7
     Pret    
 9/26/2020 11:25:23 AM 723,98 RON
 9/27/2020 2:47:10 PM 723,98 RON
+10/6/2020 10:34:21 AM 723,98 RON

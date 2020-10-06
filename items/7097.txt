@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sum3000rmxli2u
 7097
     Product link    
 https://www.pcgarage.ro/ups/apc/sum3000rmxli2u/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1/7097/thumbnails/1d7a31a1-5056-9170-d32eceb
 9/22/2020 1:18:08 PM 16.642,38 RON
 9/26/2020 3:32:23 PM 16.689,99 RON
 9/27/2020 7:43:46 PM 16.699,58 RON
+10/6/2020 8:19:08 AM 17.124,93 RON

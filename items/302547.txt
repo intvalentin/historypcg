@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ae2430+-+12
 302547
     Product link    
 https://www.pcgarage.ro/multimedia/philips/ae2430-radio-portabil/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/2013982/302547/thumbnails/ae2430-radio-porta
     Pret    
 9/22/2020 6:17:13 PM 279,99 RON
 9/26/2020 7:29:52 PM 401,61 RON
+10/6/2020 7:54:22 AM 401,61 RON

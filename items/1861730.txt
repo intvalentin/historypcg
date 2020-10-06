@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uvc-g3-pro
 1861730
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ubiquiti-networks/g3-pro-3-9mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1861730/thumbnails/g3-af-36mm-443a51e689
 9/22/2020 3:32:50 PM 1.384,24 RON
 9/26/2020 4:45:00 PM 1.402,11 RON
 9/27/2020 8:48:39 PM 1.402,11 RON
+10/6/2020 7:21:47 PM 1.358,62 RON

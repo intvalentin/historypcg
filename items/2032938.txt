@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |en500.b-ro
 2032938
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/nespresso/lattissima-one-en-500b-ro/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/3041/2032938/thumbnails/lattissima-one-en-50
     Pret    
 9/22/2020 7:06:04 PM 1.099,99 RON
 9/26/2020 8:23:28 PM 1.099,99 RON
+10/6/2020 2:43:39 PM 1.049,99 RON

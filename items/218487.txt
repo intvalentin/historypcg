@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t636400
 218487
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t636400-yellow/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/218487/thumbnails/cartus-yellow-ultrachrom
 9/21/2020 7:34:03 PM 1.461,98 RON
 9/26/2020 11:33:33 AM 1.465,98 RON
 9/27/2020 2:55:55 PM 1.465,98 RON
+10/6/2020 12:00:29 PM 1.465,98 RON

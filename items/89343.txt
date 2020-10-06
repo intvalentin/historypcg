@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc30
 89343
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-30/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4/89343/thumbnails/replacement-battery-cartr
 9/22/2020 1:24:34 PM 267,56 RON
 9/26/2020 3:38:23 PM 268,48 RON
 9/27/2020 7:49:48 PM 268,48 RON
+10/6/2020 8:54:49 AM 275,79 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b110-m-28
 2000338
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b110-m-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1990682/2000338/thumbnails/hiwatch-hwt-b110-
 9/22/2020 3:24:13 PM 70,59 RON
 9/26/2020 4:41:16 PM 70,79 RON
 9/27/2020 8:44:57 PM 70,83 RON
+10/6/2020 5:41:03 PM 70,74 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |charge4albastru
 1856158
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/charge-4-blue/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1848774/1856158/thumbnails/charge-4-blue-014
 9/22/2020 5:18:31 PM 992,45 RON
 9/26/2020 6:05:06 PM 992,45 RON
 9/28/2020 8:14:19 AM 992,45 RON
+10/6/2020 11:12:04 PM 826,85 RON

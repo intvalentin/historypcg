@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cne-cep3r
 1778252
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/cne-cep3r-black-red/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/761/1778252/thumbnails/cne-cep3r-black-red-f
 9/22/2020 4:19:38 PM 27,98 RON
 9/26/2020 5:25:46 PM 27,98 RON
 9/27/2020 9:24:10 PM 27,98 RON
+10/6/2020 10:44:58 PM 27,98 RON

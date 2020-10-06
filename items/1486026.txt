@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm173132
 1486026
     Product link    
 https://www.pcgarage.ro/boxe/hama/sonic-mobil-185-black-silver/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1146523/1486026/thumbnails/sonic-mobil-185-b
 9/22/2020 4:54:50 PM 45,98 RON
 9/26/2020 5:49:31 PM 45,98 RON
 9/28/2020 7:58:42 AM 45,98 RON
+10/6/2020 9:02:56 PM 45,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce16h8t-it3f28
 1949890
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce16h8t-it3f-28mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/6166/1949890/thumbnails/ds-2ce16h8t-it3f-28m
 9/22/2020 3:28:31 PM 346,49 RON
 9/26/2020 4:43:30 PM 347,49 RON
 9/27/2020 8:47:10 PM 347,69 RON
+10/6/2020 6:12:16 PM 347,29 RON

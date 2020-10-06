@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru23695
 2023338
     Product link    
 https://www.pcgarage.ro/boxe/trust/orion-20-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/9002/2023338/thumbnails/orion-20-black-d676a
 9/22/2020 4:46:16 PM 123,98 RON
 9/26/2020 5:42:08 PM 123,98 RON
 9/28/2020 7:51:16 AM 123,98 RON
+10/6/2020 8:22:49 PM 123,98 RON

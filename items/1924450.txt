@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q5950ac
 1924450
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/hp-q5950ac-toner-contract-laserjet-blk/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6622/1924450/thumbnails/toner-q5950ac-black-
 9/22/2020 9:35:14 AM 1.229,98 RON
 9/26/2020 12:15:49 PM 1.233,98 RON
 9/27/2020 3:50:51 PM 1.233,98 RON
+10/6/2020 7:40:56 PM 1.233,98 RON

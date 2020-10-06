@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-506821
 1879754
     Product link    
 https://www.pcgarage.ro/multimedia/sennheiser/flex-5000-transmitter-receiver-wireless/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/5634/1879754/thumbnails/flex-5000-transmitte
     Pret    
 9/22/2020 6:16:39 PM 809,10 RON
 9/26/2020 7:29:08 PM 809,10 RON
+10/6/2020 7:55:58 AM 809,10 RON

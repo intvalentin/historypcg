@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6578d
 310797
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-78-small-3-culori/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4/310797/thumbnails/78-tri-colour-ink-cartri
 9/22/2020 9:05:40 AM 271,98 RON
 9/26/2020 12:04:43 PM 271,98 RON
 9/27/2020 3:39:38 PM 271,98 RON
+10/6/2020 3:18:21 PM 273,98 RON

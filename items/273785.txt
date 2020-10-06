@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |7xf-00001
 273785
     Product link    
 https://www.pcgarage.ro/casti/microsoft/lifechat-lx-6000-for-business/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/273785/thumbnails/lifechat-lx-6000-for-bus
 9/22/2020 3:57:19 PM 289,98 RON
 9/26/2020 5:06:23 PM 289,98 RON
 9/27/2020 9:10:07 PM 289,98 RON
+10/6/2020 9:00:15 PM 311,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4901a
 215667
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-940-magenta-plus-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/215667/thumbnails/magenta-and-cyan-printhe
 9/22/2020 9:06:42 AM 357,98 RON
 9/26/2020 12:06:57 PM 359,98 RON
 9/27/2020 3:42:02 PM 357,98 RON
+10/6/2020 3:30:47 PM 359,98 RON

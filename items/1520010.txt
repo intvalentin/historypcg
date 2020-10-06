@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hr1234wf2
 1520010
     Product link    
 https://www.pcgarage.ro/accesorii-ups/csb-battery/baterie-ups-hr1234wf2-12v-9ah/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1409094/1520010/thumbnails/hr1234wf2-12v-34w
 9/22/2020 1:21:21 PM 101,07 RON
 9/26/2020 3:34:41 PM 105,58 RON
 9/27/2020 7:46:04 PM 105,58 RON
+10/6/2020 8:36:19 AM 105,46 RON

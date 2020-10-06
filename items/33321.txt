@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0455b002aa
 33321
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-21-yelow/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4/33321/thumbnails/yellow-toner-c-exv21-5604
     Pret    
 9/26/2020 11:23:54 AM 487,98 RON
 9/27/2020 2:45:34 PM 487,98 RON
+10/6/2020 9:45:15 AM 487,98 RON

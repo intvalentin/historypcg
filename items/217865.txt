@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t05304010
 217865
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t0530-5-culori/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/217865/thumbnails/cartus-color-t0530-c13t0
 9/21/2020 8:45:12 PM 159,98 RON
 9/26/2020 11:43:56 AM 159,98 RON
 9/27/2020 3:07:05 PM 159,98 RON
+10/6/2020 12:52:57 PM 159,98 RON

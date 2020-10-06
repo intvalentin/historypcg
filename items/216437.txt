@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t04824010
 216437
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t0482-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/3/216437/thumbnails/cartus-cyan-t0482-c13t04
 9/21/2020 8:44:07 PM 109,98 RON
 9/26/2020 11:44:41 AM 109,98 RON
 9/27/2020 3:07:52 PM 109,98 RON
+10/6/2020 12:43:55 PM 109,98 RON

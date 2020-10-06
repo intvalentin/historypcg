@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cre191978
 1605438
     Product link    
 https://www.pcgarage.ro/boxe-portabile/creative/muvo-1c-green/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1510154/1605438/thumbnails/muvo-1c-green-05b
 9/22/2020 5:08:47 PM 125,51 RON
 9/26/2020 6:02:51 PM 125,95 RON
 9/28/2020 8:12:05 AM 125,95 RON
+10/6/2020 10:28:57 PM 125,92 RON

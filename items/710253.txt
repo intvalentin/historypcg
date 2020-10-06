@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31731022100
 710253
     Product link    
 https://www.pcgarage.ro/boxe/genius/sp-hf1250b-hi-fi-cherry-wood/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/710253/thumbnails/sp-hf1250b-cherry-wood-4
 9/22/2020 4:58:04 PM 195,98 RON
 9/26/2020 5:53:14 PM 199,98 RON
 9/28/2020 8:02:25 AM 199,98 RON
+10/6/2020 9:23:10 PM 197,98 RON

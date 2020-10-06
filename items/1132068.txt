@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0632
 1132068
     Product link    
 https://www.pcgarage.ro/casti/krugermatz/over-head-model-wave-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929099/1132068/thumbnails/over-head-model-wa
 9/22/2020 4:06:50 PM 51,98 RON
 9/26/2020 5:10:51 PM 51,98 RON
 9/27/2020 9:14:38 PM 51,98 RON
+10/6/2020 9:55:47 PM 51,98 RON

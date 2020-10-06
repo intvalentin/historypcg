@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1062s
 1266240
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-3m-gray/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/849800/1266240/thumbnails/cat5e-patch-cable-
 9/22/2020 2:43:05 PM 21,68 RON
 9/26/2020 4:17:25 PM 21,75 RON
 9/27/2020 8:21:05 PM 21,75 RON
+10/6/2020 1:52:47 PM 21,73 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a0112151
 2007442
     Product link    
 https://www.pcgarage.ro/cabluri-retea/ted/rola-cablu-cat5e-ftp-305ml-24awg-fluke-pass-cupru-integral-gri/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8078/2007442/thumbnails/rola-cablu-cat5e-ftp
 9/22/2020 2:51:43 PM 452,96 RON
 9/26/2020 3:48:00 PM 452,96 RON
 9/27/2020 7:59:33 PM 452,96 RON
+10/6/2020 3:23:14 PM 461,67 RON

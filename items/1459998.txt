@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0811c001aa
 1459998
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-1300-photo-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1459998/thumbnails/cartus-pfi-1300-p
 9/21/2020 7:03:17 PM 657,98 RON
 9/26/2020 11:06:56 AM 659,98 RON
 9/27/2020 2:28:05 PM 657,98 RON
+10/6/2020 8:39:46 AM 657,98 RON

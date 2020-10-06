@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn053ae
 311761
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-932xl-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1/311761/thumbnails/cartus-932xl-black-0f1c2
 9/22/2020 8:53:59 AM 173,98 RON
 9/26/2020 12:03:58 PM 173,98 RON
 9/27/2020 3:38:51 PM 173,98 RON
+10/6/2020 3:00:43 PM 173,98 RON

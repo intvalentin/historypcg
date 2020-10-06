@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9382a
 32255
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-88-magenta-plus-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/32255/thumbnails/88-magenta-and-cyan-print
 9/22/2020 9:07:43 AM 371,98 RON
 9/26/2020 12:11:22 PM 371,98 RON
 9/27/2020 3:46:00 PM 371,98 RON
+10/6/2020 3:20:32 PM 287,98 RON

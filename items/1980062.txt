@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd1323g0e-i-28
 1980062
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd1323g0e-i-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1977958/1980062/thumbnails/ds-2cd1323g0e-i-2
 9/22/2020 3:28:31 PM 383,40 RON
 9/26/2020 4:42:45 PM 384,50 RON
 9/27/2020 8:46:26 PM 384,72 RON
+10/6/2020 6:12:48 PM 384,29 RON

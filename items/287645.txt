@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plp00036
 287645
     Product link    
 https://www.pcgarage.ro/casti/plantronics/audio-655-usb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/287645/thumbnails/audio-655-49c1bbb8ec774e
 9/22/2020 4:10:05 PM 201,98 RON
 9/26/2020 5:13:05 PM 203,98 RON
 9/27/2020 9:16:52 PM 203,98 RON
+10/6/2020 10:17:47 PM 203,98 RON

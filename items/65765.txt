@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cc530a
 65765
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cc530a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2/65765/thumbnails/cc530a400x400.jpg
 9/22/2020 9:11:54 AM 653,98 RON
 9/26/2020 12:13:36 PM 655,98 RON
 9/27/2020 3:48:27 PM 655,98 RON
+10/6/2020 4:36:37 PM 655,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo8c
 1080349
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo-8c/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/1080349/thumbnails/solo-8c-1299ff3d52
 9/22/2020 5:01:18 PM 851,98 RON
 9/26/2020 5:51:45 PM 865,98 RON
 9/28/2020 8:00:56 AM 865,98 RON
+10/6/2020 9:53:55 PM 855,98 RON

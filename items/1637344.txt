@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs10
 1637344
     Product link    
 https://www.pcgarage.ro/cantare/lenovo/smart-body-fat-scale-hs10-black/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1634078/1637344/thumbnails/smart-body-fat-sc
     Pret    
 9/22/2020 6:38:41 PM 429,98 RON
 9/26/2020 7:59:31 PM 429,98 RON
+10/6/2020 11:08:35 AM 429,98 RON

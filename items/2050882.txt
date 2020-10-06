@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2412a
 2050882
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-216a-yellow/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/7960/2050882/thumbnails/toner-216a-yellow-33
 9/22/2020 8:58:15 AM 265,98 RON
 9/26/2020 11:48:23 AM 267,98 RON
 9/27/2020 3:11:51 PM 265,98 RON
+10/6/2020 3:16:31 PM 267,98 RON

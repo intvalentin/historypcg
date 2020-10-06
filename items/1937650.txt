@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb380yc
 1937650
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cb380yc-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/2554/1937650/thumbnails/toner-cb380yc-black-
 9/22/2020 9:23:41 AM 1.747,98 RON
 9/26/2020 11:50:37 AM 1.753,98 RON
 9/27/2020 3:14:14 PM 1.753,98 RON
+10/6/2020 6:01:01 PM 1.751,98 RON

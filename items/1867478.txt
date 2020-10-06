@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-1ln5e-e+-+e
 1867478
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hikvision/rola-cablu-cat5e-u-utp-305m-1/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1867478/thumbnails/rola-cablu-cat5e-u-u
 9/22/2020 2:51:42 PM 308,90 RON
 9/26/2020 3:49:30 PM 309,79 RON
 9/27/2020 8:01:02 PM 309,96 RON
+10/6/2020 5:02:20 PM 309,62 RON

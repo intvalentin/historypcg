@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-s38 lights
 1600362
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-s38-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1535667/1600362/thumbnails/abts-s38-black-f5
 9/22/2020 5:12:02 PM 254,81 RON
 9/26/2020 6:02:52 PM 254,81 RON
 9/28/2020 8:12:05 AM 254,81 RON
+10/6/2020 10:54:40 PM 253,47 RON

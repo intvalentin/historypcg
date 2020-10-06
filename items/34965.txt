@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bat-12v7ah
 34965
     Product link    
 https://www.pcgarage.ro/accesorii-ups/gembird/battery-12v-7ah/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/843505/34965/thumbnails/battery-12v-7ah-786a
 9/22/2020 1:21:21 PM 64,86 RON
 9/26/2020 3:35:26 PM 65,88 RON
 9/27/2020 7:46:48 PM 65,88 RON
+10/6/2020 8:50:57 AM 65,16 RON

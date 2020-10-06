@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9448a
 32353
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-70-matte-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32353/thumbnails/70-matte-black-ink-cartri
 9/22/2020 9:09:46 AM 427,98 RON
 9/26/2020 12:10:37 PM 427,98 RON
 9/27/2020 3:45:13 PM 427,98 RON
+10/6/2020 3:50:28 PM 427,98 RON

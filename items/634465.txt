@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t15904010
 634465
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t1590-gloss-optimizer/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/5/634465/thumbnails/cartus-t1590-gloss-optim
 9/21/2020 7:34:03 PM 43,98 RON
 9/26/2020 11:37:16 AM 43,98 RON
 9/27/2020 2:59:55 PM 43,98 RON
+10/6/2020 12:01:01 PM 43,98 RON

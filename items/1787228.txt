@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1112s
 1787228
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-20m-gray/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/849800/1787228/thumbnails/cat5e-patch-cable-
 9/22/2020 2:20:27 PM 37,23 RON
 9/26/2020 3:50:14 PM 37,36 RON
 9/27/2020 8:01:47 PM 37,36 RON
+10/6/2020 2:30:24 PM 37,32 RON

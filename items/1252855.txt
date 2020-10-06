@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2033s
 1252855
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-1m-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1178653/1252855/thumbnails/cat6-patch-cable-
 9/22/2020 2:18:18 PM 20,23 RON
 9/26/2020 4:19:40 PM 20,30 RON
 9/27/2020 8:24:02 PM 20,30 RON
+10/6/2020 1:31:35 PM 20,28 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uck-g2-plus
 1862830
     Product link    
 https://www.pcgarage.ro/detalii-produs/1862830/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1862830/thumbnails/unifi-cloud-key-g2-e
 9/22/2020 3:09:57 PM 987,26 RON
 9/26/2020 4:38:16 PM 1.002,83 RON
 9/27/2020 8:41:57 PM 1.002,83 RON
+10/6/2020 5:35:59 PM 991,81 RON

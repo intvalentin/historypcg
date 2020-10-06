@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t865140
 1287870
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t8651-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2/1287870/thumbnails/cartus-t8651-black-bcd8
 9/21/2020 8:53:53 PM 683,98 RON
 9/26/2020 11:32:04 AM 777,98 RON
 9/27/2020 2:54:20 PM 777,98 RON
+10/6/2020 11:54:24 AM 775,98 RON

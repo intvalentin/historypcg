@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t04104010
 216413
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t041-tri-color/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/3/216413/thumbnails/cartus-color-t041-c13t04
 9/21/2020 8:46:17 PM 251,98 RON
 9/26/2020 11:45:25 AM 251,98 RON
 9/27/2020 3:08:40 PM 251,98 RON
+10/6/2020 1:01:24 PM 251,98 RON

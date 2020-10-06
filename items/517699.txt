@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |6625b001aa
 517699
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-106-photo-cyan/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/517699/thumbnails/pfi-106pc-photto-cyan-23
 9/21/2020 6:26:49 PM 291,98 RON
 9/26/2020 11:11:22 AM 293,98 RON
 9/27/2020 2:32:51 PM 291,98 RON
+10/6/2020 7:52:53 AM 293,98 RON

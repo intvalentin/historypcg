@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |shp1900+-+10
 252055
     Product link    
 https://www.pcgarage.ro/casti/philips/shp1900/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4/252055/thumbnails/shp1900-16a59a6f7acc2398
 9/22/2020 4:03:37 PM 117,98 RON
 9/26/2020 5:06:23 PM 147,98 RON
 9/27/2020 9:10:07 PM 147,98 RON
+10/6/2020 8:38:27 PM 147,98 RON

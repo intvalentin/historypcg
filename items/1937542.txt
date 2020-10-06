@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |igb3
 1937542
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/igloohome/deadbolt-2s-igb3/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2554/1937542/thumbnails/deadbolt-2s-igb3-8e4
     Pret    
 9/22/2020 7:35:11 PM 1.105,98 RON
 9/26/2020 9:12:25 PM 1.123,43 RON
+10/6/2020 8:09:16 PM 1.111,07 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1297897
 1868498
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bang-ampolufsen/beoplay-a1-sky-limited-edition/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1864870/1868498/thumbnails/beoplay-a1-sky-li
 9/22/2020 5:15:17 PM 1.182,78 RON
 9/26/2020 5:58:24 PM 1.182,78 RON
 9/28/2020 8:07:37 AM 1.182,78 RON
+10/6/2020 11:15:16 PM 1.182,78 RON

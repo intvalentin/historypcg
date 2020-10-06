@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf361a
 1041267
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-508a-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/802687/1041267/thumbnails/toner-508a-cyan-0b
 9/22/2020 9:00:24 AM 997,98 RON
 9/26/2020 12:00:15 PM 1.001,98 RON
 9/27/2020 3:35:37 PM 1.001,98 RON
+10/6/2020 5:06:41 PM 1.001,98 RON

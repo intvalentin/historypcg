@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c6625ae
 32181
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-17-3-culori/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/32181/thumbnails/17-tri-colour-inkjet-prin
 9/22/2020 9:27:53 AM 221,98 RON
 9/26/2020 12:27:58 PM 223,98 RON
 9/27/2020 3:58:19 PM 223,98 RON
+10/6/2020 6:35:03 PM 223,98 RON

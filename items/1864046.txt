@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |uvc-g3-micro
 1864046
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ubiquiti-networks/unifi-g3-micro-22mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1864046/thumbnails/unifi-g3-micro-22mm-
 9/22/2020 3:39:19 PM 936,00 RON
 9/26/2020 4:49:27 PM 950,76 RON
 9/27/2020 8:53:05 PM 950,76 RON
+10/6/2020 7:18:31 PM 939,22 RON

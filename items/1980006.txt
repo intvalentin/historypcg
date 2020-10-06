@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-7104hqhi-k1s
 1980006
     Product link    
 https://www.pcgarage.ro/video-recorder/hikvision/ds-7104hqhi-k1s-4-canale/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1977958/1980006/thumbnails/ds-7104hqhi-k1s-4
 9/22/2020 3:09:57 PM 326,07 RON
 9/26/2020 4:37:31 PM 327,00 RON
 9/27/2020 8:41:12 PM 327,19 RON
+10/6/2020 5:28:12 PM 326,83 RON

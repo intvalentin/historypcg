@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5030-231
 1179541
     Product link    
 https://www.pcgarage.ro/accesorii-retea/axis/outdoor-t8123-e-midspan-splitter/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/255443/1179541/thumbnails/outdoor-t8123-e-mi
 9/22/2020 1:36:24 PM 1.595,23 RON
 9/26/2020 3:44:15 PM 1.599,79 RON
 9/27/2020 7:55:03 PM 1.600,70 RON
+10/6/2020 10:31:08 AM 1.599,66 RON

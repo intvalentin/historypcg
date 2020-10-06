@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hpm-l1200rd
 2063250
     Product link    
 https://www.pcgarage.ro/roboti-de-bucatarie/heinner/expressrobot-hpm-l1200rd/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6954/2063250/thumbnails/expressrobot-hpm-l12
     Pret    
 9/22/2020 7:18:19 PM 609,99 RON
 9/26/2020 8:42:09 PM 609,99 RON
+10/6/2020 5:24:35 PM 609,99 RON

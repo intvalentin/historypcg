@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2td2617b-3+-+pa
 2065662
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/termoviziune-ds-2td2617b-3-pa-8mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2065662/thumbnails/termoviziune-ds-2td2
 9/22/2020 3:33:55 PM 33.091,37 RON
 9/26/2020 4:39:02 PM 33.186,04 RON
 9/27/2020 8:42:42 PM 33.205,12 RON
+10/6/2020 6:45:19 PM 33.167,65 RON

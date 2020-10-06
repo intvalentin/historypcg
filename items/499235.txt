@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf213a
 499235
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-131a-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/4/499235/thumbnails/131a-laserjet-magenta-90
 9/22/2020 8:59:19 AM 453,98 RON
 9/26/2020 12:03:14 PM 455,98 RON
 9/27/2020 3:38:03 PM 455,98 RON
+10/6/2020 3:53:28 PM 455,98 RON

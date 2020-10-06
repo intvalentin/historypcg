@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |baa841sa
 1504098
     Product link    
 https://www.pcgarage.ro/binocluri/nikon/prostaff-7s-10x42/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1358815/1504098/thumbnails/prostaff-7s-10x42
     Pret    
 9/22/2020 6:16:04 PM 1.399,00 RON
 9/26/2020 7:27:37 PM 1.399,00 RON
+10/6/2020 7:48:13 AM 1.399,00 RON

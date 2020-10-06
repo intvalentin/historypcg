@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vst072x-01
 1639432
     Product link    
 https://www.pcgarage.ro/aparate-pentru-gatit/breville/waffle-maker-duraceramic/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1634078/1639432/thumbnails/waffle-maker-dura
     Pret    
 9/22/2020 7:26:41 PM 289,98 RON
 9/26/2020 9:02:41 PM 289,98 RON
+10/6/2020 6:51:59 PM 298,99 RON

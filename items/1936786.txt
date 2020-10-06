@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2t26g1-4i2.8
 1936786
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2t26g1-4i-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2554/1936786/thumbnails/ds-2cd2t26g1-4i-28mm
 9/22/2020 3:39:19 PM 870,17 RON
 9/26/2020 4:48:43 PM 872,65 RON
 9/27/2020 8:52:20 PM 873,15 RON
+10/6/2020 7:16:39 PM 872,17 RON

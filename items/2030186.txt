@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-slds-001
 2030186
     Product link    
 https://www.pcgarage.ro/accesorii-fitness/sklz/echipament-antrenament-de-mobilitate-slidez/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8840/2030186/thumbnails/echipament-antrename
     Pret    
 9/22/2020 7:47:39 PM 129,00 RON
 9/26/2020 9:24:24 PM 129,00 RON
+10/6/2020 9:42:11 PM 129,00 RON

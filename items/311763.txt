@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn054ae
 311763
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-933xl-cyan/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/4/311763/thumbnails/933xl-cyan-officejet-ink
 9/22/2020 8:51:50 AM 87,98 RON
 9/26/2020 12:03:58 PM 87,98 RON
 9/27/2020 3:38:51 PM 87,98 RON
+10/6/2020 2:29:04 PM 87,98 RON

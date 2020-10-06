@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwi-d140h-28
 2068958
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwi-d140h-28mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068958/thumbnails/hiwatch-hwi-d140h-28
 9/22/2020 3:28:31 PM 313,33 RON
 9/26/2020 4:39:02 PM 314,23 RON
 9/27/2020 8:42:42 PM 314,40 RON
+10/6/2020 6:08:36 PM 314,06 RON

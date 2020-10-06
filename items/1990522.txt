@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-ipmax2hdd
 1990522
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-ipmax2-plus-2-camere-ip-720p-plus-hdd-1tb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/370411/1990522/thumbnails/house-ipmax2-plus-
 9/22/2020 3:07:49 PM 899,64 RON
 9/26/2020 4:36:03 PM 899,64 RON
 9/27/2020 8:39:44 PM 899,64 RON
+10/6/2020 5:18:58 PM 899,64 RON

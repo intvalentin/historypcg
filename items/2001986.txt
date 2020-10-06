@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2031x
 2001986
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-415x-cyan/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/8078/2001986/thumbnails/toner-415x-cyan-d5ae
 9/22/2020 8:55:03 AM 1.157,98 RON
 9/26/2020 11:49:52 AM 1.161,98 RON
 9/27/2020 3:13:26 PM 1.161,98 RON
+10/6/2020 5:31:03 PM 1.159,98 RON

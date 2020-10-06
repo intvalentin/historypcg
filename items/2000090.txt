@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-cv206-c0-3b2wfr
 2000090
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/ezviz/cs-cv206-3b2-28mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990366/2000090/thumbnails/cs-cv206-1a1-28mm
 9/22/2020 3:36:05 PM 279,05 RON
 9/26/2020 4:47:58 PM 283,49 RON
 9/27/2020 8:51:36 PM 283,43 RON
+10/6/2020 6:57:54 PM 280,33 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psb00110
 1453394
     Product link    
 https://www.pcgarage.ro/boxe-portabile/sbox/bt-160-red/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1141198/1453394/thumbnails/bt-160-red-fdf38e
 9/22/2020 5:18:31 PM 37,46 RON
 9/26/2020 6:07:20 PM 37,59 RON
 9/28/2020 8:16:36 AM 37,59 RON
+10/6/2020 11:27:30 PM 37,59 RON

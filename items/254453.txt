@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nrt2-5000k
 254453
     Product link    
 https://www.pcgarage.ro/ups/socomec/netys-rt-5000va/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/254453/thumbnails/netys-rt-5000va-8f733539
 9/22/2020 12:52:10 PM 7.920,26 RON
 9/26/2020 3:23:30 PM 8.274,61 RON
 9/27/2020 7:34:52 PM 8.178,02 RON
+10/6/2020 8:10:31 AM 7.942,27 RON

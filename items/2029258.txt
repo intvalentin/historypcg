@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2t65fwd-i84
 2029258
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2cd2t65fwd-i8-4mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2029258/thumbnails/ds-2cd2t65fwd-i5-28m
 9/22/2020 3:32:50 PM 881,32 RON
 9/26/2020 4:39:47 PM 883,83 RON
 9/27/2020 8:43:26 PM 884,35 RON
+10/6/2020 6:36:43 PM 883,35 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c7115a
 33259
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-15a-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/33259/thumbnails/laserjet-c7115a-black-346
 9/22/2020 9:09:46 AM 455,98 RON
 9/26/2020 12:12:06 PM 457,98 RON
 9/27/2020 3:46:48 PM 457,98 RON
+10/6/2020 3:53:45 PM 457,98 RON

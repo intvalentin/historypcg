@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm45054
 304473
     Product link    
 https://www.pcgarage.ro/cabluri-retea/hama/cat6-patch-cable-double-shielded-5m/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/304473/thumbnails/cat6-patch-cable-double-
 9/22/2020 2:48:29 PM 59,31 RON
 9/26/2020 4:24:52 PM 59,31 RON
 9/27/2020 8:28:31 PM 59,31 RON
+10/6/2020 2:43:30 PM 59,31 RON

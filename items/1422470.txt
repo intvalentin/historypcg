@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |smt750rmi2unc
 1422470
     Product link    
 https://www.pcgarage.ro/ups/apc/smart-ups-750va-lcd-rm-2u-230v-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/929094/1422470/thumbnails/smart-ups-750va-lc
 9/22/2020 1:00:49 PM 3.883,25 RON
 9/26/2020 3:28:42 PM 3.896,60 RON
 9/27/2020 7:40:05 PM 3.896,60 RON
+10/6/2020 8:01:15 AM 3.990,30 RON

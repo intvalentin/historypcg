@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c2p21ae
 1144353
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-935-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1088099/1144353/thumbnails/cartus-935-magent
 9/22/2020 9:01:29 AM 69,98 RON
 9/26/2020 11:59:31 AM 69,98 RON
 9/27/2020 3:34:00 PM 69,98 RON
+10/6/2020 2:23:06 PM 69,98 RON

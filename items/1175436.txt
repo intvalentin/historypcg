@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dch-z120
 1175436
     Product link    
 https://www.pcgarage.ro/senzori-smart/d-link/dch-z120/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/959008/1175436/thumbnails/dch-z120-dc275736d
     Pret    
 9/22/2020 7:37:57 PM 275,40 RON
 9/26/2020 9:16:13 PM 276,30 RON
+10/6/2020 8:36:07 PM 239,51 RON

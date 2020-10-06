@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5310b001aa
 729308
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-206-green/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2/729308/thumbnails/cartus-pfi-206-green-b2a
     Pret    
 9/26/2020 11:20:56 AM 645,98 RON
 9/27/2020 2:42:21 PM 645,98 RON
+10/6/2020 10:30:32 AM 645,98 RON

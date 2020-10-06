@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e235-rd
 2057202
     Product link    
 https://www.pcgarage.ro/boxe/edifier/e235-luna-e-21-red/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7193/2057202/thumbnails/e235-luna-e-21-red-3
 9/22/2020 5:02:23 PM 2.055,98 RON
 9/26/2020 5:46:33 PM 2.087,98 RON
 9/28/2020 7:55:43 AM 2.087,98 RON
+10/6/2020 10:02:23 PM 2.061,98 RON

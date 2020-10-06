@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0898b001aa
 55535
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-102-yellow/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1/55535/thumbnails/pfi-102y.jpg
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:16:29 AM 295,98 RON
 9/27/2020 2:37:36 PM 295,98 RON
+10/6/2020 7:54:47 AM 295,98 RON

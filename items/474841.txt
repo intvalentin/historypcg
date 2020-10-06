@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf210a
 474841
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-131a-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/1/474841/thumbnails/131a-black-779328f2729ff
 9/22/2020 9:26:49 AM 351,98 RON
 9/26/2020 12:03:14 PM 353,98 RON
 9/27/2020 3:38:03 PM 353,98 RON
+10/6/2020 3:30:31 PM 353,98 RON

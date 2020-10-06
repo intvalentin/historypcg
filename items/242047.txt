@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf033a
 242047
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cf033a-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/4/242047/thumbnails/magenta-print-cartridge-
 9/22/2020 9:21:35 AM 1.375,98 RON
 9/26/2020 12:05:28 PM 1.381,98 RON
 9/27/2020 3:40:25 PM 1.377,98 RON
+10/6/2020 5:44:07 PM 1.379,98 RON

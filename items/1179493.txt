@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0758-001
 1179493
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3224-lve/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1179493/thumbnails/p3224-lve-1322ffa
 9/22/2020 3:41:29 PM 4.181,96 RON
 9/26/2020 4:50:12 PM 4.193,92 RON
 9/27/2020 8:53:49 PM 4.196,34 RON
+10/6/2020 7:39:52 PM 4.191,61 RON

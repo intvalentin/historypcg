@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |n-sw
 1860338
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/gigabit-nanoswitch-poe-passthrough/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1236/1860338/thumbnails/gigabit-nanoswitch-p
 9/22/2020 1:32:07 PM 221,75 RON
 9/26/2020 3:40:33 PM 224,61 RON
 9/27/2020 7:52:02 PM 224,61 RON
+10/6/2020 9:35:46 AM 222,92 RON

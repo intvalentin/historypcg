@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0985b001aa
 33391
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-710-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5/33391/thumbnails/toner-negru-710-a0b3377f1
 9/21/2020 6:33:04 PM 461,98 RON
 9/26/2020 11:12:52 AM 461,98 RON
 9/27/2020 2:34:23 PM 461,98 RON
+10/6/2020 8:22:50 AM 461,98 RON

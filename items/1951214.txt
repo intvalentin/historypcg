@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf453a
 1951214
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-655a-magenta/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/6997/1951214/thumbnails/toner-655a-magenta-c
 9/22/2020 9:21:35 AM 1.389,98 RON
 9/26/2020 11:50:37 AM 1.393,98 RON
 9/27/2020 3:14:14 PM 1.393,98 RON
+10/6/2020 5:45:56 PM 1.395,98 RON

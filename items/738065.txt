@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf341a
 738065
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-126a-3-culori/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/634551/738065/thumbnails/toner-126a-3-culori
 9/22/2020 8:52:54 AM 813,98 RON
 9/26/2020 12:02:29 PM 817,98 RON
 9/27/2020 3:37:15 PM 817,98 RON
+10/6/2020 4:54:26 PM 817,98 RON

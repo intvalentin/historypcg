@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2790b002aa
 635553
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-29-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2/635553/thumbnails/toner-c-exv-29-black-0f0
 9/21/2020 6:13:52 PM 269,98 RON
 9/26/2020 11:10:38 AM 269,98 RON
 9/27/2020 2:32:03 PM 269,98 RON
+10/6/2020 7:49:10 AM 269,98 RON

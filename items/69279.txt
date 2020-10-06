@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb380a
 69279
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cb380a-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/69279/thumbnails/color-laserjet-cb380a-bla
 9/22/2020 9:00:24 AM 1.213,98 RON
 9/26/2020 12:07:42 PM 1.217,98 RON
 9/27/2020 3:42:50 PM 1.217,98 RON
+10/6/2020 5:35:38 PM 1.217,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9392ae
 32273
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-88xl-magenta/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/2/32273/thumbnails/88xl-magenta-42b0ed522512
 9/22/2020 9:27:53 AM 155,98 RON
 9/26/2020 12:27:58 PM 155,98 RON
 9/27/2020 3:58:19 PM 155,98 RON
+10/6/2020 6:29:48 PM 155,98 RON

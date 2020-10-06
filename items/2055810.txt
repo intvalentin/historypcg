@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pecms01
 2055810
     Product link    
 https://www.pcgarage.ro/senzori-smart/perenio/motion-sensor/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7193/2055810/thumbnails/motion-sensor-eaff2f
     Pret    
 9/22/2020 7:37:23 PM 123,39 RON
 9/26/2020 9:15:30 PM 124,79 RON
+10/6/2020 8:26:08 PM 123,27 RON

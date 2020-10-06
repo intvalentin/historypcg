@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cq2078s
 1295044
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/primeline-cat6-patch-cable-s-ftp-5m-orange/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/735074/1295044/thumbnails/primeline-cat6-pat
 9/22/2020 2:19:22 PM 28,10 RON
 9/26/2020 4:03:35 PM 28,19 RON
 9/27/2020 8:15:16 PM 28,19 RON
+10/6/2020 2:17:20 PM 28,16 RON

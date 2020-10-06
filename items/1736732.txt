@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce16d0t-ire3.6
 1736732
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/turbohd-bullet-ds-2ce16d0t-ire-36mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1736364/1736732/thumbnails/turbohd-bullet-ds
 9/22/2020 3:35:00 PM 160,49 RON
 9/26/2020 4:50:12 PM 160,95 RON
 9/27/2020 8:53:49 PM 161,05 RON
+10/6/2020 6:50:07 PM 160,86 RON

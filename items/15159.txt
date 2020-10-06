@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0616b001aa
 15159
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pg-50-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1/15159/thumbnails/114846.jpg
 9/21/2020 7:23:12 PM 117,98 RON
 9/26/2020 11:27:36 AM 119,98 RON
 9/27/2020 2:49:34 PM 119,98 RON
+10/6/2020 9:18:54 AM 117,98 RON

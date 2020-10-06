@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pp22-0.5m
 1132323
     Product link    
 https://www.pcgarage.ro/cabluri-retea/gembird/cat5e-patch-cable-ftp-05m-grey/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1025741/1132323/thumbnails/cat5e-patch-cable
 9/22/2020 2:24:45 PM 9,32 RON
 9/26/2020 4:22:38 PM 9,47 RON
 9/27/2020 8:26:18 PM 9,47 RON
+10/6/2020 11:01:06 AM 9,36 RON

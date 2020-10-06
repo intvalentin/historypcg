@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km0509
 1132023
     Product link    
 https://www.pcgarage.ro/boxe/krugermatz/prime-20/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/472405/1132023/thumbnails/prime-20-07557ef56
 9/22/2020 5:00:13 PM 523,98 RON
 9/26/2020 5:51:00 PM 523,98 RON
 9/28/2020 8:00:11 AM 523,98 RON
+10/6/2020 9:46:06 PM 523,98 RON

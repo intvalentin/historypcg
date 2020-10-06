@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbc6
 40543
     Product link    
 https://www.pcgarage.ro/accesorii-ups/apc/replacement-battery-cartridge-6/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/40543/thumbnails/replacement-battery-cartr
 9/22/2020 1:26:45 PM 1.192,38 RON
 9/26/2020 3:39:04 PM 1.196,48 RON
 9/27/2020 7:50:31 PM 1.196,48 RON
+10/6/2020 9:03:51 AM 1.233,47 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2de7530iw-ae
 1736568
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ip-ptz-ds-2de7530iw-ae-59-177mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1736364/1736568/thumbnails/ip-ptz-ds-2de7530
 9/22/2020 3:33:55 PM 6.020,80 RON
 9/26/2020 4:45:44 PM 6.038,01 RON
 9/27/2020 8:49:23 PM 6.041,48 RON
+10/6/2020 6:44:12 PM 6.034,66 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |f6t78ae
 1424730
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-913a-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1416578/1424730/thumbnails/cartus-913a-magen
 9/22/2020 8:58:15 AM 385,98 RON
 9/26/2020 11:58:46 AM 387,98 RON
 9/27/2020 3:33:10 PM 387,98 RON
+10/6/2020 3:40:49 PM 391,98 RON

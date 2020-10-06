@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |epst642200
 272049
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t6422-cyan/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4/272049/thumbnails/cartus-cyan-t6422-a0ba83
 9/21/2020 8:50:38 PM 391,98 RON
 9/26/2020 11:39:29 AM 391,98 RON
 9/27/2020 3:02:17 PM 393,98 RON
+10/6/2020 1:22:31 PM 391,98 RON

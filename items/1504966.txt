@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1032u
 1504966
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-1m-grey-2/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457254/1504966/thumbnails/cat5e-patch-cable
 9/22/2020 2:26:54 PM 10,70 RON
 9/26/2020 3:56:53 PM 10,73 RON
 9/27/2020 8:08:28 PM 10,73 RON
+10/6/2020 3:37:03 PM 10,72 RON

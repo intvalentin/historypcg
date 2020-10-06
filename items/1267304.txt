@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1093s
 1267304
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-f-utp-10m-black/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1187917/1267304/thumbnails/cat5e-patch-cable
 9/22/2020 2:42:01 PM 20,47 RON
 9/26/2020 4:17:25 PM 20,54 RON
 9/27/2020 8:21:05 PM 20,54 RON
+10/6/2020 1:32:08 PM 20,51 RON

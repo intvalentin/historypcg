@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-852225007067
 1797092
     Product link    
 https://www.pcgarage.ro/boxe/audioengine/a5-plus-wireless-20-bamboo/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/6361/1797092/thumbnails/a5-plus-wireless-bam
 9/22/2020 4:51:36 PM 2.575,98 RON
 9/26/2020 5:48:02 PM 2.575,98 RON
 9/28/2020 7:57:13 AM 2.575,98 RON
+10/6/2020 10:03:28 PM 2.575,98 RON

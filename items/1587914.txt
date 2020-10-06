@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dbt40b
 1587914
     Product link    
 https://www.pcgarage.ro/preparare-paine/daewoo/prajitor-de-paine-dbt40b/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/953558/1587914/thumbnails/prajitor-de-paine-
     Pret    
 9/22/2020 7:16:02 PM 62,81 RON
 9/26/2020 8:39:50 PM 62,81 RON
+10/6/2020 4:53:24 PM 62,81 RON

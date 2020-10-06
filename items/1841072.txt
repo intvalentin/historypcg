@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |esam 4000.b
 1841072
     Product link    
 https://www.pcgarage.ro/espressoare-de-cafea/delonghi/caffe-magnifica-esam4000-b/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6599/1841072/thumbnails/caffe-magnifica-esam
     Pret    
 9/22/2020 7:04:30 PM 1.348,99 RON
 9/26/2020 8:24:13 PM 1.348,99 RON
+10/6/2020 2:44:11 PM 1.309,99 RON

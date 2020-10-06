@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bef47-3241300
 15217
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-bci-6-magenta/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/15217/thumbnails/28331.jpg
 9/21/2020 7:21:02 PM 55,98 RON
 9/26/2020 11:27:36 AM 55,98 RON
 9/27/2020 2:49:34 PM 55,98 RON
+10/6/2020 9:04:26 AM 55,98 RON

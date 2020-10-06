@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401493
 2085834
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/somfy/camera-de-supraveghere-one-plus-full-hd-alarma-si-sirena-wi-fi-bluetooth-40-detector-de-miscare-badge-si-intellitag-incluse/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3354/2085834/thumbnails/camera-de-supraveghe
     Pret    
 9/22/2020 7:35:11 PM 2.742,95 RON
 9/26/2020 9:11:41 PM 2.742,95 RON
+10/6/2020 8:10:57 PM 2.742,95 RON

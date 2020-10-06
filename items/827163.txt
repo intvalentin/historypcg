@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |31731055100
 827163
     Product link    
 https://www.pcgarage.ro/boxe/genius/sw-g21-2000/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/746930/827163/thumbnails/sw-g21-2000-d925151
 9/22/2020 4:58:04 PM 271,98 RON
 9/26/2020 5:52:29 PM 275,98 RON
 9/28/2020 8:01:41 AM 277,98 RON
+10/6/2020 9:29:45 PM 275,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2794b002aa
 635555
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-29-cyan/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1/635555/thumbnails/toner-c-exv-29-cyan-526b
     Pret    
 9/26/2020 11:21:40 AM 517,98 RON
 9/27/2020 2:43:11 PM 517,98 RON
+10/6/2020 9:46:03 AM 517,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s051160
 218267
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-s051160-cyan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/218267/thumbnails/toner-cyan-high-yield-c1
 9/21/2020 8:56:03 PM 1.159,98 RON
 9/26/2020 11:40:58 AM 1.161,98 RON
 9/27/2020 3:03:54 PM 1.163,98 RON
+10/6/2020 2:01:56 PM 1.161,98 RON

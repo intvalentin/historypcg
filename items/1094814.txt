@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tc-carrier
 1094814
     Product link    
 https://www.pcgarage.ro/cabluri-retea/ubiquiti-networks/tough-carrier-cat5e-24-awg-outdoor-shielded-305m-gray/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/255443/1094814/thumbnails/tough-carrier-cat5
 9/22/2020 2:21:32 PM 916,82 RON
 9/26/2020 4:23:23 PM 929,10 RON
 9/27/2020 8:27:47 PM 929,10 RON
+10/6/2020 3:27:18 PM 920,10 RON

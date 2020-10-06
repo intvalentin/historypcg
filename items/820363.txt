@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0522-002
 820363
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/m1034-w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/750014/820363/thumbnails/m1034-w-26e75ab6f42
 9/22/2020 3:39:19 PM 1.555,77 RON
 9/26/2020 4:51:42 PM 1.560,21 RON
 9/27/2020 8:55:18 PM 1.561,12 RON
+10/6/2020 7:31:04 PM 1.559,35 RON

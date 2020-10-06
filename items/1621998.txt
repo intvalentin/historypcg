@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2013s
 1621998
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-025m-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1605610/1621998/thumbnails/cat6-patch-cable-
 9/22/2020 2:34:27 PM 15,61 RON
 9/26/2020 3:55:23 PM 15,66 RON
 9/27/2020 8:06:59 PM 15,66 RON
+10/6/2020 12:42:19 PM 15,65 RON

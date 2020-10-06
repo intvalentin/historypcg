@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cb324ee
 65289
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-364xl-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/2/65289/thumbnails/cb324ee-ff90fae23c2250580
 9/22/2020 9:02:33 AM 117,98 RON
 9/26/2020 12:12:51 PM 117,98 RON
 9/27/2020 3:47:37 PM 117,98 RON
+10/6/2020 2:39:09 PM 117,98 RON

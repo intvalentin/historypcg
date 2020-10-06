@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf383ac
 1924378
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-cf383ac-magenta/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6622/1924378/thumbnails/toner-cf383ac-magent
 9/22/2020 9:12:58 AM 683,98 RON
 9/26/2020 11:52:51 AM 687,98 RON
 9/27/2020 3:16:37 PM 687,98 RON
+10/6/2020 4:39:18 PM 685,98 RON

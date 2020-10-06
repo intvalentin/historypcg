@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |01592-001
 1970734
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p3245-lv-34-89mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8486/1970734/thumbnails/p3245-lv-34-89mm-2fb
 9/22/2020 3:33:55 PM 3.849,54 RON
 9/26/2020 4:42:45 PM 3.860,54 RON
 9/27/2020 8:46:26 PM 3.862,76 RON
+10/6/2020 7:39:04 PM 3.858,40 RON

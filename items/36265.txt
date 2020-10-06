@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pnet1gb
 36265
     Product link    
 https://www.pcgarage.ro/accesorii-retea/apc/pnet1gb/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/36265/thumbnails/pnet1fv200x100.jpg
 9/22/2020 1:35:21 PM 214,91 RON
 9/26/2020 3:44:16 PM 215,52 RON
 9/27/2020 7:55:46 PM 215,65 RON
+10/6/2020 10:24:16 AM 215,40 RON

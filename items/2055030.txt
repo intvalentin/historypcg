@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rbp0025
 2055030
     Product link    
 https://www.pcgarage.ro/accesorii-ups/cyberpower/rbp0025-7a-6v/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2055030/thumbnails/rbp0025-7a-6v-392d5d
 9/22/2020 1:24:34 PM 454,40 RON
 9/26/2020 3:36:10 PM 455,97 RON
 9/27/2020 7:47:33 PM 455,97 RON
+10/6/2020 8:57:12 AM 455,45 RON

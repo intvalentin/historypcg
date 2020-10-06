@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs72u-a7
 788112
     Product link    
 https://www.pcgarage.ro/kvm/aten/cs72u/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/480523/788112/thumbnails/cs72u-b4926b11b4ff3
 9/22/2020 3:45:44 PM 289,82 RON
 9/26/2020 4:55:18 PM 290,66 RON
 9/27/2020 8:58:55 PM 290,82 RON
+10/6/2020 7:59:42 PM 290,50 RON

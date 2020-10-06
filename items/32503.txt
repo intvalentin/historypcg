@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2213b001aa
 32503
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-103-grey/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/5/32503/thumbnails/toner-gri-pfi-103-8795158
 9/21/2020 6:26:49 PM 295,98 RON
 9/26/2020 11:12:52 AM 295,98 RON
 9/27/2020 2:34:23 PM 295,98 RON
+10/6/2020 7:54:31 AM 295,98 RON

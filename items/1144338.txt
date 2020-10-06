@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c2p19ae
 1144338
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-934-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/800612/1144338/thumbnails/cartus-934-black-a
 9/22/2020 9:02:33 AM 91,98 RON
 9/26/2020 11:59:31 AM 93,98 RON
 9/27/2020 3:34:00 PM 91,98 RON
+10/6/2020 2:31:28 PM 91,98 RON

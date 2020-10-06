@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ipcamhd2
 1795256
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/tnb/indoor-spin-cam/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3049/1795256/thumbnails/indoor-spin-cam-3bbe
 9/22/2020 3:28:31 PM 294,17 RON
 9/26/2020 4:45:44 PM 294,17 RON
 9/27/2020 8:49:23 PM 294,17 RON
+10/6/2020 6:07:13 PM 294,17 RON

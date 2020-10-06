@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2964b003aa
 742344
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-703-cyan-triple-pack/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/5/742344/thumbnails/cartus-pfi-703-cyan-trip
     Pret    
 9/26/2020 11:20:11 AM 3.031,98 RON
 9/27/2020 2:41:33 PM 3.031,98 RON
+10/6/2020 11:03:53 AM 3.027,98 RON

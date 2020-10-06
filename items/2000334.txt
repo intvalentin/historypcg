@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b123-m-28
 2000334
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b123-m-28mm/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1990682/2000334/thumbnails/hiwatch-hwt-b123-
 9/22/2020 3:24:13 PM 115,54 RON
 9/26/2020 4:41:16 PM 115,87 RON
 9/27/2020 8:44:57 PM 115,94 RON
+10/6/2020 5:44:01 PM 115,81 RON

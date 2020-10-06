@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hs3
 791940
     Product link    
 https://www.pcgarage.ro/cantare/ihealth/hs3-wireless-scale/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1086319/791940/thumbnails/1hs3-wireless-scal
     Pret    
 9/22/2020 6:38:41 PM 399,98 RON
 9/26/2020 7:59:31 PM 405,98 RON
+10/6/2020 11:08:18 AM 399,98 RON

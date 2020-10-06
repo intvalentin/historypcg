@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1052u
 1504942
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat5e-patch-cable-2m-grey-2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1457254/1504942/thumbnails/cat5e-patch-cable
 9/22/2020 2:32:18 PM 14,16 RON
 9/26/2020 3:56:08 PM 14,16 RON
 9/27/2020 8:07:44 PM 14,16 RON
+10/6/2020 12:13:41 PM 14,16 RON

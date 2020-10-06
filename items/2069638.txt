@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz05-02470100-r371
 2069638
     Product link    
 https://www.pcgarage.ro/boxe/razer/nommo-pro-21/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4273/2069638/thumbnails/nommo-pro-1270021fb9
 9/22/2020 5:02:23 PM 2.639,98 RON
 9/26/2020 5:46:33 PM 2.647,98 RON
 9/28/2020 7:55:43 AM 2.647,98 RON
+10/6/2020 10:03:45 PM 2.645,98 RON

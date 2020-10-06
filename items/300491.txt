@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fre-ftp5e
 300491
     Product link    
 https://www.pcgarage.ro/cabluri-retea/freenet/cablu-ftp-fre-ftp5e/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/634551/300491/thumbnails/cablu-ftp-fre-ftp5e
 9/22/2020 2:51:42 PM 224,32 RON
 9/26/2020 4:24:52 PM 224,32 RON
 9/27/2020 8:28:31 PM 224,32 RON
+10/6/2020 3:18:40 PM 224,32 RON

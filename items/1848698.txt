@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zw122 eu
 1848698
     Product link    
 https://www.pcgarage.ro/senzori-smart/aeotec/water-sensor-6/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1054/1848698/thumbnails/water-sensor-6-080c0
     Pret    
 9/22/2020 7:37:23 PM 294,25 RON
 9/26/2020 9:15:30 PM 298,89 RON
+10/6/2020 8:33:29 PM 295,60 RON

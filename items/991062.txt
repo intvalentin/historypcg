@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ax_0524-600
 991062
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/axis/p1354/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/929099/991062/thumbnails/p1354-60b04f1277c6f
 9/22/2020 3:36:05 PM 242,82 RON
 9/26/2020 4:50:57 PM 243,52 RON
 9/27/2020 8:54:34 PM 243,65 RON
+10/6/2020 6:56:14 PM 243,37 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |q3963a
 33489
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-q3963a-magenta/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/3/33489/thumbnails/color-laserjet-q3963a-mag
 9/22/2020 9:31:01 AM 611,98 RON
 9/26/2020 12:26:29 PM 613,98 RON
 9/27/2020 3:56:50 PM 613,98 RON
+10/6/2020 6:55:28 PM 613,98 RON

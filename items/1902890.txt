@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf259x
 1902890
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-59x-black/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/1899326/1902890/thumbnails/toner-59x-black-9
 9/22/2020 8:51:51 AM 1.091,98 RON
 9/26/2020 11:54:20 AM 1.095,98 RON
 9/27/2020 3:18:12 PM 1.085,98 RON
+10/6/2020 5:26:02 PM 1.095,98 RON

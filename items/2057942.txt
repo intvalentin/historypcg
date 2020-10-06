@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s5672+-++-+41
 2057942
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/philips/s5672-41/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/7193/2057942/thumbnails/s5672-41-27a288d50bc
     Pret    
 9/22/2020 6:36:27 PM 562,49 RON
 9/26/2020 7:54:18 PM 562,49 RON
+10/6/2020 10:45:25 AM 558,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201210535
 1906314
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/se5-545gs/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1899326/1906314/thumbnails/se5-545gs-5a53cc2
     Pret    
 9/22/2020 6:57:10 PM 351,98 RON
 9/26/2020 8:12:20 PM 351,98 RON
+10/6/2020 1:06:02 PM 507,98 RON

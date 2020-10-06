@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t591200
 218341
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-cyan-c13t591200/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/862955/218341/thumbnails/cartus-t5192-cyan-4
 9/21/2020 8:56:03 PM 1.531,98 RON
 9/26/2020 11:43:12 AM 1.537,98 RON
 9/27/2020 3:06:17 PM 1.533,98 RON
+10/6/2020 2:06:16 PM 1.535,98 RON

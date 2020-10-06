@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp2091s
 1252201
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat6-patch-cable-f-utp-10m-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/714621/1252201/thumbnails/cat6-patch-cable-f
 9/22/2020 2:46:20 PM 31,57 RON
 9/26/2020 4:20:24 PM 31,67 RON
 9/27/2020 8:24:03 PM 31,67 RON
+10/6/2020 2:22:11 PM 31,64 RON

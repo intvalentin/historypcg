@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tv-ip315pi
 1805392
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/trendnet/tv-ip315pi-4mm/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1802236/1805392/thumbnails/tv-ip315pi-4mm-da
 9/22/2020 3:28:31 PM 329,68 RON
 9/26/2020 4:45:44 PM 334,94 RON
 9/27/2020 8:49:23 PM 334,87 RON
+10/6/2020 6:11:13 PM 331,20 RON

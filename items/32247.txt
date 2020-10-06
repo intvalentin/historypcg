@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9373a
 32247
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-72-large-yellow/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/32247/thumbnails/72-yellow-ink-cartridge-w
 9/22/2020 8:58:15 AM 371,98 RON
 9/26/2020 12:10:37 PM 373,98 RON
 9/27/2020 3:45:13 PM 373,98 RON
+10/6/2020 3:33:51 PM 373,98 RON

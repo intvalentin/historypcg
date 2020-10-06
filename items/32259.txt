@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c9384a
 32259
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/printhead-72-matte-black-plus-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/3/32259/thumbnails/72-matte-black-and-yellow
 9/22/2020 9:26:49 AM 357,98 RON
 9/26/2020 12:27:13 PM 357,98 RON
 9/27/2020 3:57:34 PM 357,98 RON
+10/6/2020 6:45:03 PM 357,98 RON

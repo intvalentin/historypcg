@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |md-20
 1974306
     Product link    
 https://www.pcgarage.ro/senzori-smart/smanos/md-20/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/8486/1974306/thumbnails/md-20-e2b719b8a6cc37
     Pret    
 9/22/2020 7:37:23 PM 182,11 RON
 9/26/2020 9:15:30 PM 182,71 RON
+10/6/2020 8:27:28 PM 182,68 RON

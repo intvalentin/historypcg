@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |5012-012
 222813
     Product link    
 https://www.pcgarage.ro/accesorii-camere-supraveghere/axis/poe-midspan-16-port/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4/222813/thumbnails/poe-midspan-16-port-decf
 9/22/2020 3:43:37 PM 4.655,17 RON
 9/26/2020 4:53:10 PM 4.668,49 RON
 9/27/2020 8:56:46 PM 4.671,16 RON
+10/6/2020 7:52:32 PM 4.665,89 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cf460x
 1951226
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-656x-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/6997/1951226/thumbnails/toner-656x-black-ee2
 9/22/2020 9:23:41 AM 1.739,98 RON
 9/26/2020 11:50:37 AM 1.745,98 RON
 9/27/2020 3:14:14 PM 1.745,98 RON
+10/6/2020 6:00:13 PM 1.743,98 RON

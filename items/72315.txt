@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1658b006aa
 72315
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/toner-c-exv-26-magenta/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4/72315/thumbnails/toner-c-exv26-magenta-9ab
     Pret    
 9/26/2020 11:23:54 AM 645,98 RON
 9/27/2020 2:45:34 PM 645,98 RON
+10/6/2020 10:28:59 AM 645,98 RON

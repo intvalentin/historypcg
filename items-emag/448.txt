@@ -8,3 +8,4 @@ Incarcator de retea ESR Power Delivery (PD) Charger 41W, 1 port USB-C + 2 portur
 9/28/2020 8:21:21 PM 110
 9/28/2020 10:01:03 PM 110
 9/28/2020 10:05:00 PM 110
+10/6/2020 7:14:27 PM 15

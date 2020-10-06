@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r830750
 2065694
     Product link    
 https://www.pcgarage.ro/cabluri-retea/rm/cat-6a-patch-cable-u-ftp-2m-gray/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7960/2065694/thumbnails/cat-6-patch-cable-u-
 9/22/2020 3:02:31 PM 66,31 RON
 9/26/2020 4:25:36 PM 66,50 RON
 9/27/2020 8:29:16 PM 66,52 RON
+10/6/2020 4:45:36 PM 61,14 RON

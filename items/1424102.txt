@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru19023
 1424102
     Product link    
 https://www.pcgarage.ro/boxe/trust/gxt-38-21-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1363661/1424102/thumbnails/gxt-38-21-black-f
 9/22/2020 4:58:04 PM 263,98 RON
 9/26/2020 5:50:15 PM 263,98 RON
 9/28/2020 7:59:27 AM 263,98 RON
+10/6/2020 9:28:56 PM 263,98 RON

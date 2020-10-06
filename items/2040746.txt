@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00302
 2040746
     Product link    
 https://www.pcgarage.ro/accesorii/panasonic/rezerva-periuta-wew0936w830/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2034042/2040746/thumbnails/rezerva-periuta-w
     Pret    
 9/22/2020 7:02:49 PM 159,59 RON
 9/26/2020 8:19:47 PM 160,11 RON
+10/6/2020 2:11:29 PM 159,93 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ha100
 1149478
     Product link    
 https://www.pcgarage.ro/multimedia/tp-link/receiver-audio-cu-bluetooth-ha100/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1113903/1149478/thumbnails/receiver-audio-cu
     Pret    
 9/22/2020 6:16:39 PM 110,61 RON
 9/26/2020 7:29:52 PM 110,61 RON
+10/6/2020 7:51:09 AM 110,61 RON

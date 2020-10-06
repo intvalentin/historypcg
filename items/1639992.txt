@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |se1370
 1639992
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/silk-pil-1370/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1634078/1639992/thumbnails/silk-pil-1370-699
     Pret    
 9/22/2020 6:57:44 PM 137,98 RON
 9/26/2020 8:13:05 PM 137,98 RON
+10/6/2020 12:58:53 PM 137,98 RON

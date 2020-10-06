@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp-pt-cat5-20m
 1729848
     Product link    
 https://www.pcgarage.ro/cabluri-retea/spacer/cat5e-patch-cable-utp-20m-white/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1723568/1729848/thumbnails/cat5e-patch-cable
 9/22/2020 2:19:22 PM 24,33 RON
 9/26/2020 3:53:55 PM 24,72 RON
 9/27/2020 8:05:30 PM 24,72 RON
+10/6/2020 2:10:51 PM 24,44 RON

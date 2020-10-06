@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wt5000
 985987
     Product link    
 https://www.pcgarage.ro/ingrijire-dentara/dr-mayer/irigator-bucal-wt5000-profesional/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1141198/985987/thumbnails/irigator-bucal-wt5
     Pret    
 9/22/2020 6:39:13 PM 199,40 RON
 9/26/2020 8:01:00 PM 199,40 RON
+10/6/2020 11:53:55 AM 289,99 RON

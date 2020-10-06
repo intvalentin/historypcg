@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |0628b025aa
 1438554
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-5bk-black-twin-pack/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1301183/1438554/thumbnails/cartus-pgi-5bk-bl
 9/21/2020 7:24:17 PM 133,98 RON
 9/26/2020 11:20:11 AM 133,98 RON
 9/27/2020 2:41:32 PM 133,98 RON
+10/6/2020 9:22:05 AM 133,98 RON

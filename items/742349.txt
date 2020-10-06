@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2965b003aa
 742349
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pfi-703-magenta-triple-pack/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1/742349/thumbnails/cartus-pfi-703-magenta-t
     Pret    
 9/26/2020 11:20:11 AM 3.031,98 RON
 9/27/2020 2:41:33 PM 3.031,98 RON
+10/6/2020 11:04:09 AM 3.027,98 RON

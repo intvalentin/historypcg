@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kpo2779b-0.5
 1519050
     Product link    
 https://www.pcgarage.ro/cabluri-retea/krugermatz/patchcord-utp-cca-rosu-05m/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/6811/1519050/thumbnails/utp-patch-cable-05m-
 9/22/2020 2:23:41 PM 8,45 RON
 9/26/2020 3:56:08 PM 8,45 RON
 9/27/2020 8:07:43 PM 8,45 RON
+10/6/2020 10:54:37 AM 8,45 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1620112
 1868622
     Product link    
 https://www.pcgarage.ro/boxe/bang-ampolufsen/beolab-18-10-silver/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1864870/1868622/thumbnails/beolab-18-10-silv
 9/22/2020 4:52:41 PM 23.937,98 RON
 9/26/2020 5:42:51 PM 23.937,98 RON
 9/28/2020 7:52:01 AM 23.937,98 RON
+10/6/2020 10:08:35 PM 23.937,98 RON

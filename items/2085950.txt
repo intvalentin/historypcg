@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401506
 2085950
     Product link    
 https://www.pcgarage.ro/kituri-inteligente/somfy/pachet-home-alarm-premium-somfy-sirena-de-interior-sirena-pentru-exterior-brelocuri-si-intellitag/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/3354/2085950/thumbnails/pachet-home-alarm-pr
     Pret    
 9/22/2020 7:36:49 PM 3.687,81 RON
 9/26/2020 9:14:40 PM 3.687,81 RON
+10/6/2020 8:22:24 PM 3.687,81 RON

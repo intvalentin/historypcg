@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2cd2t85fwd-i8
 1740716
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ip-bullet-ds-2cd2t85fwd-i8-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1737700/1740716/thumbnails/ip-bullet-ds-2cd2
 9/22/2020 3:32:50 PM 1.121,79 RON
 9/26/2020 4:45:44 PM 1.124,99 RON
 9/27/2020 8:49:23 PM 1.125,64 RON
+10/6/2020 6:38:20 PM 1.124,38 RON

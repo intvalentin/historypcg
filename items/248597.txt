@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cm992a
 248597
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-761-yellow/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4/248597/thumbnails/761-yellow-designjet-ink
 9/22/2020 9:15:07 AM 881,98 RON
 9/26/2020 12:05:28 PM 899,98 RON
 9/27/2020 3:40:25 PM 899,98 RON
+10/6/2020 4:58:12 PM 899,98 RON

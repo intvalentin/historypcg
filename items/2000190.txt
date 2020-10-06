@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hwt-b120-p-28
 2000190
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/hiwatch-hwt-b120-p-28mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1990366/2000190/thumbnails/hiwatch-hwt-b120-
 9/22/2020 3:12:04 PM 86,04 RON
 9/26/2020 4:41:16 PM 86,28 RON
 9/27/2020 8:44:57 PM 86,32 RON
+10/6/2020 5:41:36 PM 86,22 RON

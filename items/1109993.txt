@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mdc00076
 1109993
     Product link    
 https://www.pcgarage.ro/casti-in-ear/logic/lh-11-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1088254/1109993/thumbnails/in-ear-lh-11-blac
 9/22/2020 4:18:37 PM 19,98 RON
 9/26/2020 5:30:13 PM 19,98 RON
 9/27/2020 9:28:38 PM 19,98 RON
+10/6/2020 10:41:14 PM 19,98 RON

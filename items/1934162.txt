@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce56d0t-i2pfb3
 1934162
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce56d0t-i2pfb-36mm/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/6811/1934162/thumbnails/ds-2ce56d0t-i2pfb-28
 9/22/2020 3:24:13 PM 127,66 RON
 9/26/2020 4:44:15 PM 128,02 RON
 9/27/2020 8:47:54 PM 128,09 RON
+10/6/2020 5:45:06 PM 127,95 RON

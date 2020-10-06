@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dcs-4802e
 1254541
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/d-link/dcs-4802e/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/1254541/thumbnails/dcs-4802e-d576d065
 9/22/2020 3:38:15 PM 782,57 RON
 9/26/2020 4:50:12 PM 785,26 RON
 9/27/2020 8:53:49 PM 785,26 RON
+10/6/2020 7:15:02 PM 785,13 RON

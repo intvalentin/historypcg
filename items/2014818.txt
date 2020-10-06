@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hac-hfw1200r-0280b
 2014818
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/dahua/hac-hfw1200r-28mm/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2013982/2014818/thumbnails/hac-hfw1200r-28mm
 9/22/2020 3:35:00 PM 104,27 RON
 9/26/2020 4:47:13 PM 104,63 RON
 9/27/2020 8:50:51 PM 104,63 RON
+10/6/2020 6:45:51 PM 104,61 RON

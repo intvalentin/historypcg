@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |t0b30a
 1906186
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-982x-black/
@@ -11,3 +11,4 @@ https://3.grgs.ro/images/products/1/8629/1906186/thumbnails/toner-982x-black-ccf
 9/22/2020 9:32:05 AM 763,98 RON
 9/26/2020 12:21:17 PM 765,98 RON
 9/27/2020 3:51:36 PM 765,98 RON
+10/6/2020 4:51:49 PM 783,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |poe-15-12w
 1094174
     Product link    
 https://www.pcgarage.ro/accesorii-retea/ubiquiti-networks/sursa-alimentare-poe-15-12w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1088099/1094174/thumbnails/sursa-alimentare-
 9/22/2020 1:31:02 PM 42,01 RON
 9/26/2020 3:41:18 PM 42,52 RON
 9/27/2020 7:52:46 PM 42,52 RON
+10/6/2020 9:27:06 AM 42,18 RON

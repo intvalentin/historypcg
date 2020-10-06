@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i704663
 1894594
     Product link    
 https://www.pcgarage.ro/cabluri-retea/intellinet/rola-cablu-cat6-utp-305m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1275/1894594/thumbnails/rola-cablu-cat6-utp-
 9/22/2020 3:05:45 PM 353,24 RON
 9/26/2020 4:27:50 PM 354,46 RON
 9/27/2020 8:31:30 PM 354,46 RON
+10/6/2020 5:03:09 PM 354,06 RON

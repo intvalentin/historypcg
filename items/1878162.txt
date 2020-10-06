@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ds-2ce76u1t-itmf28
 1878162
     Product link    
 https://www.pcgarage.ro/camere-supraveghere/hikvision/ds-2ce76u1t-itmf-28mm/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1868718/1878162/thumbnails/ds-2ce76u1t-itmf-
 9/22/2020 3:28:31 PM 314,52 RON
 9/26/2020 4:45:00 PM 315,42 RON
 9/27/2020 8:48:39 PM 315,59 RON
+10/6/2020 6:08:52 PM 315,23 RON

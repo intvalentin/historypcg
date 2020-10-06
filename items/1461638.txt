@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-sl41-a503
 1461638
     Product link    
 https://www.pcgarage.ro/aparate-de-ras/panasonic/es-sl41-a503/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1408706/1461638/thumbnails/es-sl41-a503-b8fe
     Pret    
 9/22/2020 6:37:02 PM 267,98 RON
 9/26/2020 7:57:17 PM 267,98 RON
+10/6/2020 10:53:45 AM 299,99 RON

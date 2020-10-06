@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4870b001aa
 515747
     Product link    
 https://www.pcgarage.ro/cartuse-canon/canon/cartus-pgi-29-dark-grey/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2/515747/thumbnails/pgi-29dgy-f5e5cd7b2a3584
 9/21/2020 7:24:17 PM 125,98 RON
 9/26/2020 11:23:09 AM 125,98 RON
 9/27/2020 2:44:00 PM 125,98 RON
+10/6/2020 9:20:27 AM 125,98 RON

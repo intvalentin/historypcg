@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c4837a
 219367
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-11-magenta/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/3/219367/thumbnails/11-magenta-ink-cartridge
 9/22/2020 9:27:53 AM 235,98 RON
 9/26/2020 12:23:31 PM 237,98 RON
 9/27/2020 3:53:50 PM 237,98 RON
+10/6/2020 6:36:14 PM 237,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce271ac
 1905958
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-toner-sbd-cyan-ce271ac-15k-sn-original-hp-laserjet-cp5525n/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/8629/1905958/thumbnails/toner-ce271ac-cyan-6
 9/22/2020 9:24:46 AM 2.247,98 RON
 9/26/2020 11:54:20 AM 2.255,98 RON
 9/27/2020 3:18:12 PM 2.255,98 RON
+10/6/2020 6:08:11 PM 2.251,98 RON

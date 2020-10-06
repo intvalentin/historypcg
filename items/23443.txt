@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rp-dh1200e-s
 23443
     Product link    
 https://www.pcgarage.ro/casti/panasonic/technics-rp-dh1200e-s/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1/23443/thumbnails/rp-dh1200.jpg
 9/22/2020 4:11:10 PM 713,98 RON
 9/26/2020 5:13:47 PM 717,98 RON
 9/27/2020 9:17:34 PM 717,98 RON
+10/6/2020 10:30:04 PM 715,98 RON

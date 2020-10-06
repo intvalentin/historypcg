@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |plb00116
 1826116
     Product link    
 https://www.pcgarage.ro/casti/plantronics/backbeat-go-600-khaki/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5147/1826116/thumbnails/backbeat-go-600-khak
 9/22/2020 4:11:10 PM 591,98 RON
 9/26/2020 5:07:52 PM 593,98 RON
 9/27/2020 9:11:39 PM 593,98 RON
+10/6/2020 10:28:44 PM 593,98 RON

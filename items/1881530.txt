@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |solo16
 1881530
     Product link    
 https://www.pcgarage.ro/boxe/microlab/solo-16-20-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/5634/1881530/thumbnails/solo-16-20-black-ee6
 9/22/2020 5:01:18 PM 891,98 RON
 9/26/2020 5:47:18 PM 905,98 RON
 9/28/2020 7:56:28 AM 905,98 RON
+10/6/2020 9:54:27 PM 893,98 RON

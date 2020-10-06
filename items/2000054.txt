@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs-t31-16b-eu
 2000054
     Product link    
 https://www.pcgarage.ro/prize-inteligente/ezviz/t31-16b-eu/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1990682/2000054/thumbnails/t31-16b-eu-1c6978
     Pret    
 9/22/2020 7:35:44 PM 202,15 RON
 9/26/2020 9:13:11 PM 202,85 RON
+10/6/2020 8:16:00 PM 202,61 RON

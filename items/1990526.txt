@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pni-wf550-1tb
 1990526
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/pni/house-wifi550-nvr-plus-4-camere-wifi-plus-hdd-1-tb/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1977958/1990526/thumbnails/house-wifi550-nvr
 9/22/2020 3:07:49 PM 1.299,48 RON
 9/26/2020 4:36:03 PM 1.299,48 RON
 9/27/2020 8:39:44 PM 1.299,48 RON
+10/6/2020 5:21:06 PM 1.299,48 RON

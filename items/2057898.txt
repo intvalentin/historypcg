@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-v1
 2057898
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-v1-black/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/7193/2057898/thumbnails/abts-v1-black-4209d8
 9/22/2020 5:12:02 PM 243,11 RON
 9/26/2020 5:55:26 PM 243,11 RON
 9/28/2020 8:04:38 AM 243,11 RON
+10/6/2020 11:00:04 PM 299,88 RON

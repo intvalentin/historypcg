@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3jb05ae
 1829032
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-304-black-plus-color/
@@ -11,3 +11,4 @@ https://5.grgs.ro/images/products/1/5664/1829032/thumbnails/cartus-304-black-plu
 9/22/2020 9:02:33 AM 101,98 RON
 9/26/2020 11:55:49 AM 101,98 RON
 9/27/2020 3:19:47 PM 101,98 RON
+10/6/2020 2:33:22 PM 101,98 RON

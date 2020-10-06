@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c8721ee
 32197
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-363-black/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/3/32197/thumbnails/363-black-ink-cartridge-w
 9/22/2020 9:03:37 AM 133,98 RON
 9/26/2020 12:27:58 PM 111,98 RON
 9/27/2020 3:58:19 PM 111,98 RON
+10/6/2020 6:28:28 PM 111,98 RON

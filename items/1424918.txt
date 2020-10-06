@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |l0r10a
 1424918
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-981x-magenta/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/1175151/1424918/thumbnails/cartus-981x-magen
 9/22/2020 9:12:58 AM 713,98 RON
 9/26/2020 11:58:02 AM 715,98 RON
 9/27/2020 3:32:21 PM 715,98 RON
+10/6/2020 6:57:36 PM 715,98 RON

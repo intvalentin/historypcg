@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ea-t88323d2
 2039422
     Product link    
 https://www.pcgarage.ro/kit-uri-supraveghere/anker/3x-eufycam-2c-plus-1x-ai-homebase/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8840/2039422/thumbnails/3x-eufycam-2c-plus-1
 9/22/2020 3:07:49 PM 1.543,57 RON
 9/26/2020 4:36:46 PM 1.543,57 RON
 9/27/2020 8:40:27 PM 1.543,57 RON
+10/6/2020 5:25:35 PM 1.543,57 RON

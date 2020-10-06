@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cp1043u
 1783288
     Product link    
 https://www.pcgarage.ro/cabluri-retea/logilink/cat-5e-patch-cable-u-utp-15m-black/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1779504/1783288/thumbnails/cat-5e-patch-cabl
 9/22/2020 2:17:13 PM 13,59 RON
 9/26/2020 3:50:14 PM 13,63 RON
 9/27/2020 8:01:47 PM 13,63 RON
+10/6/2020 12:10:35 PM 13,62 RON

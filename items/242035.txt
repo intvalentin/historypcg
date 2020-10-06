@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ce320a
 242035
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-128a-black/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/4/242035/thumbnails/128a-black-print-cartrid
 9/22/2020 9:07:43 AM 377,98 RON
 9/26/2020 12:05:28 PM 377,98 RON
 9/27/2020 3:40:25 PM 377,98 RON
+10/6/2020 3:49:24 PM 413,98 RON

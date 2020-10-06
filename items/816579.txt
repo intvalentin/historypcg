@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em300-wh
 816579
     Product link    
 https://www.pcgarage.ro/casti/somic/over-head-em300-white/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/816579/thumbnails/over-head-em300-whi
 9/22/2020 3:53:10 PM 35,98 RON
 9/26/2020 5:05:39 PM 37,98 RON
 9/27/2020 9:09:22 PM 37,98 RON
+10/6/2020 8:12:16 PM 35,98 RON

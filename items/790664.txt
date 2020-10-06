@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cs1768-at-g
 790664
     Product link    
 https://www.pcgarage.ro/kvm/aten/switch-kvm-cs1768/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/714621/790664/thumbnails/switch-kvm-cs1768-0
 9/22/2020 3:45:44 PM 2.813,68 RON
 9/26/2020 4:54:35 PM 2.821,74 RON
 9/27/2020 8:58:12 PM 2.823,35 RON
+10/6/2020 7:57:30 PM 2.820,17 RON

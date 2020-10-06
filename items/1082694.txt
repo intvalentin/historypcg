@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cn622ae
 1082694
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-971-cyan/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/929099/1082694/thumbnails/cartus-971-cyan-e2
 9/22/2020 9:06:42 AM 343,98 RON
 9/26/2020 11:59:31 AM 345,98 RON
 9/27/2020 3:34:00 PM 345,98 RON
+10/6/2020 3:28:42 PM 345,98 RON

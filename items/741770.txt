@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |b3p21a
 741770
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/cartus-727-large-yellow/
@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/472405/741770/thumbnails/cartus-727-large-ye
 9/22/2020 9:08:45 AM 393,98 RON
 9/26/2020 12:01:45 PM 395,98 RON
 9/27/2020 3:36:24 PM 393,98 RON
+10/6/2020 3:43:11 PM 395,98 RON

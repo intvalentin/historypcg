@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |w2001a
 1848008
     Product link    
 https://www.pcgarage.ro/cartuse-hp/hp/toner-658a-cyan/
@@ -11,3 +11,4 @@ https://4.grgs.ro/images/products/1/6622/1848008/thumbnails/toner-658a-cyan-143b
 9/22/2020 9:19:25 AM 1.145,98 RON
 9/26/2020 11:55:05 AM 1.149,98 RON
 9/27/2020 3:18:59 PM 1.145,98 RON
+10/6/2020 5:29:59 PM 1.147,98 RON

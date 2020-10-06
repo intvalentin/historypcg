@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ln310170
 1752696
     Product link    
 https://www.pcgarage.ro/ups/legrand/daker-dk-plus-1000va/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1749840/1752696/thumbnails/daker-dk-plus-100
 9/22/2020 12:59:44 PM 1.760,24 RON
 9/26/2020 3:26:28 PM 1.764,93 RON
 9/27/2020 7:37:51 PM 1.764,93 RON
+10/6/2020 7:52:55 AM 1.761,79 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |2401495
 2085714
     Product link    
 https://www.pcgarage.ro/dispozitive-smart/somfy/extensie-radio-compatibil-cu-somfy-one-one-plus-somfy-home-alarm/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/3354/2085714/thumbnails/extensie-radio-compa
     Pret    
 9/22/2020 7:35:11 PM 641,41 RON
 9/26/2020 9:12:25 PM 641,41 RON
+10/6/2020 8:12:34 PM 641,41 RON

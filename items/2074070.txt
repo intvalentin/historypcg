@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tll161131
 2074070
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tellur/nyx-black/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4525/2074070/thumbnails/nyx-black-bd9e3e2b68
 9/22/2020 5:07:43 PM 100,71 RON
 9/26/2020 5:54:41 PM 101,06 RON
 9/28/2020 8:03:53 AM 101,06 RON
+10/6/2020 10:20:43 PM 101,04 RON
