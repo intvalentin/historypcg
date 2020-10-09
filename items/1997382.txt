@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a12927
 1997382
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/allure-55-cm-albastru/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1990682/1997382/thumbnails/allure-55-cm-alba
     Pret    
 9/22/2020 7:56:18 PM 191,98 RON
 9/26/2020 9:35:39 PM 191,98 RON
+10/7/2020 8:27:49 AM 191,98 RON

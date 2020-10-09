@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt-39416
 2001274
     Product link    
 https://www.pcgarage.ro/anvelope-vara/imperial/ecodriver4-209-155-65r13-73t/
@@ -9,3 +9,4 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
     Pret    
 9/22/2020 8:20:21 PM 120,55 RON
 9/27/2020 9:18:20 AM 120,55 RON
+10/7/2020 12:54:28 PM 120,55 RON

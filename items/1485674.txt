@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hm135622
 1485674
     Product link    
 https://www.pcgarage.ro/casti-in-ear/hama/basic4phone-white/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1408706/1485674/thumbnails/basic4phone-white
 9/22/2020 4:35:32 PM 47,98 RON
 9/26/2020 5:35:26 PM 47,98 RON
 9/28/2020 7:44:30 AM 47,98 RON
+10/7/2020 8:59:07 AM 47,98 RON
+10/9/2020 9:31:55 PM 47,98 RON

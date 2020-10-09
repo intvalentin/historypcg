@@ -13,3 +13,4 @@ https://1.grgs.ro/images/products/1/6166/2005562/thumbnails/radeon-rx-5700-gamin
 09/28/2020 17:35:50 2.349,13 RON
 9/29/2020 9:02:12 PM 2.346,55 RON
 10/4/2020 10:33:57 PM 2.331,01 RON
+10/7/2020 12:08:44 PM 2.323,33 RON

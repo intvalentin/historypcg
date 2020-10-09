@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |e5527553
 2079906
     Product link    
 https://www.pcgarage.ro/anvelope-vara/torque/tq021-155-80r13-79t/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1134/2079906/thumbnails/tq021-155-80r13-79t-
     Pret    
 9/22/2020 8:20:59 PM 127,10 RON
 9/26/2020 10:35:17 PM 127,10 RON
+10/7/2020 12:58:31 PM 127,10 RON

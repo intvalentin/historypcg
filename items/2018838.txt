@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hbo-1320-e
 2018838
     Product link    
 https://www.pcgarage.ro/aparate-medicale/omron/1320-tensiometru-profesional/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2013982/2018838/thumbnails/1320-tensiometru-
     Pret    
 9/22/2020 7:53:22 PM 2.044,58 RON
 9/26/2020 9:34:10 PM 2.044,58 RON
+10/7/2020 8:01:02 AM 2.044,58 RON

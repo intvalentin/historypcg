@@ -8,3 +8,5 @@ Procesor Intel Core i5-9600KF, 3.7 GHz, 9MB, fara grafica integrata, Socket 1151
 10/1/2020 7:42:26 AM 960
 10/2/2020 8:40:47 AM 960
 10/4/2020 9:48:36 PM 960
+10/8/2020 10:02:33 AM 1000
+10/9/2020 6:11:31 PM 952

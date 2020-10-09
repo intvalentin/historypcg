@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pulseflex2iblack
 1798600
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bluesound/pulse-flex-2i-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/6361/1798600/thumbnails/pulse-flex-2i-black-
 9/22/2020 5:23:54 PM 1.655,08 RON
 9/26/2020 6:05:50 PM 1.655,08 RON
 9/28/2020 8:15:06 AM 1.655,08 RON
+10/7/2020 8:18:38 AM 1.655,08 RON
+10/7/2020 10:23:30 AM 1.655,08 RON
+10/9/2020 10:21:02 PM 1.655,08 RON

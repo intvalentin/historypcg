@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00110
 1436738
     Product link    
 https://www.pcgarage.ro/casti-in-ear/panasonic/rp-bts50e-white/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1420862/1436738/thumbnails/in-ear-rp-bts50e-
 9/22/2020 4:29:06 PM 267,98 RON
 9/26/2020 5:29:29 PM 267,98 RON
 9/27/2020 9:27:53 PM 267,98 RON
+10/7/2020 8:17:23 AM 267,98 RON
+10/9/2020 9:26:42 PM 267,98 RON

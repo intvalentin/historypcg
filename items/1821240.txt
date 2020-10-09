@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bxtrravecam
 1821240
     Product link    
 https://www.pcgarage.ro/boxe-portabile/tracer/rave-camouflage/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/5147/1821240/thumbnails/rave-camouflage-60e8
 9/22/2020 5:21:45 PM 234,42 RON
 9/26/2020 6:05:50 PM 234,42 RON
 9/28/2020 8:15:06 AM 234,42 RON
+10/7/2020 8:02:05 AM 234,42 RON
+10/7/2020 10:21:17 AM 234,42 RON
+10/9/2020 10:18:49 PM 234,42 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpselvns3wrs
 1885042
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/lvneng/scuter-electric-s3-red/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1798/1885042/thumbnails/scuter-electric-s3-r
     Pret    
 9/22/2020 8:14:23 PM 15.000,00 RON
 9/26/2020 10:02:17 PM 15.000,00 RON
+10/7/2020 11:49:08 AM 15.000,00 RON

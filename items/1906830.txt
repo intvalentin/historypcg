@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |125038268
 1906830
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/flip-4-white/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1899326/1906830/thumbnails/flip-4-white-3a58
 9/22/2020 5:22:50 PM 747,39 RON
 9/26/2020 6:04:21 PM 747,39 RON
 9/28/2020 8:13:34 AM 747,39 RON
+10/7/2020 8:12:14 AM 747,39 RON
+10/7/2020 10:22:46 AM 747,39 RON
+10/9/2020 10:20:18 PM 747,39 RON

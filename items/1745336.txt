@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens445981
 1745336
     Product link    
 https://www.pcgarage.ro/casti-in-ear/energy-sistem/style-1-plus-navy/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6748/1745336/thumbnails/style-1-plus-navy-47
 9/22/2020 4:19:39 PM 35,98 RON
 9/26/2020 5:26:30 PM 35,98 RON
 9/27/2020 9:24:55 PM 35,98 RON
+10/7/2020 8:48:37 AM 35,98 RON
+10/9/2020 9:31:11 PM 35,98 RON

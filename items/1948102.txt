@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-602055
 1948102
     Product link    
 https://www.pcgarage.ro/casti-in-ear/rha/t20-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/6166/1948102/thumbnails/t20-black-e9ae752e4c
 9/22/2020 4:31:13 PM 1.097,98 RON
 9/26/2020 5:23:32 PM 1.097,98 RON
 9/27/2020 9:21:57 PM 1.097,98 RON
+10/7/2020 8:32:45 AM 1.097,98 RON
+10/9/2020 9:19:59 PM 1.097,98 RON

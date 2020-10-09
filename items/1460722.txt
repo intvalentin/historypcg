@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |elf-a12590
 1460722
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/troler-java-55-cm-negru/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1427582/1460722/thumbnails/troler-java-55-cm
     Pret    
 9/22/2020 8:08:01 PM 187,98 RON
 9/26/2020 9:50:36 PM 187,98 RON
+10/7/2020 10:41:33 AM 187,98 RON

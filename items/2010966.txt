@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pschimb16
 2010966
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/display-trotinete-electrice-52v/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/9943/2010966/thumbnails/display-trotinete-el
     Pret    
 9/22/2020 8:18:59 PM 257,39 RON
 9/26/2020 10:09:47 PM 257,39 RON
+10/7/2020 12:45:39 PM 257,39 RON

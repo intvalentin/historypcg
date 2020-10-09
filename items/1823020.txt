@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fbc4003gl
 1823020
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/xiaomi/trotineta-electrica-mijia-m365-white/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1821372/1823020/thumbnails/trotineta-electri
     Pret    
 9/22/2020 8:14:23 PM 1.867,85 RON
 9/26/2020 10:05:17 PM 1.889,06 RON
+10/7/2020 11:54:09 AM 1.866,08 RON

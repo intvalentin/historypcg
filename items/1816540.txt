@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508592
 1816540
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/cx-100-white-1/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/753/1816540/thumbnails/cx-100-white-cb9a6c77
 9/22/2020 4:25:54 PM 131,98 RON
 9/26/2020 5:25:46 PM 131,98 RON
 9/27/2020 9:24:10 PM 131,98 RON
+10/7/2020 7:53:54 AM 131,98 RON
+10/9/2020 9:25:12 PM 131,98 RON

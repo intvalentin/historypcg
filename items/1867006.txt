@@ -13,3 +13,4 @@ https://2.grgs.ro/images/products/1/1864870/1867006/thumbnails/evga-geforce-rtx-
 09/28/2020 18:39:46 2.075,58 RON
 9/29/2020 9:00:01 PM 2.073,31 RON
 10/4/2020 10:31:29 PM 2.059,57 RON
+10/7/2020 12:06:32 PM 2.052,78 RON

@@ -7,3 +7,5 @@ Procesor AMD Ryzen™ Threadripper™ 3970X, 128MB, 4.5Ghz, socket TRX4
     Pret    
 10/1/2020 7:43:14 AM 9999
 10/2/2020 8:40:47 AM 9999
+10/8/2020 9:58:45 AM 11369
+10/9/2020 6:12:45 PM 9999

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atprbnm1gsrs
 1359781
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/robstep/ghidon-scurt-rosu/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1175151/1359781/thumbnails/ghidon-scurt-rosu
     Pret    
 9/22/2020 8:17:51 PM 1.200,00 RON
 9/26/2020 10:09:03 PM 1.200,00 RON
+10/7/2020 12:39:21 PM 1.200,00 RON

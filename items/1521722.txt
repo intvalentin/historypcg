@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |d21-bl
 1521722
     Product link    
 https://www.pcgarage.ro/boxe-portabile/microlab/d21-blue/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1427582/1521722/thumbnails/d21-blue-8ed6e028
 9/22/2020 5:20:40 PM 146,04 RON
 9/26/2020 6:06:35 PM 148,34 RON
 9/28/2020 8:15:51 AM 148,34 RON
+10/7/2020 7:55:04 AM 146,54 RON
+10/7/2020 10:20:32 AM 146,54 RON
+10/9/2020 10:18:49 PM 146,32 RON

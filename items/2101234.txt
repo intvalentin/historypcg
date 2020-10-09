@@ -1,0 +1,10 @@
+    Cod    |dop3280i38256wpro
+2101234
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/dell/optiplex-3280-215-inch-fhd-ips-procesor-intel-core-i3-10100t-30ghz-comet-lake-8gb-ram-256gb-ssd-uhd-graphics-camera-web-win-10-pro/
+    Name    
+DELL OptiPlex 3280, 21.5 inch FHD IPS, Procesor Intel® Core™ i3-10100T 3.0GHz Comet Lake, 8GB RAM, 256GB SSD, UHD Graphics, Camera Web, Win 10 Pro
+    Img url    
+https://5.grgs.ro/images/products/1/9507/2101234/thumbnails/optiplex-3280-215-inch-fhd-ips-procesor-intel-core-i3-10100t-30ghz-comet-lake-8gb-ram-256gb-ssd-uhd-graphics-ubuntu-fbf31fcbf38044737134d7539039dfd3.jpg
+    Pret    
+10/8/2020 1:56:10 PM 3.759,98 RON

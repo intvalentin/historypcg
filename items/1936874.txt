@@ -14,3 +14,4 @@ https://2.grgs.ro/images/products/1/2554/1936874/thumbnails/radeon-rx-5700-xt-re
 09/28/2020 18:19:00 2.035,51 RON
 9/29/2020 9:00:01 PM 2.028,90 RON
 10/4/2020 10:30:42 PM 1.966,82 RON
+10/7/2020 12:05:48 PM 1.962,86 RON

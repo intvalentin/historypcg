@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbn1ng
 1713380
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/n1-negru/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1692296/1713380/thumbnails/n1-negru-e7c4cb30
     Pret    
 9/22/2020 8:13:13 PM 3.500,00 RON
 9/26/2020 10:03:48 PM 3.500,00 RON
+10/7/2020 11:37:59 AM 3.500,00 RON

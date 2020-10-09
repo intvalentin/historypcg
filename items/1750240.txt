@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |km1710
 1750240
     Product link    
 https://www.pcgarage.ro/boxe-portabile/krugermatz/1710-uhf-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1749840/1750240/thumbnails/1710-uhf-black-d1
 9/22/2020 5:22:50 PM 836,67 RON
 9/26/2020 6:05:50 PM 836,67 RON
 9/28/2020 8:15:06 AM 836,67 RON
+10/7/2020 8:13:18 AM 836,67 RON
+10/7/2020 10:22:46 AM 836,67 RON
+10/9/2020 10:20:18 PM 836,67 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em210457
 2034030
     Product link    
 https://www.pcgarage.ro/aparate-medicale/xiaomi/lampa-bactericida-virucida-uvc-xiaoda/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/3041/2034030/thumbnails/lampa-bactericida-vi
     Pret    
 9/22/2020 7:52:47 PM 299,00 RON
 9/26/2020 9:33:25 PM 299,00 RON
+10/7/2020 7:54:54 AM 299,00 RON

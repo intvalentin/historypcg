@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hem-6130-e
 2018858
     Product link    
 https://www.pcgarage.ro/aparate-medicale/omron/tensiometru-rs3-1/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/2013982/2018858/thumbnails/tensiometru-rs3-2
     Pret    
 9/22/2020 7:53:22 PM 425,67 RON
 9/26/2020 9:34:10 PM 425,67 RON
+10/7/2020 7:59:26 AM 425,67 RON

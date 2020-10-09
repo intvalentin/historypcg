@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus165-947f70aed6f88a9b7d8b7135f8ffbce3
 1464542
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n55e-n55s-n55sf-n55sl/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1408706/1464542/thumbnails/baterie-laptop-as
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 4:02:42 PM 247,98 RON
 9/26/2020 6:02:32 PM 247,98 RON
+10/8/2020 3:16:51 PM 243,98 RON

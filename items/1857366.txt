@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39607negru
 1857366
     Product link    
 https://www.pcgarage.ro/casti-in-ear/jbl/reflect-mini-2-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1848722/1857366/thumbnails/reflect-mini-2-bl
 9/22/2020 4:30:08 PM 485,98 RON
 9/26/2020 5:24:17 PM 485,98 RON
 9/27/2020 9:22:41 PM 485,98 RON
+10/7/2020 8:26:50 AM 485,98 RON
+10/9/2020 9:28:12 PM 461,98 RON

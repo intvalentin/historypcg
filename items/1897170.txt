@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a12627
 1897170
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/vision-albastru-54-cm/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/3944/1897170/thumbnails/vision-albastru-54-c
     Pret    
 9/22/2020 8:08:01 PM 185,98 RON
 9/26/2020 9:46:51 PM 185,98 RON
+10/7/2020 10:40:24 AM 185,98 RON

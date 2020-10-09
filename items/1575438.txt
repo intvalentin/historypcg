@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-0d730329032e2936f0a28a030f86d695
 1575438
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge72-2qd-apache/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1489074/1575438/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:18 PM 241,98 RON
 9/25/2020 3:43:10 PM 245,98 RON
 9/26/2020 5:43:03 PM 245,98 RON
+10/8/2020 3:36:16 PM 243,98 RON

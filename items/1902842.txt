@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |981-000798
 1902842
     Product link    
 https://www.pcgarage.ro/casti-office-call-center/logitech/zone-wireless-bluetooth-graphite/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1202/1902842/thumbnails/zone-wireless-blueto
 9/22/2020 4:43:02 PM 1.065,57 RON
 9/26/2020 5:39:54 PM 1.068,44 RON
 9/28/2020 7:48:59 AM 1.068,44 RON
+10/7/2020 9:39:20 AM 1.066,82 RON
+10/9/2020 9:36:22 PM 1.064,86 RON

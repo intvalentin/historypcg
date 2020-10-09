@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |hkos6blkam
 1996770
     Product link    
 https://www.pcgarage.ro/boxe-portabile/harman-kardon/onyx-studio-6-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1990682/1996770/thumbnails/onyx-studio-6-bla
 9/22/2020 5:23:54 PM 1.057,13 RON
 9/26/2020 6:04:21 PM 1.060,15 RON
 9/28/2020 8:13:34 AM 1.060,75 RON
+10/7/2020 8:17:34 AM 1.059,56 RON
+10/7/2020 10:23:30 AM 1.059,56 RON
+10/9/2020 10:21:02 PM 1.060,56 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1000204
 2016634
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/adapt-460-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/2013982/2016634/thumbnails/adapt-460-black-2
 9/22/2020 4:31:13 PM 1.617,98 RON
 9/26/2020 5:22:03 PM 1.617,98 RON
 9/27/2020 9:19:48 PM 1.617,98 RON
+10/7/2020 8:33:16 AM 1.617,98 RON
+10/9/2020 9:28:56 PM 1.617,98 RON

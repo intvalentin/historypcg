@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |981-000571
 1054359
     Product link    
 https://www.pcgarage.ro/casti-office-call-center/logitech/h570e-mono/
@@ -8,3 +8,5 @@ Logitech H570e Mono
 https://3.grgs.ro/images/products/1/5/1054359/thumbnails/h570e-mono-e30ff69a6cc75be1f767ca5f9523bdaa.jpg
     Pret    
 9/22/2020 4:44:06 PM 209,86 RON
+10/7/2020 9:43:52 AM 210,11 RON
+10/9/2020 9:37:06 PM 209,74 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em198643
 1763492
     Product link    
 https://www.pcgarage.ro/boxe-portabile/amazon/echo-dot-3-black/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/3442/1763492/thumbnails/echo-dot-3-black-829
 9/22/2020 5:17:26 PM 278,99 RON
 9/26/2020 6:05:50 PM 278,99 RON
 9/28/2020 8:15:06 AM 278,99 RON
+10/7/2020 8:04:42 AM 278,99 RON
+10/7/2020 10:22:02 AM 278,99 RON
+10/9/2020 10:16:35 PM 278,99 RON

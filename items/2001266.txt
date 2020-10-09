@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt-39379
 2001266
     Product link    
 https://www.pcgarage.ro/anvelope-vara/fortune/bora-fsr801-145-80r13-75t/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1990682/2001266/thumbnails/bora-fsr801-145-8
     Pret    
 9/22/2020 8:20:59 PM 120,90 RON
 9/27/2020 9:18:20 AM 120,90 RON
+10/7/2020 12:54:44 PM 120,90 RON

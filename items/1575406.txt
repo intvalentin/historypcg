@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-0a14499c92dcca7d5b71019304d73ebe
 1575406
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge62vr-7rf/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1475490/1575406/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:18 PM 241,98 RON
 9/25/2020 3:43:10 PM 245,98 RON
 9/26/2020 5:43:03 PM 245,98 RON
+10/8/2020 3:33:39 PM 243,98 RON

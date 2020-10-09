@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco158-0a0c218ba4abb0957a5aa16560e4f1b8
 1536017
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-elitebook-755-g3/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1469694/1536017/thumbnails/baterie-laptop-hp
 9/20/2020 11:13:13 PM 241,98 RON
 9/25/2020 3:49:10 PM 245,98 RON
 9/26/2020 5:49:02 PM 245,98 RON
+10/8/2020 3:27:04 PM 243,98 RON

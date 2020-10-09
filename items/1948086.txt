@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-602020
 1948086
     Product link    
 https://www.pcgarage.ro/casti-in-ear/rha/cl2-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/6166/1948086/thumbnails/cl2-black-77d6bb02ac
 9/22/2020 4:42:00 PM 3.799,98 RON
 9/26/2020 5:33:12 PM 3.799,98 RON
 9/28/2020 7:42:15 AM 3.799,98 RON
+10/7/2020 9:34:09 AM 3.799,98 RON
+10/9/2020 9:35:37 PM 3.799,98 RON

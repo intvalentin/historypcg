@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |85a04001
 1492502
     Product link    
 https://www.pcgarage.ro/trolere/samsonite/trolley-notebook-american-tourister-bon-air/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1427586/1492502/thumbnails/trolley-notebook-
     Pret    
 9/22/2020 8:12:05 PM 649,98 RON
 9/26/2020 9:49:07 PM 649,98 RON
+10/7/2020 11:28:06 AM 649,98 RON

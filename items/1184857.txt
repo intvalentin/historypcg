@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-cep01g
 1184857
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/fashion-green/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/750014/1184857/thumbnails/in-ear-fashion-gre
 9/22/2020 4:32:17 PM 19,98 RON
 9/26/2020 5:37:41 PM 21,98 RON
 9/28/2020 7:46:45 AM 21,98 RON
+10/7/2020 8:36:17 AM 21,98 RON
+10/9/2020 9:29:41 PM 21,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es449330
 2011502
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/urban-box-2-onyx/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/9943/2011502/thumbnails/urban-box-2-onyx-cdb
 9/22/2020 5:20:40 PM 135,28 RON
 9/26/2020 6:03:37 PM 135,75 RON
 9/28/2020 8:13:34 AM 135,75 RON
+10/7/2020 7:53:27 AM 135,73 RON
+10/7/2020 10:20:32 AM 135,73 RON
+10/9/2020 10:18:04 PM 135,67 RON

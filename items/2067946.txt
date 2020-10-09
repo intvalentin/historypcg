@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ipl2n000
 2067946
     Product link    
 https://www.pcgarage.ro/aparate-medicale/suporto/perna-lombara-completa-pentru-birou-sau-automobil/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4917/2067946/thumbnails/perna-lombara-comple
     Pret    
 9/22/2020 7:52:47 PM 99,19 RON
 9/26/2020 9:33:25 PM 99,19 RON
+10/7/2020 7:52:58 AM 99,19 RON

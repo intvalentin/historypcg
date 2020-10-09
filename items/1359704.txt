@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atprbnm1cpal
 1359704
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/robstep/casca-de-protectie-alba/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1192525/1359704/thumbnails/casca-de-protecti
     Pret    
 9/22/2020 8:17:50 PM 300,00 RON
 9/26/2020 10:09:47 PM 300,00 RON
+10/7/2020 12:35:15 PM 300,00 RON

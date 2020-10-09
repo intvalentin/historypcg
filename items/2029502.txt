@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |np.hds1a.005
 2029502
     Product link    
 https://www.pcgarage.ro/casti-in-ear/acer/e300-silver/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/8840/2029502/thumbnails/e300-silver-5554a0fe
 9/22/2020 4:38:46 PM 111,98 RON
 9/26/2020 5:32:28 PM 113,98 RON
 9/28/2020 7:41:30 AM 113,98 RON
+10/7/2020 9:16:19 AM 111,98 RON
+10/9/2020 9:33:25 PM 113,98 RON

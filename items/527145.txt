@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13t694200
 527145
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/cartus-t6942-cyan/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/5/527145/thumbnails/cartus-t6942-cyan-07b7d9
 9/21/2020 7:34:03 PM 1.349,98 RON
 9/26/2020 11:33:33 AM 1.353,98 RON
 9/27/2020 2:55:55 PM 1.353,98 RON
+10/9/2020 3:47:40 PM 1.353,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ht015a-10
 1600226
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/ht015a-10-black/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1541210/1600226/thumbnails/ht015a-10-black-0
 9/22/2020 5:22:50 PM 867,51 RON
 9/26/2020 6:06:35 PM 867,51 RON
 9/28/2020 8:15:51 AM 867,51 RON
+10/7/2020 8:14:11 AM 867,51 RON
+10/7/2020 10:22:46 AM 867,51 RON
+10/9/2020 10:20:18 PM 867,51 RON

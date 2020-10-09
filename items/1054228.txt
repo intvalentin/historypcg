@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |981-000517
 1054228
     Product link    
 https://www.pcgarage.ro/casti-office-call-center/logitech/h820e-dual/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/714621/1054228/thumbnails/h820e-dual-cf472d8
 9/22/2020 4:43:02 PM 836,75 RON
 9/26/2020 5:39:54 PM 839,00 RON
 9/28/2020 7:48:59 AM 839,00 RON
+10/7/2020 9:38:48 AM 837,68 RON
+10/9/2020 9:36:22 PM 836,13 RON

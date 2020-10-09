@@ -7,3 +7,4 @@ Program administrare asociatii de proprietari - XiSoft - BlocManagerNET - 500 Ap
     Pret    
 10/2/2020 9:30:42 PM 1032
 10/4/2020 11:21:42 PM 1032
+10/8/2020 11:55:16 AM 1032

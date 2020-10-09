@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus165-c495f1b041e5b7c3b48e577d5d3a51f5
 1464538
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n45e-n45s-n45sf-n45sl/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1461878/1464538/thumbnails/baterie-laptop-as
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 4:02:42 PM 247,98 RON
 9/26/2020 6:02:32 PM 247,98 RON
+10/8/2020 3:16:35 PM 243,98 RON

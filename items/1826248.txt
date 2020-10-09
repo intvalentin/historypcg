@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xi.acc-18077
 1826248
     Product link    
 https://www.pcgarage.ro/casti-in-ear/xiaomi/mi-bluetooth-neckband-black/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1821372/1826248/thumbnails/mi-bluetooth-neck
 9/22/2020 4:18:37 PM 242,99 RON
 9/26/2020 5:25:01 PM 242,99 RON
 9/27/2020 9:23:26 PM 242,99 RON
+10/7/2020 8:16:18 AM 242,99 RON
+10/9/2020 9:19:59 PM 242,99 RON

@@ -11,3 +11,4 @@ https://2.grgs.ro/images/products/1/370411/1985410/thumbnails/sql-server-2019-sn
 9/26/2020 9:49:19 AM 1.283,72 RON
 9/27/2020 12:57:35 PM 1.283,72 RON
 10/5/2020 10:12:53 AM 1.282,88 RON
+10/9/2020 1:32:46 PM 1.283,48 RON

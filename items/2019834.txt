@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51070
 2019834
     Product link    
 https://www.pcgarage.ro/aparate-medicale/medisana/tensiometru-bw-310/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8491/2019834/thumbnails/tensiometru-bw-310-9
     Pret    
 9/22/2020 7:52:47 PM 101,66 RON
 9/26/2020 9:34:10 PM 101,66 RON
+10/7/2020 7:56:13 AM 101,66 RON

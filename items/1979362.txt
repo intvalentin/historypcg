@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |p004m-xs
 1979362
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/pegas/casca-melon-pinkeon-xs/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/370411/1979362/thumbnails/casca-melon-pinkeo
     Pret    
 9/22/2020 8:17:16 PM 299,00 RON
 9/26/2020 10:08:18 PM 299,00 RON
+10/7/2020 12:32:55 PM 299,00 RON

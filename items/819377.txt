@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xs new york-silver
 819377
     Product link    
 https://www.pcgarage.ro/trolere/princesstraveller/troler-xs-new-york-argintiu/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1126098/819377/thumbnails/1xs-new-york-argin
     Pret    
 9/22/2020 8:09:11 PM 227,98 RON
 9/26/2020 9:55:06 PM 227,98 RON
+10/7/2020 10:54:24 AM 227,98 RON

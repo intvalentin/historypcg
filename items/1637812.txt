@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens429356
 1637812
     Product link    
 https://www.pcgarage.ro/casti-in-ear/energy-sistem/sport-1-yellow/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/1634078/1637812/thumbnails/sport-1-yellow-bd
 9/22/2020 4:36:36 PM 57,98 RON
 9/26/2020 5:34:42 PM 57,98 RON
 9/28/2020 7:43:46 AM 57,98 RON
+10/7/2020 9:03:11 AM 57,98 RON
+10/9/2020 9:31:55 PM 57,98 RON

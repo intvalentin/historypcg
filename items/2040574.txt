@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s1 black
 2040574
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/kugoo/trotineta-electrica-s1-black/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2034042/2040574/thumbnails/trotineta-electri
     Pret    
 9/22/2020 8:14:58 PM 1.403,05 RON
 9/26/2020 10:05:17 PM 1.418,97 RON
+10/7/2020 11:52:20 AM 1.401,70 RON

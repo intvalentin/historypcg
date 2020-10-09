@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-506815
 1149518
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/in-ear-momentum-g-chrome/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/1053670/1149518/thumbnails/in-ear-momentum-g
 9/22/2020 4:29:06 PM 335,98 RON
 9/26/2020 5:30:13 PM 335,98 RON
 9/27/2020 9:28:37 PM 335,98 RON
+10/7/2020 8:21:07 AM 335,98 RON
+10/9/2020 9:27:27 PM 335,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1111-660dbae17b1c12626f58bf7fff0a77ab
 1507222
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n550jv/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1175151/1507222/thumbnails/baterie-laptop-as
 9/20/2020 11:13:08 PM 241,98 RON
 9/25/2020 3:51:25 PM 245,98 RON
 9/26/2020 5:51:17 PM 245,98 RON
+10/8/2020 3:23:53 PM 243,98 RON

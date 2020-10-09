@@ -13,3 +13,4 @@ https://2.grgs.ro/images/products/1/1261/2000434/thumbnails/geforce-rtx-2060-dua
 09/28/2020 17:41:16 2.105,88 RON
 9/29/2020 9:00:01 PM 2.103,57 RON
 10/4/2020 10:31:45 PM 2.089,65 RON
+10/7/2020 12:06:32 PM 2.082,76 RON

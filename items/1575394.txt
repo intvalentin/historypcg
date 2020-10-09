@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-65f9c4939a1105c0a688c2b828644f8a
 1575394
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge62-6qc-apache/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1500686/1575394/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:18 PM 241,98 RON
 9/25/2020 3:43:10 PM 245,98 RON
 9/26/2020 5:43:03 PM 245,98 RON
+10/8/2020 3:32:51 PM 243,98 RON

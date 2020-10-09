@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-01fc07911147051a613278c70c907a78
 1575402
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge62-7re-apache-pro/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/953558/1575402/thumbnails/baterie-laptop-msi
 9/20/2020 11:13:18 PM 241,98 RON
 9/25/2020 3:43:10 PM 245,98 RON
 9/26/2020 5:43:03 PM 245,98 RON
+10/8/2020 3:33:23 PM 243,98 RON

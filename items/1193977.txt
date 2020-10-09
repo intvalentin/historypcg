@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad-hdp-pclobk-00
 1193977
     Product link    
 https://www.pcgarage.ro/casti-in-ear/thermaltake/in-ear-luxa2-lavi-o-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/714621/1193977/thumbnails/in-ear-luxa2-lavi-
 9/22/2020 4:39:51 PM 147,98 RON
 9/26/2020 5:37:41 PM 149,98 RON
 9/28/2020 7:46:45 AM 149,98 RON
+10/7/2020 9:22:59 AM 147,98 RON
+10/9/2020 9:34:10 PM 147,98 RON

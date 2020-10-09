@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-000768, 960-000769, 960-001055
 307115
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/hd-webcam-c920/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/4/307115/thumbnails/hd-pro-c920-7bee177439b0
     Pret    
 9/26/2020 8:43:42 AM 549,99 RON
 9/27/2020 11:37:31 AM 549,99 RON
+10/9/2020 11:01:09 AM 549,99 RON

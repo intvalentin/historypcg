@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tru21867
 2033074
     Product link    
 https://www.pcgarage.ro/casti-office-call-center/trust/action-chat-black/
@@ -10,3 +10,5 @@ https://4.grgs.ro/images/products/1/3041/2033074/thumbnails/action-chat-black-06
 9/22/2020 4:43:02 PM 21,69 RON
 9/26/2020 5:40:39 PM 21,74 RON
 9/28/2020 7:49:43 AM 21,76 RON
+10/7/2020 9:41:58 AM 21,72 RON
+10/9/2020 9:37:06 PM 21,76 RON

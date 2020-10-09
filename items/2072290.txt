@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |82ca000vrm
 2072290
     Product link    
 https://www.pcgarage.ro/docking-stations/lenovo/legion-booststation-dock-egfx-rtx-2060-6gb-compatibil-cu-y740s/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4273/2072290/thumbnails/legion-booststation-
 9/20/2020 11:39:47 PM 3.499,00 RON
 9/25/2020 8:46:19 PM 3.499,00 RON
 9/26/2020 10:45:47 PM 3.499,00 RON
+10/8/2020 4:02:48 PM 3.499,00 RON

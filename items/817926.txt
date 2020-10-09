@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-000972
 817926
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/c930e/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/815230/817926/thumbnails/c930e-67a9de7d17427
 9/21/2020 10:09:34 AM 693,98 RON
 9/26/2020 8:43:42 AM 697,98 RON
 9/27/2020 11:37:31 AM 697,98 RON
+10/9/2020 11:21:12 AM 699,98 RON

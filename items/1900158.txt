@@ -13,3 +13,4 @@ https://4.grgs.ro/images/products/1/1202/1900158/thumbnails/gigabyte-radeon-rx-5
 09/28/2020 18:33:30 2.237,85 RON
 9/29/2020 9:01:28 PM 2.235,39 RON
 10/4/2020 10:33:14 PM 2.220,59 RON
+10/7/2020 12:07:16 PM 2.213,27 RON

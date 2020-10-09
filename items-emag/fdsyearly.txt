@@ -7,3 +7,4 @@ API Detectare Categorii Alimente de Baza Din Fotografie
     Pret    
 10/2/2020 9:01:12 PM 4325
 10/4/2020 11:28:50 PM 4325
+10/8/2020 11:45:28 AM 4325

@@ -8,3 +8,5 @@ Procesor Intel® Core™ i5-10400F Comet Lake, 2.9GHz, 12MB, fara grafica integr
 10/1/2020 7:40:50 AM 774
 10/2/2020 8:40:47 AM 774
 10/4/2020 9:48:36 PM 774
+10/8/2020 10:00:50 AM 869
+10/9/2020 6:11:31 PM 774

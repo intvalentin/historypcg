@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-d594b69127e55e97cda222e3fec8eb14
 1575322
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge62-ms-16j4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457334/1575322/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:13 PM 241,98 RON
 9/25/2020 3:43:55 PM 245,98 RON
 9/26/2020 5:43:48 PM 245,98 RON
+10/8/2020 3:28:53 PM 243,98 RON

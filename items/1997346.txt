@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a12912
 1997346
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/essen-77-cm-gri-rosu/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1990366/1997346/thumbnails/essen-77-cm-gri-r
     Pret    
 9/22/2020 8:12:05 PM 421,98 RON
 9/26/2020 9:46:07 PM 421,98 RON
+10/7/2020 11:25:32 AM 421,98 RON

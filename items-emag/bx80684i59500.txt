@@ -7,3 +7,5 @@ Procesor Intel Core i5-9500, 3.00GHz, 9MB, Socket 1151 - Chipset seria 300
     Pret    
 10/1/2020 7:50:39 AM 1199
 10/2/2020 8:41:35 AM 1051
+10/8/2020 9:56:08 AM 1108
+10/9/2020 6:11:32 PM 1062

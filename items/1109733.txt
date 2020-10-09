@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens396924
 1109733
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/bz3-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1052635/1109733/thumbnails/bz3-black-66f254a
 9/22/2020 5:20:40 PM 225,47 RON
 9/26/2020 6:08:05 PM 226,25 RON
 9/28/2020 8:17:21 AM 226,25 RON
+10/7/2020 8:00:10 AM 226,21 RON
+10/7/2020 10:21:17 AM 226,21 RON
+10/9/2020 10:12:04 PM 226,11 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |k369431
 2040582
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/kugoo/trotineta-electrica-kirin-s1-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/2034042/2040582/thumbnails/trotineta-electri
     Pret    
 9/22/2020 8:14:23 PM 1.287,88 RON
 9/26/2020 10:04:32 PM 1.302,50 RON
+10/7/2020 11:51:48 AM 1.286,63 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo190-644bbb9efdc9cb23da50dd07bba18e63
 1500158
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-100s-14ibr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1443558/1500158/thumbnails/baterie-laptop-le
 9/20/2020 11:13:03 PM 241,98 RON
 9/25/2020 3:55:56 PM 245,98 RON
 9/26/2020 5:55:46 PM 245,98 RON
+10/8/2020 3:20:29 PM 243,98 RON

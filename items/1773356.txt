@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-001076
 1773356
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/c925/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/5015/1773356/thumbnails/c925-60827d2aaa2c0c0
 9/21/2020 10:09:34 AM 497,98 RON
 9/26/2020 8:42:58 AM 503,98 RON
 9/27/2020 11:36:48 AM 503,98 RON
+10/9/2020 11:20:40 AM 503,98 RON

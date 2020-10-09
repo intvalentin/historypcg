@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-cep03p
 1778260
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/cns-cep03p-purple/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/761/1778260/thumbnails/cns-cep03p-purple-81b
 9/22/2020 4:33:22 PM 27,98 RON
 9/26/2020 5:33:57 PM 27,98 RON
 9/28/2020 7:43:00 AM 27,98 RON
+10/7/2020 8:41:57 AM 27,98 RON
+10/9/2020 9:30:26 PM 27,98 RON

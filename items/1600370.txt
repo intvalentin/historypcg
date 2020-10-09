@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dj-t5
 1600370
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/dj-t5-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1489074/1600370/thumbnails/dj-t5-black-65cdf
 9/22/2020 5:15:17 PM 1.010,31 RON
 9/26/2020 6:02:52 PM 1.010,31 RON
 9/28/2020 8:12:05 AM 1.010,31 RON
+10/7/2020 8:17:03 AM 1.010,31 RON
+10/7/2020 10:23:30 AM 1.010,31 RON
+10/9/2020 10:21:02 PM 1.010,31 RON

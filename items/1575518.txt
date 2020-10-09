@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-fa5db5f6c29102a7a0baafbf913f6437
 1575518
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gl62-6qd-ms-16j6/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1535667/1575518/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:23 PM 241,98 RON
 9/25/2020 3:42:25 PM 245,98 RON
 9/26/2020 5:42:18 PM 245,98 RON
+10/8/2020 3:42:03 PM 243,98 RON

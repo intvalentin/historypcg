@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt36
 2007490
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/controller-trotinete-electrice-ryde-36v-25ah/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2003606/2007490/thumbnails/controller-trotin
     Pret    
 9/22/2020 8:17:15 PM 257,39 RON
 9/26/2020 10:07:34 PM 257,39 RON
+10/7/2020 12:29:57 PM 257,39 RON

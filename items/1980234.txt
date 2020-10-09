@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |muac.p001m.xs
 1980234
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/pegas/casca-melon-core-xs/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1979534/1980234/thumbnails/casca-melon-core-
     Pret    
 9/22/2020 8:17:15 PM 269,00 RON
 9/26/2020 10:08:18 PM 269,00 RON
+10/7/2020 12:30:16 PM 269,00 RON

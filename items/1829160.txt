@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |segway drift w1
 1829160
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/ninebot-by-segway/ninebot-by-segway-skates-electrice-drift-w1/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/5664/1829160/thumbnails/skates-electrice-dri
     Pret    
 9/22/2020 8:12:38 PM 1.649,99 RON
 9/26/2020 10:03:48 PM 1.649,99 RON
+10/7/2020 11:31:49 AM 1.649,99 RON

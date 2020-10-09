@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens443765
 1893934
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/outdoor-box-street-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1275/1893934/thumbnails/outdoor-box-street-b
 9/22/2020 5:22:50 PM 658,21 RON
 9/26/2020 6:04:21 PM 660,47 RON
 9/28/2020 8:13:34 AM 660,47 RON
+10/7/2020 8:11:42 AM 660,36 RON
+10/7/2020 10:22:46 AM 660,36 RON
+10/9/2020 10:20:18 PM 660,07 RON

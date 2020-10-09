@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em186428
 1661128
     Product link    
 https://www.pcgarage.ro/boxe-portabile/google/home-mini-asistent-personal-cu-control-voce-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/5286/1661128/thumbnails/home-mini-asistent-p
 9/22/2020 5:04:29 PM 195,41 RON
 9/26/2020 6:05:51 PM 196,08 RON
 9/28/2020 8:15:06 AM 196,08 RON
+10/7/2020 7:59:05 AM 196,05 RON
+10/7/2020 10:21:17 AM 196,05 RON
+10/9/2020 10:18:49 PM 195,96 RON

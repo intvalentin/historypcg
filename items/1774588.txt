@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em199031
 1774588
     Product link    
 https://www.pcgarage.ro/boxe-portabile/amazon/echo-dot-3-sandstone/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1774300/1774588/thumbnails/echo-dot-3-sandst
 9/22/2020 5:21:45 PM 232,99 RON
 9/26/2020 6:05:50 PM 233,79 RON
 9/28/2020 8:15:06 AM 233,79 RON
+10/7/2020 8:01:30 AM 233,75 RON
+10/7/2020 10:21:17 AM 233,75 RON
+10/9/2020 10:18:49 PM 233,65 RON

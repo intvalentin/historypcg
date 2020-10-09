@@ -14,3 +14,4 @@ https://1.grgs.ro/images/products/1/1798/1884858/thumbnails/geforce-rtx-2070-win
 09/28/2020 18:38:57 2.168,28 RON
 9/29/2020 8:25:00 PM 2.165,89 RON
 10/4/2020 10:32:30 PM 2.151,56 RON
+10/7/2020 12:07:16 PM 2.144,47 RON

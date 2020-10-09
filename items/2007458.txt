@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pschimb1
 2007458
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/sisteme-franare-pe-disc-trotinete-10inch-model-350-400-500w/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8078/2007458/thumbnails/sisteme-franare-pe-d
     Pret    
 9/22/2020 8:16:06 PM 116,98 RON
 9/26/2020 10:07:34 PM 116,98 RON
+10/7/2020 12:20:54 PM 116,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fbc4025gl
 2089258
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/xiaomi/trotineta-electrica-mi-pro-2-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/7008/2089258/thumbnails/trotineta-electrica-
     Pret    
 9/22/2020 8:14:58 PM 2.497,99 RON
 9/26/2020 10:04:32 PM 2.497,99 RON
+10/7/2020 11:29:39 AM 2.497,99 RON

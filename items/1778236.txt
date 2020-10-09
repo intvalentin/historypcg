@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-cep3bg
 1778236
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/jazzy-blue-green/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/761/1778236/thumbnails/jazzy-blue-green-1245
 9/22/2020 4:32:17 PM 27,98 RON
 9/26/2020 5:33:57 PM 27,98 RON
 9/28/2020 7:43:00 AM 27,98 RON
+10/7/2020 8:41:25 AM 27,98 RON
+10/9/2020 9:30:26 PM 27,98 RON

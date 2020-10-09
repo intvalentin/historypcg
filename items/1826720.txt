@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |beoplaya1mossgreen
 1826720
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bang-ampolufsen/beoplay-a1-moss-green/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1821372/1826720/thumbnails/beoplay-a1-moss-g
 9/22/2020 5:23:54 PM 1.172,02 RON
 9/26/2020 6:05:06 PM 1.172,02 RON
 9/28/2020 8:15:06 AM 1.172,02 RON
+10/7/2020 8:18:06 AM 1.172,02 RON
+10/7/2020 10:23:30 AM 1.172,02 RON
+10/9/2020 10:21:02 PM 1.172,02 RON

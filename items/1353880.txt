@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbpu1ab
 1353880
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/robin-u1-albastru/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/255443/1353880/thumbnails/u1-albastru-9410d8
     Pret    
 9/22/2020 8:14:58 PM 4.500,00 RON
 9/26/2020 10:05:59 PM 4.500,00 RON
+10/7/2020 11:58:01 AM 4.500,00 RON

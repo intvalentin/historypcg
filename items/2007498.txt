@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt52
 2007498
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/controller-trotinete-electrice-ryde-52v-25ah/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/2003606/2007498/thumbnails/controller-trotin
     Pret    
 9/22/2020 8:17:16 PM 292,49 RON
 9/26/2020 10:07:34 PM 292,49 RON
+10/7/2020 12:31:03 PM 292,49 RON

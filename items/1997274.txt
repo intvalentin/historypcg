@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a12736
 1997274
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/prism-55-cm-gri/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1990682/1997274/thumbnails/prism-55-cm-gri-c
     Pret    
 9/22/2020 7:59:15 PM 307,98 RON
 9/26/2020 9:35:39 PM 307,98 RON
+10/7/2020 8:59:42 AM 307,98 RON

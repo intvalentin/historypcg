@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lmst100
 2007598
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/far-cu-claxon-pentru-trotinete-electrice-ryde/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/2003606/2007598/thumbnails/far-cu-claxon-pen
     Pret    
 9/22/2020 8:16:41 PM 152,09 RON
 9/26/2020 10:06:49 PM 152,09 RON
+10/7/2020 12:26:16 PM 152,09 RON

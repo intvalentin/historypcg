@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.41267albastru
 1948934
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/flip-5-blue/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/6166/1948934/thumbnails/flip-5-blue-839a4922
 9/22/2020 5:14:11 PM 608,35 RON
 9/26/2020 5:56:55 PM 608,35 RON
 9/28/2020 8:06:07 AM 608,35 RON
+10/7/2020 8:11:26 AM 654,35 RON
+10/7/2020 10:22:46 AM 654,35 RON
+10/9/2020 10:15:05 PM 715,30 RON

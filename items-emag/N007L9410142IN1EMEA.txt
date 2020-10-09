@@ -13,3 +13,4 @@ Laptop 2 in 1 Dell Latitude 9410 cu procesor Intel Core i7-10610U pana la 4.90 G
 10/1/2020 10:43:32 PM 10999
 10/1/2020 11:26:17 PM 10999
 10/4/2020 9:06:45 PM 10999
+10/8/2020 8:59:31 AM 11499

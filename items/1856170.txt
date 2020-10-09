@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |charge4forestgreen
 1856170
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/charge-4-forest-green/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1848722/1856170/thumbnails/charge-4-forest-g
 9/22/2020 5:22:50 PM 992,45 RON
 9/26/2020 6:05:06 PM 992,45 RON
 9/28/2020 8:14:19 AM 992,45 RON
+10/7/2020 8:14:59 AM 992,45 RON
+10/7/2020 10:22:46 AM 992,45 RON
+10/9/2020 10:20:18 PM 992,45 RON

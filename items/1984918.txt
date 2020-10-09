@@ -14,3 +14,4 @@ https://2.grgs.ro/images/products/1/6472/1984918/thumbnails/radeon-rx-5500-xt-ga
 09/28/2020 17:51:59 1.087,09 RON
 9/29/2020 8:53:24 PM 1.083,19 RON
 10/4/2020 10:26:16 PM 1.079,89 RON
+10/7/2020 11:58:39 AM 1.075,09 RON

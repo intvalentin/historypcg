@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-95c2d1bb475f12543f6c4dba9e747d6a
 1575514
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-ge72-6ql-apache/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1475542/1575514/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:23 PM 241,98 RON
 9/25/2020 3:42:25 PM 245,98 RON
 9/26/2020 5:42:18 PM 245,98 RON
+10/8/2020 3:41:47 PM 243,98 RON

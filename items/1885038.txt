@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpselvns3wab
 1885038
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/lvneng/scuter-electric-s3-white/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1798/1885038/thumbnails/scuter-electric-s3-w
     Pret    
 9/22/2020 8:14:23 PM 15.000,00 RON
 9/26/2020 10:03:01 PM 15.000,00 RON
+10/7/2020 11:48:52 AM 15.000,00 RON

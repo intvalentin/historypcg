@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ie 60
 291407
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/ie-60-black/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/4/291407/thumbnails/ie-60-44314fbe94d1817424
 9/22/2020 4:31:13 PM 673,98 RON
 9/26/2020 5:32:28 PM 673,98 RON
 9/28/2020 7:41:30 AM 673,98 RON
+10/7/2020 8:30:08 AM 673,98 RON
+10/9/2020 9:28:12 PM 673,98 RON

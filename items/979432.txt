@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kmp08-m
 979432
     Product link    
 https://www.pcgarage.ro/casti-in-ear/krugermatz/kmp08-m-black/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/959008/979432/thumbnails/kmp08-m-black-883ad
 9/22/2020 4:35:32 PM 43,98 RON
 9/26/2020 5:38:25 PM 43,98 RON
 9/28/2020 7:47:29 AM 43,98 RON
+10/7/2020 8:56:27 AM 43,98 RON
+10/9/2020 9:31:11 PM 43,98 RON

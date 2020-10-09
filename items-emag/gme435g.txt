@@ -9,3 +9,5 @@ Mouse giroscopic 2.4GHz pentru prezentare cu pointer laser
 10/4/2020 9:42:40 PM 400
 10/5/2020 10:18:10 AM 380
 10/5/2020 10:18:10 AM 400
+10/8/2020 12:12:18 PM 380
+10/8/2020 12:13:18 PM 400

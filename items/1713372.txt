@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbn1rs
 1713372
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/n1-rosu/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1690716/1713372/thumbnails/n1-rosu-39079901d
     Pret    
 9/22/2020 8:13:13 PM 3.500,00 RON
 9/26/2020 10:03:48 PM 3.500,00 RON
+10/7/2020 11:37:27 AM 3.500,00 RON

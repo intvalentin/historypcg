@@ -7,3 +7,4 @@ API Detectare si Localizare Masca Medicala Umana
     Pret    
 10/2/2020 9:00:23 PM 423
 10/4/2020 11:28:08 PM 423
+10/8/2020 11:45:28 AM 423

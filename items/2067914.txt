@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |psene00
 2067914
     Product link    
 https://www.pcgarage.ro/aparate-medicale/suporto/perna-ortopedica-sezut-coccis-cu-fermitate-extra/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4917/2067914/thumbnails/perna-ortopedica-sez
     Pret    
 9/22/2020 7:52:47 PM 89,59 RON
 9/26/2020 9:33:25 PM 89,59 RON
+10/7/2020 7:52:25 AM 89,59 RON

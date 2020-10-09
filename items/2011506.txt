@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es448791
 2011506
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/urban-box-2-jade/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/9943/2011506/thumbnails/urban-box-2-jade-583
 9/22/2020 5:20:40 PM 135,28 RON
 9/26/2020 6:03:36 PM 135,75 RON
 9/28/2020 8:12:50 AM 135,75 RON
+10/7/2020 7:53:43 AM 135,73 RON
+10/7/2020 10:20:32 AM 135,73 RON
+10/9/2020 10:09:49 PM 135,67 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1034102
 2026006
     Product link    
 https://www.pcgarage.ro/casti-in-ear/urbanista/chicago-dark-clown/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/9002/2026006/thumbnails/chicago-dark-clown-4
 9/22/2020 4:18:37 PM 261,98 RON
 9/26/2020 5:22:03 PM 261,98 RON
 9/27/2020 9:19:48 PM 261,98 RON
+10/7/2020 8:16:34 AM 261,98 RON
+10/9/2020 9:19:59 PM 261,98 RON

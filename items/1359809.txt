@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atprbnm1ctn
 1359809
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/robstep/cadru-transport-parcare/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1192525/1359809/thumbnails/cadru-transport-p
     Pret    
 9/22/2020 8:17:51 PM 800,00 RON
 9/26/2020 10:09:03 PM 800,00 RON
+10/7/2020 12:38:46 PM 800,00 RON

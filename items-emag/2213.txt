@@ -1,0 +1,9 @@
+    Cod    
+2213
+    Product link    
+https://www.emag.ro/procesor-i5-2500k-sandybridge-3300mhz-6mb-socket-1155-tray-2213/pd/DZFXDHBBM/
+    Name    
+Procesor i5-2500K SandyBridge, 3300MHz, 6MB, socket 1155, tray
+    Pret    
+10/8/2020 9:51:09 AM 374
+10/9/2020 6:12:45 PM 350

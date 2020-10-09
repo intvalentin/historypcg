@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em210456
 2027034
     Product link    
 https://www.pcgarage.ro/aparate-medicale/xiaomi/lampa-bactericida-virucida-uvc-five-smart/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/9002/2027034/thumbnails/lampa-bactericida-vi
     Pret    
 9/22/2020 7:52:47 PM 399,99 RON
 9/26/2020 9:34:10 PM 399,99 RON
+10/7/2020 7:55:11 AM 399,99 RON

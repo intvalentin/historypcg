@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dub-e130
 1837220
     Product link    
 https://www.pcgarage.ro/placi-de-retea/d-link/gigabit-dub-e130-usb-tip-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/3582/1837220/thumbnails/gigabit-dub-e130-usb
 9/22/2020 12:09:48 PM 157,07 RON
 9/26/2020 2:54:40 PM 157,60 RON
 9/27/2020 6:56:15 PM 157,60 RON
+10/9/2020 6:57:23 PM 148,97 RON

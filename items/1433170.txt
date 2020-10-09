@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |984-000491
 1433170
     Product link    
 https://www.pcgarage.ro/boxe-portabile/logitech/ultimate-ears-plum-megaboom/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1301183/1433170/thumbnails/ultimate-ears-plu
 9/22/2020 5:23:54 PM 1.137,00 RON
 9/26/2020 6:07:20 PM 1.137,00 RON
 9/28/2020 8:16:36 AM 1.137,00 RON
+10/7/2020 8:17:50 AM 1.137,00 RON
+10/7/2020 10:23:30 AM 1.137,00 RON
+10/9/2020 10:21:02 PM 1.137,00 RON

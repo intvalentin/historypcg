@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo166-0b768145fe86cf300c627f0a640f43e7
 1499902
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-500-15acz/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1141198/1499902/thumbnails/baterie-laptop-le
 9/20/2020 11:13:03 PM 241,98 RON
 9/25/2020 3:56:41 PM 245,98 RON
 9/26/2020 5:56:31 PM 245,98 RON
+10/8/2020 3:19:41 PM 243,98 RON

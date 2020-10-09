@@ -7,3 +7,4 @@ API Detectie Temperatura Maxima Pe Fotografie Termica
     Pret    
 10/2/2020 8:24:08 PM 4321
 10/4/2020 11:28:08 PM 4321
+10/8/2020 11:45:28 AM 4321

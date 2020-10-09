@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens427970
 1472234
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/box-5/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1192525/1472234/thumbnails/box-5-6f1e0468a68
 9/22/2020 5:21:45 PM 252,65 RON
 9/26/2020 6:06:35 PM 253,51 RON
 9/28/2020 8:15:51 AM 253,51 RON
+10/7/2020 8:02:53 AM 253,47 RON
+10/7/2020 10:21:17 AM 253,47 RON
+10/9/2020 10:19:33 PM 253,36 RON

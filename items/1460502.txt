@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51mf8230aa000
 1460502
     Product link    
 https://www.pcgarage.ro/boxe-portabile/creative/woof-3-chrome/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1457254/1460502/thumbnails/woof-3-chrome-a4d
 9/22/2020 5:20:40 PM 154,14 RON
 9/26/2020 6:07:20 PM 154,14 RON
 9/28/2020 8:16:36 AM 154,14 RON
+10/7/2020 7:55:52 AM 154,14 RON
+10/7/2020 10:20:32 AM 154,14 RON
+10/9/2020 10:18:49 PM 154,14 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-626
 1730748
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-626-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/8674/1730748/thumbnails/abts-626-black-aeb45
 9/22/2020 5:21:45 PM 296,31 RON
 9/26/2020 6:05:50 PM 296,31 RON
 9/28/2020 8:15:06 AM 296,31 RON
+10/7/2020 8:04:59 AM 296,31 RON
+10/7/2020 10:22:02 AM 296,31 RON
+10/9/2020 10:19:33 PM 296,31 RON

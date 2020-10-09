@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s050660
 742038
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-s050660-yellow/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/750014/742038/thumbnails/toner-s050660-yello
 9/21/2020 7:34:03 PM 1.407,98 RON
 9/26/2020 11:32:48 AM 1.411,98 RON
 9/27/2020 2:55:07 PM 1.411,98 RON
+10/9/2020 3:48:44 PM 1.411,98 RON

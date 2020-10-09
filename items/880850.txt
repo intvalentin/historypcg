@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cns-tep1bl
 880850
     Product link    
 https://www.pcgarage.ro/casti-in-ear/canyon/cns-tep1-blue/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/2/880850/thumbnails/in-ear-cns-tep1-blue-31f
 9/22/2020 4:32:17 PM 43,98 RON
 9/26/2020 5:39:09 PM 43,98 RON
 9/28/2020 7:48:13 AM 43,98 RON
+10/7/2020 8:55:22 AM 43,98 RON
+10/9/2020 9:28:56 PM 43,98 RON

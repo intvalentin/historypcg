@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |new york small-blue
 819432
     Product link    
 https://www.pcgarage.ro/trolere/princesstraveller/troler-new-york-s-albastru/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/986422/819432/thumbnails/1new-york-s-albastr
     Pret    
 9/22/2020 8:09:11 PM 237,98 RON
 9/26/2020 9:55:06 PM 237,98 RON
+10/7/2020 10:57:51 AM 237,98 RON

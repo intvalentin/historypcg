@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-9ebbc42efa3544ae2bebd2cd4dc4ba67
 1575554
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gl62-7rdx/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1475542/1575554/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:27 PM 241,98 RON
 9/25/2020 3:41:40 PM 245,98 RON
 9/26/2020 5:41:33 PM 245,98 RON
+10/8/2020 3:44:10 PM 243,98 RON

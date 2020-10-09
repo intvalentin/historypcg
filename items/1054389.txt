@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |980-000742
 1054389
     Product link    
 https://www.pcgarage.ro/boxe-portabile/logitech/mobile-speakerphone-p710e/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/812812/1054389/thumbnails/mobile-speakerphon
 9/22/2020 5:22:50 PM 584,18 RON
 9/26/2020 6:08:05 PM 585,77 RON
 9/28/2020 8:17:21 AM 585,77 RON
+10/7/2020 8:11:10 AM 584,89 RON
+10/7/2020 10:22:46 AM 584,89 RON
+10/9/2020 10:20:18 PM 583,79 RON

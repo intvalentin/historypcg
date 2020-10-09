@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbpu1al
 1353838
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/robin-u1-alb/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/782584/1353838/thumbnails/u1-alb-c1c860d1583
     Pret    
 9/22/2020 8:14:58 PM 4.500,00 RON
 9/26/2020 10:05:59 PM 4.500,00 RON
+10/7/2020 11:57:13 AM 4.500,00 RON

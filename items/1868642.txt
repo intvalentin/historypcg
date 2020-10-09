@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-1280346
 1868642
     Product link    
 https://www.pcgarage.ro/boxe-portabile/bang-ampolufsen/beolit-17-natural/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/1864870/1868642/thumbnails/beolit-17-natural
 9/22/2020 5:23:54 PM 2.290,55 RON
 9/26/2020 6:05:06 PM 2.290,55 RON
 9/28/2020 8:14:19 AM 2.290,55 RON
+10/7/2020 8:19:26 AM 2.290,55 RON
+10/7/2020 10:23:30 AM 2.290,55 RON
+10/9/2020 10:21:02 PM 2.290,55 RON

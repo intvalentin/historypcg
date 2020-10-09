@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens424481
 1155423
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/music-box-b3-black/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/714621/1155423/thumbnails/music-box-b3-black
 9/22/2020 5:20:40 PM 172,86 RON
 9/26/2020 6:08:05 PM 173,46 RON
 9/28/2020 8:16:36 AM 173,46 RON
+10/7/2020 7:56:25 AM 173,43 RON
+10/7/2020 10:20:32 AM 173,43 RON
+10/9/2020 10:10:34 PM 173,35 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens447534
 1893958
     Product link    
 https://www.pcgarage.ro/boxe-portabile/energy-sistem/frame-speaker-forest/
@@ -10,3 +10,6 @@ https://1.grgs.ro/images/products/1/1275/1893958/thumbnails/frame-speaker-forest
 9/22/2020 5:22:50 PM 864,32 RON
 9/26/2020 6:04:21 PM 867,29 RON
 9/28/2020 8:13:34 AM 867,29 RON
+10/7/2020 8:13:55 AM 867,14 RON
+10/7/2020 10:22:46 AM 867,14 RON
+10/9/2020 10:20:18 PM 866,75 RON

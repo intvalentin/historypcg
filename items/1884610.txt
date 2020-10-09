@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atprbnm1gsvd
 1884610
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/robstep/ghidon-scurt-verde/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1798/1884610/thumbnails/ghidon-scurt-verde-e
     Pret    
 9/22/2020 8:18:25 PM 1.400,00 RON
 9/26/2020 10:09:03 PM 1.400,00 RON
+10/7/2020 12:41:06 PM 1.400,00 RON

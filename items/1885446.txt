@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpselvns5ab
 1885446
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/lvneng/scuter-electric-s5-white/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1798/1885446/thumbnails/scuter-electric-s5-w
     Pret    
 9/22/2020 8:14:23 PM 18.000,00 RON
 9/26/2020 10:02:17 PM 18.000,00 RON
+10/7/2020 11:49:56 AM 18.000,00 RON

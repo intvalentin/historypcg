@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nt-39408
 2001270
     Product link    
 https://www.pcgarage.ro/anvelope-vara/imperial/ecodriver4-209-145-80r13-75t/
@@ -9,3 +9,4 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
     Pret    
 9/22/2020 8:20:59 PM 122,46 RON
 9/27/2020 9:18:20 AM 122,46 RON
+10/7/2020 12:55:35 PM 122,46 RON

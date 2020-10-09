@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em210815
 2034026
     Product link    
 https://www.pcgarage.ro/aparate-medicale/xiaomi/oximetru-yuwell-yueye-yx303-masoara-pulsul-si-saturatia-de-oxigen/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/3041/2034026/thumbnails/oximetru-yuwell-yuey
     Pret    
 9/22/2020 7:52:47 PM 289,99 RON
 9/26/2020 9:33:25 PM 289,99 RON
+10/7/2020 7:54:37 AM 289,99 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tplhes1ag
 1934010
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/lehe/bicicleta-electrica-s1-silver/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/6811/1934010/thumbnails/bicicleta-electrica-
     Pret    
 9/22/2020 8:13:48 PM 9.000,00 RON
 9/26/2020 10:02:17 PM 9.000,00 RON
+10/7/2020 11:43:53 AM 9.000,00 RON

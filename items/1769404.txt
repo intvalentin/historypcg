@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |984-001363
 1769404
     Product link    
 https://www.pcgarage.ro/boxe-portabile/logitech/ue-boom-3-ultraviolet-purple/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1765416/1769404/thumbnails/ue-boom-3-ultravi
 9/22/2020 5:15:16 PM 763,75 RON
 9/26/2020 6:00:38 PM 775,79 RON
 9/28/2020 8:09:51 AM 775,79 RON
+10/7/2020 8:12:46 AM 766,38 RON
+10/7/2020 10:22:46 AM 766,38 RON
+10/9/2020 10:20:18 PM 765,23 RON

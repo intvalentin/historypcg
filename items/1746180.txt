@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nr600
 1746180
     Product link    
 https://www.pcgarage.ro/camere-auto/navitel/r600-1/
@@ -8,3 +8,4 @@ NAVITEL R600 FHD
 https://4.grgs.ro/images/products/1/6748/1746180/thumbnails/r600-b7d28f970d7b6d8cc5d5ffe32a8ede26.jpg
     Pret    
 9/22/2020 5:27:04 PM 348,98 RON
+10/9/2020 10:23:04 PM 348,98 RON

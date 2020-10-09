@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.39597alb
 1857118
     Product link    
 https://www.pcgarage.ro/casti-in-ear/jbl/e15-white/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/1848722/1857118/thumbnails/e15-white-cb79cbf
 9/22/2020 4:25:54 PM 135,98 RON
 9/26/2020 5:24:17 PM 135,98 RON
 9/27/2020 9:22:41 PM 127,98 RON
+10/7/2020 7:54:42 AM 135,98 RON
+10/9/2020 9:24:27 PM 127,98 RON

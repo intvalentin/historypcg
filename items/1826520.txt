@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-508342
 1826520
     Product link    
 https://www.pcgarage.ro/casti-office-call-center/sennheiser/presence-grey-uc/
@@ -10,3 +10,5 @@ https://5.grgs.ro/images/products/1/5147/1826520/thumbnails/presence-grey-uc-09c
 9/22/2020 4:43:02 PM 778,80 RON
 9/26/2020 5:39:54 PM 778,80 RON
 9/28/2020 7:48:59 AM 778,80 RON
+10/7/2020 9:38:16 AM 778,80 RON
+10/9/2020 9:36:22 PM 778,80 RON

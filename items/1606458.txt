@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-t1203
 1606458
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-t1203-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1505170/1606458/thumbnails/abts-t1203-cac3fa
 9/22/2020 5:22:50 PM 974,60 RON
 9/26/2020 6:06:35 PM 974,60 RON
 9/28/2020 8:15:51 AM 974,60 RON
+10/7/2020 8:14:27 AM 974,60 RON
+10/7/2020 10:22:46 AM 974,60 RON
+10/9/2020 10:20:18 PM 974,60 RON

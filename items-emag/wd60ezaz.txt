@@ -8,3 +8,4 @@ Unitate interna de stocare , Western Digital , WD Blue 3.5&#039;&#039; SATA3 256
 10/1/2020 2:36:26 PM 834
 10/2/2020 9:01:00 AM 791
 10/4/2020 10:11:44 PM 791
+10/8/2020 10:21:34 AM 695

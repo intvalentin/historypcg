@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cnt48
 2007494
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/ryde/controller-trotinete-electrice-ryde-48v-25ah/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8078/2007494/thumbnails/controller-trotinete
     Pret    
 9/22/2020 8:17:16 PM 292,49 RON
 9/26/2020 10:07:34 PM 292,49 RON
+10/7/2020 12:30:48 PM 292,49 RON

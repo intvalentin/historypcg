@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-507353
 1445114
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/momentum-bt-wireless-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1094679/1445114/thumbnails/in-ear-momentum-b
 9/22/2020 4:31:13 PM 747,98 RON
 9/26/2020 5:29:29 PM 747,98 RON
 9/27/2020 9:27:53 PM 747,98 RON
+10/7/2020 8:30:56 AM 747,98 RON
+10/9/2020 9:28:12 PM 747,98 RON

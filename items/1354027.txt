@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbnm2rs
 1354027
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/robin-m2-rosu/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1052635/1354027/thumbnails/robin-m2-rosu-db5
     Pret    
 9/22/2020 8:15:30 PM 12.500,00 RON
 9/26/2020 10:05:59 PM 12.500,00 RON
+10/7/2020 12:01:26 PM 12.500,00 RON

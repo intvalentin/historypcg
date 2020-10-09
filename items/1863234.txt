@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |i5474901
 1863234
     Product link    
 https://www.pcgarage.ro/anvelope-vara/zeetex/zt1000-155-65r13-73t-vara/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/7399/1863234/thumbnails/zt1000-155-65r13-73t
     Pret    
 9/22/2020 8:20:59 PM 122,79 RON
 9/27/2020 9:31:11 AM 122,79 RON
+10/7/2020 12:55:51 PM 122,79 RON

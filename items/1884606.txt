@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |atprbnm1gsag
 1884606
     Product link    
 https://www.pcgarage.ro/accesorii-vehicule-electrice/robstep/ghidon-scurt-argintiu/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1798/1884606/thumbnails/ghidon-scurt-arginti
     Pret    
 9/22/2020 8:18:25 PM 1.200,00 RON
 9/26/2020 10:09:03 PM 1.200,00 RON
+10/7/2020 12:40:50 PM 1.200,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpselvns4grmt
 1885442
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/lvneng/scuter-electric-s4-gray/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1885090/1885442/thumbnails/scuter-electric-s
     Pret    
 9/22/2020 8:14:23 PM 14.000,00 RON
 9/26/2020 10:02:17 PM 14.000,00 RON
+10/7/2020 11:48:36 AM 14.000,00 RON

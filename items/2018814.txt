@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |wpm04-all-inter
 2018814
     Product link    
 https://www.pcgarage.ro/aparate-medicale/withings/bmp-core-wpm04-all-inter-tensiometru/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2013982/2018814/thumbnails/bmp-core-tensiome
     Pret    
 9/22/2020 7:53:22 PM 1.461,93 RON
 9/26/2020 9:34:10 PM 1.461,93 RON
+10/7/2020 8:00:46 AM 1.461,93 RON

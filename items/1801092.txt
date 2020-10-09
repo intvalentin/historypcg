@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |rz19-02320100-r3m1
 1801092
     Product link    
 https://www.pcgarage.ro/camere-web/razer/kiyo/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4338/1801092/thumbnails/kiyo-2120ee490d44ecd
 9/21/2020 10:09:34 AM 625,98 RON
 9/26/2020 8:42:58 AM 625,98 RON
 9/27/2020 11:36:48 AM 627,98 RON
+10/9/2020 11:20:56 AM 627,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbn1ar
 1713368
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/n1-auriu/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1689668/1713368/thumbnails/n1-auriu-7baeaf01
     Pret    
 9/22/2020 8:13:13 PM 3.500,00 RON
 9/26/2020 10:03:48 PM 3.500,00 RON
+10/7/2020 11:37:12 AM 3.500,00 RON

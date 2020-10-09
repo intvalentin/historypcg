@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xs new york-blue
 819382
     Product link    
 https://www.pcgarage.ro/trolere/princesstraveller/troler-xs-new-york-albastru/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1141198/819382/thumbnails/1xs-new-york-albas
     Pret    
 9/22/2020 8:09:11 PM 227,98 RON
 9/26/2020 9:55:06 PM 227,98 RON
+10/7/2020 10:55:24 AM 227,98 RON

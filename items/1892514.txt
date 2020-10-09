@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |c13s050699
 1892514
     Product link    
 https://www.pcgarage.ro/cartuse-epson/epson/toner-return-s050699-black/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/862955/1892514/thumbnails/toner-s050697-blac
 9/21/2020 7:34:03 PM 1.379,98 RON
 9/26/2020 11:30:35 AM 1.383,98 RON
 9/27/2020 2:52:45 PM 1.385,98 RON
+10/9/2020 3:48:28 PM 1.383,98 RON

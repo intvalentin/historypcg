@@ -14,3 +14,4 @@ https://5.grgs.ro/images/products/1/6763/1771612/thumbnails/geforce-rtx-2080-ti-
 09/28/2020 19:11:07 5.725,94 RON
 9/29/2020 9:06:32 PM 5.705,41 RON
 10/4/2020 10:38:26 PM 5.688,02 RON
+10/7/2020 12:13:20 PM 5.662,70 RON

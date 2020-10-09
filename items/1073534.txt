@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ad-spk-pcgrsi-00
 1073534
     Product link    
 https://www.pcgarage.ro/boxe-portabile/thermaltake/luxa2-groovyr-360-micro/
@@ -10,3 +10,6 @@ https://3.grgs.ro/images/products/1/929094/1073534/thumbnails/luxa2-groovyr-360-
 9/22/2020 5:20:40 PM 196,74 RON
 9/26/2020 6:08:05 PM 199,84 RON
 9/28/2020 8:17:21 AM 199,84 RON
+10/7/2020 7:59:22 AM 197,42 RON
+10/7/2020 10:21:17 AM 197,42 RON
+10/9/2020 10:18:49 PM 197,12 RON

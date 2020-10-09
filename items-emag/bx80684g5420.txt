@@ -8,3 +8,5 @@ Procesor Intel® Core™ Pentium Gold G5420, 3.8GHz, 4MB, Socket 1151 - Chipset 
 10/1/2020 7:46:39 AM 271
 10/2/2020 8:40:48 AM 304
 10/4/2020 9:48:53 PM 305
+10/8/2020 9:53:45 AM 271
+10/9/2020 6:12:13 PM 319

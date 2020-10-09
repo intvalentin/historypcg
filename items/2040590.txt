@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es2 white
 2040590
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/kugoo/trotineta-electrica-es2-white/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/2034042/2040590/thumbnails/trotineta-electri
     Pret    
 9/22/2020 8:14:58 PM 1.692,02 RON
 9/26/2020 10:04:32 PM 1.711,23 RON
+10/7/2020 11:53:36 AM 1.690,34 RON

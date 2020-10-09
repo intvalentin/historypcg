@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-dk15
 1888246
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-dk15-black/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/1885090/1888246/thumbnails/abts-dk15-black-b
 9/22/2020 5:22:50 PM 748,51 RON
 9/26/2020 6:05:06 PM 748,51 RON
 9/28/2020 8:14:19 AM 748,51 RON
+10/7/2020 8:12:30 AM 748,51 RON
+10/7/2020 10:22:46 AM 748,51 RON
+10/9/2020 10:20:18 PM 748,51 RON

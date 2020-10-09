@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |abts-11b
 1599750
     Product link    
 https://www.pcgarage.ro/boxe-portabile/akai/abts-11b-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1517618/1599750/thumbnails/abts-11b-black-c8
 9/22/2020 5:17:26 PM 119,72 RON
 9/26/2020 6:06:35 PM 119,72 RON
 9/28/2020 8:15:51 AM 119,72 RON
+10/7/2020 7:51:34 AM 119,72 RON
+10/7/2020 10:20:32 AM 119,72 RON
+10/9/2020 10:16:35 PM 119,72 RON

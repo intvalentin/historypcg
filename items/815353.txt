@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |xam17-gmb
 815353
     Product link    
 https://www.pcgarage.ro/boxe-portabile/x-mini/we/
@@ -10,3 +10,6 @@ https://2.grgs.ro/images/products/1/2/815353/thumbnails/we-31995a099529ca2cdf08d
 9/22/2020 5:20:40 PM 171,78 RON
 9/26/2020 6:08:05 PM 171,78 RON
 9/28/2020 8:17:21 AM 171,78 RON
+10/7/2020 7:56:08 AM 171,78 RON
+10/7/2020 10:20:32 AM 171,78 RON
+10/9/2020 10:18:49 PM 171,78 RON

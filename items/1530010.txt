@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ens428410
 1530010
     Product link    
 https://www.pcgarage.ro/casti-in-ear/energy-sistem/earphones-1-bluetooth-red/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/1427466/1530010/thumbnails/earphones-1-bluet
 9/22/2020 4:38:46 PM 129,98 RON
 9/26/2020 5:34:42 PM 129,98 RON
 9/28/2020 7:43:46 AM 129,98 RON
+10/7/2020 9:17:07 AM 129,98 RON
+10/9/2020 9:25:12 PM 129,98 RON

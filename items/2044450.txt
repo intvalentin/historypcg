@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |960-001252
 2044450
     Product link    
 https://www.pcgarage.ro/camere-web/logitech/hd-c920s-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1034/2044450/thumbnails/hd-c920s-pro-f9b0fc1
 9/21/2020 10:08:32 AM 579,99 RON
 9/26/2020 8:42:58 AM 579,99 RON
 9/27/2020 11:36:48 AM 579,99 RON
+10/9/2020 11:20:24 AM 579,99 RON

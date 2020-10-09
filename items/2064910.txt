@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |squbby 8
 2064910
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/ugo/trotineta-electrica-ugo-squbby-8/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4917/2064910/thumbnails/trotineta-electrica-
     Pret    
 9/22/2020 8:12:38 PM 1.986,90 RON
 9/26/2020 10:02:17 PM 1.986,90 RON
+10/7/2020 11:32:53 AM 1.986,90 RON

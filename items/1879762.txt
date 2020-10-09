@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-506824
 1879762
     Product link    
 https://www.pcgarage.ro/detalii-produs/1879762/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/5634/1879762/thumbnails/rr-5000-casca-secund
 9/22/2020 4:30:08 PM 617,98 RON
 9/26/2020 5:23:32 PM 617,98 RON
 9/27/2020 9:21:57 PM 617,98 RON
+10/7/2020 8:29:03 AM 617,98 RON
+10/9/2020 9:28:12 PM 617,98 RON

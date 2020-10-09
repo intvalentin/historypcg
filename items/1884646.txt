@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbnt2ngab
 1884646
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/skateboard-electric-t2-black/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1798/1884646/thumbnails/skateboard-electric-
     Pret    
 9/22/2020 8:12:38 PM 3.000,00 RON
 9/26/2020 10:03:01 PM 3.000,00 RON
+10/7/2020 11:35:15 AM 3.000,00 RON

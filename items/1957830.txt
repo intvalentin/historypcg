@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |210-arje-05
 1957830
     Product link    
 https://www.pcgarage.ro/docking-stations/dell/docking-wd19d-240w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1953966/1957830/thumbnails/docking-wd19d-240
 9/20/2020 11:39:47 PM 1.469,98 RON
 9/25/2020 8:47:04 PM 1.515,98 RON
 9/26/2020 10:46:34 PM 1.515,98 RON
+10/8/2020 4:02:15 PM 1.514,98 RON

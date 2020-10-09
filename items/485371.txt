@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |es-1008ph
 485371
     Product link    
 https://www.pcgarage.ro/switch-uri/edimax/es-1008ph/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3/485371/thumbnails/es-1008ph-62afc19c622056
 9/22/2020 11:49:59 AM 358,87 RON
 9/26/2020 2:50:16 PM 364,59 RON
 9/27/2020 6:51:58 PM 364,50 RON
+10/9/2020 6:47:26 PM 360,98 RON

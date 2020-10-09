@@ -14,3 +14,4 @@ https://3.grgs.ro/images/products/1/6115/1781844/thumbnails/geforce-rtx-2070-ven
 09/28/2020 19:00:59 2.268,50 RON
 9/29/2020 9:01:29 PM 2.260,64 RON
 10/4/2020 10:33:14 PM 2.242,32 RON
+10/7/2020 12:08:00 PM 2.238,39 RON

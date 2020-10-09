@@ -9,3 +9,4 @@ Laptop 2 in1 Lenovo IdeaPad Flex 5 14IIL05 cu procesor Intel® Core™ i7-1065G7
 9/26/2020 12:38:00 PM 5593
 9/29/2020 9:28:58 PM 5593
 9/29/2020 10:03:04 PM 5593
+10/8/2020 8:57:21 AM 5499

@@ -13,3 +13,4 @@ https://5.grgs.ro/images/products/1/1202/1903202/thumbnails/geforce-rtx-2060-sup
 09/28/2020 18:28:08 2.312,28 RON
 9/29/2020 9:02:12 PM 2.309,74 RON
 10/4/2020 10:33:14 PM 2.294,44 RON
+10/7/2020 12:08:00 PM 2.286,88 RON

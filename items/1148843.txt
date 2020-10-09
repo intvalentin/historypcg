@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |avs-506231
 1148843
     Product link    
 https://www.pcgarage.ro/casti-in-ear/sennheiser/in-ear-momentum-i-red/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/634551/1148843/thumbnails/in-ear-momentum-g-
 9/22/2020 4:29:06 PM 335,98 RON
 9/26/2020 5:30:13 PM 335,98 RON
 9/27/2020 9:28:37 PM 335,98 RON
+10/7/2020 8:20:34 AM 335,98 RON
+10/9/2020 9:19:59 PM 335,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |51ef0750aa000
 1752732
     Product link    
 https://www.pcgarage.ro/casti-in-ear/creative/aurvana-trio-black/
@@ -10,3 +10,5 @@ https://2.grgs.ro/images/products/1/6763/1752732/thumbnails/aurvana-trio-black-6
 9/22/2020 4:41:59 PM 591,98 RON
 9/26/2020 5:33:57 PM 591,98 RON
 9/28/2020 7:43:00 AM 591,98 RON
+10/7/2020 9:32:18 AM 591,98 RON
+10/9/2020 9:35:37 PM 591,98 RON

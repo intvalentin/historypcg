@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |28284
 2018850
     Product link    
 https://www.pcgarage.ro/aparate-medicale/omron/m3-comfort-tensiometru/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/2013982/2018850/thumbnails/m3-comfort-tensio
     Pret    
 9/22/2020 7:53:22 PM 389,42 RON
 9/26/2020 9:34:10 PM 389,42 RON
+10/7/2020 7:58:38 AM 389,42 RON

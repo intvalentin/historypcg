@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |984-000965
 1999958
     Product link    
 https://www.pcgarage.ro/boxe-portabile/logitech/ue-blast-graphite/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1990682/1999958/thumbnails/ue-blast-graphite
 9/22/2020 5:15:17 PM 1.020,38 RON
 9/26/2020 5:56:11 PM 1.036,47 RON
 9/28/2020 8:05:23 AM 1.036,47 RON
+10/7/2020 8:17:19 AM 1.023,89 RON
+10/7/2020 10:23:30 AM 1.023,89 RON
+10/9/2020 10:21:02 PM 1.022,36 RON

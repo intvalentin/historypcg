@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus198-3a1882cd534891e8abc8a635857dbb7f
 1511738
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-f756ub/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1500686/1511738/thumbnails/baterie-laptop-as
 9/20/2020 11:13:08 PM 241,98 RON
 9/25/2020 3:50:40 PM 245,98 RON
 9/26/2020 5:50:32 PM 245,98 RON
+10/8/2020 3:25:13 PM 243,98 RON

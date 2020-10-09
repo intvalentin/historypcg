@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |btp-28-bk
 1109278
     Product link    
 https://www.pcgarage.ro/boxe-portabile/orico/btp-28-black/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/862960/1109278/thumbnails/btp-28-black-839fa
 9/22/2020 5:20:40 PM 145,40 RON
 9/26/2020 6:08:05 PM 147,70 RON
 9/28/2020 8:17:21 AM 147,70 RON
+10/7/2020 7:54:48 AM 145,90 RON
+10/7/2020 10:20:32 AM 145,90 RON
+10/9/2020 10:18:04 PM 145,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbnm1gb
 1353992
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/robin-m1-galben/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/862960/1353992/thumbnails/robin-m1-galben-50
     Pret    
 9/22/2020 8:13:48 PM 10.500,00 RON
 9/26/2020 10:04:32 PM 10.500,00 RON
+10/7/2020 11:45:12 AM 10.500,00 RON

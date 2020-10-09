@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |kmp01-m
 979422
     Product link    
 https://www.pcgarage.ro/casti-in-ear/krugermatz/kmp01-m-white/
@@ -10,3 +10,5 @@ https://3.grgs.ro/images/products/1/480523/979422/thumbnails/p01-m-white-6a73af8
 9/22/2020 4:20:40 PM 43,98 RON
 9/26/2020 5:30:58 PM 43,98 RON
 9/27/2020 9:29:22 PM 43,98 RON
+10/7/2020 8:56:10 AM 43,98 RON
+10/9/2020 9:21:28 PM 43,98 RON

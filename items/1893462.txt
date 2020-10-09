@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |a12965
 1893462
     Product link    
 https://www.pcgarage.ro/trolere/lamonza/omni-albastru-77-cm/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1275/1893462/thumbnails/omni-albastru-77-cm-
     Pret    
 9/22/2020 8:11:32 PM 389,98 RON
 9/26/2020 9:46:51 PM 389,98 RON
+10/7/2020 11:24:26 AM 389,98 RON

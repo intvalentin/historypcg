@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbtpl1ng
 1884662
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/trotineta-electrica-l1-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1798/1884662/thumbnails/trotineta-electrica-
     Pret    
 9/22/2020 8:13:13 PM 4.000,00 RON
 9/26/2020 10:03:01 PM 4.000,00 RON
+10/7/2020 11:39:40 AM 4.000,00 RON

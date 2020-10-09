@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |em199032
 1900214
     Product link    
 https://www.pcgarage.ro/boxe-portabile/amazon/echo-dot-3-grey/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/1899326/1900214/thumbnails/echo-dot-3-grey-a
 9/22/2020 5:18:31 PM 255,53 RON
 9/26/2020 6:04:21 PM 256,26 RON
 9/28/2020 8:13:34 AM 256,42 RON
+10/7/2020 8:03:54 AM 256,12 RON
+10/7/2020 10:22:02 AM 256,12 RON
+10/9/2020 10:16:35 PM 256,37 RON

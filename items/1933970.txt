@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tpchlsng
 1933970
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/chic/hoverboard-electric-ls-black/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6811/1933970/thumbnails/hoverboard-electric-
     Pret    
 9/22/2020 8:14:23 PM 15.000,00 RON
 9/26/2020 10:02:17 PM 15.000,00 RON
+10/7/2020 11:49:40 AM 15.000,00 RON

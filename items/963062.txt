@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |j29-00003
 963062
     Product link    
 https://www.pcgarage.ro/aplicatii/microsoft/licenta-volum-office-365-business-1-user-5-pc-1-an-olp-nl-qualified/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/800612/963062/thumbnails/licenta-electronica
 9/21/2020 1:23:20 PM 700,55 RON
 9/26/2020 9:50:04 AM 702,97 RON
 9/27/2020 12:58:23 PM 702,97 RON
+10/9/2020 1:35:02 PM 702,84 RON

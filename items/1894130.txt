@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |spb-a25-bt
 1894130
     Product link    
 https://www.pcgarage.ro/boxe-portabile/spacer/spb-a25-bt-black/
@@ -10,3 +10,6 @@ https://4.grgs.ro/images/products/1/1275/1894130/thumbnails/spb-a25-bt-black-c20
 9/22/2020 5:14:11 PM 539,16 RON
 9/26/2020 5:57:40 PM 547,66 RON
 9/28/2020 8:06:52 AM 547,66 RON
+10/7/2020 8:10:06 AM 541,02 RON
+10/7/2020 10:22:46 AM 541,02 RON
+10/9/2020 10:19:34 PM 540,20 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus198-877272bfc05cb0bb1fe338cc1841f010
 1511758
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-f756ux-t4201d/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/472773/1511758/thumbnails/baterie-laptop-asu
 9/20/2020 11:13:08 PM 241,98 RON
 9/25/2020 3:50:40 PM 245,98 RON
 9/26/2020 5:50:32 PM 245,98 RON
+10/8/2020 3:26:32 PM 243,98 RON

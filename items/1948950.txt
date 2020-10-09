@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.41267rosu
 1948950
     Product link    
 https://www.pcgarage.ro/boxe-portabile/jbl/flip-5-red/
@@ -10,3 +10,6 @@ https://5.grgs.ro/images/products/1/6166/1948950/thumbnails/flip-5-red-2ad12e5a4
 9/22/2020 5:17:26 PM 539,35 RON
 9/26/2020 6:04:21 PM 539,35 RON
 9/28/2020 8:13:34 AM 539,35 RON
+10/7/2020 8:09:06 AM 539,35 RON
+10/7/2020 10:22:02 AM 539,35 RON
+10/9/2020 10:16:35 PM 539,35 RON

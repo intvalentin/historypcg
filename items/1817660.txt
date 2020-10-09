@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |zab0010.1-b
 1817660
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/quer/cruiser-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/753/1817660/thumbnails/cruiser-black-6dce674
     Pret    
 9/22/2020 8:12:38 PM 893,53 RON
 9/26/2020 10:03:48 PM 893,53 RON
+10/7/2020 11:30:45 AM 893,53 RON

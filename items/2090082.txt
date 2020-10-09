@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mrku3410281-1
 2090082
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/himo/bicileta-electrica-pliabila-z20-white/
@@ -8,3 +8,4 @@ Himo Bicileta electrica pliabila Z20 White
 https://5.grgs.ro/images/products/1/7008/2090082/thumbnails/bicileta-electrica-pliabila-z20-white-b9125bd21a3ae5f7bb841d71698c0121.jpg
     Pret    
 9/26/2020 10:02:17 PM 3.699,99 RON
+10/7/2020 11:39:04 AM 3.699,99 RON

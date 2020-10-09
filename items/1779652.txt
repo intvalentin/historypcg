@@ -13,3 +13,4 @@ https://1.grgs.ro/images/products/1/761/1779652/thumbnails/geforce-rtx-2060-gami
 09/28/2020 19:01:32 2.123,95 RON
 9/29/2020 9:00:45 PM 2.121,62 RON
 10/4/2020 10:31:45 PM 2.107,56 RON
+10/7/2020 12:06:32 PM 2.100,63 RON

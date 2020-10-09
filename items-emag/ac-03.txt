@@ -7,3 +7,4 @@ Licenta electronica pentru preluarea comenzilor de vanzare direct de la masa in 
     Pret    
 10/3/2020 9:22:13 AM 830
 10/4/2020 11:59:09 PM 830
+10/8/2020 11:46:10 AM 830

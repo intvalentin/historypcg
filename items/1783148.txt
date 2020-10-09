@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ref.36561gm
 1783148
     Product link    
 https://www.pcgarage.ro/casti-in-ear/audio-technica/ath-ckr75bt-gun-metal/
@@ -10,3 +10,5 @@ https://1.grgs.ro/images/products/1/6115/1783148/thumbnails/ath-ckr75bt-gun-meta
 9/22/2020 4:30:08 PM 561,98 RON
 9/26/2020 5:25:46 PM 561,98 RON
 9/27/2020 9:24:10 PM 561,98 RON
+10/7/2020 8:28:15 AM 561,98 RON
+10/9/2020 9:28:12 PM 561,98 RON

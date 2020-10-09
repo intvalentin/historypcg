@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |tprbnm1ab
 1828760
     Product link    
 https://www.pcgarage.ro/vehicule-electrice/robstep/hoverboard-electric-robin-m1-albastru/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5664/1828760/thumbnails/hoverboard-electric-
     Pret    
 9/22/2020 8:13:48 PM 12.500,00 RON
 9/26/2020 10:03:48 PM 12.500,00 RON
+10/7/2020 11:48:04 AM 12.500,00 RON

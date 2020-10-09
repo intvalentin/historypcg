@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus165-8caa6ca5f435953e0b28e7cd719ec026
 1464550
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n75sl-n75sn-n75sv/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1192525/1464550/thumbnails/baterie-laptop-as
 9/20/2020 11:12:58 PM 241,98 RON
 9/25/2020 4:02:42 PM 247,98 RON
 9/26/2020 6:02:32 PM 247,98 RON
+10/8/2020 3:17:23 PM 243,98 RON

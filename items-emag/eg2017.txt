@@ -7,3 +7,4 @@ EasyGEST-X Program complet de gestiune, facturare, urmarire clienti si magazin c
     Pret    
 10/2/2020 8:54:00 PM 1118
 10/4/2020 11:21:42 PM 1118
+10/8/2020 11:45:28 AM 450

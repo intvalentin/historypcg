@@ -1,0 +1,10 @@
+    Cod    |lak-00018
+2101226
+    Product link    
+https://www.pcgarage.ro/sisteme-all-in-one/microsoft/surface-studio-2-28-inch-touchscreen-procesor-intel-core-i7-7820hq-29ghz-kaby-lake-32gb-ram-1tb-ssd-geforce-gtx-1070-8gb-camera-web-win-10-pro/
+    Name    
+Microsoft Surface STUDIO 2, 28 inch Touchscreen, Procesor Intel® Core™ i7-7820HQ 2.9GHz Kaby Lake, 32GB RAM, 1TB SSD, GeForce GTX 1070 8GB, Camera Web, Win 10 Pro
+    Img url    
+https://1.grgs.ro/images/products/1/1977958/2101226/thumbnails/surface-studio-2-28-inch-touchscreen-procesor-intel-core-i7-7820hq-29ghz-kaby-lake-16gb-1tb-ssd-nvidia-gtx-1060-6gb-win-10-pro-c71bf6a6433bd2055a9c587bdb8ba7d9.jpg
+    Pret    
+10/8/2020 2:04:23 PM 26.799,98 RON

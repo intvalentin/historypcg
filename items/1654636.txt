@@ -13,3 +13,4 @@ https://3.grgs.ro/images/products/1/530/1654636/thumbnails/radeon-pro-wx-4100-4g
 9/28/2020 8:05:56 PM 2.184,64 RON
 9/29/2020 9:11:36 PM 2.176,80 RON
 10/4/2020 10:40:36 PM 2.170,17 RON
+10/7/2020 12:15:31 PM 2.160,51 RON

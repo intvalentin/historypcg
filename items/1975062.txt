@@ -14,3 +14,4 @@ https://4.grgs.ro/images/products/1/6472/1975062/thumbnails/radeon-rx-5700-chall
 09/28/2020 17:59:00 2.197,36 RON
 9/29/2020 9:00:45 PM 2.194,94 RON
 10/4/2020 10:32:30 PM 2.180,41 RON
+10/7/2020 12:07:16 PM 2.173,21 RON
