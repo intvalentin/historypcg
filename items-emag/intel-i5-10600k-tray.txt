@@ -7,3 +7,4 @@ Procesor Intel Comet Lake-S Core I5-10600K 6 cores 4.1Ghz (Up to 4.80Ghz) 12MB, 
     Pret    
 10/8/2020 9:50:53 AM 1450
 10/9/2020 6:12:45 PM 1450
+10/10/2020 3:59:01 PM 1450

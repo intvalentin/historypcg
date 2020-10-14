@@ -7,3 +7,4 @@ Procesor Intel® Celeron® G5900 Comet Lake, 3.4GHz, 2MB, Socket 1200
     Pret    
 10/8/2020 9:52:27 AM 221
 10/9/2020 6:13:01 PM 222
+10/10/2020 3:59:17 PM 221

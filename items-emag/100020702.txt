@@ -1,0 +1,11 @@
+    Cod    
+100020702
+    Product link    
+https://www.emag.ro/sistem-pc-tower-maxi640-procesor-intel-core-i5-6400-memorie-16gb-ram-capacitate-stocare-120ssd-2tb-placa-video-gtx1050-black-100020702/pd/D57VP2MBM/
+    Name    
+Sistem PC Tower Maxi640, Procesor Intel Core I5 6400, Memorie 16GB RAM, Capacitate stocare 120SSD+2TB, Placa video GTX1050, Black
+    Pret    
+10/12/2020 10:53:31 AM 3005
+10/12/2020 6:53:54 PM 3005
+10/13/2020 9:33:18 AM 3005
+10/13/2020 10:52:49 PM 3005

@@ -7,3 +7,4 @@ Procesor Intel Core i3-9350KF 4,0 GHz (Coffee Lake) Socket 1151 - box
     Pret    
 10/8/2020 10:02:49 AM 1147
 10/9/2020 6:13:58 PM 1152
+10/10/2020 3:59:58 PM 1161

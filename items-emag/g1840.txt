@@ -7,3 +7,4 @@ Procesor Intel Celeron G1840, 2800MHz, Haswell, 2MB, socket 1150,tray
     Pret    
 10/8/2020 9:57:41 AM 88
 10/9/2020 6:13:01 PM 88
+10/10/2020 3:59:17 PM 88

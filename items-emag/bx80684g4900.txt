@@ -7,3 +7,4 @@ Procesor Intel Celeron® Coffee Lake G4900, 3.10Ghz, 2MB, Socket LGA1151
     Pret    
 10/8/2020 9:58:45 AM 191
 10/9/2020 6:13:18 PM 191
+10/10/2020 3:59:17 PM 191

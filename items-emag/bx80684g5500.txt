@@ -7,3 +7,4 @@ Procesor Intel Pentium® Coffee Lake G5500, 3.80Ghz, 4MB, Socket LGA1151
     Pret    
 10/8/2020 9:51:41 AM 524
 10/9/2020 6:13:58 PM 524
+10/10/2020 3:59:58 PM 524

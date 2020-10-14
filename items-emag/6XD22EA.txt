@@ -8,3 +8,4 @@ Laptop HP EliteBook 830 G6 cu procesor Intel® Core™ i5-8265U pana la 3.90 GHz
 9/26/2020 4:32:20 PM 6269
 9/30/2020 8:27:49 AM 6269
 10/1/2020 11:11:19 PM 6469
+10/14/2020 4:21:44 PM 6499

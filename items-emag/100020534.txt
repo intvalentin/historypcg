@@ -1,0 +1,13 @@
+    Cod    
+100020534
+    Product link    
+https://www.emag.ro/sistem-pc-tower-maxi477-procesor-intel-core-i7-4770-memorie-16gb-ram-capacitate-stocare-512ssd-placa-video-gtx1050-supernova-100020534/pd/DTK9P2MBM/
+    Name    
+Sistem PC Tower Maxi477, Procesor Intel Core I7 4770, Memorie 16GB RAM, Capacitate stocare 512SSD, Placa video GTX1050, Supernova
+    Pret    
+10/12/2020 4:34:25 PM 3299
+10/12/2020 4:34:57 PM 3299
+10/13/2020 8:33:01 AM 3299
+10/13/2020 8:37:33 AM 3299
+10/13/2020 9:51:08 PM 3299
+10/14/2020 8:33:14 AM 3200

@@ -7,3 +7,4 @@ Procesor Intel Pentium G3220, socket 1150,3MB, tray, Haswell
     Pret    
 10/8/2020 9:56:55 AM 132
 10/9/2020 6:12:45 PM 132
+10/10/2020 3:59:01 PM 132

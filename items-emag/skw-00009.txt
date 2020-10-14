@@ -13,3 +13,5 @@ Laptop 2 in 1 Microsoft Surface Book 3 cu procesor Intel Core i7-1065G7 pana la 
 10/1/2020 11:26:17 PM 12899
 10/4/2020 9:07:16 PM 12539
 10/8/2020 8:59:15 AM 12559
+10/14/2020 3:24:09 PM 12559
+10/14/2020 5:03:22 PM 12559

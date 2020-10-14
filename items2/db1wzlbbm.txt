@@ -1,0 +1,1 @@
+adapt-usbc-vga+-+usb3.0+-+pd-wl

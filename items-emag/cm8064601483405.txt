@@ -7,3 +7,4 @@ Procesor Intel Celeron G1820, 2700MHz, Haswell, 2MB, socket 1150,tray
     Pret    
 10/8/2020 9:56:08 AM 84
 10/9/2020 6:12:45 PM 84
+10/10/2020 3:59:01 PM 84

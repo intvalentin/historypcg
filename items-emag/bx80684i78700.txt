@@ -9,3 +9,4 @@ Procesor Intel® Core™ i7-8700 Coffee Lake, 3.2GHz, 12MB, Socket 1151 - Chipse
 10/8/2020 9:47:00 AM 2205
 10/8/2020 9:48:19 AM 2205
 10/9/2020 6:12:13 PM 2205
+10/10/2020 3:59:01 PM 2051

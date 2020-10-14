@@ -14,3 +14,4 @@ Monitor gaming LED TN Acer Nitro 27'', WQHD, DisplayPort, 144Hz, 1ms, FreeSync, 
 10/8/2020 9:06:45 AM 1979
 10/8/2020 9:12:09 AM 2147
 10/8/2020 9:12:28 AM 2147
+10/14/2020 5:12:21 PM 1979

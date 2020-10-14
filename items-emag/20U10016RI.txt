@@ -9,3 +9,5 @@ Laptop ultraportabil Lenovo ThinkPad L14 Gen 1 cu procesor Intel Core i7-10510U 
 9/26/2020 12:59:45 PM 6199
 9/29/2020 9:26:49 PM 6199
 10/1/2020 10:57:59 PM 6199
+10/14/2020 3:23:52 PM 6499
+10/14/2020 3:43:11 PM 6528

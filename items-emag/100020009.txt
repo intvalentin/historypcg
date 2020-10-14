@@ -1,0 +1,12 @@
+    Cod    
+100020009
+    Product link    
+https://www.emag.ro/sistem-pc-tower-maxi240-procesor-i5-3-1ghz-memorie-4gb-ram-capacitate-stocare-512ssd-placa-video-gtx1050-black-100020009/pd/DQCYP2MBM/
+    Name    
+Sistem PC Tower Maxi240, Procesor I5 3.1GHz, Memorie 4GB RAM, Capacitate stocare 512SSD, Placa video GTX1050, Black
+    Pret    
+10/12/2020 6:00:32 PM 1958
+10/12/2020 6:01:41 PM 1958
+10/13/2020 9:24:47 AM 1958
+10/13/2020 9:36:32 AM 1958
+10/14/2020 8:01:52 AM 1899

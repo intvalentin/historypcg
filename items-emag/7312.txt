@@ -7,3 +7,4 @@ Procesor Intel® Celeron® IvyBridge G1620, 2700MHz, socket 1155, 2MB, tray edit
     Pret    
 10/8/2020 9:59:17 AM 99
 10/9/2020 6:12:45 PM 99
+10/10/2020 3:59:01 PM 99

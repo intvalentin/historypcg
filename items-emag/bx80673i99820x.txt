@@ -7,3 +7,4 @@ Procesor Intel® Core™ i9-9820X X-series, 3.30 GHz, 16.5MB, Socket 2066
     Pret    
 10/8/2020 9:54:34 AM 3603
 10/9/2020 6:12:45 PM 3603
+10/10/2020 3:59:01 PM 3603

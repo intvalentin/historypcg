@@ -8,3 +8,4 @@ Procesor Intel® Celeron® G4930, 3.2GHz, 2MB, Socket 1151 - Chipset seria 300
 10/1/2020 7:49:34 AM 182
 10/8/2020 9:50:53 AM 249
 10/9/2020 6:11:32 PM 173
+10/10/2020 3:58:03 PM 173

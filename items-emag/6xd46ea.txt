@@ -13,3 +13,5 @@ Laptop ultraportabil HP EliteBook 840 G6 cu procesor Intel Core i7-8565U pana la
 10/1/2020 11:25:34 PM 5999
 10/4/2020 9:06:03 PM 5999
 10/8/2020 8:58:34 AM 6199
+10/14/2020 3:21:51 PM 6499
+10/14/2020 5:03:22 PM 6499

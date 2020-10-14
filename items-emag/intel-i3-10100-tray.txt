@@ -7,3 +7,4 @@ Procesor Intel Comet Lake-S Core I3-10100 4 cores 3.6Ghz (Up to 4.30Ghz) 6MB, 65
     Pret    
 10/8/2020 9:53:29 AM 646
 10/9/2020 6:12:45 PM 646
+10/10/2020 3:59:01 PM 646

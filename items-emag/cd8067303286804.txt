@@ -7,3 +7,4 @@ Procesor Intel® Core™ i9-7900X, X-Series, 3.3 GHz, 13.75 MB, Socket 2066
     Pret    
 10/8/2020 9:57:26 AM 7115
 10/9/2020 6:12:45 PM 7147
+10/10/2020 3:59:01 PM 7131

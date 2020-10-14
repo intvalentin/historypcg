@@ -1,0 +1,11 @@
+    Cod    
+100020910
+    Product link    
+https://www.emag.ro/sistem-pc-tower-pro710-procesor-intel-core-i3-7100-memorie-16gb-ram-capacitate-stocare-240ssd-placa-video-gtx1650-supernova-case-100020910/pd/DK57J2MBM/
+    Name    
+Sistem PC Tower Pro710, Procesor Intel Core I3 7100, Memorie 16GB RAM, Capacitate stocare 240SSD, Placa video GTX1650, Supernova Case
+    Pret    
+10/11/2020 4:19:16 PM 2865
+10/11/2020 6:55:39 PM 2865
+10/12/2020 8:35:16 AM 2865
+10/13/2020 1:26:23 PM 2865

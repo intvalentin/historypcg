@@ -1,0 +1,1 @@
+camera-exterior-zoom 4x-full hd-ir 60m-dahua

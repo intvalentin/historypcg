@@ -14,3 +14,5 @@ Laptop ultraportabil Lenovo ThinkBook 13s-IWL cu procesor Intel® Core™ i5-826
 10/1/2020 11:26:59 PM 4199
 10/4/2020 9:06:45 PM 4199
 10/8/2020 8:58:18 AM 4299
+10/14/2020 3:19:50 PM 3599
+10/14/2020 5:03:22 PM 3599

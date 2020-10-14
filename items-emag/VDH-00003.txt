@@ -11,3 +11,5 @@ Laptop 2 in 1 Microsoft Surface Pro 7 cu procesor Intel Core i3-1005G1 pana la 3
 9/30/2020 8:33:24 AM 4430
 10/1/2020 11:22:58 PM 4799
 10/1/2020 11:27:41 PM 4799
+10/14/2020 3:14:31 PM 4799
+10/14/2020 5:02:40 PM 4799

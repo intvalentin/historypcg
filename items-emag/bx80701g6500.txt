@@ -7,3 +7,4 @@ Procesor Intel® Pentium® Gold G6500 Comet Lake, 4.1GHz, 4MB, Socket 1200
     Pret    
 10/8/2020 10:03:51 AM 469
 10/9/2020 6:14:14 PM 469
+10/10/2020 4:00:14 PM 469

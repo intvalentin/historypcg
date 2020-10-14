@@ -1,0 +1,10 @@
+    Cod    
+100020500
+    Product link    
+https://www.emag.ro/sistem-pc-tower-pro477-procesor-intel-core-i7-4770-memorie-8gb-ram-capacitate-stocare-512ssd-placa-video-gtx1650-noir-case-100020500/pd/DG07J2MBM/
+    Name    
+Sistem PC Tower Pro477, Procesor Intel Core I7 4770, Memorie 8GB RAM, Capacitate stocare 512SSD, Placa video GTX1650, Noir Case
+    Pret    
+10/11/2020 12:09:44 PM 3000
+10/11/2020 8:25:13 PM 3000
+10/12/2020 10:51:06 AM 3000

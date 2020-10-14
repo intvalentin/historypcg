@@ -1,0 +1,8 @@
+    Cod    
+345
+    Product link    
+https://www.emag.ro/sistem-desktop-pc-cu-procesor-intelr-coretm-i5-2300-2-8ghz-12gb-ram-ddr3-1600mhz-240gb-ssd-500gb-hdd-placa-video-dedicata-nvidia-gt605-1gb-display-port-dvi-adaptor-dvi-vga-dvd-rw-microsoft-windows-10-/pd/DGQFNYMBM/
+    Name    
+Sistem Desktop PC cu procesor Intel® Core™ i5-2300 2.8GHz, 12GB RAM DDR3 1600MHz, 240GB SSD, 500GB HDD, placa video dedicata nVIDIA GT605 1GB (display port + DVI + adaptor DVI-VGA), DVD-RW, Microsoft Windows 10 Pro, negru
+    Pret    
+10/10/2020 2:48:25 PM 1970

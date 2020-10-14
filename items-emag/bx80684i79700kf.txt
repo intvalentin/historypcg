@@ -11,3 +11,4 @@ Procesor Intel Core i7-9700KF, 3.6 GHz, 12MB, fara grafica integrata, Socket 115
 10/8/2020 9:46:02 AM 1961
 10/8/2020 9:48:19 AM 1961
 10/9/2020 6:11:32 PM 1900
+10/10/2020 3:58:03 PM 1900

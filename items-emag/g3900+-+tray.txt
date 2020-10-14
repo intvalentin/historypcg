@@ -7,3 +7,4 @@ Procesor Intel® Celeron™ G3900, 2.80GHz, Skylake, 2MB, socket 1151,tray
     Pret    
 10/8/2020 9:56:39 AM 209
 10/9/2020 6:12:45 PM 209
+10/10/2020 3:59:01 PM 209

@@ -10,3 +10,4 @@ Laptop Lenovo ThinkBook 15-IIL cu procesor Intel® Core™ i7-1065G7 pana la 3.9
 9/29/2020 5:58:26 PM 3999
 9/29/2020 8:10:25 PM 3999
 10/1/2020 10:24:08 PM 3999
+10/14/2020 4:20:07 PM 7805

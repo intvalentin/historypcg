@@ -7,3 +7,5 @@ Procesor Intel® Pentium® IvyBridge G2020, 2900MHz, socket 1155, tray,3MB, CM80
     Pret    
 10/8/2020 9:54:00 AM 80
 10/9/2020 6:12:45 PM 80
+10/10/2020 3:59:01 PM 80
+10/10/2020 10:00:34 PM 136

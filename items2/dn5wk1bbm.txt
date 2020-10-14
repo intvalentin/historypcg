@@ -1,0 +1,1 @@
+minidisplayport(m)-displayport(f)

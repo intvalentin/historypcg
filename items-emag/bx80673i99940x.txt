@@ -7,3 +7,4 @@ Procesor Intel® Core™ i9-9940X X-series, 3.30 GHz, 19.25MB, Socket 2066
     Pret    
 10/8/2020 10:02:33 AM 5028
 10/9/2020 6:13:58 PM 5028
+10/10/2020 3:59:58 PM 5028

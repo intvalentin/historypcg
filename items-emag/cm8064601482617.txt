@@ -7,3 +7,4 @@ Procesor Intel® Celeron® Haswell G1820T, 2400MHz, socket 1150, 2MB, 35W, tray 
     Pret    
 10/8/2020 9:54:15 AM 104
 10/9/2020 6:12:45 PM 104
+10/10/2020 3:59:01 PM 104

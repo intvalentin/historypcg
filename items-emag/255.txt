@@ -1,0 +1,11 @@
+    Cod    
+255
+    Product link    
+https://www.emag.ro/pachet-sistem-desktop-pc-cu-procesor-intelr-coretm-i5-2300-2-80-ghz-4gb-ram-ddr3-240gb-ssd-1tb-hdd-intelr-hd-graphics-2000-microsoft-windows-10-pro-negru-mouse-wireless-hama-am-8000-255/pd/DX438QBBM/
+    Name    
+Pachet Sistem desktop PC cu procesor Intel® Core™ i5 - 2300 2.80 GHz, 4GB RAM DDR3, 240GB SSD, 1TB HDD, Intel® HD Graphics 2000, Microsoft Windows 10 Pro, negru + Mouse wireless Hama AM-8000
+    Pret    
+10/11/2020 1:08:58 PM 1865
+10/12/2020 10:07:45 PM 1865
+10/12/2020 10:08:27 PM 1865
+10/14/2020 3:19:43 PM 99

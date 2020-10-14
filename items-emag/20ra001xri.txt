@@ -13,3 +13,5 @@ Laptop ultraportabil Lenovo ThinkPad E14, cu procesor Intel Core i5-10210U pana 
 9/30/2020 9:46:55 AM 4099
 10/1/2020 11:02:24 PM 5260
 10/1/2020 11:07:39 PM 5872
+10/14/2020 3:34:13 PM 5845
+10/14/2020 4:09:36 PM 5264
