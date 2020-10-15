@@ -9,3 +9,4 @@ Program administrare asociatii de proprietari - XiSoft - BlocManagerNET - 1000 A
 10/3/2020 9:52:17 AM 1451
 10/5/2020 12:01:14 AM 1451
 10/8/2020 11:55:17 AM 1451
+10/15/2020 11:58:05 AM 1451

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nwg
 1777640
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/arctic-cooling/mx-4-2019-edition-4g/
@@ -8,3 +8,4 @@ ARCTIC AC MX-4, 2019 Edition, 4g
 https://3.grgs.ro/images/products/1/761/1777640/thumbnails/mx-4-4g-2019-edition-2cc7ed2c177c17edc1d6c79faae1a473.jpg
     Pret    
 9/26/2020 9:21:00 AM 36,05 RON
+10/15/2020 3:11:17 PM 36,05 RON

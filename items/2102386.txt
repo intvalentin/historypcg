@@ -1,0 +1,10 @@
+    Cod    |nx.hysex.003
+2102386
+    Product link    
+https://www.pcgarage.ro/ultrabook/acer/14-swift-1-sf114-33-fhd-ips-procesor-intel-celeron-n4120-4m-cache-up-to-260-ghz-8gb-ddr4-256gb-ssd-gma-uhd-600-no-os-pure-silver/
+    Name    
+Ultrabook Acer 14&#039;&#039; Swift 1 SF114-33, FHD IPS, Procesor Intel® Celeron® N4120 (4M Cache, up to 2.60 GHz), 8GB DDR4, 256GB SSD, GMA UHD 600, No OS, Pure Silver
+    Img url    
+https://4.grgs.ro/images/products/1/9507/2102386/thumbnails/14-swift-1-sf114-33-fhd-ips-procesor-intel-celeron-n4120-4m-cache-up-to-260-ghz-8gb-ddr4-256gb-ssd-gma-uhd-600-no-os-pure-silver-457c1494b2f6a00de03d92493be4e211.jpg
+    Pret    
+10/15/2020 8:57:11 AM 2.249,99 RON

@@ -8,3 +8,4 @@ Tenable.io - software pentru managementul vulnerabilitatilor infrastructurii IT,
 10/3/2020 9:37:45 AM 12990
 10/5/2020 12:00:32 AM 12990
 10/8/2020 11:53:52 AM 12990
+10/15/2020 11:58:05 AM 12990

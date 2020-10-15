@@ -8,3 +8,4 @@ API Detectare Temperatura Pe Imagine Termica
 10/2/2020 8:42:04 PM 423
 10/4/2020 11:28:50 PM 423
 10/8/2020 11:45:28 AM 423
+10/15/2020 11:56:25 AM 423

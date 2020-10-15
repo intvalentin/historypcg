@@ -10,3 +10,4 @@ Monitor LED Benq, 32'', Wide, QHD, DVI, HDMI, Display Port, mini Display Port, N
 10/4/2020 9:22:03 PM 2349
 10/8/2020 9:14:04 AM 2349
 10/8/2020 9:14:05 AM 2349
+10/15/2020 9:27:24 AM 2439

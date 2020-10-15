@@ -9,3 +9,4 @@ Laptop Lenovo ThinkPad P53 cu procesor Intel® Core™ i9-9880H pana la 4.80 GHz
 9/29/2020 9:12:01 PM 23937
 9/29/2020 9:40:56 PM 23937
 10/14/2020 3:35:41 PM 23973
+10/15/2020 8:56:58 AM 23973

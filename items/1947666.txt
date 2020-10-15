@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |cl-w151-cu00bl-a
 1947666
     Product link    
 https://www.pcgarage.ro/watercooling/thermaltake/pacific-temperature-sensor/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6166/1947666/thumbnails/pacific-temperature-
     Pret    
 9/24/2020 6:55:25 PM 222,24 RON
 9/26/2020 9:57:03 AM 222,19 RON
+10/15/2020 4:24:03 PM 220,56 RON

@@ -16,3 +16,5 @@ Laptop 2 in 1 HP Elite Dragonfly cu procesor Intel® Core™ i5-8265U pana la 3.
 10/8/2020 8:59:31 AM 9499
 10/14/2020 3:27:41 PM 9999
 10/14/2020 5:04:03 PM 9999
+10/15/2020 8:56:17 AM 9999
+10/15/2020 9:13:18 AM 9999

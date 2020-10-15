@@ -10,3 +10,4 @@ Placa de baza Gigabyte J1800N-D2H cu procesor integrat Intel Celeron J1800 2.41G
 10/8/2020 9:40:14 AM 414
 10/8/2020 9:40:17 AM 414
 10/9/2020 6:31:38 PM 416
+10/15/2020 9:56:04 AM 417

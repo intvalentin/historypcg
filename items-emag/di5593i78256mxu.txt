@@ -12,3 +12,4 @@ Laptop Dell Inspiron 5593 cu procesor Intel® Core™ i7-1065G7 pana la 3.90 GHz
 10/1/2020 10:25:48 PM 3699
 10/1/2020 10:44:20 PM 4384
 10/14/2020 4:56:52 PM 3699
+10/15/2020 9:07:55 AM 3699

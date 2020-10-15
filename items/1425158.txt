@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dp-z5-2
 1425158
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/deepcool/z5-new-3-grame/
@@ -8,3 +8,4 @@ Deepcool Z5 NEW 3 grame
 https://5.grgs.ro/images/products/1/960827/1425158/thumbnails/z5-new-3-grame-e233abe777d736eeb515010482bd4294.jpg
     Pret    
 9/21/2020 7:55:38 AM 19,87 RON
+10/15/2020 3:09:11 PM 20,16 RON

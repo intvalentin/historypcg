@@ -11,3 +11,4 @@ Monitor LED TN Benq 27.9'', 4K UHD, DisplayPort, FreeSync, Vesa, Argintiu
 10/8/2020 9:13:06 AM 1454
 10/8/2020 9:13:09 AM 1454
 10/14/2020 5:11:07 PM 1649
+10/15/2020 9:31:33 AM 1477

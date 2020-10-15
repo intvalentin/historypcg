@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |nx.vlhex.005
 2083990
     Product link    
 https://www.pcgarage.ro/notebook-laptop/acer/14-travelmate-p2-tmp214-52-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-black/
@@ -8,3 +8,4 @@ Acer 14&#039;&#039; TravelMate P2 TMP214-52, FHD, Procesor Intel® Core™ i5-10
 https://4.grgs.ro/images/products/1/3354/2083990/thumbnails/14-travelmate-p2-tmp214-52-fhd-procesor-intel-core-i5-10210u-6m-cache-up-to-420-ghz-8gb-ddr4-256gb-ssd-gma-uhd-no-os-black-88ac5ecb96887afd42a5e491b8f7c3cc.jpg
     Pret    
 9/20/2020 11:01:03 PM 3.599,99 RON
+10/15/2020 9:34:53 AM 2.988,09 RON

@@ -1,0 +1,8 @@
+    Cod    
+v1m10 db
+    Product link    
+https://www.emag.ro/tableta-vonino-magnet-m10-10-1-quad-core-1-3-ghz-2gb-ram-16gb-3g-dark-blue-v1m10-db/pd/DXS8N1BBM/
+    Name    
+Tableta Vonino Magnet M10, 10.1'', Quad Core 1.3 GHz, 2GB RAM, 16GB, 3G, Dark Blue
+    Pret    
+10/15/2020 5:24:31 PM 499

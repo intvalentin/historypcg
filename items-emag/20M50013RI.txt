@@ -14,3 +14,5 @@ Laptop ultraportabil Lenovo ThinkPad L380 cu procesor Intel® Core™ i5-8250U p
 10/4/2020 9:04:50 PM 4999
 10/14/2020 3:21:51 PM 4939
 10/14/2020 5:03:22 PM 4939
+10/15/2020 9:01:11 AM 5680
+10/15/2020 9:12:37 AM 4939

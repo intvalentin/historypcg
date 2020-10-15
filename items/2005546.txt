@@ -14,3 +14,4 @@ https://5.grgs.ro/images/products/1/6472/2005546/thumbnails/radeon-rx-5700-evoke
 9/29/2020 9:00:45 PM 2.150,82 RON
 10/4/2020 10:32:30 PM 2.136,58 RON
 10/7/2020 12:07:16 PM 2.129,54 RON
+10/15/2020 10:37:11 AM 2.125,99 RON

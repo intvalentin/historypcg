@@ -13,3 +13,5 @@ Laptop ultraportabil Lenovo ThinkPad X1 Carbon 7th Gen cu procesor IntelÂ® Coreâ
 10/1/2020 11:09:07 PM 9999
 10/14/2020 4:07:04 PM 9025
 10/14/2020 4:25:22 PM 13564
+10/15/2020 8:59:47 AM 9025
+10/15/2020 9:05:44 AM 13564

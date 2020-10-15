@@ -12,3 +12,4 @@ Procesor Intel® Core™ i3-9100F Coffee Lake, 3.60GHz, 6MB, fara grafica integr
 10/8/2020 9:48:19 AM 345
 10/9/2020 6:11:31 PM 345
 10/10/2020 3:58:03 PM 345
+10/15/2020 10:01:04 AM 345

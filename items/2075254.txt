@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mie0190
 2075254
     Product link    
 https://www.pcgarage.ro/unelte/uni-t/multimetru-digital-ut256b/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/4525/2075254/thumbnails/multimetru-digital-u
     Pret    
 9/24/2020 6:56:50 PM 329,45 RON
 9/26/2020 9:58:28 AM 329,45 RON
+10/15/2020 4:27:05 PM 329,45 RON

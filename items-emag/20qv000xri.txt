@@ -8,3 +8,5 @@ Ultrabook Lenovo ThinkPad X1 Extreme generatia 2 , Intel Core Coffee Lake (9th G
 10/14/2020 3:43:27 PM 17535
 10/14/2020 3:56:26 PM 16501
 10/14/2020 4:20:23 PM 19415
+10/15/2020 8:59:47 AM 16501
+10/15/2020 9:05:27 AM 19415

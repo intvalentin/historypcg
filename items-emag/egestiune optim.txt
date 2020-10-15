@@ -8,3 +8,4 @@ Program de gestiune / facturare eGestiune Optim, Subscriptie 1 an, 1 Server + 2 
 10/2/2020 8:15:25 PM 1190
 10/4/2020 11:25:50 PM 1190
 10/8/2020 11:53:52 AM 1190
+10/15/2020 11:58:47 AM 1190

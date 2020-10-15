@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |silicon 700
 1927934
     Product link    
 https://www.pcgarage.ro/pasta-termoconductoare/genesis/silicon-700/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6622/1927934/thumbnails/silicon-700-5f3532ef
     Pret    
 9/24/2020 6:13:17 PM 35,56 RON
 9/26/2020 9:21:00 AM 35,56 RON
+10/15/2020 3:11:01 PM 35,56 RON

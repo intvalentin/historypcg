@@ -10,3 +10,4 @@ Laptop 2 in1 Lenovo IdeaPad Flex 3 11IGL05 cu procesor Intel® Celeron® N4120, 
 10/1/2020 11:18:59 PM 2399
 10/14/2020 4:33:42 PM 2399
 10/14/2020 5:01:02 PM 2399
+10/15/2020 8:50:47 AM 2399

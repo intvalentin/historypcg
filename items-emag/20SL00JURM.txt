@@ -13,3 +13,5 @@ Laptop ultraportabil Lenovo ThinkBook 14 IIL cu procesor Intel Core i5-1035G4 pa
 10/1/2020 11:05:39 PM 4056
 10/14/2020 3:09:44 PM 3699
 10/14/2020 3:36:43 PM 3749
+10/15/2020 8:54:05 AM 3699
+10/15/2020 8:58:23 AM 3749

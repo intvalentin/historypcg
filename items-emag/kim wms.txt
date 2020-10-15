@@ -8,3 +8,4 @@ Sistem complet gestiune depozit, KIM WMS - Standard, Subscriptie 1 an, 5 utiliza
 10/2/2020 8:09:56 PM 13090
 10/4/2020 11:21:58 PM 13090
 10/8/2020 11:43:48 AM 13090
+10/15/2020 11:58:05 AM 13090

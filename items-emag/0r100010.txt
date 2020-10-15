@@ -8,3 +8,4 @@ Cooler CPU Raijintek THEMIS Black, Ventilator PWM 120 mm, 3 x 8mm heat-pipe
 10/2/2020 2:08:18 PM 206
 10/4/2020 11:03:18 PM 242
 10/8/2020 11:16:11 AM 242
+10/15/2020 11:29:43 AM 208

@@ -8,3 +8,4 @@ Sursa alimentare PSU be quiet! System Power 9 - 500W, 80Plus Bronze
 10/2/2020 6:01:00 PM 292
 10/4/2020 11:14:33 PM 296
 10/8/2020 11:33:34 AM 295
+10/15/2020 11:44:03 AM 301

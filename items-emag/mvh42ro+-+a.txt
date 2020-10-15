@@ -10,3 +10,4 @@ Laptop Apple MacBook Air 13 (2020) ecran Retina, procesor Intel® Core™ i5 1.1
 9/29/2020 8:12:13 PM 7499
 10/1/2020 10:38:46 PM 7499
 10/14/2020 3:20:06 PM 7299
+10/15/2020 8:53:24 AM 7299

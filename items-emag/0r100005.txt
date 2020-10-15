@@ -8,3 +8,4 @@ Cooler CPU Raijintek RHEA, Ventilator PWM 92 mm, 3 x 6mm heat-pipe
 10/2/2020 2:07:15 PM 152
 10/4/2020 11:02:37 PM 154
 10/8/2020 11:15:55 AM 153
+10/15/2020 11:28:30 AM 140

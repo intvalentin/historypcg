@@ -15,3 +15,5 @@ Laptop Lenovo ThinkPad X1 Yoga cu procesor Intel Core i5-8250U pana la 3.40 Ghz,
 10/8/2020 8:58:34 AM 8799
 10/14/2020 3:27:42 PM 9499
 10/14/2020 5:04:04 PM 9499
+10/15/2020 8:55:45 AM 9499
+10/15/2020 9:13:18 AM 9499

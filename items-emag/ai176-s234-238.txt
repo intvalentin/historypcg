@@ -11,3 +11,4 @@ Placa de baza Raspberry Pi 4, Model B, 4 Gb, Kit de start
 10/8/2020 9:37:53 AM 499
 10/8/2020 9:37:57 AM 499
 10/9/2020 6:28:10 PM 499
+10/15/2020 9:53:10 AM 499

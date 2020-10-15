@@ -13,3 +13,4 @@ Laptop 2 in 1 Microsoft Surface Pro 7 cu procesor Intel Core i5-1035G4 pana la 3
 10/1/2020 10:32:30 PM 6099
 10/1/2020 11:25:34 PM 6099
 10/14/2020 4:09:05 PM 7705
+10/15/2020 8:59:05 AM 7705

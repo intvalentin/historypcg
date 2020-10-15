@@ -11,3 +11,4 @@ Monitor LED IPS Dell 31.5'', Wide, 8K, 6 ms, Display Port, Flicker-free, Negru, 
 10/8/2020 9:08:24 AM 20031
 10/8/2020 9:09:02 AM 20031
 10/14/2020 5:11:07 PM 22997
+10/15/2020 9:19:35 AM 23152

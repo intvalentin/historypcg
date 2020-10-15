@@ -8,3 +8,4 @@ Software Magazin UnityRetail - Vanzare Fara Gestiune Stocuri
 10/2/2020 8:09:24 PM 600
 10/4/2020 11:35:08 PM 600
 10/8/2020 11:43:48 AM 600
+10/15/2020 11:51:25 AM 600

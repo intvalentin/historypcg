@@ -8,3 +8,4 @@ Cooler Procesor Deepcool Ck-11508 compatibil Intel
 10/2/2020 1:00:50 PM 40
 10/4/2020 10:57:46 PM 40
 10/8/2020 11:11:15 AM 40
+10/15/2020 11:22:46 AM 25

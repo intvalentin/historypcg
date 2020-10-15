@@ -9,3 +9,4 @@ Laptop Lenovo IdeaPad Creator 5 15IMH05 cu procesor Intel® Core™ i7-10750H, 1
 9/29/2020 7:28:14 PM 5599
 10/1/2020 10:29:16 PM 5599
 10/14/2020 3:06:42 PM 5799
+10/15/2020 8:50:05 AM 5799

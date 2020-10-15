@@ -8,3 +8,4 @@ Laptop Dell Inspiron 15 3593 cu procesor Intel Core i7-1065G7 pana la 3.90 GHz, 
 9/30/2020 8:37:44 AM 3799
 10/1/2020 10:38:46 PM 3799
 10/14/2020 3:08:00 PM 3999
+10/15/2020 8:51:44 AM 3999

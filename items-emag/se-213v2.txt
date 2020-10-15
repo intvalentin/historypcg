@@ -8,3 +8,4 @@ Cooler Procesor ID-Cooling SE-213-V2, compatibil Intel/AMD
 10/2/2020 11:59:51 AM 75
 10/4/2020 10:57:03 PM 75
 10/8/2020 11:14:57 AM 85
+10/15/2020 11:20:49 AM 75

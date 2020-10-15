@@ -8,3 +8,4 @@ Cooler Procesor ID-Cooling DK-03 compatibil Intel/AMD
 10/2/2020 12:39:57 PM 36
 10/4/2020 10:57:46 PM 36
 10/8/2020 11:10:02 AM 34
+10/15/2020 11:22:46 AM 34

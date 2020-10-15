@@ -10,3 +10,4 @@ Monitor LED IPS Lenovo, 23.8'', 75 Hz, 4 ms ,HDMI+USB Type-C 3-side borderless w
 10/4/2020 9:12:15 PM 999
 10/8/2020 9:04:48 AM 1099
 10/14/2020 5:10:25 PM 1099
+10/15/2020 9:18:10 AM 1099

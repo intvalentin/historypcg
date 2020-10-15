@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mie0191
 1969110
     Product link    
 https://www.pcgarage.ro/unelte/uni-t/multimetru-digital-ut171b/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8977/1969110/thumbnails/multimetru-digital-u
     Pret    
 9/24/2020 6:56:51 PM 1.127,76 RON
 9/26/2020 9:58:28 AM 1.127,76 RON
+10/15/2020 4:28:26 PM 1.127,76 RON

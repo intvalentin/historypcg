@@ -14,3 +14,4 @@ https://3.grgs.ro/images/products/1/1508470/1584594/thumbnails/nvidia-quadro-p10
 9/29/2020 9:11:36 PM 1.862,10 RON
 10/4/2020 10:40:36 PM 1.849,77 RON
 10/7/2020 12:15:31 PM 1.843,69 RON
+10/15/2020 10:56:42 AM 1.840,60 RON
