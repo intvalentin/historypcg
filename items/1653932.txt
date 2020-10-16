@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx806736148
 1653932
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-gold-6148-24ghz-box/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1649828/1653932/thumbnails/xeon-gold-6128-34
     Pret    
 9/25/2020 2:25:33 PM 18.957,78 RON
 9/26/2020 4:46:34 PM 18.953,71 RON
+10/16/2020 1:36:23 PM 18.838,29 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |emery-oj-amb
 2063170
     Product link    
 https://www.pcgarage.ro/ochelari-gaming/gunnar/emery-onyx-jasper/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6954/2063170/thumbnails/emery-onyx-jasper-d8
     Pret    
 9/25/2020 8:55:57 AM 359,99 RON
 9/26/2020 1:25:19 PM 359,99 RON
+10/16/2020 8:46:46 AM 359,99 RON

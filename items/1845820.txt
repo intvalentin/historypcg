@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus188-a0e0154b6be71a63c35984f589cedc53
 1845820
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-rog-g501vw-varianta-extinsa/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1054/1845820/thumbnails/baterie-laptop-asus-
 9/20/2020 11:14:30 PM 313,98 RON
 9/25/2020 3:07:43 PM 319,98 RON
 9/26/2020 5:35:32 PM 319,98 RON
+10/16/2020 2:23:50 PM 317,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pa5116e-3prp
 2075630
     Product link    
 https://www.pcgarage.ro/docking-stations/toshiba/replicator-iii-hi-speed-cu-balance-block-120w/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4525/2075630/thumbnails/replicator-iii-hi-sp
     Pret    
 9/25/2020 8:46:19 PM 1.296,98 RON
 9/26/2020 10:45:47 PM 1.297,98 RON
+10/16/2020 2:29:27 PM 1.296,98 RON

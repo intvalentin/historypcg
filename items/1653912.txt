@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx806734114
 1653912
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-silver-4114-22ghz-box/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/530/1653912/thumbnails/xeon-silver-4110-21gh
     Pret    
 9/25/2020 2:25:33 PM 4.039,39 RON
 9/26/2020 4:46:35 PM 4.038,52 RON
+10/16/2020 1:36:55 PM 4.013,93 RON

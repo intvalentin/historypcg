@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pa5281e-2prp
 2075626
     Product link    
 https://www.pcgarage.ro/docking-stations/toshiba/thunderbolt-3-dock-1/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4525/2075626/thumbnails/thunderbolt-3-dock-1
     Pret    
 9/25/2020 8:46:19 PM 1.815,98 RON
 9/26/2020 10:45:47 PM 1.816,98 RON
+10/16/2020 2:29:43 PM 1.815,98 RON

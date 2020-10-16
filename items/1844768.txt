@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dt-10w
 1844768
     Product link    
 https://www.pcgarage.ro/incarcatoare-wireless-gsm/nokia/dt-10w-wireless-qi-midnight-blue/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1844684/1844768/thumbnails/dt-10w-wireless-q
     Pret    
 9/25/2020 9:43:00 AM 252,21 RON
 9/26/2020 2:11:08 PM 252,35 RON
+10/16/2020 9:43:52 AM 252,28 RON

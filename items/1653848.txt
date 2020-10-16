@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bx806735120
 1653848
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-gold-5120-22ghz-box/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1649828/1653848/thumbnails/xeon-gold-6128-34
     Pret    
 9/25/2020 2:25:33 PM 9.614,18 RON
 9/26/2020 4:46:35 PM 9.612,11 RON
+10/16/2020 1:37:27 PM 9.553,58 RON

@@ -7,3 +7,4 @@ Smartwatch Skmei, Alarma, Pedometru, Calorii, Distanta,Sport, Bluetooth, Digital
     Pret    
 10/11/2020 4:19:09 PM 120
 10/13/2020 9:57:51 PM 29
+10/16/2020 11:43:32 AM 120

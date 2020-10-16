@@ -12,3 +12,5 @@ Program CIEL Imobilizari V7 monopst, o singura statie cu asistenta instalare si 
 10/15/2020 11:56:25 AM 714
 10/15/2020 4:19:42 PM 86
 10/15/2020 5:51:34 PM 99
+10/16/2020 9:20:27 AM 89
+10/16/2020 10:11:16 AM 127

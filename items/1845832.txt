@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus188-906d1d0f6916d96e1aa2f502be6fb808
 1845832
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-zenbook-pro-ux501vw-varianta-extinsa/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1844684/1845832/thumbnails/baterie-laptop-as
 9/20/2020 11:14:30 PM 313,98 RON
 9/25/2020 3:07:43 PM 319,98 RON
 9/26/2020 5:35:32 PM 319,98 RON
+10/16/2020 2:23:02 PM 317,98 RON

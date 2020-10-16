@@ -6,3 +6,4 @@ https://www.emag.ro/senzor-inteligent-de-temperatura-si-umiditate-sonoff-zigbee-
 Senzor inteligent de temperatura si umiditate Sonoff Zigbee SNZB-02
     Pret    
 10/12/2020 9:41:42 PM 82
+10/16/2020 1:35:49 PM 78

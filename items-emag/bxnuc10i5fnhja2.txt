@@ -6,3 +6,4 @@ https://www.emag.ro/mini-pc-intel-r-nuc-10-frost-canyon-nuc10i5fnhja2-cu-proceso
 Mini PC Intel(r) NUC 10 Frost Canyon NUC10I5FNHJA2 cu procesor Intel(r) Core(tm) i5-10210U pana la 4.10 GHz, Comet Lake, 8GB DDR4, 16GB Intel Optane + 1TB HDD, Intel(r) UHD Graphics, Microsoft Windows 10 Home
     Pret    
 10/9/2020 7:22:13 PM 3099
+10/16/2020 5:36:22 PM 3099

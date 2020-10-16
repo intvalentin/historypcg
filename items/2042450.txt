@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000034525
 2042450
     Product link    
 https://www.pcgarage.ro/procesoare-server/intel/xeon-sixteen-core-silver-4216-21ghz/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1034/2042450/thumbnails/xeon-twelve-core-sil
     Pret    
 9/25/2020 2:24:50 PM 9.653,62 RON
 9/26/2020 4:45:50 PM 9.659,17 RON
+10/16/2020 1:33:46 PM 9.656,40 RON

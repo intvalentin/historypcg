@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1000028716, 40ah0135eu
 1868466
     Product link    
 https://www.pcgarage.ro/docking-stations/lenovo/thinkpad-pro-dock-135w/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/7399/1868466/thumbnails/thinkpad-pro-dock-be
     Pret    
 9/25/2020 8:47:04 PM 1.157,98 RON
 9/26/2020 10:46:34 PM 1.157,98 RON
+10/16/2020 2:30:42 PM 1.157,98 RON
