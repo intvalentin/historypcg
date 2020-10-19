@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jma704da
 1732712
     Product link    
 https://www.pcgarage.ro/obiective/nikon/z-24-70mm-f-4-s-nikkor/
@@ -8,3 +8,4 @@ Nikon Z 24-70mm f/4 S NIKKOR
 https://1.grgs.ro/images/products/1/1723568/1732712/thumbnails/z-24-70mm-f-4-s-nikkor-2690d89990f3cc482ae54327fa5024c4.jpg
     Pret    
 9/26/2020 7:12:36 PM 5.299,00 RON
+10/19/2020 11:29:47 AM 5.299,00 RON

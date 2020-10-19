@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc414104
 1414950
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/vaselina-litiu-plus-mos2-100ml/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1363661/1414950/thumbnails/vaselina-litiu-pl
     Pret    
 9/23/2020 10:51:49 AM 17,98 RON
 9/27/2020 4:09:52 PM 17,98 RON
+10/19/2020 6:17:14 PM 17,98 RON

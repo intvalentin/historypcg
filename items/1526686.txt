@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa831da
 1526686
     Product link    
 https://www.pcgarage.ro/obiective/nikon/8-15mm-f-35-45e-ed-af-s-nikkor/
@@ -8,3 +8,4 @@ Nikon 8-15mm f/3.5-4.5E ED AF-S NIKKOR
 https://2.grgs.ro/images/products/1/1363661/1526686/thumbnails/8-15mm-f-35-45e-ed-af-s-nikkor-2a776f4717d4e5da4a32f8cafeba8e36.jpg
     Pret    
 9/26/2020 7:12:36 PM 6.999,00 RON
+10/19/2020 11:30:19 AM 6.999,00 RON

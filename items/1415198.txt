@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc550141
 1415198
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/pasta-montaj-evacuare-150gr/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1052635/1415198/thumbnails/pasta-montaj-evac
     Pret    
 9/23/2020 10:51:49 AM 21,98 RON
 9/27/2020 4:09:10 PM 21,98 RON
+10/19/2020 6:15:52 PM 21,98 RON

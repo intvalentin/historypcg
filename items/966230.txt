@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ltr-pc-500
 966230
     Product link    
 https://www.pcgarage.ro/curatare-amp-intretinere-piele/leatherique/leatherique-prestine-clean-500ml-intretinere-auto/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1408706/966230/thumbnails/solutie-curatare-p
     Pret    
 9/23/2020 10:45:13 AM 77,39 RON
 9/27/2020 4:06:13 PM 77,39 RON
+10/19/2020 5:53:56 PM 77,39 RON

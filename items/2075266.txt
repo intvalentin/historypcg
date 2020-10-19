@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |02105-002
 2075266
     Product link    
 https://www.pcgarage.ro/video-recorder/axis/s3008-2tb-8-canale/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4525/2075266/thumbnails/s3008-2tb-8-canale-6
     Pret    
 9/26/2020 4:37:31 PM 3.993,90 RON
 9/27/2020 8:41:12 PM 3.996,18 RON
+10/18/2020 6:20:15 PM 3.995,13 RON

@@ -1,0 +1,10 @@
+    Cod    |udm
+2104838
+    Product link    
+https://www.pcgarage.ro/routere-wireless/ubiquiti-networks/gigabit-unifi-dream-machine-dual-band/
+    Name    
+Router wireless Ubiquiti Gigabit UniFi Dream Machine Dual-Band
+    Img url    
+https://4.grgs.ro/images/products/1/6412/2104838/thumbnails/unifi-dream-machine-503eee2eadeabf0cf7b40653ebf10df2.jpg
+    Pret    
+10/18/2020 3:35:58 PM 1.501,47 RON

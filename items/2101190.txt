@@ -1,0 +1,10 @@
+    Cod    |rm433-base
+2101190
+    Product link    
+https://www.pcgarage.ro/telecomenzi/sonoff/suport-perete-pentru-telecomanda-rm433/
+    Name    
+Telecomanda Sonoff Suport perete pentru telecomanda RM433
+    Img url    
+https://1.grgs.ro/images/products/1/9507/2101190/thumbnails/suport-perete-pentru-telecomanda-rm433-43a0b917e59d94a6a221e8f782bdd67f.jpg
+    Pret    
+10/19/2020 3:15:00 PM 21,61 RON

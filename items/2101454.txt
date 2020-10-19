@@ -1,0 +1,10 @@
+    Cod    |sonoff th10
+2101454
+    Product link    
+https://www.pcgarage.ro/relee-wi-fi/sonoff/releu-pentru-temperatura-si-umiditate-th10/
+    Name    
+Releu Sonoff Releu pentru temperatura si umiditate TH10
+    Img url    
+https://1.grgs.ro/images/products/1/9507/2101454/thumbnails/releu-pentru-temperatura-si-umiditate-th10-2578409404ee55472944f97272ece71e.jpg
+    Pret    
+10/19/2020 3:30:22 PM 70,20 RON

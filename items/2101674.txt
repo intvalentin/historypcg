@@ -1,0 +1,10 @@
+    Cod    |sonoff g1
+2101674
+    Product link    
+https://www.pcgarage.ro/relee-wi-fi/sonoff/releu-wi-fi-g1-automatizat-gsm/
+    Name    
+Releu Sonoff Releu Wi-fi G1 automatizat GSM
+    Img url    
+https://4.grgs.ro/images/products/1/9507/2101674/thumbnails/releu-wi-fi-g1-automatizat-gsm-864202f8bb269d365a85df8ae5d2ed5c.jpg
+    Pret    
+10/19/2020 3:31:42 PM 162,00 RON

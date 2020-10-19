@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |901012, 5529052
 1099573
     Product link    
 https://www.pcgarage.ro/intretinere-metal/autosol/metal-polish/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/960827/1099573/thumbnails/metal-polish-d98f4
 9/23/2020 10:53:58 AM 27,98 RON
 9/23/2020 11:03:07 AM 27,98 RON
 9/27/2020 4:10:37 PM 27,98 RON
+10/19/2020 6:26:30 PM 25,98 RON

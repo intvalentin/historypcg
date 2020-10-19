@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fc6409+-+01
 1826776
     Product link    
 https://www.pcgarage.ro/aspiratoare/philips/fc6409-01-3-in-i/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1821372/1826776/thumbnails/fc6409-01-3-in-i-
     Pret    
 9/23/2020 12:28:10 PM 1.349,99 RON
 9/27/2020 4:24:01 PM 1.349,99 RON
+10/19/2020 7:08:29 PM 1.349,99 RON

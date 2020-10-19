@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |da1000br
 1968366
     Product link    
 https://www.pcgarage.ro/storcatoare/oscar/da1000br/
@@ -8,3 +8,4 @@ Oscar DA1000BR
 https://3.grgs.ro/images/products/1/8977/1968366/thumbnails/da1000br-bd7a336505beded50c33c30b788d60ac.jpg
     Pret    
 9/26/2020 8:40:38 PM 1.199,00 RON
+10/19/2020 2:16:35 PM 1.199,00 RON

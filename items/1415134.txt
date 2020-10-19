@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc413143
 1415134
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/vaselina-temperaturi-inalte-400gr/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/931142/1415134/thumbnails/vaselina-temperatu
     Pret    
 9/23/2020 10:51:49 AM 53,98 RON
 9/27/2020 4:09:10 PM 53,98 RON
+10/19/2020 6:16:08 PM 53,98 RON

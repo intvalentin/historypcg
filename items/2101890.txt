@@ -1,0 +1,10 @@
+    Cod    |sonoff si7021
+2101890
+    Product link    
+https://www.pcgarage.ro/senzori-smart/sonoff/senzor-de-temperatura-si-umiditate-si7021/
+    Name    
+Sonoff Senzor de temperatura si umiditate SI7021
+    Img url    
+https://5.grgs.ro/images/products/1/9507/2101890/thumbnails/senzor-de-temperatura-si-umiditate-si7021-4d229ffe5c33bc2339a6c8cc203db948.jpg
+    Pret    
+10/19/2020 3:34:31 PM 39,95 RON

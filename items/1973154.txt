@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp5304
 1973154
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sopar/profesional-300-x-250-cm/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/8486/1973154/thumbnails/profesional-300-x-25
     Pret    
 9/26/2020 6:57:39 PM 2.710,40 RON
 9/28/2020 8:39:51 AM 2.711,96 RON
+10/19/2020 11:00:11 AM 2.711,17 RON

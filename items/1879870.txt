@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sp6501
 1879870
     Product link    
 https://www.pcgarage.ro/ecrane-de-proiectie/sopar/map-500-x-375-cm/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/5634/1879870/thumbnails/map-500-x-375-cm-eb5
     Pret    
 9/26/2020 6:57:39 PM 1.869,45 RON
 9/28/2020 8:39:51 AM 1.870,54 RON
+10/19/2020 11:00:44 AM 1.869,98 RON

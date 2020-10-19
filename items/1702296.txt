@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bgs05a222
 1702296
     Product link    
 https://www.pcgarage.ro/aspiratoare/bosch/bgs05a222/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1691852/1702296/thumbnails/bgs05a222-210a634
     Pret    
 9/23/2020 12:28:10 PM 354,99 RON
 9/27/2020 4:24:01 PM 354,99 RON
+10/19/2020 7:12:12 PM 379,99 RON

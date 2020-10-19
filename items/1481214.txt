@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s9100
 1481214
     Product link    
 https://www.pcgarage.ro/placi-pentru-indreptat-parul/remington/s9100/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1263508/1481214/thumbnails/s9100-87534413e5d
     Pret    
 9/22/2020 6:59:57 PM 261,29 RON
 9/26/2020 8:16:00 PM 261,29 RON
+10/19/2020 1:47:58 PM 389,99 RON

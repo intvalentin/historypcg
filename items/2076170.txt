@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lte7460-m608-eu01v
 2076170
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/zyxel/lte7460-m608/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/4525/2076170/thumbnails/lte7460-m608-e372a39
     Pret    
 9/26/2020 3:10:00 PM 2.255,67 RON
 9/27/2020 7:21:27 PM 2.256,97 RON
+10/18/2020 4:34:40 PM 2.256,32 RON

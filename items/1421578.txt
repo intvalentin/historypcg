@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc460310
 1421578
     Product link    
 https://www.pcgarage.ro/intretinere-metal/crc/solutie-inlaturare-rugina-250ml/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/986897/1421578/thumbnails/solutie-inlaturare
 9/23/2020 10:53:59 AM 39,98 RON
 9/23/2020 11:03:07 AM 39,98 RON
 9/27/2020 4:10:37 PM 39,98 RON
+10/19/2020 6:21:17 PM 39,98 RON

@@ -1,0 +1,10 @@
+    Cod    |sonoff 433
+2101498
+    Product link    
+https://www.pcgarage.ro/telecomenzi/sonoff/telecomanda-rf-sonoff/
+    Name    
+Telecomanda Sonoff Telecomanda RF Sonoff
+    Img url    
+https://1.grgs.ro/images/products/1/9507/2101498/thumbnails/telecomanda-rf-sonoff-1bc5bf927cd38453779628f873c6241a.jpg
+    Pret    
+10/19/2020 3:14:44 PM 44,28 RON

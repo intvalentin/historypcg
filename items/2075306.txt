@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |h100-sbea01
 2075306
     Product link    
 https://www.pcgarage.ro/storcatoare/hurom/h100-sbea01/
@@ -8,3 +8,4 @@ Hurom H100-SBEA01
 https://2.grgs.ro/images/products/1/4525/2075306/thumbnails/h100-sbea01-220ea5be39ed59fbe7559228b02731dc.jpg
     Pret    
 9/26/2020 8:40:38 PM 1.848,99 RON
+10/19/2020 2:16:03 PM 2.099,00 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ex6120-100pes
 1887866
     Product link    
 https://www.pcgarage.ro/bridge-range-extender/netgear/ex6120-100pes-dual-band/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1885090/1887866/thumbnails/ex6120-100pes-dua
     Pret    
 9/26/2020 3:10:00 PM 271,84 RON
 9/27/2020 7:21:27 PM 271,84 RON
+10/18/2020 4:35:12 PM 272,01 RON

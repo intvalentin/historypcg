@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ca1000
 2060822
     Product link    
 https://www.pcgarage.ro/filtrare-aer/concept/purificator-ca1000/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6954/2060822/thumbnails/purificator-ca1000-f
     Pret    
 9/23/2020 12:19:53 PM 669,99 RON
 9/27/2020 4:19:34 PM 669,99 RON
+10/19/2020 6:48:14 PM 669,99 RON

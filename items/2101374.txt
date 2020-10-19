@@ -1,0 +1,10 @@
+    Cod    |sonoff t1 eu 3c
+2101374
+    Product link    
+https://www.pcgarage.ro/prize-si-intrerupatoare/sonoff/intrerupator-triplu-cu-touch-t1eu3c-wi-fi-plus-rf-control-de-pe-telefonul-mobil/
+    Name    
+Sonoff Intrerupator triplu cu touch T1EU3C, Wi-Fi + RF, control de pe telefonul mobil
+    Img url    
+https://1.grgs.ro/images/products/1/9507/2101374/thumbnails/intrerupator-triplu-cu-touch-t1eu3c-wi-fi-plus-rf-control-de-pe-telefonul-mobil-702252f8476dbfef348920d0b8f1611d.jpg
+    Pret    
+10/19/2020 3:23:18 PM 193,33 RON

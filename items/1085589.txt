@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |son-340000
 1085589
     Product link    
 https://www.pcgarage.ro/intretinere-chedere-cauciucuri/sonax/gummi-pflege-solutie-intretinere-chedere/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1192525/1085589/thumbnails/gummi-pflege-solu
 9/23/2020 10:31:32 AM 23,99 RON
 9/23/2020 10:36:24 AM 23,99 RON
 9/27/2020 4:02:35 PM 23,99 RON
+10/19/2020 5:39:27 PM 23,99 RON

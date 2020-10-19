@@ -8,3 +8,4 @@ Desktop PC Intel Core i5 9400F 6 cores/6 Threads 2,9 Ghz(Turbo 4,1 Ghz), 16 gb d
 10/11/2020 1:02:49 PM 2779
 10/12/2020 3:37:23 PM 2779
 10/13/2020 2:33:59 PM 2779
+10/18/2020 2:57:05 PM 2779

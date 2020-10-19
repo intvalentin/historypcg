@@ -8,3 +8,4 @@ Suport plutitor XREC pentru GoPro/SJCam/Xiaomi
 10/5/2020 6:14:13 PM 66
 10/5/2020 6:15:11 PM 66
 10/5/2020 10:41:09 PM 66
+10/18/2020 3:18:21 PM 66

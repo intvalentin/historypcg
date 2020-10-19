@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |dmo160
 1960002
     Product link    
 https://www.pcgarage.ro/aspiratoare/daewoo/dmo160/
@@ -8,3 +8,4 @@ Daewoo cu abur, DMO160, 1500W
 https://1.grgs.ro/images/products/1/1261/1960002/thumbnails/dmo160-846e5032046647dbcd2bfd4538a386c7.jpg
     Pret    
 9/27/2020 4:38:07 PM 249,99 RON
+10/19/2020 7:06:02 PM 249,99 RON

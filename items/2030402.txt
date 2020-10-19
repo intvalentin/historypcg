@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mlp
 2030402
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/kingston/mobilelite-plus-sd-usb-30/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/8840/2030402/thumbnails/mobilelite-plus-sd-u
     Pret    
 9/22/2020 5:53:45 PM 77,75 RON
 9/26/2020 7:08:07 PM 78,99 RON
+10/19/2020 11:19:07 AM 78,49 RON

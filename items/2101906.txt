@@ -1,0 +1,10 @@
+    Cod    |sonoff pir2
+2101906
+    Product link    
+https://www.pcgarage.ro/senzori-smart/sonoff/senzor-prezenta-wireless-pir2/
+    Name    
+Sonoff Senzor prezenta wireless PIR2
+    Img url    
+https://4.grgs.ro/images/products/1/9507/2101906/thumbnails/senzor-prezenta-wireless-pir2-2a22263208ed12155d663f82601cd87f.jpg
+    Pret    
+10/19/2020 3:33:59 PM 70,20 RON

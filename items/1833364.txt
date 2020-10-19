@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |oem332cb-cb-v1
 1833364
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/spire/oem332cb-cb-v1-usb-20/
@@ -8,3 +8,4 @@ Spire OEM332CB-CB-V1 USB 2.0
 https://3.grgs.ro/images/products/1/5631/1833364/thumbnails/oem332cb-cb-v1-usb-20-dba56b509a39485a233823c6cf782911.jpg
     Pret    
 9/26/2020 7:08:52 PM 48,71 RON
+10/19/2020 11:20:41 AM 48,42 RON

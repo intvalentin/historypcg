@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |r800
 1746188
     Product link    
 https://www.pcgarage.ro/camere-auto/navitel/r800/
@@ -8,3 +8,4 @@ NAVITEL R800
 https://4.grgs.ro/images/products/1/1736364/1746188/thumbnails/r800-df935db725cab2594b1ac75f62b627a2.jpg
     Pret    
 9/22/2020 5:29:44 PM 404,98 RON
+10/19/2020 10:36:21 AM 404,98 RON

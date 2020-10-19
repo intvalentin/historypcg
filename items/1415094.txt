@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc414143
 1415094
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/vaselina-neagra-mos2-400gr/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1053670/1415094/thumbnails/vaselina-neagra-m
     Pret    
 9/23/2020 10:51:49 AM 43,98 RON
 9/27/2020 4:09:10 PM 43,98 RON
+10/19/2020 6:16:41 PM 43,98 RON

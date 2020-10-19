@@ -1,0 +1,10 @@
+    Cod    |l1-5m
+2101950
+    Product link    
+https://www.pcgarage.ro/dispozitive-smart/sonoff/banda-led-l1-rgb-5m/
+    Name    
+Sonoff Banda LED L1 RGB, 5m
+    Img url    
+https://5.grgs.ro/images/products/1/9507/2101950/thumbnails/banda-led-l1-rgb-5m-91b4db6da108fa078cc643bdb31af2b1.jpg
+    Pret    
+10/19/2020 3:17:32 PM 221,41 RON

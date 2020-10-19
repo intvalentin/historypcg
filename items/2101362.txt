@@ -1,0 +1,10 @@
+    Cod    |sonoff t0 eu 3c
+2101362
+    Product link    
+https://www.pcgarage.ro/prize-si-intrerupatoare/sonoff/intrerupator-triplu-cu-touch-t0eu3c-wi-fi-control-de-pe-telefonul-mobil/
+    Name    
+Sonoff Intrerupator triplu cu touch T0EU3C, Wi-Fi, control de pe telefonul mobil
+    Img url    
+https://2.grgs.ro/images/products/1/9507/2101362/thumbnails/intrerupator-triplu-cu-touch-t0eu3c-wi-fi-control-de-pe-telefonul-mobil-050cb50bbdf1af70a457bca2dd04471d.jpg
+    Pret    
+10/19/2020 3:24:07 PM 159,85 RON

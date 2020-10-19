@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1848774/1848822/thumbnails/home-energy-meter
 9/22/2020 7:35:44 PM 445,58 RON
 9/26/2020 9:13:11 PM 452,60 RON
 10/6/2020 8:18:18 PM 447,62 RON
+10/19/2020 3:27:30 PM 449,87 RON

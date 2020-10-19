@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |4210201212348
 2064974
     Product link    
 https://www.pcgarage.ro/epilatoare/braun/ipl-silk-expert-pro-5-pl5014/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/4917/2064974/thumbnails/ipl-silk-expert-pro-
     Pret    
 9/22/2020 6:57:10 PM 1.407,98 RON
 9/26/2020 8:12:20 PM 1.407,98 RON
+10/19/2020 1:39:21 PM 1.433,98 RON

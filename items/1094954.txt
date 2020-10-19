@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |af5u
 1094954
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/airfiber-5u/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/367655/1094954/thumbnails/airfiber-5-4b40c39
     Pret    
 9/26/2020 3:13:47 PM 5.443,42 RON
 9/27/2020 7:25:07 PM 5.443,42 RON
+10/18/2020 4:40:44 PM 5.443,42 RON

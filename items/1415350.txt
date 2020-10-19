@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc766301
 1415350
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/adeziv-soft-lock-50ml/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1415042/1415350/thumbnails/adeziv-soft-lock-
     Pret    
 9/23/2020 10:51:49 AM 93,98 RON
 9/27/2020 4:09:10 PM 93,98 RON
+10/19/2020 6:15:19 PM 93,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp_2760_r_35_1
 2004190
     Product link    
 https://www.pcgarage.ro/securitate-server/bitdefender/gravityzone-advanced-business-security-35-useri-1-an-licenta-de-reinnoire-electronica/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1025741/2004190/thumbnails/gravityzone-advan
     Pret    
 9/26/2020 9:58:12 AM 2.631,55 RON
 9/27/2020 1:07:11 PM 2.631,55 RON
+10/18/2020 10:31:46 AM 2.630,85 RON

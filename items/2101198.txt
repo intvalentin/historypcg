@@ -1,0 +1,10 @@
+    Cod    |al560
+2101198
+    Product link    
+https://www.pcgarage.ro/senzori-smart/sonoff/cablu-extensie-al560-5m-lungime-compatibil-cu-senzorii-si7021-am2301-ds18b20/
+    Name    
+Sonoff Cablu extensie, AL560, 5M lungime, compatibil cu senzorii SI7021, AM2301, DS18B20
+    Img url    
+https://2.grgs.ro/images/products/1/9507/2101198/thumbnails/cablu-extensie-al560-5m-lungime-compatibil-cu-senzorii-si7021-am2301-ds18b20-303dc03f73136b7a892234d90c163429.jpg
+    Pret    
+10/19/2020 3:34:46 PM 28,08 RON

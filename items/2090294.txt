@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |s8605
 2090294
     Product link    
 https://www.pcgarage.ro/placi-pentru-indreptat-parul/remington/colour-protect-s8605/
@@ -8,3 +8,4 @@ Remington Colour Protect S8605
 https://3.grgs.ro/images/products/1/8441/2090294/thumbnails/colour-protect-s8605-d4956b0349480557f7d58ca77653d142.jpg
     Pret    
 9/26/2020 8:15:18 PM 831,98 RON
+10/19/2020 1:44:30 PM 465,98 RON

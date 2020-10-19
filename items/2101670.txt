@@ -1,0 +1,10 @@
+    Cod    |sonoff th16
+2101670
+    Product link    
+https://www.pcgarage.ro/relee-wi-fi/sonoff/releu-pentru-temperatura-si-umiditate-16a-th16/
+    Name    
+Releu Sonoff Releu pentru temperatura si umiditate 16A TH16
+    Img url    
+https://1.grgs.ro/images/products/1/9507/2101670/thumbnails/releu-pentru-temperatura-si-umiditate-16a-th16-6f75b9d563de754733614341c8f79e15.jpg
+    Pret    
+10/19/2020 3:28:31 PM 79,91 RON

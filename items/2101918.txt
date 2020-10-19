@@ -1,0 +1,10 @@
+    Cod    |sonoff dw1
+2101918
+    Product link    
+https://www.pcgarage.ro/senzori-smart/sonoff/senzor-dw1-pentru-usi-si-ferestre-compatibil-cu-rf-bridge/
+    Name    
+Sonoff Senzor DW1 pentru usi si ferestre compatibil cu RF Bridge
+    Img url    
+https://3.grgs.ro/images/products/1/9507/2101918/thumbnails/senzor-dw1-pentru-usi-si-ferestre-compatibil-cu-rf-bridge-6dddb660e3cbef45f1c4292875b8fdff.jpg
+    Pret    
+10/19/2020 3:33:43 PM 46,43 RON

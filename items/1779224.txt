@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |er-6p
 1779224
     Product link    
 https://www.pcgarage.ro/routere/ubiquiti-networks/gigabit-edgerouter-6p/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/6115/1779224/thumbnails/gigabit-edgerouter-6
     Pret    
 9/26/2020 2:56:53 PM 1.145,86 RON
 9/27/2020 6:58:31 PM 1.145,86 RON
+10/18/2020 4:23:55 PM 1.138,10 RON

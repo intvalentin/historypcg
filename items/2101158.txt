@@ -1,0 +1,10 @@
+    Cod    |sonoff b1
+2101158
+    Product link    
+https://www.pcgarage.ro/becuri-inteligente/sonoff/bec-inteligent-b1-rgb/
+    Name    
+Bec inteligent Sonoff Bec inteligent B1 RGB
+    Img url    
+https://5.grgs.ro/images/products/1/9507/2101158/thumbnails/bec-inteligent-b1-rgb-a96fb412bd9943705cb39a490b0b004f.jpg
+    Pret    
+10/19/2020 4:35:42 PM 165,98 RON

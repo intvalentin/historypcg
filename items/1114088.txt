@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa135da
 1114088
     Product link    
 https://www.pcgarage.ro/obiective/nikon/28mm-f-18g-af-s-nikkor/
@@ -8,3 +8,4 @@ Nikon 28mm f/1.8G AF-S NIKKOR
 https://5.grgs.ro/images/products/1/1025741/1114088/thumbnails/28mm-f-18g-af-s-nikkor-62c33d61299897c113a50c22011761d8.jpg
     Pret    
 9/26/2020 7:12:36 PM 3.399,00 RON
+10/19/2020 11:31:07 AM 3.399,00 RON

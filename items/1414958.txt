@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc836109
 1414958
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/spray-protectie-borne-baterie/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/986897/1414958/thumbnails/spray-protectie-bo
     Pret    
 9/23/2020 10:51:49 AM 29,98 RON
 9/27/2020 4:09:10 PM 29,98 RON
+10/19/2020 6:16:58 PM 29,98 RON

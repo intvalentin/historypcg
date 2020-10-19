@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |vqa060ea
 1712620
     Product link    
 https://www.pcgarage.ro/aparate-foto-compacte/nikon/coolpix-p1000-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1690716/1712620/thumbnails/coolpix-p1000-bla
     Pret    
 9/22/2020 5:50:24 PM 4.599,98 RON
 9/26/2020 7:04:23 PM 4.599,98 RON
+10/19/2020 11:07:55 AM 4.599,98 RON

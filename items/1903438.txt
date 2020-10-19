@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |60350
 1903438
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere/pro-detailing/pro-detailing-galeata-spalare-auto-20l/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1899326/1903438/thumbnails/pro-detailing-gal
     Pret    
 9/23/2020 10:50:45 AM 65,00 RON
 9/27/2020 4:08:24 PM 65,00 RON
+10/19/2020 6:11:51 PM 65,00 RON

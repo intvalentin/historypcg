@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa637da
 289531
     Product link    
 https://www.pcgarage.ro/obiective/nikon/85mm-f-35g-ed-vr-af-s-dx-nikkor/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1475542/289531/thumbnails/85mm-f-35g-ed-vr-a
     Pret    
 9/22/2020 5:56:01 PM 2.499,00 RON
 9/26/2020 7:12:36 PM 2.499,00 RON
+10/19/2020 11:30:35 AM 2.499,00 RON

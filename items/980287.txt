@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa342da
 980287
     Product link    
 https://www.pcgarage.ro/obiective/nikon/nikkor-af-s-300mm-f-4e-pf-ed-vr/
@@ -8,3 +8,4 @@ Nikon NIKKOR AF-S 300mm f/4E PF ED VR
 https://2.grgs.ro/images/products/1/2/980287/thumbnails/nikkor-af-s-300mm-f-4e-pf-ed-vr-3fcdc497dbde1618d82e6034f36d947c.jpg
     Pret    
 9/26/2020 7:12:36 PM 9.499,00 RON
+10/19/2020 11:31:38 AM 9.499,00 RON

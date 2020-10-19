@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lab11
 1740556
     Product link    
 https://www.pcgarage.ro/plastice-interioare/ma-fra/dressing-plastice-labocosmetica-hydra-500ml/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1736364/1740556/thumbnails/dressing-plastice
 9/23/2020 10:32:39 AM 83,98 RON
 9/23/2020 10:38:35 AM 83,98 RON
 9/27/2020 4:04:03 PM 83,98 RON
+10/19/2020 5:45:20 PM 83,98 RON

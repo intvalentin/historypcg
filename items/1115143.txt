@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |son-330200
 1115143
     Product link    
 https://www.pcgarage.ro/intretinere-motor/sonax/engine-lacquer-spray-izolator-motor/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1052635/1115143/thumbnails/engine-lacquer-sp
     Pret    
 9/23/2020 10:51:49 AM 55,98 RON
 9/27/2020 4:09:52 PM 55,98 RON
+10/19/2020 6:17:47 PM 55,98 RON

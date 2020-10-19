@@ -7,3 +7,4 @@ Sistem Intel Core i7 pana la 3.9GHz, 16GB DDR3, SSD 1TB, nVidia GeForce GTX1650 
     Pret    
 10/11/2020 7:04:16 PM 4140
 10/12/2020 4:59:55 PM 4140
+10/18/2020 1:26:07 PM 4105

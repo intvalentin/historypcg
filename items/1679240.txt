@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bgc05aaa2
 1679240
     Product link    
 https://www.pcgarage.ro/aspiratoare/bosch/3a-bgc05aaa2/
@@ -8,3 +8,4 @@ Bosch fara sac, 3A BGC05AAA2, 700W, 1.5L
 https://2.grgs.ro/images/products/1/1666176/1679240/thumbnails/3a-bgc05aaa2-0e21d1b31662173437baf6d4e55e25cb.jpg
     Pret    
 9/27/2020 4:38:51 PM 349,99 RON
+10/19/2020 7:13:34 PM 399,99 RON

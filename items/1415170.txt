@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc415111
 1415170
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/pasta-cupru-300ml/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/991247/1415170/thumbnails/pasta-cupru-300ml-
     Pret    
 9/23/2020 10:52:52 AM 35,98 RON
 9/27/2020 4:09:52 PM 35,98 RON
+10/19/2020 6:18:20 PM 35,98 RON

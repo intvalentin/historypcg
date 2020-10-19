@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lab38
 1740592
     Product link    
 https://www.pcgarage.ro/detalii-produs/1740592/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/6748/1740592/thumbnails/solutie-curatare-pie
     Pret    
 9/23/2020 10:45:13 AM 65,98 RON
 9/27/2020 4:06:13 PM 65,98 RON
+10/19/2020 5:55:02 PM 65,98 RON

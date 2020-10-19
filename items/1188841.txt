@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa139da
 1188841
     Product link    
 https://www.pcgarage.ro/obiective/nikon/24mm-f-18g-ed-af-s-nikkor/
@@ -8,3 +8,4 @@ Nikon 24mm f/1.8G ED AF-S NIKKOR
 https://5.grgs.ro/images/products/1/1025736/1188841/thumbnails/24mm-f-18g-ed-af-s-nikkor-6d240d0c0f0c649e5e919d43f99e61ff.jpg
     Pret    
 9/26/2020 7:12:36 PM 3.999,00 RON
+10/19/2020 11:30:51 AM 3.999,00 RON

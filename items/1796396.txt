@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ejr-00006
 1796396
     Product link    
 https://www.pcgarage.ro/placi-de-retea/microsoft/gigabit-ejr-00006-black/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6361/1796396/thumbnails/ejr-00006-black-00ef
     Pret    
 9/26/2020 2:55:24 PM 186,67 RON
 9/27/2020 6:57:00 PM 186,79 RON
+10/18/2020 4:21:34 PM 186,73 RON

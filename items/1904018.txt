@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20010104
 1904018
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere/pro-detailing/filtru-gratar-galeata-grit-guard-washboard/
@@ -8,3 +8,4 @@ Filtru Gratar Galeata Grit Guard Washboard
 https://5.grgs.ro/images/products/1/1899326/1904018/thumbnails/filtru-gratar-galeata-grit-guard-washboard-c9ac554190b749716a1015875c67dc54.jpg
     Pret    
 9/27/2020 4:08:24 PM 65,00 RON
+10/19/2020 6:09:56 PM 65,00 RON

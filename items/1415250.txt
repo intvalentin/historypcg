@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc555142
 1415250
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/pasta-reparatie-evacuare-200gr/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1053670/1415250/thumbnails/pasta-reparatie-e
     Pret    
 9/23/2020 10:52:52 AM 29,98 RON
 9/27/2020 4:09:52 PM 29,98 RON
+10/19/2020 6:15:35 PM 29,98 RON

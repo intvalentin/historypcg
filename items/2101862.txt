@@ -1,0 +1,10 @@
+    Cod    |sonoff rm433
+2101862
+    Product link    
+https://www.pcgarage.ro/telecomenzi/sonoff/telecomanda-rf-rm433-cu-functie-sincronizare-wi-fi/
+    Name    
+Telecomanda Sonoff Telecomanda RF RM433 cu functie sincronizare Wi-Fi
+    Img url    
+https://4.grgs.ro/images/products/1/9507/2101862/thumbnails/telecomanda-rf-rm433-cu-functie-sincronizare-wi-fi-d5286e39faea9fcd8c3dfe86e27bc57b.jpg
+    Pret    
+10/19/2020 3:14:11 PM 49,69 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ha-dbe17 argintiu
 1481494
     Product link    
 https://www.pcgarage.ro/storcatoare/hurom/ha-dbe17-argintiu/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1427502/1481494/thumbnails/ha-dbe17-argintiu
     Pret    
 9/22/2020 7:17:08 PM 1.698,00 RON
 9/26/2020 8:41:23 PM 1.698,00 RON
+10/19/2020 2:19:44 PM 1.849,00 RON

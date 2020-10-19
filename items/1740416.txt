@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lab01
 1740416
     Product link    
 https://www.pcgarage.ro/intretinere-vopsea/ma-fra/degresant-vopsea-labocosmetica-veritas-1000ml/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6748/1740416/thumbnails/degresant-vopsea-lab
     Pret    
 9/23/2020 11:07:16 AM 95,98 RON
 9/27/2020 4:11:23 PM 95,98 RON
+10/19/2020 6:31:42 PM 95,98 RON

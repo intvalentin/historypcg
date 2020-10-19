@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3xb78a
 1940618
     Product link    
 https://www.pcgarage.ro/plottere/hp/designjet-t2600-36-inch-postscrip/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/6835/1940618/thumbnails/designjet-t2600-36-i
     Pret    
 9/26/2020 1:53:22 PM 48.887,98 RON
 9/27/2020 5:01:17 PM 48.779,98 RON
+10/18/2020 2:29:03 PM 48.873,98 RON

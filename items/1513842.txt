@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |usb-ac68
 1513842
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/asus/usb-ac68-dual-band-ac1900-usb-30/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1415042/1513842/thumbnails/usb-ac68-dual-ban
     Pret    
 9/26/2020 2:52:29 PM 415,42 RON
 9/27/2020 6:54:06 PM 415,65 RON
+10/18/2020 4:17:02 PM 368,98 RON

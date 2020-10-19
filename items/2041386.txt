@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-ffd19701
 2041386
     Product link    
 https://www.pcgarage.ro/biciclete-fitness/flow-fitness/bicicleta-de-spinning-flow-dsb600i/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1034/2041386/thumbnails/bicicleta-de-spinnin
     Pret    
 9/22/2020 7:51:05 PM 6.999,00 RON
 9/26/2020 9:30:26 PM 6.999,00 RON
+10/19/2020 4:51:24 PM 4.199,00 RON

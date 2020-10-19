@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |16298000
 1746816
     Product link    
 https://www.pcgarage.ro/aspiratoare/karcher/wd-3/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1736364/1746816/thumbnails/wd-3-df3258253341
     Pret    
 9/23/2020 12:28:10 PM 297,99 RON
 9/27/2020 4:24:01 PM 297,99 RON
+10/19/2020 7:10:35 PM 329,99 RON

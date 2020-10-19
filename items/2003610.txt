@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bp_bd_2759_en_150_3
 2003610
     Product link    
 https://www.pcgarage.ro/securitate-server/bitdefender/gravityzone-business-security-150-useri-3-ani-electronic/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1094679/2003610/thumbnails/gravityzone-busin
     Pret    
 9/26/2020 9:58:12 AM 20.091,37 RON
 9/27/2020 1:07:11 PM 20.091,37 RON
+10/18/2020 10:32:02 AM 20.086,01 RON

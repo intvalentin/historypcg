@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |fcr-hs4
 1102238
     Product link    
 https://www.pcgarage.ro/cititoare-carduri/kingston/fcr-hs4/
@@ -8,3 +8,4 @@ Kingston FCR-HS4
 https://1.grgs.ro/images/products/1/367655/1102238/thumbnails/fcr-hs4-425cf4dbfdb41ea48c6b01e8d7337474.jpg
     Pret    
 9/22/2020 5:53:45 PM 107,80 RON
+10/19/2020 11:19:41 AM 138,32 RON

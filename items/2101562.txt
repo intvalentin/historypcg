@@ -1,0 +1,10 @@
+    Cod    |sonoff s20
+2101562
+    Product link    
+https://www.pcgarage.ro/prize-si-intrerupatoare/sonoff/priza-inteligenta-s20/
+    Name    
+Sonoff Priza inteligenta S20
+    Img url    
+https://2.grgs.ro/images/products/1/9507/2101562/thumbnails/priza-inteligenta-s20-31d618b9f518a43779d484354b6428a7.jpg
+    Pret    
+10/19/2020 3:26:58 PM 117,72 RON

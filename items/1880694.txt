@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |prs500wgps
 1880694
     Product link    
 https://www.pcgarage.ro/camere-auto/prestigio/roadscanner-500wgps/
@@ -11,3 +11,4 @@ https://1.grgs.ro/images/products/1/5634/1880694/thumbnails/roadscanner-500wgps-
 9/26/2020 6:10:17 PM 418,98 RON
 9/26/2020 6:36:44 PM 418,98 RON
 9/28/2020 8:18:51 AM 418,98 RON
+10/19/2020 10:37:26 AM 415,98 RON

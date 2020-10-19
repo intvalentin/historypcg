@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |1.198-115.0
 1903674
     Product link    
 https://www.pcgarage.ro/aspiratoare/karcher/vc2-premium/
@@ -8,3 +8,4 @@ Karcher cu sac, VC2 Premium, 2.8L
 https://5.grgs.ro/images/products/1/1899326/1903674/thumbnails/vc2-premium-821f06611f90bb673cb8cd89b66bf4c2.jpg
     Pret    
 9/27/2020 4:26:59 PM 639,99 RON
+10/19/2020 7:42:06 PM 639,99 RON

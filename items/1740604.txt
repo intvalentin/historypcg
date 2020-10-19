@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |lab14
 1740604
     Product link    
 https://www.pcgarage.ro/curatare-geamuri/ma-fra/tratament-hidrofob-geamuri-labocosmetica-aquavelox-100ml/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1736364/1740604/thumbnails/tratament-hidrofo
 9/23/2020 10:32:05 AM 79,98 RON
 9/23/2020 10:37:28 AM 79,98 RON
 9/27/2020 4:03:18 PM 69,99 RON
+10/19/2020 5:42:22 PM 69,99 RON

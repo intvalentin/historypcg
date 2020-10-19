@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ltr-ro-500
 966240
     Product link    
 https://www.pcgarage.ro/curatare-amp-intretinere-piele/leatherique/leatherique-rejuvinator-oil-500ml-intretinere-auto/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1094679/966240/thumbnails/1leatherique-rejuv
     Pret    
 9/23/2020 10:45:13 AM 98,99 RON
 9/27/2020 4:06:13 PM 98,99 RON
+10/19/2020 5:53:40 PM 98,99 RON

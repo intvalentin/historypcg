@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pbe-5ac-gen2-5
 1778780
     Product link    
 https://www.pcgarage.ro/antene/ubiquiti-networks/gigabit-powerbeam-ac-gen2-5-pack/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/761/1778780/thumbnails/gigabit-powerbeam-ac-
 9/22/2020 12:37:04 PM 2.931,74 RON
 9/26/2020 3:13:47 PM 2.972,39 RON
 9/27/2020 7:25:07 PM 2.972,39 RON
+10/18/2020 4:39:28 PM 2.951,31 RON

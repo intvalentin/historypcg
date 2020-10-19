@@ -7,3 +7,4 @@ Adaptor, convertor HDMI la VGA + jack 3.5mm audio
     Pret    
 10/13/2020 10:07:34 PM 39
 10/16/2020 8:55:40 PM 116
+10/19/2020 7:06:31 PM 39

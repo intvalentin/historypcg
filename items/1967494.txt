@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20030007
 1967494
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere/pro-detailing/pahar-gradat-masurare-dilutii-pro-detailing-vitlab-150ml/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/8977/1967494/thumbnails/pahar-gradat-masurar
     Pret    
 9/23/2020 10:49:40 AM 19,00 RON
 9/27/2020 4:08:24 PM 19,00 RON
+10/19/2020 6:08:35 PM 19,00 RON

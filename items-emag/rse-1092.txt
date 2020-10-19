@@ -7,3 +7,4 @@ Desktop PC Ultra Magnus,  Intel Core i3-4170 3.70Ghz,  Memorie 8gb DDR3, Hard
     Pret    
 10/12/2020 8:22:46 AM 1095
 10/13/2020 2:40:36 PM 1095
+10/18/2020 4:12:36 PM 1095

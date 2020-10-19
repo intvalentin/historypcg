@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |3ek15a
 1940614
     Product link    
 https://www.pcgarage.ro/plottere/hp/designjet-t2600-dual-roll-36-inch-postscrip/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/6835/1940614/thumbnails/designjet-t2600-dual
     Pret    
 9/26/2020 1:53:22 PM 61.619,98 RON
 9/27/2020 5:01:17 PM 61.481,98 RON
+10/18/2020 2:29:19 PM 61.601,98 RON

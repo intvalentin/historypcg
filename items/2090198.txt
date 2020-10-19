@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |ktl-8006419
 2090198
     Product link    
 https://www.pcgarage.ro/biciclete-fitness/bowflex/max-trainer-m3/
@@ -8,3 +8,4 @@ Bowflex max trainer m3
 https://2.grgs.ro/images/products/1/8441/2090198/thumbnails/max-trainer-m3-d696b4f540e35f0f4ba8968e931a0fcf.jpeg
     Pret    
 9/26/2020 9:30:26 PM 9.999,00 RON
+10/19/2020 4:49:51 PM 7.499,00 RON

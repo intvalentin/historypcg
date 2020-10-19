@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |sh640f9
 1903446
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere/pro-detailing/cap-spumare-capacitate-mare-pro-detailing/
@@ -9,3 +9,4 @@ https://1.grgs.ro/images/products/1/1899326/1903446/thumbnails/cap-spumare-capac
     Pret    
 9/23/2020 10:49:40 AM 23,00 RON
 9/27/2020 4:08:24 PM 23,00 RON
+10/19/2020 6:11:18 PM 23,00 RON

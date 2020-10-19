@@ -8,3 +8,4 @@ Suport TV cu inclinare -5 + 15 grade , 15-42 inch , capacitate max 40 Kg
 9/30/2020 6:34:53 PM 95
 10/3/2020 10:20:01 PM 1595
 10/16/2020 3:21:25 PM 95
+10/18/2020 11:20:29 AM 1595

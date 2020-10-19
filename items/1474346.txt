@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |bru3
 1474346
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere-interior/valet-pro/perie-curatare-bord-auto/
@@ -9,3 +9,4 @@ https://4.grgs.ro/images/products/1/1355324/1474346/thumbnails/perie-curatare-bo
     Pret    
 9/23/2020 10:20:54 AM 16,99 RON
 9/27/2020 3:52:13 PM 16,99 RON
+10/19/2020 5:33:39 PM 16,99 RON

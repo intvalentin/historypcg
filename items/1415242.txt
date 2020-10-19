@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |crc416104
 1415242
     Product link    
 https://www.pcgarage.ro/intretinere-motor/crc/vaselina-aderenta-cu-litiu-ep-100ml/
@@ -9,3 +9,4 @@ https://3.grgs.ro/images/products/1/1190677/1415242/thumbnails/vaselina-aderenta
     Pret    
 9/23/2020 10:52:52 AM 19,98 RON
 9/27/2020 4:09:52 PM 19,98 RON
+10/19/2020 6:18:04 PM 19,98 RON

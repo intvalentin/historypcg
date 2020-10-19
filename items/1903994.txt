@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |20010102-vtm-003
 1903994
     Product link    
 https://www.pcgarage.ro/accesorii-intretinere/pro-detailing/filtru-gratar-galeata-spalare-auto-grit-guard-galben/
@@ -9,3 +9,4 @@ https://5.grgs.ro/images/products/1/1899326/1903994/thumbnails/filtru-gratar-gal
     Pret    
 9/23/2020 10:49:40 AM 45,00 RON
 9/27/2020 4:08:24 PM 45,00 RON
+10/19/2020 6:10:29 PM 45,00 RON

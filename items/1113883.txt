@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |jaa825da
 1113883
     Product link    
 https://www.pcgarage.ro/obiective/nikon/16-80mm-f-28-4e-ed-vr-af-s-dx-nikkor/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/853128/1113883/thumbnails/16-80mm-f-28-4e-ed
     Pret    
 9/22/2020 5:56:01 PM 5.299,00 RON
 9/26/2020 7:11:51 PM 5.299,00 RON
+10/19/2020 11:31:23 AM 5.299,00 RON

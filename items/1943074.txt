@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |pns00440
 1943074
     Product link    
 https://www.pcgarage.ro/cuptoare-cu-microunde/panasonic/pns00440/
@@ -8,3 +8,4 @@ Panasonic NN-CD575MEPG
 https://4.grgs.ro/images/products/1/5758/1943074/thumbnails/nn-cd575mepg-3c03bc58421511b727bde484ce6db8ba.jpg
     Pret    
 9/26/2020 8:21:59 PM 1.059,99 RON
+10/19/2020 1:56:00 PM 1.054,99 RON
