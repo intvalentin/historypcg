@@ -9,3 +9,4 @@ Procesor Intel Core i7-9700F, 3.0GHz, 9MB, fara grafica integrata, Socket 1151 -
 10/8/2020 9:56:08 AM 1599
 10/9/2020 6:11:32 PM 1599
 10/10/2020 3:59:58 PM 1434
+11/1/2020 12:34:33 PM 1519

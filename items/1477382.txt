@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdsamsung128-ccdc11198255655b8878fc79381887ad
 1477382
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-samsung-np535u4c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1443558/1477382/thumbnails/baterie-laptop-sa
 9/20/2020 11:14:30 PM 323,98 RON
 9/25/2020 3:58:12 PM 331,98 RON
 9/26/2020 5:58:01 PM 331,98 RON
+11/2/2020 11:45:46 AM 329,98 RON

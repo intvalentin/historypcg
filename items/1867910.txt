@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs139-65e5c02a496abc240659ffe5d77d16f1
 1867910
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-lh531/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1867706/1867910/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:35:27 PM 263,98 RON

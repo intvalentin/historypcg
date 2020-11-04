@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo717-4a5ee97bd23a771322d6de2015ce3586
 2048570
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/lenovo/incarcator-laptop-lenovo-thinkpad-x1-carbon-7th-gen-65w-usb-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
 9/20/2020 11:38:33 PM 115,98 RON
 9/25/2020 8:24:09 PM 119,98 RON
 9/26/2020 10:25:00 PM 119,98 RON
+11/2/2020 12:58:57 PM 117,98 RON

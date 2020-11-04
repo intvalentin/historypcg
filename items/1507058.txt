@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus194-43daa69eb42bd56d69df80828ec37858
 1507058
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-k501u/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1409094/1507058/thumbnails/baterie-laptop-as
 9/20/2020 11:14:25 PM 313,98 RON
 9/25/2020 3:52:10 PM 319,98 RON
 9/26/2020 5:52:02 PM 319,98 RON
+11/2/2020 11:24:22 AM 319,98 RON

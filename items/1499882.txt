@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo164-c6f98a54c2d41dfcf3e3180defbdb408
 1499882
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-y50-80/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1427466/1499882/thumbnails/baterie-laptop-le
 9/20/2020 11:14:11 PM 273,98 RON
 9/25/2020 3:56:41 PM 279,98 RON
 9/26/2020 5:56:31 PM 279,98 RON
+11/2/2020 11:43:29 AM 279,98 RON

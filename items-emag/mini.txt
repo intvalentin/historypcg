@@ -7,3 +7,4 @@ Releu Mini automatizare dispozitive electrocasnice Sonoff Mini, Setare interval 
     Pret    
 10/12/2020 8:10:54 PM 42
 10/16/2020 1:36:46 PM 41
+11/2/2020 12:37:00 PM 40

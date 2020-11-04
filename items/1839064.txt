@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer180-789d3972df3c3013abacf2bd9d921229
 1839064
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-acer-aspire-f5-771-f5-771g-f5-771g-53ke-f5-771g-77t1/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2863/1839064/thumbnails/baterie-laptop-acer-
 9/20/2020 11:18:35 PM 219,98 RON
 9/25/2020 4:10:09 PM 223,98 RON
 9/26/2020 6:10:02 PM 223,98 RON
+11/2/2020 12:43:21 PM 223,98 RON

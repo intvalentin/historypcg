@@ -7,3 +7,4 @@ Suport perete LCD/Plasma, Barkan, E410+.B , plat/curbat , 32'' - 90'' , Tilt, VE
     Pret    
 9/30/2020 6:18:17 PM 128
 10/16/2020 3:10:34 PM 0
+11/3/2020 5:30:00 PM 171

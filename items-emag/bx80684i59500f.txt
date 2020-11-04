@@ -12,3 +12,4 @@ Procesor Intel Core i5-9500F, 3.00GHz, 9MB, fara grafica integrata, Socket 1151 
 10/8/2020 9:48:19 AM 954
 10/9/2020 6:11:32 PM 878
 10/10/2020 3:58:03 PM 878
+10/31/2020 11:02:09 AM 914

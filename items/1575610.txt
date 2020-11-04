@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-593b2299fd06628a53ac7ad91aef3430
 1575610
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gl72-7rd/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1510154/1575610/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:27 PM 241,98 RON
 9/25/2020 3:41:40 PM 245,98 RON
 9/26/2020 5:41:33 PM 245,98 RON
+11/2/2020 10:46:32 AM 245,98 RON

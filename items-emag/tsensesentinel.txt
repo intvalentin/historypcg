@@ -7,3 +7,4 @@ Colector de date Sentinel, TSENSE, cu fir, smart
     Pret    
 10/13/2020 8:30:23 AM 819
 10/16/2020 1:42:32 PM 949
+11/2/2020 12:47:15 PM 949

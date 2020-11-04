@@ -1,0 +1,1 @@
+rtx 3070 ventus 3x oc

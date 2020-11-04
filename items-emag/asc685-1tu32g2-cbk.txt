@@ -7,3 +7,5 @@ SSD extern ADATA SC685, 1TB Type-C, multiplatform, cable Type-C to C, cable Type
     Pret    
 10/6/2020 11:43:11 AM 663
 10/15/2020 2:10:18 PM 779
+10/31/2020 3:25:40 PM 699
+11/1/2020 4:12:10 PM 699

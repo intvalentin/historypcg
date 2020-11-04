@@ -8,3 +8,4 @@ Senzor temperatura si umiditate cu afisaj, conectivitate wifi prin gateway hub Z
 10/12/2020 8:13:01 PM 186
 10/12/2020 9:37:49 PM 186
 10/16/2020 1:28:27 PM 186
+11/2/2020 12:36:02 PM 186

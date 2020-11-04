@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-b8a57404701f485c890af20688cdd028
 1867846
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-lh520-lh522-lh530-lh701-lh701a/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7399/1867846/thumbnails/baterie-laptop-fujit
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:10:09 PM 235,98 RON
 9/26/2020 6:10:02 PM 235,98 RON
+11/2/2020 12:40:27 PM 235,98 RON

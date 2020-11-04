@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco714-b3a4ad0705623bd848dd6f1f6455e6d9
 2068606
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-omen-17-an000-17-an100-230w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068606/thumbnails/incarcator-laptop-hp
 9/20/2020 11:37:34 PM 211,98 RON
 9/25/2020 6:11:13 PM 215,98 RON
 9/26/2020 8:01:41 PM 215,98 RON
+11/2/2020 12:56:18 PM 215,98 RON

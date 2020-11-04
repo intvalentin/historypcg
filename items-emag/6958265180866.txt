@@ -7,3 +7,4 @@ Modul GPS extern pentru DJI Ronin-S
     Pret    
 10/6/2020 9:49:05 AM 394
 10/18/2020 3:30:48 PM 387
+11/4/2020 12:45:36 PM 384

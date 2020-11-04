@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco145-f928fef8135d8b37d21f8cf424e68a16
 1465310
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-650-g0-650-g1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1431858/1465310/thumbnails/baterie-laptop-hp
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 4:01:12 PM 259,98 RON
 9/26/2020 6:01:02 PM 259,98 RON
+11/2/2020 11:55:55 AM 259,98 RON

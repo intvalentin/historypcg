@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-628b7f990f95021c3509946038083dab
 1867858
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-a357-a514-a544-a555-a555-g-a557/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1867858/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:38:54 PM 335,98 RON

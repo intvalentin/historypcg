@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs140-3170df5eca3447e497309ceb21135996
 1867922
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-uh554-uh574/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1867922/thumbnails/baterie-laptop-fujit
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:34:40 PM 263,98 RON

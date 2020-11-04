@@ -7,3 +7,5 @@ Adaptor HDMI audio Extractor, HDMI la HDMI + audio Jack 3.5mm si SPDIF Toslink D
     Pret    
 9/30/2020 8:18:26 PM 157
 10/16/2020 4:05:49 PM 157
+11/2/2020 9:15:03 AM 476
+11/3/2020 5:37:02 PM 186

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-a971e05da98d401f0cf5e822ad9c2861
 1867878
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-sh904/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1867706/1867878/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:37:34 PM 335,98 RON

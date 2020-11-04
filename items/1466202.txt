@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo158-136cc86036cbb514c1cc1b70712916d9
 1466202
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-t440-t440s-t450-t450s-t540-t550/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1187917/1466202/thumbnails/baterie-laptop-le
 9/20/2020 11:22:47 PM 305,98 RON
 9/25/2020 5:52:31 PM 313,98 RON
 9/26/2020 7:33:33 PM 313,98 RON
+11/2/2020 11:49:41 AM 311,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple120-52814cf3467c319b9bb6cb786e042961
 1463946
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-macbook-pro-13-quot-retina-model-a1425-a1437-md212/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1155213/1463946/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:54 PM 389,98 RON
 9/25/2020 4:04:56 PM 397,98 RON
 9/26/2020 6:04:48 PM 397,98 RON
+11/2/2020 12:02:23 PM 397,98 RON

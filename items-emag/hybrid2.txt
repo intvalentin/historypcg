@@ -9,3 +9,5 @@ Ceas smartwatch mecanic Zeblaze Hybrid 2, Monitorizeaza sanatatea, Monitorizare 
 10/12/2020 1:21:38 PM 495
 10/16/2020 12:21:16 PM 495
 10/16/2020 12:22:28 PM 280
+11/2/2020 11:34:05 AM 495
+11/2/2020 11:35:22 AM 280

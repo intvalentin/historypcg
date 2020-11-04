@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-94db8b30a25613bb8046b9186e955c08
 1867866
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-e544-e546-e547-e554-e556-e557/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1867706/1867866/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:38:22 PM 335,98 RON

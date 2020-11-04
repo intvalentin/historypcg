@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-5a2285c568d1fc1f144a4b757da38c9f
 1867874
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-s904-s935-s936-s937-s938/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1867874/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:37:50 PM 335,98 RON

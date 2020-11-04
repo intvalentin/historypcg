@@ -7,3 +7,4 @@ Senzor prezenta wireless Sonoff PIR2
     Pret    
 10/12/2020 9:30:54 PM 49
 10/16/2020 1:28:59 PM 49
+11/2/2020 12:45:44 PM 54

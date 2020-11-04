@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus185-0073888ad45be3f0350b4bd69adaa914
 1506802
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r202ma/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1358815/1506802/thumbnails/baterie-laptop-as
 9/20/2020 11:13:47 PM 255,98 RON
 9/25/2020 3:52:56 PM 261,98 RON
 9/26/2020 5:52:47 PM 261,98 RON
+11/2/2020 11:35:37 AM 259,98 RON

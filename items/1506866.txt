@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus189-7e8458cd3580b092294081624b7a1539
 1506866
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-p553ma/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1457334/1506866/thumbnails/baterie-laptop-as
 9/20/2020 11:13:47 PM 255,98 RON
 9/25/2020 3:52:56 PM 261,98 RON
 9/26/2020 5:52:47 PM 261,98 RON
+11/2/2020 11:31:56 AM 259,98 RON

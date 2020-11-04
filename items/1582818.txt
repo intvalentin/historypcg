@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-4823db0ff4b231bd59b33de7d869b161
 1582818
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-z30t-a-11p/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/953558/1582818/thumbnails/baterie-laptop-tos
 9/20/2020 11:14:01 PM 257,98 RON
 9/25/2020 3:09:58 PM 263,98 RON
 9/26/2020 5:37:47 PM 263,98 RON
+11/2/2020 10:16:35 AM 263,98 RON

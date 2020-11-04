@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo158-174332cacf241aa6b91c45ab8cd3a3b5
 1466206
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-w550s/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1155213/1466206/thumbnails/baterie-laptop-le
 9/20/2020 11:22:47 PM 305,98 RON
 9/25/2020 5:52:31 PM 313,98 RON
 9/26/2020 7:33:33 PM 313,98 RON
+11/2/2020 11:49:25 AM 311,98 RON

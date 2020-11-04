@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple122-c5611063ec84c09d3500e7f033261a87
 1500478
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-z0fs-macbook-air-13/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469694/1500478/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:20 PM 277,98 RON
 9/25/2020 3:55:11 PM 283,98 RON
 9/26/2020 5:55:01 PM 283,98 RON
+11/2/2020 11:38:59 AM 281,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs131-c201a5e169bf47f88dad6612d0293912
 1867814
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-p701/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1867706/1867814/thumbnails/baterie-laptop-fu
 9/20/2020 11:20:18 PM 239,98 RON
 9/25/2020 4:10:09 PM 245,98 RON
 9/26/2020 6:10:02 PM 245,98 RON
+11/2/2020 12:42:33 PM 245,98 RON

@@ -13,3 +13,4 @@ https://4.grgs.ro/images/products/1/1666176/1674872/thumbnails/sql-server-2017-s
 10/5/2020 10:07:26 AM 5.503,27 RON
 10/9/2020 1:32:01 PM 5.498,36 RON
 10/18/2020 10:18:41 AM 5.498,12 RON
+11/2/2020 6:31:34 PM 5.500,31 RON

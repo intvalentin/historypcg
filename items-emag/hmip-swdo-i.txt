@@ -7,3 +7,4 @@ Senzor usa/fereastra wireless, HmIP-SWDO-I, Homematic IP, alb
     Pret    
 10/13/2020 7:26:15 AM 297
 10/16/2020 1:39:55 PM 297
+11/2/2020 12:43:57 PM 297

@@ -7,3 +7,4 @@ Adaptor IEEE1394, 6 pini, mama - IEEE1394, 4 pini, mama - 401634
     Pret    
 10/1/2020 6:35:03 PM 16
 10/16/2020 5:29:43 PM 16
+11/3/2020 6:22:19 PM 16

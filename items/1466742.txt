@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-4c0b829a18b1c069c86d87abadc96df1
 1466742
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-z30-a-z30-a-10w-model-pa5136u-1brs/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1461878/1466742/thumbnails/baterie-laptop-to
 9/20/2020 11:13:52 PM 257,98 RON
 9/25/2020 3:58:57 PM 263,98 RON
 9/26/2020 5:58:46 PM 263,98 RON
+11/2/2020 11:46:49 AM 263,98 RON

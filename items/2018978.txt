@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer163b114-c94dda0b271c74882333750b0754e6b7
 2018978
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-aspire-3-a315-55g-55vh/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8491/2018978/thumbnails/baterie-laptop-acer-
 9/20/2020 11:18:35 PM 219,98 RON
 9/25/2020 4:05:40 PM 223,98 RON
 9/26/2020 6:05:33 PM 223,98 RON
+11/2/2020 12:05:14 PM 223,98 RON

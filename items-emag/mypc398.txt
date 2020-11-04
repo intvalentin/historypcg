@@ -7,3 +7,4 @@ Sistem Intel Core i7 pana la 3.9GHz, 32GB DDR3, HDD 4TB + SSD 1TB, nVidia GeForc
     Pret    
 10/11/2020 9:26:28 AM 5995
 10/18/2020 1:26:56 PM 5960
+11/2/2020 2:51:29 PM 5959

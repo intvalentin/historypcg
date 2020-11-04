@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco114-99f99f36553008cf7e107d97f0a5d9d0
 1465190
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-compaq-2230s/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1086319/1465190/thumbnails/baterie-laptop-hp
 9/20/2020 11:14:20 PM 287,98 RON
 9/25/2020 4:01:12 PM 293,98 RON
 9/26/2020 6:01:02 PM 293,98 RON
+11/2/2020 11:57:15 AM 293,98 RON

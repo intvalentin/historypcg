@@ -6,3 +6,4 @@ https://www.emag.ro/access-point-cisco-80211ac-w2-ap-w-ca-3x4-3-int-ant-e-portur
 Access Point Cisco AIR-AP2802I-E-K9C , 80211ac W2 AP w/CA 3x4:3 Int Ant E , Porturi LAN 1 10/100/1000 Mbit/s , Viteza transfer 2 x 2600 Mbit/s , Antena 4 antene interne , nu contine sursa
     Pret    
 10/10/2020 5:06:03 PM 4093
+11/3/2020 3:55:03 PM 4093

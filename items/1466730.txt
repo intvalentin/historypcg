@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba188-832f52ee425f6bb8d4b77a810feec7fb
 1466730
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-satellite-l900-l900d-l950-l950d-l955-l955d/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1301183/1466730/thumbnails/baterie-laptop-to
 9/20/2020 11:13:42 PM 251,98 RON
 9/25/2020 3:58:57 PM 257,98 RON
 9/26/2020 5:58:46 PM 257,98 RON
+11/2/2020 11:47:37 AM 257,98 RON

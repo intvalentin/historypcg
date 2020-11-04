@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1131-49c05bdf83d8f51338fbfd7594f86916
 1512986
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-pro-pa2350uv/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1190677/1512986/thumbnails/baterie-laptop-as
 9/20/2020 11:14:16 PM 273,98 RON
 9/25/2020 3:49:55 PM 279,98 RON
 9/26/2020 5:49:47 PM 279,98 RON
+11/2/2020 11:20:58 AM 279,98 RON

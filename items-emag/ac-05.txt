@@ -10,3 +10,5 @@ Licenta electronica pentru turism si activitate hoteliera (Accommodation Abstrac
 10/5/2020 12:00:32 AM 3300
 10/8/2020 11:55:16 AM 3300
 10/15/2020 11:55:27 AM 3300
+10/31/2020 1:24:21 PM 3300
+11/1/2020 2:07:21 PM 3300

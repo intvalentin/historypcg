@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer183b77-d72f1b5afd47c759cc77479454e1b107
 2009246
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-ap16m5j-li-polymer-77v-4810mah-2-celule/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/2003606/2009246/thumbnails/baterie-laptop-ac
 9/20/2020 11:20:52 PM 253,98 RON
 9/25/2020 4:07:08 PM 259,98 RON
 9/26/2020 6:07:03 PM 259,98 RON
+11/2/2020 12:12:19 PM 257,98 RON

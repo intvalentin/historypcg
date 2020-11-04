@@ -7,3 +7,4 @@ Acumulator pentru rc Drone DJI Tello , cu port USB -1 buc.
     Pret    
 10/6/2020 2:38:46 PM 180
 10/18/2020 4:20:03 PM 180
+11/4/2020 1:15:20 PM 180

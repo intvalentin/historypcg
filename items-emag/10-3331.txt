@@ -7,3 +7,4 @@ Set calculator si licenta si Antivirus Desktop Pc Digital Base,Procesor Intel® 
     Pret    
 10/12/2020 10:28:29 AM 1980
 10/19/2020 5:03:04 PM 1980
+11/2/2020 8:16:00 PM 2038

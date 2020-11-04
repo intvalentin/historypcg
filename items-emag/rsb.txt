@@ -8,3 +8,5 @@ Soft restaurant si gestiune restaurant, MicroRestaurant Basic
 10/4/2020 11:25:50 PM 850
 10/8/2020 11:43:07 AM 850
 10/15/2020 11:52:54 AM 850
+10/31/2020 1:19:05 PM 850
+11/1/2020 1:54:24 PM 850

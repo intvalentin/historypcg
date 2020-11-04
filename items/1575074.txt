@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi111-da68461bea307092d5a2038698cfa2f7
 1575074
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gs70-2qc-stealth/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469758/1575074/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:45 PM 343,98 RON
 9/25/2020 3:44:40 PM 349,98 RON
 9/26/2020 5:44:33 PM 349,98 RON
+11/2/2020 10:59:03 AM 349,98 RON

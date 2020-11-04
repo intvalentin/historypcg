@@ -7,3 +7,4 @@ Adaptor USB 3.0 - Ethernet Gigabit 2.5, Type C, Digitus
     Pret    
 10/1/2020 9:24:37 AM 250
 10/16/2020 5:35:51 PM 250
+11/3/2020 5:47:10 PM 239

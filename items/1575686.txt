@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-856c238b242a92860e1be2faf458e5c6
 1575686
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp62m-7rd/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1510154/1575686/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:32 PM 241,98 RON
 9/25/2020 3:40:54 PM 245,98 RON
 9/26/2020 5:40:48 PM 245,98 RON
+11/2/2020 10:40:46 AM 245,98 RON

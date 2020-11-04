@@ -7,3 +7,4 @@ Senzor de temperatura Insteon, Alb
     Pret    
 10/13/2020 9:30:37 AM 90
 10/16/2020 1:43:05 PM 90
+11/2/2020 12:45:44 PM 90

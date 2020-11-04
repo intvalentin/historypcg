@@ -10,3 +10,4 @@ Procesor Intel® Core™ i3-8100 Coffee Lake, 3.60GHz, 6MB, Socket 1151 - Chipse
 10/8/2020 9:50:53 AM 551
 10/9/2020 6:12:45 PM 551
 10/10/2020 3:59:01 PM 551
+11/1/2020 12:34:34 PM 700

@@ -7,3 +7,4 @@ Smartwatch DM11,Monitorizare Ritm Cardiac,Pedometru,Verde
     Pret    
 10/11/2020 4:00:45 PM 198
 10/16/2020 11:21:28 AM 198
+11/2/2020 9:35:26 AM 198

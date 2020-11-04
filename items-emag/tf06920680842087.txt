@@ -8,3 +8,5 @@ Casti, Stereo, HandsFree, XO-EP1, Jack 3,5mm, Alb Blister
 10/7/2020 9:36:49 PM 32
 10/7/2020 9:40:21 PM 32
 10/15/2020 5:06:59 PM 32
+11/1/2020 5:41:57 PM 32
+11/1/2020 5:48:24 PM 32

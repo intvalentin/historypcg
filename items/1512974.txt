@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1131-9507622d44c43e2b1fdb79b81b500bf7
 1512974
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-pro-p2530ua/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1427466/1512974/thumbnails/baterie-laptop-as
 9/20/2020 11:14:11 PM 273,98 RON
 9/25/2020 3:49:55 PM 279,98 RON
 9/26/2020 5:49:47 PM 279,98 RON
+11/2/2020 11:21:46 AM 279,98 RON

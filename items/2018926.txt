@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer163b152-16b612f8b4dbb0d57880eaef1eb8e5b4
 2018926
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-swift-3-sf314-56-31wr/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8491/2018926/thumbnails/baterie-laptop-acer-
 9/20/2020 11:20:33 PM 241,98 RON
 9/25/2020 4:06:24 PM 245,98 RON
 9/26/2020 6:06:18 PM 245,98 RON
+11/2/2020 12:08:41 PM 245,98 RON

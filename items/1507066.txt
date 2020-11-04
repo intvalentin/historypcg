@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus194-345b8d93d4a53c97c26508053c9a0d6d
 1507066
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r516uw/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1431858/1507066/thumbnails/baterie-laptop-as
 9/20/2020 11:14:25 PM 313,98 RON
 9/25/2020 3:52:10 PM 319,98 RON
 9/26/2020 5:52:02 PM 319,98 RON
+11/2/2020 11:23:50 AM 319,98 RON

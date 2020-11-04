@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi111-debbc5f0b2ef320d8a359d6525c6d1cf
 1575102
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gs70-6qd/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475558/1575102/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:50 PM 343,98 RON
 9/25/2020 3:44:40 PM 349,98 RON
 9/26/2020 5:44:33 PM 349,98 RON
+11/2/2020 10:57:12 AM 349,98 RON

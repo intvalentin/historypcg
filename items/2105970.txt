@@ -1,0 +1,10 @@
+    Cod    |d340mc-i594000250
+2105970
+    Product link    
+https://www.pcgarage.ro/sisteme-brand/asus/d340mc-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ram-1tb-hdd-uhd-630-endless-os/
+    Name    
+Sistem brand ASUS D340MC, Procesor Intel® Core™ i5-9400 2.9GHz Coffee Lake, 8GB RAM, 1TB HDD, UHD 630, Endless OS
+    Img url    
+https://3.grgs.ro/images/products/1/8486/2105970/thumbnails/d340mc-procesor-intel-core-i5-9400-29ghz-coffee-lake-8gb-ddr4-256gb-ssd-gma-uhd-630-freedos-a69604aa8e8dcb3c4e6b5d35340a8759.jpg
+    Pret    
+11/2/2020 8:53:02 AM 2.599,98 RON

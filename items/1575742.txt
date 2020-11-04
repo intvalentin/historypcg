@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-c54772d14d62b96420e87fec46eef60b
 1575742
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp72-6qf/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1541210/1575742/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:37 PM 241,98 RON
 9/25/2020 3:40:08 PM 245,98 RON
 9/26/2020 5:40:03 PM 245,98 RON
+11/2/2020 10:36:19 AM 245,98 RON

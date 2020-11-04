@@ -8,3 +8,5 @@ Suport de birou pentru atarnarea unui computer Maclean MC-885 de 10 kg
 10/6/2020 6:57:10 PM 229
 10/8/2020 2:18:32 PM 229
 10/15/2020 2:36:05 PM 240
+10/31/2020 3:47:48 PM 220
+11/1/2020 4:31:02 PM 220

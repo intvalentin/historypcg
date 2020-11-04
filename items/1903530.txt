@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1136-8e7a79c9fca344c0e817535e47250c9c
 1903530
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-c21n1518-2icp4-63-134/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1899326/1903530/thumbnails/baterie-laptop-as
 9/20/2020 11:21:02 PM 255,98 RON
 9/25/2020 4:09:24 PM 261,98 RON
 9/26/2020 6:09:17 PM 261,98 RON
+11/2/2020 12:34:24 PM 259,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1150b152-588e0fd643b510e382b80fb4e66e2df8
 1970358
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-alienware-15-r4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1970358/thumbnails/baterie-laptop-dell-
 9/20/2020 11:23:39 PM 371,98 RON
 9/25/2020 4:07:08 PM 381,98 RON
 9/26/2020 6:07:03 PM 379,98 RON
+11/2/2020 12:17:03 PM 379,98 RON

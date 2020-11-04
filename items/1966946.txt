@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1141b-f59d84f960049aaf5b263d0203ebb0ac
 1966946
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-latitude-15-5590/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1966946/thumbnails/baterie-laptop-dell-
 9/20/2020 11:14:54 PM 383,98 RON
 9/25/2020 3:07:43 PM 391,98 RON
 9/26/2020 5:35:32 PM 391,98 RON
+11/2/2020 12:30:12 PM 391,98 RON

@@ -7,3 +7,5 @@ SSD extern ADATA SC685, 500GB Type-C, multiplatform, cable Type-C to C, cable Ty
     Pret    
 10/6/2020 11:36:24 AM 366
 10/15/2020 1:42:07 PM 370
+10/31/2020 3:25:40 PM 369
+11/1/2020 4:12:10 PM 369

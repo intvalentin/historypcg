@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell717-a2b4332577a627f32427b72dc799f2c6
 2086658
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/dell/incarcator-laptop-dell-20v-225a-45w-model-689c4-492-bbuu-usb-type-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/7008/2086658/thumbnails/incarcator-laptop-de
 9/20/2020 11:35:12 PM 155,98 RON
 9/25/2020 6:10:28 PM 157,98 RON
 9/26/2020 8:00:56 PM 157,98 RON
+11/2/2020 12:47:25 PM 157,98 RON

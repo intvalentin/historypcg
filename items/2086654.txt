@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell715-9f2333bdb11e59f75f7be28fd6821de6
 2086654
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/dell/incarcator-laptop-dell-20v-65a-130w-model-adp-130fb-ba-da130pm170-ubs-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7008/2086654/thumbnails/incarcator-laptop-de
 9/20/2020 11:37:34 PM 199,98 RON
 9/25/2020 6:10:28 PM 203,98 RON
 9/26/2020 8:00:56 PM 203,98 RON
+11/2/2020 12:47:41 PM 203,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-d51b9b1d723d5748a2dcb427e3d897d6
 1582774
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-z30-a-1dq/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469694/1582774/thumbnails/baterie-laptop-to
 9/20/2020 11:13:57 PM 257,98 RON
 9/25/2020 3:09:58 PM 263,98 RON
 9/26/2020 5:37:47 PM 263,98 RON
+11/2/2020 10:19:30 AM 263,98 RON

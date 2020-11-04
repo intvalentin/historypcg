@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco727-18b5538f0697d2c0d4c9a648ba0da844
 2068734
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-omen-15-dc0000-15-dc0300-135w-model-slim-sau-clasic/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068734/thumbnails/incarcator-laptop-hp
 9/20/2020 11:36:55 PM 177,98 RON
 9/25/2020 6:10:29 PM 181,98 RON
 9/26/2020 8:00:56 PM 181,98 RON
+11/2/2020 12:48:13 PM 181,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco725-d483ef4be03c21e18ab0bf2fd0342161
 2068706
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-omen-15-dc0000-15-dc0200-15-dc0900-15-dc0900nz-15-dc1048nq-15-dc1053nq-15-dc1057nq-15-dc1100-15-dc1200-15-dc1300-15-dc1700-15-dc1900-200w/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/4917/2068706/thumbnails/incarcator-laptop-hp
 9/20/2020 11:37:34 PM 221,98 RON
 9/25/2020 6:10:29 PM 227,98 RON
 9/26/2020 8:00:56 PM 227,98 RON
+11/2/2020 12:49:17 PM 225,98 RON

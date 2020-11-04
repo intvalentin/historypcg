@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-683be253f5be7226ba510c84c9c8b186
 1574854
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt73vr-ms-17a1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1520902/1574854/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:35 PM 327,98 RON
 9/25/2020 3:46:10 PM 335,98 RON
 9/26/2020 5:46:02 PM 335,98 RON
+11/2/2020 11:10:44 AM 335,98 RON

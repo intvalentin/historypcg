@@ -7,3 +7,4 @@ Releu Wi-Fi monitorizare consum electric Sonoff POW R2
     Pret    
 10/12/2020 9:32:54 PM 68
 10/16/2020 1:42:32 PM 66
+11/2/2020 12:36:01 PM 61

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs137-744915f44c31db138b9471b1a1da0512
 1867886
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ah556-ah77-s-ah77-m/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1867706/1867886/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:37:02 PM 263,98 RON

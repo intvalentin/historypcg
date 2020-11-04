@@ -9,3 +9,4 @@ Cooler ARCTIC cpu universal, ''Freezer 34'', soc 20xx/115x/AM4, Al-Cu, 4* heatpi
 10/4/2020 10:59:09 PM 155
 10/8/2020 11:12:14 AM 155
 10/15/2020 11:25:13 AM 155
+10/31/2020 12:40:48 PM 155

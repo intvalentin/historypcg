@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-a01a209312d7a84262afe37fff624b75
 1582802
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-z30-a-1hu/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1517618/1582802/thumbnails/baterie-laptop-to
 9/20/2020 11:14:01 PM 257,98 RON
 9/25/2020 3:09:58 PM 263,98 RON
 9/26/2020 5:37:47 PM 263,98 RON
+11/2/2020 10:17:38 AM 263,98 RON

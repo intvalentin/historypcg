@@ -7,3 +7,4 @@ Senzor de sapa Purmo, pentru temperatura sistem incalzire in pardoseala, 230V
     Pret    
 10/12/2020 10:36:16 PM 23
 10/16/2020 1:35:16 PM 23
+11/2/2020 12:39:42 PM 23

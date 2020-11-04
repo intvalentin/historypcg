@@ -9,3 +9,4 @@ Bratara fitness, display Oled 0.96Inch, monitorizare inima, calorii, alarma, not
 10/12/2020 5:33:28 PM 159
 10/16/2020 1:14:49 PM 159
 10/16/2020 1:21:53 PM 159
+11/2/2020 12:22:29 PM 159

@@ -7,3 +7,5 @@ Cooler procesor FSP Windale 6 AC601, compatibil AMD/Intel
     Pret    
 10/8/2020 11:12:29 AM 855
 10/15/2020 11:23:43 AM 814
+10/31/2020 12:39:52 PM 820
+11/1/2020 1:35:18 PM 820

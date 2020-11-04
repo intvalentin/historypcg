@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs138-97f76ff5dafdfd9819502c3471afc139
 1867890
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-e448-e449-e458/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1867706/1867890/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:36:47 PM 263,98 RON

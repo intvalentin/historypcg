@@ -9,3 +9,6 @@ EasyFCT-X program de emitere facturi, chitante, avize si certificate de garantie
 10/4/2020 11:21:41 PM 559
 10/8/2020 11:43:07 AM 559
 10/15/2020 11:57:06 AM 559
+10/31/2020 1:16:40 PM 559
+11/1/2020 1:51:58 PM 559
+11/1/2020 1:54:40 PM 559

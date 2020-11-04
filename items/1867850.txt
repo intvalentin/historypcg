@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-67d99393e6fb8939cf4874f2fed2015d
 1867850
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ph50-c-ph50-e/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1867850/thumbnails/baterie-laptop-fujit
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:10:09 PM 235,98 RON
 9/26/2020 6:10:02 PM 235,98 RON
+11/2/2020 12:40:11 PM 235,98 RON

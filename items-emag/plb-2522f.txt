@@ -8,3 +8,4 @@ Suport TV perete, fix, Sbox PLB-2522F, pentru diagonala 23'' - 43'', 35kg, VESA 
 9/30/2020 11:08:35 AM 44
 10/12/2020 3:22:22 PM 39
 10/16/2020 2:47:07 PM 39
+11/3/2020 4:54:40 PM 39

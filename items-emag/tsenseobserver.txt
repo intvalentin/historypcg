@@ -7,3 +7,5 @@ Senzor de temperatura/umiditate Observer, TSENSE, Wireless
     Pret    
 10/13/2020 8:45:08 AM 409
 10/16/2020 1:43:05 PM 499
+11/2/2020 12:46:59 PM 499
+11/2/2020 12:48:12 PM 499

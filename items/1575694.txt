@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-b21566d9078b4324da1656a44bccc922
 1575694
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp62mvr-6rf/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1505170/1575694/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:32 PM 241,98 RON
 9/25/2020 3:40:54 PM 245,98 RON
 9/26/2020 5:40:48 PM 245,98 RON
+11/2/2020 10:40:14 AM 245,98 RON

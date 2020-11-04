@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo126-ba6692e9ce6b9f7bc00d596b488c630f
 1489786
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-u450/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1427586/1489786/thumbnails/baterie-laptop-le
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 3:58:12 PM 259,98 RON
 9/26/2020 5:58:01 PM 259,98 RON
+11/2/2020 11:44:45 AM 259,98 RON

@@ -7,3 +7,4 @@ Intrerupator WiFi Sonoff TH16A compatibil cu senzor AM2301 si DS18B20 compatibil
     Pret    
 10/13/2020 8:50:52 AM 94
 10/16/2020 1:33:47 PM 94
+11/2/2020 12:39:10 PM 94

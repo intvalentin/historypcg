@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo126-c7ff68c99f31fe605a29becfbb7ba9b4
 1465978
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-ideapad-u450p-u550-model-57y6309-l09s6d21/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/978807/1465978/thumbnails/baterie-laptop-len
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 3:59:42 PM 259,98 RON
 9/26/2020 5:59:31 PM 259,98 RON
+11/2/2020 11:52:03 AM 259,98 RON

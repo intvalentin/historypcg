@@ -7,3 +7,5 @@ Releu Automatizare Ventilatoare Sonoff iFan03 cu Functie Control de pe telefonul
     Pret    
 10/12/2020 10:06:24 PM 133
 10/16/2020 1:40:37 PM 130
+11/2/2020 12:38:29 PM 130
+11/2/2020 12:40:24 PM 130

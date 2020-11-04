@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco711-927f6729110564c542b1f74f41aa10f2
 2068598
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-probook-640-g3-640-g4-45w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068598/thumbnails/incarcator-laptop-hp
 9/20/2020 11:26:17 PM 103,98 RON
 9/25/2020 6:11:13 PM 105,98 RON
 9/26/2020 8:01:41 PM 105,98 RON
+11/2/2020 12:56:50 PM 105,98 RON

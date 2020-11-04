@@ -9,3 +9,5 @@ Microsoft Windows 10 Professional Retailbox , Windows 10 USB
 10/4/2020 11:20:19 PM 505
 10/8/2020 11:41:42 AM 505
 10/15/2020 11:49:45 AM 466
+10/31/2020 1:15:11 PM 576
+11/1/2020 1:51:16 PM 576

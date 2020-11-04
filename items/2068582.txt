@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco711-7d708111388837882b52fdcdb19c63a8
 2068582
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-pavilion-15-ac035nc/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068582/thumbnails/incarcator-laptop-hp
 9/20/2020 11:26:17 PM 103,98 RON
 9/25/2020 6:11:57 PM 105,98 RON
 9/26/2020 8:02:26 PM 105,98 RON
+11/2/2020 12:57:53 PM 105,98 RON

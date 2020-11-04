@@ -6,3 +6,4 @@ https://www.emag.ro/access-point-mikrotik-rbcap2nd-tavan-perete-64-mb-ram-1xlan-
 Access Point MikroTik RBcAP2nD, tavan / perete, 64 MB RAM, 1xLAN 10/100, 2,4 GHz 802.11b / g / n, antena 2Dbi, RouterOS
     Pret    
 10/10/2020 4:57:12 PM 249
+11/3/2020 3:48:22 PM 249

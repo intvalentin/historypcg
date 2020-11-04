@@ -1,0 +1,11 @@
+    Cod    |afalcon-2t-c
+2108594
+    Product link    
+https://www.pcgarage.ro/ssd/a-data/falcon-2tb-pci-express-30-x4-m2-2280/
+    Name    
+SSD ADATA Falcon 2TB PCI Express 3.0 x4 M.2 2280
+    Img url    
+https://2.grgs.ro/images/products/1/6769/2108594/thumbnails/falcon-512gb-pci-express-30-x4-m2-2280-5f53d718177be567090bc43fc199aa5f.jpg
+    Pret    
+10/31/2020 1:10:46 PM 1.245,62 RON
+11/1/2020 2:21:28 PM 1.251,00 RON

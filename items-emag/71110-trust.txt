@@ -7,3 +7,4 @@ Consola de control smart home Trust Octopus ICS-2000
     Pret    
 10/12/2020 9:53:23 PM 599
 10/16/2020 1:35:32 PM 599
+11/2/2020 12:41:06 PM 1224

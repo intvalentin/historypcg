@@ -7,3 +7,4 @@ Convertor YPbPr la HDMI, Component RGB YPbPr la HDMI
     Pret    
 9/30/2020 10:02:00 PM 246
 10/16/2020 3:57:26 PM 246
+11/3/2020 5:45:30 PM 292

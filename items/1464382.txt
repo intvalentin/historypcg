@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus151-9dc66c8c7abdd4c7402553bf5c1c8701
 1464382
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n50vn-n50vm-n50vg-n50vf-n50vc-n50va-n50v-n50tr-n50tp-n50ta-n50t-n50f-n50e-n50a/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1461878/1464382/thumbnails/baterie-laptop-as
 9/20/2020 11:14:45 PM 341,98 RON
 9/25/2020 4:02:42 PM 349,98 RON
 9/26/2020 6:02:32 PM 349,98 RON
+11/2/2020 12:00:51 PM 347,98 RON

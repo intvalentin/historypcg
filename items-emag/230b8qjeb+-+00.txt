@@ -12,3 +12,5 @@ Monitor LED IPS Philips 22.5'', 5ms, Adaptive Sync, FlickerFree, Frameless, DVI,
 10/8/2020 9:09:43 AM 659
 10/14/2020 5:11:07 PM 659
 10/15/2020 9:22:29 AM 659
+10/31/2020 10:11:41 AM 659
+11/1/2020 11:58:57 AM 659

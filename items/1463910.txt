@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer161-f7f44d9fb10bb7028aaf692b8b5b98a8
 1463910
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-acer-aspire-s5-s5-351-s5-391-model-ap12b3f-4icp4-67-90/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1355324/1463910/thumbnails/baterie-laptop-ac
 9/20/2020 11:14:25 PM 313,98 RON
 9/25/2020 4:04:57 PM 319,98 RON
 9/26/2020 6:04:48 PM 319,98 RON
+11/2/2020 12:03:26 PM 319,98 RON

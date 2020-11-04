@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo127-808ad9966f6ac26fb5e3ea361e45a68e
 1465986
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-fru-42t4804-42t4805-42t4806-42t4807-42t4857-57y4564/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1427466/1465986/thumbnails/baterie-laptop-le
 9/20/2020 11:14:20 PM 279,98 RON
 9/25/2020 3:59:42 PM 287,98 RON
 9/26/2020 5:59:31 PM 285,98 RON
+11/2/2020 11:51:31 AM 285,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-fc4104b3ed20630b7c0a51f5b20bc8a1
 1575654
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp62-6qf-leopard-pro/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1469770/1575654/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:32 PM 241,98 RON
 9/25/2020 3:40:54 PM 245,98 RON
 9/26/2020 5:40:48 PM 245,98 RON
+11/2/2020 10:42:53 AM 245,98 RON

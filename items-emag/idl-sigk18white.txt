@@ -7,3 +7,4 @@ Ceas Smartwatch IDL Signature K18, Monitorizare puls, Notificari,Pedometru,Alarm
     Pret    
 10/12/2020 9:29:53 AM 398
 10/16/2020 12:31:13 PM 398
+11/2/2020 9:45:57 AM 398

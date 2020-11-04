@@ -12,3 +12,5 @@ Procesor Intel Core i5-9400F, 2.9 GHz, 9MB, fara grafica integrata, Socket 1151 
 10/8/2020 9:48:19 AM 649
 10/9/2020 6:11:31 PM 769
 10/10/2020 3:59:01 PM 806
+10/31/2020 11:02:25 AM 830
+11/1/2020 12:34:33 PM 789

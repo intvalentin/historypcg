@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus166-5f6711b99f085db677d5136ceed33a6c
 1966902
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r501j-r501jr/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8977/1966902/thumbnails/baterie-laptop-asus-
 9/20/2020 11:21:02 PM 255,98 RON
 9/25/2020 4:09:24 PM 261,98 RON
 9/26/2020 6:09:17 PM 261,98 RON
+11/2/2020 12:32:03 PM 259,98 RON

@@ -7,3 +7,4 @@ Set calculator si monitor Desktop Pc Digital Base,Procesor Intel® Core™I5 3.2
     Pret    
 10/12/2020 1:40:29 PM 1980
 10/18/2020 3:03:19 PM 1980
+11/2/2020 6:12:44 PM 2038

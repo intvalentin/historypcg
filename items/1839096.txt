@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco168-e675b4b773417f4f1ecc017f4ac66e3c
 1839096
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-spectre-pro-x360-g1-g2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2863/1839096/thumbnails/baterie-laptop-hp-sp
 9/20/2020 11:18:35 PM 219,98 RON
 9/25/2020 4:10:09 PM 223,98 RON
 9/26/2020 6:10:02 PM 223,98 RON
+11/2/2020 12:42:49 PM 223,98 RON

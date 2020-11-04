@@ -7,3 +7,5 @@ Suport pentru televizor cu reglare verticala si orizontala , ART , AR 52
     Pret    
 9/30/2020 1:28:34 PM 123
 10/16/2020 3:02:35 PM 122
+11/3/2020 4:54:55 PM 121
+11/3/2020 5:17:08 PM 164

@@ -14,3 +14,5 @@ https://5.grgs.ro/images/products/1/1573/1663224/thumbnails/my-passport-wireless
 10/5/2020 8:27:39 AM 1.136,09 RON
 10/7/2020 2:05:20 PM 1.134,00 RON
 10/15/2020 12:48:55 PM 1.135,96 RON
+10/31/2020 1:33:11 PM 1.143,52 RON
+11/1/2020 2:44:15 PM 1.140,66 RON

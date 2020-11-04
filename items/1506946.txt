@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus189-21709299c5d70ee9408339570edd3c8a
 1506946
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-x553sa/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1175151/1506946/thumbnails/baterie-laptop-as
 9/20/2020 11:13:52 PM 255,98 RON
 9/25/2020 3:52:10 PM 261,98 RON
 9/26/2020 5:52:02 PM 261,98 RON
+11/2/2020 11:26:10 AM 259,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1146b152-eb546f81439ca74be47c29f08986b623
 1966958
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-g5-15-5587/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/8977/1966958/thumbnails/baterie-laptop-dell-
 9/20/2020 11:23:34 PM 371,98 RON
 9/25/2020 4:08:39 PM 381,98 RON
 9/26/2020 6:08:33 PM 379,98 RON
+11/2/2020 12:29:24 PM 379,98 RON

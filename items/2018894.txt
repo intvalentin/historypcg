@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer163b152-1d380e007e4537d66fc3f9ca88fcbec6
 2018894
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-aspire-5-a515-52g-56j4/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/2013982/2018894/thumbnails/baterie-laptop-ac
 9/20/2020 11:20:33 PM 241,98 RON
 9/25/2020 4:06:25 PM 245,98 RON
 9/26/2020 6:06:18 PM 245,98 RON
+11/2/2020 12:11:00 PM 245,98 RON

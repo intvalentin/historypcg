@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer187b77-f36cbe34f76d9bf8a578bd345fd375cc
 2009262
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-ap17a7j-li-polymer-77v-4690mah-2-celule/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2003606/2009262/thumbnails/baterie-laptop-ac
 9/20/2020 11:22:57 PM 317,98 RON
 9/25/2020 4:07:08 PM 323,98 RON
 9/26/2020 6:07:03 PM 323,98 RON
+11/2/2020 12:11:31 PM 323,98 RON

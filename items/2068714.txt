@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco725-9a8ba707b560c4de75eb186bd4e02aff
 2068714
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-omen-17-cb0002nq-17-cb0004nq-17-cb0019nq-17-cb0020nq-17-cb0022nq-200w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068714/thumbnails/incarcator-laptop-hp
 9/20/2020 11:37:39 PM 221,98 RON
 9/25/2020 6:10:29 PM 227,98 RON
 9/26/2020 8:00:56 PM 227,98 RON
+11/2/2020 12:48:45 PM 225,98 RON

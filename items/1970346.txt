@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1149b114-e81f390dc5ad0e5e0a99c1f4d7129194
 1970346
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-inspiron-13-7386/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/8977/1970346/thumbnails/baterie-laptop-dell-
 9/20/2020 11:14:45 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:17:51 PM 335,98 RON

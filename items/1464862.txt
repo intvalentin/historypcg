@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus185-0ef60e0ecc2fc228a55ac4472861a223
 1464862
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-vivobook-k200ma-x200ca-x200m-x200ma-f200ca/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1457254/1464862/thumbnails/baterie-laptop-as
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 4:01:57 PM 261,98 RON
 9/26/2020 6:01:47 PM 261,98 RON
+11/2/2020 11:58:47 AM 259,98 RON

@@ -7,3 +7,4 @@ Bratara inteligenta Reflection Vision, functie de monitorizare puls si tensiune,
     Pret    
 10/12/2020 3:24:56 PM 39
 10/16/2020 1:03:03 PM 39
+11/2/2020 12:16:23 PM 39

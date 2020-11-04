@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1112-7b6485824ea5e86e30279ebb4a1ebd7e
 1465610
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-precision-m6400-m6500-model-8m039-c565c-dw842-j012f/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1355324/1465610/thumbnails/baterie-laptop-de
 9/20/2020 11:14:06 PM 273,98 RON
 9/25/2020 4:00:27 PM 279,98 RON
 9/26/2020 6:00:15 PM 279,98 RON
+11/2/2020 11:53:35 AM 279,98 RON

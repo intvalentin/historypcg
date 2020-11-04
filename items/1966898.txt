@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus166-34d918081309bd247736572864ce4afd
 1966898
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r501d-r501dp-r501dy/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/8977/1966898/thumbnails/baterie-laptop-asus-
 9/20/2020 11:21:02 PM 255,98 RON
 9/25/2020 4:09:24 PM 261,98 RON
 9/26/2020 6:09:17 PM 261,98 RON
+11/2/2020 12:32:19 PM 259,98 RON

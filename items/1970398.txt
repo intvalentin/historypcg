@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1151b76-c1d58a4b81e1ab6d1a00907381b9dcfb
 1970398
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-latitude-12-7280-1/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/8977/1970398/thumbnails/baterie-laptop-dell-
 9/20/2020 11:23:39 PM 371,98 RON
 9/25/2020 4:07:08 PM 381,98 RON
 9/26/2020 6:07:03 PM 379,98 RON
+11/2/2020 12:13:38 PM 379,98 RON

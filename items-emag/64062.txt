@@ -7,3 +7,4 @@ Adaptor USB-C 3.1 la 1 x HDMI-A + 2 x USB 3.0-A + 1 x USB-C + PD (Power Delivery
     Pret    
 10/14/2020 10:13:07 AM 240
 10/16/2020 4:59:42 PM 240
+11/2/2020 1:30:36 PM 240

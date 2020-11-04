@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-511681203c13a8ceb17129534a751bfc
 1575670
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp62-7rd-leopard/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1500686/1575670/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:32 PM 241,98 RON
 9/25/2020 3:40:54 PM 245,98 RON
 9/26/2020 5:40:48 PM 245,98 RON
+11/2/2020 10:41:49 AM 245,98 RON

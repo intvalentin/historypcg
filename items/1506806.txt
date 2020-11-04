@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus185-ce9d56d86180c22da7ec0dcd0e12a675
 1506806
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-f200c/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469770/1506806/thumbnails/baterie-laptop-as
 9/20/2020 11:13:47 PM 255,98 RON
 9/25/2020 3:52:56 PM 261,98 RON
 9/26/2020 5:52:47 PM 261,98 RON
+11/2/2020 11:35:21 AM 259,98 RON

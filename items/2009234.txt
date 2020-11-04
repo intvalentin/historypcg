@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer180-0dd26be1c337a0d480d447c580ee0386
 2009234
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-aspire-e5-574-e5-574g-e5-574g-76b9-e5-574g-774e-e5-574g-77kt-e5-574t-e5-574tg-e5-575g-7826-e5-575g-79wu/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/2003606/2009234/thumbnails/baterie-laptop-ac
 9/20/2020 11:18:35 PM 219,98 RON
 9/25/2020 4:07:08 PM 223,98 RON
 9/26/2020 6:07:03 PM 223,98 RON
+11/2/2020 12:12:51 PM 223,98 RON

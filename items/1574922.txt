@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-9fde3dd97023a9b6401f9db8a57c20d2
 1574922
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt80-2qc-titan-sli/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1475490/1574922/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:35 PM 327,98 RON
 9/25/2020 3:46:10 PM 335,98 RON
 9/26/2020 5:46:02 PM 335,98 RON
+11/2/2020 11:06:26 AM 335,98 RON

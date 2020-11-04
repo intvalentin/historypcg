@@ -7,3 +7,4 @@ Releu pentru temperatura si umiditate 10A Sonoff TH10
     Pret    
 10/12/2020 9:34:28 PM 46
 10/16/2020 1:28:27 PM 55
+11/2/2020 12:36:01 PM 49

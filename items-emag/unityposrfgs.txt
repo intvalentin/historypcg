@@ -10,3 +10,5 @@ Software Restaurant UnityPOS - Vanzare Fara Gestiune Stocuri
 10/4/2020 11:59:50 PM 950
 10/8/2020 11:43:49 AM 950
 10/15/2020 11:58:04 AM 950
+11/1/2020 1:57:44 PM 950
+11/1/2020 2:01:30 PM 950

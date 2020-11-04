@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-aefc691f0e8d2824685af6c12b87a2c9
 1575754
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp72-7qf-leopard-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469686/1575754/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:37 PM 241,98 RON
 9/25/2020 3:40:08 PM 245,98 RON
 9/26/2020 5:40:03 PM 245,98 RON
+11/2/2020 10:35:31 AM 245,98 RON

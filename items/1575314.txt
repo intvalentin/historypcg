@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi113-b440b54de15b66227339df50f91bb461
 1575314
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt72s-6qf-dominator-pro/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1475558/1575314/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:54 PM 371,98 RON
 9/25/2020 3:43:55 PM 379,98 RON
 9/26/2020 5:43:48 PM 379,98 RON
+11/2/2020 10:50:22 AM 379,98 RON

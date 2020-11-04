@@ -9,3 +9,5 @@ Cooler procesor Noctua NH-D15 Chromax.Black, compatibil AMD/Intel
 10/4/2020 10:57:04 PM 501
 10/8/2020 11:08:06 AM 501
 10/15/2020 11:20:50 AM 504
+10/31/2020 12:33:41 PM 549
+11/1/2020 1:32:14 PM 549

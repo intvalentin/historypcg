@@ -8,3 +8,6 @@ Program pentru editarea documentelor, MobiSystems, OfficeSuite Personal, pentru 
 10/8/2020 11:42:24 AM 106
 10/15/2020 11:50:26 AM 106
 10/15/2020 4:32:23 PM 39
+10/31/2020 1:16:25 PM 106
+11/1/2020 1:51:58 PM 106
+11/1/2020 5:37:39 PM 39

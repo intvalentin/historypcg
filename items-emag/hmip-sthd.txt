@@ -7,3 +7,4 @@ Senzor wireless de temperatura si umiditate, HmIP-STHD, Homematic IP
     Pret    
 10/13/2020 8:58:49 AM 416
 10/16/2020 1:37:43 PM 416
+11/2/2020 12:43:57 PM 416

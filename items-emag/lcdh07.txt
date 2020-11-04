@@ -9,3 +9,5 @@ Suport de perete 23''-42'', fix, cu boloboc incorporat Negru
 9/30/2020 6:27:55 PM 42
 10/16/2020 3:07:08 PM 39
 10/16/2020 3:21:25 PM 42
+11/3/2020 5:05:12 PM 39
+11/3/2020 5:29:28 PM 42

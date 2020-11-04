@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-bf23b04bda63b078807698c680d823a4
 1574870
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt73vr-6rf/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1516422/1574870/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:35 PM 327,98 RON
 9/25/2020 3:46:10 PM 335,98 RON
 9/26/2020 5:46:02 PM 335,98 RON
+11/2/2020 11:09:40 AM 335,98 RON

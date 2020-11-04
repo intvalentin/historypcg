@@ -8,3 +8,5 @@ Casti audio de silicon cu microfon si controlul volumului , Vakoss , SK214G , St
 10/6/2020 7:02:16 PM 20
 10/8/2020 2:18:32 PM 20
 10/15/2020 2:40:35 PM 20
+10/31/2020 3:50:32 PM 19
+11/1/2020 4:33:37 PM 19

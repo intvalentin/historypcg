@@ -7,3 +7,4 @@ Sistem Intel Core i7 pana la 3.9GHz, 16GB DDR3, SSD 500GB, nVidia GeForce GTX165
     Pret    
 10/10/2020 8:50:25 PM 3800
 10/18/2020 11:52:36 AM 3765
+11/2/2020 3:26:46 PM 3764

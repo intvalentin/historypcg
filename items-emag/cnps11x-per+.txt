@@ -9,3 +9,5 @@ Cooler procesor Zalman CNPS11x Performa +, compatibil AMD/Intel
 10/4/2020 10:59:52 PM 173
 10/8/2020 11:13:59 AM 180
 10/15/2020 11:21:32 AM 177
+10/31/2020 12:40:48 PM 187
+11/1/2020 1:35:59 PM 187

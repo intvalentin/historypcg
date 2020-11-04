@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs131-c5bc4c11daa03a211d635ab305744705
 1867826
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-s761/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1864870/1867826/thumbnails/baterie-laptop-fu
 9/20/2020 11:20:18 PM 239,98 RON
 9/25/2020 4:10:09 PM 245,98 RON
 9/26/2020 6:10:02 PM 245,98 RON
+11/2/2020 12:41:46 PM 245,98 RON

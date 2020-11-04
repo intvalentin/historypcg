@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs138-964c462413e633b35d62af81ebf2dd57
 1867902
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-t937-t938/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1867706/1867902/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:35:59 PM 263,98 RON

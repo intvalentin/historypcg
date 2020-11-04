@@ -8,3 +8,4 @@ Mini PC Intel® NUC June Canyon PC Barebone NUC7CJYH cu procesor Intel® Celeron
 10/9/2020 6:20:50 PM 614
 10/14/2020 10:33:43 AM 614
 10/16/2020 5:26:15 PM 614
+11/2/2020 1:41:20 PM 699

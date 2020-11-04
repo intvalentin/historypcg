@@ -7,3 +7,5 @@ Senzor de temperatura pentru Sonoff DS18B20
     Pret    
 10/13/2020 7:27:50 AM 30
 10/16/2020 1:43:04 PM 30
+11/2/2020 12:44:13 PM 30
+11/2/2020 12:48:28 PM 30

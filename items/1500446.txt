@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple122-f8c5a4bc454fb02c731e2a4017e45d04
 1500446
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-a1304-macbook-air-13/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1263508/1500446/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:16 PM 277,98 RON
 9/25/2020 3:55:11 PM 283,98 RON
 9/26/2020 5:55:01 PM 283,98 RON
+11/2/2020 11:40:58 AM 281,98 RON

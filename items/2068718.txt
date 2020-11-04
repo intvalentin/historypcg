@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco725-c4c58444be1c4dbbda13656c16679d41
 2068718
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-zbook-17-g5-200w/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068718/thumbnails/incarcator-laptop-hp
 9/20/2020 11:37:39 PM 221,98 RON
 9/25/2020 6:10:29 PM 227,98 RON
 9/26/2020 8:00:56 PM 227,98 RON
+11/2/2020 12:48:29 PM 225,98 RON

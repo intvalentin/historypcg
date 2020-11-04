@@ -8,3 +8,5 @@ Set calculator si licenta Desktop Pc Digital Base,Procesor Intel® Core™I5 3.2
 10/13/2020 11:41:30 AM 1994
 10/13/2020 9:32:06 PM 1994
 10/18/2020 6:02:48 PM 1994
+11/2/2020 4:14:43 PM 2052
+11/2/2020 7:32:24 PM 2052

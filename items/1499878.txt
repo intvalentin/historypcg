@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo164-b62f67a48837f0cc34d3b5259b7c8983
 1499878
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-y50-70-touch/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/978807/1499878/thumbnails/baterie-laptop-len
 9/20/2020 11:14:11 PM 273,98 RON
 9/25/2020 3:56:41 PM 279,98 RON
 9/26/2020 5:56:31 PM 279,98 RON
+11/2/2020 11:43:44 AM 279,98 RON

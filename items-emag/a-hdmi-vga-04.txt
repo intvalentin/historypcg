@@ -8,3 +8,4 @@ Gembird adapter HDMI-A M - VGA F, on cable, black
 9/30/2020 8:40:05 PM 29
 10/1/2020 7:52:03 AM 29
 10/16/2020 4:43:27 PM 25
+11/3/2020 6:29:37 PM 20

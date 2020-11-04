@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus185-1eecae1fd605abd365a9ad2c8737d885
 1506790
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-r200ca/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1408706/1506790/thumbnails/baterie-laptop-as
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 3:53:41 PM 261,98 RON
 9/26/2020 5:53:32 PM 261,98 RON
+11/2/2020 11:36:27 AM 259,98 RON

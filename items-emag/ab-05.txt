@@ -9,3 +9,5 @@ Soft Restaurante Horeca Manager - include implementare si o luna de abonament li
 10/4/2020 11:53:33 PM 699
 10/8/2020 11:43:07 AM 699
 10/15/2020 11:58:47 AM 699
+10/31/2020 1:19:06 PM 580
+11/1/2020 1:54:40 PM 580

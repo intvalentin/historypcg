@@ -7,3 +7,5 @@ Set servoreglator, Esbe CRD122 cu reglare functie de temperatura exterioara si a
     Pret    
 10/13/2020 10:08:16 AM 2944
 10/16/2020 1:44:34 PM 2944
+11/2/2020 12:46:43 PM 2944
+11/2/2020 12:48:28 PM 2944

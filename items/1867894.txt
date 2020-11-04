@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs138-ff0a9a493f9f331b695706c677f8d98f
 1867894
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-p727-p728/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/7399/1867894/thumbnails/baterie-laptop-fujit
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:36:31 PM 263,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-7d0c16b0db5ff16b3fa01eed33855619
 1574974
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt83vr-7rf-titan-sli/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1508470/1574974/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:45:25 PM 335,98 RON
 9/26/2020 5:45:17 PM 335,98 RON
+11/2/2020 11:02:13 AM 335,98 RON

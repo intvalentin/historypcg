@@ -11,3 +11,5 @@ Hard disk pentru sisteme supraveghere capacitate 1TB
 10/4/2020 10:09:38 PM 171
 10/8/2020 10:18:13 AM 171
 10/15/2020 10:22:14 AM 194
+10/31/2020 11:18:33 AM 194
+11/1/2020 12:46:47 PM 194

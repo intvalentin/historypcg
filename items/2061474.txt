@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus724-9fdf7e839d7d2f4e8ac0619cf89a2d1f
 2061474
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/asus/incarcator-laptop-asus-model-a17-150p1a-150w-195v-77a/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/6954/2061474/thumbnails/incarcator-laptop-as
 9/20/2020 11:23:46 PM 205,98 RON
 9/25/2020 6:11:57 PM 209,98 RON
 9/26/2020 8:02:26 PM 209,98 RON
+11/2/2020 12:58:25 PM 209,98 RON

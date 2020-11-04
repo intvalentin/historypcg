@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco716-4f0fd93550bd476c5577944b16c20094
 2068646
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-probook-470-g5-470-g7/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068646/thumbnails/incarcator-laptop-hp
 9/20/2020 11:35:12 PM 155,98 RON
 9/25/2020 6:11:13 PM 157,98 RON
 9/26/2020 8:01:41 PM 157,98 RON
+11/2/2020 12:52:56 PM 157,98 RON

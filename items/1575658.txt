@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-cfcca2330b29562a07baf67b5ea5176f
 1575658
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp62-7qf/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1517618/1575658/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:32 PM 241,98 RON
 9/25/2020 3:40:54 PM 245,98 RON
 9/26/2020 5:40:48 PM 245,98 RON
+11/2/2020 10:42:37 AM 245,98 RON

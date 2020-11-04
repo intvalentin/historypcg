@@ -7,3 +7,4 @@ Sistem Intel Core i7 pana la 3.9GHz, 32GB DDR3, HDD 2TB + SSD 240GB, nVidia GeFo
     Pret    
 10/11/2020 12:08:43 PM 4995
 10/13/2020 5:14:36 PM 4995
+11/2/2020 3:14:13 PM 4959

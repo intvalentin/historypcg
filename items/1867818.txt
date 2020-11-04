@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs131-40f8e85cc28556245aa5c6f6d800a009
 1867818
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-p771/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/7399/1867818/thumbnails/baterie-laptop-fujit
 9/20/2020 11:20:18 PM 239,98 RON
 9/25/2020 4:10:09 PM 245,98 RON
 9/26/2020 6:10:02 PM 245,98 RON
+11/2/2020 12:42:17 PM 245,98 RON

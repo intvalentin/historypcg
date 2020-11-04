@@ -7,3 +7,4 @@ Senzor smart de temperatura si umiditate Orvibo ST21 ZigBee
     Pret    
 10/12/2020 10:17:36 PM 163
 10/16/2020 1:40:53 PM 163
+11/2/2020 12:41:06 PM 163

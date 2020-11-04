@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-6010636eeba902d94b39c5458495d6fd
 1867862
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ah544-ah564/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1864870/1867862/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:38:38 PM 335,98 RON

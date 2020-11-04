@@ -7,3 +7,4 @@ Senzor de temperatura si umiditate Orvibo ST20-O ZigBee
     Pret    
 10/13/2020 9:48:04 AM 182
 10/16/2020 1:44:02 PM 182
+11/2/2020 12:41:06 PM 182

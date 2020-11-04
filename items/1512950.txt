@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1129-a82c2329bbc387f3955f8a87fd1170c0
 1512950
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n750jk/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457254/1512950/thumbnails/baterie-laptop-as
 9/20/2020 11:14:54 PM 383,98 RON
 9/25/2020 3:50:40 PM 391,98 RON
 9/26/2020 5:50:32 PM 391,98 RON
+11/2/2020 11:22:17 AM 391,98 RON

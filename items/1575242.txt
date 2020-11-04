@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi113-f2ca9ed55a428d2231696b6e15736c00
 1575242
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt72vr-6rd-dominator-tobii/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1520902/1575242/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:50 PM 371,98 RON
 9/25/2020 3:44:40 PM 379,98 RON
 9/26/2020 5:44:33 PM 379,98 RON
+11/2/2020 10:55:36 AM 379,98 RON

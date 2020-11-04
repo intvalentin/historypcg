@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo156-6cb61bb260bcd03a3a068474bc588de1
 1466182
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-45n1000-45n1001-45n1004-45n1005/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1431858/1466182/thumbnails/baterie-laptop-le
 9/20/2020 11:14:11 PM 273,98 RON
 9/25/2020 3:58:57 PM 279,98 RON
 9/26/2020 5:58:46 PM 279,98 RON
+11/2/2020 11:50:30 AM 279,98 RON

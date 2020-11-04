@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1150b114-49f2790ac5f1a6f5a2ae6b265e86f8cb
 1970370
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-alienware-15-r3-1/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8977/1970370/thumbnails/baterie-laptop-dell-
 9/20/2020 11:23:39 PM 371,98 RON
 9/25/2020 4:07:08 PM 381,98 RON
 9/26/2020 6:07:03 PM 379,98 RON
+11/2/2020 12:16:15 PM 379,98 RON

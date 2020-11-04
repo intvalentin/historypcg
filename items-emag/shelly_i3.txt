@@ -7,3 +7,5 @@ Modul Wi-Fi pentru activarea scenelor, Shelly, i3, portocaliu
     Pret    
 10/13/2020 9:09:38 AM 85
 10/16/2020 1:38:25 PM 85
+11/2/2020 12:39:26 PM 85
+11/2/2020 12:40:23 PM 85

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1149b114-8bab81255730b2c2e3f478f79f9cbdd9
 1970350
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-vostro-13-5370/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/8977/1970350/thumbnails/baterie-laptop-dell-
 9/20/2020 11:14:45 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:17:34 PM 335,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo717-d071121e0e3aee3d488d1d74b395a7e7
 2048534
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/lenovo/incarcator-laptop-lenovo-thinkpad-l490-65w-usb-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
 9/20/2020 11:38:33 PM 115,98 RON
 9/25/2020 8:24:54 PM 119,98 RON
 9/26/2020 10:25:48 PM 119,98 RON
+11/2/2020 1:01:22 PM 117,98 RON

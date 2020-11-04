@@ -7,3 +7,5 @@ Cablu extensie senzori de temperatura si umiditate Sonoff AL560, 5M lungime, Com
     Pret    
 10/12/2020 9:55:29 PM 27
 10/16/2020 1:41:35 PM 27
+11/2/2020 12:39:10 PM 27
+11/2/2020 12:41:47 PM 27

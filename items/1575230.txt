@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi113-f739e1e7a94c74ae6fcd334ee6c4fb73
 1575230
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt72vr-6rd/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1541210/1575230/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:50 PM 371,98 RON
 9/25/2020 3:44:40 PM 379,98 RON
 9/26/2020 5:44:33 PM 379,98 RON
+11/2/2020 10:56:08 AM 379,98 RON

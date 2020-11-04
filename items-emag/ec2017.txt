@@ -9,3 +9,5 @@ EasyCONT-X Program complet de contabilitate, gestiune, magazin, salarizare si an
 10/4/2020 11:21:00 PM 1118
 10/8/2020 11:42:24 AM 450
 10/15/2020 11:51:24 AM 450
+10/31/2020 1:16:24 PM 450
+11/1/2020 1:51:58 PM 450

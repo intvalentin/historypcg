@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco723-3ad72d9f6f495afc9706e35e94780bd9
 2068678
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-elitebook-830-g5-840-g5-850-g5-45w/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/4917/2068678/thumbnails/incarcator-laptop-hp
 9/20/2020 11:26:17 PM 103,98 RON
 9/25/2020 6:10:29 PM 105,98 RON
 9/26/2020 8:00:56 PM 105,98 RON
+11/2/2020 12:51:21 PM 105,98 RON

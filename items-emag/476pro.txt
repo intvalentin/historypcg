@@ -7,3 +7,4 @@ Detector de miscare Pir Paradox, 11m, detectie volumetrica
     Pret    
 10/12/2020 9:55:13 PM 52
 10/16/2020 1:37:44 PM 52
+11/2/2020 12:39:10 PM 51

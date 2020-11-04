@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-d45076b107be48c3784a8bcdfafef30d
 1867838
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ah42-c-ah42-d-ah42-e/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1867706/1867838/thumbnails/baterie-laptop-fu
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:10:09 PM 235,98 RON
 9/26/2020 6:10:02 PM 235,98 RON
+11/2/2020 12:40:58 PM 235,98 RON

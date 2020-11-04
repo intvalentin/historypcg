@@ -13,3 +13,4 @@ https://3.grgs.ro/images/products/1/1301183/1475058/thumbnails/server-2016-stand
 10/5/2020 10:06:28 AM 3.582,28 RON
 10/9/2020 1:31:20 PM 3.575,13 RON
 10/18/2020 10:18:41 AM 3.588,40 RON
+11/2/2020 6:31:34 PM 3.602,11 RON

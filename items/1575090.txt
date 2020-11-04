@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi111-38c6aa408ebbebda1a3bb6d3a774cd35
 1575090
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gs70-2qe-stealth-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469758/1575090/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:45 PM 343,98 RON
 9/25/2020 3:44:40 PM 349,98 RON
 9/26/2020 5:44:33 PM 349,98 RON
+11/2/2020 10:57:59 AM 349,98 RON

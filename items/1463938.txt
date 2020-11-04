@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple118-86e8814858d919c4e8692acddd76dd05
 1463938
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-macbook-air-11-quot-model-a1375-a1390-mc505-mc506-mc507/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1126098/1463938/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:54 PM 389,98 RON
 9/25/2020 4:04:56 PM 397,98 RON
 9/26/2020 6:04:48 PM 397,98 RON
+11/2/2020 12:02:39 PM 397,98 RON

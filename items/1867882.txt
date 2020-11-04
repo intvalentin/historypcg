@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs137-99408637c9d390a34a19e163b8d39882
 1867882
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-a556-a556-g/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1867706/1867882/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:37:18 PM 263,98 RON

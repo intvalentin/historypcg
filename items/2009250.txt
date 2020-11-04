@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer184b154-bf989a0ec7c65ddad6ea80625f00a5e3
 2009250
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/acer/baterie-laptop-acer-ap18e7m-li-polymer-154v-3720mah-4-celule/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/2003606/2009250/thumbnails/baterie-laptop-ac
 9/20/2020 11:20:52 PM 253,98 RON
 9/25/2020 4:07:08 PM 259,98 RON
 9/26/2020 6:07:03 PM 259,98 RON
+11/2/2020 12:12:03 PM 257,98 RON

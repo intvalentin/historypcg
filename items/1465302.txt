@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco145-52d4fa003cbcaa98d1971183190ab16b
 1465302
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-640-g0-640-g1/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1457334/1465302/thumbnails/baterie-laptop-hp
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 4:01:12 PM 259,98 RON
 9/26/2020 6:01:02 PM 259,98 RON
+11/2/2020 11:56:28 AM 259,98 RON

@@ -8,3 +8,4 @@ Intrerupator Smart ingropat cu 1 buton, Xiaomi Aqara, QBKG04LM, fara NUL, Zigbee
 10/12/2020 9:30:08 PM 169
 10/12/2020 9:33:57 PM 169
 10/16/2020 1:31:14 PM 169
+11/2/2020 12:36:02 PM 169

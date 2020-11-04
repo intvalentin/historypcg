@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdacer701-28e6dfe029c808d50677ca2077231f7b
 1792728
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/acer/incarcator-laptop-acer-aspire-v3-572g-v3-572p-v3-572pg/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3049/1792728/thumbnails/incarcator-laptop-ac
 9/20/2020 11:31:45 PM 115,98 RON
 9/25/2020 6:42:24 PM 119,98 RON
 9/26/2020 8:34:32 PM 119,98 RON
+11/2/2020 12:44:14 PM 117,98 RON

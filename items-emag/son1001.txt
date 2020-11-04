@@ -9,3 +9,5 @@ Program de gestiune stocuri cu facturare si retetar, Olimp NET
 10/4/2020 11:21:00 PM 499
 10/8/2020 11:43:48 AM 499
 10/15/2020 11:52:38 AM 499
+10/31/2020 1:17:37 PM 499
+11/1/2020 1:53:11 PM 499

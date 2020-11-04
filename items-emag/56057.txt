@@ -8,3 +8,6 @@ HDD extern Freecom Toughdrive, 1 TB, AES 256-bit hardware encryption, Negru
 10/6/2020 10:14:18 AM 471
 10/8/2020 1:46:46 PM 471
 10/15/2020 1:35:27 PM 471
+10/31/2020 3:18:58 PM 471
+10/31/2020 3:22:24 PM 471
+11/1/2020 4:07:00 PM 471

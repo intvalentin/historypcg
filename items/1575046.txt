@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi111-9bb309be7e32b7cdbe38c74a17bff849
 1575046
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gs70-ms-1771/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1469694/1575046/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:45 PM 343,98 RON
 9/25/2020 3:45:25 PM 349,98 RON
 9/26/2020 5:45:17 PM 349,98 RON
+11/2/2020 11:01:41 AM 349,98 RON

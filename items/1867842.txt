@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-17fc04c193e6627f8555e6f09cc6512c
 1867842
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ah502-ah512-ah530-ah531-ah532-ah550-ah562/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/7399/1867842/thumbnails/baterie-laptop-fujit
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:10:09 PM 235,98 RON
 9/26/2020 6:10:02 PM 235,98 RON
+11/2/2020 12:40:42 PM 235,98 RON

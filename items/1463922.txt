@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple114-14fe4ab80ee8a79869b422042a417006
 1463922
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-macbook-pro-15-quot-model-a1281-a1286-mb772/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1420862/1463922/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:50 PM 369,98 RON
 9/25/2020 4:04:57 PM 377,98 RON
 9/26/2020 6:04:48 PM 377,98 RON
+11/2/2020 12:03:10 PM 377,98 RON

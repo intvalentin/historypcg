@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1114-a29f864ffbb1d432b509ebfa3acf0be8
 1465614
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-vostro-3300-3350-model-50tkn-7w5x09c-grnx5-nf52t/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1427582/1465614/thumbnails/baterie-laptop-de
 9/20/2020 11:14:20 PM 287,98 RON
 9/25/2020 4:00:27 PM 293,98 RON
 9/26/2020 6:00:15 PM 293,98 RON
+11/2/2020 11:53:20 AM 291,98 RON

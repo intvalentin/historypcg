@@ -7,3 +7,5 @@ Senzor Temperatura Si Umiditate BlitzWolf BW-IS4 ZigBee
     Pret    
 10/13/2020 8:36:46 AM 134
 10/16/2020 1:35:32 PM 134
+11/2/2020 12:38:28 PM 134
+11/2/2020 12:40:23 PM 134

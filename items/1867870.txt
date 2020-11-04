@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs136-34ea17d2b373b7c4abd052e435c6f049
 1867870
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-e733-e734-e736-e743-e744-e746-e753-e754-e756/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1864870/1867870/thumbnails/baterie-laptop-fu
 9/20/2020 11:14:40 PM 327,98 RON
 9/25/2020 3:07:43 PM 335,98 RON
 9/26/2020 5:35:32 PM 335,98 RON
+11/2/2020 12:38:06 PM 335,98 RON

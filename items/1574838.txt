@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-c8cc147bac0333ab6a11d90ee9aae9b0
 1574838
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt62vr-7re/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1510154/1574838/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:30 PM 327,98 RON
 9/25/2020 3:46:55 PM 335,98 RON
 9/26/2020 5:46:47 PM 335,98 RON
+11/2/2020 11:12:33 AM 335,98 RON

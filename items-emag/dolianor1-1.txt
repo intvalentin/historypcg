@@ -9,3 +9,5 @@ Dolibarr ERP/ CRM, Subscriptie Basic a:nor, 1 luna, 1 utilizator
 10/4/2020 11:29:48 PM 60
 10/8/2020 11:46:10 AM 60
 10/15/2020 11:57:06 AM 60
+10/31/2020 1:22:57 PM 60
+11/1/2020 1:53:42 PM 60

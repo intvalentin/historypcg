@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi114-bab9dcb27bb569a1462fd8d75e99baba
 1575774
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gp72-7rdx/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1541210/1575774/thumbnails/baterie-laptop-ms
 9/20/2020 11:13:37 PM 241,98 RON
 9/25/2020 3:40:08 PM 245,98 RON
 9/26/2020 5:40:03 PM 245,98 RON
+11/2/2020 10:34:12 AM 245,98 RON

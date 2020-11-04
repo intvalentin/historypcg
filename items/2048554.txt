@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo717-1c90341fceff1d28cc08cdd0ef213bde
 2048554
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/lenovo/incarcator-laptop-lenovo-thinkpad-t495-65w-usb-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/1/iu/image_unavailable_thumbnails.jpg
 9/20/2020 11:38:33 PM 115,98 RON
 9/25/2020 8:24:09 PM 119,98 RON
 9/26/2020 10:25:00 PM 119,98 RON
+11/2/2020 1:00:18 PM 117,98 RON

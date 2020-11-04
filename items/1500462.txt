@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple122-7b32608cc66458dcd87847bff771c111
 1500462
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-mc233-macbook-air-13/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1187917/1500462/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:16 PM 277,98 RON
 9/25/2020 3:55:11 PM 283,98 RON
 9/26/2020 5:55:01 PM 283,98 RON
+11/2/2020 11:39:49 AM 281,98 RON

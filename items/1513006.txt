@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1131-ea0a03624823f97cebc0da7d67a6af78
 1513006
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-pro-p2540uv-dm0057d/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1510154/1513006/thumbnails/baterie-laptop-as
 9/20/2020 11:14:16 PM 273,98 RON
 9/25/2020 3:49:55 PM 279,98 RON
 9/26/2020 5:49:47 PM 279,98 RON
+11/2/2020 11:19:39 AM 279,98 RON

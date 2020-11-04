@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdsamsung128-22fbff02f4e979d8c341f19c1f433c58
 1477370
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-samsung-np530u4b/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1469694/1477370/thumbnails/baterie-laptop-sa
 9/20/2020 11:14:30 PM 323,98 RON
 9/25/2020 3:58:57 PM 331,98 RON
 9/26/2020 5:58:46 PM 331,98 RON
+11/2/2020 11:46:17 AM 329,98 RON

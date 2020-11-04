@@ -7,3 +7,4 @@ Set Adaptor pentru hard disk-uri IDE/SATA la USB 2.0
     Pret    
 9/30/2020 9:01:15 PM 63
 10/16/2020 3:27:37 PM 56
+11/3/2020 5:37:17 PM 67

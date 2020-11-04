@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-9042bb599bddb781edea3dbdfdf66092
 1574918
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt80-2qc/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1489074/1574918/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:35 PM 327,98 RON
 9/25/2020 3:46:10 PM 335,98 RON
 9/26/2020 5:46:02 PM 335,98 RON
+11/2/2020 11:06:42 AM 335,98 RON

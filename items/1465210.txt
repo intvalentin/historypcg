@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco125-83a86cd47bf5cf2738e46df99ddbae2f
 1465210
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-5310m-5320m/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1457254/1465210/thumbnails/baterie-laptop-hp
 9/20/2020 11:14:45 PM 337,98 RON
 9/25/2020 4:01:12 PM 343,98 RON
 9/26/2020 6:01:02 PM 343,98 RON
+11/2/2020 11:56:59 AM 343,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus162-438029a5659b4e72048876216afe9ec8
 1464530
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-n82e-n82ei-n82j-n82jg-n82jq-n82jv-a32-n82-a42-n82/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1415042/1464530/thumbnails/baterie-laptop-as
 9/20/2020 11:14:50 PM 345,98 RON
 9/25/2020 4:02:42 PM 353,98 RON
 9/26/2020 6:02:32 PM 353,98 RON
+11/2/2020 12:00:03 PM 353,98 RON

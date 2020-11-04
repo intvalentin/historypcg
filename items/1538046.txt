@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell179-cf94efd4cb3722153009613a5d8390d9
 1538046
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-inspiron-14z-1470/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1431858/1538046/thumbnails/baterie-laptop-de
 9/20/2020 11:14:16 PM 275,98 RON
 9/25/2020 3:49:10 PM 281,98 RON
 9/26/2020 5:49:02 PM 281,98 RON
+11/2/2020 11:16:18 AM 281,98 RON

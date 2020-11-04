@@ -7,3 +7,4 @@ Bratara fitness Zeblaze Crystal 3, Monitorizare ritm cardiac, Presiune sanguina,
     Pret    
 10/12/2020 6:08:07 PM 199
 10/16/2020 1:12:47 PM 120
+11/2/2020 12:25:42 PM 120

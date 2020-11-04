@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-42c21cfce0b3c17693e12b9466c6effc
 1800580
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-satellite-z30t-a-z30t-a-11z-z30t-a-127/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4338/1800580/thumbnails/baterie-laptop-toshi
 9/20/2020 11:14:06 PM 257,98 RON
 9/25/2020 3:08:28 PM 263,98 RON
 9/26/2020 5:36:17 PM 263,98 RON
+11/2/2020 10:08:11 AM 263,98 RON

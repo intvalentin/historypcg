@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco724-a784a8e93893402de1411f11363fb2f2
 2068694
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-elite-dragonfly-usb-type-c/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/4917/2068694/thumbnails/incarcator-laptop-hp
 9/20/2020 11:32:34 PM 115,98 RON
 9/25/2020 6:10:29 PM 119,98 RON
 9/26/2020 8:00:56 PM 119,98 RON
+11/2/2020 12:50:33 PM 117,98 RON

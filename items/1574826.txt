@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-0eac67fb13805a8e37dbffe7a95fc5ec
 1574826
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt62vr-6re-dominator-pro/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/1541210/1574826/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:30 PM 327,98 RON
 9/25/2020 3:46:55 PM 335,98 RON
 9/26/2020 5:46:47 PM 335,98 RON
+11/2/2020 11:13:27 AM 335,98 RON

@@ -7,3 +7,4 @@ Sistem Intel Core i7 pana la 3.9GHz, 32GB DDR3, SSD 1TB, nVidia GeForce GTX1660 
     Pret    
 10/12/2020 3:25:11 PM 5649
 10/18/2020 2:54:18 PM 5614
+11/2/2020 6:56:29 PM 5613

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp152-6965236d4ee422188650543d854b019e
 1465090
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-4210s-4310s-4311s/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1457334/1465090/thumbnails/baterie-laptop-hp
 9/20/2020 11:14:25 PM 307,98 RON
 9/25/2020 4:01:57 PM 313,98 RON
 9/26/2020 6:01:47 PM 313,98 RON
+11/2/2020 11:57:31 AM 313,98 RON

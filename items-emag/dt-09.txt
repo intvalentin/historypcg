@@ -10,3 +10,6 @@ Bratara Fitness Wearfit C1 plus Color IPS,Ritm Cardiac,Monitor de oxigen pentru 
 10/16/2020 12:10:13 PM 85
 10/16/2020 1:16:35 PM 98
 10/16/2020 1:18:20 PM 99
+11/2/2020 11:59:35 AM 85
+11/2/2020 12:23:42 PM 98
+11/2/2020 12:30:11 PM 99

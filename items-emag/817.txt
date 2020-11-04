@@ -7,3 +7,4 @@ Pachet Sonoff TH16 + senzor temperatura rezistent la apa Sonoff DS18B20
     Pret    
 10/12/2020 10:06:40 PM 140
 10/16/2020 1:42:49 PM 140
+11/2/2020 12:48:28 PM 140

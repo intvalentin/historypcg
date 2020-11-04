@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo158-0fe8549a5013d7867d1fc7dfc661261d
 1466194
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-l450/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1094679/1466194/thumbnails/baterie-laptop-le
 9/20/2020 11:22:47 PM 305,98 RON
 9/25/2020 5:53:16 PM 313,98 RON
 9/26/2020 7:34:18 PM 313,98 RON
+11/2/2020 11:49:59 AM 311,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco146-6b648d3f36f7d7d57f1b3d5ad14562d5
 1535891
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-zbook-15u-g3/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1469694/1535891/thumbnails/baterie-laptop-hp
 9/20/2020 11:14:06 PM 259,98 RON
 9/25/2020 3:49:55 PM 265,98 RON
 9/26/2020 5:49:47 PM 265,98 RON
+11/2/2020 11:18:23 AM 263,98 RON

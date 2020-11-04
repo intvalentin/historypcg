@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdmsi109-9a1ed3865a4100c18e74f7c06b293a20
 1574882
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-msi-gt73vr-7re-titan/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1496454/1574882/thumbnails/baterie-laptop-ms
 9/20/2020 11:14:35 PM 327,98 RON
 9/25/2020 3:46:10 PM 335,98 RON
 9/26/2020 5:46:02 PM 335,98 RON
+11/2/2020 11:08:52 AM 335,98 RON

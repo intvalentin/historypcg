@@ -9,3 +9,5 @@ Cablu HDMI high speed cu ethernet LogiLink, 2m, (T/T), suporta rezolutii 3D TV s
 10/1/2020 5:33:00 PM 42
 10/16/2020 4:48:11 PM 38
 10/16/2020 5:33:23 PM 47
+11/3/2020 5:38:57 PM 38
+11/3/2020 6:28:49 PM 42

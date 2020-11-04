@@ -7,3 +7,4 @@ Convertor semnal analog VGA + audio pe jack 3.5mm stereo la semnal digital HDMI,
     Pret    
 10/13/2020 5:27:28 PM 45
 10/19/2020 6:50:11 PM 45
+11/3/2020 8:01:34 AM 45

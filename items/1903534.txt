@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus1136-49379e7a9700041bb19eb174bd96dd06
 1903534
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-vivobook-flip-tp501u/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1202/1903534/thumbnails/baterie-laptop-asus-
 9/20/2020 11:21:02 PM 255,98 RON
 9/25/2020 4:09:24 PM 261,98 RON
 9/26/2020 6:09:17 PM 261,98 RON
+11/2/2020 12:34:08 PM 259,98 RON

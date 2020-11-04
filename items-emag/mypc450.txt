@@ -7,3 +7,4 @@ Sistem PC Intel Core i7 Haswell pana la 3.900 MHz, 16GB DDR3, HDD 1TB + SSD 120G
     Pret    
 10/11/2020 4:32:47 PM 4180
 10/18/2020 12:52:53 PM 4145
+11/2/2020 2:54:57 PM 4144

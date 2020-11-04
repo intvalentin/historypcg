@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco724-9c175125037a17b83a8124d64bb959d8
 2068698
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-probook-x360-440-g1-usb-type-c/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068698/thumbnails/incarcator-laptop-hp
 9/20/2020 11:32:34 PM 115,98 RON
 9/25/2020 6:10:29 PM 119,98 RON
 9/26/2020 8:00:56 PM 119,98 RON
+11/2/2020 12:50:17 PM 117,98 RON

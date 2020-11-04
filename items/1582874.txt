@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba189-8656db7998d3c756e43d02c1f7a89ba4
 1582874
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-z30-c-16k/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1500686/1582874/thumbnails/baterie-laptop-to
 9/20/2020 11:14:06 PM 257,98 RON
 9/25/2020 3:09:13 PM 263,98 RON
 9/26/2020 5:37:02 PM 263,98 RON
+11/2/2020 10:12:08 AM 263,98 RON

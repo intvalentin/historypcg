@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco711-d08973467e6bf0438bfe1ed7a4de720a
 2068590
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-probook-440-g4-440-g5-440-g6-45w/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/4917/2068590/thumbnails/incarcator-laptop-hp
 9/20/2020 11:26:17 PM 103,98 RON
 9/25/2020 6:11:13 PM 105,98 RON
 9/26/2020 8:01:41 PM 105,98 RON
+11/2/2020 12:57:22 PM 105,98 RON

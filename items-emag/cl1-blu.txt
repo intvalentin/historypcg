@@ -7,3 +7,4 @@ Smartwatch Crimso Light 1,Pedometru,Monitorizare Puls,Albastru
     Pret    
 10/11/2020 3:44:45 PM 119
 10/16/2020 11:16:52 AM 119
+11/2/2020 9:43:15 AM 119

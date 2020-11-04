@@ -7,3 +7,5 @@ Releu pentru automatizari Smart Home, Shelly, Shelly-RGBW2, Wi-Fi, 2.4 GHz b/g/n
     Pret    
 10/12/2020 10:29:46 PM 179
 10/16/2020 1:43:05 PM 160
+11/2/2020 12:39:10 PM 160
+11/2/2020 12:41:47 PM 160

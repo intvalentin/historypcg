@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus156-0a484065f0ad6be60bd780bd7f0fe4b9
 1464462
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-asus-g74-g74j-g74jh-g74s-g74sw-g74sx-a42-g74/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1358815/1464462/thumbnails/baterie-laptop-as
 9/20/2020 11:14:20 PM 287,98 RON
 9/25/2020 4:02:42 PM 295,98 RON
 9/26/2020 6:02:32 PM 295,98 RON
+11/2/2020 12:00:19 PM 293,98 RON

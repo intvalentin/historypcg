@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |u1
 1408294
     Product link    
 https://www.pcgarage.ro/adaptoare-wireless/tenda/u1-ultra-fast/
@@ -9,3 +9,4 @@ https://2.grgs.ro/images/products/1/1025741/1408294/thumbnails/u1-ultra-fast-f84
     Pret    
 9/26/2020 2:52:29 PM 49,06 RON
 9/27/2020 6:54:06 PM 49,06 RON
+11/3/2020 10:15:57 AM 48,94 RON

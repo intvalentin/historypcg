@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo127-4e7bfa70a742b55ac3915aee0ed549df
 1465982
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-edge-e30-e31-thinkpad-edge-13-quot/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1178653/1465982/thumbnails/baterie-laptop-le
 9/20/2020 11:14:20 PM 279,98 RON
 9/25/2020 3:59:42 PM 287,98 RON
 9/26/2020 5:59:31 PM 285,98 RON
+11/2/2020 11:51:47 AM 285,98 RON

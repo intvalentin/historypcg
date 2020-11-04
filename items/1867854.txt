@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-3b5dd60beb8ed2512acecac7d953fee3
 1867854
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-ph521/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1864870/1867854/thumbnails/baterie-laptop-fu
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:09:24 PM 235,98 RON
 9/26/2020 6:09:17 PM 235,98 RON
+11/2/2020 12:39:55 PM 235,98 RON

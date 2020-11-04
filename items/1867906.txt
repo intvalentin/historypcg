@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs139-28cd31062e86bc52596e0a61578a0220
 1867906
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-bh531/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1867706/1867906/thumbnails/baterie-laptop-fu
 9/20/2020 11:21:43 PM 259,98 RON
 9/25/2020 4:09:24 PM 265,98 RON
 9/26/2020 6:09:17 PM 265,98 RON
+11/2/2020 12:35:43 PM 263,98 RON

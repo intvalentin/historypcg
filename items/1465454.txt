@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell172-762cbcdbff2a1873f05d12f8477b16d0
 1465454
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-inspiron-1210-1210n-inspiron-mini-12/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1126098/1465454/thumbnails/baterie-laptop-de
 9/20/2020 11:14:20 PM 279,98 RON
 9/25/2020 4:00:27 PM 285,98 RON
 9/26/2020 6:00:15 PM 285,98 RON
+11/2/2020 11:54:23 AM 283,98 RON

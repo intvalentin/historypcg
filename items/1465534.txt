@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell192-851b0ea53dd4333b5c9b537f27e30650
 1465534
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-vostro-v13-v130-model-t1g6p-0prw6g-0449tx/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1301253/1465534/thumbnails/baterie-laptop-de
 9/20/2020 11:14:54 PM 379,98 RON
 9/25/2020 4:00:27 PM 387,98 RON
 9/26/2020 6:00:15 PM 387,98 RON
+11/2/2020 11:53:51 AM 387,98 RON

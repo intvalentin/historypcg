@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdlenovo125-ec1ca30cbec412d796b45cec3ddbc96f
 1792848
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-lenovo-thinkpad-t410-t410i-t420-t510-t510i-t520-t520i/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/3049/1792848/thumbnails/baterie-laptop-lenov
 9/20/2020 11:12:58 PM 239,98 RON
 9/25/2020 3:09:13 PM 245,98 RON
 9/26/2020 5:37:02 PM 245,98 RON
+11/2/2020 10:10:48 AM 245,98 RON

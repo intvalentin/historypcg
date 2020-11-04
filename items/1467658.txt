@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdasus7050-dffbf1a6d47a97dc5de54c51b57b535b
 1467658
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/asus/incarcator-laptop-asus-x751la-x751lav-x751lb-x751ld-x751ldv-x751lj-x751ln/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1301253/1467658/thumbnails/incarcator-laptop
 9/20/2020 11:23:56 PM 115,98 RON
 9/25/2020 6:10:28 PM 119,98 RON
 9/26/2020 8:00:56 PM 119,98 RON
+11/2/2020 12:44:30 PM 117,98 RON

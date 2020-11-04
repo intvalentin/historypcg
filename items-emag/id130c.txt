@@ -11,3 +11,5 @@ Bratara fitness color, display Oled 0.96Inch, monitorizare batai inima, calorii,
 10/16/2020 1:14:17 PM 189
 10/16/2020 1:15:46 PM 189
 10/16/2020 1:19:09 PM 189
+11/2/2020 12:21:57 PM 189
+11/2/2020 12:25:59 PM 189

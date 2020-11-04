@@ -9,3 +9,5 @@ Cooler procesor Inter-Tech Argus SU-800 RGB, compatibil AMD/Intel
 10/4/2020 11:03:51 PM 69
 10/8/2020 11:14:57 AM 58
 10/15/2020 11:21:31 AM 62
+10/31/2020 12:33:41 PM 58
+11/1/2020 1:32:14 PM 58

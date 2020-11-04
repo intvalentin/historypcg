@@ -9,3 +9,5 @@ Aplicatie Software WINDEVRO pentru elaborararea, analiza si calculul devizelor p
 10/4/2020 11:26:06 PM 3332
 10/8/2020 11:45:28 AM 3332
 10/15/2020 11:52:38 AM 3332
+10/31/2020 1:18:50 PM 3332
+11/1/2020 1:54:23 PM 3332

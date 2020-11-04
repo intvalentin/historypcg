@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdtoshiba195-dbed128285367a795cdd9d94b0ea80e6
 1580762
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-toshiba-portege-r30-a-14d/
@@ -10,3 +10,4 @@ https://3.grgs.ro/images/products/1/953558/1580762/thumbnails/baterie-laptop-tos
 9/20/2020 11:14:21 PM 287,98 RON
 9/25/2020 3:11:28 PM 293,98 RON
 9/26/2020 5:39:18 PM 293,98 RON
+11/2/2020 10:30:32 AM 293,98 RON

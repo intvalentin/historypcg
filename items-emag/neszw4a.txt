@@ -7,3 +7,4 @@ Senzor de miscare, temperatura si umiditate WiFi cu USB NEO PD07W
     Pret    
 10/12/2020 9:47:06 PM 119
 10/16/2020 1:35:16 PM 109
+11/2/2020 12:39:42 PM 99

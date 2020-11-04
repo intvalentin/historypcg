@@ -19,3 +19,5 @@ Laptop ultraportabil Lenovo ThinkPad T490s cu procesor Intel® Core™ i7-8565U 
 10/14/2020 5:04:04 PM 9499
 10/15/2020 8:58:23 AM 9499
 10/15/2020 9:14:00 AM 9499
+10/31/2020 9:58:59 AM 9889
+11/1/2020 11:51:09 AM 9889

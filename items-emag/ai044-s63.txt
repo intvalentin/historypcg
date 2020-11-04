@@ -7,3 +7,4 @@ Senzor de temperatura rezistent la apa, fara mufa, DS18B20
     Pret    
 10/12/2020 10:15:20 PM 14
 10/16/2020 1:32:02 PM 14
+11/2/2020 12:36:01 PM 14

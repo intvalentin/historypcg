@@ -8,3 +8,5 @@ Sistem Desktop PC cu procesor Intel® Core™ i5-4690 3.50 GHz (6M Cache, pana l
 10/10/2020 1:57:33 PM 1990
 10/18/2020 1:18:34 PM 1990
 10/18/2020 4:05:34 PM 499
+11/2/2020 2:47:52 PM 1990
+11/2/2020 2:52:58 PM 1990

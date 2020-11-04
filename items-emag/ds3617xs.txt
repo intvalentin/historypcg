@@ -6,3 +6,4 @@ https://www.emag.ro/network-attached-storage-synology-12-bay-4-x-gigabit-lan-2-x
 Network Attached Storage Synology DS3617xs, 12-bay, 4 x Gigabit LAN, 2 x USB 3.0, 2 x Expansion port, CPU Intel Xeon Quad Core D-1527, 16GB DDR4 ECC
     Pret    
 10/10/2020 5:45:44 PM 14993
+11/3/2020 3:58:16 PM 14977

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdfs132-724a2de3960bf115ca9f07823c4eace6
 1867834
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-fujitsu-lifebook-a512-a530-a531-a532/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/1864870/1867834/thumbnails/baterie-laptop-fu
 9/20/2020 11:19:44 PM 231,98 RON
 9/25/2020 4:10:09 PM 235,98 RON
 9/26/2020 6:10:02 PM 235,98 RON
+11/2/2020 12:41:14 PM 235,98 RON

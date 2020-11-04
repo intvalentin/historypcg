@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmddell1120-f1ff0e395eb112a2245383ad05ffcc75
 1465622
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-dell-latitude-e5440-e5540-model-f49wx-n5yh9-nvwgm-vjxmc-vv0nf-wgcw6/
@@ -10,3 +10,4 @@ https://5.grgs.ro/images/products/1/1146523/1465622/thumbnails/baterie-laptop-de
 9/20/2020 11:14:11 PM 273,98 RON
 9/25/2020 4:00:27 PM 279,98 RON
 9/26/2020 6:00:15 PM 279,98 RON
+11/2/2020 11:53:04 AM 279,98 RON

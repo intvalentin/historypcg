@@ -7,3 +7,5 @@ Dispozitiv de acces la internet fara fir cu banda dubla si radio , Zyxel WAC6103
     Pret    
 10/10/2020 5:18:11 PM 1939
 10/10/2020 5:20:35 PM 1696
+11/3/2020 3:56:47 PM 1879
+11/3/2020 3:57:18 PM 1803

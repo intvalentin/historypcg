@@ -10,3 +10,6 @@ Licenta electronica pentru gestiunea marfurilor si contabilitate primara in unit
 10/4/2020 11:59:50 PM 3600
 10/8/2020 11:54:35 AM 3600
 10/15/2020 11:58:04 AM 3600
+10/31/2020 1:22:00 PM 3600
+10/31/2020 1:32:02 PM 3600
+11/1/2020 1:57:02 PM 3600

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco725-795a1350dbe2f1efbb2c2976dac724ca
 2068710
     Product link    
 https://www.pcgarage.ro/incarcatoare-notebook/hp/incarcator-laptop-hp-omen-15-dh0003nq-15-dh0012nq-15-dh0020nq-15-dh0024nq-15-dh0025nq-15-dh0026nq-15-dh0028nq-15-dh0029nq-15-dh0031nq-15-dh0037nq-15-dh0039nq-200w/
@@ -10,3 +10,4 @@ https://2.grgs.ro/images/products/1/4917/2068710/thumbnails/incarcator-laptop-hp
 9/20/2020 11:37:39 PM 221,98 RON
 9/25/2020 6:10:29 PM 227,98 RON
 9/26/2020 8:00:56 PM 227,98 RON
+11/2/2020 12:49:01 PM 225,98 RON

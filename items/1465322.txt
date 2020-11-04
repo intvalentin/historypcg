@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhpco146-4acc4bb19c1b5a77e9e36e117d84edbb
 1465322
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-elitebook-740-g1-740-g2-745-g2-750-g1-750-g2-755-g2/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1263508/1465322/thumbnails/baterie-laptop-hp
 9/20/2020 11:14:06 PM 259,98 RON
 9/25/2020 4:01:12 PM 265,98 RON
 9/26/2020 6:01:02 PM 265,98 RON
+11/2/2020 11:55:24 AM 263,98 RON

@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdhp144-df6edca15ecc2eb3c67118fa76dc456b
 1464994
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-hp-probook-4410s-4411s-4415s-4416s/
@@ -10,3 +10,4 @@ https://4.grgs.ro/images/products/1/1355434/1464994/thumbnails/baterie-laptop-hp
 9/20/2020 11:13:42 PM 255,98 RON
 9/25/2020 4:01:57 PM 259,98 RON
 9/26/2020 6:01:47 PM 259,98 RON
+11/2/2020 11:58:31 AM 259,98 RON

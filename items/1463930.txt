@@ -1,4 +1,4 @@
-    Cod    
+    Cod    |mmdapple116-257d50d8c4f3f993d5f2ca1feddc8f8d
 1463930
     Product link    
 https://www.pcgarage.ro/acumulatori-notebook/mmd/baterie-laptop-apple-macbook-pro-17-quot-model-a1297-a1309-mc226/
@@ -10,3 +10,4 @@ https://1.grgs.ro/images/products/1/1355434/1463930/thumbnails/baterie-laptop-ap
 9/20/2020 11:14:54 PM 377,98 RON
 9/25/2020 4:04:56 PM 385,98 RON
 9/26/2020 6:04:48 PM 385,98 RON
+11/2/2020 12:02:54 PM 385,98 RON

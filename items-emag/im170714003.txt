@@ -7,3 +7,4 @@ Senzor de temperatura si umiditate SI7021 pentru Sonoff TH
     Pret    
 10/12/2020 9:41:27 PM 37
 10/16/2020 1:39:55 PM 37
+11/2/2020 12:39:10 PM 37

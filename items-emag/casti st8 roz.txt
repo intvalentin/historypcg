@@ -8,3 +8,5 @@ Casti bluetooth cu microfon si radio Fm si SD card ST8 roz
 10/6/2020 4:40:13 PM 73
 10/8/2020 2:07:39 PM 73
 10/15/2020 2:34:33 PM 73
+11/1/2020 4:24:55 PM 65
+11/1/2020 4:28:02 PM 65

@@ -9,3 +9,5 @@ Soft Facturare Standard Bitorder - program de facturare cu licenta permanenta
 10/4/2020 11:24:14 PM 200
 10/8/2020 11:43:48 AM 200
 10/15/2020 11:58:47 AM 200
+10/31/2020 1:17:53 PM 200
+11/1/2020 1:53:11 PM 200

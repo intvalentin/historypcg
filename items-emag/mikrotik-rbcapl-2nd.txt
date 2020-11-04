@@ -6,3 +6,4 @@ https://www.emag.ro/access-point-fara-fir-mikrotik-cap-lite-rbcapl-2nd-ceiling-6
 Access Point fara fir MikroTik cAP lite RBcAPL-2nD, ceiling, 64MB RAM, 1xLAN 10/100, 802.3af/at, RouterOS
     Pret    
 10/10/2020 4:56:24 PM 152
+11/3/2020 3:48:22 PM 152
